@@ -6,7 +6,7 @@
 
 *Others · value · ordered categorical · core axis*
 
-Any law may one day clash with conscience: an iniquitous decree, an order one cannot follow without betraying oneself. To obey nonetheless is to protect what makes common life possible; to disobey is to affirm that above the laws there is something else, at the risk that each person will follow only their own judgment. From Antigone to the great disobediences of history, the question returns with each generation. To take a position is to say what we owe the law when it commands what conscience refuses.
+Any law may one day clash with conscience: an iniquitous decree, an order one cannot follow without betraying oneself. To obey nonetheless is to protect what makes common life possible; to disobey is to affirm that [above the laws there is something else](../axes/rights-nature.md), at the risk that each person will follow only their own judgment. From Antigone to the great disobediences of history, the question returns with each generation. To take a position is to say what we owe the law when it commands what conscience refuses.
 
 ## Poles
 
@@ -21,7 +21,7 @@ The law binds even when it displeases: it is everyone's obedience that makes com
 
 ### Civil disobedience
 
-When a law commands the unacceptable, conscience has the right, sometimes the duty, to disobey: openly, without violence, accepting the penalty. This disobedience in broad daylight is not a betrayal of the law but an appeal addressed to it: it aims to awaken the community's sense of justice, not to escape the common rule.
+When a law commands the unacceptable, conscience has the right, sometimes the duty, to disobey: [openly, without violence](../axes/violence.md), accepting the penalty. This disobedience in broad daylight is not a betrayal of the law but an appeal addressed to it: it aims to awaken the community's sense of justice, not to escape the common rule.
 
 - Rawls gives it its theory: in a nearly just society, a public and nonviolent breach whose legal consequences one accepts, addressed to the majority's sense of justice and reserved for grave injustice.
 - King: to break an unjust law while accepting prison is to show the highest respect for law.

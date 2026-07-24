@@ -85,6 +85,10 @@
 - « Si les noms ne sont pas corrects, le langage n'est pas conforme à la vérité des choses ; alors les affaires ne peuvent réussir. » — Entretiens, XIII, 3
 - « Un homme sans humanité, qu'a-t-il à faire des rites ? Un homme sans humanité, qu'a-t-il à faire de la musique ? » — Entretiens, III, 3
 
+### [Dennett](../philosophers/dennett.md)
+
+- « La conscience humaine est à peu près le dernier mystère qui subsiste. » — La conscience expliquée (1991), chap. 1, première phrase
+
 ### [Descartes](../philosophers/descartes.md)
 
 - « Au lieu de cette philosophie spéculative qu'on enseigne dans les écoles, on en peut trouver une pratique […] et ainsi nous rendre comme maîtres et possesseurs de la nature. » — Discours de la méthode, VI
@@ -304,6 +308,10 @@
 - « L'enseignement du Dharma par les bouddhas repose sur deux vérités : la vérité d'enveloppement mondain et la vérité au sens ultime. Sans s'appuyer sur le conventionnel, l'ultime n'est pas enseigné ; sans atteindre l'ultime, le nirvāṇa n'est pas obtenu. » — Mūlamadhyamakakārikā, XXIV, 8-10
 - « Que la nature propre puisse être produite par des causes et des conditions, cela n'a pas de sens : produite par des causes et des conditions, la nature propre serait fabriquée. » — Mūlamadhyamakakārikā, XV, 1-2
 
+### [Nagel](../philosophers/nagel.md)
+
+- « Je veux savoir ce que cela fait, pour une chauve-souris, d'être une chauve-souris. » — « Quel effet cela fait-il d'être une chauve-souris ? », The Philosophical Review, vol. 83, n° 4 (1974), p. 439
+
 ### [Nietzsche](../philosophers/nietzsche.md)
 
 - « Ce n'est qu'en tant que phénomène esthétique que l'existence et le monde apparaissent comme justifiés à jamais. » — La Naissance de la tragédie, §5
@@ -445,6 +453,10 @@
 - « La vérité est l'adéquation de la chose et de l'intellect. » — Questions disputées sur la vérité, q. 1, a. 1
 - « Pour qu'une guerre soit juste, trois conditions sont requises : l'autorité du prince, une cause juste, une intention droite. » — Somme théologique, II-II, q. 40, a. 1
 - « Tout ce qui est mû est mû par un autre ; il faut donc en venir à un premier moteur qui ne soit mû par rien, et c'est lui que tous appellent Dieu. » — Somme théologique, Ia, q. 2, a. 3 (la première voie)
+
+### [Turing](../philosophers/turing.md)
+
+- « La question initiale, « les machines peuvent-elles penser ? », me paraît trop dénuée de sens pour mériter qu'on en discute. » — « Computing Machinery and Intelligence », Mind (1950)
 
 ### [Wittgenstein](../philosophers/wittgenstein.md)
 

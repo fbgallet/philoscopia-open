@@ -30,6 +30,7 @@
 - [Le voile d'ignorance](veil-of-ignorance.md) (Rawls)
 - [Pardonner au nom des morts ?](wiesenthal-sunflower.md) (Simon Wiesenthal)
 - [Punir un innocent pour sauver la paix ?](scapegoat-punishment.md) (H. J. McCloskey)
+- [Quel effet cela fait-il d'être une chauve-souris ?](what-is-it-like-to-be-a-bat.md) (Thomas Nagel)
 - [Sauver un proche plutôt qu'un inconnu](williams-rescue.md) (Bernard Williams)
 - [Wilt Chamberlain, la liberté contre l'égalité](wilt-chamberlain.md) (Nozick)
 

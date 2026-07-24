@@ -18,7 +18,7 @@ Society and political power draw their legitimacy from a pact, real or hypotheti
 
 ### Organic community
 
-Human beings are social by nature: the community precedes the individual, who exists and understands themselves only within it. The social bond is not a contract but a living inheritance, woven from customs, institutions, and transmitted traditions.
+Human beings are social by nature: [the community precedes the individual](../axes/individual-society.md), who exists and understands themselves only within it. The social bond is not a contract but a living inheritance, woven from customs, institutions, and transmitted traditions.
 
 *[Aristotle](../philosophers/aristotle.md) · [Burke](../philosophers/burke.md)*
 

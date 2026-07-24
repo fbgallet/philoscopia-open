@@ -6,7 +6,7 @@
 
 *Others · value · bipolar*
 
-Aiming at the ideal city can inspire and uplift, but also justify every sacrifice in the name of a future that never comes; taking people as they are averts catastrophe, but can resign itself to injustice in the name of "realism." To take a position is to say whether politics should pursue the best or ward off the worst.
+Aiming at the ideal city can inspire and uplift, but also justify every sacrifice in the name of a future that never comes; [taking people as they are](../axes/human-vision.md) averts catastrophe, but can resign itself to injustice in the name of "realism." To take a position is to say whether politics should pursue the best or ward off the worst.
 
 ## Poles
 

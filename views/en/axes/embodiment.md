@@ -12,7 +12,7 @@ To treat the body as an instrument is to be able to stand back from it, repair i
 
 ### The body as instrument
 
-The true self is the mind, the soul or thought; the body is a vehicle, sometimes a prison, that I use and can regard as an object distinct from me. I "have" a body more than I am one.
+[The true self is the mind, the soul or thought](../axes/consciousness-nature.md); the body is a vehicle, sometimes a prison, that I use and can regard as an object distinct from me. I "have" a body more than I am one.
 
 - Descartes nonetheless insisted, in his later writings, on a genuine union of soul and body, beyond the mere pilot in a ship.
 
@@ -20,7 +20,7 @@ The true self is the mind, the soul or thought; the body is a vehicle, sometimes
 
 ### The lived body
 
-I am not a mind housed in a machine: I am this living body that perceives, acts and inhabits the world. Thought itself arises from this carnal anchoring and from our condition as an animal organism shaped by evolution.
+I am not a mind housed in a machine: I am this living body that perceives, acts and inhabits the world. Thought itself arises from this carnal anchoring and from [our condition as an animal organism shaped by evolution](../axes/human-nature.md).
 
 - Varela belongs above all to enaction, the coupling of organism and world, more than to the strict "I am my body" thesis.
 

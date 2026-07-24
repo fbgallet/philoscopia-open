@@ -12,7 +12,7 @@ Tenir le corps pour un instrument, c'est pouvoir s'en distancier, le réparer, l
 
 ### Corps-instrument
 
-Le moi véritable est l'esprit, l'âme ou la pensée ; le corps est un véhicule, parfois une prison, que j'utilise et que je peux considérer comme un objet distinct de moi. Je « possède » un corps plus que je ne le suis.
+[Le moi véritable est l'esprit, l'âme ou la pensée](../axes/consciousness-nature.md) ; le corps est un véhicule, parfois une prison, que j'utilise et que je peux considérer comme un objet distinct de moi. Je « possède » un corps plus que je ne le suis.
 
 - Descartes a pourtant insisté, dans ses derniers écrits, sur une véritable union de l'âme et du corps, au-delà du simple pilote dans son navire.
 
@@ -20,7 +20,7 @@ Le moi véritable est l'esprit, l'âme ou la pensée ; le corps est un véhicule
 
 ### Corps-sujet
 
-Je ne suis pas un esprit logé dans une machine : je suis ce corps vivant qui perçoit, agit et habite le monde. La pensée elle-même naît de cet ancrage charnel et de notre condition d'organisme animal façonné par l'évolution.
+Je ne suis pas un esprit logé dans une machine : je suis ce corps vivant qui perçoit, agit et habite le monde. La pensée elle-même naît de cet ancrage charnel et de [notre condition d'organisme animal façonné par l'évolution](../axes/human-nature.md).
 
 - Varela relève surtout de l'énaction, le couplage de l'organisme et de son monde, plus que de la thèse « je suis mon corps » au sens strict.
 

@@ -6,7 +6,7 @@
 
 *The world · descriptive (theory) · bipolar with median*
 
-If thinking is only a matter of organization, a machine could genuinely think, and we might owe it something. If running a program is not enough, our machines merely imitate, though an artifact of another kind might one day succeed. And if thought is inseparable from life, the most brilliant machine will remain a thing. To take a position is to say what makes a mind.
+If thinking is only a matter of organization, a machine could genuinely think, and [we might owe it something](../axes/moral-circle.md). If running a program is not enough, our machines merely imitate, though an artifact of another kind might one day succeed. And if thought is inseparable from life, the most brilliant machine will remain a thing. To take a position is to say what makes a mind.
 
 ## Poles
 
@@ -14,17 +14,17 @@ If thinking is only a matter of organization, a machine could genuinely think, a
 
 To think is to process information in a certain way, whatever the substrate that carries out this processing. If a machine performs the same functions as a brain, there is no ground for denying that it thinks.
 
-*[Turing](../philosophers/turing.md) · Dennett*
+*[Turing](../philosophers/turing.md) · [Dennett](../philosophers/dennett.md)*
 
 ### Only the living think
 
-Thought is not an abstract organization but the activity of a living being: feeling, wanting, understanding are born with life and its concern to endure. A machine, however brilliant, remains a fabricated thing: it computes, but nothing matters to it.
+Thought is not an abstract organization but the activity of a living being: feeling, wanting, understanding are born with life and [its concern to endure](../glossary/conatus.md). A machine, however brilliant, remains a fabricated thing: it computes, but nothing matters to it.
 
 *[Jonas](../philosophers/jonas.md)*
 
 ### Not by program alone (median position)
 
-Running a program will never be thinking: simulating understanding is not understanding. But nothing rules out that an artifact might think one day, if it reproduces what matters: the causal powers of the living brain, or a body's engagement with a world.
+Running a program will never be thinking: simulating understanding is not understanding. But nothing rules out that an artifact might think one day, if it reproduces what matters: [the causal powers of the living brain](../axes/consciousness-nature.md), or a body's engagement with a world.
 
 ## Live problems
 
@@ -38,6 +38,10 @@ Running a program will never be thinking: simulating understanding is not unders
 ## Grounding relations
 
 - *[Being or having a body](../axes/embodiment.md) : The lived body* grounds *[Can a machine think](../axes/machine-mind.md) : Only the living think* : If thinking is first of all being a living organism coupled to its environment, then manipulating symbols is not enough to understand: a program with neither body nor life does not truly think. The lived-body thesis supports the idea that only the living think: for [Jonas](../philosophers/jonas.md), mind is rooted in the organism's life and its concern to endure.
+
+## Quotations
+
+> “The original question, "Can machines think?", I believe to be too meaningless to deserve discussion.” — [Turing](../philosophers/turing.md), "Computing Machinery and Intelligence", Mind (1950)
 
 ## Related axes
 

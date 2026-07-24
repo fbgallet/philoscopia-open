@@ -29,13 +29,13 @@ Il n'y a de droits que ceux qu'une autorité établit effectivement. Parler de d
 
 ### Droits et utilité
 
-Les droits ne sont ni inscrits dans la nature ni de purs décrets : ce sont des protections solides que l'on reconnaît parce que les garantir sert le bien-être de tous. Leur force vient de leur utilité durable, non d'une origine surnaturelle.
+Les droits ne sont ni inscrits dans la nature ni de purs décrets : ce sont des protections solides que l'on reconnaît parce que [les garantir sert le bien-être de tous](../axes/ethics-foundation.md). Leur force vient de leur utilité durable, non d'une origine surnaturelle.
 
 *[Mill](../philosophers/mill.md)*
 
 ### Constructivisme politique
 
-Les droits ne sont ni naturels, ni de purs décrets, ni de simples calculs d'utilité : ce sont les termes d'une coopération équitable, construits par la délibération entre personnes libres et égales, et servant de critères de légitimité politique.
+Les droits ne sont ni naturels, ni de purs décrets, ni de simples calculs d'utilité : ce sont [les termes d'une coopération équitable](../axes/social-contract.md), construits par la délibération entre personnes libres et égales, et servant de critères de légitimité politique.
 
 *[Rawls](../philosophers/rawls.md) · [Habermas](../philosophers/habermas.md)*
 

@@ -6,7 +6,7 @@
 
 *Le monde · descriptif (théorie) · bipolaire à médiane · axe nodal*
 
-De la réponse dépendent l'origine du monde, l'existence d'une justice au-delà des tribunaux humains, le fondement de nos valeurs et ce qui nous attend après la mort. Peu de questions engagent à ce point la forme entière qu'on donne à sa vie, et aucune n'admet de preuve qui clôt le débat.
+De la réponse dépendent l'origine du monde, l'existence d'une justice au-delà des tribunaux humains, [le fondement de nos valeurs](../axes/moral-source.md) et [ce qui nous attend après la mort](../axes/afterlife.md). Peu de questions engagent à ce point la forme entière qu'on donne à sa vie, et aucune n'admet de preuve qui clôt le débat.
 
 ## Pôles
 
@@ -18,7 +18,7 @@ Il existe un Dieu, créateur ou fondement du monde, personnel ou non, dont la r�
 
 ### Athéisme
 
-Dieu n'existe pas : aucune réalité divine, personnelle ou impersonnelle, ne fonde le monde, et l'idée de Dieu s'explique par des causes humaines, psychologiques ou sociales. Le sens de la vie est à construire sans recours au divin.
+Dieu n'existe pas : aucune réalité divine, personnelle ou impersonnelle, ne fonde le monde, et l'idée de Dieu s'explique par des causes humaines, psychologiques ou sociales. [Le sens de la vie est à construire sans recours au divin](../axes/life-meaning.md).
 
 *[Feuerbach](../philosophers/feuerbach.md) · [Nietzsche](../philosophers/nietzsche.md) · [Russell](../philosophers/russell.md)*
 

@@ -6,7 +6,7 @@
 
 *Others · value · ordered categorical*
 
-Praising a child, resenting a friend, taking pride in a success, blaming ourselves for a fault: we spend our days assigning blame and credit. Yet what each of us is, talents as much as leanings, was largely made without us, and one can admire a skill while knowing its acquisition owed nothing to the will. Whether our acts are determined is a neighbouring question, with its own axis; what is decided here is an attitude: to take merit and fault seriously, to keep them as tools, or to let go of them. To take a position is to say what we owe one another in praise, reproach, and forgiveness, and what would become of our bonds if we stopped keeping accounts.
+Praising a child, resenting a friend, taking pride in a success, blaming ourselves for a fault: we spend our days assigning blame and credit. Yet what each of us is, talents as much as leanings, was largely made without us, and one can admire a skill while knowing its acquisition owed nothing to the will. Whether our acts are determined is [a neighbouring question, with its own axis](../axes/freedom.md); what is decided here is an attitude: to take merit and fault seriously, to keep them as tools, or to let go of them. To take a position is to say what we owe one another in praise, reproach, and [forgiveness](../axes/forgiveness.md), and what would become of our bonds if we stopped keeping accounts.
 
 ## Poles
 
@@ -20,7 +20,7 @@ Blame and merit should be assigned, for they are real: when an act is voluntary,
 
 ### Correct, not retaliate
 
-We should keep responding to acts, blaming, sanctioning, praising, not because it is deserved at bottom, but because it works: understanding does not rule out acting. We give up resentment, not response; the question is no longer "is it deserved?" but "what will make things better?".
+We should keep responding to acts, blaming, sanctioning, praising, not because it is deserved at bottom, but because it works: understanding does not rule out acting. We give up resentment, not response; the question is no longer "is it deserved?" but "[what will make things better?](../axes/ethics-foundation.md)".
 
 - Contemporary versions: sanction as quarantine (Pereboom, protecting without desert) or as the shaping of conduct (Schlick). Spinoza gives the classic form: understanding causes dissolves resentment, not the firmness of the city.
 

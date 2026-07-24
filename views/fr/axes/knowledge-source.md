@@ -12,7 +12,7 @@ Tout vient-il des sens, qui pourtant nous trompent parfois, ou l'esprit possède
 
 ### Empirisme
 
-Toute connaissance dérive de l'expérience sensible : l'esprit est d'abord une page blanche que les sens viennent remplir. Même nos idées les plus abstraites se ramènent, en dernière analyse, à des impressions reçues.
+Toute connaissance dérive de l'expérience sensible : [l'esprit est d'abord une page blanche](../glossary/tabula-rasa.md) que les sens viennent remplir. Même nos idées les plus abstraites se ramènent, en dernière analyse, à des impressions reçues.
 
 *[Locke](../philosophers/locke.md) · [Hume](../philosophers/hume.md)*
 

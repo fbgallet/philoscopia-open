@@ -6,7 +6,7 @@
 
 *La vérité · descriptif (théorie) · triangulaire*
 
-La science inspire confiance, mais comment justifie-t-elle au juste ses affirmations : en les prouvant par l'expérience, en les exposant à la réfutation, ou en calculant leur probabilité ? Ce qu'on attend d'une preuve scientifique, et ce qui sépare la science de la simple croyance, en dépend.
+La science inspire confiance, mais comment justifie-t-elle au juste ses affirmations : en les prouvant par l'expérience, en les exposant à la réfutation, ou en calculant leur probabilité ? Ce qu'on attend d'une preuve scientifique, et [ce qui sépare la science de la simple croyance](../axes/science-place.md), en dépend.
 
 ## Pôles
 

@@ -38,8 +38,8 @@
         "en": "Social construction"
       },
       "description": {
-        "fr": "Ces catégories ne sont pas des donnés de nature mais des produits contingents de l'histoire, de la culture et des rapports de pouvoir, institués par des normes et des discours qui les font passer pour naturels. Ce qui a été construit peut être déconstruit : on ne naît pas femme, on le devient.",
-        "en": "These categories are not natural givens but contingent products of history, culture and power relations, instituted by norms and discourses that make them pass for natural. What has been constructed can be deconstructed: one is not born, but rather becomes, a woman."
+        "fr": "Ces catégories ne sont pas des donnés de nature mais des produits contingents de l'histoire, de la culture et des rapports de pouvoir, institués par des normes et des discours qui les font passer pour naturels. Ce qui a été construit peut être déconstruit : <ax id='ESSENCE' pole='EXISTENTIALISM'>on ne naît pas femme, on le devient</ax>.",
+        "en": "These categories are not natural givens but contingent products of history, culture and power relations, instituted by norms and discourses that make them pass for natural. What has been constructed can be deconstructed: <ax id='ESSENCE' pole='EXISTENTIALISM'>one is not born, but rather becomes, a woman</ax>."
       },
       "figures": [
         {

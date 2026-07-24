@@ -11,8 +11,8 @@
     "en": "Can a whole be fully explained by its parts, or does it have irreducible properties?"
   },
   "stakes": {
-    "fr": "Comprendre, est-ce toujours décomposer en éléments plus simples, ou certaines réalités, le vivant, l'esprit, ont-elles des propriétés qui disparaissent dès qu'on les démonte ? Si tout se ramène aux parties, la physique pourra un jour tout expliquer ; sinon, biologie et psychologie étudient quelque chose de réel que les sciences du plus petit manquent. Se positionner, c'est dire jusqu'où va le pouvoir d'expliquer par le bas.",
-    "en": "Is understanding always a matter of breaking things into simpler elements, or do some realities, life, mind, have properties that vanish the moment we take them apart? If everything reduces to its parts, physics may one day explain it all; if wholes are irreducible, biology and psychology study something real that the sciences of the small miss. To take a position is to say how far explanation from below can reach."
+    "fr": "Comprendre, est-ce toujours décomposer en éléments plus simples, ou certaines réalités, le vivant, <ax id='CONSCIOUSNESS_NATURE'>l'esprit</ax>, ont-elles des propriétés qui disparaissent dès qu'on les démonte ? Si tout se ramène aux parties, la physique pourra un jour tout expliquer ; sinon, biologie et psychologie étudient quelque chose de réel que les sciences du plus petit manquent. Se positionner, c'est dire jusqu'où va le pouvoir d'expliquer par le bas.",
+    "en": "Is understanding always a matter of breaking things into simpler elements, or do some realities, life, <ax id='CONSCIOUSNESS_NATURE'>mind</ax>, have properties that vanish the moment we take them apart? If everything reduces to its parts, physics may one day explain it all; if wholes are irreducible, biology and psychology study something real that the sciences of the small miss. To take a position is to say how far explanation from below can reach."
   },
   "layer": "THEORY",
   "type": "BIPOLAR",
@@ -76,6 +76,7 @@
     "CAUSALITY",
     "MACHINE_MIND",
     "REALITY_NATURE",
-    "GOD_EXISTENCE"
+    "GOD_EXISTENCE",
+    "CONSCIOUSNESS_NATURE"
   ]
 }

@@ -26,7 +26,7 @@ Violence is an evil, but sometimes a necessary one, to prevent a greater evil: d
 
 ### Force as an instrument of politics
 
-Politics cannot be moralized: every order rests, in the last resort, on coercion, and the state is defined by its monopoly on legitimate violence. The question is not whether force is good, but whether it is used aptly: whoever governs must know how to wield it, sparingly and lucidly, or surrender the city to chaos or to someone more violent.
+Politics cannot be moralized: every order rests, in the last resort, on coercion, and the state is defined by [its monopoly on legitimate violence](../axes/authority.md). The question is not whether force is good, but whether it is used aptly: whoever governs must know how to wield it, sparingly and lucidly, or surrender the city to chaos or to someone more violent.
 
 - Machiavelli owns the stance as a moralist of politics; Clausewitz and Weber first state it as a finding (war continues politics, the state monopolizes legitimate violence), which this pole takes up as a position: to govern is to accept the use of coercion.
 
@@ -34,7 +34,7 @@ Politics cannot be moralized: every order rests, in the last resort, on coercion
 
 ### Emancipatory violence
 
-Where domination is itself an entrenched violence, exploitation, colonization, an iniquitous order upheld by force, the violence of the oppressed is not an evil but a reply: the means of breaking a system that will never yield of its own accord, and, for the oppressed, a way of reclaiming their denied humanity.
+Where [domination is itself an entrenched violence](../axes/political-liberty.md), exploitation, colonization, an iniquitous order upheld by force, the violence of the oppressed is not an evil but a reply: the means of breaking a system that will never yield of its own accord, and, for the oppressed, a way of reclaiming their denied humanity.
 
 - Two distinct versions: in Fanon, anticolonial counter-violence, a reply to total domination; in Sorel, proletarian violence as the mobilizing myth of the general strike, closer to an ethic of action than to strategic calculation.
 

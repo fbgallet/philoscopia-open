@@ -12,13 +12,13 @@ Correcting gaps in wealth can trample each person's freedom and merit; leaving t
 
 ### Egalitarianism
 
-A just society corrects inequalities that do not result from people's own choices: birth, talents, circumstances. Redistribution is not an assault on freedom but the condition for fair cooperation among citizens.
+A just society corrects [inequalities that do not result from people's own choices](../axes/moral-responsibility.md): birth, talents, circumstances. Redistribution is not an assault on freedom but the condition for fair cooperation among citizens.
 
 *[Rawls](../philosophers/rawls.md) · [Marx](../philosophers/marx.md)*
 
 ### Libertarianism
 
-Each person owns themselves and the fruits of their labor. A distribution is just whenever it results from free exchanges and legitimate acquisitions: coercive redistribution amounts to violating individual rights.
+Each person owns themselves and the fruits of their labor. A distribution is just whenever it results from free exchanges and legitimate acquisitions: coercive redistribution amounts to [violating individual rights](../axes/rights-nature.md).
 
 *[Nozick](../philosophers/nozick.md) · [Locke](../philosophers/locke.md)*
 

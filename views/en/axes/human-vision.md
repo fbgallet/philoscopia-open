@@ -6,7 +6,7 @@
 
 *The world · descriptive (theory) · bipolar with median · core axis*
 
-To believe humans good is to be able to trust them, loosen the rules, bet on freedom; to believe them prone to evil is to deem laws, controls, and safeguards necessary to hold common life together. To take a position is to say how far to trust others, and how many constraints a society needs.
+To believe humans good is to be able to trust them, loosen the rules, bet on freedom; to believe them prone to evil is to deem laws, controls, and safeguards necessary to hold common life together. To take a position is to say how far to trust others, and [how many constraints a society needs](../axes/authority.md).
 
 ## Poles
 

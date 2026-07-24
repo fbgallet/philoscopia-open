@@ -6,7 +6,7 @@
 
 *Le soi · valeur · triangulaire · axe nodal*
 
-Vivre pour l'instant savoure la vie mais peut perdre le cap ; vivre pour l'avenir construit et prépare, mais sacrifie parfois aujourd'hui à un demain qui ne vient pas ; vivre depuis le passé honore ses racines, mais peut y enfermer. Se positionner, c'est dire où poser le poids d'une vie.
+Vivre pour l'instant savoure la vie mais peut perdre le cap ; vivre pour l'avenir construit et prépare, mais sacrifie parfois aujourd'hui à un demain qui ne vient pas ; [vivre depuis le passé honore ses racines](../axes/past-relation.md), mais peut y enfermer. Se positionner, c'est dire où poser le poids d'une vie.
 
 ## Pôles
 
@@ -18,13 +18,13 @@ Seul le présent nous appartient : carpe diem, cueille le jour. Plutôt que de s
 
 ### Projet
 
-Exister, c'est se projeter : l'être humain se définit par ce qu'il entreprend et par l'avenir qu'il se donne. La vie tire son sens de ce mouvement vers ce qui n'est pas encore, et se réduire au présent serait renoncer à soi.
+[Exister, c'est se projeter](../axes/essence.md) : l'être humain se définit par ce qu'il entreprend et par l'avenir qu'il se donne. La vie tire son sens de ce mouvement vers ce qui n'est pas encore, et se réduire au présent serait renoncer à soi.
 
 *[Sartre](../philosophers/sartre.md)*
 
 ### Mémoire-transmission
 
-Nous sommes des héritiers : ce que nous avons reçu du passé nous constitue et appelle à être transmis. Cultiver la mémoire, honorer ses dettes et léguer quelque chose aux générations futures donnent à la vie sa profondeur.
+Nous sommes des héritiers : ce que nous avons reçu du passé nous constitue et appelle à être transmis. Cultiver la mémoire, honorer ses dettes et [léguer quelque chose aux générations futures](../axes/future-generations.md) donnent à la vie sa profondeur.
 
 *[Burke](../philosophers/burke.md) · [Confucius](../philosophers/confucius.md)*
 

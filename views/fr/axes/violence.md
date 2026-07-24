@@ -26,7 +26,7 @@ La violence est un mal, mais un mal parfois nécessaire pour empêcher un mal pl
 
 ### La force, instrument du politique
 
-Le politique ne se moralise pas : tout ordre repose en dernier ressort sur la contrainte, et l'État se définit par le monopole de la violence légitime. La question n'est pas de savoir si la force est bonne, mais si elle est employée à propos : qui gouverne doit savoir en user, avec économie et lucidité, sous peine de livrer la cité au chaos ou à plus violent que soi.
+Le politique ne se moralise pas : tout ordre repose en dernier ressort sur la contrainte, et l'État se définit par [le monopole de la violence légitime](../axes/authority.md). La question n'est pas de savoir si la force est bonne, mais si elle est employée à propos : qui gouverne doit savoir en user, avec économie et lucidité, sous peine de livrer la cité au chaos ou à plus violent que soi.
 
 - Machiavel assume la position en moraliste du politique ; Clausewitz et Weber la formulent d'abord comme un constat (la guerre continue la politique, l'État monopolise la violence légitime), que ce pôle assume comme position : gouverner, c'est accepter d'user de la contrainte.
 
@@ -34,7 +34,7 @@ Le politique ne se moralise pas : tout ordre repose en dernier ressort sur la co
 
 ### Violence émancipatrice
 
-Là où la domination est elle-même une violence installée, exploitation, colonisation, ordre inique maintenu par la force, la violence des opprimés n'est pas un mal mais une réplique : le moyen de briser un système qui ne cédera jamais de lui-même, et, pour l'opprimé, une manière de reconquérir son humanité niée.
+Là où [la domination est elle-même une violence installée](../axes/political-liberty.md), exploitation, colonisation, ordre inique maintenu par la force, la violence des opprimés n'est pas un mal mais une réplique : le moyen de briser un système qui ne cédera jamais de lui-même, et, pour l'opprimé, une manière de reconquérir son humanité niée.
 
 - Deux versions distinctes : chez Fanon, la contre-violence anticoloniale, réplique à une domination totale ; chez Sorel, la violence prolétarienne comme mythe mobilisateur de la grève générale, plus proche d'une éthique de l'action que d'un calcul stratégique.
 

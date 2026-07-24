@@ -6,19 +6,19 @@
 
 *Le soi · descriptif (théorie) · bipolaire · axe nodal*
 
-Si une nature nous précède, il y a une manière de nous accomplir ou de nous trahir, mais notre liberté a des bornes ; si nous nous inventons, tout devient possible, mais rien ne nous guide ni ne nous excuse. Se positionner, c'est dire ce que nous devons à ce qui nous est donné, et ce dont nous sommes seuls responsables.
+Si [une nature nous précède](../axes/human-nature.md), il y a une manière de nous accomplir ou de nous trahir, mais notre liberté a des bornes ; si nous nous inventons, tout devient possible, mais rien ne nous guide ni ne nous excuse. Se positionner, c'est dire ce que nous devons à ce qui nous est donné, et ce dont nous sommes seuls responsables.
 
 ## Pôles
 
 ### Essentialisme
 
-Chaque être a une essence qui précède et définit son existence : il y a une nature humaine, avec ses fins propres. Bien vivre, c'est accomplir ce que cette nature appelle, comme la graine accomplit la plante.
+Chaque être a une essence qui précède et définit son existence : il y a une nature humaine, [avec ses fins propres](../axes/causality.md). Bien vivre, c'est accomplir ce que cette nature appelle, comme la graine accomplit la plante.
 
 *[Platon](../philosophers/plato.md) · [Aristote](../philosophers/aristotle.md)*
 
 ### Existentialisme
 
-L'existence précède l'essence : l'être humain n'est d'abord rien de défini, il se fait par ses choix et ses actes. Aucune nature ne nous assigne un destin, et invoquer une essence pour justifier ce que l'on est relève de la mauvaise foi.
+L'existence précède l'essence : l'être humain n'est d'abord rien de défini, il se fait par ses choix et ses actes. Aucune nature ne nous assigne un destin, et invoquer une essence pour justifier ce que l'on est [relève de la mauvaise foi](../glossary/bad-faith.md).
 
 *[Sartre](../philosophers/sartre.md) · [Beauvoir](../philosophers/beauvoir.md)*
 

@@ -6,7 +6,7 @@
 
 *Truth · descriptive (theory) · triangular*
 
-Science commands trust, but how exactly does it justify its claims: by proving them through experience, by exposing them to refutation, or by computing their probability? What we expect of scientific proof, and what separates science from mere belief, depends on it.
+Science commands trust, but how exactly does it justify its claims: by proving them through experience, by exposing them to refutation, or by computing their probability? What we expect of scientific proof, and [what separates science from mere belief](../axes/science-place.md), depends on it.
 
 ## Poles
 

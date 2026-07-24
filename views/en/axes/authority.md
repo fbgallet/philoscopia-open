@@ -6,13 +6,13 @@
 
 *Others · value · bipolar with median*
 
-It all turns on what we expect of human beings left to themselves: able to order their own affairs, or bound for disorder without a power to settle disputes. To take a position is to set how far the duty to obey extends, and where the right to refuse begins.
+It all turns on [what we expect of human beings left to themselves](../axes/human-vision.md): able to order their own affairs, or bound for disorder without a power to settle disputes. To take a position is to set how far the duty to obey extends, and where the right to refuse begins.
 
 ## Poles
 
 ### Authority
 
-Without a common authority able to decide and to coerce, social life collapses into conflict or chaos. The state, far from being mere domination, is the condition of peace, law, and even concrete freedom.
+Without a common authority able to decide and to coerce, social life collapses into conflict or chaos. The state, far from being mere domination, is the condition of peace, law, and even [concrete freedom](../axes/political-liberty.md).
 
 *[Hobbes](../philosophers/hobbes.md) · [Hegel](../philosophers/hegel.md)*
 

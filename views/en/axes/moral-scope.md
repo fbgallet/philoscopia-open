@@ -26,7 +26,7 @@ Moral norms vary across cultures, eras, and perspectives: none can claim absolut
 
 ### Constructivism
 
-Moral norms are neither discovered in the nature of things nor merely relative: they are constructed through fair rational procedures, such as deliberation behind a veil of ignorance or discussion among equals. Their validity rests on the legitimacy of the process that generates them.
+Moral norms are neither discovered in the nature of things nor merely relative: they are [constructed through fair rational procedures](../axes/rights-nature.md), such as deliberation behind a veil of ignorance or discussion among equals. Their validity rests on the legitimacy of the process that generates them.
 
 *[Rawls](../philosophers/rawls.md) · [Habermas](../philosophers/habermas.md)*
 

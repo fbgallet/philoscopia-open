@@ -6,7 +6,7 @@
 
 *The self · value · triangular · core axis*
 
-Living for the moment savours life but can lose its bearings; living for the future builds and prepares, but sometimes sacrifices today to a tomorrow that never comes; living from the past honours one's roots, but can imprison us in them. To take a position is to say where to place the weight of a life.
+Living for the moment savours life but can lose its bearings; living for the future builds and prepares, but sometimes sacrifices today to a tomorrow that never comes; [living from the past honours one's roots](../axes/past-relation.md), but can imprison us in them. To take a position is to say where to place the weight of a life.
 
 ## Poles
 
@@ -18,13 +18,13 @@ Only the present belongs to us: carpe diem, seize the day. Rather than losing ou
 
 ### Project
 
-To exist is to project oneself: human beings are defined by what they undertake and by the future they set for themselves. Life draws its meaning from this movement toward what is not yet, and confining oneself to the present would mean giving up on oneself.
+[To exist is to project oneself](../axes/essence.md): human beings are defined by what they undertake and by the future they set for themselves. Life draws its meaning from this movement toward what is not yet, and confining oneself to the present would mean giving up on oneself.
 
 *[Sartre](../philosophers/sartre.md)*
 
 ### Memory and transmission
 
-We are heirs: what we have received from the past constitutes us and calls to be passed on. Cultivating memory, honoring our debts and leaving something to future generations give life its depth.
+We are heirs: what we have received from the past constitutes us and calls to be passed on. Cultivating memory, honoring our debts and [leaving something to future generations](../axes/future-generations.md) give life its depth.
 
 *[Burke](../philosophers/burke.md) · [Confucius](../philosophers/confucius.md)*
 

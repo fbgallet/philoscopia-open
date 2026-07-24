@@ -74,8 +74,8 @@
         "en": "Primacy of the ethical"
       },
       "description": {
-        "fr": "Le beau est subordonné au bien et à l'utile : un agrément second, voire une séduction suspecte des apparences. La vie bonne se mesure à la droiture morale, pas au raffinement esthétique, et l'art doit servir cette fin sous peine de n'être qu'un luxe.",
-        "en": "Beauty is subordinate to the good and the useful: a secondary pleasure, even a suspect seduction of appearances. The good life is measured by moral uprightness, not aesthetic refinement, and art must serve that end or be a mere luxury."
+        "fr": "Le beau est subordonné au bien et à l'utile : un agrément second, voire une séduction suspecte des apparences. <ax id='SOVEREIGN_GOOD' pole='MORAL_PERFECTIONISM'>La vie bonne se mesure à la droiture morale</ax>, pas au raffinement esthétique, et l'art doit servir cette fin sous peine de n'être qu'un luxe.",
+        "en": "Beauty is subordinate to the good and the useful: a secondary pleasure, even a suspect seduction of appearances. <ax id='SOVEREIGN_GOOD' pole='MORAL_PERFECTIONISM'>The good life is measured by moral uprightness</ax>, not aesthetic refinement, and art must serve that end or be a mere luxury."
       },
       "figures": [
         {

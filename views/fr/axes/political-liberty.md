@@ -18,7 +18,7 @@
 
 ### Liberté positive
 
-Être libre, c'est se gouverner soi-même : être maître de ses désirs et, comme citoyen, prendre part aux lois auxquelles on obéit. La liberté n'est pas seulement qu'on me laisse faire, mais que je sois l'auteur de ma vie et de ma cité.
+Être libre, c'est se gouverner soi-même : être maître de ses désirs et, comme citoyen, [prendre part aux lois auxquelles on obéit](../axes/who-decides.md). La liberté n'est pas seulement qu'on me laisse faire, mais que je sois l'auteur de ma vie et de ma cité.
 
 - Rousseau est aussi revendiqué par la tradition républicaine de la non-domination.
 
@@ -32,7 +32,7 @@
 
 ### Liberté-capabilité
 
-Être libre, ce n'est pas seulement n'être pas entravé, c'est avoir les moyens réels d'agir : sans santé, instruction ni ressources, une liberté purement formelle reste lettre morte. La liberté se mesure aux capacités effectives d'être et de faire.
+Être libre, ce n'est pas seulement n'être pas entravé, c'est avoir les moyens réels d'agir : [sans santé, instruction ni ressources](../axes/distributive-justice.md), une liberté purement formelle reste lettre morte. La liberté se mesure aux capacités effectives d'être et de faire.
 
 *[Sen](../philosophers/sen.md) · [Nussbaum](../philosophers/nussbaum.md)*
 

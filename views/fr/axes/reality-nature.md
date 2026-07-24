@@ -6,7 +6,7 @@
 
 *Le monde · descriptif (théorie) · catégoriel*
 
-De quoi le monde est-il fait, au fond ? Dire que tout est matière, que tout est esprit, ou que le réel comporte deux ordres irréductibles, c'est fixer l'arrière-plan de tout le reste : ce que sont Dieu, la vie, la pensée, et ce qu'une connaissance du monde peut espérer atteindre. La question est la plus ancienne et la plus abstraite de la métaphysique, mais chaque vision du monde y répond, souvent sans le savoir.
+De quoi le monde est-il fait, au fond ? Dire que tout est matière, que tout est esprit, ou que le réel comporte deux ordres irréductibles, c'est fixer l'arrière-plan de tout le reste : [ce que sont Dieu, la vie, la pensée](../axes/consciousness-nature.md), et ce qu'une connaissance du monde peut espérer atteindre. La question est la plus ancienne et la plus abstraite de la métaphysique, mais chaque vision du monde y répond, souvent sans le savoir.
 
 ## Pôles
 
@@ -18,7 +18,7 @@ Tout ce qui existe est matériel, y compris la pensée, qui n'est qu'un produit 
 
 ### Idéalisme
 
-Le fond du réel n'est pas la matière, mais l'idée : des réalités intelligibles, que seule la pensée peut saisir, font que les choses sont ce qu'elles sont. Selon les versions, le monde sensible participe d'essences qui existent indépendamment de nos esprits, déploie une pensée qui s'y réalise, ou n'existe que pour un esprit qui le perçoit. La matière, loin d'être première, en dépend.
+Le fond du réel n'est pas la matière, mais l'idée : des réalités intelligibles, que seule la pensée peut saisir, font que les choses sont ce qu'elles sont. Selon les versions, le monde sensible participe [d'essences qui existent indépendamment de nos esprits](../axes/universals.md), déploie une pensée qui s'y réalise, ou n'existe que pour un esprit qui le perçoit. La matière, loin d'être première, en dépend.
 
 *[Platon](../philosophers/plato.md) · [Berkeley](../philosophers/berkeley.md) · [Hegel](../philosophers/hegel.md)*
 
@@ -37,8 +37,8 @@ Le réel comporte deux ordres irréductibles : la matière, étendue et mesurabl
 - *[Nature du réel](../axes/reality-nature.md) : Matérialisme* fonde *[Explication de la nature](../axes/causality.md) : Mécanisme* : Une réalité faite uniquement de matière n'agit que par contact et transfert de mouvement, sans fins ni forces vitales. Le matérialisme appelle ainsi une lecture mécaniste de la causalité, où tout effet s'explique par ses antécédents physiques.
 - *[Nature du réel](../axes/reality-nature.md) : Matérialisme* fonde *[Après la mort](../axes/afterlife.md) : Rien ne survit* : Si tout est matière, la conscience se défait avec le corps qui la porte : le matérialisme fonde l'anéantissement, comme chez [Lucrèce](../philosophers/lucretius.md), où l'âme faite d'atomes fins se disperse à la mort. Le lien n'est pas absolu : van Inwagen défend une résurrection matérialiste par re-création divine.
 - *[Nature du réel](../axes/reality-nature.md) : Matérialisme* fonde *[Cercle moral](../axes/moral-circle.md) : Pathocentrisme* : Si l'homme n'est pas une âme à part mais un animal parmi les animaux, aucune frontière métaphysique ne sépare radicalement ses intérêts de ceux des autres êtres sensibles. Le matérialisme soutient le pathocentrisme : ce qui compte moralement n'est pas la raison, mais la capacité de souffrir, partagée avec les bêtes. [Bentham](../philosophers/bentham.md) en tire que la vraie question est « peuvent-ils souffrir ? », argument que [Singer](../philosophers/singer.md) reprend contre le spécisme.
+- *[Nature du réel](../axes/reality-nature.md) : Matérialisme* fonde *[L'énigme de la conscience](../axes/consciousness-nature.md) : Physicalisme* : Si tout ce qui existe est matériel, la conscience ne peut être qu'une propriété du cerveau : les états mentaux sont des états physiques, que la science finira par identifier. Le matérialisme conduit ainsi au physicalisme réducteur, qui refuse à l'esprit toute réalité distincte de l'activité neuronale.
 - *[Nature du réel](../axes/reality-nature.md) : Matérialisme* fonde *[Tout et parties](../axes/reduction-emergence.md) : Réductionnisme* : Si seule la matière existe, les propriétés des touts doivent en principe s'expliquer par celles de leurs parties physiques. Le matérialisme encourage ainsi le réductionnisme, pour lequel le supérieur se ramène en droit à l'inférieur.
-- *[Nature du réel](../axes/reality-nature.md) : Matérialisme* fonde *[L'énigme de la conscience](../axes/consciousness-nature.md) : Physicalisme réducteur* : Si tout ce qui existe est matériel, la conscience ne peut être qu'une propriété du cerveau : les états mentaux sont des états physiques, que la science finira par identifier. Le matérialisme conduit ainsi au physicalisme réducteur, qui refuse à l'esprit toute réalité distincte de l'activité neuronale.
 
 ## Citations
 

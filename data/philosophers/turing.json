@@ -1,20 +1,78 @@
 {
   "kind": "PHILOSOPHER",
-  "stub": true,
   "id": "turing",
-  "name": { "fr": "Turing", "en": "Turing" },
+  "name": {
+    "fr": "Turing",
+    "en": "Turing"
+  },
   "aliases": {
-    "fr": ["Alan Turing"],
-    "en": ["Alan Turing"]
+    "fr": [
+      "Alan Turing"
+    ],
+    "en": [
+      "Alan Turing"
+    ]
   },
   "summary": {
     "fr": "Mathématicien et logicien britannique, l'un des fondateurs de l'informatique : pour dépasser la question « une machine peut-elle penser ? », jugée trop vague, il propose une épreuve, le jeu de l'imitation, où compte non la nature de la machine mais sa capacité à se faire prendre pour un esprit.",
     "en": "British mathematician and logician, one of the founders of computer science: to get past the question \"can a machine think?\", which he judged too vague, he proposes a test, the imitation game, where what counts is not the machine's nature but its ability to pass for a mind."
   },
-  "nationality": { "fr": "Britannique", "en": "British" },
+  "nationality": {
+    "fr": "Britannique",
+    "en": "British"
+  },
   "birth": 1912,
   "death": 1954,
-  "movements": ["analytic-philosophy"],
-  "updatedAt": "2026-07-13T00:00:00.000Z",
-  "validation": { "method": "NOT_VALIDATED" }
+  "movements": [
+    "analytic-philosophy"
+  ],
+  "identity": {
+    "wikidata": "Q7251",
+    "wikipedia": {
+      "fr": "https://fr.wikipedia.org/wiki/Alan_Turing",
+      "en": "https://en.wikipedia.org/wiki/Alan_Turing"
+    }
+  },
+  "updatedAt": "2026-07-25T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  },
+  "fullName": {
+    "fr": "Alan Turing",
+    "en": "Alan Turing"
+  },
+  "tagline": {
+    "fr": "Il juge la question « une machine peut-elle penser ? » trop mal posée pour être discutée et la remplace par une épreuve : si la conversation ne permet plus de distinguer la machine de l'humain, lui refuser le mot n'est plus qu'un préjugé.",
+    "en": "He judges the question \"can a machine think?\" too ill-posed to be discussed and replaces it with a test: if conversation no longer allows the machine to be told from the human, refusing it the word is nothing but a prejudice."
+  },
+  "entries": [
+    {
+      "axisId": "MACHINE_MIND",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -1
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Turing juge la question « une machine peut-elle penser ? » trop dépendante de l'usage des mots pour être tranchée, et la remplace par une épreuve, le <te id='turing-test'>jeu de l'imitation</te> : un interrogateur dialogue à l'aveugle avec un humain et une machine ; s'il ne parvient plus à les distinguer, il n'y a plus de raison de refuser à l'une ce qu'on accorde à l'autre. <obj>À l'objection qu'il manquerait toujours à la machine la <c>conscience</c> de ce qu'elle dit</obj>, <arg>il répond que la pousser mène au <c>solipsisme</c> : je ne sais qu'autrui pense que par son comportement, et refuser cette même preuve aux seules machines est arbitraire.</arg> Le support importe donc peu, une <c>machine universelle</c> pouvant simuler n'importe quelle machine à états discrets.",
+          "en": "Turing judges the question \"can a machine think?\" too dependent on the use of words to be settled, and replaces it with a test, the <te id='turing-test'>imitation game</te>: an interrogator converses blind with a human and a machine; if they can no longer tell them apart, there is no longer a reason to refuse to one what is granted to the other. <obj>To the objection that the machine would still lack <c>consciousness</c> of what it says</obj>, <arg>he answers that pressing it leads to <c>solipsism</c>: I know others think only by their behaviour, and refusing that same evidence to machines alone is arbitrary.</arg> The substrate therefore matters little, a <c>universal machine</c> being able to simulate any discrete-state machine."
+        },
+        "references": [
+          {
+            "fr": "« Computing Machinery and Intelligence », Mind (1950)",
+            "en": "\"Computing Machinery and Intelligence\", Mind (1950)"
+          }
+        ],
+        "strength": "STRONG",
+        "quoteId": "la-question-initiale-les-machines-turing"
+      },
+      "note": {
+        "fr": "Turing est opérationnaliste avant d'être fonctionnaliste : il déplace la question vers un critère observable plutôt que de définir les états mentaux par leur rôle causal, thèse qui lui est postérieure. Son pari daté sur l'an 2000 porte sur la faisabilité, non sur le principe.",
+        "en": "Turing is an operationalist before he is a functionalist: he shifts the question toward an observable criterion rather than defining mental states by their causal role, a thesis later than him. His dated wager on the year 2000 concerns feasibility, not principle."
+      }
+    }
+  ]
 }

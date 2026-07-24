@@ -12,13 +12,13 @@ Is it enough to harm no one, or must we give without respite as long as some mis
 
 ### Minimalism
 
-Morality demands few things, but it demands them firmly: do not harm others, respect their freedom. As long as I wrong no one, my life is my own business, and no one may impose on me an ideal of saintliness or sacrifice.
+Morality demands few things, but it demands them firmly: do not harm others, respect their freedom. [As long as I wrong no one, my life is my own business](../axes/political-liberty.md), and no one may impose on me an ideal of saintliness or sacrifice.
 
 *[Mill](../philosophers/mill.md) · [Ogien](../philosophers/ogien.md)*
 
 ### Maximalism
 
-Morality demands a great deal: if I can prevent a great harm at a modest cost to myself, I must do so. Our duties do not stop at refraining from harm; they include actively helping those most in need, wherever they are, and may claim a substantial share of our resources.
+Morality demands a great deal: if I can prevent a great harm at a modest cost to myself, I must do so. Our duties do not stop at refraining from harm; they include [actively helping those most in need, wherever they are](../axes/partiality.md), and may claim a substantial share of our resources.
 
 *[Singer](../philosophers/singer.md) · Effective altruism*
 

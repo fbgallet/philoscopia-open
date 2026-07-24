@@ -11,8 +11,8 @@
     "en": "Can it be right to disobey the law?"
   },
   "stakes": {
-    "fr": "Toute loi peut un jour heurter la conscience : décret inique, ordre qu'on ne peut pas suivre sans se trahir. Obéir quand même, c'est protéger ce qui rend la vie commune possible ; désobéir, c'est affirmer qu'au-dessus des lois il y a autre chose, au risque que chacun ne suive plus que son propre jugement. D'Antigone aux grandes désobéissances de l'histoire, la question revient à chaque génération. Se positionner, c'est dire ce que l'on doit à la loi quand elle commande ce que la conscience refuse.",
-    "en": "Any law may one day clash with conscience: an iniquitous decree, an order one cannot follow without betraying oneself. To obey nonetheless is to protect what makes common life possible; to disobey is to affirm that above the laws there is something else, at the risk that each person will follow only their own judgment. From Antigone to the great disobediences of history, the question returns with each generation. To take a position is to say what we owe the law when it commands what conscience refuses."
+    "fr": "Toute loi peut un jour heurter la conscience : décret inique, ordre qu'on ne peut pas suivre sans se trahir. Obéir quand même, c'est protéger ce qui rend la vie commune possible ; désobéir, c'est affirmer qu'<ax id='RIGHTS_NATURE' pole='NATURAL_RIGHTS'>au-dessus des lois il y a autre chose</ax>, au risque que chacun ne suive plus que son propre jugement. D'Antigone aux grandes désobéissances de l'histoire, la question revient à chaque génération. Se positionner, c'est dire ce que l'on doit à la loi quand elle commande ce que la conscience refuse.",
+    "en": "Any law may one day clash with conscience: an iniquitous decree, an order one cannot follow without betraying oneself. To obey nonetheless is to protect what makes common life possible; to disobey is to affirm that <ax id='RIGHTS_NATURE' pole='NATURAL_RIGHTS'>above the laws there is something else</ax>, at the risk that each person will follow only their own judgment. From Antigone to the great disobediences of history, the question returns with each generation. To take a position is to say what we owe the law when it commands what conscience refuses."
   },
   "aliases": {
     "fr": [
@@ -82,8 +82,8 @@
         "en": "Civil disobedience"
       },
       "description": {
-        "fr": "Quand une loi commande l'inacceptable, la conscience a le droit, parfois le devoir, de désobéir : publiquement, sans violence, en acceptant la sanction. Cette désobéissance en plein jour n'est pas une trahison de la loi mais un appel qui lui est adressé : elle vise à réveiller le sens de la justice de la communauté, non à se soustraire à la règle commune.",
-        "en": "When a law commands the unacceptable, conscience has the right, sometimes the duty, to disobey: openly, without violence, accepting the penalty. This disobedience in broad daylight is not a betrayal of the law but an appeal addressed to it: it aims to awaken the community's sense of justice, not to escape the common rule."
+        "fr": "Quand une loi commande l'inacceptable, la conscience a le droit, parfois le devoir, de désobéir : <ax id='VIOLENCE' pole='PACIFISM'>publiquement, sans violence</ax>, en acceptant la sanction. Cette désobéissance en plein jour n'est pas une trahison de la loi mais un appel qui lui est adressé : elle vise à réveiller le sens de la justice de la communauté, non à se soustraire à la règle commune.",
+        "en": "When a law commands the unacceptable, conscience has the right, sometimes the duty, to disobey: <ax id='VIOLENCE' pole='PACIFISM'>openly, without violence</ax>, accepting the penalty. This disobedience in broad daylight is not a betrayal of the law but an appeal addressed to it: it aims to awaken the community's sense of justice, not to escape the common rule."
       },
       "nuances": [
         {

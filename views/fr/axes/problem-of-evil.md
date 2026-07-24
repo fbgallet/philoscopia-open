@@ -6,13 +6,13 @@
 
 *Le monde · descriptif (théorie) · catégoriel*
 
-La souffrance des innocents est l'épreuve la plus dure pour qui croit en un Dieu bon et tout-puissant. Devant elle, quatre voies se séparent : justifier le mal, renoncer à la toute-puissance divine, refuser toute justification, ou conclure que ce Dieu n'existe pas. Se positionner, c'est dire si la foi peut tenir devant le malheur, et à quel prix.
+La souffrance des innocents est l'épreuve la plus dure pour [qui croit en un Dieu bon et tout-puissant](../axes/god-existence.md). Devant elle, quatre voies se séparent : justifier le mal, renoncer à la toute-puissance divine, refuser toute justification, ou conclure que ce Dieu n'existe pas. Se positionner, c'est dire si la foi peut tenir devant le malheur, et à quel prix.
 
 ## Pôles
 
 ### Le mal a ses raisons
 
-Un Dieu bon et tout-puissant peut permettre le mal : pour un bien d'ensemble, pour la liberté des créatures, pour faire mûrir les âmes, ou pour des raisons qui excèdent notre entendement. La foi tient : même opaque, le mal a un sens.
+Un Dieu bon et tout-puissant peut permettre le mal : pour un bien d'ensemble, [pour la liberté des créatures](../axes/freedom.md), pour faire mûrir les âmes, ou pour des raisons qui excèdent notre entendement. La foi tient : même opaque, le mal a un sens.
 
 - La « défense » de Plantinga ne prétend pas connaître les raisons de Dieu : elle établit seulement que le mal n'est pas logiquement incompatible avec son existence.
 

@@ -60,8 +60,8 @@
         "en": "Transcendence"
       },
       "description": {
-        "fr": "Le sacré dépasse ce monde : la vérité, le bien ou Dieu résident dans un ordre supérieur que la réalité sensible ne fait que refléter. L'existence humaine prend sens dans son rapport à cet au-delà.",
-        "en": "The sacred surpasses this world: truth, the good, or God belong to a higher order that sensible reality merely reflects. Human existence finds its meaning in its relation to this beyond."
+        "fr": "Le sacré dépasse ce monde : la vérité, le bien ou Dieu résident dans <ax id='REALITY_NATURE' pole='IDEALISM'>un ordre supérieur que la réalité sensible ne fait que refléter</ax>. L'existence humaine prend sens dans son rapport à cet au-delà.",
+        "en": "The sacred surpasses this world: truth, the good, or God belong to <ax id='REALITY_NATURE' pole='IDEALISM'>a higher order that sensible reality merely reflects</ax>. Human existence finds its meaning in its relation to this beyond."
       },
       "figures": [
         {

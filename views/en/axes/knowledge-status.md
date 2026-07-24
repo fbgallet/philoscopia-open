@@ -6,7 +6,7 @@
 
 *Truth · descriptive (theory) · bipolar*
 
-Do scientific theories unveil the real as it is, or are they useful constructions, marked by our concepts and our history? If they state the truth, science settles matters above mere opinion; if they construct, its authority is only one point of view among others. To take a position is to say what we can truly expect of scientific knowledge.
+Do scientific theories unveil the real as it is, or are they useful constructions, marked by our concepts and our history? If they state the truth, [science settles matters above mere opinion](../axes/science-place.md); if they construct, its authority is only one point of view among others. To take a position is to say what we can truly expect of scientific knowledge.
 
 ## Poles
 

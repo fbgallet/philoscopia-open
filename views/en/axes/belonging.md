@@ -6,19 +6,19 @@
 
 *Others · value · bipolar*
 
-Favouring our own gives us roots but can shut the door on the stranger; opening to all enlarges the heart but risks belonging nowhere. To decide is to say whom we owe something to first, when near and distant loyalties come into conflict.
+Favouring our own gives us roots but can shut the door on the stranger; opening to all enlarges the heart but risks belonging nowhere. To decide is to say [whom we owe something to first](../axes/partiality.md), when near and distant loyalties come into conflict.
 
 ## Poles
 
 ### Communitarianism and patriotism
 
-We are not abstract individuals: our identity and attachments arise from the concrete communities that shaped us, family, nation, culture. Loyalty to one's own is not a prejudice but a virtue, and the real source of solidarity.
+[We are not abstract individuals](../axes/individual-society.md): our identity and attachments arise from the concrete communities that shaped us, family, nation, culture. Loyalty to one's own is not a prejudice but a virtue, and the real source of solidarity.
 
 *MacIntyre · [Walzer](../philosophers/walzer.md)*
 
 ### Cosmopolitanism
 
-We are first citizens of the world: human dignity does not stop at borders. Local attachments are contingent, and it is to humanity as a whole that we belong first, beyond all homelands.
+We are first citizens of the world: [human dignity does not stop at borders](../axes/moral-scope.md). Local attachments are contingent, and it is to humanity as a whole that we belong first, beyond all homelands.
 
 *[Diogenes](../philosophers/diogenes.md) · [Kant](../philosophers/kant.md)*
 

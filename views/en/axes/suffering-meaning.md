@@ -18,13 +18,13 @@ Suffering is not pure evil: it can elevate, deepen, and transform. As an ordeal 
 
 ### Abolitionism
 
-Suffering is an evil with no redeeming counterpart: nothing justifies or redeems it. The moral and practical task is to prevent and reduce it wherever possible, for oneself and for others.
+Suffering is an evil with no redeeming counterpart: [nothing justifies or redeems it](../axes/problem-of-evil.md). The moral and practical task is to prevent and reduce it wherever possible, for oneself and for others.
 
 *[Epicurus](../philosophers/epicurus.md) · [utilitarianism](../movements/utilitarianism.md)*
 
 ### Stoic indifference (median position)
 
-Suffering is neither a trial that ennobles or redeems, nor a sheer evil to be abolished at any cost. It belongs among the indifferents, in itself neither good nor bad: it is not suffering that decides our happiness, but the judgment we pass on it and the steadiness with which we endure it.
+Suffering is neither a trial that ennobles or redeems, nor a sheer evil to be abolished at any cost. It belongs [among the indifferents](../glossary/adiaphora.md), in itself neither good nor bad: it is not suffering that decides our happiness, but the judgment we pass on it and the steadiness with which we endure it.
 
 ## Live problems
 

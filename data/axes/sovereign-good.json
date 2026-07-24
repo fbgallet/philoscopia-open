@@ -11,8 +11,8 @@
     "en": "What makes a life truly good: pleasure, flourishing, or virtue?"
   },
   "stakes": {
-    "fr": "« Souverain bien » est le nom classique du bonheur au sens plein : non l'humeur d'un instant, mais ce qui fait qu'une vie entière est réussie, ce que les Grecs nommaient eudaimonia. Reste à savoir en quoi il consiste, et la question n'a rien d'anodin : ce qui remplit une vie de plaisir peut la vider de sens, ce qui la rend vertueuse peut la priver de bonheur. Selon la réponse qu'on lui donne, souvent sans se la formuler, on ne poursuit pas la même vie, et une époque ne se fait pas le même idéal de réussite.",
-    "en": "\"The highest good\" is the classical name for happiness in the fullest sense: not the mood of a moment, but what makes an entire life a good one, what the Greeks called eudaimonia. What it consists in is another matter, and the question is far from idle: what fills a life with pleasure can drain it of meaning, and what makes it virtuous can cost it its happiness. Depending on the answer we give, often without ever putting it to ourselves, we do not pursue the same life, and an age does not set itself the same ideal of success."
+    "fr": "« Souverain bien » est le nom classique du bonheur au sens plein : non l'humeur d'un instant, mais ce qui fait qu'une vie entière est réussie, ce que les Grecs nommaient eudaimonia. Reste à savoir en quoi il consiste, et la question n'a rien d'anodin : ce qui remplit une vie de plaisir <ax id='LIFE_MEANING'>peut la vider de sens</ax>, ce qui la rend vertueuse peut la priver de bonheur. Selon la réponse qu'on lui donne, souvent sans se la formuler, on ne poursuit pas la même vie, et une époque ne se fait pas le même idéal de réussite.",
+    "en": "\"The highest good\" is the classical name for happiness in the fullest sense: not the mood of a moment, but what makes an entire life a good one, what the Greeks called eudaimonia. What it consists in is another matter, and the question is far from idle: what fills a life with pleasure <ax id='LIFE_MEANING'>can drain it of meaning</ax>, and what makes it virtuous can cost it its happiness. Depending on the answer we give, often without ever putting it to ourselves, we do not pursue the same life, and an age does not set itself the same ideal of success."
   },
   "aliases": {
     "fr": [
@@ -73,8 +73,8 @@
         "en": "Eudaimonism"
       },
       "description": {
-        "fr": "Le souverain bien est l'épanouissement de l'être humain dans toutes ses dimensions : exercer ses capacités, accomplir sa fonction propre, mener une vie pleinement réalisée. Le plaisir accompagne cette vie réussie, mais il n'en est pas le but.",
-        "en": "The highest good is human flourishing in all its dimensions: exercising one's capacities, fulfilling one's proper function, leading a fully realized life. Pleasure accompanies such a life, but it is not its goal."
+        "fr": "Le souverain bien est l'épanouissement de l'être humain dans toutes ses dimensions : exercer ses capacités, <ax id='ESSENCE' pole='ESSENTIALISM'>accomplir sa fonction propre</ax>, mener une vie pleinement réalisée. Le plaisir accompagne cette vie réussie, mais il n'en est pas le but.",
+        "en": "The highest good is human flourishing in all its dimensions: exercising one's capacities, <ax id='ESSENCE' pole='ESSENTIALISM'>fulfilling one's proper function</ax>, leading a fully realized life. Pleasure accompanies such a life, but it is not its goal."
       },
       "figures": [
         {
@@ -93,8 +93,8 @@
         "en": "Virtue / moral perfectionism"
       },
       "description": {
-        "fr": "Seule la vertu, ou la bonne volonté, a une valeur inconditionnelle : la vie bonne est la vie moralement droite, même au prix du plaisir ou du confort. Le bonheur ne vaut que s'il est mérité par l'excellence morale.",
-        "en": "Only virtue, or the good will, has unconditional worth: the good life is the morally upright life, even at the cost of pleasure or comfort. Happiness matters only insofar as it is deserved through moral excellence."
+        "fr": "<ax id='ETHICS_FOUNDATION' pole='VIRTUE_ETHICS'>Seule la vertu, ou la bonne volonté, a une valeur inconditionnelle</ax> : la vie bonne est la vie moralement droite, même au prix du plaisir ou du confort. Le bonheur ne vaut que s'il est mérité par l'excellence morale.",
+        "en": "<ax id='ETHICS_FOUNDATION' pole='VIRTUE_ETHICS'>Only virtue, or the good will, has unconditional worth</ax>: the good life is the morally upright life, even at the cost of pleasure or comfort. Happiness matters only insofar as it is deserved through moral excellence."
       },
       "figures": [
         {

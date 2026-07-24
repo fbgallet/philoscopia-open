@@ -224,7 +224,7 @@ The gods, perfectly blessed, do not meddle with the world: there is no providenc
 
 *positioned · explicit in the texts · major*
 
-Reductive physicalism 90% · Illusionism 10%
+Physicalism 90% · Illusionism 10%
 
 The soul is corporeal: an assembly of very fine atoms that dissolves at death like the rest. Thought and sensation are material processes, with nothing immortal or immaterial.
 

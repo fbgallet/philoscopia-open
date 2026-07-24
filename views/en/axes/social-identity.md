@@ -16,7 +16,7 @@ The major social categories track real, partly natural or biological differences
 
 ### Social construction
 
-These categories are not natural givens but contingent products of history, culture and power relations, instituted by norms and discourses that make them pass for natural. What has been constructed can be deconstructed: one is not born, but rather becomes, a woman.
+These categories are not natural givens but contingent products of history, culture and power relations, instituted by norms and discourses that make them pass for natural. What has been constructed can be deconstructed: [one is not born, but rather becomes, a woman](../axes/essence.md).
 
 *[Beauvoir](../philosophers/beauvoir.md) · [Foucault](../philosophers/foucault.md) · Butler*
 

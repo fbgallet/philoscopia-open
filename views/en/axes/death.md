@@ -6,7 +6,7 @@
 
 *The self · value · categorical · core axis*
 
-Faced with death, the first reaction is not a philosophy: it is fear. The whole question is what to do with it. Should we cure it, by understanding what makes it vain? Convert it into lucidity, because numbered days weigh more than days without number? Soothe it by preparing for a passage? Or concede that it is right, and refuse death as the evil above all others? Whether some part of us survives is another question, with its own axis: to take a position here is to choose what to do with one's own finitude, and with the fear that comes with it.
+Faced with death, the first reaction is not a philosophy: it is fear. The whole question is what to do with it. Should we cure it, by understanding what makes it vain? Convert it into lucidity, because numbered days weigh more than days without number? Soothe it by preparing for a passage? Or concede that it is right, and refuse death as the evil above all others? Whether some part of us survives is [another question, with its own axis](../axes/afterlife.md): to take a position here is to choose what to do with one's own finitude, and with the fear that comes with it.
 
 ## Poles
 

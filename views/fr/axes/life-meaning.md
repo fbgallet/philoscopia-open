@@ -12,25 +12,25 @@ L'énigme est commune : le sens de la vie ne se montre pas, et chacun connaît d
 
 ### Téléologie-providence
 
-Le sens existe, mais il ne se donne pas d'emblée : l'existence s'inscrit dans un ordre du monde ou un dessein providentiel qu'il faut apprendre à déchiffrer. Face à l'énigme, la tâche est de chercher cette finalité, de s'y fier même quand elle reste obscure, et d'y accorder sa conduite.
+Le sens existe, mais il ne se donne pas d'emblée : l'existence s'inscrit dans [un ordre du monde ou un dessein providentiel](../axes/cosmic-outlook.md) qu'il faut apprendre à déchiffrer. Face à l'énigme, la tâche est de chercher cette finalité, de s'y fier même quand elle reste obscure, et d'y accorder sa conduite.
 
 *les stoïciens · le christianisme*
 
 ### Sens construit
 
-Si le sens se dérobe, c'est qu'aucun n'est inscrit dans les choses : il n'y a rien à découvrir, tout à faire. Face à l'énigme, la réponse est de créer soi-même la signification de sa vie par ses choix et ses projets, et cette liberté nous rend pleinement responsables de ce que nous devenons.
+Si le sens se dérobe, c'est qu'aucun n'est inscrit dans les choses : il n'y a rien à découvrir, tout à faire. Face à l'énigme, la réponse est de [créer soi-même la signification de sa vie par ses choix et ses projets](../axes/essence.md), et cette liberté nous rend pleinement responsables de ce que nous devenons.
 
 *[Sartre](../philosophers/sartre.md)*
 
 ### Absurdisme
 
-Ni sens à découvrir, ni sens de rechange : l'absurde naît de la rencontre entre notre soif de sens et le silence du monde, et aucune réponse ne viendra. Face à l'énigme, il s'agit de tenir sans tricher : vivre lucidement dans la révolte, sans espoir ni résignation.
+Ni sens à découvrir, ni sens de rechange : l'absurde naît de la rencontre entre notre soif de sens et le silence du monde, et aucune réponse ne viendra. Face à l'énigme, il s'agit de tenir sans tricher : [vivre lucidement dans la révolte, sans espoir ni résignation](../axes/hope.md).
 
 *[Camus](../philosophers/camus.md)*
 
 ### Renoncement
 
-Puisque aucun sens n'est donné et que rien ne le remplace vraiment, le tourment vient de l'exigence elle-même. Face à l'énigme, la réponse lucide est le renoncement : détacher son vouloir, cesser de demander à la vie ce qu'elle ne contient pas, et trouver dans ce retrait une paix sans illusion.
+Puisque aucun sens n'est donné et que rien ne le remplace vraiment, le tourment vient de l'exigence elle-même. Face à l'énigme, la réponse lucide est le renoncement : [détacher son vouloir](../axes/desire.md), cesser de demander à la vie ce qu'elle ne contient pas, et trouver dans ce retrait une paix sans illusion.
 
 *[Schopenhauer](../philosophers/schopenhauer.md)*
 

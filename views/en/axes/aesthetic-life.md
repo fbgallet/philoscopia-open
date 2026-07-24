@@ -18,7 +18,7 @@ Beauty is what justifies and fulfills existence: making one's life a work of art
 
 ### Primacy of the ethical
 
-Beauty is subordinate to the good and the useful: a secondary pleasure, even a suspect seduction of appearances. The good life is measured by moral uprightness, not aesthetic refinement, and art must serve that end or be a mere luxury.
+Beauty is subordinate to the good and the useful: a secondary pleasure, even a suspect seduction of appearances. [The good life is measured by moral uprightness](../axes/sovereign-good.md), not aesthetic refinement, and art must serve that end or be a mere luxury.
 
 *[Plato](../philosophers/plato.md) · [Tolstoy](../philosophers/tolstoy.md)*
 

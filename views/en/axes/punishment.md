@@ -6,13 +6,13 @@
 
 *Others · value · categorical*
 
-Punishing to make the guilty pay can be mere vengeance dressed as justice; punishing only to deter or for efficiency can sacrifice the offender to the common good. Depending on the answer, the penalty looks toward a past to settle or a future to protect. To take a position is to say what we are really doing when we punish.
+Punishing to make the guilty pay can be mere vengeance dressed as justice; punishing only to deter or for efficiency can [sacrifice the offender to the common good](../axes/ethics-foundation.md). Depending on the answer, the penalty looks toward a past to settle or a future to protect. To take a position is to say what we are really doing when we punish.
 
 ## Poles
 
 ### Retributivism
 
-We punish because a wrong has been committed, and the penalty must be proportionate to that wrong. Punishment does justice to the crime itself and respects the offender as a responsible being, regardless of any social utility.
+We punish because a wrong has been committed, and the penalty must be proportionate to that wrong. Punishment does justice to the crime itself and [respects the offender as a responsible being](../axes/moral-responsibility.md), regardless of any social utility.
 
 *[Kant](../philosophers/kant.md)*
 

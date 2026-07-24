@@ -6,7 +6,7 @@
 
 *Le soi · valeur · triangulaire · axe nodal*
 
-« Souverain bien » est le nom classique du bonheur au sens plein : non l'humeur d'un instant, mais ce qui fait qu'une vie entière est réussie, ce que les Grecs nommaient eudaimonia. Reste à savoir en quoi il consiste, et la question n'a rien d'anodin : ce qui remplit une vie de plaisir peut la vider de sens, ce qui la rend vertueuse peut la priver de bonheur. Selon la réponse qu'on lui donne, souvent sans se la formuler, on ne poursuit pas la même vie, et une époque ne se fait pas le même idéal de réussite.
+« Souverain bien » est le nom classique du bonheur au sens plein : non l'humeur d'un instant, mais ce qui fait qu'une vie entière est réussie, ce que les Grecs nommaient eudaimonia. Reste à savoir en quoi il consiste, et la question n'a rien d'anodin : ce qui remplit une vie de plaisir [peut la vider de sens](../axes/life-meaning.md), ce qui la rend vertueuse peut la priver de bonheur. Selon la réponse qu'on lui donne, souvent sans se la formuler, on ne poursuit pas la même vie, et une époque ne se fait pas le même idéal de réussite.
 
 ## Pôles
 
@@ -18,13 +18,13 @@ Le plaisir est le bien suprême et la fin ultime de toute vie réussie. Qu'il s'
 
 ### Eudémonisme
 
-Le souverain bien est l'épanouissement de l'être humain dans toutes ses dimensions : exercer ses capacités, accomplir sa fonction propre, mener une vie pleinement réalisée. Le plaisir accompagne cette vie réussie, mais il n'en est pas le but.
+Le souverain bien est l'épanouissement de l'être humain dans toutes ses dimensions : exercer ses capacités, [accomplir sa fonction propre](../axes/essence.md), mener une vie pleinement réalisée. Le plaisir accompagne cette vie réussie, mais il n'en est pas le but.
 
 *[Aristote](../philosophers/aristotle.md)*
 
 ### Vertu / perfectionnisme moral
 
-Seule la vertu, ou la bonne volonté, a une valeur inconditionnelle : la vie bonne est la vie moralement droite, même au prix du plaisir ou du confort. Le bonheur ne vaut que s'il est mérité par l'excellence morale.
+[Seule la vertu, ou la bonne volonté, a une valeur inconditionnelle](../axes/ethics-foundation.md) : la vie bonne est la vie moralement droite, même au prix du plaisir ou du confort. Le bonheur ne vaut que s'il est mérité par l'excellence morale.
 
 *les stoïciens · [Kant](../philosophers/kant.md)*
 

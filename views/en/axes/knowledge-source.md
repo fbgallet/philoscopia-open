@@ -12,7 +12,7 @@ Does everything come from the senses, which nonetheless deceive us at times, or 
 
 ### Empiricism
 
-All knowledge derives from sensory experience: the mind starts as a blank slate that the senses gradually fill. Even our most abstract ideas can ultimately be traced back to received impressions.
+All knowledge derives from sensory experience: [the mind starts as a blank slate](../glossary/tabula-rasa.md) that the senses gradually fill. Even our most abstract ideas can ultimately be traced back to received impressions.
 
 *[Locke](../philosophers/locke.md) · [Hume](../philosophers/hume.md)*
 

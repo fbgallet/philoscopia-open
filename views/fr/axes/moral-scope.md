@@ -26,7 +26,7 @@ Les normes morales varient selon les cultures, les époques et les perspectives 
 
 ### Constructivisme
 
-Les normes morales ne sont ni découvertes dans la nature des choses ni simplement relatives : elles sont construites par des procédures rationnelles équitables, comme la délibération sous un voile d'ignorance ou la discussion entre égaux. Leur validité tient à la légitimité du processus qui les engendre.
+Les normes morales ne sont ni découvertes dans la nature des choses ni simplement relatives : elles sont [construites par des procédures rationnelles équitables](../axes/rights-nature.md), comme la délibération sous un voile d'ignorance ou la discussion entre égaux. Leur validité tient à la légitimité du processus qui les engendre.
 
 *[Rawls](../philosophers/rawls.md) · [Habermas](../philosophers/habermas.md)*
 

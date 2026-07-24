@@ -12,7 +12,7 @@ Depending on whether we see blind causes, ends being pursued, or a life unfoldin
 
 ### Mechanism
 
-Nature is fully explained by material causes and laws of motion, like an immense machine. Living beings themselves are complex mechanisms, with no need to invoke purposes or mysterious forces.
+[Nature is fully explained by material causes and laws of motion](../axes/reduction-emergence.md), like an immense machine. Living beings themselves are complex mechanisms, with no need to invoke purposes or mysterious forces.
 
 *[Descartes](../philosophers/descartes.md) · [La Mettrie](../philosophers/la-mettrie.md)*
 
@@ -24,7 +24,7 @@ A natural phenomenon is fully understood only by grasping what it occurs for: th
 
 ### Vitalism
 
-Life cannot be reduced either to mechanics or to a pre-established plan: it is a creative, unpredictable impulse that invents new forms. Understanding the living requires a different approach from that of the physical sciences.
+Life cannot be reduced either to mechanics or to a pre-established plan: it is a creative, unpredictable impulse that invents new forms. [Understanding the living requires a different approach from that of the physical sciences](../axes/reduction-emergence.md).
 
 *[Bergson](../philosophers/bergson.md)*
 

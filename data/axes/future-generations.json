@@ -24,8 +24,8 @@
         "en": "Responsibility principle"
       },
       "description": {
-        "fr": "Notre puissance d'agir s'étend désormais aux conditions de vie des générations à venir : nous avons le devoir d'agir de façon que les effets de nos actions soient compatibles avec la permanence d'une vie authentiquement humaine sur Terre. L'avenir lointain entre dans le champ de la morale.",
-        "en": "Our power to act now extends to the living conditions of generations to come: we have a duty to act so that the effects of our actions remain compatible with the permanence of genuinely human life on Earth. The distant future enters the scope of morality."
+        "fr": "Notre puissance d'agir s'étend désormais aux conditions de vie des générations à venir : nous avons le devoir d'agir de façon que les effets de nos actions soient compatibles avec <ax id='HUMAN_PLACE_NATURE' pole='STEWARDSHIP'>la permanence d'une vie authentiquement humaine sur Terre</ax>. L'avenir lointain entre dans le champ de la morale.",
+        "en": "Our power to act now extends to the living conditions of generations to come: we have a duty to act so that the effects of our actions remain compatible with <ax id='HUMAN_PLACE_NATURE' pole='STEWARDSHIP'>the permanence of genuinely human life on Earth</ax>. The distant future enters the scope of morality."
       },
       "figures": [
         {

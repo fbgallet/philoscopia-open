@@ -7,34 +7,62 @@
     "en": "The enigma of consciousness"
   },
   "question": {
-    "fr": "Une science du cerveau peut-elle expliquer entièrement l'expérience vécue ?",
-    "en": "Can a science of the brain fully explain lived experience?"
+    "fr": "L'expérience vécue est-elle quelque chose de plus que la structure et le fonctionnement du cerveau ?",
+    "en": "Is lived experience something more than the structure and functioning of the brain?"
   },
   "stakes": {
-    "fr": "La douleur, le rouge que je vois, le goût du café : les sciences cognitives décrivent de mieux en mieux les mécanismes cérébraux qui les accompagnent, mais expliquent-elles ce que cela fait de les vivre ? Se positionner, c'est dire si le vécu est un mécanisme comme les autres, une illusion de l'introspection, ou le signe que l'esprit excède ce que les neurosciences pourront jamais saisir.",
-    "en": "Pain, the red I see, the taste of coffee: cognitive science describes ever more finely the brain mechanisms that accompany them, but does it explain what it is like to undergo them? To take a position is to say whether lived experience is a mechanism like any other, an illusion of introspection, or the sign that the mind exceeds anything neuroscience will ever grasp."
+    "fr": "La douleur, le rouge que je vois, le goût du café : les sciences cognitives décrivent de mieux en mieux les mécanismes cérébraux qui les accompagnent, mais le vécu se réduit-il à eux ? Se positionner, c'est dire si l'expérience n'est rien de plus que l'organisation du cerveau, si elle y ajoute quelque chose d'irréductible, si elle tient à une intériorité déjà présente dans la matière, ou si l'introspection nous trompe sur son existence même. L'axe suppose un cerveau bien réel : ceux pour qui l'esprit est premier et la matière une apparence se situent sur <ax id='REALITY_NATURE'>l'axe de la nature du réel</ax>.",
+    "en": "Pain, the red I see, the taste of coffee: cognitive science describes ever more finely the brain mechanisms that accompany them, but does lived experience reduce to them? To take a position is to say whether experience is nothing more than the brain's organization, whether it adds something irreducible to it, whether it rests on an inwardness already present in matter, or whether introspection deceives us about its very existence. The axis assumes a brain that is genuinely real: those for whom mind comes first and matter is an appearance take their position on <ax id='REALITY_NATURE'>the nature of reality</ax>."
+  },
+  "aliases": {
+    "fr": [
+      "problème corps-esprit",
+      "corps et esprit",
+      "corps-esprit",
+      "dualisme",
+      "dualisme corps-esprit",
+      "esprit et cerveau",
+      "problème difficile de la conscience",
+      "qualia"
+    ],
+    "en": [
+      "mind-body problem",
+      "mind body problem",
+      "mind and body",
+      "mind-body dualism",
+      "dualism",
+      "mind and brain",
+      "hard problem of consciousness",
+      "qualia"
+    ]
   },
   "layer": "THEORY",
   "type": "CATEGORICAL",
   "poles": [
     {
-      "id": "REDUCTIVE_PHYSICALISM",
+      "id": "PHYSICALISM",
       "label": {
-        "fr": "Physicalisme réducteur",
-        "en": "Reductive physicalism"
+        "fr": "Physicalisme",
+        "en": "Physicalism"
       },
       "description": {
-        "fr": "La conscience n'est rien d'autre que l'activité du cerveau : les états mentaux sont des états physiques, que la science identifiera un jour. Il n'y a pas de mystère résiduel, seulement une complexité encore mal connue.",
-        "en": "Consciousness is nothing but the brain's activity: mental states are physical states that science will one day identify. There is no residual mystery, only complexity still poorly understood."
+        "fr": "La conscience n'est rien d'autre que l'activité du cerveau : le vécu n'est pas un fait supplémentaire qui s'ajouterait au fonctionnement cérébral, il en fait partie, si difficile soit-il à expliquer. Reste à comprendre comment, ce que la plupart tiennent pour une difficulté de recherche et non pour un mystère de principe. Le pôle réunit plusieurs nuances : la théorie de l'identité, pour qui chaque état mental sera un jour identifié à un état cérébral, et le naturalisme biologique, pour qui la conscience est une propriété du cerveau aussi ordinaire que la digestion, irréductible à une description en troisième personne sans être pour autant un ingrédient de plus dans le monde. Que cette réduction aboutisse se joue sur l'axe du tout et de ses parties ; que le support doive être biologique, sur celui de la machine pensante.",
+        "en": "Consciousness is nothing but the brain's activity: experience is not a further fact added to the brain's workings, it is part of them, however hard it may be to explain. How remains to be understood, which most take to be a difficulty of research rather than a mystery of principle. The pole gathers several shades: identity theory, for which every mental state will one day be identified with a brain state, and biological naturalism, for which consciousness is a feature of the brain as ordinary as digestion, irreducible to a third-person description without being one more ingredient in the world. Whether that reduction succeeds is settled on the axis of wholes and parts; whether the substrate must be biological, on that of the thinking machine."
       },
       "figures": [
         {
           "slug": "smart",
-          "name": { "fr": "Smart", "en": "Smart" }
+          "name": {
+            "fr": "Smart",
+            "en": "Smart"
+          }
         },
         {
           "slug": "place",
-          "name": { "fr": "Place", "en": "Place" }
+          "name": {
+            "fr": "Place",
+            "en": "Place"
+          }
         }
       ]
     },
@@ -45,17 +73,23 @@
         "en": "Substance dualism"
       },
       "description": {
-        "fr": "Le cerveau n'expliquera jamais entièrement l'expérience, car la conscience n'est pas son produit : elle est une réalité d'une autre nature, l'âme, qui pourrait en principe exister à part. C'est la vision spontanée de beaucoup, et celle de nombreuses religions.",
-        "en": "The brain will never fully explain experience, because consciousness is not its product: it is a reality of another nature, the soul, which could in principle exist apart. This is the spontaneous view of many, and that of many religions."
+        "fr": "Le cerveau n'expliquera jamais entièrement l'expérience, car la conscience n'est pas son produit : elle est une réalité d'une autre nature, l'âme, qui pourrait en principe exister à part. Position spontanée de beaucoup et de nombreuses religions, elle est aussi défendue par des arguments philosophiques : si je peux concevoir mon esprit sans mon corps, les deux ne sont peut-être pas une seule chose.",
+        "en": "The brain will never fully explain experience, because consciousness is not its product: it is a reality of another nature, the soul, which could in principle exist apart. The spontaneous view of many and of many religions, it is also defended by philosophical arguments: if I can conceive my mind without my body, perhaps the two are not one single thing."
       },
       "figures": [
         {
           "slug": "descartes",
-          "name": { "fr": "Descartes", "en": "Descartes" }
+          "name": {
+            "fr": "Descartes",
+            "en": "Descartes"
+          }
         },
         {
           "slug": "swinburne",
-          "name": { "fr": "Swinburne", "en": "Swinburne" }
+          "name": {
+            "fr": "Swinburne",
+            "en": "Swinburne"
+          }
         }
       ]
     },
@@ -66,13 +100,33 @@
         "en": "Property dualism"
       },
       "description": {
-        "fr": "Le cerveau est physique, mais il possède des propriétés irréductibles : l'effet que cela fait de voir du rouge ou de souffrir. Ce vécu qualitatif ne se laisse pas réduire aux neurones, et c'est là le « problème difficile » de la conscience.",
-        "en": "The brain is physical, but it has irreducible properties: what it is like to see red or to suffer. This qualitative feel cannot be reduced to neurons, and this is the \"hard problem\" of consciousness."
+        "fr": "Le cerveau est physique, mais il possède des propriétés irréductibles : l'effet que cela fait de voir du rouge ou de souffrir. Le vécu est ici un fait supplémentaire du monde, relié au cerveau par une loi de la nature plutôt qu'identique à lui ; c'est ce qui sépare cette position du physicalisme, qui n'admet rien au-delà du fonctionnement cérébral. Et c'est là le « problème difficile » de la conscience.",
+        "en": "The brain is physical, but it has irreducible properties: what it is like to see red or to suffer. Here lived experience is a further fact about the world, tied to the brain by a law of nature rather than identical to it; that is what separates this position from physicalism, which admits nothing beyond the brain's workings. And this is the \"hard problem\" of consciousness."
       },
       "figures": [
         {
           "slug": "chalmers",
-          "name": { "fr": "Chalmers", "en": "Chalmers" }
+          "name": {
+            "fr": "Chalmers",
+            "en": "Chalmers"
+          }
+        },
+        {
+          "slug": "nagel",
+          "name": {
+            "fr": "Nagel",
+            "en": "Nagel"
+          }
+        }
+      ],
+      "nuances": [
+        {
+          "fr": "David Chalmers qualifie sa position de « dualisme naturaliste », et se dit ouvertement attiré par le panpsychisme, qu'il tient pour une option sérieuse.",
+          "en": "David Chalmers calls his position a \"naturalistic dualism\", and openly declares himself drawn to panpsychism, which he takes to be a serious option."
+        },
+        {
+          "fr": "Thomas Nagel refuse le réductionnisme sans conclure au dualisme, récuse les étiquettes et penche vers un monisme neutre.",
+          "en": "Thomas Nagel refuses reductionism without concluding to dualism, rejects labels, and leans toward a neutral monism."
         }
       ]
     },
@@ -89,11 +143,17 @@
       "figures": [
         {
           "slug": "strawson",
-          "name": { "fr": "Strawson", "en": "Strawson" }
+          "name": {
+            "fr": "Strawson",
+            "en": "Strawson"
+          }
         },
         {
           "slug": "goff",
-          "name": { "fr": "Goff", "en": "Goff" }
+          "name": {
+            "fr": "Goff",
+            "en": "Goff"
+          }
         }
       ],
       "nuances": [
@@ -110,17 +170,23 @@
         "en": "Illusionism"
       },
       "description": {
-        "fr": "Le vécu qualitatif que nous croyons saisir par introspection est une illusion que le cerveau se fait sur lui-même. Il n'y a pas de qualia à expliquer : seulement des mécanismes qui nous font croire qu'il y en a.",
-        "en": "The qualitative feel we think we grasp by introspection is an illusion the brain makes about itself. There are no qualia to explain: only mechanisms that make us believe there are."
+        "fr": "Le vécu qualitatif que nous croyons saisir par introspection est une illusion que le cerveau se fait sur lui-même. Ce qui est nié, ce ne sont pas nos expériences, mais les qualia tels qu'on les conçoit d'ordinaire, propriétés privées et ineffables : il reste à expliquer, non ces propriétés, mais pourquoi elles nous paraissent si évidentes.",
+        "en": "The qualitative feel we think we grasp by introspection is an illusion the brain makes about itself. What is denied is not our experiences, but qualia as ordinarily conceived, private and ineffable properties: what remains to be explained is not those properties, but why they seem so obvious to us."
       },
       "figures": [
         {
           "slug": "dennett",
-          "name": { "fr": "Dennett", "en": "Dennett" }
+          "name": {
+            "fr": "Dennett",
+            "en": "Dennett"
+          }
         },
         {
           "slug": "frankish",
-          "name": { "fr": "Frankish", "en": "Frankish" }
+          "name": {
+            "fr": "Frankish",
+            "en": "Frankish"
+          }
         }
       ],
       "nuances": [
@@ -139,6 +205,794 @@
     "REALITY_NATURE",
     "FREEDOM",
     "SCIENCE_PLACE",
-    "AFTERLIFE"
+    "AFTERLIFE",
+    "SELF_NATURE",
+    "REDUCTION_EMERGENCE",
+    "MORAL_CIRCLE"
+  ],
+  "problems": [
+    {
+      "id": "what-it-is-like",
+      "resolution": "SURFACED",
+      "object": "INDIVIDUAL",
+      "objectLabel": {
+        "fr": "le point de vue d'un être",
+        "en": "a being's point of view"
+      },
+      "mode": "DESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        {
+          "fr": "qualia",
+          "en": "qualia"
+        },
+        {
+          "fr": "problème difficile",
+          "en": "the hard problem"
+        },
+        {
+          "fr": "écart explicatif",
+          "en": "explanatory gap"
+        },
+        {
+          "fr": "conscience phénoménale",
+          "en": "phenomenal consciousness"
+        },
+        {
+          "fr": "clôture cognitive",
+          "en": "cognitive closure"
+        }
+      ],
+      "poles": [
+        "PHYSICALISM",
+        "SUBSTANCE_DUALISM",
+        "PROPERTY_DUALISM",
+        "PANPSYCHISM",
+        "ILLUSIONISM"
+      ],
+      "anchors": [
+        {
+          "name": {
+            "fr": "Nagel",
+            "en": "Nagel"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "nagel"
+        },
+        {
+          "name": {
+            "fr": "Chalmers",
+            "en": "Chalmers"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "chalmers"
+        },
+        {
+          "name": {
+            "fr": "McGinn",
+            "en": "McGinn"
+          },
+          "kind": "PHILOSOPHER"
+        }
+      ],
+      "title": {
+        "fr": "L'effet que ça fait",
+        "en": "What it is like"
+      },
+      "explicitation": {
+        "fr": "Il y a un effet que cela fait d'être moi, et rien de tel, sans doute, pour une pierre. Mais ce « quelque chose » est-il une réalité de plus dans le monde, que la description physique laisse échapper, ou seulement une limite de nous, qui ne pouvons occuper le point de vue d'un autre ?",
+        "en": "There is something it is like to be me, and nothing of the sort, presumably, for a stone. But is that \"something\" one more reality in the world, which physical description lets slip, or only a limit of ours, unable as we are to occupy another's point of view?"
+      },
+      "ref": {
+        "kind": "THOUGHT_EXPERIMENT",
+        "id": "what-is-it-like-to-be-a-bat"
+      }
+    },
+    {
+      "id": "what-mary-learns",
+      "resolution": "SURFACED",
+      "object": "INDIVIDUAL",
+      "objectLabel": {
+        "fr": "une expérience vécue",
+        "en": "a lived experience"
+      },
+      "mode": "DESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        {
+          "fr": "argument de la connaissance",
+          "en": "the knowledge argument"
+        },
+        {
+          "fr": "qualia",
+          "en": "qualia"
+        },
+        {
+          "fr": "savoir complet",
+          "en": "complete knowledge"
+        }
+      ],
+      "poles": [
+        "PHYSICALISM",
+        "SUBSTANCE_DUALISM",
+        "PROPERTY_DUALISM",
+        "ILLUSIONISM"
+      ],
+      "anchors": [
+        {
+          "name": {
+            "fr": "Jackson",
+            "en": "Jackson"
+          },
+          "kind": "PHILOSOPHER"
+        },
+        {
+          "name": {
+            "fr": "Dennett",
+            "en": "Dennett"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "dennett"
+        }
+      ],
+      "title": {
+        "fr": "La chambre de Mary",
+        "en": "Mary's room"
+      },
+      "explicitation": {
+        "fr": "Une scientifique sait tout ce que la physique peut dire de la couleur, sans jamais en avoir vu : le jour où elle voit du rouge, apprend-elle quelque chose ? Si oui, le vécu serait un fait de plus, que le savoir objectif ne contenait pas ; sinon, il faut dire ce qu'elle gagne sans rien apprendre.",
+        "en": "A scientist knows everything physics can say about colour, without ever having seen any: the day she sees red, does she learn something? If she does, lived experience would be one more fact, which objective knowledge did not contain; if not, one must say what she gains while learning nothing."
+      },
+      "doorways": [
+        {
+          "axis": "SCIENCE_PLACE",
+          "problem": "the-first-person-given"
+        }
+      ],
+      "ref": {
+        "kind": "THOUGHT_EXPERIMENT",
+        "id": "marys-room"
+      }
+    },
+    {
+      "id": "the-zombie-twin",
+      "resolution": "LATENT",
+      "object": "INDIVIDUAL",
+      "objectLabel": {
+        "fr": "un double sans vécu",
+        "en": "a double without experience"
+      },
+      "mode": "DESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        {
+          "fr": "survenance",
+          "en": "supervenience"
+        },
+        {
+          "fr": "possibilité métaphysique",
+          "en": "metaphysical possibility"
+        },
+        {
+          "fr": "physicalisme",
+          "en": "physicalism"
+        }
+      ],
+      "poles": [
+        "PHYSICALISM",
+        "PROPERTY_DUALISM",
+        "ILLUSIONISM"
+      ],
+      "anchors": [
+        {
+          "name": {
+            "fr": "Chalmers",
+            "en": "Chalmers"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "chalmers"
+        },
+        {
+          "name": {
+            "fr": "Dennett",
+            "en": "Dennett"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "dennett"
+        }
+      ],
+      "title": {
+        "fr": "Le zombie philosophique",
+        "en": "The philosophical zombie"
+      },
+      "explicitation": {
+        "fr": "Imaginez un double physiquement identique à vous, qui agit et parle comme vous, mais sans rien ressentir : rien à l'intérieur. Si un tel double est seulement concevable, la matière ne suffit pas à fixer le vécu ; mais ce qu'on peut imaginer prouve-t-il quoi que ce soit sur ce qui est possible ?",
+        "en": "Imagine a double physically identical to you, acting and speaking as you do, but feeling nothing: no one home inside. If such a double is even conceivable, matter does not suffice to fix experience; but does what we can imagine prove anything about what is possible?"
+      }
+    },
+    {
+      "id": "mind-body-knot",
+      "resolution": "LATENT",
+      "object": "RELATION",
+      "objectLabel": {
+        "fr": "l'action réciproque de l'esprit et du corps",
+        "en": "the reciprocal action of mind and body"
+      },
+      "mode": "DESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        {
+          "fr": "problème corps-esprit",
+          "en": "mind-body problem"
+        },
+        {
+          "fr": "glande pinéale",
+          "en": "pineal gland"
+        },
+        {
+          "fr": "épiphénoménisme",
+          "en": "epiphenomenalism"
+        },
+        {
+          "fr": "clôture causale",
+          "en": "causal closure"
+        }
+      ],
+      "poles": [
+        "SUBSTANCE_DUALISM",
+        "PROPERTY_DUALISM",
+        "PHYSICALISM"
+      ],
+      "anchors": [
+        {
+          "name": {
+            "fr": "Descartes",
+            "en": "Descartes"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "descartes"
+        },
+        {
+          "name": {
+            "fr": "Élisabeth de Bohême",
+            "en": "Elisabeth of Bohemia"
+          },
+          "kind": "PHILOSOPHER"
+        }
+      ],
+      "title": {
+        "fr": "Le nœud de l'esprit et du corps",
+        "en": "The knot of mind and body"
+      },
+      "explicitation": {
+        "fr": "Ma décision lève mon bras, un verre de vin embrouille ma pensée. Mais si l'esprit n'est pas matériel, comment agit-il sur les muscles ; et si l'ordre physique se suffit à lui-même, le vécu change-t-il quoi que ce soit à ce qui arrive ?",
+        "en": "My decision raises my arm, a glass of wine muddles my thinking. But if the mind is not material, how does it act on muscles; and if the physical order is self-sufficient, does experience change anything at all in what happens?"
+      },
+      "doorways": [
+        {
+          "axis": "FREEDOM",
+          "problem": "causal-closure"
+        }
+      ]
+    },
+    {
+      "id": "do-i-know-my-own-mind",
+      "resolution": "LATENT",
+      "object": "INDIVIDUAL",
+      "objectLabel": {
+        "fr": "sa propre vie mentale",
+        "en": "one's own mental life"
+      },
+      "mode": "DESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        {
+          "fr": "confabulation",
+          "en": "confabulation"
+        },
+        {
+          "fr": "connaissance de soi",
+          "en": "self-knowledge"
+        },
+        {
+          "fr": "accès privilégié",
+          "en": "privileged access"
+        },
+        {
+          "fr": "petites perceptions",
+          "en": "minute perceptions"
+        }
+      ],
+      "poles": [
+        "SUBSTANCE_DUALISM",
+        "ILLUSIONISM"
+      ],
+      "anchors": [
+        {
+          "name": {
+            "fr": "Descartes",
+            "en": "Descartes"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "descartes"
+        },
+        {
+          "name": {
+            "fr": "Leibniz",
+            "en": "Leibniz"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "leibniz"
+        },
+        {
+          "name": {
+            "fr": "Freud",
+            "en": "Freud"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "freud"
+        }
+      ],
+      "title": {
+        "fr": "Mon esprit m'est-il transparent ?",
+        "en": "Is my mind transparent to me?"
+      },
+      "explicitation": {
+        "fr": "Je crois savoir mieux que personne ce que je pense et ce que je ressens. Mais l'esprit déborde peut-être ce qu'il aperçoit de lui-même : et si l'introspection racontait, après coup, une histoire sur une vie mentale qui lui échappe en grande partie ?",
+        "en": "I believe I know better than anyone what I think and feel. But the mind may exceed what it perceives of itself: what if introspection told, after the fact, a story about a mental life that largely escapes it?"
+      },
+      "doorways": [
+        {
+          "axis": "SELF_NATURE",
+          "problem": "one-self-or-many"
+        }
+      ]
+    },
+    {
+      "id": "wrong-about-what-we-feel",
+      "resolution": "LATENT",
+      "object": "INDIVIDUAL",
+      "objectLabel": {
+        "fr": "sa propre expérience",
+        "en": "one's own experience"
+      },
+      "mode": "DESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        {
+          "fr": "illusionnisme",
+          "en": "illusionism"
+        },
+        {
+          "fr": "méta-problème",
+          "en": "the meta-problem"
+        },
+        {
+          "fr": "infaillibilité",
+          "en": "infallibility"
+        },
+        {
+          "fr": "introspection",
+          "en": "introspection"
+        }
+      ],
+      "poles": [
+        "ILLUSIONISM",
+        "PHYSICALISM"
+      ],
+      "anchors": [
+        {
+          "name": {
+            "fr": "Frankish",
+            "en": "Frankish"
+          },
+          "kind": "PHILOSOPHER"
+        },
+        {
+          "name": {
+            "fr": "Dennett",
+            "en": "Dennett"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "dennett"
+        }
+      ],
+      "title": {
+        "fr": "Se tromper sur ce qu'on ressent",
+        "en": "Being wrong about what one feels"
+      },
+      "explicitation": {
+        "fr": "Je peux me tromper sur le monde, et même sur mes motifs, mais sur ma douleur même ? Elle semble le seul point où paraître et être coïncident. Et si cette évidence était l'illusion la mieux installée, un cerveau se représentant à lui-même une vie intérieure telle qu'il croit l'avoir ?",
+        "en": "I can be wrong about the world, and even about my own motives, but about my very pain? It seems the one point where seeming and being coincide. What if that very obviousness were the best-installed illusion of all, a brain representing to itself an inner life as it believes it to be?"
+      }
+    },
+    {
+      "id": "other-minds",
+      "resolution": "LATENT",
+      "object": "RELATION",
+      "objectLabel": {
+        "fr": "l'accès à l'expérience d'autrui",
+        "en": "access to another's experience"
+      },
+      "mode": "DESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        {
+          "fr": "autres esprits",
+          "en": "other minds"
+        },
+        {
+          "fr": "solipsisme",
+          "en": "solipsism"
+        },
+        {
+          "fr": "argument par analogie",
+          "en": "argument from analogy"
+        }
+      ],
+      "poles": [
+        "PHYSICALISM",
+        "SUBSTANCE_DUALISM",
+        "PROPERTY_DUALISM",
+        "ILLUSIONISM"
+      ],
+      "anchors": [
+        {
+          "name": {
+            "fr": "Wittgenstein",
+            "en": "Wittgenstein"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "wittgenstein"
+        },
+        {
+          "name": {
+            "fr": "Nagel",
+            "en": "Nagel"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "nagel"
+        }
+      ],
+      "title": {
+        "fr": "D'autres consciences que la mienne",
+        "en": "Minds other than my own"
+      },
+      "explicitation": {
+        "fr": "Je ne perçois jamais l'expérience d'autrui, seulement des corps qui se comportent : comment savoir qu'il y a quelqu'un derrière ? La seule conscience dont j'aie un témoignage direct est la mienne.",
+        "en": "I never perceive another's experience, only bodies behaving: how do I know there is someone behind them? The only consciousness I have direct testimony of is my own."
+      },
+      "doorways": [
+        {
+          "axis": "MACHINE_MIND",
+          "problem": "turing-test"
+        },
+        {
+          "axis": "MORAL_CIRCLE",
+          "problem": "animal-minds"
+        }
+      ]
+    },
+    {
+      "id": "where-does-experience-begin",
+      "resolution": "LATENT",
+      "object": "STRUCTURE",
+      "objectLabel": {
+        "fr": "la distribution de la conscience dans la nature",
+        "en": "the distribution of consciousness in nature"
+      },
+      "mode": "DESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        {
+          "fr": "conscience animale",
+          "en": "animal consciousness"
+        },
+        {
+          "fr": "sensibilité",
+          "en": "sentience"
+        },
+        {
+          "fr": "animaux-machines",
+          "en": "animal-machines"
+        },
+        {
+          "fr": "gradation",
+          "en": "gradation"
+        }
+      ],
+      "poles": [
+        "PHYSICALISM",
+        "PANPSYCHISM",
+        "PROPERTY_DUALISM"
+      ],
+      "anchors": [
+        {
+          "name": {
+            "fr": "Descartes",
+            "en": "Descartes"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "descartes"
+        },
+        {
+          "name": {
+            "fr": "Goff",
+            "en": "Goff"
+          },
+          "kind": "PHILOSOPHER"
+        }
+      ],
+      "title": {
+        "fr": "Où commence la conscience ?",
+        "en": "Where does consciousness begin?"
+      },
+      "explicitation": {
+        "fr": "Un chien souffre-t-il comme moi ? Et un poisson, une huître, un embryon, une plante, un thermostat ? Entre ce qui vit quelque chose et ce qui ne vit rien, y a-t-il un seuil net, une pente continue, ou la question est-elle mal posée ?",
+        "en": "Does a dog suffer as I do? And a fish, an oyster, an embryo, a plant, a thermostat? Between what undergoes something and what undergoes nothing, is there a sharp threshold, a continuous slope, or is the question ill-posed?"
+      },
+      "doorways": [
+        {
+          "axis": "MORAL_CIRCLE",
+          "problem": "moral-status-criterion"
+        }
+      ]
+    },
+    {
+      "id": "the-combination-problem",
+      "resolution": "LATENT",
+      "object": "STRUCTURE",
+      "objectLabel": {
+        "fr": "le passage du multiple à l'un",
+        "en": "the passage from many to one"
+      },
+      "mode": "DESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        {
+          "fr": "problème de la combinaison",
+          "en": "the combination problem"
+        },
+        {
+          "fr": "panpsychisme",
+          "en": "panpsychism"
+        },
+        {
+          "fr": "sujet unifié",
+          "en": "unified subject"
+        }
+      ],
+      "poles": [
+        "PANPSYCHISM"
+      ],
+      "anchors": [
+        {
+          "name": {
+            "fr": "William James",
+            "en": "William James"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "william-james"
+        },
+        {
+          "name": {
+            "fr": "Goff",
+            "en": "Goff"
+          },
+          "kind": "PHILOSOPHER"
+        }
+      ],
+      "title": {
+        "fr": "Des consciences qui s'additionnent ?",
+        "en": "Consciousnesses that add up?"
+      },
+      "explicitation": {
+        "fr": "Si une étincelle d'expérience habite déjà la matière, comment des milliards de micro-vécus font-ils un seul sujet, ma conscience une, plutôt qu'une foule ?",
+        "en": "If a spark of experience already inhabits matter, how do billions of micro-experiences make a single subject, my one consciousness, rather than a crowd?"
+      }
+    },
+    {
+      "id": "what-holds-experience-together",
+      "resolution": "LATENT",
+      "object": "STRUCTURE",
+      "objectLabel": {
+        "fr": "l'unité du champ de conscience",
+        "en": "the unity of the field of consciousness"
+      },
+      "mode": "DESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        {
+          "fr": "cerveau divisé",
+          "en": "split brain"
+        },
+        {
+          "fr": "problème de la liaison",
+          "en": "the binding problem"
+        },
+        {
+          "fr": "commissurotomie",
+          "en": "commissurotomy"
+        }
+      ],
+      "poles": [
+        "PHYSICALISM",
+        "SUBSTANCE_DUALISM",
+        "PROPERTY_DUALISM",
+        "PANPSYCHISM",
+        "ILLUSIONISM"
+      ],
+      "anchors": [
+        {
+          "name": {
+            "fr": "William James",
+            "en": "William James"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "william-james"
+        },
+        {
+          "name": {
+            "fr": "Nagel",
+            "en": "Nagel"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "nagel"
+        }
+      ],
+      "title": {
+        "fr": "Ce qui tient l'expérience ensemble",
+        "en": "What holds experience together"
+      },
+      "explicitation": {
+        "fr": "À chaque instant je vois, j'entends et je pense à la fois, mais tout cela m'arrive comme une seule expérience. Qu'est-ce qui la tient ensemble ? Quand on sectionne le pont entre les deux hémisphères, un même cerveau semble abriter deux flux d'expérience qui s'ignorent.",
+        "en": "At every moment I see, hear and think at once, yet all of it comes to me as a single experience. What holds it together? When the bridge between the two hemispheres is severed, one and the same brain seems to host two streams of experience that ignore each other."
+      },
+      "doorways": [
+        {
+          "axis": "SELF_NATURE",
+          "problem": "one-self-or-many"
+        }
+      ]
+    },
+    {
+      "id": "mind-at-the-mercy-of-the-body",
+      "resolution": "LATENT",
+      "object": "RELATION",
+      "objectLabel": {
+        "fr": "la dépendance de l'esprit au corps",
+        "en": "the mind's dependence on the body"
+      },
+      "mode": "DESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        {
+          "fr": "dommages cérébraux",
+          "en": "brain damage"
+        },
+        {
+          "fr": "cerveau filtre ou producteur",
+          "en": "brain as filter or producer"
+        }
+      ],
+      "poles": [
+        "PHYSICALISM",
+        "SUBSTANCE_DUALISM"
+      ],
+      "anchors": [
+        {
+          "name": {
+            "fr": "Lucrèce",
+            "en": "Lucretius"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "lucretius"
+        },
+        {
+          "name": {
+            "fr": "Bergson",
+            "en": "Bergson"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "bergson"
+        }
+      ],
+      "title": {
+        "fr": "L'instrument ou la source",
+        "en": "The instrument or the source"
+      },
+      "explicitation": {
+        "fr": "Un verre de vin, une lésion, l'âge : le corps altère la pensée jusqu'au caractère. Cette dépendance prouve-t-elle que l'esprit est corporel de part en part, ou seulement que son instrument est abîmé, comme un musicien devant un violon cassé ?",
+        "en": "A glass of wine, a lesion, age: the body alters thinking down to character itself. Does this dependence prove that the mind is bodily through and through, or only that its instrument is damaged, like a musician with a broken violin?"
+      },
+      "doorways": [
+        {
+          "axis": "AFTERLIFE",
+          "problem": "thought-without-brain"
+        }
+      ]
+    },
+    {
+      "id": "emergence-as-an-answer",
+      "resolution": "LATENT",
+      "object": "STRUCTURE",
+      "objectLabel": {
+        "fr": "le passage des neurones au vécu",
+        "en": "the passage from neurons to experience"
+      },
+      "mode": "DESCRIPTIVE",
+      "relation": "RELATED",
+      "keywords": [
+        {
+          "fr": "émergence forte",
+          "en": "strong emergence"
+        },
+        {
+          "fr": "niveaux de réalité",
+          "en": "levels of reality"
+        }
+      ],
+      "poles": [
+        "PHYSICALISM",
+        "PROPERTY_DUALISM"
+      ],
+      "title": {
+        "fr": "Émerger, est-ce expliquer ?",
+        "en": "Is emerging explaining?"
+      },
+      "explicitation": {
+        "fr": "La réponse la plus courante aujourd'hui : la conscience « émerge » du cerveau comme la vie a émergé de la chimie. Mais nommer une émergence, est-ce expliquer comment du vécu peut naître de ce qui n'en a pas ?",
+        "en": "The most common answer today: consciousness \"emerges\" from the brain as life emerged from chemistry. But is naming an emergence explaining how experience can arise from what has none?"
+      },
+      "doorways": [
+        {
+          "axis": "REDUCTION_EMERGENCE"
+        }
+      ]
+    },
+    {
+      "id": "mind-first",
+      "resolution": "LATENT",
+      "object": "STRUCTURE",
+      "objectLabel": {
+        "fr": "l'ordre du réel",
+        "en": "the order of the real"
+      },
+      "mode": "DESCRIPTIVE",
+      "relation": "RELATED",
+      "keywords": [
+        {
+          "fr": "idéalisme",
+          "en": "idealism"
+        },
+        {
+          "fr": "immatérialisme",
+          "en": "immaterialism"
+        }
+      ],
+      "anchors": [
+        {
+          "name": {
+            "fr": "Berkeley",
+            "en": "Berkeley"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "berkeley"
+        }
+      ],
+      "title": {
+        "fr": "Et si l'esprit était premier ?",
+        "en": "What if mind came first?"
+      },
+      "explicitation": {
+        "fr": "Tout l'axe demande comment la matière produit l'esprit. Mais on peut renverser la question : et si l'esprit était premier, et la « matière » une apparence en lui ?",
+        "en": "The whole axis asks how matter produces mind. But the question can be reversed: what if mind came first, and \"matter\" were an appearance within it?"
+      },
+      "doorways": [
+        {
+          "axis": "REALITY_NATURE"
+        }
+      ]
+    }
   ]
 }

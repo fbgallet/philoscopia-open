@@ -51,8 +51,8 @@
         "en": "Culturalism"
       },
       "description": {
-        "fr": "Ce que nous prenons pour la nature humaine varie profondément d'une société à l'autre : les règles, les rôles et les manières de sentir sont des constructions culturelles. L'humain est l'être qui n'a pas de nature fixe, mais des cultures plurielles.",
-        "en": "What we take for human nature varies profoundly from one society to another: rules, roles, and ways of feeling are cultural constructions. The human is the being with no fixed nature, but with plural cultures."
+        "fr": "Ce que nous prenons pour la nature humaine varie profondément d'une société à l'autre : les règles, les rôles et les manières de sentir sont <ax id='SOCIAL_IDENTITY' pole='SOCIAL_CONSTRUCTION'>des constructions culturelles</ax>. L'humain est l'être qui n'a pas de nature fixe, mais des cultures plurielles.",
+        "en": "What we take for human nature varies profoundly from one society to another: rules, roles, and ways of feeling are <ax id='SOCIAL_IDENTITY' pole='SOCIAL_CONSTRUCTION'>cultural constructions</ax>. The human is the being with no fixed nature, but with plural cultures."
       },
       "figures": [
         {

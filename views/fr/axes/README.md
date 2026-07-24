@@ -77,7 +77,7 @@
 - [Foi et raison](faith-reason.md) : Quel rapport la foi entretient-elle avec la raison : accord, conflit ou indifférence ?
 - [Générations futures](future-generations.md) : Avons-nous des devoirs envers les générations futures ?
 - [Hiérarchie des goûts](taste-hierarchy.md) : Existe-t-il des plaisirs esthétiques supérieurs à d'autres, ou toute hiérarchie des goûts est-elle une construction sociale ?
-- [L'énigme de la conscience](consciousness-nature.md) : Une science du cerveau peut-elle expliquer entièrement l'expérience vécue ?
+- [L'énigme de la conscience](consciousness-nature.md) : L'expérience vécue est-elle quelque chose de plus que la structure et le fonctionnement du cerveau ?
 - [L'être et le devenir](being-becoming.md) : Le réel est-il, au fond, ce qui demeure ou ce qui devient ?
 - [Le beau](beauty.md) : La beauté est-elle dans les choses elles-mêmes ou dans le regard de celui qui les contemple ?
 - [Le beau dans la vie](aesthetic-life.md) : Le beau est-il au cœur d'une vie réussie, ou un luxe secondaire au regard de l'éthique et de l'utile ?

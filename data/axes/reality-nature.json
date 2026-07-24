@@ -11,8 +11,8 @@
     "en": "What is reality made of: matter, mind, or both?"
   },
   "stakes": {
-    "fr": "De quoi le monde est-il fait, au fond ? Dire que tout est matière, que tout est esprit, ou que le réel comporte deux ordres irréductibles, c'est fixer l'arrière-plan de tout le reste : ce que sont Dieu, la vie, la pensée, et ce qu'une connaissance du monde peut espérer atteindre. La question est la plus ancienne et la plus abstraite de la métaphysique, mais chaque vision du monde y répond, souvent sans le savoir.",
-    "en": "What, at bottom, is the world made of? To say that everything is matter, that everything is mind, or that reality comprises two irreducible orders is to set the background for everything else: what God, life, and thought are, and what an understanding of the world can hope to achieve. The question is the oldest and most abstract in metaphysics, yet every worldview answers it, often without realizing it."
+    "fr": "De quoi le monde est-il fait, au fond ? Dire que tout est matière, que tout est esprit, ou que le réel comporte deux ordres irréductibles, c'est fixer l'arrière-plan de tout le reste : <ax id='CONSCIOUSNESS_NATURE'>ce que sont Dieu, la vie, la pensée</ax>, et ce qu'une connaissance du monde peut espérer atteindre. La question est la plus ancienne et la plus abstraite de la métaphysique, mais chaque vision du monde y répond, souvent sans le savoir.",
+    "en": "What, at bottom, is the world made of? To say that everything is matter, that everything is mind, or that reality comprises two irreducible orders is to set the background for everything else: <ax id='CONSCIOUSNESS_NATURE'>what God, life, and thought are</ax>, and what an understanding of the world can hope to achieve. The question is the oldest and most abstract in metaphysics, yet every worldview answers it, often without realizing it."
   },
   "layer": "THEORY",
   "type": "CATEGORICAL",
@@ -53,8 +53,8 @@
         "en": "Idealism"
       },
       "description": {
-        "fr": "Le fond du réel n'est pas la matière, mais l'idée : des réalités intelligibles, que seule la pensée peut saisir, font que les choses sont ce qu'elles sont. Selon les versions, le monde sensible participe d'essences qui existent indépendamment de nos esprits, déploie une pensée qui s'y réalise, ou n'existe que pour un esprit qui le perçoit. La matière, loin d'être première, en dépend.",
-        "en": "At bottom, the real is not matter but idea: intelligible realities, which thought alone can grasp, make things what they are. Depending on the version, the sensible world participates in essences that exist independently of our minds, unfolds a thought that realizes itself in it, or exists only for a mind that perceives it. Matter, far from being primary, depends on it."
+        "fr": "Le fond du réel n'est pas la matière, mais l'idée : des réalités intelligibles, que seule la pensée peut saisir, font que les choses sont ce qu'elles sont. Selon les versions, le monde sensible participe <ax id='UNIVERSALS' pole='REALISM'>d'essences qui existent indépendamment de nos esprits</ax>, déploie une pensée qui s'y réalise, ou n'existe que pour un esprit qui le perçoit. La matière, loin d'être première, en dépend.",
+        "en": "At bottom, the real is not matter but idea: intelligible realities, which thought alone can grasp, make things what they are. Depending on the version, the sensible world participates in <ax id='UNIVERSALS' pole='REALISM'>essences that exist independently of our minds</ax>, unfolds a thought that realizes itself in it, or exists only for a mind that perceives it. Matter, far from being primary, depends on it."
       },
       "figures": [
         {

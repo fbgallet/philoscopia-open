@@ -6,7 +6,7 @@
 
 *The world · descriptive (theory) · categorical*
 
-What, at bottom, is the world made of? To say that everything is matter, that everything is mind, or that reality comprises two irreducible orders is to set the background for everything else: what God, life, and thought are, and what an understanding of the world can hope to achieve. The question is the oldest and most abstract in metaphysics, yet every worldview answers it, often without realizing it.
+What, at bottom, is the world made of? To say that everything is matter, that everything is mind, or that reality comprises two irreducible orders is to set the background for everything else: [what God, life, and thought are](../axes/consciousness-nature.md), and what an understanding of the world can hope to achieve. The question is the oldest and most abstract in metaphysics, yet every worldview answers it, often without realizing it.
 
 ## Poles
 
@@ -18,7 +18,7 @@ Everything that exists is material, including thought, which is merely a product
 
 ### Idealism
 
-At bottom, the real is not matter but idea: intelligible realities, which thought alone can grasp, make things what they are. Depending on the version, the sensible world participates in essences that exist independently of our minds, unfolds a thought that realizes itself in it, or exists only for a mind that perceives it. Matter, far from being primary, depends on it.
+At bottom, the real is not matter but idea: intelligible realities, which thought alone can grasp, make things what they are. Depending on the version, the sensible world participates in [essences that exist independently of our minds](../axes/universals.md), unfolds a thought that realizes itself in it, or exists only for a mind that perceives it. Matter, far from being primary, depends on it.
 
 *[Plato](../philosophers/plato.md) · [Berkeley](../philosophers/berkeley.md) · [Hegel](../philosophers/hegel.md)*
 
@@ -37,8 +37,8 @@ Reality comprises two irreducible orders: matter, extended and measurable, and m
 - *[Nature of reality](../axes/reality-nature.md) : Materialism* grounds *[Explaining nature](../axes/causality.md) : Mechanism* : A reality made only of matter acts solely through contact and the transfer of motion, with no ends or vital forces. Materialism therefore calls for a mechanistic reading of causality, where every effect is explained by its physical antecedents.
 - *[Nature of reality](../axes/reality-nature.md) : Materialism* grounds *[After death](../axes/afterlife.md) : Nothing survives* : If everything is matter, consciousness comes undone with the body that carries it: materialism grounds annihilation, as in [Lucretius](../philosophers/lucretius.md), where the soul, made of fine atoms, scatters at death. The link is not absolute: van Inwagen defends a materialist resurrection through divine re-creation.
 - *[Nature of reality](../axes/reality-nature.md) : Materialism* grounds *[Moral circle](../axes/moral-circle.md) : Pathocentrism* : If the human being is not a soul apart but an animal among animals, no metaphysical boundary radically separates its interests from those of other sentient beings. Materialism supports pathocentrism: what matters morally is not reason but the capacity to suffer, shared with the beasts. [Bentham](../philosophers/bentham.md) concludes that the real question is "can they suffer?", an argument [Singer](../philosophers/singer.md) revives against speciesism.
+- *[Nature of reality](../axes/reality-nature.md) : Materialism* grounds *[The enigma of consciousness](../axes/consciousness-nature.md) : Physicalism* : If everything that exists is material, consciousness can only be a property of the brain: mental states are physical states that science will eventually identify. Materialism thus leads to reductive physicalism, which denies mind any reality distinct from neural activity.
 - *[Nature of reality](../axes/reality-nature.md) : Materialism* grounds *[Wholes and parts](../axes/reduction-emergence.md) : Reductionism* : If only matter exists, the properties of wholes must in principle be explained by those of their physical parts. Materialism thereby encourages reductionism, for which the higher level is in principle reducible to the lower.
-- *[Nature of reality](../axes/reality-nature.md) : Materialism* grounds *[The enigma of consciousness](../axes/consciousness-nature.md) : Reductive physicalism* : If everything that exists is material, consciousness can only be a property of the brain: mental states are physical states that science will eventually identify. Materialism thus leads to reductive physicalism, which denies mind any reality distinct from neural activity.
 
 ## Quotations
 

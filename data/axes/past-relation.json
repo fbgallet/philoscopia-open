@@ -53,8 +53,8 @@
         "en": "Revolt"
       },
       "description": {
-        "fr": "Consentir à tout ce qui est arrivé, c'est risquer de bénir aussi l'injustice et le mal. La dignité humaine exige de maintenir le refus : reconnaître ce qui fut sans jamais l'approuver, et puiser dans cette révolte la force d'agir.",
-        "en": "To consent to everything that has happened is to risk blessing injustice and evil as well. Human dignity demands that we maintain our refusal: acknowledging what was without ever endorsing it, and drawing from this revolt the strength to act."
+        "fr": "Consentir à tout ce qui est arrivé, c'est <ax id='PROBLEM_OF_EVIL' pole='ANTI_THEODICY'>risquer de bénir aussi l'injustice et le mal</ax>. La dignité humaine exige de maintenir le refus : reconnaître ce qui fut sans jamais l'approuver, et puiser dans cette révolte la force d'agir.",
+        "en": "To consent to everything that has happened is to <ax id='PROBLEM_OF_EVIL' pole='ANTI_THEODICY'>risk blessing injustice and evil as well</ax>. Human dignity demands that we maintain our refusal: acknowledging what was without ever endorsing it, and drawing from this revolt the strength to act."
       },
       "figures": [
         {

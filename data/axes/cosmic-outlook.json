@@ -11,8 +11,8 @@
     "en": "Is the world fundamentally good, or marked by the tragic?"
   },
   "stakes": {
-    "fr": "La même existence peut se lire comme un don digne de confiance ou comme une lutte sans réconciliation finale, et cette teinte de fond colore d'avance nos joies comme nos malheurs. Se positionner, c'est dire si l'espérance est lucidité ou aveuglement.",
-    "en": "The same existence can be read as a gift worthy of trust or as a struggle with no final reconciliation, and this background hue colours our joys and misfortunes in advance. To take a position is to say whether hope is lucidity or blindness."
+    "fr": "La même existence peut se lire comme un don digne de confiance ou comme une lutte sans réconciliation finale, et cette teinte de fond colore d'avance nos joies comme nos malheurs. Se positionner, c'est dire <ax id='HOPE'>si l'espérance est lucidité ou aveuglement</ax>.",
+    "en": "The same existence can be read as a gift worthy of trust or as a struggle with no final reconciliation, and this background hue colours our joys and misfortunes in advance. To take a position is to say <ax id='HOPE'>whether hope is lucidity or blindness</ax>."
   },
   "layer": "THEORY",
   "type": "BIPOLAR",
@@ -24,8 +24,8 @@
         "en": "Metaphysical optimism"
       },
       "description": {
-        "fr": "Le réel est fondamentalement ordonné et orienté vers le bien : le mal n'est qu'une ombre locale dans un tableau d'ensemble harmonieux ou en progrès. Même les épreuves de l'histoire participent d'une rationalité qui les dépasse.",
-        "en": "Reality is fundamentally ordered and oriented toward the good: evil is only a local shadow within a harmonious or progressing whole. Even the trials of history take part in a rationality that surpasses them."
+        "fr": "Le réel est fondamentalement ordonné et orienté vers le bien : <ax id='PROBLEM_OF_EVIL' pole='THEODICY'>le mal n'est qu'une ombre locale dans un tableau d'ensemble harmonieux ou en progrès</ax>. Même les épreuves de l'histoire participent d'une rationalité qui les dépasse.",
+        "en": "Reality is fundamentally ordered and oriented toward the good: <ax id='PROBLEM_OF_EVIL' pole='THEODICY'>evil is only a local shadow within a harmonious or progressing whole</ax>. Even the trials of history take part in a rationality that surpasses them."
       },
       "figures": [
         {
@@ -51,8 +51,8 @@
         "en": "Tragic thought"
       },
       "description": {
-        "fr": "Le monde n'est ni rationnel ni bienveillant : la souffrance, le conflit et le non-sens sont au cœur de l'existence et aucune harmonie finale ne viendra les racheter. La lucidité commande de regarder ce fond tragique en face plutôt que de l'embellir.",
-        "en": "The world is neither rational nor benevolent: suffering, conflict and meaninglessness lie at the heart of existence, and no final harmony will redeem them. Lucidity demands facing this tragic ground rather than embellishing it."
+        "fr": "Le monde n'est ni rationnel ni bienveillant : la souffrance, le conflit et le non-sens sont au cœur de l'existence et <ax id='PROBLEM_OF_EVIL' pole='ANTI_THEODICY'>aucune harmonie finale ne viendra les racheter</ax>. La lucidité commande de regarder ce fond tragique en face plutôt que de l'embellir.",
+        "en": "The world is neither rational nor benevolent: suffering, conflict and meaninglessness lie at the heart of existence, and <ax id='PROBLEM_OF_EVIL' pole='ANTI_THEODICY'>no final harmony will redeem them</ax>. Lucidity demands facing this tragic ground rather than embellishing it."
       },
       "figures": [
         {

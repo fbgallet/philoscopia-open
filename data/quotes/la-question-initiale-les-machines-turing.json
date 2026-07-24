@@ -1,0 +1,25 @@
+{
+  "id": "la-question-initiale-les-machines-turing",
+  "text": {
+    "fr": "La question initiale, « les machines peuvent-elles penser ? », me paraît trop dénuée de sens pour mériter qu'on en discute.",
+    "en": "The original question, \"Can machines think?\", I believe to be too meaningless to deserve discussion."
+  },
+  "author": {
+    "name": {
+      "fr": "Turing",
+      "en": "Turing"
+    },
+    "kind": "PHILOSOPHER",
+    "slug": "turing"
+  },
+  "source": {
+    "fr": "« Computing Machinery and Intelligence », Mind (1950)",
+    "en": "\"Computing Machinery and Intelligence\", Mind (1950)"
+  },
+  "anchors": [
+    {
+      "axisId": "MACHINE_MIND"
+    }
+  ],
+  "updatedAt": "2026-07-25T00:00:00.000Z"
+}

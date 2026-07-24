@@ -11,8 +11,8 @@
     "en": "Does something of us survive death?"
   },
   "stakes": {
-    "fr": "C'est peut-être la plus ancienne question humaine : les tombes sont plus vieilles que l'écriture. Si une âme survit, si quelque chose renaît, la mort change de sens et la vie présente devient préparation, épreuve ou passage ; si rien ne survit, tout ce qui compte doit tenir entre la naissance et la fin. Se positionner, c'est dire ce que la mort termine vraiment, et ce qu'on peut, sans se payer de mots, espérer lui voir échapper.",
-    "en": "It may be humanity's oldest question: graves are older than writing. If a soul survives, if something is reborn, death changes meaning and this life becomes a preparation, a trial, or a passage; if nothing survives, everything that matters must fit between birth and the end. To take a position is to say what death really ends, and what we can honestly hope escapes it."
+    "fr": "C'est peut-être la plus ancienne question humaine : les tombes sont plus vieilles que l'écriture. Si une âme survit, si quelque chose renaît, <ax id='DEATH'>la mort change de sens</ax> et la vie présente devient préparation, épreuve ou passage ; si rien ne survit, tout ce qui compte doit tenir entre la naissance et la fin. Se positionner, c'est dire ce que la mort termine vraiment, et ce qu'on peut, sans se payer de mots, espérer lui voir échapper.",
+    "en": "It may be humanity's oldest question: graves are older than writing. If a soul survives, if something is reborn, <ax id='DEATH'>death changes meaning</ax> and this life becomes a preparation, a trial, or a passage; if nothing survives, everything that matters must fit between birth and the end. To take a position is to say what death really ends, and what we can honestly hope escapes it."
   },
   "aliases": {
     "fr": [
@@ -42,8 +42,8 @@
         "en": "The immortal soul"
       },
       "description": {
-        "fr": "Quelque chose en nous n'est pas du corps et ne meurt pas avec lui : une âme, un principe spirituel, qui poursuit son existence après la dissolution du corps. La mort n'est alors pas une fin mais une séparation ; ce que nous avons de plus propre est précisément ce qui ne peut pas mourir.",
-        "en": "Something in us is not of the body and does not die with it: a soul, a spiritual principle, whose existence continues after the body dissolves. Death is then not an end but a separation; what is most our own is precisely what cannot die."
+        "fr": "<ax id='CONSCIOUSNESS_NATURE' pole='SUBSTANCE_DUALISM'>Quelque chose en nous n'est pas du corps et ne meurt pas avec lui</ax> : une âme, un principe spirituel, qui poursuit son existence après la dissolution du corps. La mort n'est alors pas une fin mais une séparation ; ce que nous avons de plus propre est précisément ce qui ne peut pas mourir.",
+        "en": "<ax id='CONSCIOUSNESS_NATURE' pole='SUBSTANCE_DUALISM'>Something in us is not of the body and does not die with it</ax>: a soul, a spiritual principle, whose existence continues after the body dissolves. Death is then not an end but a separation; what is most our own is precisely what cannot die."
       },
       "nuances": [
         {
@@ -112,8 +112,8 @@
         "en": "Nothing survives"
       },
       "description": {
-        "fr": "La personne finit avec le corps : la conscience, née de la matière organisée, se défait avec elle. Ce qui demeure n'est pas elle : des œuvres, des enfants, une mémoire chez d'autres, des traces qui durent tant qu'on les porte. La seule éternité disponible est celle des choses faites, non de celui qui les a faites.",
-        "en": "The person ends with the body: consciousness, born of organized matter, comes undone with it. What remains is not the person: works, children, a memory in others, traces that last as long as someone carries them. The only eternity available is that of things done, not of the one who did them."
+        "fr": "La personne finit avec le corps : <ax id='CONSCIOUSNESS_NATURE' pole='PHYSICALISM'>la conscience, née de la matière organisée, se défait avec elle</ax>. Ce qui demeure n'est pas elle : des œuvres, des enfants, une mémoire chez d'autres, des traces qui durent tant qu'on les porte. La seule éternité disponible est celle des choses faites, non de celui qui les a faites.",
+        "en": "The person ends with the body: <ax id='CONSCIOUSNESS_NATURE' pole='PHYSICALISM'>consciousness, born of organized matter, comes undone with it</ax>. What remains is not the person: works, children, a memory in others, traces that last as long as someone carries them. The only eternity available is that of things done, not of the one who did them."
       },
       "nuances": [
         {
@@ -374,7 +374,8 @@
       ],
       "doorways": [
         {
-          "axis": "CONSCIOUSNESS_NATURE"
+          "axis": "CONSCIOUSNESS_NATURE",
+          "problem": "mind-at-the-mercy-of-the-body"
         }
       ],
       "title": {

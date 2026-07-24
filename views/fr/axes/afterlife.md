@@ -6,13 +6,13 @@
 
 *Le soi · descriptif (théorie) · triangulaire · axe nodal*
 
-C'est peut-être la plus ancienne question humaine : les tombes sont plus vieilles que l'écriture. Si une âme survit, si quelque chose renaît, la mort change de sens et la vie présente devient préparation, épreuve ou passage ; si rien ne survit, tout ce qui compte doit tenir entre la naissance et la fin. Se positionner, c'est dire ce que la mort termine vraiment, et ce qu'on peut, sans se payer de mots, espérer lui voir échapper.
+C'est peut-être la plus ancienne question humaine : les tombes sont plus vieilles que l'écriture. Si une âme survit, si quelque chose renaît, [la mort change de sens](../axes/death.md) et la vie présente devient préparation, épreuve ou passage ; si rien ne survit, tout ce qui compte doit tenir entre la naissance et la fin. Se positionner, c'est dire ce que la mort termine vraiment, et ce qu'on peut, sans se payer de mots, espérer lui voir échapper.
 
 ## Pôles
 
 ### L'âme immortelle
 
-Quelque chose en nous n'est pas du corps et ne meurt pas avec lui : une âme, un principe spirituel, qui poursuit son existence après la dissolution du corps. La mort n'est alors pas une fin mais une séparation ; ce que nous avons de plus propre est précisément ce qui ne peut pas mourir.
+[Quelque chose en nous n'est pas du corps et ne meurt pas avec lui](../axes/consciousness-nature.md) : une âme, un principe spirituel, qui poursuit son existence après la dissolution du corps. La mort n'est alors pas une fin mais une séparation ; ce que nous avons de plus propre est précisément ce qui ne peut pas mourir.
 
 - Dans les monothéismes, la survie de l'âme s'achève en résurrection : pour Thomas d'Aquin, l'âme séparée subsiste, mais la personne n'est complète qu'au corps retrouvé. Le mode de la survie (âme immortelle par nature, ou personne rétablie par un acte de Dieu) est la querelle interne du pôle.
 
@@ -29,7 +29,7 @@ La mort n'est pas une fin mais un relais : quelque chose se poursuit de vie en v
 
 ### Rien ne survit
 
-La personne finit avec le corps : la conscience, née de la matière organisée, se défait avec elle. Ce qui demeure n'est pas elle : des œuvres, des enfants, une mémoire chez d'autres, des traces qui durent tant qu'on les porte. La seule éternité disponible est celle des choses faites, non de celui qui les a faites.
+La personne finit avec le corps : [la conscience, née de la matière organisée, se défait avec elle](../axes/consciousness-nature.md). Ce qui demeure n'est pas elle : des œuvres, des enfants, une mémoire chez d'autres, des traces qui durent tant qu'on les porte. La seule éternité disponible est celle des choses faites, non de celui qui les a faites.
 
 - L'immortalité symbolique (survivre dans ses œuvres, sa descendance, la mémoire, de Diotime à Arendt) n'est pas une survie de la personne : c'est une réponse existentielle au fait qu'il n'y en a pas. Elle se discute ici et sur l'axe des attitudes devant la mort.
 

@@ -6,13 +6,13 @@
 
 *The self · descriptive (theory) · categorical*
 
-What makes me the same person as the child in the old photographs, or as the one I will be in thirty years? If nothing stable endures, promises, remorse, and pride in a past self lose their footing; if a core remains, no change ever truly remakes me. To take a position is to say what exactly we are holding onto when we say "me."
+What makes me the same person as the child in the old photographs, or as the one I will be in thirty years? [If nothing stable endures](../axes/being-becoming.md), promises, remorse, and pride in a past self lose their footing; if a core remains, no change ever truly remakes me. To take a position is to say what exactly we are holding onto when we say "me."
 
 ## Poles
 
 ### Substantialism
 
-The self is a substance: a thinking thing, distinct from the body, that remains identical beneath the flow of thoughts and experiences. This permanent core is what each of us refers to when saying "I".
+The self is a substance: [a thinking thing, distinct from the body](../axes/consciousness-nature.md), that remains identical beneath the flow of thoughts and experiences. This permanent core is what each of us refers to when saying "I".
 
 *[Descartes](../philosophers/descartes.md)*
 
@@ -69,7 +69,7 @@ There is no permanent self: only a bundle of perceptions, thoughts and sensation
 
 ## Related axes
 
-[Being or having a body](../axes/embodiment.md) · [Essence and existence](../axes/essence.md) · [Freedom of the will](../axes/freedom.md) · [Social identity](../axes/social-identity.md) · [Death](../axes/death.md) · [Being and becoming](../axes/being-becoming.md) · [After death](../axes/afterlife.md)
+[Being or having a body](../axes/embodiment.md) · [Essence and existence](../axes/essence.md) · [Freedom of the will](../axes/freedom.md) · [Social identity](../axes/social-identity.md) · [Death](../axes/death.md) · [Being and becoming](../axes/being-becoming.md) · [After death](../axes/afterlife.md) · [The enigma of consciousness](../axes/consciousness-nature.md)
 
 ---
 

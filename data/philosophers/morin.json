@@ -1,0 +1,19 @@
+{
+  "kind": "PHILOSOPHER",
+  "stub": true,
+  "id": "morin",
+  "name": { "fr": "Morin", "en": "Morin" },
+  "aliases": {
+    "fr": ["Edgar Morin", "pensée complexe", "morinien"],
+    "en": ["Edgar Morin", "complex thought"]
+  },
+  "summary": {
+    "fr": "Sociologue et philosophe français, penseur de la complexité : contre une science qui n'avance qu'en découpant, il défend une pensée des relations et des niveaux, capable de tenir ensemble ce que les disciplines séparent. Son œuvre majeure, La Méthode, s'étend sur près de trente ans.",
+    "en": "French sociologist and philosopher, thinker of complexity: against a science that advances only by dividing, he defends a thinking of relations and levels, able to hold together what the disciplines separate. His major work, La Méthode, spans nearly thirty years."
+  },
+  "nationality": { "fr": "Français", "en": "French" },
+  "birth": 1921,
+  "movements": [],
+  "updatedAt": "2026-07-25T00:00:00.000Z",
+  "validation": { "method": "NOT_VALIDATED" }
+}

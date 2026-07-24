@@ -6,7 +6,7 @@
 
 *Autrui · valeur · bipolaire*
 
-Viser la cité idéale peut inspirer et soulever, mais aussi justifier tous les sacrifices au nom d'un avenir qui ne vient jamais ; prendre les hommes tels qu'ils sont évite les catastrophes, mais peut se résigner à l'injustice au nom du « réalisme ». Se positionner, c'est dire si la politique doit poursuivre le meilleur ou conjurer le pire.
+Viser la cité idéale peut inspirer et soulever, mais aussi justifier tous les sacrifices au nom d'un avenir qui ne vient jamais ; [prendre les hommes tels qu'ils sont](../axes/human-vision.md) évite les catastrophes, mais peut se résigner à l'injustice au nom du « réalisme ». Se positionner, c'est dire si la politique doit poursuivre le meilleur ou conjurer le pire.
 
 ## Pôles
 

@@ -6,19 +6,19 @@
 
 *Le soi · descriptif (théorie) · bipolaire*
 
-La même existence peut se lire comme un don digne de confiance ou comme une lutte sans réconciliation finale, et cette teinte de fond colore d'avance nos joies comme nos malheurs. Se positionner, c'est dire si l'espérance est lucidité ou aveuglement.
+La même existence peut se lire comme un don digne de confiance ou comme une lutte sans réconciliation finale, et cette teinte de fond colore d'avance nos joies comme nos malheurs. Se positionner, c'est dire [si l'espérance est lucidité ou aveuglement](../axes/hope.md).
 
 ## Pôles
 
 ### Optimisme métaphysique
 
-Le réel est fondamentalement ordonné et orienté vers le bien : le mal n'est qu'une ombre locale dans un tableau d'ensemble harmonieux ou en progrès. Même les épreuves de l'histoire participent d'une rationalité qui les dépasse.
+Le réel est fondamentalement ordonné et orienté vers le bien : [le mal n'est qu'une ombre locale dans un tableau d'ensemble harmonieux ou en progrès](../axes/problem-of-evil.md). Même les épreuves de l'histoire participent d'une rationalité qui les dépasse.
 
 *[Leibniz](../philosophers/leibniz.md) · [Hegel](../philosophers/hegel.md)*
 
 ### Pensée tragique
 
-Le monde n'est ni rationnel ni bienveillant : la souffrance, le conflit et le non-sens sont au cœur de l'existence et aucune harmonie finale ne viendra les racheter. La lucidité commande de regarder ce fond tragique en face plutôt que de l'embellir.
+Le monde n'est ni rationnel ni bienveillant : la souffrance, le conflit et le non-sens sont au cœur de l'existence et [aucune harmonie finale ne viendra les racheter](../axes/problem-of-evil.md). La lucidité commande de regarder ce fond tragique en face plutôt que de l'embellir.
 
 *[Schopenhauer](../philosophers/schopenhauer.md) · [Camus](../philosophers/camus.md)*
 

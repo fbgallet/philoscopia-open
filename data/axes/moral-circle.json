@@ -71,8 +71,8 @@
         "en": "Pathocentrism"
       },
       "description": {
-        "fr": "Tout être capable de souffrir compte moralement. La question n'est pas « peuvent-ils raisonner ? » mais « peuvent-ils souffrir ? » : les animaux sensibles entrent donc dans le cercle moral, et leurs intérêts méritent une considération égale, à intérêts comparables.",
-        "en": "Every being capable of suffering counts morally. The question is not \"can they reason?\" but \"can they suffer?\": sentient animals thus enter the moral circle, and their interests deserve equal consideration where interests are comparable."
+        "fr": "<ax id='CONSCIOUSNESS_NATURE'>Tout être capable de souffrir</ax> compte moralement. La question n'est pas « peuvent-ils raisonner ? » mais « peuvent-ils souffrir ? » : les animaux sensibles entrent donc dans le cercle moral, et leurs intérêts méritent une considération égale, à intérêts comparables.",
+        "en": "<ax id='CONSCIOUSNESS_NATURE'>Every being capable of suffering</ax> counts morally. The question is not \"can they reason?\" but \"can they suffer?\": sentient animals thus enter the moral circle, and their interests deserve equal consideration where interests are comparable."
       },
       "figures": [
         {
@@ -152,7 +152,8 @@
     "MORAL_DEMAND",
     "MORAL_SCOPE",
     "RIGHTS_NATURE",
-    "PARTIALITY"
+    "PARTIALITY",
+    "CONSCIOUSNESS_NATURE"
   ],
   "problems": [
     {
@@ -392,6 +393,10 @@
         {
           "axis": "MACHINE_MIND",
           "problem": "turing-test"
+        },
+        {
+          "axis": "CONSCIOUSNESS_NATURE",
+          "problem": "other-minds"
         }
       ],
       "title": {

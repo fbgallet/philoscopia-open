@@ -11,8 +11,8 @@
     "en": "Could a machine ever truly think?"
   },
   "stakes": {
-    "fr": "Si penser n'est qu'une affaire d'organisation, une machine pourrait penser pour de bon, et nous lui devrions peut-être quelque chose. Si exécuter un programme ne suffit pas, nos machines ne font qu'imiter, sans qu'il soit exclu qu'un artefact d'un autre genre y parvienne un jour. Et si la pensée est indissociable de la vie, la plus brillante des machines restera une chose. Se positionner, c'est dire ce qui fait un esprit.",
-    "en": "If thinking is only a matter of organization, a machine could genuinely think, and we might owe it something. If running a program is not enough, our machines merely imitate, though an artifact of another kind might one day succeed. And if thought is inseparable from life, the most brilliant machine will remain a thing. To take a position is to say what makes a mind."
+    "fr": "Si penser n'est qu'une affaire d'organisation, une machine pourrait penser pour de bon, et <ax id='MORAL_CIRCLE'>nous lui devrions peut-être quelque chose</ax>. Si exécuter un programme ne suffit pas, nos machines ne font qu'imiter, sans qu'il soit exclu qu'un artefact d'un autre genre y parvienne un jour. Et si la pensée est indissociable de la vie, la plus brillante des machines restera une chose. Se positionner, c'est dire ce qui fait un esprit.",
+    "en": "If thinking is only a matter of organization, a machine could genuinely think, and <ax id='MORAL_CIRCLE'>we might owe it something</ax>. If running a program is not enough, our machines merely imitate, though an artifact of another kind might one day succeed. And if thought is inseparable from life, the most brilliant machine will remain a thing. To take a position is to say what makes a mind."
   },
   "layer": "THEORY",
   "type": "BIPOLAR_MEDIAN",
@@ -51,8 +51,8 @@
         "en": "Only the living think"
       },
       "description": {
-        "fr": "La pensée n'est pas une organisation abstraite mais l'activité d'un être vivant : sentir, vouloir, comprendre naissent avec la vie et son souci de durer. Une machine, si brillante soit-elle, reste une chose fabriquée : elle calcule, mais rien ne lui importe.",
-        "en": "Thought is not an abstract organization but the activity of a living being: feeling, wanting, understanding are born with life and its concern to endure. A machine, however brilliant, remains a fabricated thing: it computes, but nothing matters to it."
+        "fr": "La pensée n'est pas une organisation abstraite mais l'activité d'un être vivant : sentir, vouloir, comprendre naissent avec la vie et <c id='conatus'>son souci de durer</c>. Une machine, si brillante soit-elle, reste une chose fabriquée : elle calcule, mais rien ne lui importe.",
+        "en": "Thought is not an abstract organization but the activity of a living being: feeling, wanting, understanding are born with life and <c id='conatus'>its concern to endure</c>. A machine, however brilliant, remains a fabricated thing: it computes, but nothing matters to it."
       },
       "figures": [
         {
@@ -70,8 +70,8 @@
     "en": "Not by program alone"
   },
   "medianDescription": {
-    "fr": "Exécuter un programme ne sera jamais penser : simuler la compréhension n'est pas comprendre. Mais rien n'interdit qu'un artefact pense un jour, s'il reproduit ce qui compte : les pouvoirs causaux du cerveau vivant, ou l'engagement d'un corps dans un monde.",
-    "en": "Running a program will never be thinking: simulating understanding is not understanding. But nothing rules out that an artifact might think one day, if it reproduces what matters: the causal powers of the living brain, or a body's engagement with a world."
+    "fr": "Exécuter un programme ne sera jamais penser : simuler la compréhension n'est pas comprendre. Mais rien n'interdit qu'un artefact pense un jour, s'il reproduit ce qui compte : <ax id='CONSCIOUSNESS_NATURE' pole='PHYSICALISM'>les pouvoirs causaux du cerveau vivant</ax>, ou l'engagement d'un corps dans un monde.",
+    "en": "Running a program will never be thinking: simulating understanding is not understanding. But nothing rules out that an artifact might think one day, if it reproduces what matters: <ax id='CONSCIOUSNESS_NATURE' pole='PHYSICALISM'>the causal powers of the living brain</ax>, or a body's engagement with a world."
   },
   "core": false,
   "difficulty": 2,
@@ -89,69 +89,173 @@
       "id": "chinese-room",
       "resolution": "SURFACED",
       "object": "INDIVIDUAL",
-      "objectLabel": { "fr": "un esprit qui comprend", "en": "a mind that understands" },
+      "objectLabel": {
+        "fr": "un esprit qui comprend",
+        "en": "a mind that understands"
+      },
       "mode": "DESCRIPTIVE",
       "relation": "SUBPROBLEM",
       "keywords": [
-        { "fr": "syntaxe et sémantique", "en": "syntax and semantics" },
-        { "fr": "compréhension", "en": "understanding" },
-        { "fr": "intentionnalité", "en": "intentionality" },
-        { "fr": "grands modèles de langage", "en": "large language models" }
+        {
+          "fr": "syntaxe et sémantique",
+          "en": "syntax and semantics"
+        },
+        {
+          "fr": "compréhension",
+          "en": "understanding"
+        },
+        {
+          "fr": "intentionnalité",
+          "en": "intentionality"
+        },
+        {
+          "fr": "grands modèles de langage",
+          "en": "large language models"
+        }
       ],
-      "poles": ["FUNCTIONALISM", "ONLY_LIFE_THINKS"],
+      "poles": [
+        "FUNCTIONALISM",
+        "ONLY_LIFE_THINKS"
+      ],
       "anchors": [
-        { "name": { "fr": "Searle", "en": "Searle" }, "kind": "PHILOSOPHER", "slug": "searle" },
-        { "name": { "fr": "Turing", "en": "Turing" }, "kind": "PHILOSOPHER", "slug": "turing" }
+        {
+          "name": {
+            "fr": "Searle",
+            "en": "Searle"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "searle"
+        },
+        {
+          "name": {
+            "fr": "Turing",
+            "en": "Turing"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "turing"
+        }
       ],
-      "title": { "fr": "La chambre chinoise", "en": "The Chinese Room" },
+      "title": {
+        "fr": "La chambre chinoise",
+        "en": "The Chinese Room"
+      },
       "explicitation": {
         "fr": "Enfermé dans une pièce, on répond parfaitement en chinois en suivant un manuel, sans comprendre un mot : exécuter un programme, est-ce jamais comprendre, ou seulement en donner tous les signes ?",
         "en": "Locked in a room, one answers flawlessly in Chinese by following a rulebook, without understanding a word: is running a program ever understanding, or only giving every sign of it?"
       },
-      "ref": { "kind": "THOUGHT_EXPERIMENT", "id": "chinese-room" }
+      "ref": {
+        "kind": "THOUGHT_EXPERIMENT",
+        "id": "chinese-room"
+      }
     },
     {
       "id": "turing-test",
       "resolution": "SURFACED",
       "object": "RELATION",
-      "objectLabel": { "fr": "une conversation", "en": "a conversation" },
+      "objectLabel": {
+        "fr": "une conversation",
+        "en": "a conversation"
+      },
       "mode": "DESCRIPTIVE",
       "relation": "SUBPROBLEM",
       "keywords": [
-        { "fr": "jeu de l'imitation", "en": "imitation game" },
-        { "fr": "critère comportemental", "en": "behavioural criterion" },
-        { "fr": "autres esprits", "en": "other minds" }
+        {
+          "fr": "jeu de l'imitation",
+          "en": "imitation game"
+        },
+        {
+          "fr": "critère comportemental",
+          "en": "behavioural criterion"
+        },
+        {
+          "fr": "autres esprits",
+          "en": "other minds"
+        }
       ],
-      "poles": ["FUNCTIONALISM", "ONLY_LIFE_THINKS"],
+      "poles": [
+        "FUNCTIONALISM",
+        "ONLY_LIFE_THINKS"
+      ],
       "anchors": [
-        { "name": { "fr": "Turing", "en": "Turing" }, "kind": "PHILOSOPHER", "slug": "turing" },
-        { "name": { "fr": "Searle", "en": "Searle" }, "kind": "PHILOSOPHER", "slug": "searle" }
+        {
+          "name": {
+            "fr": "Turing",
+            "en": "Turing"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "turing"
+        },
+        {
+          "name": {
+            "fr": "Searle",
+            "en": "Searle"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "searle"
+        }
       ],
-      "title": { "fr": "Le jeu de l'imitation", "en": "The imitation game" },
+      "title": {
+        "fr": "Le jeu de l'imitation",
+        "en": "The imitation game"
+      },
       "explicitation": {
         "fr": "Si, dans une conversation à l'aveugle, rien ne distingue la machine d'une personne, faut-il lui accorder la pensée, ou réussir à passer pour un esprit ne prouve-t-il jamais qu'il y en a un ?",
         "en": "If, in a blind conversation, nothing tells the machine from a person, must we grant it thought, or does passing for a mind never prove there is one?"
       },
-      "ref": { "kind": "THOUGHT_EXPERIMENT", "id": "turing-test" }
+      "ref": {
+        "kind": "THOUGHT_EXPERIMENT",
+        "id": "turing-test"
+      }
     },
     {
       "id": "intelligence-without-body",
       "resolution": "LATENT",
       "object": "INDIVIDUAL",
-      "objectLabel": { "fr": "une intelligence désincarnée", "en": "a disembodied intelligence" },
+      "objectLabel": {
+        "fr": "une intelligence désincarnée",
+        "en": "a disembodied intelligence"
+      },
       "mode": "DESCRIPTIVE",
       "relation": "SUBPROBLEM",
       "keywords": [
-        { "fr": "cognition incarnée", "en": "embodied cognition" },
-        { "fr": "être-au-monde", "en": "being-in-the-world" },
-        { "fr": "savoir-faire", "en": "know-how" }
+        {
+          "fr": "cognition incarnée",
+          "en": "embodied cognition"
+        },
+        {
+          "fr": "être-au-monde",
+          "en": "being-in-the-world"
+        },
+        {
+          "fr": "savoir-faire",
+          "en": "know-how"
+        }
       ],
-      "poles": ["FUNCTIONALISM", "ONLY_LIFE_THINKS"],
+      "poles": [
+        "FUNCTIONALISM",
+        "ONLY_LIFE_THINKS"
+      ],
       "anchors": [
-        { "name": { "fr": "Dreyfus", "en": "Dreyfus" }, "kind": "PHILOSOPHER" },
-        { "name": { "fr": "Merleau-Ponty", "en": "Merleau-Ponty" }, "kind": "PHILOSOPHER", "slug": "merleau-ponty" }
+        {
+          "name": {
+            "fr": "Dreyfus",
+            "en": "Dreyfus"
+          },
+          "kind": "PHILOSOPHER"
+        },
+        {
+          "name": {
+            "fr": "Merleau-Ponty",
+            "en": "Merleau-Ponty"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "merleau-ponty"
+        }
       ],
-      "title": { "fr": "Une intelligence sans corps", "en": "Intelligence without a body" },
+      "title": {
+        "fr": "Une intelligence sans corps",
+        "en": "Intelligence without a body"
+      },
       "explicitation": {
         "fr": "Un programme traite des signes hors de tout monde ; mais comprendre une situation, agir avec à-propos, suppose peut-être un corps vivant qui l'habite, que la machine désincarnée n'a pas.",
         "en": "A program processes signs outside any world; but grasping a situation, acting with tact, may require a living body that inhabits it, which the disembodied machine lacks."
@@ -161,21 +265,55 @@
       "id": "strange-realizers",
       "resolution": "LATENT",
       "object": "STRUCTURE",
-      "objectLabel": { "fr": "le support de la pensée", "en": "the substrate of thought" },
+      "objectLabel": {
+        "fr": "le support de la pensée",
+        "en": "the substrate of thought"
+      },
       "mode": "DESCRIPTIVE",
       "relation": "SUBPROBLEM",
       "keywords": [
-        { "fr": "réalisabilité multiple", "en": "multiple realizability" },
-        { "fr": "peuple-cerveau", "en": "China brain" },
-        { "fr": "substrat", "en": "substrate" }
+        {
+          "fr": "réalisabilité multiple",
+          "en": "multiple realizability"
+        },
+        {
+          "fr": "peuple-cerveau",
+          "en": "China brain"
+        },
+        {
+          "fr": "substrat",
+          "en": "substrate"
+        }
       ],
-      "poles": ["FUNCTIONALISM", "ONLY_LIFE_THINKS"],
+      "poles": [
+        "FUNCTIONALISM",
+        "ONLY_LIFE_THINKS"
+      ],
       "anchors": [
-        { "name": { "fr": "Putnam", "en": "Putnam" }, "kind": "PHILOSOPHER" },
-        { "name": { "fr": "Block", "en": "Block" }, "kind": "PHILOSOPHER" }
+        {
+          "name": {
+            "fr": "Putnam",
+            "en": "Putnam"
+          },
+          "kind": "PHILOSOPHER"
+        },
+        {
+          "name": {
+            "fr": "Block",
+            "en": "Block"
+          },
+          "kind": "PHILOSOPHER"
+        }
       ],
-      "doorways": [ { "axis": "REDUCTION_EMERGENCE" } ],
-      "title": { "fr": "Peu importe le support ?", "en": "Does the substrate matter?" },
+      "doorways": [
+        {
+          "axis": "REDUCTION_EMERGENCE"
+        }
+      ],
+      "title": {
+        "fr": "Peu importe le support ?",
+        "en": "Does the substrate matter?"
+      },
       "explicitation": {
         "fr": "Si l'organisation exacte de votre cerveau était reproduite par tout un peuple s'échangeant des messages, cet attroupement penserait-il vraiment, ou certaines matières seules donnent-elles un esprit ?",
         "en": "If the exact organization of your brain were reproduced by a whole people passing messages, would that crowd really think, or do only certain materials yield a mind?"
@@ -185,21 +323,57 @@
       "id": "thinking-or-feeling",
       "resolution": "LATENT",
       "object": "INDIVIDUAL",
-      "objectLabel": { "fr": "le ressenti d'une machine", "en": "a machine's inner feel" },
+      "objectLabel": {
+        "fr": "le ressenti d'une machine",
+        "en": "a machine's inner feel"
+      },
       "mode": "DESCRIPTIVE",
       "relation": "RELATED",
       "keywords": [
-        { "fr": "qualia", "en": "qualia" },
-        { "fr": "zombie", "en": "zombie" },
-        { "fr": "problème difficile", "en": "the hard problem" }
+        {
+          "fr": "qualia",
+          "en": "qualia"
+        },
+        {
+          "fr": "zombie",
+          "en": "zombie"
+        },
+        {
+          "fr": "problème difficile",
+          "en": "the hard problem"
+        }
       ],
-      "poles": ["FUNCTIONALISM", "ONLY_LIFE_THINKS"],
+      "poles": [
+        "FUNCTIONALISM",
+        "ONLY_LIFE_THINKS"
+      ],
       "anchors": [
-        { "name": { "fr": "Chalmers", "en": "Chalmers" }, "kind": "PHILOSOPHER" },
-        { "name": { "fr": "Nagel", "en": "Nagel" }, "kind": "PHILOSOPHER", "slug": "nagel" }
+        {
+          "name": {
+            "fr": "Chalmers",
+            "en": "Chalmers"
+          },
+          "kind": "PHILOSOPHER"
+        },
+        {
+          "name": {
+            "fr": "Nagel",
+            "en": "Nagel"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "nagel"
+        }
       ],
-      "doorways": [ { "axis": "CONSCIOUSNESS_NATURE" } ],
-      "title": { "fr": "Penser, ou ressentir", "en": "Thinking, or feeling" },
+      "doorways": [
+        {
+          "axis": "CONSCIOUSNESS_NATURE",
+          "problem": "the-zombie-twin"
+        }
+      ],
+      "title": {
+        "fr": "Penser, ou ressentir",
+        "en": "Thinking, or feeling"
+      },
       "explicitation": {
         "fr": "Raisonner est une chose, éprouver en est une autre : une machine pourrait tout calculer sans que « cela fasse quelque chose » d'être elle, la pensée sans la moindre conscience.",
         "en": "Reasoning is one thing, feeling another: a machine might compute everything without there being \"something it is like\" to be it, thought with no consciousness at all."
@@ -209,22 +383,59 @@
       "id": "do-we-owe-it-anything",
       "resolution": "LATENT",
       "object": "INDIVIDUAL",
-      "objectLabel": { "fr": "une machine pensante", "en": "a thinking machine" },
+      "objectLabel": {
+        "fr": "une machine pensante",
+        "en": "a thinking machine"
+      },
       "mode": "PRESCRIPTIVE",
       "sphere": "MORAL",
       "relation": "RELATED",
       "keywords": [
-        { "fr": "statut moral des machines", "en": "moral status of machines" },
-        { "fr": "droits des IA", "en": "AI rights" },
-        { "fr": "sensibilité", "en": "sentience" }
+        {
+          "fr": "statut moral des machines",
+          "en": "moral status of machines"
+        },
+        {
+          "fr": "droits des IA",
+          "en": "AI rights"
+        },
+        {
+          "fr": "sensibilité",
+          "en": "sentience"
+        }
       ],
-      "poles": ["FUNCTIONALISM", "ONLY_LIFE_THINKS"],
+      "poles": [
+        "FUNCTIONALISM",
+        "ONLY_LIFE_THINKS"
+      ],
       "anchors": [
-        { "name": { "fr": "Bentham", "en": "Bentham" }, "kind": "PHILOSOPHER", "slug": "bentham" },
-        { "name": { "fr": "Turing", "en": "Turing" }, "kind": "PHILOSOPHER", "slug": "turing" }
+        {
+          "name": {
+            "fr": "Bentham",
+            "en": "Bentham"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "bentham"
+        },
+        {
+          "name": {
+            "fr": "Turing",
+            "en": "Turing"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "turing"
+        }
       ],
-      "doorways": [ { "axis": "MORAL_CIRCLE", "problem": "artificial-minds" } ],
-      "title": { "fr": "Lui devrait-on quelque chose ?", "en": "Would we owe it anything?" },
+      "doorways": [
+        {
+          "axis": "MORAL_CIRCLE",
+          "problem": "artificial-minds"
+        }
+      ],
+      "title": {
+        "fr": "Lui devrait-on quelque chose ?",
+        "en": "Would we owe it anything?"
+      },
       "explicitation": {
         "fr": "Si une machine pensait, aurait-elle des intérêts, une dignité, des droits, ou resterait-elle une chose dont on dispose sans lui rien devoir ?",
         "en": "If a machine thought, would it have interests, a dignity, rights, or would it remain a thing we dispose of, owing it nothing?"

@@ -6,19 +6,19 @@
 
 *The self · descriptive (theory) · bipolar*
 
-The same existence can be read as a gift worthy of trust or as a struggle with no final reconciliation, and this background hue colours our joys and misfortunes in advance. To take a position is to say whether hope is lucidity or blindness.
+The same existence can be read as a gift worthy of trust or as a struggle with no final reconciliation, and this background hue colours our joys and misfortunes in advance. To take a position is to say [whether hope is lucidity or blindness](../axes/hope.md).
 
 ## Poles
 
 ### Metaphysical optimism
 
-Reality is fundamentally ordered and oriented toward the good: evil is only a local shadow within a harmonious or progressing whole. Even the trials of history take part in a rationality that surpasses them.
+Reality is fundamentally ordered and oriented toward the good: [evil is only a local shadow within a harmonious or progressing whole](../axes/problem-of-evil.md). Even the trials of history take part in a rationality that surpasses them.
 
 *[Leibniz](../philosophers/leibniz.md) · [Hegel](../philosophers/hegel.md)*
 
 ### Tragic thought
 
-The world is neither rational nor benevolent: suffering, conflict and meaninglessness lie at the heart of existence, and no final harmony will redeem them. Lucidity demands facing this tragic ground rather than embellishing it.
+The world is neither rational nor benevolent: suffering, conflict and meaninglessness lie at the heart of existence, and [no final harmony will redeem them](../axes/problem-of-evil.md). Lucidity demands facing this tragic ground rather than embellishing it.
 
 *[Schopenhauer](../philosophers/schopenhauer.md) · [Camus](../philosophers/camus.md)*
 

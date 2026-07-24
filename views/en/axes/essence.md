@@ -6,19 +6,19 @@
 
 *The self · descriptive (theory) · bipolar · core axis*
 
-If a nature precedes us, there is a way to fulfil ourselves or to betray ourselves, but our freedom has limits; if we invent ourselves, everything becomes possible, but nothing guides us and nothing excuses us. To take a position is to say what we owe to what is given to us, and what we alone are answerable for.
+If [a nature precedes us](../axes/human-nature.md), there is a way to fulfil ourselves or to betray ourselves, but our freedom has limits; if we invent ourselves, everything becomes possible, but nothing guides us and nothing excuses us. To take a position is to say what we owe to what is given to us, and what we alone are answerable for.
 
 ## Poles
 
 ### Essentialism
 
-Every being has an essence that precedes and defines its existence: there is a human nature, with its own ends. Living well means fulfilling what this nature calls for, as the seed fulfills the plant.
+Every being has an essence that precedes and defines its existence: there is a human nature, [with its own ends](../axes/causality.md). Living well means fulfilling what this nature calls for, as the seed fulfills the plant.
 
 *[Plato](../philosophers/plato.md) · [Aristotle](../philosophers/aristotle.md)*
 
 ### Existentialism
 
-Existence precedes essence: a human being is at first nothing definite and makes itself through its choices and actions. No nature assigns us a destiny, and invoking an essence to justify what one is amounts to bad faith.
+Existence precedes essence: a human being is at first nothing definite and makes itself through its choices and actions. No nature assigns us a destiny, and invoking an essence to justify what one is [amounts to bad faith](../glossary/bad-faith.md).
 
 *[Sartre](../philosophers/sartre.md) · [Beauvoir](../philosophers/beauvoir.md)*
 

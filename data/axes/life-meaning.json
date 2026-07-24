@@ -42,8 +42,8 @@
         "en": "Teleology and providence"
       },
       "description": {
-        "fr": "Le sens existe, mais il ne se donne pas d'emblée : l'existence s'inscrit dans un ordre du monde ou un dessein providentiel qu'il faut apprendre à déchiffrer. Face à l'énigme, la tâche est de chercher cette finalité, de s'y fier même quand elle reste obscure, et d'y accorder sa conduite.",
-        "en": "Meaning exists, but it does not give itself at once: existence belongs to a world order or a providential design that must be learned and deciphered. Faced with the enigma, the task is to seek that purpose, to trust it even while it remains obscure, and to align one's conduct with it."
+        "fr": "Le sens existe, mais il ne se donne pas d'emblée : l'existence s'inscrit dans <ax id='COSMIC_OUTLOOK' pole='METAPHYSICAL_OPTIMISM'>un ordre du monde ou un dessein providentiel</ax> qu'il faut apprendre à déchiffrer. Face à l'énigme, la tâche est de chercher cette finalité, de s'y fier même quand elle reste obscure, et d'y accorder sa conduite.",
+        "en": "Meaning exists, but it does not give itself at once: existence belongs to <ax id='COSMIC_OUTLOOK' pole='METAPHYSICAL_OPTIMISM'>a world order or a providential design</ax> that must be learned and deciphered. Faced with the enigma, the task is to seek that purpose, to trust it even while it remains obscure, and to align one's conduct with it."
       },
       "figures": [
         {
@@ -69,8 +69,8 @@
         "en": "Constructed meaning"
       },
       "description": {
-        "fr": "Si le sens se dérobe, c'est qu'aucun n'est inscrit dans les choses : il n'y a rien à découvrir, tout à faire. Face à l'énigme, la réponse est de créer soi-même la signification de sa vie par ses choix et ses projets, et cette liberté nous rend pleinement responsables de ce que nous devenons.",
-        "en": "If meaning eludes us, it is because none is written into things: there is nothing to discover, everything to make. Faced with the enigma, the answer is to create the significance of one's life through one's choices and projects, and this freedom makes us fully responsible for what we become."
+        "fr": "Si le sens se dérobe, c'est qu'aucun n'est inscrit dans les choses : il n'y a rien à découvrir, tout à faire. Face à l'énigme, la réponse est de <ax id='ESSENCE' pole='EXISTENTIALISM'>créer soi-même la signification de sa vie par ses choix et ses projets</ax>, et cette liberté nous rend pleinement responsables de ce que nous devenons.",
+        "en": "If meaning eludes us, it is because none is written into things: there is nothing to discover, everything to make. Faced with the enigma, the answer is to <ax id='ESSENCE' pole='EXISTENTIALISM'>create the significance of one's life through one's choices and projects</ax>, and this freedom makes us fully responsible for what we become."
       },
       "figures": [
         {
@@ -90,8 +90,8 @@
         "en": "Absurdism"
       },
       "description": {
-        "fr": "Ni sens à découvrir, ni sens de rechange : l'absurde naît de la rencontre entre notre soif de sens et le silence du monde, et aucune réponse ne viendra. Face à l'énigme, il s'agit de tenir sans tricher : vivre lucidement dans la révolte, sans espoir ni résignation.",
-        "en": "No meaning to discover, and no substitute for it: the absurd arises from the clash between our thirst for meaning and the silence of the world, and no answer will come. Faced with the enigma, the point is to hold out without cheating: to live lucidly in revolt, without hope or resignation."
+        "fr": "Ni sens à découvrir, ni sens de rechange : l'absurde naît de la rencontre entre notre soif de sens et le silence du monde, et aucune réponse ne viendra. Face à l'énigme, il s'agit de tenir sans tricher : <ax id='HOPE' pole='LUCIDITY_WITHOUT_HOPE'>vivre lucidement dans la révolte, sans espoir ni résignation</ax>.",
+        "en": "No meaning to discover, and no substitute for it: the absurd arises from the clash between our thirst for meaning and the silence of the world, and no answer will come. Faced with the enigma, the point is to hold out without cheating: <ax id='HOPE' pole='LUCIDITY_WITHOUT_HOPE'>to live lucidly in revolt, without hope or resignation</ax>."
       },
       "figures": [
         {
@@ -110,8 +110,8 @@
         "en": "Renunciation"
       },
       "description": {
-        "fr": "Puisque aucun sens n'est donné et que rien ne le remplace vraiment, le tourment vient de l'exigence elle-même. Face à l'énigme, la réponse lucide est le renoncement : détacher son vouloir, cesser de demander à la vie ce qu'elle ne contient pas, et trouver dans ce retrait une paix sans illusion.",
-        "en": "Since no meaning is given and nothing truly replaces it, the torment comes from the demand itself. Faced with the enigma, the lucid response is renunciation: to detach the will, to stop asking of life what it does not contain, and to find in this withdrawal a peace without illusion."
+        "fr": "Puisque aucun sens n'est donné et que rien ne le remplace vraiment, le tourment vient de l'exigence elle-même. Face à l'énigme, la réponse lucide est le renoncement : <ax id='DESIRE' pole='DETACHMENT'>détacher son vouloir</ax>, cesser de demander à la vie ce qu'elle ne contient pas, et trouver dans ce retrait une paix sans illusion.",
+        "en": "Since no meaning is given and nothing truly replaces it, the torment comes from the demand itself. Faced with the enigma, the lucid response is renunciation: <ax id='DESIRE' pole='DETACHMENT'>to detach the will</ax>, to stop asking of life what it does not contain, and to find in this withdrawal a peace without illusion."
       },
       "figures": [
         {

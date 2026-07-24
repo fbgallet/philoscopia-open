@@ -6,13 +6,13 @@
 
 *Le monde · valeur · triangulaire*
 
-Sommes-nous les propriétaires d'une nature à exploiter, les gardiens responsables d'un jardin confié, ou une espèce parmi d'autres sans droit particulier ? Selon la réponse, ce qu'on s'autorise à faire des forêts, des bêtes et du climat n'a plus les mêmes limites. Se positionner, c'est fixer ce que la nature peut légitimement attendre de nous.
+Sommes-nous les propriétaires d'une nature à exploiter, les gardiens responsables d'un jardin confié, ou une espèce parmi d'autres sans droit particulier ? Selon la réponse, [ce qu'on s'autorise à faire des forêts, des bêtes et du climat](../axes/moral-circle.md) n'a plus les mêmes limites. Se positionner, c'est fixer ce que la nature peut légitimement attendre de nous.
 
 ## Pôles
 
 ### Maîtrise
 
-Par la connaissance et la technique, l'être humain a vocation à se rendre comme maître et possesseur de la nature, pour soulager sa condition et améliorer la vie. La nature est une ressource à comprendre et à transformer au service de l'humanité.
+Par la connaissance et la technique, l'être humain a vocation à se rendre comme [maître et possesseur de la nature](../axes/technology.md), pour soulager sa condition et améliorer la vie. La nature est une ressource à comprendre et à transformer au service de l'humanité.
 
 *[Descartes](../philosophers/descartes.md) · [Bacon](../philosophers/bacon.md)*
 

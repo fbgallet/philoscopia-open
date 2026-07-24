@@ -12,7 +12,7 @@ Peut-on devoir quelque chose à des êtres qui n'existent pas encore, ne réclam
 
 ### Principe responsabilité
 
-Notre puissance d'agir s'étend désormais aux conditions de vie des générations à venir : nous avons le devoir d'agir de façon que les effets de nos actions soient compatibles avec la permanence d'une vie authentiquement humaine sur Terre. L'avenir lointain entre dans le champ de la morale.
+Notre puissance d'agir s'étend désormais aux conditions de vie des générations à venir : nous avons le devoir d'agir de façon que les effets de nos actions soient compatibles avec [la permanence d'une vie authentiquement humaine sur Terre](../axes/human-place-nature.md). L'avenir lointain entre dans le champ de la morale.
 
 *[Jonas](../philosophers/jonas.md)*
 

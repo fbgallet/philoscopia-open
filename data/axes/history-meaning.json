@@ -58,8 +58,8 @@
         "en": "Contingency"
       },
       "description": {
-        "fr": "L'histoire n'a ni plan ni destination : elle résulte d'actions humaines aux conséquences imprévisibles. Croire en des lois de l'histoire est une illusion, parfois dangereuse, qui sert à justifier des sacrifices au nom d'un avenir prétendument nécessaire.",
-        "en": "History has neither plan nor destination: it results from human actions with unforeseeable consequences. Belief in laws of history is an illusion, sometimes a dangerous one, used to justify sacrifices in the name of a supposedly necessary future."
+        "fr": "L'histoire n'a ni plan ni destination : elle résulte d'actions humaines aux conséquences imprévisibles. Croire en des lois de l'histoire est une illusion, parfois dangereuse, qui sert à <ax id='POLITICAL_IDEAL' pole='UTOPIANISM'>justifier des sacrifices au nom d'un avenir prétendument nécessaire</ax>.",
+        "en": "History has neither plan nor destination: it results from human actions with unforeseeable consequences. Belief in laws of history is an illusion, sometimes a dangerous one, used to <ax id='POLITICAL_IDEAL' pole='UTOPIANISM'>justify sacrifices in the name of a supposedly necessary future</ax>."
       },
       "figures": [
         {

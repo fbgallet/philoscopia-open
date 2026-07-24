@@ -16,7 +16,7 @@ Les grandes catégories sociales recoupent des différences réelles, en partie 
 
 ### Construction sociale
 
-Ces catégories ne sont pas des donnés de nature mais des produits contingents de l'histoire, de la culture et des rapports de pouvoir, institués par des normes et des discours qui les font passer pour naturels. Ce qui a été construit peut être déconstruit : on ne naît pas femme, on le devient.
+Ces catégories ne sont pas des donnés de nature mais des produits contingents de l'histoire, de la culture et des rapports de pouvoir, institués par des normes et des discours qui les font passer pour naturels. Ce qui a été construit peut être déconstruit : [on ne naît pas femme, on le devient](../axes/essence.md).
 
 *[Beauvoir](../philosophers/beauvoir.md) · [Foucault](../philosophers/foucault.md) · Butler*
 

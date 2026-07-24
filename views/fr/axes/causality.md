@@ -12,7 +12,7 @@ Selon qu'on y voit des causes aveugles, des fins poursuivies ou une vie qui se d
 
 ### Mécanisme
 
-La nature s'explique entièrement par des causes matérielles et des lois du mouvement, comme une immense machine. Les vivants eux-mêmes sont des mécanismes complexes, sans qu'il faille invoquer des fins ou des forces mystérieuses.
+[La nature s'explique entièrement par des causes matérielles et des lois du mouvement](../axes/reduction-emergence.md), comme une immense machine. Les vivants eux-mêmes sont des mécanismes complexes, sans qu'il faille invoquer des fins ou des forces mystérieuses.
 
 *[Descartes](../philosophers/descartes.md) · [La Mettrie](../philosophers/la-mettrie.md)*
 
@@ -24,7 +24,7 @@ On ne comprend pleinement un phénomène naturel qu'en saisissant ce en vue de q
 
 ### Vitalisme
 
-La vie ne se laisse réduire ni à la mécanique ni à un plan préétabli : elle est un élan créateur, imprévisible, qui invente des formes nouvelles. Comprendre le vivant exige une autre approche que celle des sciences physiques.
+La vie ne se laisse réduire ni à la mécanique ni à un plan préétabli : elle est un élan créateur, imprévisible, qui invente des formes nouvelles. [Comprendre le vivant exige une autre approche que celle des sciences physiques](../axes/reduction-emergence.md).
 
 *[Bergson](../philosophers/bergson.md)*
 

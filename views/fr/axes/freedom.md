@@ -6,7 +6,7 @@
 
 *Le soi · descriptif (théorie) · bipolaire à médiane · axe nodal*
 
-Nous délibérons comme si l'avenir restait ouvert, mais nos choix ont des causes. Si tout était déterminé d'avance, que resterait-il du mérite, de la faute, de la responsabilité ? C'est tout notre rapport à nous-mêmes et à autrui qui est en jeu.
+Nous délibérons comme si l'avenir restait ouvert, mais nos choix ont des causes. Si tout était déterminé d'avance, que resterait-il [du mérite, de la faute, de la responsabilité](../axes/moral-responsibility.md) ? C'est tout notre rapport à nous-mêmes et à autrui qui est en jeu.
 
 ## Pôles
 

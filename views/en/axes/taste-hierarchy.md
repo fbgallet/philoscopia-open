@@ -12,13 +12,13 @@ Is a symphony really worth more than a pop song, or is "good taste" merely the t
 
 ### Elitism of taste
 
-Not all tastes are equal: qualified judges, trained and sensitive, recognize true beauty, and some pleasures are qualitatively higher than others. Kitsch and refinement are not on the same level.
+Not all tastes are equal: qualified judges, trained and sensitive, [recognize true beauty](../axes/beauty.md), and some pleasures are qualitatively higher than others. Kitsch and refinement are not on the same level.
 
 *[Hume](../philosophers/hume.md) · [Mill](../philosophers/mill.md)*
 
 ### Egalitarianism of taste
 
-The hierarchy of tastes is in no way natural: it expresses relations of class. So-called legitimate culture is domination disguised as aesthetic merit, and no pleasure is intrinsically higher than another.
+The hierarchy of tastes is in no way natural: [it expresses relations of class](../axes/social-identity.md). So-called legitimate culture is domination disguised as aesthetic merit, and no pleasure is intrinsically higher than another.
 
 *Bourdieu*
 

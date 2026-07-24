@@ -1,0 +1,124 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "chalmers",
+  "name": {
+    "fr": "Chalmers",
+    "en": "Chalmers"
+  },
+  "summary": {
+    "fr": "Philosophe australien de l'esprit, qui a nommé le « problème difficile » de la conscience : expliquer les mécanismes du cerveau laisse entière la question de savoir pourquoi ils s'accompagnent d'un vécu. Il en tire, par l'argument des zombies, un dualisme des propriétés.",
+    "en": "Australian philosopher of mind, who named the \"hard problem\" of consciousness: explaining the brain's mechanisms leaves untouched the question of why they are accompanied by any experience at all. From it, through the zombie argument, he draws a property dualism."
+  },
+  "birth": 1966,
+  "nationality": {
+    "fr": "Australien",
+    "en": "Australian"
+  },
+  "movements": [
+    "analytic-philosophy"
+  ],
+  "identity": {
+    "wikidata": "Q366123",
+    "wikipedia": {
+      "fr": "https://fr.wikipedia.org/wiki/David_Chalmers",
+      "en": "https://en.wikipedia.org/wiki/David_Chalmers"
+    }
+  },
+  "updatedAt": "2026-07-25T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  },
+  "fullName": {
+    "fr": "David Chalmers",
+    "en": "David Chalmers"
+  },
+  "tagline": {
+    "fr": "Il a nommé le problème difficile : quand la science aura tout dit des mécanismes du cerveau, il restera à expliquer pourquoi ils s'accompagnent d'un vécu, et cette question-là, aucune description fonctionnelle ne l'atteint.",
+    "en": "He named the hard problem: when science has said everything about the brain's mechanisms, it will remain to explain why they are accompanied by any experience at all, and no functional description reaches that question."
+  },
+  "entries": [
+    {
+      "axisId": "CONSCIOUSNESS_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0,
+          0,
+          0.75,
+          0.25,
+          0
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Chalmers sépare les <c>problèmes faciles</c> de la conscience, qui relèvent des mécanismes et que la science résoudra, du <c>problème difficile</c> : <pb>pourquoi ces mécanismes s'accompagnent-ils d'un vécu ?</pb> Aucune explication fonctionnelle n'y répond, car décrire ce que fait un système laisse entier l'effet que cela fait de l'être. Il en conclut que les <c id='qualia'>qualia</c> ne sont pas réductibles aux processus physiques mais leur sont liés par des lois de la nature, et qualifie sa position de <c>dualisme naturaliste</c> : la conscience est une donnée fondamentale du monde, comme la masse ou la charge, non une substance séparée. Il explore par ailleurs, sans s'y ranger, une autre voie pour la même intuition : loger l'expérience dans la nature intrinsèque du physique, dont la physique ne décrit que la structure. Cette option, voisine du <c>monisme russellien</c> et du <c>panpsychisme</c>, reste chez lui une piste sérieuse, non la thèse qu'il défend.",
+          "en": "Chalmers separates the <c>easy problems</c> of consciousness, which concern mechanisms and which science will solve, from the <c>hard problem</c>: <pb>why are those mechanisms accompanied by any experience at all?</pb> No functional explanation answers it, for describing what a system does leaves untouched what it is like to be one. He concludes that <c id='qualia'>qualia</c> are not reducible to physical processes but are tied to them by laws of nature, and calls his position a <c>naturalistic dualism</c>: consciousness is a fundamental feature of the world, like mass or charge, not a separate substance. He also explores, without adopting it, another route to the same intuition: lodging experience in the intrinsic nature of the physical, of which physics describes only the structure. That option, close to <c>Russellian monism</c> and to <c>panpsychism</c>, remains for him a serious avenue, not the thesis he defends."
+        },
+        "references": [
+          {
+            "fr": "« Facing Up to the Problem of Consciousness » (1995)",
+            "en": "\"Facing Up to the Problem of Consciousness\" (1995)"
+          },
+          {
+            "fr": "The Conscious Mind (1996)",
+            "en": "The Conscious Mind (1996)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "MACHINE_MIND",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.9
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Chalmers soutient que ce qui porte l'expérience est l'<c>invariance organisationnelle</c> : c'est l'organisation fonctionnelle qui compte, non la matière qui la réalise. <te><arg>Remplacez un à un vos neurones par des puces au comportement identique : ou bien votre vécu s'éteindrait par degrés sans que rien dans votre comportement ne le trahisse, ou bien il varierait pendant que vous jureriez ne rien sentir de changé. Il tient ces deux hypothèses pour absurdes, et conclut qu'un isomorphe de silicium aurait la même conscience que vous.</arg></te> Sa position ici ne découle d'aucun physicalisme : c'est parce que la conscience est pour lui une donnée fondamentale, reliée à l'organisation par une loi de la nature, qu'elle suit cette organisation quel que soit le support.",
+          "en": "Chalmers argues that what carries experience is <c>organizational invariance</c>: it is functional organization that counts, not the matter realizing it. <te><arg>Replace your neurons one by one with chips of identical behaviour: either your experience would fade by degrees without anything in your behaviour betraying it, or it would vary while you swore nothing felt different. He holds both hypotheses to be absurd, and concludes that a silicon isomorph would have the same consciousness as you.</arg></te> His position here follows from no physicalism: it is because consciousness is for him a fundamental datum, tied to organization by a law of nature, that it tracks that organization whatever the substrate."
+        },
+        "references": [
+          {
+            "fr": "« Absent Qualia, Fading Qualia, Dancing Qualia » (1995)",
+            "en": "\"Absent Qualia, Fading Qualia, Dancing Qualia\" (1995)"
+          },
+          {
+            "fr": "The Conscious Mind (1996)",
+            "en": "The Conscious Mind (1996)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "REDUCTION_EMERGENCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.85
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Chalmers distingue deux émergences. L'<c>émergence faible</c> est celle des phénomènes qu'on n'aurait pas devinés à partir des parties, mais qui s'en déduisent une fois qu'on sait où regarder, comme les motifs d'un automate cellulaire. <arg>L'<c>émergence forte</c> est celle d'une propriété qui ne se déduit d'aucune connaissance des parties, si complète soit-elle, et il tient la conscience pour son seul cas incontestable dans la nature.</arg> D'où sa conclusion : il faut ajouter à l'inventaire du monde des <c>lois psychophysiques</c>, comme la physique a dû ajouter l'électromagnétisme à la mécanique.",
+          "en": "Chalmers distinguishes two emergences. <c>Weak emergence</c> covers phenomena one would not have guessed from the parts, but which follow from them once one knows where to look, like the patterns of a cellular automaton. <arg><c>Strong emergence</c> is that of a property deducible from no knowledge of the parts, however complete, and he takes consciousness to be its only uncontestable case in nature.</arg> Hence his conclusion: <c>psychophysical laws</c> must be added to the inventory of the world, as physics had to add electromagnetism to mechanics."
+        },
+        "references": [
+          {
+            "fr": "« Strong and Weak Emergence » (2006)",
+            "en": "\"Strong and Weak Emergence\" (2006)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    }
+  ]
+}

@@ -12,7 +12,7 @@ Is science the only road to truth, all the rest being mere opinion, or do art, e
 
 ### Scientism
 
-The scientific method is the most accomplished form of human knowledge, destined to replace religious and metaphysical explanations. Any question that can be answered will be answered by science, and by science alone.
+The scientific method is the most accomplished form of human knowledge, destined to [replace religious and metaphysical explanations](../axes/faith-reason.md). Any question that can be answered will be answered by science, and by science alone.
 
 *[Comte](../philosophers/comte.md)*
 

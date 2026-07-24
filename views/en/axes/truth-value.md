@@ -6,7 +6,7 @@
 
 *Truth · value · bipolar with median · core axis*
 
-Knowing gives us a grip on the world, but some truths wound without offering anything in return, and uncertain beliefs sometimes seem to feed love, courage, or the drive to live. To take a position is to say whether lucidity is an unconditional good, or whether life has the right to judge what is worth knowing.
+Knowing gives us a grip on the world, but some truths wound without offering anything in return, and [uncertain beliefs sometimes seem to feed love, courage, or the drive to live](../axes/belief-ethics.md). To take a position is to say whether lucidity is an unconditional good, or whether life has the right to judge what is worth knowing.
 
 ## Poles
 

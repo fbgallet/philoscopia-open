@@ -24,13 +24,13 @@ True love does not seek to fill a lack: it gives itself without condition or cal
 
 ### Ruse of the species
 
-Love is an illusion through which nature manipulates us: beneath the most exalted feeling operates the species' drive to reproduce. The individual believes they choose freely, when in fact they serve ends beyond themselves.
+Love is an illusion through which nature manipulates us: beneath the most exalted feeling operates [the species' drive to reproduce](../axes/human-nature.md). The individual believes they choose freely, when in fact they serve ends beyond themselves.
 
 *[Schopenhauer](../philosophers/schopenhauer.md)*
 
 ### Philia (friendship)
 
-The heart of love is neither a lack to fill nor a one-way gift: it is the reciprocal, chosen bond of friendship, in which each wills the other's good for the other's own sake. Fed by time, equality and shared virtue, it is love's most accomplished form: a good life led together.
+The heart of love is neither a lack to fill nor a one-way gift: it is the reciprocal, chosen bond of friendship, in which each wills the other's good for the other's own sake. Fed by time, equality and shared virtue, it is love's most accomplished form: [a good life led together](../axes/sovereign-good.md).
 
 *[Aristotle](../philosophers/aristotle.md) · [Montaigne](../philosophers/montaigne.md)*
 

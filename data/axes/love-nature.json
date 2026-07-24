@@ -91,8 +91,8 @@
         "en": "Ruse of the species"
       },
       "description": {
-        "fr": "L'amour est une illusion par laquelle la nature nous manipule : sous le sentiment le plus exalté agit l'instinct de reproduction de l'espèce. L'individu croit choisir librement, alors qu'il sert des fins qui le dépassent.",
-        "en": "Love is an illusion through which nature manipulates us: beneath the most exalted feeling operates the species' drive to reproduce. The individual believes they choose freely, when in fact they serve ends beyond themselves."
+        "fr": "L'amour est une illusion par laquelle la nature nous manipule : sous le sentiment le plus exalté agit <ax id='HUMAN_NATURE' pole='NATURALISM'>l'instinct de reproduction de l'espèce</ax>. L'individu croit choisir librement, alors qu'il sert des fins qui le dépassent.",
+        "en": "Love is an illusion through which nature manipulates us: beneath the most exalted feeling operates <ax id='HUMAN_NATURE' pole='NATURALISM'>the species' drive to reproduce</ax>. The individual believes they choose freely, when in fact they serve ends beyond themselves."
       },
       "figures": [
         {
@@ -112,8 +112,8 @@
         "en": "Philia (friendship)"
       },
       "description": {
-        "fr": "Le cœur de l'amour n'est ni un manque à combler ni un don à sens unique : c'est le lien réciproque et choisi de l'amitié, où chacun veut le bien de l'autre pour lui-même. Nourri de temps, d'égalité et de vertu partagée, il est la forme la plus accomplie de l'amour : une vie bonne menée ensemble.",
-        "en": "The heart of love is neither a lack to fill nor a one-way gift: it is the reciprocal, chosen bond of friendship, in which each wills the other's good for the other's own sake. Fed by time, equality and shared virtue, it is love's most accomplished form: a good life led together."
+        "fr": "Le cœur de l'amour n'est ni un manque à combler ni un don à sens unique : c'est le lien réciproque et choisi de l'amitié, où chacun veut le bien de l'autre pour lui-même. Nourri de temps, d'égalité et de vertu partagée, il est la forme la plus accomplie de l'amour : <ax id='SOVEREIGN_GOOD'>une vie bonne menée ensemble</ax>.",
+        "en": "The heart of love is neither a lack to fill nor a one-way gift: it is the reciprocal, chosen bond of friendship, in which each wills the other's good for the other's own sake. Fed by time, equality and shared virtue, it is love's most accomplished form: <ax id='SOVEREIGN_GOOD'>a good life led together</ax>."
       },
       "figures": [
         {

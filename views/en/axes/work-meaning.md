@@ -6,7 +6,7 @@
 
 *The world · value · triangular*
 
-Is work the place where we realize ourselves and find our place among others, or what wears us down and dispossesses us, time taken from the rest of our existence? Seeing it as fulfilment can reduce us to our jobs; seeing it as mere drudgery can drain a huge part of our days of meaning. To take a position is to say what place work deserves in a good life.
+Is work the place where we realize ourselves and find our place among others, or what wears us down and dispossesses us, time taken from the rest of our existence? Seeing it as fulfilment can reduce us to our jobs; seeing it as mere drudgery can drain a huge part of our days of meaning. To take a position is to say [what place work deserves in a good life](../axes/sovereign-good.md).
 
 ## Poles
 
@@ -24,7 +24,7 @@ In its dominant forms, work dispossesses the worker: one becomes a stranger to o
 
 ### Necessity, leisure as the end
 
-Work answers the needs of life, but it is not the end of existence: leisure, understood as time freed for thought, action, or contemplation, is what gives human life its meaning. We work in order to be free not to work.
+Work answers the needs of life, but it is not the end of existence: [leisure, understood as time freed for thought](../axes/metaphilosophy.md), action, or contemplation, is what gives human life its meaning. We work in order to be free not to work.
 
 *[Aristotle](../philosophers/aristotle.md) · [Arendt](../philosophers/arendt.md)*
 

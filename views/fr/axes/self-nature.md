@@ -6,13 +6,13 @@
 
 *Le soi · descriptif (théorie) · catégoriel*
 
-Qu'est-ce qui fait de moi la même personne que l'enfant des vieilles photos, ou que celui que je serai dans trente ans ? Si rien de stable ne subsiste, la promesse, le remords, la fierté d'un moi passé perdent leur appui ; si un noyau demeure, aucun changement ne me refait vraiment. Se positionner, c'est dire ce qu'on retient au juste quand on dit « moi ».
+Qu'est-ce qui fait de moi la même personne que l'enfant des vieilles photos, ou que celui que je serai dans trente ans ? [Si rien de stable ne subsiste](../axes/being-becoming.md), la promesse, le remords, la fierté d'un moi passé perdent leur appui ; si un noyau demeure, aucun changement ne me refait vraiment. Se positionner, c'est dire ce qu'on retient au juste quand on dit « moi ».
 
 ## Pôles
 
 ### Substantialisme
 
-Le moi est une substance : une chose pensante, distincte du corps, qui demeure identique sous le flux des pensées et des expériences. Ce noyau permanent est ce que chacun désigne quand il dit « je ».
+Le moi est une substance : [une chose pensante, distincte du corps](../axes/consciousness-nature.md), qui demeure identique sous le flux des pensées et des expériences. Ce noyau permanent est ce que chacun désigne quand il dit « je ».
 
 *[Descartes](../philosophers/descartes.md)*
 
@@ -69,7 +69,7 @@ Il n'y a pas de moi permanent : seulement un faisceau de perceptions, de pensée
 
 ## Axes liés
 
-[Être ou avoir un corps](../axes/embodiment.md) · [Essence et existence](../axes/essence.md) · [Liberté de la volonté](../axes/freedom.md) · [Identité sociale](../axes/social-identity.md) · [La mort](../axes/death.md) · [L'être et le devenir](../axes/being-becoming.md) · [Après la mort](../axes/afterlife.md)
+[Être ou avoir un corps](../axes/embodiment.md) · [Essence et existence](../axes/essence.md) · [Liberté de la volonté](../axes/freedom.md) · [Identité sociale](../axes/social-identity.md) · [La mort](../axes/death.md) · [L'être et le devenir](../axes/being-becoming.md) · [Après la mort](../axes/afterlife.md) · [L'énigme de la conscience](../axes/consciousness-nature.md)
 
 ---
 

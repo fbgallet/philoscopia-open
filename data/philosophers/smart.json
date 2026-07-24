@@ -1,0 +1,98 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "smart",
+  "name": {
+    "fr": "Smart",
+    "en": "Smart"
+  },
+  "fullName": {
+    "fr": "John Jamieson Carswell Smart",
+    "en": "John Jamieson Carswell Smart"
+  },
+  "tagline": {
+    "fr": "Il refuse de faire de la conscience la seule exception dans un monde par ailleurs entièrement explicable : les sensations ne sont pas corrélées aux processus cérébraux, elles sont ces processus.",
+    "en": "He refuses to make consciousness the one exception in an otherwise wholly explicable world: sensations are not correlated with brain processes, they are those processes."
+  },
+  "summary": {
+    "fr": "Philosophe britannique puis australien, principal artisan de la théorie de l'identité esprit-cerveau et du « matérialisme australien » : les sensations ne sont pas corrélées aux processus cérébraux, elles leur sont identiques. Il a aussi défendu un utilitarisme de l'acte et un réalisme scientifique.",
+    "en": "British, later Australian philosopher, chief architect of the mind-brain identity theory and of \"Australian materialism\": sensations are not correlated with brain processes, they are identical to them. He also defended act utilitarianism and a scientific realism."
+  },
+  "nationality": {
+    "fr": "Britannique puis australien",
+    "en": "British, later Australian"
+  },
+  "birth": 1920,
+  "death": 2012,
+  "movements": [
+    "analytic-philosophy"
+  ],
+  "entries": [
+    {
+      "axisId": "CONSCIOUSNESS_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          1,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Smart soutient que les sensations ne sont pas seulement corrélées aux processus cérébraux : elles leur sont identiques, comme l'éclair est une décharge électrique. Cette <c>théorie de l'identité</c> repose sur un principe d'économie : si tout le reste du vivant s'explique en termes physico-chimiques, <arg>faire de la conscience la seule exception obligerait à admettre des lois pendantes, sans rôle dans l'édifice de la science</arg>. <obj>On objecte qu'on peut connaître sa propre sensation sans rien savoir du cerveau</obj> : il répond par une <c>analyse topiquement neutre</c>, dire « j'ai une image rémanente orange » revenant seulement à dire qu'il se passe en moi quelque chose de semblable à ce qui se passe quand je vois une orange. L'énoncé ne dit rien de la nature de ce « quelque chose », et rien n'interdit qu'il soit un processus cérébral.",
+          "en": "Smart argues that sensations are not merely correlated with brain processes: they are identical to them, as lightning is an electrical discharge. This <c>identity theory</c> rests on a principle of economy: if everything else in the living world is explained in physico-chemical terms, <arg>making consciousness the sole exception would force us to admit dangling laws, with no role in the edifice of science</arg>. <obj>It is objected that one can know one's own sensation while knowing nothing of the brain</obj>: he answers with a <c>topic-neutral analysis</c>, saying \"I have an orange after-image\" amounting only to saying that something is going on in me like what goes on when I see an orange. The statement says nothing of the nature of that \"something\", and nothing forbids its being a brain process."
+        },
+        "references": [
+          {
+            "fr": "« Sensations and Brain Processes » (1959)",
+            "en": "\"Sensations and Brain Processes\" (1959)"
+          },
+          {
+            "fr": "Philosophy and Scientific Realism (1963)",
+            "en": "Philosophy and Scientific Realism (1963)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "REDUCTION_EMERGENCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.85
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Smart tient qu'une explication n'est achevée que ramenée aux constituants physiques et à leurs interactions. <arg>Admettre des propriétés qui échapperaient à cette analyse obligerait à des lois surnuméraires, sans rôle dans l'édifice de la science, ce qu'un principe d'économie interdit.</arg> Sa <c>théorie de l'identité</c> applique ce <c id='reductionism'>réductionnisme</c> à l'esprit : non pas une propriété de plus qui surgirait du cerveau, mais les mêmes processus, décrits dans un autre vocabulaire.",
+          "en": "Smart holds that an explanation is complete only when carried back to physical constituents and their interactions. <arg>Admitting properties that would escape this analysis would force supernumerary laws, with no role in the edifice of science, which a principle of economy forbids.</arg> His <c>identity theory</c> applies this <c id='reductionism'>reductionism</c> to mind: not one more property arising from the brain, but the same processes, described in another vocabulary."
+        },
+        "references": [
+          {
+            "fr": "Philosophy and Scientific Realism (1963)",
+            "en": "Philosophy and Scientific Realism (1963)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    }
+  ],
+  "identity": {
+    "wikidata": "Q600759",
+    "wikipedia": {
+      "fr": "https://fr.wikipedia.org/wiki/John_J._C._Smart",
+      "en": "https://en.wikipedia.org/wiki/J._J._C._Smart"
+    }
+  },
+  "updatedAt": "2026-07-25T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

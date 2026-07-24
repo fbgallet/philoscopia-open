@@ -11,8 +11,8 @@
     "en": "Are we genuinely free in our choices, or are they determined?"
   },
   "stakes": {
-    "fr": "Nous délibérons comme si l'avenir restait ouvert, mais nos choix ont des causes. Si tout était déterminé d'avance, que resterait-il du mérite, de la faute, de la responsabilité ? C'est tout notre rapport à nous-mêmes et à autrui qui est en jeu.",
-    "en": "We deliberate as if the future were open, yet our choices have causes. If everything were settled in advance, what would remain of merit, fault, responsibility? Our whole relation to ourselves and to others is at stake."
+    "fr": "Nous délibérons comme si l'avenir restait ouvert, mais nos choix ont des causes. Si tout était déterminé d'avance, que resterait-il <ax id='MORAL_RESPONSIBILITY'>du mérite, de la faute, de la responsabilité</ax> ? C'est tout notre rapport à nous-mêmes et à autrui qui est en jeu.",
+    "en": "We deliberate as if the future were open, yet our choices have causes. If everything were settled in advance, what would remain of <ax id='MORAL_RESPONSIBILITY'>merit, fault, responsibility</ax>? Our whole relation to ourselves and to others is at stake."
   },
   "aliases": {
     "fr": [
@@ -393,7 +393,8 @@
       ],
       "doorways": [
         {
-          "axis": "CONSCIOUSNESS_NATURE"
+          "axis": "CONSCIOUSNESS_NATURE",
+          "problem": "do-i-know-my-own-mind"
         }
       ],
       "title": {

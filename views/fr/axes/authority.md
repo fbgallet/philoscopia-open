@@ -6,13 +6,13 @@
 
 *Autrui · valeur · bipolaire à médiane*
 
-Tout dépend de ce qu'on attend des humains livrés à eux-mêmes : capables de s'ordonner seuls, ou voués au désordre sans un pouvoir qui tranche. Se positionner, c'est fixer jusqu'où va le devoir d'obéir, et où commence le droit de refuser.
+Tout dépend de [ce qu'on attend des humains livrés à eux-mêmes](../axes/human-vision.md) : capables de s'ordonner seuls, ou voués au désordre sans un pouvoir qui tranche. Se positionner, c'est fixer jusqu'où va le devoir d'obéir, et où commence le droit de refuser.
 
 ## Pôles
 
 ### Autorité
 
-Sans une autorité commune capable de trancher et de contraindre, la vie sociale sombre dans le conflit ou le chaos. L'État, loin d'être une simple domination, est la condition de la paix, du droit et même de la liberté concrète.
+Sans une autorité commune capable de trancher et de contraindre, la vie sociale sombre dans le conflit ou le chaos. L'État, loin d'être une simple domination, est la condition de la paix, du droit et même de [la liberté concrète](../axes/political-liberty.md).
 
 *[Hobbes](../philosophers/hobbes.md) · [Hegel](../philosophers/hegel.md)*
 

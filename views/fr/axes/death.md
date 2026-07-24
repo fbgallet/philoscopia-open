@@ -6,7 +6,7 @@
 
 *Le soi · valeur · catégoriel · axe nodal*
 
-Devant la mort, la première réaction n'est pas une philosophie : c'est la peur. Toute la question est de savoir ce qu'on en fait. Faut-il la guérir, en comprenant ce qui la rend vaine ? La convertir en lucidité, parce que des jours comptés pèsent davantage que des jours sans nombre ? L'apaiser en se préparant à un passage ? Ou lui donner raison, et refuser la mort comme le mal par excellence ? Qu'une part de nous survive ou non est une autre question, qui a son propre axe : se positionner ici, c'est choisir ce qu'on fait de sa propre finitude, et de la peur qui l'accompagne.
+Devant la mort, la première réaction n'est pas une philosophie : c'est la peur. Toute la question est de savoir ce qu'on en fait. Faut-il la guérir, en comprenant ce qui la rend vaine ? La convertir en lucidité, parce que des jours comptés pèsent davantage que des jours sans nombre ? L'apaiser en se préparant à un passage ? Ou lui donner raison, et refuser la mort comme le mal par excellence ? Qu'une part de nous survive ou non est [une autre question, qui a son propre axe](../axes/afterlife.md) : se positionner ici, c'est choisir ce qu'on fait de sa propre finitude, et de la peur qui l'accompagne.
 
 ## Pôles
 

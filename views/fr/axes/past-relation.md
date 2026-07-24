@@ -18,7 +18,7 @@ Vouloir que rien ne soit autrement, ni en avant, ni en arrière : non pas seulem
 
 ### Révolte
 
-Consentir à tout ce qui est arrivé, c'est risquer de bénir aussi l'injustice et le mal. La dignité humaine exige de maintenir le refus : reconnaître ce qui fut sans jamais l'approuver, et puiser dans cette révolte la force d'agir.
+Consentir à tout ce qui est arrivé, c'est [risquer de bénir aussi l'injustice et le mal](../axes/problem-of-evil.md). La dignité humaine exige de maintenir le refus : reconnaître ce qui fut sans jamais l'approuver, et puiser dans cette révolte la force d'agir.
 
 *[Camus](../philosophers/camus.md)*
 

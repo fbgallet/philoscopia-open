@@ -6,7 +6,7 @@
 
 *Autrui · valeur · catégoriel ordonné*
 
-Féliciter un enfant, en vouloir à un ami, être fier d'une réussite, s'en vouloir d'une faute : nous passons nos journées à attribuer des torts et des mérites. Mais ce que chacun est, talents comme penchants, s'est largement fait sans lui, et l'on peut admirer une compétence en sachant que son acquisition n'a rien dû à la volonté. Savoir si nos actes sont déterminés est une question voisine, qui a son propre axe ; ici se décide une attitude : prendre le mérite et la faute au sérieux, les garder comme des outils, ou s'en déprendre. Se positionner, c'est dire ce que nous nous devons les uns aux autres en fait d'éloge, de reproche et de pardon, et ce que deviendraient nos liens si l'on cessait de tenir des comptes.
+Féliciter un enfant, en vouloir à un ami, être fier d'une réussite, s'en vouloir d'une faute : nous passons nos journées à attribuer des torts et des mérites. Mais ce que chacun est, talents comme penchants, s'est largement fait sans lui, et l'on peut admirer une compétence en sachant que son acquisition n'a rien dû à la volonté. Savoir si nos actes sont déterminés est [une question voisine, qui a son propre axe](../axes/freedom.md) ; ici se décide une attitude : prendre le mérite et la faute au sérieux, les garder comme des outils, ou s'en déprendre. Se positionner, c'est dire ce que nous nous devons les uns aux autres en fait d'éloge, de reproche et [de pardon](../axes/forgiveness.md), et ce que deviendraient nos liens si l'on cessait de tenir des comptes.
 
 ## Pôles
 
@@ -20,7 +20,7 @@ Il faut attribuer torts et mérites, car ils sont réels : quand l'acte est volo
 
 ### Corriger, non châtier
 
-Il faut continuer de répondre aux actes, blâmer, sanctionner, féliciter, non parce que c'est mérité au fond, mais parce que c'est efficace : comprendre n'empêche pas d'agir. On renonce au ressentiment, pas à la réponse ; la question n'est plus « le mérite-t-il ? » mais « qu'est-ce qui rendra les choses meilleures ? ».
+Il faut continuer de répondre aux actes, blâmer, sanctionner, féliciter, non parce que c'est mérité au fond, mais parce que c'est efficace : comprendre n'empêche pas d'agir. On renonce au ressentiment, pas à la réponse ; la question n'est plus « le mérite-t-il ? » mais « [qu'est-ce qui rendra les choses meilleures ?](../axes/ethics-foundation.md) ».
 
 - Versions contemporaines : la sanction comme quarantaine (Pereboom, protéger sans mérite) ou comme éducation des conduites (Schlick). Spinoza en donne la forme classique : comprendre les causes dissout le ressentiment, non la fermeté de la cité.
 

@@ -12,13 +12,13 @@ Une symphonie vaut-elle vraiment mieux qu'une chanson populaire, ou le « bon go
 
 ### Élitisme du goût
 
-Tous les goûts ne se valent pas : des juges qualifiés, formés et sensibles, reconnaissent la vraie beauté, et certains plaisirs sont qualitativement supérieurs à d'autres. Le kitsch et le raffinement ne sont pas sur le même plan.
+Tous les goûts ne se valent pas : des juges qualifiés, formés et sensibles, [reconnaissent la vraie beauté](../axes/beauty.md), et certains plaisirs sont qualitativement supérieurs à d'autres. Le kitsch et le raffinement ne sont pas sur le même plan.
 
 *[Hume](../philosophers/hume.md) · [Mill](../philosophers/mill.md)*
 
 ### Égalitarisme du goût
 
-La hiérarchie des goûts n'a rien de naturel : elle traduit des rapports de classe. La culture dite légitime est une domination déguisée en mérite esthétique, et aucun plaisir n'est intrinsèquement supérieur à un autre.
+La hiérarchie des goûts n'a rien de naturel : [elle traduit des rapports de classe](../axes/social-identity.md). La culture dite légitime est une domination déguisée en mérite esthétique, et aucun plaisir n'est intrinsèquement supérieur à un autre.
 
 *Bourdieu*
 

@@ -11,8 +11,8 @@
     "en": "What place should human beings hold in nature: master, guardian, or simply one member among others?"
   },
   "stakes": {
-    "fr": "Sommes-nous les propriétaires d'une nature à exploiter, les gardiens responsables d'un jardin confié, ou une espèce parmi d'autres sans droit particulier ? Selon la réponse, ce qu'on s'autorise à faire des forêts, des bêtes et du climat n'a plus les mêmes limites. Se positionner, c'est fixer ce que la nature peut légitimement attendre de nous.",
-    "en": "Are we the owners of a nature to exploit, the caretakers responsible for a garden entrusted to us, or one species among others with no special right? Depending on the answer, what we allow ourselves to do to forests, animals, and the climate no longer has the same limits. To take a position is to set what nature can legitimately expect of us."
+    "fr": "Sommes-nous les propriétaires d'une nature à exploiter, les gardiens responsables d'un jardin confié, ou une espèce parmi d'autres sans droit particulier ? Selon la réponse, <ax id='MORAL_CIRCLE'>ce qu'on s'autorise à faire des forêts, des bêtes et du climat</ax> n'a plus les mêmes limites. Se positionner, c'est fixer ce que la nature peut légitimement attendre de nous.",
+    "en": "Are we the owners of a nature to exploit, the caretakers responsible for a garden entrusted to us, or one species among others with no special right? Depending on the answer, <ax id='MORAL_CIRCLE'>what we allow ourselves to do to forests, animals, and the climate</ax> no longer has the same limits. To take a position is to set what nature can legitimately expect of us."
   },
   "layer": "VALUE",
   "type": "TRIANGULAR",
@@ -24,8 +24,8 @@
         "en": "Mastery"
       },
       "description": {
-        "fr": "Par la connaissance et la technique, l'être humain a vocation à se rendre comme maître et possesseur de la nature, pour soulager sa condition et améliorer la vie. La nature est une ressource à comprendre et à transformer au service de l'humanité.",
-        "en": "Through knowledge and technology, human beings are called to make themselves as masters and possessors of nature, to relieve their condition and improve life. Nature is a resource to be understood and transformed in the service of humanity."
+        "fr": "Par la connaissance et la technique, l'être humain a vocation à se rendre comme <ax id='TECHNOLOGY' pole='TECHNO_OPTIMISM'>maître et possesseur de la nature</ax>, pour soulager sa condition et améliorer la vie. La nature est une ressource à comprendre et à transformer au service de l'humanité.",
+        "en": "Through knowledge and technology, human beings are called to make themselves as <ax id='TECHNOLOGY' pole='TECHNO_OPTIMISM'>masters and possessors of nature</ax>, to relieve their condition and improve life. Nature is a resource to be understood and transformed in the service of humanity."
       },
       "figures": [
         {

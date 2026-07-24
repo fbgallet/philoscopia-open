@@ -24,8 +24,8 @@
         "en": "Elitism of taste"
       },
       "description": {
-        "fr": "Tous les goûts ne se valent pas : des juges qualifiés, formés et sensibles, reconnaissent la vraie beauté, et certains plaisirs sont qualitativement supérieurs à d'autres. Le kitsch et le raffinement ne sont pas sur le même plan.",
-        "en": "Not all tastes are equal: qualified judges, trained and sensitive, recognize true beauty, and some pleasures are qualitatively higher than others. Kitsch and refinement are not on the same level."
+        "fr": "Tous les goûts ne se valent pas : des juges qualifiés, formés et sensibles, <ax id='BEAUTY' pole='OBJECTIVE_BEAUTY'>reconnaissent la vraie beauté</ax>, et certains plaisirs sont qualitativement supérieurs à d'autres. Le kitsch et le raffinement ne sont pas sur le même plan.",
+        "en": "Not all tastes are equal: qualified judges, trained and sensitive, <ax id='BEAUTY' pole='OBJECTIVE_BEAUTY'>recognize true beauty</ax>, and some pleasures are qualitatively higher than others. Kitsch and refinement are not on the same level."
       },
       "figures": [
         {
@@ -51,8 +51,8 @@
         "en": "Egalitarianism of taste"
       },
       "description": {
-        "fr": "La hiérarchie des goûts n'a rien de naturel : elle traduit des rapports de classe. La culture dite légitime est une domination déguisée en mérite esthétique, et aucun plaisir n'est intrinsèquement supérieur à un autre.",
-        "en": "The hierarchy of tastes is in no way natural: it expresses relations of class. So-called legitimate culture is domination disguised as aesthetic merit, and no pleasure is intrinsically higher than another."
+        "fr": "La hiérarchie des goûts n'a rien de naturel : <ax id='SOCIAL_IDENTITY' pole='SOCIAL_REALISM'>elle traduit des rapports de classe</ax>. La culture dite légitime est une domination déguisée en mérite esthétique, et aucun plaisir n'est intrinsèquement supérieur à un autre.",
+        "en": "The hierarchy of tastes is in no way natural: <ax id='SOCIAL_IDENTITY' pole='SOCIAL_REALISM'>it expresses relations of class</ax>. So-called legitimate culture is domination disguised as aesthetic merit, and no pleasure is intrinsically higher than another."
       },
       "figures": [
         {

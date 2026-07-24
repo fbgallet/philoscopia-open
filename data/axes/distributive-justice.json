@@ -45,8 +45,8 @@
         "en": "Egalitarianism"
       },
       "description": {
-        "fr": "Une société juste corrige les inégalités qui ne résultent pas des choix de chacun : naissance, talents, circonstances. La redistribution n'est pas une atteinte à la liberté, mais la condition d'une coopération équitable entre citoyens.",
-        "en": "A just society corrects inequalities that do not result from people's own choices: birth, talents, circumstances. Redistribution is not an assault on freedom but the condition for fair cooperation among citizens."
+        "fr": "Une société juste corrige <ax id='MORAL_RESPONSIBILITY'>les inégalités qui ne résultent pas des choix de chacun</ax> : naissance, talents, circonstances. La redistribution n'est pas une atteinte à la liberté, mais la condition d'une coopération équitable entre citoyens.",
+        "en": "A just society corrects <ax id='MORAL_RESPONSIBILITY'>inequalities that do not result from people's own choices</ax>: birth, talents, circumstances. Redistribution is not an assault on freedom but the condition for fair cooperation among citizens."
       },
       "figures": [
         {
@@ -73,8 +73,8 @@
         "en": "Libertarianism"
       },
       "description": {
-        "fr": "Chacun est propriétaire de lui-même et des fruits de son travail. Une répartition est juste dès lors qu'elle résulte d'échanges libres et d'acquisitions légitimes : redistribuer par la contrainte revient à violer les droits des individus.",
-        "en": "Each person owns themselves and the fruits of their labor. A distribution is just whenever it results from free exchanges and legitimate acquisitions: coercive redistribution amounts to violating individual rights."
+        "fr": "Chacun est propriétaire de lui-même et des fruits de son travail. Une répartition est juste dès lors qu'elle résulte d'échanges libres et d'acquisitions légitimes : redistribuer par la contrainte revient à <ax id='RIGHTS_NATURE' pole='NATURAL_RIGHTS'>violer les droits des individus</ax>.",
+        "en": "Each person owns themselves and the fruits of their labor. A distribution is just whenever it results from free exchanges and legitimate acquisitions: coercive redistribution amounts to <ax id='RIGHTS_NATURE' pole='NATURAL_RIGHTS'>violating individual rights</ax>."
       },
       "figures": [
         {

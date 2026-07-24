@@ -92,8 +92,8 @@
         "en": "Force as an instrument of politics"
       },
       "description": {
-        "fr": "Le politique ne se moralise pas : tout ordre repose en dernier ressort sur la contrainte, et l'État se définit par le monopole de la violence légitime. La question n'est pas de savoir si la force est bonne, mais si elle est employée à propos : qui gouverne doit savoir en user, avec économie et lucidité, sous peine de livrer la cité au chaos ou à plus violent que soi.",
-        "en": "Politics cannot be moralized: every order rests, in the last resort, on coercion, and the state is defined by its monopoly on legitimate violence. The question is not whether force is good, but whether it is used aptly: whoever governs must know how to wield it, sparingly and lucidly, or surrender the city to chaos or to someone more violent."
+        "fr": "Le politique ne se moralise pas : tout ordre repose en dernier ressort sur la contrainte, et l'État se définit par <ax id='AUTHORITY'>le monopole de la violence légitime</ax>. La question n'est pas de savoir si la force est bonne, mais si elle est employée à propos : qui gouverne doit savoir en user, avec économie et lucidité, sous peine de livrer la cité au chaos ou à plus violent que soi.",
+        "en": "Politics cannot be moralized: every order rests, in the last resort, on coercion, and the state is defined by <ax id='AUTHORITY'>its monopoly on legitimate violence</ax>. The question is not whether force is good, but whether it is used aptly: whoever governs must know how to wield it, sparingly and lucidly, or surrender the city to chaos or to someone more violent."
       },
       "figures": [
         {
@@ -132,8 +132,8 @@
         "en": "Emancipatory violence"
       },
       "description": {
-        "fr": "Là où la domination est elle-même une violence installée, exploitation, colonisation, ordre inique maintenu par la force, la violence des opprimés n'est pas un mal mais une réplique : le moyen de briser un système qui ne cédera jamais de lui-même, et, pour l'opprimé, une manière de reconquérir son humanité niée.",
-        "en": "Where domination is itself an entrenched violence, exploitation, colonization, an iniquitous order upheld by force, the violence of the oppressed is not an evil but a reply: the means of breaking a system that will never yield of its own accord, and, for the oppressed, a way of reclaiming their denied humanity."
+        "fr": "Là où <ax id='POLITICAL_LIBERTY' pole='NON_DOMINATION'>la domination est elle-même une violence installée</ax>, exploitation, colonisation, ordre inique maintenu par la force, la violence des opprimés n'est pas un mal mais une réplique : le moyen de briser un système qui ne cédera jamais de lui-même, et, pour l'opprimé, une manière de reconquérir son humanité niée.",
+        "en": "Where <ax id='POLITICAL_LIBERTY' pole='NON_DOMINATION'>domination is itself an entrenched violence</ax>, exploitation, colonization, an iniquitous order upheld by force, the violence of the oppressed is not an evil but a reply: the means of breaking a system that will never yield of its own accord, and, for the oppressed, a way of reclaiming their denied humanity."
       },
       "figures": [
         {

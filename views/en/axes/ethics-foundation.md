@@ -30,7 +30,7 @@ The fundamental moral question is not "what should I do?" but "who should I be?"
 
 ### Ethics of care
 
-Morality is rooted in concrete attentiveness to vulnerable people and in the caring relationships that bind us to one another. Rather than abstract, impartial principles, it values responsiveness, responsibility toward others, and sensitivity to particular situations.
+Morality is rooted in concrete attentiveness to vulnerable people and in the caring relationships that bind us to one another. Rather than [abstract, impartial principles](../axes/partiality.md), it values responsiveness, responsibility toward others, and sensitivity to particular situations.
 
 *[Gilligan](../philosophers/gilligan.md) · Noddings*
 

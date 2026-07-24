@@ -24,8 +24,8 @@
         "en": "Unconditionalism"
       },
       "description": {
-        "fr": "Le pardon véritable ne pardonne que l'impardonnable : s'il exige des excuses, une réparation ou un repentir, il n'est plus qu'un échange. Le pardon authentique est un don gratuit, sans condition, qui excède toute logique de mérite.",
-        "en": "True forgiveness forgives only the unforgivable: if it requires apologies, reparation, or repentance, it is merely a transaction. Genuine forgiveness is a free, unconditional gift that exceeds any logic of desert."
+        "fr": "Le pardon véritable ne pardonne que l'impardonnable : s'il exige des excuses, une réparation ou un repentir, il n'est plus qu'un échange. Le pardon authentique est un don gratuit, sans condition, qui excède <ax id='MORAL_RESPONSIBILITY' pole='DESERT'>toute logique de mérite</ax>.",
+        "en": "True forgiveness forgives only the unforgivable: if it requires apologies, reparation, or repentance, it is merely a transaction. Genuine forgiveness is a free, unconditional gift that exceeds <ax id='MORAL_RESPONSIBILITY' pole='DESERT'>any logic of desert</ax>."
       },
       "figures": [
         {

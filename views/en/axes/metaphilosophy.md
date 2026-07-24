@@ -6,7 +6,7 @@
 
 *Truth · value · categorical · core axis*
 
-Anyone who opens a book of philosophy expects something from it: finally understanding the world, changing society, learning to live better, or shedding badly posed questions — when a widespread opinion does not simply deem it useless, superseded by the sciences. Philosophers themselves have never stopped quarreling over their own vocation; this site, which invites you to build your own worldview, itself takes a stand in that debate.
+Anyone who opens a book of philosophy expects something from it: finally understanding the world, changing society, learning to live better, or shedding badly posed questions — when a widespread opinion does not [simply deem it useless, superseded by the sciences](../axes/science-place.md). Philosophers themselves have never stopped quarreling over their own vocation; this site, which invites you to build your own worldview, itself takes a stand in that debate.
 
 ## Poles
 
@@ -30,7 +30,7 @@ Philosophy is an exercise before it is a discourse: a way of life that works on 
 
 ### Clarifying thought
 
-Philosophy delivers neither truths about the world nor recipes for living: it teaches us how to think. Its task is to examine critically every belief, every claim, every concept, to test their grounds and untangle confusions; at its sharpest, it shows that many of the great problems are knots in language, to be dissolved rather than solved. Clarity is not a preliminary here: it is the very goal.
+Philosophy delivers neither truths about the world nor recipes for living: it teaches us how to think. Its task is to examine critically every belief, every claim, every concept, to test their grounds and untangle confusions; at its sharpest, it shows that many of the great problems are [knots in language](../axes/meaning.md), to be dissolved rather than solved. Clarity is not a preliminary here: it is the very goal.
 
 *[Wittgenstein](../philosophers/wittgenstein.md)*
 

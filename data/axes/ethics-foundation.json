@@ -115,8 +115,8 @@
         "en": "Ethics of care"
       },
       "description": {
-        "fr": "La morale s'enracine dans l'attention concrète portée aux personnes vulnérables et dans les relations de soin qui nous lient les uns aux autres. Plutôt que des principes abstraits et impartiaux, elle valorise la sollicitude, la responsabilité envers autrui et la prise en compte des situations particulières.",
-        "en": "Morality is rooted in concrete attentiveness to vulnerable people and in the caring relationships that bind us to one another. Rather than abstract, impartial principles, it values responsiveness, responsibility toward others, and sensitivity to particular situations."
+        "fr": "La morale s'enracine dans l'attention concrète portée aux personnes vulnérables et dans les relations de soin qui nous lient les uns aux autres. Plutôt que <ax id='PARTIALITY'>des principes abstraits et impartiaux</ax>, elle valorise la sollicitude, la responsabilité envers autrui et la prise en compte des situations particulières.",
+        "en": "Morality is rooted in concrete attentiveness to vulnerable people and in the caring relationships that bind us to one another. Rather than <ax id='PARTIALITY'>abstract, impartial principles</ax>, it values responsiveness, responsibility toward others, and sensitivity to particular situations."
       },
       "figures": [
         {

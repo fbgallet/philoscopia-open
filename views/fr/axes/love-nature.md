@@ -24,13 +24,13 @@ L'amour véritable ne cherche pas à combler un manque : il se donne sans condit
 
 ### Ruse de l'espèce
 
-L'amour est une illusion par laquelle la nature nous manipule : sous le sentiment le plus exalté agit l'instinct de reproduction de l'espèce. L'individu croit choisir librement, alors qu'il sert des fins qui le dépassent.
+L'amour est une illusion par laquelle la nature nous manipule : sous le sentiment le plus exalté agit [l'instinct de reproduction de l'espèce](../axes/human-nature.md). L'individu croit choisir librement, alors qu'il sert des fins qui le dépassent.
 
 *[Schopenhauer](../philosophers/schopenhauer.md)*
 
 ### Philia (amitié)
 
-Le cœur de l'amour n'est ni un manque à combler ni un don à sens unique : c'est le lien réciproque et choisi de l'amitié, où chacun veut le bien de l'autre pour lui-même. Nourri de temps, d'égalité et de vertu partagée, il est la forme la plus accomplie de l'amour : une vie bonne menée ensemble.
+Le cœur de l'amour n'est ni un manque à combler ni un don à sens unique : c'est le lien réciproque et choisi de l'amitié, où chacun veut le bien de l'autre pour lui-même. Nourri de temps, d'égalité et de vertu partagée, il est la forme la plus accomplie de l'amour : [une vie bonne menée ensemble](../axes/sovereign-good.md).
 
 *[Aristote](../philosophers/aristotle.md) · [Montaigne](../philosophers/montaigne.md)*
 

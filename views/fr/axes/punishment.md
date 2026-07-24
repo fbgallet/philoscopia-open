@@ -6,13 +6,13 @@
 
 *Autrui · valeur · catégoriel*
 
-Punir pour faire payer la faute peut n'être qu'une vengeance habillée en justice ; punir seulement pour l'exemple ou l'efficacité peut sacrifier le coupable à l'intérêt général. Selon la réponse, la peine regarde vers le passé à solder ou vers l'avenir à protéger. Se positionner, c'est dire ce qu'on fait vraiment quand on punit.
+Punir pour faire payer la faute peut n'être qu'une vengeance habillée en justice ; punir seulement pour l'exemple ou l'efficacité peut [sacrifier le coupable à l'intérêt général](../axes/ethics-foundation.md). Selon la réponse, la peine regarde vers le passé à solder ou vers l'avenir à protéger. Se positionner, c'est dire ce qu'on fait vraiment quand on punit.
 
 ## Pôles
 
 ### Rétributivisme
 
-On punit parce qu'une faute a été commise, et la peine doit être proportionnée à cette faute. Le châtiment rend justice au crime lui-même et respecte le coupable comme un être responsable, indépendamment de toute utilité sociale.
+On punit parce qu'une faute a été commise, et la peine doit être proportionnée à cette faute. Le châtiment rend justice au crime lui-même et [respecte le coupable comme un être responsable](../axes/moral-responsibility.md), indépendamment de toute utilité sociale.
 
 *[Kant](../philosophers/kant.md)*
 

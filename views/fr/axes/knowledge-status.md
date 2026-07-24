@@ -6,7 +6,7 @@
 
 *La vérité · descriptif (théorie) · bipolaire*
 
-Les théories scientifiques dévoilent-elles le réel tel qu'il est, ou sont-elles des constructions utiles, marquées par nos concepts et notre histoire ? Si elles disent le vrai, la science tranche au-dessus des opinions ; si elles construisent, son autorité n'est qu'un point de vue parmi d'autres. Se positionner, c'est dire ce qu'on peut vraiment attendre du savoir scientifique.
+Les théories scientifiques dévoilent-elles le réel tel qu'il est, ou sont-elles des constructions utiles, marquées par nos concepts et notre histoire ? Si elles disent le vrai, [la science tranche au-dessus des opinions](../axes/science-place.md) ; si elles construisent, son autorité n'est qu'un point de vue parmi d'autres. Se positionner, c'est dire ce qu'on peut vraiment attendre du savoir scientifique.
 
 ## Pôles
 

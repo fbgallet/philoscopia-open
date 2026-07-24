@@ -6,13 +6,13 @@
 
 *The world · descriptive (theory) · bipolar with median*
 
-Everything we see is born, changes, and perishes; and yet we look everywhere for what endures: stable laws, identical things, a self that stays the same. Is the ground of the real an immutable being of which change is only the surface, or a flux in which stable things are merely temporary slowings? On the answer hangs even the way we understand the world: through fixed forms or through processes.
+Everything we see is born, changes, and perishes; and yet we look everywhere for what endures: stable laws, identical things, [a self that stays the same](../axes/self-nature.md). Is the ground of the real an immutable being of which change is only the surface, or a flux in which stable things are merely temporary slowings? On the answer hangs even the way we understand the world: through fixed forms or through processes.
 
 ## Poles
 
 ### Permanence of being
 
-What really is can neither come to be nor perish: change, whereby a thing is and then is not, contradicts being itself. Sensible becoming is appearance, the opinion of mortals or a world of shadows; thought reaches the true only by rising to what endures, immutable Being or the eternal Forms.
+What really is can neither come to be nor perish: change, whereby a thing is and then is not, contradicts being itself. Sensible becoming is appearance, the opinion of mortals or a world of shadows; thought reaches the true only by rising to what endures, immutable Being or [the eternal Forms](../axes/universals.md).
 
 - Plato does not abolish becoming: the changing sensible keeps its consistency as a moving image of eternity; only genuine knowledge requires the immutable.
 

@@ -9,15 +9,24 @@
     "en": "Mary is a brilliant vision scientist: shut all her life in a black-and-white room, she has nonetheless learned, on a monochrome screen, everything physical science can say about color. Every wavelength, every cell of the retina, every circuit of the brain: no part of the mechanism escapes her. One day she is let out, and for the first time she sees a red rose. Does she then learn something? If she does, then a complete knowledge of the <c id='materialism'>physical</c> still left a remainder: what it is, for a living being, to <kw>see</kw> red."
   },
   "source": {
-    "author": { "fr": "Frank Jackson", "en": "Frank Jackson" },
-    "work": { "fr": "« Epiphenomenal Qualia »", "en": "\"Epiphenomenal Qualia\"" },
+    "author": {
+      "fr": "Frank Jackson",
+      "en": "Frank Jackson"
+    },
+    "work": {
+      "fr": "« Epiphenomenal Qualia »",
+      "en": "\"Epiphenomenal Qualia\""
+    },
     "year": 1982
   },
   "question": {
     "fr": "En voyant le rouge pour la première fois, Mary apprend-elle quelque chose que la science ne lui avait pas donné ?",
     "en": "On seeing red for the first time, does Mary learn something that science had not given her?"
   },
-  "axisIds": ["SCIENCE_PLACE", "CONSCIOUSNESS_NATURE"],
+  "axisIds": [
+    "SCIENCE_PLACE",
+    "CONSCIOUSNESS_NATURE"
+  ],
   "options": [
     {
       "id": "learns-something-new",
@@ -26,7 +35,26 @@
         "en": "She learns something: seeing red reveals to her what no textbook contained. There are, then, truths that science, however complete, cannot reach."
       },
       "hints": [
-        { "axisId": "SCIENCE_PLACE", "value": { "kind": "scalar", "value": 1 } }
+        {
+          "axisId": "SCIENCE_PLACE",
+          "value": {
+            "kind": "scalar",
+            "value": 1
+          }
+        },
+        {
+          "axisId": "CONSCIOUSNESS_NATURE",
+          "value": {
+            "kind": "weights",
+            "weights": [
+              0,
+              0.35,
+              0.65,
+              0,
+              0
+            ]
+          }
+        }
       ],
       "discussion": {
         "fr": "C'est l'argument de la connaissance de Frank Jackson : si Mary, qui savait déjà tout le physique, apprend pourtant en voyant le rouge, alors le savoir objectif n'épuise pas le réel, et l'expérience vécue en première personne y donne un accès propre, irréductible.",
@@ -40,7 +68,26 @@
         "en": "She learns no new fact: she already knew everything about red, she merely undergoes the direct experience of it for the first time. Nothing, in principle, escapes science."
       },
       "hints": [
-        { "axisId": "SCIENCE_PLACE", "value": { "kind": "scalar", "value": -1 } }
+        {
+          "axisId": "SCIENCE_PLACE",
+          "value": {
+            "kind": "scalar",
+            "value": -1
+          }
+        },
+        {
+          "axisId": "CONSCIOUSNESS_NATURE",
+          "value": {
+            "kind": "weights",
+            "weights": [
+              0.65,
+              0,
+              0,
+              0,
+              0.35
+            ]
+          }
+        }
       ],
       "discussion": {
         "fr": "Pour qui tient tout le réel pour descriptible, le « nouveau » de Mary n'est qu'une vieille information atteinte par un autre canal, non une vérité de plus : sentir le rouge et savoir ce qu'il est sont deux façons de saisir le même fait.",
@@ -54,7 +101,26 @@
         "en": "She gains not a new piece of knowledge but a familiarity, a know-how: from now on she can recognize red, imagine it, remember it. Neither a bare scientific fact nor an unreachable truth."
       },
       "hints": [
-        { "axisId": "SCIENCE_PLACE", "value": { "kind": "scalar", "value": 0 } }
+        {
+          "axisId": "SCIENCE_PLACE",
+          "value": {
+            "kind": "scalar",
+            "value": 0
+          }
+        },
+        {
+          "axisId": "CONSCIOUSNESS_NATURE",
+          "value": {
+            "kind": "weights",
+            "weights": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ]
+          }
+        }
       ],
       "discussion": {
         "fr": "Voie médiane : la science garde le dernier mot sur les faits, mais il est des formes de connaissance, par accointance ou par capacité, qu'elle ne fournit pas elle-même sans que rien ne la démente. Reconnaître ses limites n'est pas lui retirer son autorité.",
@@ -65,10 +131,16 @@
   "roles": [
     {
       "role": "OBJECTS",
-      "position": { "axisId": "SCIENCE_PLACE", "poleId": "SCIENTISM" },
+      "position": {
+        "axisId": "SCIENCE_PLACE",
+        "poleId": "SCIENTISM"
+      },
       "attacks": "POSITION",
       "argumentId": "scientism-self-correction",
-      "problems": ["the-first-person-given", "truths-science-cannot-reach"],
+      "problems": [
+        "the-first-person-given",
+        "truths-science-cannot-reach"
+      ],
       "summary": {
         "fr": "Mary sait tout le physique de la couleur sans l'avoir vue ; en voyant le rouge, elle apprend quelque chose. Un savoir complet du physique laissait donc un reste : la science n'épuise pas le réel.",
         "en": "Mary knows all the physical facts about color without having seen it; on seeing red, she learns something. A complete physical knowledge thus left a remainder: science does not exhaust the real."
@@ -100,7 +172,16 @@
             "fr": "Voir le rouge lui apprend un fait qu'aucun manuel ne contenait : la vie vécue donne des vérités que la mesure n'atteint pas.",
             "en": "Seeing red teaches her a fact no textbook contained: lived life yields truths that measurement does not reach."
           },
-          "hints": [{ "axisId": "SCIENCE_PLACE", "value": { "kind": "scalar", "value": 0.6 }, "weight": 2 }],
+          "hints": [
+            {
+              "axisId": "SCIENCE_PLACE",
+              "value": {
+                "kind": "scalar",
+                "value": 0.6
+              },
+              "weight": 2
+            }
+          ],
           "discussion": {
             "fr": "Vous tenez l'argument de la connaissance de Frank Jackson : le savoir objectif n'épuise pas le réel, l'expérience en première personne y ajoute.",
             "en": "You hold Frank Jackson's knowledge argument: objective knowledge does not exhaust the real, first-person experience adds to it."
@@ -112,7 +193,16 @@
             "fr": "Elle ne gagne pas un fait mais une familiarité ; la science garde le dernier mot sur les faits, sans fournir toute forme de connaissance.",
             "en": "She gains not a fact but a familiarity; science keeps the last word on the facts, without supplying every form of knowledge."
           },
-          "hints": [{ "axisId": "SCIENCE_PLACE", "value": { "kind": "scalar", "value": 0 }, "weight": 1 }],
+          "hints": [
+            {
+              "axisId": "SCIENCE_PLACE",
+              "value": {
+                "kind": "scalar",
+                "value": 0
+              },
+              "weight": 1
+            }
+          ],
           "discussion": {
             "fr": "La voie médiane : reconnaître à la science son autorité sur les faits sans lui prêter toute forme de savoir, par accointance ou par capacité.",
             "en": "The middle path: granting science its authority over the facts without ascribing to it every form of knowing, by acquaintance or by ability."
@@ -124,7 +214,16 @@
             "fr": "Aucun fait nouveau : elle atteint par un autre canal ce qu'elle savait déjà. Sentir le rouge et le connaître, c'est saisir le même fait de deux façons.",
             "en": "No new fact: she reaches through another channel what she already knew. Feeling red and knowing it are two ways of grasping the same fact."
           },
-          "hints": [{ "axisId": "SCIENCE_PLACE", "value": { "kind": "scalar", "value": -1 }, "weight": 0.5 }],
+          "hints": [
+            {
+              "axisId": "SCIENCE_PLACE",
+              "value": {
+                "kind": "scalar",
+                "value": -1
+              },
+              "weight": 0.5
+            }
+          ],
           "discussion": {
             "fr": "La réplique physicaliste : le « nouveau » de Mary est une vieille information atteinte autrement, non une vérité de plus.",
             "en": "The physicalist reply: Mary's 'new' is old information reached in a new way, not one more truth."

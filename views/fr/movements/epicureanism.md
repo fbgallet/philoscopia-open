@@ -224,7 +224,7 @@ Les dieux, parfaitement heureux, ne se mêlent pas du monde : il n'y a pas de pr
 
 *positionné · explicite dans les textes · majeure*
 
-Physicalisme réducteur 90% · Illusionnisme 10%
+Physicalisme 90% · Illusionnisme 10%
 
 L'âme est corporelle : un assemblage d'atomes très fins qui se dissout à la mort comme le reste. La pensée et la sensation sont des processus matériels, sans rien d'immortel ni d'immatériel.
 

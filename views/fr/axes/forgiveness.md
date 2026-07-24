@@ -12,7 +12,7 @@ Pardonner sans condition peut libérer la victime, mais semble effacer la faute 
 
 ### Inconditionnalisme
 
-Le pardon véritable ne pardonne que l'impardonnable : s'il exige des excuses, une réparation ou un repentir, il n'est plus qu'un échange. Le pardon authentique est un don gratuit, sans condition, qui excède toute logique de mérite.
+Le pardon véritable ne pardonne que l'impardonnable : s'il exige des excuses, une réparation ou un repentir, il n'est plus qu'un échange. Le pardon authentique est un don gratuit, sans condition, qui excède [toute logique de mérite](../axes/moral-responsibility.md).
 
 *[Derrida](../philosophers/derrida.md)*
 

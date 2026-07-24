@@ -18,7 +18,7 @@ Les institutions héritées condensent une sagesse accumulée que nulle raison i
 
 ### Progressisme
 
-Les sociétés peuvent et doivent s'améliorer : la raison permet d'identifier les injustices héritées et de les corriger. La tradition n'a pas d'autorité en soi ; ce qui compte, c'est l'émancipation et le perfectionnement de l'humanité.
+Les sociétés peuvent et doivent s'améliorer : la raison permet d'identifier les injustices héritées et de les corriger. La tradition n'a pas d'autorité en soi ; ce qui compte, c'est [l'émancipation et le perfectionnement de l'humanité](../axes/history-meaning.md).
 
 *[Condorcet](../philosophers/condorcet.md) · [Marx](../philosophers/marx.md)*
 

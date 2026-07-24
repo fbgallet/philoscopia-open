@@ -18,7 +18,7 @@ Some things are up to us, our judgments and our will; others are not, such as he
 
 ### Prometheanism
 
-The limits of our power are not fixed once and for all: through knowledge, technology, and collective action, humanity can transform the world and push back what seemed out of reach. Rather than accepting the order of things, we should work to change it.
+The limits of our power are not fixed once and for all: [through knowledge, technology, and collective action](../axes/technology.md), humanity can transform the world and push back what seemed out of reach. Rather than accepting the order of things, we should work to change it.
 
 *[Descartes](../philosophers/descartes.md) · [Marx](../philosophers/marx.md)*
 

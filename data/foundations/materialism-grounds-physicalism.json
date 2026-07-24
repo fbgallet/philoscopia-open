@@ -1,7 +1,13 @@
 {
-  "id": "materialism-grounds-reductive-physicalism",
-  "ground": { "axisId": "REALITY_NATURE", "poleId": "MATERIALISM" },
-  "grounded": { "axisId": "CONSCIOUSNESS_NATURE", "poleId": "REDUCTIVE_PHYSICALISM" },
+  "id": "materialism-grounds-physicalism",
+  "ground": {
+    "axisId": "REALITY_NATURE",
+    "poleId": "MATERIALISM"
+  },
+  "grounded": {
+    "axisId": "CONSCIOUSNESS_NATURE",
+    "poleId": "PHYSICALISM"
+  },
   "kind": "T_T",
   "strength": "STRONG",
   "explanation": {

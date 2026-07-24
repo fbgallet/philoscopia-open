@@ -6,19 +6,19 @@
 
 *Autrui · valeur · bipolaire*
 
-Privilégier les siens donne des racines mais peut fermer la porte à l'étranger ; s'ouvrir à tous élargit le cœur mais risque de n'appartenir nulle part. Trancher, c'est dire à qui nous devons quelque chose en premier, quand les loyautés proches et lointaines entrent en conflit.
+Privilégier les siens donne des racines mais peut fermer la porte à l'étranger ; s'ouvrir à tous élargit le cœur mais risque de n'appartenir nulle part. Trancher, c'est dire [à qui nous devons quelque chose en premier](../axes/partiality.md), quand les loyautés proches et lointaines entrent en conflit.
 
 ## Pôles
 
 ### Communautarisme-patriotisme
 
-Nous ne sommes pas des individus abstraits : notre identité et nos attachements naissent des communautés concrètes qui nous ont formés, famille, nation, culture. La loyauté envers les siens n'est pas un préjugé, mais une vertu et la source réelle de la solidarité.
+[Nous ne sommes pas des individus abstraits](../axes/individual-society.md) : notre identité et nos attachements naissent des communautés concrètes qui nous ont formés, famille, nation, culture. La loyauté envers les siens n'est pas un préjugé, mais une vertu et la source réelle de la solidarité.
 
 *MacIntyre · [Walzer](../philosophers/walzer.md)*
 
 ### Cosmopolitisme
 
-Nous sommes d'abord citoyens du monde : la dignité humaine ne s'arrête pas aux frontières. Les appartenances locales sont contingentes, et c'est à l'humanité tout entière que nous appartenons d'abord, par-delà les patries.
+Nous sommes d'abord citoyens du monde : [la dignité humaine ne s'arrête pas aux frontières](../axes/moral-scope.md). Les appartenances locales sont contingentes, et c'est à l'humanité tout entière que nous appartenons d'abord, par-delà les patries.
 
 *[Diogène](../philosophers/diogenes.md) · [Kant](../philosophers/kant.md)*
 

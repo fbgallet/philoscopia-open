@@ -208,6 +208,7 @@
 - [Prudence (phronèsis)](phronesis.md)
 - [Psychologisme](psychologism.md)
 - [Pu 樸 (le bloc brut)](pu.md)
+- [Qualia](qualia.md)
 - [Raison instrumentale](raison-instrumentale.md)
 - [Rationalisme](rationalism.md)
 - [Réalisme des universaux](realism-of-universals.md)

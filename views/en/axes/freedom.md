@@ -6,7 +6,7 @@
 
 *The self · descriptive (theory) · bipolar with median · core axis*
 
-We deliberate as if the future were open, yet our choices have causes. If everything were settled in advance, what would remain of merit, fault, responsibility? Our whole relation to ourselves and to others is at stake.
+We deliberate as if the future were open, yet our choices have causes. If everything were settled in advance, what would remain of [merit, fault, responsibility](../axes/moral-responsibility.md)? Our whole relation to ourselves and to others is at stake.
 
 ## Poles
 

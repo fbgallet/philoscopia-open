@@ -18,7 +18,7 @@ La société et le pouvoir politique tirent leur légitimité d'un pacte, réel 
 
 ### Communauté organique
 
-L'homme est par nature un être social : la communauté précède l'individu, qui n'existe et ne se comprend qu'en elle. Le lien social n'est pas un contrat mais un héritage vivant, tissé de mœurs, d'institutions et de traditions transmises.
+L'homme est par nature un être social : [la communauté précède l'individu](../axes/individual-society.md), qui n'existe et ne se comprend qu'en elle. Le lien social n'est pas un contrat mais un héritage vivant, tissé de mœurs, d'institutions et de traditions transmises.
 
 *[Aristote](../philosophers/aristotle.md) · [Burke](../philosophers/burke.md)*
 

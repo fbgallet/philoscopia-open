@@ -18,7 +18,7 @@ Art does not have to be useful, moral, or militant: its sole end is beauty and t
 
 ### Truth
 
-Art is a path to knowledge: it discloses a truth that the concept cannot reach, the essence of the world, the opening of being, or time regained. Its greatness lies in what it lets us see, not in the pleasure it gives or the cause it serves.
+Art is a path to knowledge: [it discloses a truth that the concept cannot reach](../axes/science-place.md), the essence of the world, the opening of being, or time regained. Its greatness lies in what it lets us see, not in the pleasure it gives or the cause it serves.
 
 *[Schopenhauer](../philosophers/schopenhauer.md) · [Heidegger](../philosophers/heidegger.md) · Proust*
 

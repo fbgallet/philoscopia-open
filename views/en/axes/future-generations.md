@@ -12,7 +12,7 @@ Can we owe anything to beings who do not yet exist, who claim nothing, and whom 
 
 ### Responsibility principle
 
-Our power to act now extends to the living conditions of generations to come: we have a duty to act so that the effects of our actions remain compatible with the permanence of genuinely human life on Earth. The distant future enters the scope of morality.
+Our power to act now extends to the living conditions of generations to come: we have a duty to act so that the effects of our actions remain compatible with [the permanence of genuinely human life on Earth](../axes/human-place-nature.md). The distant future enters the scope of morality.
 
 *[Jonas](../philosophers/jonas.md)*
 

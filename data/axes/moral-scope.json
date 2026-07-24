@@ -95,8 +95,8 @@
         "en": "Constructivism"
       },
       "description": {
-        "fr": "Les normes morales ne sont ni découvertes dans la nature des choses ni simplement relatives : elles sont construites par des procédures rationnelles équitables, comme la délibération sous un voile d'ignorance ou la discussion entre égaux. Leur validité tient à la légitimité du processus qui les engendre.",
-        "en": "Moral norms are neither discovered in the nature of things nor merely relative: they are constructed through fair rational procedures, such as deliberation behind a veil of ignorance or discussion among equals. Their validity rests on the legitimacy of the process that generates them."
+        "fr": "Les normes morales ne sont ni découvertes dans la nature des choses ni simplement relatives : elles sont <ax id='RIGHTS_NATURE' pole='POLITICAL_CONSTRUCTIVISM'>construites par des procédures rationnelles équitables</ax>, comme la délibération sous un voile d'ignorance ou la discussion entre égaux. Leur validité tient à la légitimité du processus qui les engendre.",
+        "en": "Moral norms are neither discovered in the nature of things nor merely relative: they are <ax id='RIGHTS_NATURE' pole='POLITICAL_CONSTRUCTIVISM'>constructed through fair rational procedures</ax>, such as deliberation behind a veil of ignorance or discussion among equals. Their validity rests on the legitimacy of the process that generates them."
       },
       "figures": [
         {

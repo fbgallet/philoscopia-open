@@ -6,13 +6,13 @@
 
 *The self · descriptive (theory) · triangular · core axis*
 
-It may be humanity's oldest question: graves are older than writing. If a soul survives, if something is reborn, death changes meaning and this life becomes a preparation, a trial, or a passage; if nothing survives, everything that matters must fit between birth and the end. To take a position is to say what death really ends, and what we can honestly hope escapes it.
+It may be humanity's oldest question: graves are older than writing. If a soul survives, if something is reborn, [death changes meaning](../axes/death.md) and this life becomes a preparation, a trial, or a passage; if nothing survives, everything that matters must fit between birth and the end. To take a position is to say what death really ends, and what we can honestly hope escapes it.
 
 ## Poles
 
 ### The immortal soul
 
-Something in us is not of the body and does not die with it: a soul, a spiritual principle, whose existence continues after the body dissolves. Death is then not an end but a separation; what is most our own is precisely what cannot die.
+[Something in us is not of the body and does not die with it](../axes/consciousness-nature.md): a soul, a spiritual principle, whose existence continues after the body dissolves. Death is then not an end but a separation; what is most our own is precisely what cannot die.
 
 - In the monotheisms, the soul's survival is completed by resurrection: for Thomas Aquinas, the separated soul subsists, but the person is whole only once the body is restored. The mode of survival (a soul immortal by nature, or a person restored by an act of God) is the pole's internal quarrel.
 
@@ -29,7 +29,7 @@ Death is not an end but a relay: something continues from life to life, inheriti
 
 ### Nothing survives
 
-The person ends with the body: consciousness, born of organized matter, comes undone with it. What remains is not the person: works, children, a memory in others, traces that last as long as someone carries them. The only eternity available is that of things done, not of the one who did them.
+The person ends with the body: [consciousness, born of organized matter, comes undone with it](../axes/consciousness-nature.md). What remains is not the person: works, children, a memory in others, traces that last as long as someone carries them. The only eternity available is that of things done, not of the one who did them.
 
 - Symbolic immortality (living on in one's works, descendants, and memory, from Diotima to Arendt) is not survival of the person: it is an existential answer to the fact that there is none. It is discussed here and on the axis of attitudes toward death.
 

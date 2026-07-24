@@ -6,7 +6,7 @@
 
 *Autrui · valeur · catégoriel ordonné · axe nodal*
 
-Toute loi peut un jour heurter la conscience : décret inique, ordre qu'on ne peut pas suivre sans se trahir. Obéir quand même, c'est protéger ce qui rend la vie commune possible ; désobéir, c'est affirmer qu'au-dessus des lois il y a autre chose, au risque que chacun ne suive plus que son propre jugement. D'Antigone aux grandes désobéissances de l'histoire, la question revient à chaque génération. Se positionner, c'est dire ce que l'on doit à la loi quand elle commande ce que la conscience refuse.
+Toute loi peut un jour heurter la conscience : décret inique, ordre qu'on ne peut pas suivre sans se trahir. Obéir quand même, c'est protéger ce qui rend la vie commune possible ; désobéir, c'est affirmer qu'[au-dessus des lois il y a autre chose](../axes/rights-nature.md), au risque que chacun ne suive plus que son propre jugement. D'Antigone aux grandes désobéissances de l'histoire, la question revient à chaque génération. Se positionner, c'est dire ce que l'on doit à la loi quand elle commande ce que la conscience refuse.
 
 ## Pôles
 
@@ -21,7 +21,7 @@ La loi oblige même quand elle déplaît : c'est l'obéissance de tous qui rend 
 
 ### Désobéissance civile
 
-Quand une loi commande l'inacceptable, la conscience a le droit, parfois le devoir, de désobéir : publiquement, sans violence, en acceptant la sanction. Cette désobéissance en plein jour n'est pas une trahison de la loi mais un appel qui lui est adressé : elle vise à réveiller le sens de la justice de la communauté, non à se soustraire à la règle commune.
+Quand une loi commande l'inacceptable, la conscience a le droit, parfois le devoir, de désobéir : [publiquement, sans violence](../axes/violence.md), en acceptant la sanction. Cette désobéissance en plein jour n'est pas une trahison de la loi mais un appel qui lui est adressé : elle vise à réveiller le sens de la justice de la communauté, non à se soustraire à la règle commune.
 
 - Rawls en donne la théorie : dans une société presque juste, une infraction publique et non violente dont on assume les conséquences légales, adressée au sens de la justice de la majorité et réservée aux injustices graves.
 - King : enfreindre une loi inique en acceptant la prison, c'est témoigner du plus haut respect pour le droit.

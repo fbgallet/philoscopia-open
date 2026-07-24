@@ -1,0 +1,126 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "dennett",
+  "name": {
+    "fr": "Dennett",
+    "en": "Dennett"
+  },
+  "summary": {
+    "fr": "Philosophe américain, matérialiste et darwinien, qui tient le vécu qualitatif, tel que l'introspection croit le saisir, pour une illusion que le cerveau se fait sur lui-même : ce ne sont pas nos expériences qu'il nie, mais les qualia conçus comme propriétés privées et ineffables. Il défend aussi un compatibilisme sur la liberté.",
+    "en": "American philosopher, a materialist and Darwinian, who holds qualitative experience, as introspection believes it grasps it, to be an illusion the brain makes about itself: what he denies is not our experiences, but qualia conceived as private and ineffable properties. He also defends a compatibilism about freedom."
+  },
+  "birth": 1942,
+  "death": 2024,
+  "nationality": {
+    "fr": "Américain",
+    "en": "American"
+  },
+  "movements": [
+    "analytic-philosophy"
+  ],
+  "identity": {
+    "wikidata": "Q215263",
+    "wikipedia": {
+      "fr": "https://fr.wikipedia.org/wiki/Daniel_Dennett",
+      "en": "https://en.wikipedia.org/wiki/Daniel_Dennett"
+    }
+  },
+  "updatedAt": "2026-07-25T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  },
+  "fullName": {
+    "fr": "Daniel Dennett",
+    "en": "Daniel Dennett"
+  },
+  "tagline": {
+    "fr": "Il retourne l'argument de ses adversaires : ce n'est pas la science qui manque le vécu, c'est l'introspection qui se trompe sur elle-même ; l'évidence de la vie intérieure n'est pas la preuve à respecter, mais le phénomène à expliquer.",
+    "en": "He turns his opponents' argument around: it is not science that misses lived experience, it is introspection that is wrong about itself; the obviousness of the inner life is not the evidence to be respected, but the phenomenon to be explained."
+  },
+  "entries": [
+    {
+      "axisId": "CONSCIOUSNESS_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.2,
+          0,
+          0,
+          0,
+          0.8
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Dennett refuse les <c id='qualia'>qualia</c> tels que la tradition les conçoit : des propriétés intrinsèques, ineffables, privées et infaillibles, données à l'<c>introspection</c>. Ce qui existe, ce sont des états cérébraux et les régularités réelles auxquelles nos rapports se rattachent ; l'introspection n'est pas un regard porté sur une scène intérieure mais une source de rapports, souvent confabulés, que sa méthode, l'<c>hétérophénoménologie</c>, traite comme des données à expliquer et non comme des faits acquis. La conscience n'est donc pas niée : c'est l'apparence d'une lueur intérieure qui devient elle-même l'effet à expliquer.",
+          "en": "Dennett rejects <c id='qualia'>qualia</c> as the tradition conceives them: intrinsic, ineffable, private and infallible properties, given to <c>introspection</c>. What exists are brain states and the real patterns to which our reports attach; introspection is not a gaze upon an inner stage but a source of reports, often confabulated, which his method, <c>heterophenomenology</c>, treats as data to be explained rather than as established facts. Consciousness is therefore not denied: it is the appearance of an inner glow that itself becomes the effect to be explained."
+        },
+        "references": [
+          {
+            "fr": "« Quining Qualia » (1988)",
+            "en": "\"Quining Qualia\" (1988)"
+          },
+          {
+            "fr": "Consciousness Explained (1991)",
+            "en": "Consciousness Explained (1991)"
+          }
+        ],
+        "strength": "STRONG",
+        "quoteId": "la-conscience-humaine-est-le-dernier-dennett"
+      }
+    },
+    {
+      "axisId": "MACHINE_MIND",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.9
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Pour Dennett, comprendre n'est pas un éclat intérieur qui s'ajouterait au traitement de l'information : c'est ce que fait un système dont le comportement présente des régularités assez fines pour qu'on gagne à lui prêter des états mentaux, ce qu'il nomme la <c>stratégie de l'interprète</c>. <obj>Contre la <te id='chinese-room'>chambre chinoise</te>, il répond que l'homme au manuel n'est qu'un rouage : ce n'est pas lui qui comprendrait le chinois, mais le système entier, pièce, règles et registres compris.</obj> Chercher dans le cerveau un lieu où la compréhension aurait enfin lieu, ce serait reconduire le <c>théâtre cartésien</c> qu'il passe son œuvre à démonter.",
+          "en": "For Dennett, understanding is not an inner flash added to information processing: it is what a system does whose behaviour shows regularities fine enough that one gains by ascribing mental states to it, what he calls the <c>intentional stance</c>. <obj>Against the <te id='chinese-room'>Chinese room</te>, he replies that the man with the rulebook is only a cog: it is not he who would understand Chinese, but the whole system, room, rules and ledgers included.</obj> To seek in the brain a place where understanding would finally occur would be to reinstate the <c>Cartesian theatre</c> his work is spent dismantling."
+        },
+        "references": [
+          {
+            "fr": "La Stratégie de l'interprète (1987)",
+            "en": "The Intentional Stance (1987)"
+          },
+          {
+            "fr": "Consciousness Explained (1991)",
+            "en": "Consciousness Explained (1991)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "REDUCTION_EMERGENCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.5
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Dennett défend l'explication par les parties tout en refusant sa caricature. Il forge l'expression <c>réductionnisme glouton</c> pour l'empressement à sauter les niveaux intermédiaires, à expliquer l'esprit par les neurones sans passer par les mécanismes de traitement qui font le travail. <arg>Le bon réductionnisme garde les étages : il montre comment, de degré en degré, des processus dépourvus d'intelligence finissent par produire de la compétence, sans jamais rien ajouter à la matière.</arg>",
+          "en": "Dennett defends explanation by parts while refusing its caricature. He coins the phrase <c>greedy reductionism</c> for the haste to skip intermediate levels, to explain mind by neurons without passing through the processing mechanisms that do the work. <arg>Good reductionism keeps the storeys: it shows how, degree by degree, processes devoid of intelligence end up producing competence, without ever adding anything to matter.</arg>"
+        },
+        "references": [
+          {
+            "fr": "Darwin est-il dangereux ? (1995)",
+            "en": "Darwin's Dangerous Idea (1995)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    }
+  ]
+}

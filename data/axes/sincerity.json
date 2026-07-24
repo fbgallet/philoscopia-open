@@ -24,8 +24,8 @@
         "en": "Truthful rigorism"
       },
       "description": {
-        "fr": "Le devoir de dire la vérité est inconditionnel : mentir, même par bonté, ruine la confiance qui rend possible toute parole et traite autrui comme un être à manipuler. Aucune bonne intention ne peut transformer un mensonge en acte juste.",
-        "en": "The duty to tell the truth is unconditional: lying, even out of kindness, destroys the trust that makes all speech possible and treats the other person as someone to be manipulated. No good intention can turn a lie into a right action."
+        "fr": "Le devoir de dire la vérité est inconditionnel : mentir, même par bonté, ruine la confiance qui rend possible toute parole et <ax id='ETHICS_FOUNDATION' pole='DEONTOLOGISM'>traite autrui comme un être à manipuler</ax>. Aucune bonne intention ne peut transformer un mensonge en acte juste.",
+        "en": "The duty to tell the truth is unconditional: lying, even out of kindness, destroys the trust that makes all speech possible and <ax id='ETHICS_FOUNDATION' pole='DEONTOLOGISM'>treats the other person as someone to be manipulated</ax>. No good intention can turn a lie into a right action."
       },
       "figures": [
         {

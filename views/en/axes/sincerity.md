@@ -12,7 +12,7 @@ Must we always tell the truth, whatever the cost, or may we lie to spare or prot
 
 ### Truthful rigorism
 
-The duty to tell the truth is unconditional: lying, even out of kindness, destroys the trust that makes all speech possible and treats the other person as someone to be manipulated. No good intention can turn a lie into a right action.
+The duty to tell the truth is unconditional: lying, even out of kindness, destroys the trust that makes all speech possible and [treats the other person as someone to be manipulated](../axes/ethics-foundation.md). No good intention can turn a lie into a right action.
 
 *[Kant](../philosophers/kant.md)*
 

@@ -11,8 +11,8 @@
     "en": "Should politics aim at the ideal city, or work with human beings as they are?"
   },
   "stakes": {
-    "fr": "Viser la cité idéale peut inspirer et soulever, mais aussi justifier tous les sacrifices au nom d'un avenir qui ne vient jamais ; prendre les hommes tels qu'ils sont évite les catastrophes, mais peut se résigner à l'injustice au nom du « réalisme ». Se positionner, c'est dire si la politique doit poursuivre le meilleur ou conjurer le pire.",
-    "en": "Aiming at the ideal city can inspire and uplift, but also justify every sacrifice in the name of a future that never comes; taking people as they are averts catastrophe, but can resign itself to injustice in the name of \"realism.\" To take a position is to say whether politics should pursue the best or ward off the worst."
+    "fr": "Viser la cité idéale peut inspirer et soulever, mais aussi justifier tous les sacrifices au nom d'un avenir qui ne vient jamais ; <ax id='HUMAN_VISION'>prendre les hommes tels qu'ils sont</ax> évite les catastrophes, mais peut se résigner à l'injustice au nom du « réalisme ». Se positionner, c'est dire si la politique doit poursuivre le meilleur ou conjurer le pire.",
+    "en": "Aiming at the ideal city can inspire and uplift, but also justify every sacrifice in the name of a future that never comes; <ax id='HUMAN_VISION'>taking people as they are</ax> averts catastrophe, but can resign itself to injustice in the name of \"realism.\" To take a position is to say whether politics should pursue the best or ward off the worst."
   },
   "layer": "VALUE",
   "type": "BIPOLAR",

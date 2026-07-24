@@ -1,0 +1,25 @@
+{
+  "id": "la-conscience-humaine-est-le-dernier-dennett",
+  "text": {
+    "fr": "La conscience humaine est à peu près le dernier mystère qui subsiste.",
+    "en": "Human consciousness is just about the last surviving mystery."
+  },
+  "author": {
+    "name": {
+      "fr": "Dennett",
+      "en": "Dennett"
+    },
+    "kind": "PHILOSOPHER",
+    "slug": "dennett"
+  },
+  "source": {
+    "fr": "La conscience expliquée (1991), chap. 1, première phrase",
+    "en": "Consciousness Explained (1991), ch. 1, opening sentence"
+  },
+  "anchors": [
+    {
+      "axisId": "CONSCIOUSNESS_NATURE"
+    }
+  ],
+  "updatedAt": "2026-07-25T00:00:00.000Z"
+}

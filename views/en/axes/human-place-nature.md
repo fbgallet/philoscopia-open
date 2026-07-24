@@ -6,13 +6,13 @@
 
 *The world · value · triangular*
 
-Are we the owners of a nature to exploit, the caretakers responsible for a garden entrusted to us, or one species among others with no special right? Depending on the answer, what we allow ourselves to do to forests, animals, and the climate no longer has the same limits. To take a position is to set what nature can legitimately expect of us.
+Are we the owners of a nature to exploit, the caretakers responsible for a garden entrusted to us, or one species among others with no special right? Depending on the answer, [what we allow ourselves to do to forests, animals, and the climate](../axes/moral-circle.md) no longer has the same limits. To take a position is to set what nature can legitimately expect of us.
 
 ## Poles
 
 ### Mastery
 
-Through knowledge and technology, human beings are called to make themselves as masters and possessors of nature, to relieve their condition and improve life. Nature is a resource to be understood and transformed in the service of humanity.
+Through knowledge and technology, human beings are called to make themselves as [masters and possessors of nature](../axes/technology.md), to relieve their condition and improve life. Nature is a resource to be understood and transformed in the service of humanity.
 
 *[Descartes](../philosophers/descartes.md) · [Bacon](../philosophers/bacon.md)*
 

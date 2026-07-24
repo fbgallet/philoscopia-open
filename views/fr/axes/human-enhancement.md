@@ -6,13 +6,13 @@
 
 *Le soi · valeur · bipolaire*
 
-Soigner répare ce qui défaille, mais faut-il aller plus loin, et se rendre plus fort, plus intelligent, presque immortel ? Refuser, c'est peut-être accepter des limites et des souffrances qu'on pourrait lever ; accepter, c'est risquer de dissoudre ce qui nous fait humains et de creuser un fossé entre humains augmentés et humains ordinaires. Se positionner, c'est dire ce qui, en nous, doit rester intouchable.
+Soigner répare ce qui défaille, mais faut-il aller plus loin, et se rendre plus fort, plus intelligent, presque immortel ? Refuser, c'est peut-être accepter des limites et des souffrances qu'on pourrait lever ; accepter, c'est risquer de [dissoudre ce qui nous fait humains](../axes/human-nature.md) et de creuser un fossé entre humains augmentés et humains ordinaires. Se positionner, c'est dire ce qui, en nous, doit rester intouchable.
 
 ## Pôles
 
 ### Transhumanisme
 
-La nature humaine n'est pas sacrée : c'est un état transitoire que nous avons le droit, et peut-être le devoir, d'améliorer. Grâce aux biotechnologies, nous pourrions accroître nos capacités physiques et cognitives, repousser la vieillesse et la mort, et réduire la souffrance.
+La nature humaine n'est pas sacrée : c'est un état transitoire que nous avons le droit, et peut-être le devoir, d'améliorer. Grâce aux biotechnologies, nous pourrions accroître nos capacités physiques et cognitives, [repousser la vieillesse et la mort](../axes/death.md), et réduire la souffrance.
 
 *[Bostrom](../philosophers/bostrom.md)*
 

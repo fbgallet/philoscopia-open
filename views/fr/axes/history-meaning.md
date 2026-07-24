@@ -18,7 +18,7 @@ Derrière le désordre apparent des événements, l'histoire suit une logique d'
 
 ### Contingence
 
-L'histoire n'a ni plan ni destination : elle résulte d'actions humaines aux conséquences imprévisibles. Croire en des lois de l'histoire est une illusion, parfois dangereuse, qui sert à justifier des sacrifices au nom d'un avenir prétendument nécessaire.
+L'histoire n'a ni plan ni destination : elle résulte d'actions humaines aux conséquences imprévisibles. Croire en des lois de l'histoire est une illusion, parfois dangereuse, qui sert à [justifier des sacrifices au nom d'un avenir prétendument nécessaire](../axes/political-ideal.md).
 
 *[Popper](../philosophers/popper.md) · Aron*
 

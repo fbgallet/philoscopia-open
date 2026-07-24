@@ -18,7 +18,7 @@ Only human beings have intrinsic moral worth, by virtue of their reason, conscio
 
 ### Pathocentrism
 
-Every being capable of suffering counts morally. The question is not "can they reason?" but "can they suffer?": sentient animals thus enter the moral circle, and their interests deserve equal consideration where interests are comparable.
+[Every being capable of suffering](../axes/consciousness-nature.md) counts morally. The question is not "can they reason?" but "can they suffer?": sentient animals thus enter the moral circle, and their interests deserve equal consideration where interests are comparable.
 
 *[Bentham](../philosophers/bentham.md) · [Singer](../philosophers/singer.md)*
 
@@ -72,7 +72,7 @@ Moral worth attaches to ecological wholes themselves: species, ecosystems, the b
 
 ## Related axes
 
-[Criterion of right action](../axes/ethics-foundation.md) · [Future generations](../axes/future-generations.md) · [Humanity's place in nature](../axes/human-place-nature.md) · [Can a machine think](../axes/machine-mind.md) · [Moral demandingness](../axes/moral-demand.md) · [Status of norms (metaethics)](../axes/moral-scope.md) · [Nature of rights](../axes/rights-nature.md) · [Partiality](../axes/partiality.md)
+[Criterion of right action](../axes/ethics-foundation.md) · [Future generations](../axes/future-generations.md) · [Humanity's place in nature](../axes/human-place-nature.md) · [Can a machine think](../axes/machine-mind.md) · [Moral demandingness](../axes/moral-demand.md) · [Status of norms (metaethics)](../axes/moral-scope.md) · [Nature of rights](../axes/rights-nature.md) · [Partiality](../axes/partiality.md) · [The enigma of consciousness](../axes/consciousness-nature.md)
 
 ---
 

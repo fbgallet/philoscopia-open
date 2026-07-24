@@ -6,7 +6,7 @@
 
 *La vérité · valeur · catégoriel · axe nodal*
 
-Quiconque ouvre un livre de philosophie en attend quelque chose : comprendre enfin le monde, changer la société, apprendre à mieux vivre, ou se défaire des questions mal posées, quand une opinion répandue ne la juge pas tout simplement inutile, dépassée par les sciences. Les philosophes eux-mêmes n'ont cessé de se disputer leur propre vocation ; ce site, qui vous invite à élaborer votre vision du monde, prend lui-même position dans ce débat.
+Quiconque ouvre un livre de philosophie en attend quelque chose : comprendre enfin le monde, changer la société, apprendre à mieux vivre, ou se défaire des questions mal posées, quand une opinion répandue ne la juge pas [tout simplement inutile, dépassée par les sciences](../axes/science-place.md). Les philosophes eux-mêmes n'ont cessé de se disputer leur propre vocation ; ce site, qui vous invite à élaborer votre vision du monde, prend lui-même position dans ce débat.
 
 ## Pôles
 
@@ -30,7 +30,7 @@ La philosophie est un exercice avant d'être un discours : une manière de vivre
 
 ### Clarifier la pensée
 
-La philosophie ne délivre ni vérités sur le monde ni recettes de vie : elle apprend à penser. Sa tâche est d'examiner d'un œil critique toute croyance, toute prétention, tout concept, d'en éprouver les fondements et de dénouer les confusions ; à sa pointe, elle montre que bien des grands problèmes sont des nœuds du langage, à dissoudre plutôt qu'à résoudre. La clarté n'est pas ici un préalable : elle est le but même.
+La philosophie ne délivre ni vérités sur le monde ni recettes de vie : elle apprend à penser. Sa tâche est d'examiner d'un œil critique toute croyance, toute prétention, tout concept, d'en éprouver les fondements et de dénouer les confusions ; à sa pointe, elle montre que bien des grands problèmes sont [des nœuds du langage](../axes/meaning.md), à dissoudre plutôt qu'à résoudre. La clarté n'est pas ici un préalable : elle est le but même.
 
 *[Wittgenstein](../philosophers/wittgenstein.md)*
 

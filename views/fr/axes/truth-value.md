@@ -6,7 +6,7 @@
 
 *La vérité · valeur · bipolaire à médiane · axe nodal*
 
-Savoir donne prise sur le monde, mais certaines vérités blessent sans rien offrir en échange, et des croyances incertaines semblent parfois nourrir l'amour, le courage ou l'élan de vivre. Se positionner, c'est dire si la lucidité est un bien inconditionnel, ou si la vie a le droit de juger ce qu'il vaut la peine de savoir.
+Savoir donne prise sur le monde, mais certaines vérités blessent sans rien offrir en échange, et [des croyances incertaines semblent parfois nourrir l'amour, le courage ou l'élan de vivre](../axes/belief-ethics.md). Se positionner, c'est dire si la lucidité est un bien inconditionnel, ou si la vie a le droit de juger ce qu'il vaut la peine de savoir.
 
 ## Pôles
 

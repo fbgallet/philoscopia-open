@@ -29,13 +29,13 @@ There are no rights but those an authority actually establishes. To speak of nat
 
 ### Rights from utility
 
-Rights are neither inscribed in nature nor mere decrees: they are robust protections we recognise because securing them serves the well-being of all. Their force comes from their lasting usefulness, not from a supernatural origin.
+Rights are neither inscribed in nature nor mere decrees: they are robust protections we recognise because [securing them serves the well-being of all](../axes/ethics-foundation.md). Their force comes from their lasting usefulness, not from a supernatural origin.
 
 *[Mill](../philosophers/mill.md)*
 
 ### Political constructivism
 
-Rights are neither natural, nor mere decrees, nor simple calculations of utility: they are the terms of fair cooperation, constructed through deliberation among free and equal persons, and serving as standards of political legitimacy.
+Rights are neither natural, nor mere decrees, nor simple calculations of utility: they are [the terms of fair cooperation](../axes/social-contract.md), constructed through deliberation among free and equal persons, and serving as standards of political legitimacy.
 
 *[Rawls](../philosophers/rawls.md) · [Habermas](../philosophers/habermas.md)*
 

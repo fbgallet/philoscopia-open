@@ -18,7 +18,7 @@ L'art n'a pas à être utile, moral ou militant : sa seule fin est la beauté et
 
 ### Vérité
 
-L'art est une voie de connaissance : il dévoile une vérité que le concept ne peut atteindre, l'essence du monde, l'éclosion de l'être ou le temps retrouvé. Sa grandeur tient à ce qu'il nous fait voir, non au plaisir ni à la cause qu'il sert.
+L'art est une voie de connaissance : [il dévoile une vérité que le concept ne peut atteindre](../axes/science-place.md), l'essence du monde, l'éclosion de l'être ou le temps retrouvé. Sa grandeur tient à ce qu'il nous fait voir, non au plaisir ni à la cause qu'il sert.
 
 *[Schopenhauer](../philosophers/schopenhauer.md) · [Heidegger](../philosophers/heidegger.md) · Proust*
 

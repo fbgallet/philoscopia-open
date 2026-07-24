@@ -83,8 +83,8 @@
         "en": "Rights from utility"
       },
       "description": {
-        "fr": "Les droits ne sont ni inscrits dans la nature ni de purs décrets : ce sont des protections solides que l'on reconnaît parce que les garantir sert le bien-être de tous. Leur force vient de leur utilité durable, non d'une origine surnaturelle.",
-        "en": "Rights are neither inscribed in nature nor mere decrees: they are robust protections we recognise because securing them serves the well-being of all. Their force comes from their lasting usefulness, not from a supernatural origin."
+        "fr": "Les droits ne sont ni inscrits dans la nature ni de purs décrets : ce sont des protections solides que l'on reconnaît parce que <ax id='ETHICS_FOUNDATION' pole='CONSEQUENTIALISM'>les garantir sert le bien-être de tous</ax>. Leur force vient de leur utilité durable, non d'une origine surnaturelle.",
+        "en": "Rights are neither inscribed in nature nor mere decrees: they are robust protections we recognise because <ax id='ETHICS_FOUNDATION' pole='CONSEQUENTIALISM'>securing them serves the well-being of all</ax>. Their force comes from their lasting usefulness, not from a supernatural origin."
       },
       "figures": [
         {
@@ -100,8 +100,8 @@
         "en": "Political constructivism"
       },
       "description": {
-        "fr": "Les droits ne sont ni naturels, ni de purs décrets, ni de simples calculs d'utilité : ce sont les termes d'une coopération équitable, construits par la délibération entre personnes libres et égales, et servant de critères de légitimité politique.",
-        "en": "Rights are neither natural, nor mere decrees, nor simple calculations of utility: they are the terms of fair cooperation, constructed through deliberation among free and equal persons, and serving as standards of political legitimacy."
+        "fr": "Les droits ne sont ni naturels, ni de purs décrets, ni de simples calculs d'utilité : ce sont <ax id='SOCIAL_CONTRACT' pole='CONTRACTUALISM'>les termes d'une coopération équitable</ax>, construits par la délibération entre personnes libres et égales, et servant de critères de légitimité politique.",
+        "en": "Rights are neither natural, nor mere decrees, nor simple calculations of utility: they are <ax id='SOCIAL_CONTRACT' pole='CONTRACTUALISM'>the terms of fair cooperation</ax>, constructed through deliberation among free and equal persons, and serving as standards of political legitimacy."
       },
       "figures": [
         {

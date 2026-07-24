@@ -1,0 +1,36 @@
+{
+  "id": "mind-body",
+  "label": {
+    "fr": "Le corps et l'esprit",
+    "en": "Mind and body"
+  },
+  "aliases": {
+    "fr": [
+      "dualisme",
+      "corps-esprit",
+      "corps et esprit",
+      "problème corps-esprit",
+      "rapport corps-esprit",
+      "âme et corps",
+      "esprit et matière",
+      "esprit et cerveau"
+    ],
+    "en": [
+      "mind-body problem",
+      "mind body problem",
+      "mind and body",
+      "body and mind",
+      "mind-body dualism",
+      "dualism",
+      "mind and matter",
+      "mind and brain"
+    ]
+  },
+  "axes": [
+    "CONSCIOUSNESS_NATURE",
+    "REALITY_NATURE",
+    "EMBODIMENT",
+    "MACHINE_MIND",
+    "SELF_NATURE"
+  ]
+}

@@ -89,6 +89,10 @@
 - “If names are not correct, language is not in accord with the truth of things; then affairs cannot succeed.” — Analects, XIII, 3
 - “A man without humaneness, what has he to do with the rites? A man without humaneness, what has he to do with music?” — Analects, III, 3
 
+### [Dennett](../philosophers/dennett.md)
+
+- “Human consciousness is just about the last surviving mystery.” — Consciousness Explained (1991), ch. 1, opening sentence
+
 ### [Descartes](../philosophers/descartes.md)
 
 - “Instead of that speculative philosophy taught in the schools, we may find a practical one […] and thus render ourselves, as it were, masters and possessors of nature.” — Discourse on Method, VI
@@ -295,6 +299,10 @@
 - “The Dharma taught by the buddhas rests on two truths: the conventional, worldly truth and the truth in the ultimate sense. Without relying on the conventional, the ultimate is not taught; without reaching the ultimate, nirvāṇa is not attained.” — Mūlamadhyamakakārikā, XXIV, 8-10
 - “It is not tenable that inherent existence should arise from causes and conditions: an inherent existence arisen from causes and conditions would be something fabricated.” — Mūlamadhyamakakārikā, XV, 1-2
 
+### [Nagel](../philosophers/nagel.md)
+
+- “I want to know what it is like for a bat to be a bat.” — "What Is It Like to Be a Bat?", The Philosophical Review, vol. 83, no. 4 (1974), p. 439
+
 ### [Nietzsche](../philosophers/nietzsche.md)
 
 - “It is only as an aesthetic phenomenon that existence and the world are eternally justified.” — The Birth of Tragedy, §5
@@ -445,6 +453,10 @@
 - “Truth is the adequation of thing and intellect.” — Disputed Questions on Truth, q. 1, a. 1
 - “For a war to be just, three things are necessary: the authority of the sovereign, a just cause, and a rightful intention.” — Summa Theologiae, II-II, q. 40, a. 1
 - “Whatever is moved is moved by another; we must therefore arrive at a first mover moved by nothing, and this everyone understands to be God.” — Summa Theologiae, Ia, q. 2, a. 3 (the first way)
+
+### [Turing](../philosophers/turing.md)
+
+- “The original question, "Can machines think?", I believe to be too meaningless to deserve discussion.” — "Computing Machinery and Intelligence", Mind (1950)
 
 ### [Wittgenstein](../philosophers/wittgenstein.md)
 

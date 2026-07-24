@@ -18,7 +18,7 @@ There is no world behind this one: whatever deserves to be called sacred or divi
 
 ### Transcendence
 
-The sacred surpasses this world: truth, the good, or God belong to a higher order that sensible reality merely reflects. Human existence finds its meaning in its relation to this beyond.
+The sacred surpasses this world: truth, the good, or God belong to [a higher order that sensible reality merely reflects](../axes/reality-nature.md). Human existence finds its meaning in its relation to this beyond.
 
 *[Plato](../philosophers/plato.md) · [Pascal](../philosophers/pascal.md) · [Kierkegaard](../philosophers/kierkegaard.md)*
 

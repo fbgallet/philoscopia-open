@@ -11,8 +11,8 @@
     "en": "Where does our belonging lie first: with our own community, or with humanity as a whole?"
   },
   "stakes": {
-    "fr": "Privilégier les siens donne des racines mais peut fermer la porte à l'étranger ; s'ouvrir à tous élargit le cœur mais risque de n'appartenir nulle part. Trancher, c'est dire à qui nous devons quelque chose en premier, quand les loyautés proches et lointaines entrent en conflit.",
-    "en": "Favouring our own gives us roots but can shut the door on the stranger; opening to all enlarges the heart but risks belonging nowhere. To decide is to say whom we owe something to first, when near and distant loyalties come into conflict."
+    "fr": "Privilégier les siens donne des racines mais peut fermer la porte à l'étranger ; s'ouvrir à tous élargit le cœur mais risque de n'appartenir nulle part. Trancher, c'est dire <ax id='PARTIALITY'>à qui nous devons quelque chose en premier</ax>, quand les loyautés proches et lointaines entrent en conflit.",
+    "en": "Favouring our own gives us roots but can shut the door on the stranger; opening to all enlarges the heart but risks belonging nowhere. To decide is to say <ax id='PARTIALITY'>whom we owe something to first</ax>, when near and distant loyalties come into conflict."
   },
   "layer": "VALUE",
   "type": "BIPOLAR",
@@ -25,8 +25,8 @@
         "en": "Communitarianism and patriotism"
       },
       "description": {
-        "fr": "Nous ne sommes pas des individus abstraits : notre identité et nos attachements naissent des communautés concrètes qui nous ont formés, famille, nation, culture. La loyauté envers les siens n'est pas un préjugé, mais une vertu et la source réelle de la solidarité.",
-        "en": "We are not abstract individuals: our identity and attachments arise from the concrete communities that shaped us, family, nation, culture. Loyalty to one's own is not a prejudice but a virtue, and the real source of solidarity."
+        "fr": "<ax id='INDIVIDUAL_SOCIETY' pole='HOLISM'>Nous ne sommes pas des individus abstraits</ax> : notre identité et nos attachements naissent des communautés concrètes qui nous ont formés, famille, nation, culture. La loyauté envers les siens n'est pas un préjugé, mais une vertu et la source réelle de la solidarité.",
+        "en": "<ax id='INDIVIDUAL_SOCIETY' pole='HOLISM'>We are not abstract individuals</ax>: our identity and attachments arise from the concrete communities that shaped us, family, nation, culture. Loyalty to one's own is not a prejudice but a virtue, and the real source of solidarity."
       },
       "figures": [
         {
@@ -53,8 +53,8 @@
         "en": "Cosmopolitanism"
       },
       "description": {
-        "fr": "Nous sommes d'abord citoyens du monde : la dignité humaine ne s'arrête pas aux frontières. Les appartenances locales sont contingentes, et c'est à l'humanité tout entière que nous appartenons d'abord, par-delà les patries.",
-        "en": "We are first citizens of the world: human dignity does not stop at borders. Local attachments are contingent, and it is to humanity as a whole that we belong first, beyond all homelands."
+        "fr": "Nous sommes d'abord citoyens du monde : <ax id='MORAL_SCOPE' pole='UNIVERSALISM_REALISM'>la dignité humaine ne s'arrête pas aux frontières</ax>. Les appartenances locales sont contingentes, et c'est à l'humanité tout entière que nous appartenons d'abord, par-delà les patries.",
+        "en": "We are first citizens of the world: <ax id='MORAL_SCOPE' pole='UNIVERSALISM_REALISM'>human dignity does not stop at borders</ax>. Local attachments are contingent, and it is to humanity as a whole that we belong first, beyond all homelands."
       },
       "figures": [
         {

@@ -11,8 +11,8 @@
     "en": "Does God exist?"
   },
   "stakes": {
-    "fr": "De la réponse dépendent l'origine du monde, l'existence d'une justice au-delà des tribunaux humains, le fondement de nos valeurs et ce qui nous attend après la mort. Peu de questions engagent à ce point la forme entière qu'on donne à sa vie, et aucune n'admet de preuve qui clôt le débat.",
-    "en": "On the answer hang the origin of the world, the existence of a justice beyond human courts, the foundation of our values, and what awaits us after death. Few questions bear so heavily on the whole shape we give our life, and none admits a proof that ends the debate."
+    "fr": "De la réponse dépendent l'origine du monde, l'existence d'une justice au-delà des tribunaux humains, <ax id='MORAL_SOURCE'>le fondement de nos valeurs</ax> et <ax id='AFTERLIFE'>ce qui nous attend après la mort</ax>. Peu de questions engagent à ce point la forme entière qu'on donne à sa vie, et aucune n'admet de preuve qui clôt le débat.",
+    "en": "On the answer hang the origin of the world, the existence of a justice beyond human courts, <ax id='MORAL_SOURCE'>the foundation of our values</ax>, and <ax id='AFTERLIFE'>what awaits us after death</ax>. Few questions bear so heavily on the whole shape we give our life, and none admits a proof that ends the debate."
   },
   "aliases": {
     "fr": [
@@ -78,8 +78,8 @@
         "en": "Atheism"
       },
       "description": {
-        "fr": "Dieu n'existe pas : aucune réalité divine, personnelle ou impersonnelle, ne fonde le monde, et l'idée de Dieu s'explique par des causes humaines, psychologiques ou sociales. Le sens de la vie est à construire sans recours au divin.",
-        "en": "God does not exist: no divine reality, personal or impersonal, grounds the world, and the idea of God can be explained by human, psychological, or social causes. The meaning of life must be built without recourse to the divine."
+        "fr": "Dieu n'existe pas : aucune réalité divine, personnelle ou impersonnelle, ne fonde le monde, et l'idée de Dieu s'explique par des causes humaines, psychologiques ou sociales. <ax id='LIFE_MEANING' pole='CONSTRUCTED_MEANING'>Le sens de la vie est à construire sans recours au divin</ax>.",
+        "en": "God does not exist: no divine reality, personal or impersonal, grounds the world, and the idea of God can be explained by human, psychological, or social causes. <ax id='LIFE_MEANING' pole='CONSTRUCTED_MEANING'>The meaning of life must be built without recourse to the divine</ax>."
       },
       "figures": [
         {

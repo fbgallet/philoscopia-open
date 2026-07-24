@@ -71,8 +71,8 @@
         "en": "Progressivism"
       },
       "description": {
-        "fr": "Les sociétés peuvent et doivent s'améliorer : la raison permet d'identifier les injustices héritées et de les corriger. La tradition n'a pas d'autorité en soi ; ce qui compte, c'est l'émancipation et le perfectionnement de l'humanité.",
-        "en": "Societies can and must improve: reason allows us to identify inherited injustices and to correct them. Tradition carries no authority in itself; what matters is the emancipation and betterment of humanity."
+        "fr": "Les sociétés peuvent et doivent s'améliorer : la raison permet d'identifier les injustices héritées et de les corriger. La tradition n'a pas d'autorité en soi ; ce qui compte, c'est <ax id='HISTORY_MEANING' pole='DIRECTIONAL_HISTORY'>l'émancipation et le perfectionnement de l'humanité</ax>.",
+        "en": "Societies can and must improve: reason allows us to identify inherited injustices and to correct them. Tradition carries no authority in itself; what matters is <ax id='HISTORY_MEANING' pole='DIRECTIONAL_HISTORY'>the emancipation and betterment of humanity</ax>."
       },
       "figures": [
         {

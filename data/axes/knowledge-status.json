@@ -11,8 +11,8 @@
     "en": "Does science describe the world as it is, or does it construct its own objects?"
   },
   "stakes": {
-    "fr": "Les théories scientifiques dévoilent-elles le réel tel qu'il est, ou sont-elles des constructions utiles, marquées par nos concepts et notre histoire ? Si elles disent le vrai, la science tranche au-dessus des opinions ; si elles construisent, son autorité n'est qu'un point de vue parmi d'autres. Se positionner, c'est dire ce qu'on peut vraiment attendre du savoir scientifique.",
-    "en": "Do scientific theories unveil the real as it is, or are they useful constructions, marked by our concepts and our history? If they state the truth, science settles matters above mere opinion; if they construct, its authority is only one point of view among others. To take a position is to say what we can truly expect of scientific knowledge."
+    "fr": "Les théories scientifiques dévoilent-elles le réel tel qu'il est, ou sont-elles des constructions utiles, marquées par nos concepts et notre histoire ? Si elles disent le vrai, <ax id='SCIENCE_PLACE' pole='SCIENTISM'>la science tranche au-dessus des opinions</ax> ; si elles construisent, son autorité n'est qu'un point de vue parmi d'autres. Se positionner, c'est dire ce qu'on peut vraiment attendre du savoir scientifique.",
+    "en": "Do scientific theories unveil the real as it is, or are they useful constructions, marked by our concepts and our history? If they state the truth, <ax id='SCIENCE_PLACE' pole='SCIENTISM'>science settles matters above mere opinion</ax>; if they construct, its authority is only one point of view among others. To take a position is to say what we can truly expect of scientific knowledge."
   },
   "layer": "THEORY",
   "type": "BIPOLAR",

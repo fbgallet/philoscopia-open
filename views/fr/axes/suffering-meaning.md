@@ -18,13 +18,13 @@ La souffrance n'est pas un pur mal : elle peut grandir, approfondir, transformer
 
 ### Abolitionnisme
 
-La souffrance est un mal sans contrepartie : rien ne la justifie ni ne la rachète. La tâche morale et pratique consiste à la prévenir et à la réduire partout où c'est possible, pour soi comme pour les autres.
+La souffrance est un mal sans contrepartie : [rien ne la justifie ni ne la rachète](../axes/problem-of-evil.md). La tâche morale et pratique consiste à la prévenir et à la réduire partout où c'est possible, pour soi comme pour les autres.
 
 *[Épicure](../philosophers/epicurus.md) · [l'utilitarisme](../movements/utilitarianism.md)*
 
 ### Indifférence stoïcienne (position médiane)
 
-La souffrance n'est ni une épreuve qui élève ou rachète, ni un pur mal qu'il faudrait abolir à tout prix. Elle fait partie des choses « indifférentes » : ce n'est pas elle qui décide de notre bonheur, mais le jugement que nous portons sur elle et la fermeté avec laquelle nous la traversons.
+La souffrance n'est ni une épreuve qui élève ou rachète, ni un pur mal qu'il faudrait abolir à tout prix. Elle fait [partie des choses « indifférentes »](../glossary/adiaphora.md) : ce n'est pas elle qui décide de notre bonheur, mais le jugement que nous portons sur elle et la fermeté avec laquelle nous la traversons.
 
 ## Problèmes vifs
 

@@ -11,8 +11,8 @@
     "en": "Does work fulfill us, alienate us, or is it merely a necessity?"
   },
   "stakes": {
-    "fr": "Le travail est-il le lieu où l'on se réalise et trouve sa place parmi les autres, ou ce qui nous épuise et nous dépossède, du temps pris sur le reste de l'existence ? Y voir un accomplissement peut nous réduire à notre métier ; n'y voir qu'une corvée peut vider de sens une part énorme de nos journées. Se positionner, c'est dire quelle place le travail mérite dans une vie réussie.",
-    "en": "Is work the place where we realize ourselves and find our place among others, or what wears us down and dispossesses us, time taken from the rest of our existence? Seeing it as fulfilment can reduce us to our jobs; seeing it as mere drudgery can drain a huge part of our days of meaning. To take a position is to say what place work deserves in a good life."
+    "fr": "Le travail est-il le lieu où l'on se réalise et trouve sa place parmi les autres, ou ce qui nous épuise et nous dépossède, du temps pris sur le reste de l'existence ? Y voir un accomplissement peut nous réduire à notre métier ; n'y voir qu'une corvée peut vider de sens une part énorme de nos journées. Se positionner, c'est dire <ax id='SOVEREIGN_GOOD'>quelle place le travail mérite dans une vie réussie</ax>.",
+    "en": "Is work the place where we realize ourselves and find our place among others, or what wears us down and dispossesses us, time taken from the rest of our existence? Seeing it as fulfilment can reduce us to our jobs; seeing it as mere drudgery can drain a huge part of our days of meaning. To take a position is to say <ax id='SOVEREIGN_GOOD'>what place work deserves in a good life</ax>."
   },
   "layer": "VALUE",
   "type": "TRIANGULAR",
@@ -72,8 +72,8 @@
         "en": "Necessity, leisure as the end"
       },
       "description": {
-        "fr": "Le travail répond aux besoins de la vie, mais il n'est pas la fin de l'existence : c'est le loisir, entendu comme temps libéré pour la pensée, l'action ou la contemplation, qui donne son sens à la vie humaine. Nous travaillons pour pouvoir ne pas travailler.",
-        "en": "Work answers the needs of life, but it is not the end of existence: leisure, understood as time freed for thought, action, or contemplation, is what gives human life its meaning. We work in order to be free not to work."
+        "fr": "Le travail répond aux besoins de la vie, mais il n'est pas la fin de l'existence : c'est <ax id='METAPHILOSOPHY' pole='CONTEMPLATION'>le loisir, entendu comme temps libéré pour la pensée</ax>, l'action ou la contemplation, qui donne son sens à la vie humaine. Nous travaillons pour pouvoir ne pas travailler.",
+        "en": "Work answers the needs of life, but it is not the end of existence: <ax id='METAPHILOSOPHY' pole='CONTEMPLATION'>leisure, understood as time freed for thought</ax>, action, or contemplation, is what gives human life its meaning. We work in order to be free not to work."
       },
       "figures": [
         {

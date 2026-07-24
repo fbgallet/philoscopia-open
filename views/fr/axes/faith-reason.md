@@ -24,13 +24,13 @@ Foi et raison ne peuvent se contredire, car elles procèdent de la même source 
 
 ### Conflit
 
-Foi et raison sont en opposition : croire sans preuve suffisante, c'est renoncer à l'exigence rationnelle. L'examen critique des croyances religieuses conduit à les rejeter ou, au minimum, à les suspendre.
+Foi et raison sont en opposition : [croire sans preuve suffisante, c'est renoncer à l'exigence rationnelle](../axes/belief-ethics.md). L'examen critique des croyances religieuses conduit à les rejeter ou, au minimum, à les suspendre.
 
 *[Russell](../philosophers/russell.md)*
 
 ### Domaines séparés
 
-Science et religion répondent à des questions différentes : l'une décrit les faits, l'autre traite du sens et des valeurs. Tant que chacune reste sur son terrain, il n'y a ni conflit ni concurrence.
+Science et religion répondent à des questions différentes : [l'une décrit les faits, l'autre traite du sens et des valeurs](../axes/science-place.md). Tant que chacune reste sur son terrain, il n'y a ni conflit ni concurrence.
 
 *Gould*
 

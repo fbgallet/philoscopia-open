@@ -18,7 +18,7 @@ Inherited institutions condense an accumulated wisdom that no individual reason 
 
 ### Progressivism
 
-Societies can and must improve: reason allows us to identify inherited injustices and to correct them. Tradition carries no authority in itself; what matters is the emancipation and betterment of humanity.
+Societies can and must improve: reason allows us to identify inherited injustices and to correct them. Tradition carries no authority in itself; what matters is [the emancipation and betterment of humanity](../axes/history-meaning.md).
 
 *[Condorcet](../philosophers/condorcet.md) · [Marx](../philosophers/marx.md)*
 

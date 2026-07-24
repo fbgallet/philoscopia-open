@@ -25,8 +25,8 @@
         "en": "Mechanism"
       },
       "description": {
-        "fr": "La nature s'explique entièrement par des causes matérielles et des lois du mouvement, comme une immense machine. Les vivants eux-mêmes sont des mécanismes complexes, sans qu'il faille invoquer des fins ou des forces mystérieuses.",
-        "en": "Nature is fully explained by material causes and laws of motion, like an immense machine. Living beings themselves are complex mechanisms, with no need to invoke purposes or mysterious forces."
+        "fr": "<ax id='REDUCTION_EMERGENCE' pole='REDUCTIONISM'>La nature s'explique entièrement par des causes matérielles et des lois du mouvement</ax>, comme une immense machine. Les vivants eux-mêmes sont des mécanismes complexes, sans qu'il faille invoquer des fins ou des forces mystérieuses.",
+        "en": "<ax id='REDUCTION_EMERGENCE' pole='REDUCTIONISM'>Nature is fully explained by material causes and laws of motion</ax>, like an immense machine. Living beings themselves are complex mechanisms, with no need to invoke purposes or mysterious forces."
       },
       "figures": [
         {
@@ -81,8 +81,8 @@
         "en": "Vitalism"
       },
       "description": {
-        "fr": "La vie ne se laisse réduire ni à la mécanique ni à un plan préétabli : elle est un élan créateur, imprévisible, qui invente des formes nouvelles. Comprendre le vivant exige une autre approche que celle des sciences physiques.",
-        "en": "Life cannot be reduced either to mechanics or to a pre-established plan: it is a creative, unpredictable impulse that invents new forms. Understanding the living requires a different approach from that of the physical sciences."
+        "fr": "La vie ne se laisse réduire ni à la mécanique ni à un plan préétabli : elle est un élan créateur, imprévisible, qui invente des formes nouvelles. <ax id='REDUCTION_EMERGENCE' pole='EMERGENTISM'>Comprendre le vivant exige une autre approche que celle des sciences physiques</ax>.",
+        "en": "Life cannot be reduced either to mechanics or to a pre-established plan: it is a creative, unpredictable impulse that invents new forms. <ax id='REDUCTION_EMERGENCE' pole='EMERGENTISM'>Understanding the living requires a different approach from that of the physical sciences</ax>."
       },
       "figures": [
         {

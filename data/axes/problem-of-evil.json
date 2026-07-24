@@ -11,8 +11,8 @@
     "en": "Is evil compatible with a good and all-powerful God?"
   },
   "stakes": {
-    "fr": "La souffrance des innocents est l'épreuve la plus dure pour qui croit en un Dieu bon et tout-puissant. Devant elle, quatre voies se séparent : justifier le mal, renoncer à la toute-puissance divine, refuser toute justification, ou conclure que ce Dieu n'existe pas. Se positionner, c'est dire si la foi peut tenir devant le malheur, et à quel prix.",
-    "en": "The suffering of the innocent is the harshest test for anyone who believes in a good and all-powerful God. Before it, four paths part ways: justifying evil, giving up divine omnipotence, refusing all justification, or concluding that no such God exists. To take a position is to say whether faith can stand before misfortune, and at what cost."
+    "fr": "La souffrance des innocents est l'épreuve la plus dure pour <ax id='GOD_EXISTENCE' pole='THEISM'>qui croit en un Dieu bon et tout-puissant</ax>. Devant elle, quatre voies se séparent : justifier le mal, renoncer à la toute-puissance divine, refuser toute justification, ou conclure que ce Dieu n'existe pas. Se positionner, c'est dire si la foi peut tenir devant le malheur, et à quel prix.",
+    "en": "The suffering of the innocent is the harshest test for anyone who <ax id='GOD_EXISTENCE' pole='THEISM'>believes in a good and all-powerful God</ax>. Before it, four paths part ways: justifying evil, giving up divine omnipotence, refusing all justification, or concluding that no such God exists. To take a position is to say whether faith can stand before misfortune, and at what cost."
   },
   "layer": "THEORY",
   "type": "CATEGORICAL",
@@ -25,8 +25,8 @@
         "en": "Evil has its reasons"
       },
       "description": {
-        "fr": "Un Dieu bon et tout-puissant peut permettre le mal : pour un bien d'ensemble, pour la liberté des créatures, pour faire mûrir les âmes, ou pour des raisons qui excèdent notre entendement. La foi tient : même opaque, le mal a un sens.",
-        "en": "A good and all-powerful God can permit evil: for the good of the whole, for the freedom of his creatures, to let souls mature, or for reasons beyond our understanding. Faith holds: even when opaque, evil has a meaning."
+        "fr": "Un Dieu bon et tout-puissant peut permettre le mal : pour un bien d'ensemble, <ax id='FREEDOM' pole='FREE_WILL'>pour la liberté des créatures</ax>, pour faire mûrir les âmes, ou pour des raisons qui excèdent notre entendement. La foi tient : même opaque, le mal a un sens.",
+        "en": "A good and all-powerful God can permit evil: for the good of the whole, <ax id='FREEDOM' pole='FREE_WILL'>for the freedom of his creatures</ax>, to let souls mature, or for reasons beyond our understanding. Faith holds: even when opaque, evil has a meaning."
       },
       "figures": [
         {

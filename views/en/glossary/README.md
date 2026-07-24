@@ -180,6 +180,7 @@
 - [Providence (pronoia)](providence.md)
 - [Psychologism](psychologism.md)
 - [Pu 樸 (the uncarved block)](pu.md)
+- [Qualia](qualia.md)
 - [Radical evil](radical-evil.md)
 - [Rationalism](rationalism.md)
 - [Realism about universals](realism-of-universals.md)

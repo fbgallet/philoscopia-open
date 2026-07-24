@@ -11,8 +11,8 @@
     "en": "What is philosophy for?"
   },
   "stakes": {
-    "fr": "Quiconque ouvre un livre de philosophie en attend quelque chose : comprendre enfin le monde, changer la société, apprendre à mieux vivre, ou se défaire des questions mal posées, quand une opinion répandue ne la juge pas tout simplement inutile, dépassée par les sciences. Les philosophes eux-mêmes n'ont cessé de se disputer leur propre vocation ; ce site, qui vous invite à élaborer votre vision du monde, prend lui-même position dans ce débat.",
-    "en": "Anyone who opens a book of philosophy expects something from it: finally understanding the world, changing society, learning to live better, or shedding badly posed questions — when a widespread opinion does not simply deem it useless, superseded by the sciences. Philosophers themselves have never stopped quarreling over their own vocation; this site, which invites you to build your own worldview, itself takes a stand in that debate."
+    "fr": "Quiconque ouvre un livre de philosophie en attend quelque chose : comprendre enfin le monde, changer la société, apprendre à mieux vivre, ou se défaire des questions mal posées, quand une opinion répandue ne la juge pas <ax id='SCIENCE_PLACE' pole='SCIENTISM'>tout simplement inutile, dépassée par les sciences</ax>. Les philosophes eux-mêmes n'ont cessé de se disputer leur propre vocation ; ce site, qui vous invite à élaborer votre vision du monde, prend lui-même position dans ce débat.",
+    "en": "Anyone who opens a book of philosophy expects something from it: finally understanding the world, changing society, learning to live better, or shedding badly posed questions — when a widespread opinion does not <ax id='SCIENCE_PLACE' pole='SCIENTISM'>simply deem it useless, superseded by the sciences</ax>. Philosophers themselves have never stopped quarreling over their own vocation; this site, which invites you to build your own worldview, itself takes a stand in that debate."
   },
   "aliases": {
     "fr": [
@@ -121,8 +121,8 @@
         "en": "Clarifying thought"
       },
       "description": {
-        "fr": "La philosophie ne délivre ni vérités sur le monde ni recettes de vie : elle apprend à penser. Sa tâche est d'examiner d'un œil critique toute croyance, toute prétention, tout concept, d'en éprouver les fondements et de dénouer les confusions ; à sa pointe, elle montre que bien des grands problèmes sont des nœuds du langage, à dissoudre plutôt qu'à résoudre. La clarté n'est pas ici un préalable : elle est le but même.",
-        "en": "Philosophy delivers neither truths about the world nor recipes for living: it teaches us how to think. Its task is to examine critically every belief, every claim, every concept, to test their grounds and untangle confusions; at its sharpest, it shows that many of the great problems are knots in language, to be dissolved rather than solved. Clarity is not a preliminary here: it is the very goal."
+        "fr": "La philosophie ne délivre ni vérités sur le monde ni recettes de vie : elle apprend à penser. Sa tâche est d'examiner d'un œil critique toute croyance, toute prétention, tout concept, d'en éprouver les fondements et de dénouer les confusions ; à sa pointe, elle montre que bien des grands problèmes sont <ax id='MEANING'>des nœuds du langage</ax>, à dissoudre plutôt qu'à résoudre. La clarté n'est pas ici un préalable : elle est le but même.",
+        "en": "Philosophy delivers neither truths about the world nor recipes for living: it teaches us how to think. Its task is to examine critically every belief, every claim, every concept, to test their grounds and untangle confusions; at its sharpest, it shows that many of the great problems are <ax id='MEANING'>knots in language</ax>, to be dissolved rather than solved. Clarity is not a preliminary here: it is the very goal."
       },
       "figures": [
         {

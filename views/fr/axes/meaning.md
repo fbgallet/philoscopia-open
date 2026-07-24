@@ -20,7 +20,7 @@ Le sens d'un mot, c'est ce à quoi il renvoie dans le monde : un nom désigne un
 
 ### Théorie de l'usage
 
-Le sens d'un mot n'est pas une chose qu'il représente, mais son emploi : la signification, c'est l'usage. On apprend ce que veut dire un mot en voyant comment on s'en sert dans les jeux de langage de la vie commune.
+Le sens d'un mot n'est pas une chose qu'il représente, mais son emploi : la signification, c'est l'usage. On apprend ce que veut dire un mot en voyant comment on s'en sert dans [les jeux de langage](../glossary/jeu-de-langage.md) de la vie commune.
 
 *[Wittgenstein](../philosophers/wittgenstein.md)*
 

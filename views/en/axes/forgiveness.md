@@ -12,7 +12,7 @@ Forgiving without condition can free the victim, but seems to wipe away the wron
 
 ### Unconditionalism
 
-True forgiveness forgives only the unforgivable: if it requires apologies, reparation, or repentance, it is merely a transaction. Genuine forgiveness is a free, unconditional gift that exceeds any logic of desert.
+True forgiveness forgives only the unforgivable: if it requires apologies, reparation, or repentance, it is merely a transaction. Genuine forgiveness is a free, unconditional gift that exceeds [any logic of desert](../axes/moral-responsibility.md).
 
 *[Derrida](../philosophers/derrida.md)*
 

@@ -90,8 +90,8 @@
         "en": "Extinction and detachment"
       },
       "description": {
-        "fr": "Le désir est la racine de la dépendance et de la souffrance : il nous attache à ce qui ne dépend pas de nous. La voie de la sérénité passe par le détachement, voire l'extinction du désir lui-même, pour ne plus être esclave de ce qui nous échappe.",
-        "en": "Desire is the root of dependence and suffering: it binds us to what is beyond our control. The path to serenity lies in detachment, even in the extinction of desire itself, so as no longer to be enslaved by what escapes us."
+        "fr": "Le désir est la racine de la dépendance et de la souffrance : <ax id='CONTROL_SCOPE' pole='DICHOTOMY_OF_CONTROL'>il nous attache à ce qui ne dépend pas de nous</ax>. La voie de la sérénité passe par le détachement, voire l'extinction du désir lui-même, pour ne plus être esclave de ce qui nous échappe.",
+        "en": "Desire is the root of dependence and suffering: <ax id='CONTROL_SCOPE' pole='DICHOTOMY_OF_CONTROL'>it binds us to what is beyond our control</ax>. The path to serenity lies in detachment, even in the extinction of desire itself, so as no longer to be enslaved by what escapes us."
       },
       "figures": [
         {

@@ -6,7 +6,7 @@
 
 *La vérité · valeur · bipolaire*
 
-Croire engage : l'armateur qui s'est persuadé sans preuve que son navire tiendrait la mer répond du naufrage, car il n'avait pas le droit de le croire. Faut-il alors proportionner toute croyance aux preuves, ou existe-t-il des cas, l'amitié, l'engagement, la foi, où se refuser à croire faute de garantie serait aussi une faute ? Se positionner, c'est dire ce que nous devons à la preuve quand nous formons nos croyances, et de quoi nous sommes comptables en les tenant.
+Croire engage : l'armateur qui s'est persuadé sans preuve que son navire tiendrait la mer répond du naufrage, car il n'avait pas le droit de le croire. Faut-il alors proportionner toute croyance aux preuves, ou existe-t-il des cas, [l'amitié, l'engagement, la foi](../axes/faith-reason.md), où se refuser à croire faute de garantie serait aussi une faute ? Se positionner, c'est dire ce que nous devons à la preuve quand nous formons nos croyances, et de quoi nous sommes comptables en les tenant.
 
 ## Pôles
 

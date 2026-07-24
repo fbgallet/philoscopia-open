@@ -11,8 +11,8 @@
     "en": "Should we use technology to enhance human nature beyond healing?"
   },
   "stakes": {
-    "fr": "Soigner répare ce qui défaille, mais faut-il aller plus loin, et se rendre plus fort, plus intelligent, presque immortel ? Refuser, c'est peut-être accepter des limites et des souffrances qu'on pourrait lever ; accepter, c'est risquer de dissoudre ce qui nous fait humains et de creuser un fossé entre humains augmentés et humains ordinaires. Se positionner, c'est dire ce qui, en nous, doit rester intouchable.",
-    "en": "Healing repairs what falters, but should we go further, and make ourselves stronger, smarter, all but immortal? To refuse is perhaps to accept limits and sufferings we could lift; to accept is to risk dissolving what makes us human and opening a gulf between enhanced human beings and ordinary ones. To take a position is to say what, in us, must remain untouchable."
+    "fr": "Soigner répare ce qui défaille, mais faut-il aller plus loin, et se rendre plus fort, plus intelligent, presque immortel ? Refuser, c'est peut-être accepter des limites et des souffrances qu'on pourrait lever ; accepter, c'est risquer de <ax id='HUMAN_NATURE'>dissoudre ce qui nous fait humains</ax> et de creuser un fossé entre humains augmentés et humains ordinaires. Se positionner, c'est dire ce qui, en nous, doit rester intouchable.",
+    "en": "Healing repairs what falters, but should we go further, and make ourselves stronger, smarter, all but immortal? To refuse is perhaps to accept limits and sufferings we could lift; to accept is to risk <ax id='HUMAN_NATURE'>dissolving what makes us human</ax> and opening a gulf between enhanced human beings and ordinary ones. To take a position is to say what, in us, must remain untouchable."
   },
   "layer": "VALUE",
   "type": "BIPOLAR",
@@ -25,8 +25,8 @@
         "en": "Transhumanism"
       },
       "description": {
-        "fr": "La nature humaine n'est pas sacrée : c'est un état transitoire que nous avons le droit, et peut-être le devoir, d'améliorer. Grâce aux biotechnologies, nous pourrions accroître nos capacités physiques et cognitives, repousser la vieillesse et la mort, et réduire la souffrance.",
-        "en": "Human nature is not sacred: it is a transitional state that we have the right, and perhaps the duty, to improve. Through biotechnology, we could expand our physical and cognitive capacities, push back aging and death, and reduce suffering."
+        "fr": "La nature humaine n'est pas sacrée : c'est un état transitoire que nous avons le droit, et peut-être le devoir, d'améliorer. Grâce aux biotechnologies, nous pourrions accroître nos capacités physiques et cognitives, <ax id='DEATH' pole='REVOLT'>repousser la vieillesse et la mort</ax>, et réduire la souffrance.",
+        "en": "Human nature is not sacred: it is a transitional state that we have the right, and perhaps the duty, to improve. Through biotechnology, we could expand our physical and cognitive capacities, <ax id='DEATH' pole='REVOLT'>push back aging and death</ax>, and reduce suffering."
       },
       "figures": [
         {

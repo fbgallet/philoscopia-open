@@ -63,8 +63,8 @@
         "en": "Prometheanism"
       },
       "description": {
-        "fr": "Les limites de notre pouvoir ne sont pas fixées une fois pour toutes : par la connaissance, la technique et l'action collective, l'humanité peut transformer le monde et repousser ce qui semblait hors de portée. Plutôt que d'accepter l'ordre des choses, il faut travailler à le changer.",
-        "en": "The limits of our power are not fixed once and for all: through knowledge, technology, and collective action, humanity can transform the world and push back what seemed out of reach. Rather than accepting the order of things, we should work to change it."
+        "fr": "Les limites de notre pouvoir ne sont pas fixées une fois pour toutes : <ax id='TECHNOLOGY'>par la connaissance, la technique et l'action collective</ax>, l'humanité peut transformer le monde et repousser ce qui semblait hors de portée. Plutôt que d'accepter l'ordre des choses, il faut travailler à le changer.",
+        "en": "The limits of our power are not fixed once and for all: <ax id='TECHNOLOGY'>through knowledge, technology, and collective action</ax>, humanity can transform the world and push back what seemed out of reach. Rather than accepting the order of things, we should work to change it."
       },
       "figures": [
         {

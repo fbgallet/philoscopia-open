@@ -1,10 +1,9 @@
 {
   "kind": "PHILOSOPHER",
   "id": "nagel",
-  "stub": true,
   "name": {
-    "fr": "Thomas Nagel",
-    "en": "Thomas Nagel"
+    "fr": "Nagel",
+    "en": "Nagel"
   },
   "summary": {
     "fr": "Philosophe analytique américain, connu pour ses analyses de la subjectivité (« Quel effet cela fait-il d'être une chauve-souris ? »), de la chance morale, et du conflit entre point de vue personnel et point de vue impersonnel, sur la mort comme sur le sens et la justice.",
@@ -15,9 +14,97 @@
     "fr": "Américain",
     "en": "American"
   },
-  "movements": ["analytic-philosophy"],
-  "updatedAt": "2026-07-03T00:00:00.000Z",
+  "movements": [
+    "analytic-philosophy"
+  ],
+  "identity": {
+    "wikidata": "Q350239",
+    "wikipedia": {
+      "fr": "https://fr.wikipedia.org/wiki/Thomas_Nagel",
+      "en": "https://en.wikipedia.org/wiki/Thomas_Nagel"
+    }
+  },
+  "updatedAt": "2026-07-25T00:00:00.000Z",
   "validation": {
     "method": "NOT_VALIDATED"
-  }
+  },
+  "fullName": {
+    "fr": "Thomas Nagel",
+    "en": "Thomas Nagel"
+  },
+  "tagline": {
+    "fr": "Il cherche quelle place garder au point de vue dans un monde que la science décrit sans lui : l'objectivité s'obtient en s'éloignant du sujet, et c'est justement le sujet qu'il s'agissait d'expliquer.",
+    "en": "He asks what place the point of view can keep in a world that science describes without it: objectivity is won by moving away from the subject, and the subject was precisely what had to be explained."
+  },
+  "entries": [
+    {
+      "axisId": "CONSCIOUSNESS_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.1,
+          0,
+          0.55,
+          0.35,
+          0
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Nagel tient qu'un organisme est conscient s'il y a un effet que cela fait d'être cet organisme, et que ce caractère subjectif est lié à un <c>point de vue</c> : c'est ce que met en scène son <te id='what-is-it-like-to-be-a-bat'>expérience de la chauve-souris</te>, en 1974. Toute réduction procède en s'éloignant du point de vue pour gagner en objectivité ; <dif>appliquée à l'expérience, la démarche supprime justement ce qu'il fallait expliquer.</dif> Il en tire un refus du <c id='reductionism'>réductionnisme</c>, mais non un <c id='dualism'>dualisme</c> : il soutient que nous n'avons pas les concepts nécessaires, et qu'il ne voit pas comment le <c>physicalisme</c> pourrait être vrai, sans le déclarer faux pour autant. Son essai de 1979 examine, sans y souscrire fermement, l'hypothèse d'une nature intrinsèque commune au mental et au physique, plus proche d'un <c>monisme neutre</c> que d'un dualisme des propriétés assumé ; son livre de 2012 avance une autre conjecture, celle d'une tendance orientée inscrite dans la nature, qu'il donne lui-même pour spéculative.",
+          "en": "Nagel holds that an organism is conscious if there is something it is like to be that organism, and that this subjective character is tied to a <c>point of view</c>: this is what his <te id='what-is-it-like-to-be-a-bat'>bat thought experiment</te> stages, in 1974. Every reduction proceeds by moving away from the point of view in order to gain objectivity; <dif>applied to experience, the move removes precisely what had to be explained.</dif> From this he draws a refusal of <c id='reductionism'>reductionism</c>, but not a <c id='dualism'>dualism</c>: he maintains that we lack the necessary concepts, and that he cannot see how <c>physicalism</c> could be true, without declaring it false. His 1979 essay examines, without firmly endorsing it, the hypothesis of an intrinsic nature common to the mental and the physical, closer to a <c>neutral monism</c> than to an avowed property dualism; his 2012 book advances another conjecture, that of an oriented tendency inscribed in nature, which he himself offers as speculative."
+        },
+        "references": [
+          {
+            "fr": "« Quel effet cela fait-il d'être une chauve-souris ? » (1974)",
+            "en": "\"What Is It Like to Be a Bat?\" (1974)"
+          },
+          {
+            "fr": "« Panpsychism » (1979)",
+            "en": "\"Panpsychism\" (1979)"
+          },
+          {
+            "fr": "Mind and Cosmos (2012)",
+            "en": "Mind and Cosmos (2012)"
+          }
+        ],
+        "strength": "MEDIUM",
+        "quoteId": "je-veux-savoir-ce-que-cela-fait-nagel"
+      },
+      "note": {
+        "fr": "Nagel récuse les étiquettes. Sa position est située ici par inférence, à partir de son refus du réductionnisme et de son inclination pour un monisme neutre.",
+        "en": "Nagel rejects the labels. His position is placed here by inference, from his refusal of reductionism and his leaning toward a neutral monism."
+      }
+    },
+    {
+      "axisId": "REDUCTION_EMERGENCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.6
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Nagel conteste que l'analyse en constituants physiques puisse tout épuiser. <pb>Comment la matière produit-elle des êtres conscients ?</pb> <arg>Une explication réussie du vivant et du mental devrait rendre intelligible que la matière produise des êtres conscients ; or décrire les parties et leurs interactions laisse précisément cela inexpliqué.</arg> Son anti-<c id='reductionism'>réductionnisme</c> appelle donc des principes d'un autre ordre, sans qu'il prétende les avoir trouvés. <obj>L'hypothèse d'une <c>téléologie</c> naturelle qu'il avance alors, en la donnant pour spéculative, a été largement rejetée</obj>, y compris par des lecteurs qui partagent son refus du réductionnisme.",
+          "en": "Nagel disputes that analysis into physical constituents can exhaust everything. <pb>How does matter produce conscious beings?</pb> <arg>A successful explanation of life and mind would have to make it intelligible that matter produces conscious beings; yet describing the parts and their interactions leaves precisely that unexplained.</arg> His anti-<c id='reductionism'>reductionism</c> therefore calls for principles of another order, without his claiming to have found them. <obj>The hypothesis of a natural <c>teleology</c> he then advances, offering it as speculative, has been widely rejected</obj>, including by readers who share his refusal of reductionism."
+        },
+        "references": [
+          {
+            "fr": "Le Point de vue de nulle part (1986)",
+            "en": "The View from Nowhere (1986)"
+          },
+          {
+            "fr": "Mind and Cosmos (2012)",
+            "en": "Mind and Cosmos (2012)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    }
+  ]
 }

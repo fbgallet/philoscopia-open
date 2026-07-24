@@ -12,7 +12,7 @@ Faut-il toujours dire le vrai, quel qu'en soit le prix, ou peut-on mentir pour �
 
 ### Rigorisme véridique
 
-Le devoir de dire la vérité est inconditionnel : mentir, même par bonté, ruine la confiance qui rend possible toute parole et traite autrui comme un être à manipuler. Aucune bonne intention ne peut transformer un mensonge en acte juste.
+Le devoir de dire la vérité est inconditionnel : mentir, même par bonté, ruine la confiance qui rend possible toute parole et [traite autrui comme un être à manipuler](../axes/ethics-foundation.md). Aucune bonne intention ne peut transformer un mensonge en acte juste.
 
 *[Kant](../philosophers/kant.md)*
 

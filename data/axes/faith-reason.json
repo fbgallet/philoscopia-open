@@ -72,8 +72,8 @@
         "en": "Conflict"
       },
       "description": {
-        "fr": "Foi et raison sont en opposition : croire sans preuve suffisante, c'est renoncer à l'exigence rationnelle. L'examen critique des croyances religieuses conduit à les rejeter ou, au minimum, à les suspendre.",
-        "en": "Faith and reason stand in opposition: believing without sufficient evidence means abandoning the demands of rationality. Critical examination of religious beliefs leads to rejecting them or, at the very least, suspending them."
+        "fr": "Foi et raison sont en opposition : <ax id='BELIEF_ETHICS' pole='EVIDENTIALISM'>croire sans preuve suffisante, c'est renoncer à l'exigence rationnelle</ax>. L'examen critique des croyances religieuses conduit à les rejeter ou, au minimum, à les suspendre.",
+        "en": "Faith and reason stand in opposition: <ax id='BELIEF_ETHICS' pole='EVIDENTIALISM'>believing without sufficient evidence means abandoning the demands of rationality</ax>. Critical examination of religious beliefs leads to rejecting them or, at the very least, suspending them."
       },
       "figures": [
         {
@@ -92,8 +92,8 @@
         "en": "Separate domains"
       },
       "description": {
-        "fr": "Science et religion répondent à des questions différentes : l'une décrit les faits, l'autre traite du sens et des valeurs. Tant que chacune reste sur son terrain, il n'y a ni conflit ni concurrence.",
-        "en": "Science and religion answer different questions: one describes facts, the other deals with meaning and values. As long as each stays on its own ground, there is neither conflict nor competition."
+        "fr": "Science et religion répondent à des questions différentes : <ax id='SCIENCE_PLACE' pole='EPISTEMIC_PLURALISM'>l'une décrit les faits, l'autre traite du sens et des valeurs</ax>. Tant que chacune reste sur son terrain, il n'y a ni conflit ni concurrence.",
+        "en": "Science and religion answer different questions: <ax id='SCIENCE_PLACE' pole='EPISTEMIC_PLURALISM'>one describes facts, the other deals with meaning and values</ax>. As long as each stays on its own ground, there is neither conflict nor competition."
       },
       "figures": [
         {

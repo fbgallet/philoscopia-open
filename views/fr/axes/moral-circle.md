@@ -18,7 +18,7 @@ Seuls les êtres humains ont une valeur morale propre, en raison de leur raison,
 
 ### Pathocentrisme
 
-Tout être capable de souffrir compte moralement. La question n'est pas « peuvent-ils raisonner ? » mais « peuvent-ils souffrir ? » : les animaux sensibles entrent donc dans le cercle moral, et leurs intérêts méritent une considération égale, à intérêts comparables.
+[Tout être capable de souffrir](../axes/consciousness-nature.md) compte moralement. La question n'est pas « peuvent-ils raisonner ? » mais « peuvent-ils souffrir ? » : les animaux sensibles entrent donc dans le cercle moral, et leurs intérêts méritent une considération égale, à intérêts comparables.
 
 *[Bentham](../philosophers/bentham.md) · [Singer](../philosophers/singer.md)*
 
@@ -72,7 +72,7 @@ La valeur morale s'attache aux ensembles écologiques eux-mêmes : espèces, éc
 
 ## Axes liés
 
-[Critère du juste](../axes/ethics-foundation.md) · [Générations futures](../axes/future-generations.md) · [Place de l'homme dans la nature](../axes/human-place-nature.md) · [Une machine peut-elle penser](../axes/machine-mind.md) · [Exigence morale](../axes/moral-demand.md) · [Statut des normes (métaéthique)](../axes/moral-scope.md) · [Nature des droits](../axes/rights-nature.md) · [Partialité](../axes/partiality.md)
+[Critère du juste](../axes/ethics-foundation.md) · [Générations futures](../axes/future-generations.md) · [Place de l'homme dans la nature](../axes/human-place-nature.md) · [Une machine peut-elle penser](../axes/machine-mind.md) · [Exigence morale](../axes/moral-demand.md) · [Statut des normes (métaéthique)](../axes/moral-scope.md) · [Nature des droits](../axes/rights-nature.md) · [Partialité](../axes/partiality.md) · [L'énigme de la conscience](../axes/consciousness-nature.md)
 
 ---
 

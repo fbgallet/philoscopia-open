@@ -28,7 +28,7 @@ Moral obligation holds for every rational being: a demand that reason discovers 
 
 ### Moral sentiment
 
-Morality is rooted in a natural sensibility: sympathy, pity, revulsion at the sight of suffering. Reason clarifies, compares, and corrects, but it does not create obligation; the heart is what first tells good from evil, and a shared human nature explains why moralities, beneath their variations, resemble one another so much.
+Morality is rooted in a natural sensibility: sympathy, pity, revulsion at the sight of suffering. Reason clarifies, compares, and corrects, but it does not create obligation; [the heart is what first tells good from evil](../axes/emotions.md), and a shared human nature explains why moralities, beneath their variations, resemble one another so much.
 
 - Mencius gives its classic Chinese version: four innate sprouts (compassion, shame, deference, a sense of right) that moral cultivation makes grow.
 - In Hume, sympathy grounds common morality, but justice arises from a useful convention: the sentiment pole communicates here with the convention pole.
@@ -37,7 +37,7 @@ Morality is rooted in a natural sensibility: sympathy, pity, revulsion at the si
 
 ### A tacit convention
 
-Morality rests on a tacit agreement, sedimented by a society's history: a tradition of shared judgments about what is done and what is not. Neither the law of a pure reason nor a mere impulse of the heart, this convention holds because we renew it together; its authority is real, but immanent, situated, and therefore revisable.
+Morality rests on [a tacit agreement, sedimented by a society's history](../axes/social-contract.md): a tradition of shared judgments about what is done and what is not. Neither the law of a pure reason nor a mere impulse of the heart, this convention holds because we renew it together; its authority is real, but immanent, situated, and therefore revisable.
 
 - Two readings share the pole: an affirmative one (Xunzi: the rites, an artifice of the sages, civilize and genuinely bind) and a debunking one (Nietzsche: genealogy reveals a fabrication and deposes the absolute; Mackie: our moral judgments rest on an error).
 

@@ -12,7 +12,7 @@ La science est-elle la seule voie vers le vrai, tout le reste n'étant qu'opinio
 
 ### Scientisme
 
-La méthode scientifique est la forme la plus aboutie du savoir humain, appelée à remplacer les explications religieuses et métaphysiques. Toute question qui peut recevoir une réponse la recevra de la science, et d'elle seule.
+La méthode scientifique est la forme la plus aboutie du savoir humain, appelée à [remplacer les explications religieuses et métaphysiques](../axes/faith-reason.md). Toute question qui peut recevoir une réponse la recevra de la science, et d'elle seule.
 
 *[Comte](../philosophers/comte.md)*
 

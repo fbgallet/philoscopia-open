@@ -44,8 +44,8 @@
         "en": "Empiricism"
       },
       "description": {
-        "fr": "Toute connaissance dérive de l'expérience sensible : l'esprit est d'abord une page blanche que les sens viennent remplir. Même nos idées les plus abstraites se ramènent, en dernière analyse, à des impressions reçues.",
-        "en": "All knowledge derives from sensory experience: the mind starts as a blank slate that the senses gradually fill. Even our most abstract ideas can ultimately be traced back to received impressions."
+        "fr": "Toute connaissance dérive de l'expérience sensible : <c id='tabula-rasa'>l'esprit est d'abord une page blanche</c> que les sens viennent remplir. Même nos idées les plus abstraites se ramènent, en dernière analyse, à des impressions reçues.",
+        "en": "All knowledge derives from sensory experience: <c id='tabula-rasa'>the mind starts as a blank slate</c> that the senses gradually fill. Even our most abstract ideas can ultimately be traced back to received impressions."
       },
       "figures": [
         {

@@ -12,25 +12,25 @@ The enigma is a common one: the meaning of life does not show itself, and everyo
 
 ### Teleology and providence
 
-Meaning exists, but it does not give itself at once: existence belongs to a world order or a providential design that must be learned and deciphered. Faced with the enigma, the task is to seek that purpose, to trust it even while it remains obscure, and to align one's conduct with it.
+Meaning exists, but it does not give itself at once: existence belongs to [a world order or a providential design](../axes/cosmic-outlook.md) that must be learned and deciphered. Faced with the enigma, the task is to seek that purpose, to trust it even while it remains obscure, and to align one's conduct with it.
 
 *the Stoics · Christianity*
 
 ### Constructed meaning
 
-If meaning eludes us, it is because none is written into things: there is nothing to discover, everything to make. Faced with the enigma, the answer is to create the significance of one's life through one's choices and projects, and this freedom makes us fully responsible for what we become.
+If meaning eludes us, it is because none is written into things: there is nothing to discover, everything to make. Faced with the enigma, the answer is to [create the significance of one's life through one's choices and projects](../axes/essence.md), and this freedom makes us fully responsible for what we become.
 
 *[Sartre](../philosophers/sartre.md)*
 
 ### Absurdism
 
-No meaning to discover, and no substitute for it: the absurd arises from the clash between our thirst for meaning and the silence of the world, and no answer will come. Faced with the enigma, the point is to hold out without cheating: to live lucidly in revolt, without hope or resignation.
+No meaning to discover, and no substitute for it: the absurd arises from the clash between our thirst for meaning and the silence of the world, and no answer will come. Faced with the enigma, the point is to hold out without cheating: [to live lucidly in revolt, without hope or resignation](../axes/hope.md).
 
 *[Camus](../philosophers/camus.md)*
 
 ### Renunciation
 
-Since no meaning is given and nothing truly replaces it, the torment comes from the demand itself. Faced with the enigma, the lucid response is renunciation: to detach the will, to stop asking of life what it does not contain, and to find in this withdrawal a peace without illusion.
+Since no meaning is given and nothing truly replaces it, the torment comes from the demand itself. Faced with the enigma, the lucid response is renunciation: [to detach the will](../axes/desire.md), to stop asking of life what it does not contain, and to find in this withdrawal a peace without illusion.
 
 *[Schopenhauer](../philosophers/schopenhauer.md)*
 

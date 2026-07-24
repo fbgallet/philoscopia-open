@@ -11,8 +11,8 @@
     "en": "Are human beings fundamentally good or inclined toward evil?"
   },
   "stakes": {
-    "fr": "Croire l'humain bon, c'est pouvoir lui faire confiance, alléger les règles, parier sur la liberté ; le croire porté au mal, c'est juger nécessaires lois, contrôles et garde-fous pour tenir la vie commune. Se positionner, c'est dire jusqu'où faire confiance aux autres, et de combien de contraintes une société a besoin.",
-    "en": "To believe humans good is to be able to trust them, loosen the rules, bet on freedom; to believe them prone to evil is to deem laws, controls, and safeguards necessary to hold common life together. To take a position is to say how far to trust others, and how many constraints a society needs."
+    "fr": "Croire l'humain bon, c'est pouvoir lui faire confiance, alléger les règles, parier sur la liberté ; le croire porté au mal, c'est juger nécessaires lois, contrôles et garde-fous pour tenir la vie commune. Se positionner, c'est dire jusqu'où faire confiance aux autres, et <ax id='AUTHORITY'>de combien de contraintes une société a besoin</ax>.",
+    "en": "To believe humans good is to be able to trust them, loosen the rules, bet on freedom; to believe them prone to evil is to deem laws, controls, and safeguards necessary to hold common life together. To take a position is to say how far to trust others, and <ax id='AUTHORITY'>how many constraints a society needs</ax>."
   },
   "aliases": {
     "fr": [

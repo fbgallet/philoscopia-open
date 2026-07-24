@@ -11,8 +11,8 @@
     "en": "Is a political authority that commands and coerces necessary, or should we free ourselves from it?"
   },
   "stakes": {
-    "fr": "Tout dépend de ce qu'on attend des humains livrés à eux-mêmes : capables de s'ordonner seuls, ou voués au désordre sans un pouvoir qui tranche. Se positionner, c'est fixer jusqu'où va le devoir d'obéir, et où commence le droit de refuser.",
-    "en": "It all turns on what we expect of human beings left to themselves: able to order their own affairs, or bound for disorder without a power to settle disputes. To take a position is to set how far the duty to obey extends, and where the right to refuse begins."
+    "fr": "Tout dépend de <ax id='HUMAN_VISION'>ce qu'on attend des humains livrés à eux-mêmes</ax> : capables de s'ordonner seuls, ou voués au désordre sans un pouvoir qui tranche. Se positionner, c'est fixer jusqu'où va le devoir d'obéir, et où commence le droit de refuser.",
+    "en": "It all turns on <ax id='HUMAN_VISION'>what we expect of human beings left to themselves</ax>: able to order their own affairs, or bound for disorder without a power to settle disputes. To take a position is to set how far the duty to obey extends, and where the right to refuse begins."
   },
   "layer": "VALUE",
   "type": "BIPOLAR_MEDIAN",
@@ -24,8 +24,8 @@
         "en": "Authority"
       },
       "description": {
-        "fr": "Sans une autorité commune capable de trancher et de contraindre, la vie sociale sombre dans le conflit ou le chaos. L'État, loin d'être une simple domination, est la condition de la paix, du droit et même de la liberté concrète.",
-        "en": "Without a common authority able to decide and to coerce, social life collapses into conflict or chaos. The state, far from being mere domination, is the condition of peace, law, and even concrete freedom."
+        "fr": "Sans une autorité commune capable de trancher et de contraindre, la vie sociale sombre dans le conflit ou le chaos. L'État, loin d'être une simple domination, est la condition de la paix, du droit et même de <ax id='POLITICAL_LIBERTY'>la liberté concrète</ax>.",
+        "en": "Without a common authority able to decide and to coerce, social life collapses into conflict or chaos. The state, far from being mere domination, is the condition of peace, law, and even <ax id='POLITICAL_LIBERTY'>concrete freedom</ax>."
       },
       "figures": [
         {

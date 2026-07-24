@@ -6,7 +6,7 @@
 
 *Le monde · valeur · triangulaire*
 
-Le travail est-il le lieu où l'on se réalise et trouve sa place parmi les autres, ou ce qui nous épuise et nous dépossède, du temps pris sur le reste de l'existence ? Y voir un accomplissement peut nous réduire à notre métier ; n'y voir qu'une corvée peut vider de sens une part énorme de nos journées. Se positionner, c'est dire quelle place le travail mérite dans une vie réussie.
+Le travail est-il le lieu où l'on se réalise et trouve sa place parmi les autres, ou ce qui nous épuise et nous dépossède, du temps pris sur le reste de l'existence ? Y voir un accomplissement peut nous réduire à notre métier ; n'y voir qu'une corvée peut vider de sens une part énorme de nos journées. Se positionner, c'est dire [quelle place le travail mérite dans une vie réussie](../axes/sovereign-good.md).
 
 ## Pôles
 
@@ -24,7 +24,7 @@ Dans ses formes dominantes, le travail dépossède le travailleur : il devient �
 
 ### Nécessité, le loisir comme fin
 
-Le travail répond aux besoins de la vie, mais il n'est pas la fin de l'existence : c'est le loisir, entendu comme temps libéré pour la pensée, l'action ou la contemplation, qui donne son sens à la vie humaine. Nous travaillons pour pouvoir ne pas travailler.
+Le travail répond aux besoins de la vie, mais il n'est pas la fin de l'existence : c'est [le loisir, entendu comme temps libéré pour la pensée](../axes/metaphilosophy.md), l'action ou la contemplation, qui donne son sens à la vie humaine. Nous travaillons pour pouvoir ne pas travailler.
 
 *[Aristote](../philosophers/aristotle.md) · [Arendt](../philosophers/arendt.md)*
 

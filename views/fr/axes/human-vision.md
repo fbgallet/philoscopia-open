@@ -6,7 +6,7 @@
 
 *Le monde · descriptif (théorie) · bipolaire à médiane · axe nodal*
 
-Croire l'humain bon, c'est pouvoir lui faire confiance, alléger les règles, parier sur la liberté ; le croire porté au mal, c'est juger nécessaires lois, contrôles et garde-fous pour tenir la vie commune. Se positionner, c'est dire jusqu'où faire confiance aux autres, et de combien de contraintes une société a besoin.
+Croire l'humain bon, c'est pouvoir lui faire confiance, alléger les règles, parier sur la liberté ; le croire porté au mal, c'est juger nécessaires lois, contrôles et garde-fous pour tenir la vie commune. Se positionner, c'est dire jusqu'où faire confiance aux autres, et [de combien de contraintes une société a besoin](../axes/authority.md).
 
 ## Pôles
 

@@ -18,7 +18,7 @@ To be free is the absence of hindrance: no one prevents me from acting as I see 
 
 ### Positive liberty
 
-To be free is to govern oneself: to be master of one's desires and, as a citizen, to share in making the laws one obeys. Liberty is not merely being left alone, but being the author of one's life and one's city.
+To be free is to govern oneself: to be master of one's desires and, as a citizen, to [share in making the laws one obeys](../axes/who-decides.md). Liberty is not merely being left alone, but being the author of one's life and one's city.
 
 - Rousseau is also claimed by the republican non-domination tradition.
 
@@ -32,7 +32,7 @@ To be free is to depend on no one's arbitrary power. The slave of a kind master 
 
 ### Capability freedom
 
-To be free is not merely to be unhindered, it is to have the real means to act: without health, education or resources, a purely formal liberty stays a dead letter. Liberty is measured by the effective capabilities to be and to do.
+To be free is not merely to be unhindered, it is to have the real means to act: [without health, education or resources](../axes/distributive-justice.md), a purely formal liberty stays a dead letter. Liberty is measured by the effective capabilities to be and to do.
 
 *[Sen](../philosophers/sen.md) · [Nussbaum](../philosophers/nussbaum.md)*
 

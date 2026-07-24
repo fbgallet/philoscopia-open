@@ -31,6 +31,7 @@
 - [The Watch and the Watchmaker](design-argument.md) (Paley)
 - [The world after](non-identity.md) (Derek Parfit)
 - [To each their customs?](funeral-customs.md) (Herodotus)
+- [What is it like to be a bat?](what-is-it-like-to-be-a-bat.md) (Thomas Nagel)
 - [Wilt Chamberlain: Liberty against Equality](wilt-chamberlain.md) (Nozick)
 
 ---

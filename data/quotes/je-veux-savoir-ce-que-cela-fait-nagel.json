@@ -1,0 +1,25 @@
+{
+  "id": "je-veux-savoir-ce-que-cela-fait-nagel",
+  "text": {
+    "fr": "Je veux savoir ce que cela fait, pour une chauve-souris, d'être une chauve-souris.",
+    "en": "I want to know what it is like for a bat to be a bat."
+  },
+  "author": {
+    "name": {
+      "fr": "Nagel",
+      "en": "Nagel"
+    },
+    "kind": "PHILOSOPHER",
+    "slug": "nagel"
+  },
+  "source": {
+    "fr": "« Quel effet cela fait-il d'être une chauve-souris ? », The Philosophical Review, vol. 83, n° 4 (1974), p. 439",
+    "en": "\"What Is It Like to Be a Bat?\", The Philosophical Review, vol. 83, no. 4 (1974), p. 439"
+  },
+  "anchors": [
+    {
+      "axisId": "CONSCIOUSNESS_NATURE"
+    }
+  ],
+  "updatedAt": "2026-07-25T00:00:00.000Z"
+}

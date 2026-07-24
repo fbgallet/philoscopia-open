@@ -18,7 +18,7 @@ To want nothing to be different, not forward, not backward: not merely to endure
 
 ### Revolt
 
-To consent to everything that has happened is to risk blessing injustice and evil as well. Human dignity demands that we maintain our refusal: acknowledging what was without ever endorsing it, and drawing from this revolt the strength to act.
+To consent to everything that has happened is to [risk blessing injustice and evil as well](../axes/problem-of-evil.md). Human dignity demands that we maintain our refusal: acknowledging what was without ever endorsing it, and drawing from this revolt the strength to act.
 
 *[Camus](../philosophers/camus.md)*
 

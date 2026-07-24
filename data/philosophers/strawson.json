@@ -1,0 +1,93 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "strawson",
+  "name": {
+    "fr": "Strawson",
+    "en": "Strawson"
+  },
+  "fullName": {
+    "fr": "Galen Strawson",
+    "en": "Galen Strawson"
+  },
+  "tagline": {
+    "fr": "Parti de la seule chose dont il se dit absolument sûr, l'expérience, il en tire que la matière devait déjà en contenir : si rien ne naît de rien, un physicalisme conséquent conduit au panpsychisme.",
+    "en": "Starting from the one thing he says he is absolutely sure of, experience, he concludes that matter must already have contained it: if nothing comes from nothing, a consistent physicalism leads to panpsychism."
+  },
+  "summary": {
+    "fr": "Philosophe britannique, connu pour son panpsychisme : tenant l'expérience pour la donnée la plus certaine et l'émergence brute pour inintelligible, il soutient qu'un physicalisme conséquent implique que la matière soit déjà, à son niveau fondamental, expérientielle. Il travaille aussi sur le moi et sur la responsabilité morale.",
+    "en": "British philosopher, known for his panpsychism: holding experience to be the most certain datum and brute emergence to be unintelligible, he argues that a consistent physicalism entails that matter is already, at its fundamental level, experiential. He also works on the self and on moral responsibility."
+  },
+  "nationality": {
+    "fr": "Britannique",
+    "en": "British"
+  },
+  "birth": 1952,
+  "movements": [
+    "analytic-philosophy"
+  ],
+  "entries": [
+    {
+      "axisId": "CONSCIOUSNESS_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0,
+          0,
+          0,
+          1,
+          0
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Strawson part d'une certitude qu'il juge plus solide qu'aucune théorie : l'<c>expérience</c> existe, elle est ce dont nous sommes le plus sûrs. Il refuse ensuite l'<c>émergence brute</c> : <dif>qu'une matière absolument dépourvue d'intériorité produise du vécu par simple complexification lui paraît non pas mystérieux, mais inintelligible.</dif> Si l'on tient par ailleurs que tout est physique, il ne reste qu'une issue : le physique comporte déjà, à son niveau fondamental, quelque chose d'expérientiel. Il présente donc son <c>panpsychisme</c> comme un <c>physicalisme réel</c>, non comme l'ajout d'un esprit à une matière par ailleurs inerte.",
+          "en": "Strawson starts from a certainty he judges firmer than any theory: <c>experience</c> exists, it is what we are most sure of. He then refuses <c>brute emergence</c>: <dif>that matter utterly devoid of inwardness should produce lived experience by sheer complexification strikes him as not mysterious, but unintelligible.</dif> If one also holds that everything is physical, only one way out remains: the physical already contains, at its fundamental level, something experiential. He therefore presents his <c>panpsychism</c> as a <c>real physicalism</c>, not as adding mind to otherwise inert matter."
+        },
+        "references": [
+          {
+            "fr": "« Realistic Monism — Why Physicalism Entails Panpsychism » (2006)",
+            "en": "\"Realistic Monism — Why Physicalism Entails Panpsychism\" (2006)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "REDUCTION_EMERGENCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.5
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Strawson ne refuse pas toute émergence : la liquidité de l'eau est parfaitement intelligible à partir du comportement des molécules, et c'est le modèle de ce qu'il accepte. <arg>Ce qu'il rejette est l'<c>émergence brute</c>, celle d'une propriété radicalement nouvelle qui surgirait de constituants n'en portant aucune trace : tout ce qui émerge doit être intelligible à partir de ce dont il émerge.</arg> Appliqué à l'expérience, ce refus ne le conduit pas au <c id='reductionism'>réductionnisme</c> classique mais au <c>panpsychisme</c> : si le vécu ne peut naître de ce qui n'en contient rien, c'est qu'il était déjà là.",
+          "en": "Strawson does not refuse every emergence: the liquidity of water is perfectly intelligible from the behaviour of molecules, and that is the model of what he accepts. <arg>What he rejects is <c>brute emergence</c>, that of a radically new property arising from constituents bearing no trace of it: whatever emerges must be intelligible from that out of which it emerges.</arg> Applied to experience, this refusal leads him not to classical <c id='reductionism'>reductionism</c> but to <c>panpsychism</c>: if lived experience cannot arise from what contains none of it, then it was already there."
+        },
+        "references": [
+          {
+            "fr": "« Realistic Monism » (2006)",
+            "en": "\"Realistic Monism\" (2006)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    }
+  ],
+  "identity": {
+    "wikidata": "Q1491810",
+    "wikipedia": {
+      "fr": "https://fr.wikipedia.org/wiki/Galen_Strawson",
+      "en": "https://en.wikipedia.org/wiki/Galen_Strawson"
+    }
+  },
+  "updatedAt": "2026-07-25T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

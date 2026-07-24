@@ -6,13 +6,13 @@
 
 *The world · descriptive (theory) · categorical*
 
-The suffering of the innocent is the harshest test for anyone who believes in a good and all-powerful God. Before it, four paths part ways: justifying evil, giving up divine omnipotence, refusing all justification, or concluding that no such God exists. To take a position is to say whether faith can stand before misfortune, and at what cost.
+The suffering of the innocent is the harshest test for anyone who [believes in a good and all-powerful God](../axes/god-existence.md). Before it, four paths part ways: justifying evil, giving up divine omnipotence, refusing all justification, or concluding that no such God exists. To take a position is to say whether faith can stand before misfortune, and at what cost.
 
 ## Poles
 
 ### Evil has its reasons
 
-A good and all-powerful God can permit evil: for the good of the whole, for the freedom of his creatures, to let souls mature, or for reasons beyond our understanding. Faith holds: even when opaque, evil has a meaning.
+A good and all-powerful God can permit evil: for the good of the whole, [for the freedom of his creatures](../axes/freedom.md), to let souls mature, or for reasons beyond our understanding. Faith holds: even when opaque, evil has a meaning.
 
 - Plantinga's "defence" does not claim to know God's reasons: it only establishes that evil is not logically incompatible with his existence.
 

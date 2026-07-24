@@ -77,8 +77,8 @@
         "en": "Positive liberty"
       },
       "description": {
-        "fr": "Être libre, c'est se gouverner soi-même : être maître de ses désirs et, comme citoyen, prendre part aux lois auxquelles on obéit. La liberté n'est pas seulement qu'on me laisse faire, mais que je sois l'auteur de ma vie et de ma cité.",
-        "en": "To be free is to govern oneself: to be master of one's desires and, as a citizen, to share in making the laws one obeys. Liberty is not merely being left alone, but being the author of one's life and one's city."
+        "fr": "Être libre, c'est se gouverner soi-même : être maître de ses désirs et, comme citoyen, <ax id='WHO_DECIDES'>prendre part aux lois auxquelles on obéit</ax>. La liberté n'est pas seulement qu'on me laisse faire, mais que je sois l'auteur de ma vie et de ma cité.",
+        "en": "To be free is to govern oneself: to be master of one's desires and, as a citizen, to <ax id='WHO_DECIDES'>share in making the laws one obeys</ax>. Liberty is not merely being left alone, but being the author of one's life and one's city."
       },
       "figures": [
         {
@@ -138,8 +138,8 @@
         "en": "Capability freedom"
       },
       "description": {
-        "fr": "Être libre, ce n'est pas seulement n'être pas entravé, c'est avoir les moyens réels d'agir : sans santé, instruction ni ressources, une liberté purement formelle reste lettre morte. La liberté se mesure aux capacités effectives d'être et de faire.",
-        "en": "To be free is not merely to be unhindered, it is to have the real means to act: without health, education or resources, a purely formal liberty stays a dead letter. Liberty is measured by the effective capabilities to be and to do."
+        "fr": "Être libre, ce n'est pas seulement n'être pas entravé, c'est avoir les moyens réels d'agir : <ax id='DISTRIBUTIVE_JUSTICE'>sans santé, instruction ni ressources</ax>, une liberté purement formelle reste lettre morte. La liberté se mesure aux capacités effectives d'être et de faire.",
+        "en": "To be free is not merely to be unhindered, it is to have the real means to act: <ax id='DISTRIBUTIVE_JUSTICE'>without health, education or resources</ax>, a purely formal liberty stays a dead letter. Liberty is measured by the effective capabilities to be and to do."
       },
       "figures": [
         {

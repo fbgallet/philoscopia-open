@@ -106,8 +106,8 @@
         "en": "Moral sentiment"
       },
       "description": {
-        "fr": "La morale s'enracine dans une sensibilité naturelle : sympathie, pitié, répugnance à voir souffrir. La raison éclaire, compare et corrige, mais elle ne crée pas l'obligation ; c'est le cœur qui distingue d'abord le bien du mal, et une nature humaine partagée explique que les morales, par-delà leurs variations, se ressemblent tant.",
-        "en": "Morality is rooted in a natural sensibility: sympathy, pity, revulsion at the sight of suffering. Reason clarifies, compares, and corrects, but it does not create obligation; the heart is what first tells good from evil, and a shared human nature explains why moralities, beneath their variations, resemble one another so much."
+        "fr": "La morale s'enracine dans une sensibilité naturelle : sympathie, pitié, répugnance à voir souffrir. La raison éclaire, compare et corrige, mais elle ne crée pas l'obligation ; <ax id='EMOTIONS' pole='SENTIMENTALISM'>c'est le cœur qui distingue d'abord le bien du mal</ax>, et une nature humaine partagée explique que les morales, par-delà leurs variations, se ressemblent tant.",
+        "en": "Morality is rooted in a natural sensibility: sympathy, pity, revulsion at the sight of suffering. Reason clarifies, compares, and corrects, but it does not create obligation; <ax id='EMOTIONS' pole='SENTIMENTALISM'>the heart is what first tells good from evil</ax>, and a shared human nature explains why moralities, beneath their variations, resemble one another so much."
       },
       "nuances": [
         {
@@ -143,8 +143,8 @@
         "en": "A tacit convention"
       },
       "description": {
-        "fr": "La morale repose sur un accord tacite, sédimenté par l'histoire d'une société : une tradition de jugements partagés sur ce qui se fait et ne se fait pas. Ni loi d'une raison pure, ni simple élan du cœur, cette convention tient parce que nous la reconduisons ensemble ; son autorité est réelle, mais immanente, située, et donc révisable.",
-        "en": "Morality rests on a tacit agreement, sedimented by a society's history: a tradition of shared judgments about what is done and what is not. Neither the law of a pure reason nor a mere impulse of the heart, this convention holds because we renew it together; its authority is real, but immanent, situated, and therefore revisable."
+        "fr": "La morale repose sur <ax id='SOCIAL_CONTRACT'>un accord tacite, sédimenté par l'histoire d'une société</ax> : une tradition de jugements partagés sur ce qui se fait et ne se fait pas. Ni loi d'une raison pure, ni simple élan du cœur, cette convention tient parce que nous la reconduisons ensemble ; son autorité est réelle, mais immanente, située, et donc révisable.",
+        "en": "Morality rests on <ax id='SOCIAL_CONTRACT'>a tacit agreement, sedimented by a society's history</ax>: a tradition of shared judgments about what is done and what is not. Neither the law of a pure reason nor a mere impulse of the heart, this convention holds because we renew it together; its authority is real, but immanent, situated, and therefore revisable."
       },
       "nuances": [
         {

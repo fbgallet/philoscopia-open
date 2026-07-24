@@ -18,7 +18,7 @@ Behind the apparent disorder of events, history follows an overall logic: the pr
 
 ### Contingency
 
-History has neither plan nor destination: it results from human actions with unforeseeable consequences. Belief in laws of history is an illusion, sometimes a dangerous one, used to justify sacrifices in the name of a supposedly necessary future.
+History has neither plan nor destination: it results from human actions with unforeseeable consequences. Belief in laws of history is an illusion, sometimes a dangerous one, used to [justify sacrifices in the name of a supposedly necessary future](../axes/political-ideal.md).
 
 *[Popper](../philosophers/popper.md) · Aron*
 

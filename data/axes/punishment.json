@@ -11,8 +11,8 @@
     "en": "Why punish: to repay the wrong, to deter, or to rehabilitate?"
   },
   "stakes": {
-    "fr": "Punir pour faire payer la faute peut n'être qu'une vengeance habillée en justice ; punir seulement pour l'exemple ou l'efficacité peut sacrifier le coupable à l'intérêt général. Selon la réponse, la peine regarde vers le passé à solder ou vers l'avenir à protéger. Se positionner, c'est dire ce qu'on fait vraiment quand on punit.",
-    "en": "Punishing to make the guilty pay can be mere vengeance dressed as justice; punishing only to deter or for efficiency can sacrifice the offender to the common good. Depending on the answer, the penalty looks toward a past to settle or a future to protect. To take a position is to say what we are really doing when we punish."
+    "fr": "Punir pour faire payer la faute peut n'être qu'une vengeance habillée en justice ; punir seulement pour l'exemple ou l'efficacité peut <ax id='ETHICS_FOUNDATION' pole='CONSEQUENTIALISM'>sacrifier le coupable à l'intérêt général</ax>. Selon la réponse, la peine regarde vers le passé à solder ou vers l'avenir à protéger. Se positionner, c'est dire ce qu'on fait vraiment quand on punit.",
+    "en": "Punishing to make the guilty pay can be mere vengeance dressed as justice; punishing only to deter or for efficiency can <ax id='ETHICS_FOUNDATION' pole='CONSEQUENTIALISM'>sacrifice the offender to the common good</ax>. Depending on the answer, the penalty looks toward a past to settle or a future to protect. To take a position is to say what we are really doing when we punish."
   },
   "layer": "VALUE",
   "type": "CATEGORICAL",
@@ -24,8 +24,8 @@
         "en": "Retributivism"
       },
       "description": {
-        "fr": "On punit parce qu'une faute a été commise, et la peine doit être proportionnée à cette faute. Le châtiment rend justice au crime lui-même et respecte le coupable comme un être responsable, indépendamment de toute utilité sociale.",
-        "en": "We punish because a wrong has been committed, and the penalty must be proportionate to that wrong. Punishment does justice to the crime itself and respects the offender as a responsible being, regardless of any social utility."
+        "fr": "On punit parce qu'une faute a été commise, et la peine doit être proportionnée à cette faute. Le châtiment rend justice au crime lui-même et <ax id='MORAL_RESPONSIBILITY' pole='DESERT'>respecte le coupable comme un être responsable</ax>, indépendamment de toute utilité sociale.",
+        "en": "We punish because a wrong has been committed, and the penalty must be proportionate to that wrong. Punishment does justice to the crime itself and <ax id='MORAL_RESPONSIBILITY' pole='DESERT'>respects the offender as a responsible being</ax>, regardless of any social utility."
       },
       "figures": [
         {

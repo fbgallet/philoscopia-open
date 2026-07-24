@@ -6,7 +6,7 @@
 
 *The self · value · triangular · core axis*
 
-"The highest good" is the classical name for happiness in the fullest sense: not the mood of a moment, but what makes an entire life a good one, what the Greeks called eudaimonia. What it consists in is another matter, and the question is far from idle: what fills a life with pleasure can drain it of meaning, and what makes it virtuous can cost it its happiness. Depending on the answer we give, often without ever putting it to ourselves, we do not pursue the same life, and an age does not set itself the same ideal of success.
+"The highest good" is the classical name for happiness in the fullest sense: not the mood of a moment, but what makes an entire life a good one, what the Greeks called eudaimonia. What it consists in is another matter, and the question is far from idle: what fills a life with pleasure [can drain it of meaning](../axes/life-meaning.md), and what makes it virtuous can cost it its happiness. Depending on the answer we give, often without ever putting it to ourselves, we do not pursue the same life, and an age does not set itself the same ideal of success.
 
 ## Poles
 
@@ -18,13 +18,13 @@ Pleasure is the supreme good and the ultimate end of a successful life. Whether 
 
 ### Eudaimonism
 
-The highest good is human flourishing in all its dimensions: exercising one's capacities, fulfilling one's proper function, leading a fully realized life. Pleasure accompanies such a life, but it is not its goal.
+The highest good is human flourishing in all its dimensions: exercising one's capacities, [fulfilling one's proper function](../axes/essence.md), leading a fully realized life. Pleasure accompanies such a life, but it is not its goal.
 
 *[Aristotle](../philosophers/aristotle.md)*
 
 ### Virtue / moral perfectionism
 
-Only virtue, or the good will, has unconditional worth: the good life is the morally upright life, even at the cost of pleasure or comfort. Happiness matters only insofar as it is deserved through moral excellence.
+[Only virtue, or the good will, has unconditional worth](../axes/ethics-foundation.md): the good life is the morally upright life, even at the cost of pleasure or comfort. Happiness matters only insofar as it is deserved through moral excellence.
 
 *the Stoics · [Kant](../philosophers/kant.md)*
 

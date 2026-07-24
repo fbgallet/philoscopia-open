@@ -24,7 +24,7 @@ Tous les désirs ne se valent pas : certains sont naturels et nécessaires, d'au
 
 ### Extinction-détachement
 
-Le désir est la racine de la dépendance et de la souffrance : il nous attache à ce qui ne dépend pas de nous. La voie de la sérénité passe par le détachement, voire l'extinction du désir lui-même, pour ne plus être esclave de ce qui nous échappe.
+Le désir est la racine de la dépendance et de la souffrance : [il nous attache à ce qui ne dépend pas de nous](../axes/control-scope.md). La voie de la sérénité passe par le détachement, voire l'extinction du désir lui-même, pour ne plus être esclave de ce qui nous échappe.
 
 *les stoïciens · [le bouddhisme](../movements/buddhism.md)*
 

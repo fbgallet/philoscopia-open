@@ -6,13 +6,13 @@
 
 *The self · value · bipolar*
 
-Healing repairs what falters, but should we go further, and make ourselves stronger, smarter, all but immortal? To refuse is perhaps to accept limits and sufferings we could lift; to accept is to risk dissolving what makes us human and opening a gulf between enhanced human beings and ordinary ones. To take a position is to say what, in us, must remain untouchable.
+Healing repairs what falters, but should we go further, and make ourselves stronger, smarter, all but immortal? To refuse is perhaps to accept limits and sufferings we could lift; to accept is to risk [dissolving what makes us human](../axes/human-nature.md) and opening a gulf between enhanced human beings and ordinary ones. To take a position is to say what, in us, must remain untouchable.
 
 ## Poles
 
 ### Transhumanism
 
-Human nature is not sacred: it is a transitional state that we have the right, and perhaps the duty, to improve. Through biotechnology, we could expand our physical and cognitive capacities, push back aging and death, and reduce suffering.
+Human nature is not sacred: it is a transitional state that we have the right, and perhaps the duty, to improve. Through biotechnology, we could expand our physical and cognitive capacities, [push back aging and death](../axes/death.md), and reduce suffering.
 
 *[Bostrom](../philosophers/bostrom.md)*
 

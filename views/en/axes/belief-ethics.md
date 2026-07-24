@@ -6,7 +6,7 @@
 
 *Truth · value · bipolar*
 
-To believe commits us: the shipowner who talked himself into trusting, without proof, that his vessel would hold answers for the wreck, for he had no right to believe it. Must we then proportion every belief to the evidence, or are there cases, friendship, commitment, faith, where refusing to believe for want of a guarantee would itself be a fault? To take a position is to say what we owe to evidence when we form our beliefs, and what we are accountable for in holding them.
+To believe commits us: the shipowner who talked himself into trusting, without proof, that his vessel would hold answers for the wreck, for he had no right to believe it. Must we then proportion every belief to the evidence, or are there cases, [friendship, commitment, faith](../axes/faith-reason.md), where refusing to believe for want of a guarantee would itself be a fault? To take a position is to say what we owe to evidence when we form our beliefs, and what we are accountable for in holding them.
 
 ## Poles
 

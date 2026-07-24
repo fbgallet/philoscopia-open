@@ -20,7 +20,7 @@ A word's meaning is what it refers to in the world: a name designates an object,
 
 ### Use theory
 
-A word's meaning is not a thing it stands for but its employment: meaning is use. We learn what a word means by seeing how it is used in the language games of shared life.
+A word's meaning is not a thing it stands for but its employment: meaning is use. We learn what a word means by seeing how it is used in [the language games](../glossary/jeu-de-langage.md) of shared life.
 
 *[Wittgenstein](../philosophers/wittgenstein.md)*
 

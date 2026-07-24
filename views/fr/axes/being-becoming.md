@@ -6,13 +6,13 @@
 
 *Le monde · descriptif (théorie) · bipolaire à médiane*
 
-Tout ce que nous voyons naît, change et périt ; et pourtant nous cherchons partout ce qui demeure : des lois stables, des choses identiques, un moi qui reste le même. Le fond du réel est-il un être immuable dont le changement n'est que la surface, ou un flux dont les choses stables ne sont que des ralentissements provisoires ? De la réponse dépend jusqu'à la manière de comprendre le monde : par des formes fixes ou par des processus.
+Tout ce que nous voyons naît, change et périt ; et pourtant nous cherchons partout ce qui demeure : des lois stables, des choses identiques, [un moi qui reste le même](../axes/self-nature.md). Le fond du réel est-il un être immuable dont le changement n'est que la surface, ou un flux dont les choses stables ne sont que des ralentissements provisoires ? De la réponse dépend jusqu'à la manière de comprendre le monde : par des formes fixes ou par des processus.
 
 ## Pôles
 
 ### Permanence de l'être
 
-Ce qui est réellement ne peut ni naître ni périr : le changement, qui fait qu'une chose est puis n'est plus, contredit l'être même. Le devenir sensible est apparence, opinion des mortels ou monde des ombres ; la pensée n'atteint le vrai qu'en s'élevant à ce qui demeure, l'Être immuable ou les Formes éternelles.
+Ce qui est réellement ne peut ni naître ni périr : le changement, qui fait qu'une chose est puis n'est plus, contredit l'être même. Le devenir sensible est apparence, opinion des mortels ou monde des ombres ; la pensée n'atteint le vrai qu'en s'élevant à ce qui demeure, l'Être immuable ou [les Formes éternelles](../axes/universals.md).
 
 - Platon n'abolit pas le devenir : le sensible changeant garde sa consistance d'image mobile de l'éternité ; seule la connaissance véritable exige l'immuable.
 

@@ -18,7 +18,7 @@ L'être humain est d'abord un être naturel : ses comportements, ses désirs et 
 
 ### Culturalisme
 
-Ce que nous prenons pour la nature humaine varie profondément d'une société à l'autre : les règles, les rôles et les manières de sentir sont des constructions culturelles. L'humain est l'être qui n'a pas de nature fixe, mais des cultures plurielles.
+Ce que nous prenons pour la nature humaine varie profondément d'une société à l'autre : les règles, les rôles et les manières de sentir sont [des constructions culturelles](../axes/social-identity.md). L'humain est l'être qui n'a pas de nature fixe, mais des cultures plurielles.
 
 *Lévi-Strauss · Mead*
 

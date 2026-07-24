@@ -28,7 +28,7 @@ L'obligation morale vaut pour tout être raisonnable : une exigence que la raiso
 
 ### Le sentiment moral
 
-La morale s'enracine dans une sensibilité naturelle : sympathie, pitié, répugnance à voir souffrir. La raison éclaire, compare et corrige, mais elle ne crée pas l'obligation ; c'est le cœur qui distingue d'abord le bien du mal, et une nature humaine partagée explique que les morales, par-delà leurs variations, se ressemblent tant.
+La morale s'enracine dans une sensibilité naturelle : sympathie, pitié, répugnance à voir souffrir. La raison éclaire, compare et corrige, mais elle ne crée pas l'obligation ; [c'est le cœur qui distingue d'abord le bien du mal](../axes/emotions.md), et une nature humaine partagée explique que les morales, par-delà leurs variations, se ressemblent tant.
 
 - Mencius en donne la version chinoise classique : quatre germes innés (compassion, honte, déférence, sens du juste) que la culture morale fait croître.
 - Chez Hume, la sympathie fonde la morale commune, mais la justice naît d'une convention utile : le pôle du sentiment communique ici avec celui de la convention.
@@ -37,7 +37,7 @@ La morale s'enracine dans une sensibilité naturelle : sympathie, pitié, répug
 
 ### Une convention tacite
 
-La morale repose sur un accord tacite, sédimenté par l'histoire d'une société : une tradition de jugements partagés sur ce qui se fait et ne se fait pas. Ni loi d'une raison pure, ni simple élan du cœur, cette convention tient parce que nous la reconduisons ensemble ; son autorité est réelle, mais immanente, située, et donc révisable.
+La morale repose sur [un accord tacite, sédimenté par l'histoire d'une société](../axes/social-contract.md) : une tradition de jugements partagés sur ce qui se fait et ne se fait pas. Ni loi d'une raison pure, ni simple élan du cœur, cette convention tient parce que nous la reconduisons ensemble ; son autorité est réelle, mais immanente, située, et donc révisable.
 
 - Deux lectures se partagent le pôle : affirmative (Xunzi : les rites, artifice des sages, civilisent et obligent pleinement), démystifiante (Nietzsche : la généalogie révèle une fabrication et destitue l'absolu ; Mackie : nos jugements moraux reposent sur une erreur).
 

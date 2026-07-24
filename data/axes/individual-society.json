@@ -11,8 +11,8 @@
     "en": "To understand social life, should we start from individuals or from the social whole?"
   },
   "stakes": {
-    "fr": "La société n'est-elle que des individus et leurs choix, ou un tout qui les façonne plus qu'ils ne le savent ? Selon la réponse, on explique une crise ou une coutume par des décisions personnelles ou par des structures, et l'on ne tient pas les mêmes responsables. Se positionner, c'est dire ce qui, du tout ou des parties, fait vraiment l'histoire.",
-    "en": "Is society merely individuals and their choices, or a whole that shapes them more than they know? Depending on the answer, we explain a crisis or a custom by personal decisions or by structures, and we hold different parties responsible. To take a position is to say what truly makes history: the whole, or the parts."
+    "fr": "La société n'est-elle que des individus et leurs choix, ou un tout qui les façonne plus qu'ils ne le savent ? Selon la réponse, on explique une crise ou une coutume par des décisions personnelles ou par des structures, et l'on ne tient pas les mêmes responsables. Se positionner, c'est dire <ax id='REDUCTION_EMERGENCE'>ce qui, du tout ou des parties, fait vraiment l'histoire</ax>.",
+    "en": "Is society merely individuals and their choices, or a whole that shapes them more than they know? Depending on the answer, we explain a crisis or a custom by personal decisions or by structures, and we hold different parties responsible. To take a position is to say <ax id='REDUCTION_EMERGENCE'>what truly makes history: the whole, or the parts</ax>."
   },
   "layer": "THEORY",
   "type": "BIPOLAR",

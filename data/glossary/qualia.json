@@ -1,0 +1,32 @@
+{
+  "id": "qualia",
+  "term": {
+    "fr": "Qualia",
+    "en": "Qualia"
+  },
+  "aliases": {
+    "fr": [
+      "quale",
+      "vécu qualitatif",
+      "effet que ça fait"
+    ],
+    "en": [
+      "quale",
+      "qualitative feel",
+      "what it is like"
+    ]
+  },
+  "definition": {
+    "fr": "Les qualia sont les qualités vécues d'une expérience : <ex>le rouge tel qu'on le voit, la douleur telle qu'elle fait mal, le goût du café</ex>. Le mot désigne « l'effet que cela fait » d'être dans un état mental, par opposition à sa description physique. <dif>Toute la difficulté tient à ce qu'ils semblent accessibles à une seule personne : on peut mesurer une longueur d'onde, non le rouge que voit quelqu'un.</dif> Pour les uns, ils sont ce qu'aucune science du cerveau n'atteindra jamais, et signent les limites du <c id='materialism'>matérialisme</c> ; pour les autres, une illusion que l'introspection se fait sur elle-même.",
+    "en": "Qualia are the lived qualities of an experience: <ex>red as one sees it, pain as it hurts, the taste of coffee</ex>. The word names \"what it is like\" to be in a mental state, as opposed to its physical description. <dif>The whole difficulty is that they seem accessible to one person only: one can measure a wavelength, not the red someone sees.</dif> For some they are what no science of the brain will ever reach, marking the limits of <c id='materialism'>materialism</c>; for others, an illusion introspection makes about itself."
+  },
+  "relatedAxes": [
+    "CONSCIOUSNESS_NATURE",
+    "SCIENCE_PLACE"
+  ],
+  "relatedTerms": [
+    "dualism",
+    "materialism"
+  ],
+  "updatedAt": "2026-07-24T00:00:00.000Z"
+}

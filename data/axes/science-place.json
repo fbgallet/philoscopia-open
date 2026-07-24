@@ -40,8 +40,8 @@
         "en": "Scientism"
       },
       "description": {
-        "fr": "La méthode scientifique est la forme la plus aboutie du savoir humain, appelée à remplacer les explications religieuses et métaphysiques. Toute question qui peut recevoir une réponse la recevra de la science, et d'elle seule.",
-        "en": "The scientific method is the most accomplished form of human knowledge, destined to replace religious and metaphysical explanations. Any question that can be answered will be answered by science, and by science alone."
+        "fr": "La méthode scientifique est la forme la plus aboutie du savoir humain, appelée à <ax id='FAITH_REASON' pole='CONFLICT'>remplacer les explications religieuses et métaphysiques</ax>. Toute question qui peut recevoir une réponse la recevra de la science, et d'elle seule.",
+        "en": "The scientific method is the most accomplished form of human knowledge, destined to <ax id='FAITH_REASON' pole='CONFLICT'>replace religious and metaphysical explanations</ax>. Any question that can be answered will be answered by science, and by science alone."
       },
       "figures": [
         {
@@ -267,7 +267,8 @@
       ],
       "doorways": [
         {
-          "axis": "CONSCIOUSNESS_NATURE"
+          "axis": "CONSCIOUSNESS_NATURE",
+          "problem": "what-mary-learns"
         }
       ],
       "title": {

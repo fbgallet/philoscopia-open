@@ -6,7 +6,7 @@
 
 *Autrui · descriptif (théorie) · bipolaire*
 
-La société n'est-elle que des individus et leurs choix, ou un tout qui les façonne plus qu'ils ne le savent ? Selon la réponse, on explique une crise ou une coutume par des décisions personnelles ou par des structures, et l'on ne tient pas les mêmes responsables. Se positionner, c'est dire ce qui, du tout ou des parties, fait vraiment l'histoire.
+La société n'est-elle que des individus et leurs choix, ou un tout qui les façonne plus qu'ils ne le savent ? Selon la réponse, on explique une crise ou une coutume par des décisions personnelles ou par des structures, et l'on ne tient pas les mêmes responsables. Se positionner, c'est dire [ce qui, du tout ou des parties, fait vraiment l'histoire](../axes/reduction-emergence.md).
 
 ## Pôles
 

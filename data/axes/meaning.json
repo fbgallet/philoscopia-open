@@ -47,8 +47,8 @@
         "en": "Use theory"
       },
       "description": {
-        "fr": "Le sens d'un mot n'est pas une chose qu'il représente, mais son emploi : la signification, c'est l'usage. On apprend ce que veut dire un mot en voyant comment on s'en sert dans les jeux de langage de la vie commune.",
-        "en": "A word's meaning is not a thing it stands for but its employment: meaning is use. We learn what a word means by seeing how it is used in the language games of shared life."
+        "fr": "Le sens d'un mot n'est pas une chose qu'il représente, mais son emploi : la signification, c'est l'usage. On apprend ce que veut dire un mot en voyant comment on s'en sert dans <c id='jeu-de-langage'>les jeux de langage</c> de la vie commune.",
+        "en": "A word's meaning is not a thing it stands for but its employment: meaning is use. We learn what a word means by seeing how it is used in <c id='jeu-de-langage'>the language games</c> of shared life."
       },
       "figures": [
         {

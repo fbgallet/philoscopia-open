@@ -6,7 +6,7 @@
 
 *Le monde · descriptif (théorie) · bipolaire*
 
-Comprendre, est-ce toujours décomposer en éléments plus simples, ou certaines réalités, le vivant, l'esprit, ont-elles des propriétés qui disparaissent dès qu'on les démonte ? Si tout se ramène aux parties, la physique pourra un jour tout expliquer ; sinon, biologie et psychologie étudient quelque chose de réel que les sciences du plus petit manquent. Se positionner, c'est dire jusqu'où va le pouvoir d'expliquer par le bas.
+Comprendre, est-ce toujours décomposer en éléments plus simples, ou certaines réalités, le vivant, [l'esprit](../axes/consciousness-nature.md), ont-elles des propriétés qui disparaissent dès qu'on les démonte ? Si tout se ramène aux parties, la physique pourra un jour tout expliquer ; sinon, biologie et psychologie étudient quelque chose de réel que les sciences du plus petit manquent. Se positionner, c'est dire jusqu'où va le pouvoir d'expliquer par le bas.
 
 ## Pôles
 
@@ -20,7 +20,7 @@ Tout phénomène complexe s'explique, en dernière analyse, par ses constituants
 
 Le tout est plus que la somme de ses parties : de l'organisation surgissent des propriétés nouvelles, comme la vie ou la pensée, qu'aucune analyse des composants isolés ne peut prédire. La complexité exige une pensée des relations et des niveaux.
 
-*[Aristote](../philosophers/aristotle.md) · Morin*
+*[Aristote](../philosophers/aristotle.md) · [Morin](../philosophers/morin.md)*
 
 ## Relations de fondation
 
@@ -32,7 +32,7 @@ Le tout est plus que la somme de ses parties : de l'organisation surgissent des 
 
 ## Axes liés
 
-[Explication de la nature](../axes/causality.md) · [Une machine peut-elle penser](../axes/machine-mind.md) · [Nature du réel](../axes/reality-nature.md) · [Existence de Dieu](../axes/god-existence.md)
+[Explication de la nature](../axes/causality.md) · [Une machine peut-elle penser](../axes/machine-mind.md) · [Nature du réel](../axes/reality-nature.md) · [Existence de Dieu](../axes/god-existence.md) · [L'énigme de la conscience](../axes/consciousness-nature.md)
 
 ---
 

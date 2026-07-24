@@ -24,13 +24,13 @@ Faith and reason cannot contradict each other, for they proceed from the same so
 
 ### Conflict
 
-Faith and reason stand in opposition: believing without sufficient evidence means abandoning the demands of rationality. Critical examination of religious beliefs leads to rejecting them or, at the very least, suspending them.
+Faith and reason stand in opposition: [believing without sufficient evidence means abandoning the demands of rationality](../axes/belief-ethics.md). Critical examination of religious beliefs leads to rejecting them or, at the very least, suspending them.
 
 *[Russell](../philosophers/russell.md)*
 
 ### Separate domains
 
-Science and religion answer different questions: one describes facts, the other deals with meaning and values. As long as each stays on its own ground, there is neither conflict nor competition.
+Science and religion answer different questions: [one describes facts, the other deals with meaning and values](../axes/science-place.md). As long as each stays on its own ground, there is neither conflict nor competition.
 
 *Gould*
 

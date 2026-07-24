@@ -88,7 +88,7 @@
 - [Purpose of art](art-purpose.md) : What is art for: to give pleasure, to reveal truth, or to transform the world?
 - [Relation to technology](technology.md) : Does technological progress improve the human condition?
 - [Status of emotions](emotions.md) : Are emotions an obstacle to thought or a source of knowledge?
-- [The enigma of consciousness](consciousness-nature.md) : Can a science of the brain fully explain lived experience?
+- [The enigma of consciousness](consciousness-nature.md) : Is lived experience something more than the structure and functioning of the brain?
 - [The problem of evil](problem-of-evil.md) : Is evil compatible with a good and all-powerful God?
 - [Vision of humanity](human-vision.md) : Are human beings fundamentally good or inclined toward evil?
 - [Where the sacred resides](transcendence.md) : Does the sacred reside in this very world, or in a beyond that surpasses it?

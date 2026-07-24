@@ -12,13 +12,13 @@ Corriger les écarts de richesse peut bafouer la liberté et le mérite de chacu
 
 ### Égalitarisme
 
-Une société juste corrige les inégalités qui ne résultent pas des choix de chacun : naissance, talents, circonstances. La redistribution n'est pas une atteinte à la liberté, mais la condition d'une coopération équitable entre citoyens.
+Une société juste corrige [les inégalités qui ne résultent pas des choix de chacun](../axes/moral-responsibility.md) : naissance, talents, circonstances. La redistribution n'est pas une atteinte à la liberté, mais la condition d'une coopération équitable entre citoyens.
 
 *[Rawls](../philosophers/rawls.md) · [Marx](../philosophers/marx.md)*
 
 ### Libertarianisme
 
-Chacun est propriétaire de lui-même et des fruits de son travail. Une répartition est juste dès lors qu'elle résulte d'échanges libres et d'acquisitions légitimes : redistribuer par la contrainte revient à violer les droits des individus.
+Chacun est propriétaire de lui-même et des fruits de son travail. Une répartition est juste dès lors qu'elle résulte d'échanges libres et d'acquisitions légitimes : redistribuer par la contrainte revient à [violer les droits des individus](../axes/rights-nature.md).
 
 *[Nozick](../philosophers/nozick.md) · [Locke](../philosophers/locke.md)*
 

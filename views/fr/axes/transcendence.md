@@ -18,7 +18,7 @@ Il n'y a pas d'arrière-monde : ce qui mérite d'être appelé sacré ou divin r
 
 ### Transcendance
 
-Le sacré dépasse ce monde : la vérité, le bien ou Dieu résident dans un ordre supérieur que la réalité sensible ne fait que refléter. L'existence humaine prend sens dans son rapport à cet au-delà.
+Le sacré dépasse ce monde : la vérité, le bien ou Dieu résident dans [un ordre supérieur que la réalité sensible ne fait que refléter](../axes/reality-nature.md). L'existence humaine prend sens dans son rapport à cet au-delà.
 
 *[Platon](../philosophers/plato.md) · [Pascal](../philosophers/pascal.md) · [Kierkegaard](../philosophers/kierkegaard.md)*
 

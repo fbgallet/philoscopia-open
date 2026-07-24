@@ -6,7 +6,7 @@
 
 *Others · descriptive (theory) · bipolar*
 
-Is society merely individuals and their choices, or a whole that shapes them more than they know? Depending on the answer, we explain a crisis or a custom by personal decisions or by structures, and we hold different parties responsible. To take a position is to say what truly makes history: the whole, or the parts.
+Is society merely individuals and their choices, or a whole that shapes them more than they know? Depending on the answer, we explain a crisis or a custom by personal decisions or by structures, and we hold different parties responsible. To take a position is to say [what truly makes history: the whole, or the parts](../axes/reduction-emergence.md).
 
 ## Poles
 

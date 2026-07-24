@@ -24,7 +24,7 @@ Not all desires are equal: some are natural and necessary, others empty and a so
 
 ### Extinction and detachment
 
-Desire is the root of dependence and suffering: it binds us to what is beyond our control. The path to serenity lies in detachment, even in the extinction of desire itself, so as no longer to be enslaved by what escapes us.
+Desire is the root of dependence and suffering: [it binds us to what is beyond our control](../axes/control-scope.md). The path to serenity lies in detachment, even in the extinction of desire itself, so as no longer to be enslaved by what escapes us.
 
 *the Stoics · [Buddhism](../movements/buddhism.md)*
 

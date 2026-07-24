@@ -51,8 +51,8 @@
         "en": "Truth"
       },
       "description": {
-        "fr": "L'art est une voie de connaissance : il dévoile une vérité que le concept ne peut atteindre, l'essence du monde, l'éclosion de l'être ou le temps retrouvé. Sa grandeur tient à ce qu'il nous fait voir, non au plaisir ni à la cause qu'il sert.",
-        "en": "Art is a path to knowledge: it discloses a truth that the concept cannot reach, the essence of the world, the opening of being, or time regained. Its greatness lies in what it lets us see, not in the pleasure it gives or the cause it serves."
+        "fr": "L'art est une voie de connaissance : <ax id='SCIENCE_PLACE' pole='EPISTEMIC_PLURALISM'>il dévoile une vérité que le concept ne peut atteindre</ax>, l'essence du monde, l'éclosion de l'être ou le temps retrouvé. Sa grandeur tient à ce qu'il nous fait voir, non au plaisir ni à la cause qu'il sert.",
+        "en": "Art is a path to knowledge: <ax id='SCIENCE_PLACE' pole='EPISTEMIC_PLURALISM'>it discloses a truth that the concept cannot reach</ax>, the essence of the world, the opening of being, or time regained. Its greatness lies in what it lets us see, not in the pleasure it gives or the cause it serves."
       },
       "figures": [
         {

@@ -6,7 +6,7 @@
 
 *The world · descriptive (theory) · bipolar*
 
-Is understanding always a matter of breaking things into simpler elements, or do some realities, life, mind, have properties that vanish the moment we take them apart? If everything reduces to its parts, physics may one day explain it all; if wholes are irreducible, biology and psychology study something real that the sciences of the small miss. To take a position is to say how far explanation from below can reach.
+Is understanding always a matter of breaking things into simpler elements, or do some realities, life, [mind](../axes/consciousness-nature.md), have properties that vanish the moment we take them apart? If everything reduces to its parts, physics may one day explain it all; if wholes are irreducible, biology and psychology study something real that the sciences of the small miss. To take a position is to say how far explanation from below can reach.
 
 ## Poles
 
@@ -20,7 +20,7 @@ Every complex phenomenon is explained, in the final analysis, by its elementary 
 
 The whole is more than the sum of its parts: organization gives rise to new properties, such as life or thought, that no analysis of isolated components can predict. Complexity demands a way of thinking attentive to relations and levels.
 
-*[Aristotle](../philosophers/aristotle.md) · Morin*
+*[Aristotle](../philosophers/aristotle.md) · [Morin](../philosophers/morin.md)*
 
 ## Grounding relations
 
@@ -32,7 +32,7 @@ The whole is more than the sum of its parts: organization gives rise to new prop
 
 ## Related axes
 
-[Explaining nature](../axes/causality.md) · [Can a machine think](../axes/machine-mind.md) · [Nature of reality](../axes/reality-nature.md) · [Existence of God](../axes/god-existence.md)
+[Explaining nature](../axes/causality.md) · [Can a machine think](../axes/machine-mind.md) · [Nature of reality](../axes/reality-nature.md) · [Existence of God](../axes/god-existence.md) · [The enigma of consciousness](../axes/consciousness-nature.md)
 
 ---
 

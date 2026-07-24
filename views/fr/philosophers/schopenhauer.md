@@ -226,7 +226,7 @@ Les Idées platoniciennes, degrés d'objectivation du vouloir, sont plus réelle
 
 *positionné · inférable · mineure*
 
-Panpsychisme 60% · Physicalisme réducteur 25% · Dualisme des propriétés 15%
+Panpsychisme 60% · Physicalisme 25% · Dualisme des propriétés 15%
 
 Double thèse : l'intellect est une fonction du cerveau, phénomène second, tardif et fatigable, ce qui a des accents matérialistes ; mais le fond de toute chose, du minéral à l'homme, est vouloir. C'est moins un panpsychisme au sens strict qu'une doctrine de l'objectivation universelle de la Volonté : ce n'est pas l'esprit qui est partout, mais l'aveugle vouloir.
 

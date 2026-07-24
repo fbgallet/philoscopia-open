@@ -18,7 +18,7 @@ Certaines choses dépendent de nous, nos jugements et nos volontés, d'autres no
 
 ### Prométhéisme
 
-Les limites de notre pouvoir ne sont pas fixées une fois pour toutes : par la connaissance, la technique et l'action collective, l'humanité peut transformer le monde et repousser ce qui semblait hors de portée. Plutôt que d'accepter l'ordre des choses, il faut travailler à le changer.
+Les limites de notre pouvoir ne sont pas fixées une fois pour toutes : [par la connaissance, la technique et l'action collective](../axes/technology.md), l'humanité peut transformer le monde et repousser ce qui semblait hors de portée. Plutôt que d'accepter l'ordre des choses, il faut travailler à le changer.
 
 *[Descartes](../philosophers/descartes.md) · [Marx](../philosophers/marx.md)*
 

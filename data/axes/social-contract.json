@@ -59,8 +59,8 @@
         "en": "Organic community"
       },
       "description": {
-        "fr": "L'homme est par nature un être social : la communauté précède l'individu, qui n'existe et ne se comprend qu'en elle. Le lien social n'est pas un contrat mais un héritage vivant, tissé de mœurs, d'institutions et de traditions transmises.",
-        "en": "Human beings are social by nature: the community precedes the individual, who exists and understands themselves only within it. The social bond is not a contract but a living inheritance, woven from customs, institutions, and transmitted traditions."
+        "fr": "L'homme est par nature un être social : <ax id='INDIVIDUAL_SOCIETY' pole='HOLISM'>la communauté précède l'individu</ax>, qui n'existe et ne se comprend qu'en elle. Le lien social n'est pas un contrat mais un héritage vivant, tissé de mœurs, d'institutions et de traditions transmises.",
+        "en": "Human beings are social by nature: <ax id='INDIVIDUAL_SOCIETY' pole='HOLISM'>the community precedes the individual</ax>, who exists and understands themselves only within it. The social bond is not a contract but a living inheritance, woven from customs, institutions, and transmitted traditions."
       },
       "figures": [
         {

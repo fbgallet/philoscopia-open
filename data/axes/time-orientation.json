@@ -11,8 +11,8 @@
     "en": "Toward which dimension of time should we orient our life: the present, the future, or the past?"
   },
   "stakes": {
-    "fr": "Vivre pour l'instant savoure la vie mais peut perdre le cap ; vivre pour l'avenir construit et prépare, mais sacrifie parfois aujourd'hui à un demain qui ne vient pas ; vivre depuis le passé honore ses racines, mais peut y enfermer. Se positionner, c'est dire où poser le poids d'une vie.",
-    "en": "Living for the moment savours life but can lose its bearings; living for the future builds and prepares, but sometimes sacrifices today to a tomorrow that never comes; living from the past honours one's roots, but can imprison us in them. To take a position is to say where to place the weight of a life."
+    "fr": "Vivre pour l'instant savoure la vie mais peut perdre le cap ; vivre pour l'avenir construit et prépare, mais sacrifie parfois aujourd'hui à un demain qui ne vient pas ; <ax id='PAST_RELATION'>vivre depuis le passé honore ses racines</ax>, mais peut y enfermer. Se positionner, c'est dire où poser le poids d'une vie.",
+    "en": "Living for the moment savours life but can lose its bearings; living for the future builds and prepares, but sometimes sacrifices today to a tomorrow that never comes; <ax id='PAST_RELATION'>living from the past honours one's roots</ax>, but can imprison us in them. To take a position is to say where to place the weight of a life."
   },
   "aliases": {
     "fr": [
@@ -70,8 +70,8 @@
         "en": "Project"
       },
       "description": {
-        "fr": "Exister, c'est se projeter : l'être humain se définit par ce qu'il entreprend et par l'avenir qu'il se donne. La vie tire son sens de ce mouvement vers ce qui n'est pas encore, et se réduire au présent serait renoncer à soi.",
-        "en": "To exist is to project oneself: human beings are defined by what they undertake and by the future they set for themselves. Life draws its meaning from this movement toward what is not yet, and confining oneself to the present would mean giving up on oneself."
+        "fr": "<ax id='ESSENCE' pole='EXISTENTIALISM'>Exister, c'est se projeter</ax> : l'être humain se définit par ce qu'il entreprend et par l'avenir qu'il se donne. La vie tire son sens de ce mouvement vers ce qui n'est pas encore, et se réduire au présent serait renoncer à soi.",
+        "en": "<ax id='ESSENCE' pole='EXISTENTIALISM'>To exist is to project oneself</ax>: human beings are defined by what they undertake and by the future they set for themselves. Life draws its meaning from this movement toward what is not yet, and confining oneself to the present would mean giving up on oneself."
       },
       "figures": [
         {
@@ -90,8 +90,8 @@
         "en": "Memory and transmission"
       },
       "description": {
-        "fr": "Nous sommes des héritiers : ce que nous avons reçu du passé nous constitue et appelle à être transmis. Cultiver la mémoire, honorer ses dettes et léguer quelque chose aux générations futures donnent à la vie sa profondeur.",
-        "en": "We are heirs: what we have received from the past constitutes us and calls to be passed on. Cultivating memory, honoring our debts and leaving something to future generations give life its depth."
+        "fr": "Nous sommes des héritiers : ce que nous avons reçu du passé nous constitue et appelle à être transmis. Cultiver la mémoire, honorer ses dettes et <ax id='FUTURE_GENERATIONS'>léguer quelque chose aux générations futures</ax> donnent à la vie sa profondeur.",
+        "en": "We are heirs: what we have received from the past constitutes us and calls to be passed on. Cultivating memory, honoring our debts and <ax id='FUTURE_GENERATIONS'>leaving something to future generations</ax> give life its depth."
       },
       "figures": [
         {

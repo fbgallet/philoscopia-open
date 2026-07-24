@@ -6,7 +6,7 @@
 
 *The world · descriptive (theory) · bipolar with median · core axis*
 
-On the answer hang the origin of the world, the existence of a justice beyond human courts, the foundation of our values, and what awaits us after death. Few questions bear so heavily on the whole shape we give our life, and none admits a proof that ends the debate.
+On the answer hang the origin of the world, the existence of a justice beyond human courts, [the foundation of our values](../axes/moral-source.md), and [what awaits us after death](../axes/afterlife.md). Few questions bear so heavily on the whole shape we give our life, and none admits a proof that ends the debate.
 
 ## Poles
 
@@ -18,7 +18,7 @@ There is a God, creator or ground of the world, personal or not, whose reality g
 
 ### Atheism
 
-God does not exist: no divine reality, personal or impersonal, grounds the world, and the idea of God can be explained by human, psychological, or social causes. The meaning of life must be built without recourse to the divine.
+God does not exist: no divine reality, personal or impersonal, grounds the world, and the idea of God can be explained by human, psychological, or social causes. [The meaning of life must be built without recourse to the divine](../axes/life-meaning.md).
 
 *[Feuerbach](../philosophers/feuerbach.md) · [Nietzsche](../philosophers/nietzsche.md) · [Russell](../philosophers/russell.md)*
 

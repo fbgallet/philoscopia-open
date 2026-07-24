@@ -1,0 +1,137 @@
+{
+  "id": "what-is-it-like-to-be-a-bat",
+  "title": {
+    "fr": "Quel effet cela fait-il d'être une chauve-souris ?",
+    "en": "What is it like to be a bat?"
+  },
+  "description": {
+    "fr": "La chauve-souris perçoit le monde par écholocation : elle émet des cris et lit dans leurs échos la forme, la distance et le mouvement des choses. Un biologiste peut décrire ce système entièrement, jusqu'au dernier neurone. Mais il resterait à savoir ce que c'est, <kw>pour la chauve-souris</kw>, que de percevoir ainsi. Et nous ne pouvons l'imaginer qu'en nous imaginant nous-mêmes en chauve-souris, ce qui n'est pas la même chose : ce serait l'effet que cela ferait à un humain de se conduire comme elle, non l'effet que cela fait à elle d'être elle.",
+    "en": "The bat perceives the world by echolocation: it emits cries and reads in their echoes the shape, distance and motion of things. A biologist can describe that system completely, down to the last neuron. But it would remain to be known what it is, <kw>for the bat</kw>, to perceive in this way. And we can imagine it only by imagining ourselves as a bat, which is not the same thing: that would be what it is like for a human being to behave as it does, not what it is like for the bat to be itself."
+  },
+  "nature": "IMAGINED",
+  "source": {
+    "author": {
+      "fr": "Thomas Nagel",
+      "en": "Thomas Nagel"
+    },
+    "work": {
+      "fr": "« Quel effet cela fait-il d'être une chauve-souris ? »",
+      "en": "\"What Is It Like to Be a Bat?\""
+    },
+    "year": 1974
+  },
+  "question": {
+    "fr": "Une science achevée du cerveau de la chauve-souris nous dirait-elle ce que c'est que d'en être une ?",
+    "en": "Would a completed science of the bat's brain tell us what it is like to be one?"
+  },
+  "axisIds": [
+    "CONSCIOUSNESS_NATURE"
+  ],
+  "options": [
+    {
+      "id": "a-remainder-in-the-world",
+      "label": {
+        "fr": "Non : il y a là un fait que la description physique laisse échapper. Le réel a une face vécue que la mesure n'atteint pas.",
+        "en": "No: there is a fact here that physical description lets slip. Reality has a lived face that measurement does not reach."
+      },
+      "hints": [
+        {
+          "axisId": "CONSCIOUSNESS_NATURE",
+          "value": {
+            "kind": "weights",
+            "weights": [
+              0,
+              0.35,
+              0.65,
+              0,
+              0
+            ]
+          }
+        }
+      ],
+      "discussion": {
+        "fr": "Vous tenez le <kw>problème difficile</kw> pour un problème d'ontologie : le vécu est quelque chose de plus dans le monde. C'est la voie que suit <ph id='chalmers'>Chalmers</ph> vers un <ax id='CONSCIOUSNESS_NATURE' pole='PROPERTY_DUALISM'>dualisme des propriétés</ax>, le cerveau restant physique mais portant des propriétés irréductibles. Le <ax id='CONSCIOUSNESS_NATURE' pole='SUBSTANCE_DUALISM'>dualisme des substances</ax> répond autrement à la même intuition : non des propriétés en plus, mais une réalité d'une autre nature.",
+        "en": "You take the <kw>hard problem</kw> to be a problem of ontology: lived experience is something more in the world. This is the path <ph id='chalmers'>Chalmers</ph> follows toward a <ax id='CONSCIOUSNESS_NATURE' pole='PROPERTY_DUALISM'>property dualism</ax>, the brain remaining physical but bearing irreducible properties. <ax id='CONSCIOUSNESS_NATURE' pole='SUBSTANCE_DUALISM'>Substance dualism</ax> answers the same intuition differently: not further properties, but a reality of another nature."
+      }
+    },
+    {
+      "id": "a-limit-of-ours",
+      "label": {
+        "fr": "Non, mais c'est une limite de nous, pas du monde : son expérience est physique de part en part, il nous manque seulement le point de vue pour la saisir.",
+        "en": "No, but that is a limit of ours, not of the world: its experience is physical through and through, we simply lack the point of view from which to grasp it."
+      },
+      "hints": [
+        {
+          "axisId": "CONSCIOUSNESS_NATURE",
+          "value": {
+            "kind": "weights",
+            "weights": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ]
+          }
+        }
+      ],
+      "discussion": {
+        "fr": "<ph id='nagel'>Nagel</ph> tire de son expérience de pensée un refus du <c id='reductionism'>réductionnisme</c>, mais non un <c id='dualism'>dualisme</c> : notre échec serait <kw>conceptuel</kw> avant d'être métaphysique. Il ne conclut pas pour autant que tout est physique, et dit plutôt ne pas voir comment le physicalisme pourrait être vrai. Choisir cette option, c'est franchir un pas qu'il laisse ouvert.",
+        "en": "<ph id='nagel'>Nagel</ph> draws from his thought experiment a refusal of <c id='reductionism'>reductionism</c>, but not a <c id='dualism'>dualism</c>: our failure would be <kw>conceptual</kw> before it is metaphysical. Nor does he conclude that everything is physical, saying rather that he cannot see how physicalism could be true. To choose this option is to take a step he leaves open."
+      }
+    },
+    {
+      "id": "everywhere-in-matter",
+      "label": {
+        "fr": "La question vaut bien au-delà des chauves-souris : s'il y a un effet que cela fait d'être elle, pourquoi pas, à des degrés infimes, partout dans la matière ?",
+        "en": "The question reaches far beyond bats: if there is something it is like to be one, why not, in vanishing degrees, everywhere in matter?"
+      },
+      "hints": [
+        {
+          "axisId": "CONSCIOUSNESS_NATURE",
+          "value": {
+            "kind": "weights",
+            "weights": [
+              0,
+              0,
+              0,
+              1,
+              0
+            ]
+          }
+        }
+      ],
+      "discussion": {
+        "fr": "Le <ax id='CONSCIOUSNESS_NATURE' pole='PANPSYCHISM'>panpsychisme</ax> refuse de faire surgir l'expérience par miracle en un point de l'évolution : la matière porterait, à l'état élémentaire, quelque chose comme une intériorité, sans qu'il faille prêter un sujet à chaque caillou. <dif>Reste à expliquer comment des myriades de micro-vécus composeraient une conscience unique.</dif>",
+        "en": "<ax id='CONSCIOUSNESS_NATURE' pole='PANPSYCHISM'>Panpsychism</ax> refuses to have experience appear by miracle at some point in evolution: matter would carry, in elementary form, something like inwardness, without ascribing a subject to every pebble. <dif>It remains to explain how myriad micro-experiences would compose a single consciousness.</dif>"
+      }
+    },
+    {
+      "id": "nothing-to-capture",
+      "label": {
+        "fr": "La question suppose à tort qu'il y ait un « effet que ça fait » à saisir : l'introspection nous fait croire à une lueur intérieure qui n'existe pas comme telle.",
+        "en": "The question wrongly assumes there is a \"what it is like\" to capture: introspection makes us believe in an inner glow that does not exist as such."
+      },
+      "hints": [
+        {
+          "axisId": "CONSCIOUSNESS_NATURE",
+          "value": {
+            "kind": "weights",
+            "weights": [
+              0.3,
+              0,
+              0,
+              0,
+              0.7
+            ]
+          }
+        }
+      ],
+      "discussion": {
+        "fr": "L'<ax id='CONSCIOUSNESS_NATURE' pole='ILLUSIONISM'>illusionnisme</ax> de <ph id='dennett'>Dennett</ph> retourne l'expérience de pensée : ce n'est pas la science qui manque son objet, c'est l'introspection qui se trompe sur elle-même. Ce qu'il rejette, ce sont les <c id='qualia'>qualia</c> tels qu'on les conçoit d'ordinaire, propriétés privées et ineffables, non l'existence de la vie consciente.",
+        "en": "<ph id='dennett'>Dennett</ph>'s <ax id='CONSCIOUSNESS_NATURE' pole='ILLUSIONISM'>illusionism</ax> turns the thought experiment around: it is not science that misses its object, it is introspection that is wrong about itself. What he rejects is <c id='qualia'>qualia</c> as ordinarily conceived, private and ineffable properties, not the existence of conscious life."
+      }
+    }
+  ],
+  "updatedAt": "2026-07-24T00:00:00.000Z"
+}
