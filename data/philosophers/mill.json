@@ -975,6 +975,13 @@
       }
     }
   ],
+  "identity": {
+    "wikidata": "Q50020",
+    "wikipedia": {
+      "fr": "https://fr.wikipedia.org/wiki/John_Stuart_Mill",
+      "en": "https://en.wikipedia.org/wiki/John_Stuart_Mill"
+    }
+  },
   "updatedAt": "2026-07-19T00:00:00.000Z",
   "validation": {
     "method": "NOT_VALIDATED"

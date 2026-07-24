@@ -6,6 +6,8 @@
 
 Maître itinérant de la Chine des Printemps et Automnes (VIe-Ve siècle avant notre ère), né dans le petit État de Lu à une époque de guerres et de délitement de l'ordre féodal des Zhou. Magistrat un temps, puis conseiller errant cherchant en vain un prince pour appliquer ses vues, il forme surtout des disciples : ses propos, recueillis après sa mort dans les Entretiens (Lunyu), sont la source première de sa pensée et fondent le [confucianisme](../movements/confucianism.md). Face au désordre de son temps, sa réponse n'est ni religieuse ni juridique mais éthique : reformer la personne et les relations pour régénérer la société, par l'étude des Anciens et la culture de soi. Tenu pour le premier éducateur chinois, érigé en figure tutélaire de l'État impérial qui fit de ses textes la base des examens mandarinaux, il demeure une référence majeure des cultures d'Asie orientale.
 
+**Liens externes** : [Wikipédia](https://fr.wikipedia.org/wiki/Confucius) · [Wikidata](https://www.wikidata.org/wiki/Q4604)
+
 ## Positions structurantes
 
 1. [Partialité](../axes/partiality.md) : **On ne devient humain qu'en aimant d'abord les siens : la xiao (piété filiale) est la racine du ren 仁 (l'humanité), et l'affection doit rester graduée, non également répartie entre tous.**

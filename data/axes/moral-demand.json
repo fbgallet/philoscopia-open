@@ -411,7 +411,8 @@
       ],
       "doorways": [
         {
-          "axis": "POLITICAL_LIBERTY"
+          "axis": "POLITICAL_LIBERTY",
+          "problem": "forced-to-be-free"
         }
       ],
       "title": {

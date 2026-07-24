@@ -6,6 +6,8 @@
 
 Hero of Homer's *[Odyssey](../works/odyssey-homer.md)*, Odysseus is the king of Ithaca held ten years far from home after the Trojan War, whose end his ruse of the wooden horse had precipitated. Where the Achilles of the *[Iliad](../works/iliad-homer.md)* embodies force and brief glory, Odysseus is the hero of cunning intelligence, patience and return: his epic is no conquest but a long crossing of trials, temptations and traps toward his home, his wife Penelope and his kingdom. An inexhaustible figure, he was in turn raised into an enduring sage by the [Stoics](../movements/stoicism.md), damned as a sacrilegious explorer by Dante, reread by [Horkheimer](../philosophers/horkheimer.md) and [Adorno](../philosophers/adorno.md), in Dialectic of Enlightenment, as the first face of [instrumental reason](../glossary/raison-instrumentale.md), and transposed by Joyce into a single Dublin day.
 
+**External links** : [Wikipedia](https://en.wikipedia.org/wiki/Odysseus) · [Wikidata](https://www.wikidata.org/wiki/Q47231)
+
 ## Core positions
 
 1. [Letter or spirit of the rule](../axes/rule-spirit.md) : **Where force shatters, cunning opens a way through: to each situation its own feint, and the intelligence that fits the particular case is worth more than the courage that charges in.**

@@ -6,6 +6,8 @@
 
 An itinerant master of Spring-and-Autumn China (sixth to fifth century BCE), born in the small state of Lu in an age of warfare and of the unravelling of the Zhou feudal order. A magistrate for a time, then a wandering counsellor vainly seeking a ruler to apply his views, he formed disciples above all: his sayings, collected after his death in the Analects (Lunyu), are the primary source of his thought and ground [Confucianism](../movements/confucianism.md). To the disorder of his age his answer is neither religious nor legal but ethical: to reform the person and the relationships so as to regenerate society, through the study of the Ancients and self-cultivation. Regarded as China's first educator and later raised into the tutelary figure of the imperial state, which made his texts the basis of the mandarin examinations, he remains a major reference of East Asian cultures.
 
+**External links** : [Wikipedia](https://en.wikipedia.org/wiki/Confucius) · [Wikidata](https://www.wikidata.org/wiki/Q4604)
+
 ## Core positions
 
 1. [Partiality](../axes/partiality.md) : **One becomes humane only by first loving one's own: xiao (filial piety) is the root of ren 仁 (humaneness), and affection must stay graded, not spread equally over all.**

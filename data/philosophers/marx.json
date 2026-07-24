@@ -1128,6 +1128,13 @@
       }
     }
   ],
+  "identity": {
+    "wikidata": "Q9061",
+    "wikipedia": {
+      "fr": "https://fr.wikipedia.org/wiki/Karl_Marx",
+      "en": "https://en.wikipedia.org/wiki/Karl_Marx"
+    }
+  },
   "updatedAt": "2026-07-19T00:00:00.000Z",
   "validation": {
     "method": "NOT_VALIDATED"

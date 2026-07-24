@@ -500,6 +500,13 @@
       }
     }
   ],
+  "identity": {
+    "wikidata": "Q83368",
+    "wikipedia": {
+      "fr": "https://fr.wikipedia.org/wiki/Empirisme",
+      "en": "https://en.wikipedia.org/wiki/Empiricism"
+    }
+  },
   "updatedAt": "2026-06-24T00:00:00.000Z",
   "validation": {
     "method": "NOT_VALIDATED"

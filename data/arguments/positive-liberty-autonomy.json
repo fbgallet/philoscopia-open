@@ -1,0 +1,94 @@
+{
+  "id": "positive-liberty-autonomy",
+  "kind": "SUPPORTS",
+  "position": {
+    "axisId": "POLITICAL_LIBERTY",
+    "poleId": "POSITIVE_LIBERTY"
+  },
+  "name": {
+    "fr": "L'argument de la loi qu'on se prescrit",
+    "en": "The self-prescribed law argument"
+  },
+  "claim": {
+    "fr": "Être libre, c'est être l'auteur de sa vie et des règles qu'on suit, et non pas seulement n'être pas gêné.",
+    "en": "To be free is to be the author of one's life and of the rules one follows, not merely to be left alone."
+  },
+  "development": [
+    {
+      "fr": "On peut n'être soumis à aucune entrave et pourtant être mené de bout en bout : par ses impulsions, par la mode, par l'opinion. Personne ne dira d'une telle personne qu'elle se gouverne elle-même.",
+      "en": "One can be under no constraint and yet be led from start to finish: by impulses, by fashion, by opinion. No one would call such a person self-governing."
+    },
+    {
+      "fr": "Ce qui lui manque n'est pas un espace plus grand, mais la <kw>maîtrise</kw> : agir selon des raisons et des règles qu'elle reconnaît pour siennes après examen.",
+      "en": "What they lack is not a larger space but <kw>self-mastery</kw>: acting on reasons and rules they recognize as their own upon examination."
+    },
+    {
+      "fr": "La même exigence vaut dans la cité, où il y a de toute façon des règles communes : celui qui ne prend aucune part à leur formation les subit comme une volonté étrangère, si légères qu'elles pèsent.",
+      "en": "The same demand holds in the city, where there are common rules in any case: whoever takes no part in shaping them undergoes them as an alien will, however lightly they weigh."
+    },
+    {
+      "fr": "Prendre part à l'élaboration des lois, non pour y faire prévaloir son intérêt mais pour chercher avec les autres une règle bonne pour tous (la <c id='volonte-generale'>volonté générale</c>), change la nature de l'obéissance : obéir à la <kw>loi qu'on s'est prescrite</kw>, ce n'est plus obéir à un autre.",
+      "en": "Taking part in making the laws, not to press one's own interest but to seek with others a rule good for all (the <c id='volonte-generale'>general will</c>), changes the nature of obedience: to obey a <kw>law one has prescribed to oneself</kw> is no longer to obey another."
+    }
+  ],
+  "conclusion": {
+    "fr": "Est libre celui qui est l'auteur, et non le simple sujet, des règles qu'il suit, dans sa vie comme dans sa cité.",
+    "en": "Free is the one who authors, rather than merely receives, the rules they follow, in their life as in their city."
+  },
+  "difficulty": 1,
+  "source": {
+    "author": {
+      "fr": "Rousseau",
+      "en": "Rousseau"
+    },
+    "figures": [
+      {
+        "name": {
+          "fr": "Rousseau",
+          "en": "Rousseau"
+        },
+        "kind": "PHILOSOPHER",
+        "slug": "rousseau"
+      }
+    ],
+    "work": {
+      "fr": "Du contrat social, I, 8",
+      "en": "The Social Contract, I, 8"
+    },
+    "year": 1762
+  },
+  "deepenings": [
+    {
+      "id": "moral-liberty",
+      "label": {
+        "fr": "La liberté morale, chez Rousseau",
+        "en": "Moral liberty, in Rousseau"
+      },
+      "targetStep": 1,
+      "development": [
+        {
+          "fr": "<ph id='rousseau'>Rousseau</ph> distingue la <kw>liberté naturelle</kw>, faire ce qui me tente, de la <kw>liberté morale</kw> : <q>l'impulsion du seul appétit est esclavage, et l'obéissance à la loi qu'on s'est prescrite est liberté</q>.",
+          "en": "<ph id='rousseau'>Rousseau</ph> distinguishes <kw>natural liberty</kw>, doing whatever tempts me, from <kw>moral liberty</kw>: <q>the impulse of mere appetite is slavery, and obedience to the law one has prescribed to oneself is liberty</q>."
+        },
+        {
+          "fr": "Seule la vie sous des règles qu'on a examinées et faites siennes rend « maître de soi » : la cité n'est pas une gêne pour cette liberté, elle en est l'école.",
+          "en": "Only life under rules one has examined and made one's own yields self-mastery: the city is not a hindrance to this liberty, it is its school."
+        }
+      ],
+      "source": {
+        "author": {
+          "fr": "Rousseau",
+          "en": "Rousseau"
+        },
+        "work": {
+          "fr": "Du contrat social, I, 8",
+          "en": "The Social Contract, I, 8"
+        },
+        "year": 1762
+      }
+    }
+  ],
+  "problems": ["law-and-freedom", "ancients-and-moderns"],
+  "test": "forced-to-be-free-objection",
+  "updatedAt": "2026-07-24T00:00:00.000Z"
+}

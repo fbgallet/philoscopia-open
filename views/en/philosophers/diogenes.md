@@ -6,6 +6,8 @@
 
 The most famous figure of [Cynicism](../movements/cynicism.md), Diogenes was born in Sinope, on the Black Sea, from which he was banished, it is said, over a matter of debased coinage, before leading in Athens and then Corinth the life of a philosopher-beggar. He traces back to Socrates through Antisthenes, whose teaching he radicalised into provocation: he lived in a jar, owning only a cloak, a satchel and a staff, and made public scandal his method. Plato is said to have called him "a Socrates gone mad". He left no certain writings, and all our knowledge of him passes through the anecdotes (chreiai) reported three centuries later by Diogenes Laertius in Book VI of his Lives of Eminent Philosophers, which leaves the line between the man and the legend uncertain. Through his pupil Crates, who taught Zeno of Citium, his ethics of virtue and his cosmopolitanism passed into [Stoicism](../movements/stoicism.md).
 
+**External links** : [Wikipedia](https://en.wikipedia.org/wiki/Diogenes) · [Wikidata](https://www.wikidata.org/wiki/Q59180)
+
 ## Core positions
 
 1. [Scope of action](../axes/control-scope.md) : **Whoever desires nothing external depends on no one: [self-sufficiency](../glossary/autarkeia.md) makes the most destitute of men freer than the mightiest of kings.**

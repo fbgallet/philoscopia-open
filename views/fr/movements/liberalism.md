@@ -6,6 +6,8 @@
 
 Tradition politique née avec [Locke](../philosophers/locke.md) et la révolution anglaise, qui place l'individu, ses [libertés](../axes/political-liberty.md) et ses droits au principe de l'ordre politique. Contre l'absolutisme, elle tient que le pouvoir procède du consentement des gouvernés, qu'il doit rester limité et rendre des comptes, et qu'une sphère de la vie privée échappe de droit à l'État. [Mill](../philosophers/mill.md) en donne la charte avec le principe de non-nuisance ; Constant et [Berlin](../philosophers/berlin.md) la pensent comme liberté des modernes et liberté négative ; [Rawls](../philosophers/rawls.md) la refonde au XXe siècle en conciliant libertés fondamentales et justice sociale. Famille plurielle, du libéralisme économique de [Smith](../philosophers/adam-smith.md) au libéralisme social, elle partage le refus de sacrifier l'individu au tout.
 
+**Liens externes** : [Wikipédia](https://fr.wikipedia.org/wiki/Lib%C3%A9ralisme) · [Wikidata](https://www.wikidata.org/wiki/Q6216)
+
 **Figures majeures** : [Locke](../philosophers/locke.md) · [Mill](../philosophers/mill.md) · [Rawls](../philosophers/rawls.md)
 
 ## Positions structurantes

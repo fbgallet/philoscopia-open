@@ -451,6 +451,13 @@
       }
     }
   ],
+  "identity": {
+    "wikidata": "Q236594",
+    "wikipedia": {
+      "fr": "https://fr.wikipedia.org/wiki/Sextus_Empiricus",
+      "en": "https://en.wikipedia.org/wiki/Sextus_Empiricus"
+    }
+  },
   "updatedAt": "2026-06-29T00:00:00.000Z",
   "validation": {
     "method": "NOT_VALIDATED"

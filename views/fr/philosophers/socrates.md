@@ -6,6 +6,8 @@
 
 Figure inaugurale de la philosophie occidentale, Athénien du Ve siècle avant notre ère qui n'écrivit rien : on ne le connaît qu'à travers ses disciples, surtout [Platon](../philosophers/plato.md) et Xénophon, la caricature qu'en donna le comique Aristophane et le témoignage d'[Aristote](../philosophers/aristotle.md), d'où le problème socratique, la difficulté de distinguer l'homme de ses portraits. Fils d'un tailleur de pierre et d'une accoucheuse, il délaissa l'étude de la nature pour interroger ses concitoyens sur la vertu, le juste et le beau, déambulant sur l'agora et pratiquant un questionnement serré, l'[elenchos](../glossary/elenchos.md), qui démasquait les fausses certitudes. Accusé d'impiété et de corrompre la jeunesse, il fut condamné à mort par un tribunal athénien et but la ciguë ; sa défense, rapportée par Platon dans l'*[Apologie](../works/apology-plato.md)*, en a fait le modèle du philosophe qui meurt pour sa mission. Il inspira directement les petites écoles socratiques, dont les [cyniques](../movements/cynicism.md), et, par Platon, toute la tradition ultérieure.
 
+**Liens externes** : [Wikipédia](https://fr.wikipedia.org/wiki/Socrate) · [Wikidata](https://www.wikidata.org/wiki/Q913)
+
 ## Positions structurantes
 
 1. [Intériorité](../axes/interiority.md) : **Une vie sans examen ne vaut pas la peine d'être vécue : se connaître et interroger sans relâche ses opinions est la tâche propre de l'homme.**

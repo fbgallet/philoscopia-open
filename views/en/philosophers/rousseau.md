@@ -6,6 +6,8 @@
 
 Born in Geneva in 1712, a self-taught man who became one of the greatest writers of the century, Jean-Jacques Rousseau holds a singular place within the [Enlightenment](../movements/enlightenment.md): a philosopher of the contract and of popular sovereignty, at first a contributor to the Encyclopédie, he nonetheless fell out with [Voltaire](../philosophers/voltaire.md), [Diderot](../philosophers/diderot.md) and [d'Alembert](../philosophers/d-alembert.md). His first Discourse argues that the sciences and arts have corrupted morals, and his whole work opposes to civilization the goodness of natural man. Through the popular sovereignty of the Social Contract, the education according to nature of Émile and the religion of the heart of the Savoyard vicar, he marks revolutionary thought and, by his cult of feeling and nature, heralds [Romanticism](../movements/romanticism.md). [Kant](../philosophers/kant.md), who called him « the Newton of the moral world », owes him his morality of autonomy.
 
+**External links** : [Wikipedia](https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau) · [Wikidata](https://www.wikidata.org/wiki/Q6527)
+
 ## Core positions
 
 1. [The origin of the social bond](../axes/social-contract.md) : **« Man is born free, and everywhere he is in chains »: only a pact in which each, uniting with all, obeys only himself can found a legitimate authority.**

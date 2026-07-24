@@ -6,6 +6,8 @@
 
 An English jurist and reformer of the late Enlightenment, founder of classical [utilitarianism](../movements/utilitarianism.md), heir to the [empiricism](../movements/empiricism.md) of [Locke](../philosophers/locke.md) and Hume and a reader of Helvétius and Beccaria. Faced with the arbitrariness of the common law and the tangle of the penal law of his day, he sought a single, measurable, secular criterion for judging laws and institutions, set out in his major book, An Introduction to the Principles of Morals and Legislation (1789). The animating figure of the circle of "philosophical radicals" and designer of the Panopticon, he left a lasting mark on law, economics and political reform; [Mill](../philosophers/mill.md) gathered and reshaped his legacy. His body, mummified at his own wish into an "auto-icon", is still kept at University College London.
 
+**External links** : [Wikipedia](https://en.wikipedia.org/wiki/Jeremy_Bentham) · [Wikidata](https://www.wikidata.org/wiki/Q60887)
+
 ## Core positions
 
 1. [Criterion of right action](../axes/ethics-foundation.md) : **A single rule judges every action, the [principle of utility](../glossary/greatest-happiness-principle.md): good is what tends to augment happiness, bad what tends to diminish it, and nothing else.**

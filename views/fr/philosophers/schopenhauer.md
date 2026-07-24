@@ -6,6 +6,8 @@
 
 Philosophe allemand, Schopenhauer publie à trente ans son unique système, *[Le Monde comme volonté et comme représentation](../works/the-world-as-will-and-representation-schopenhauer.md)* (1818), qui reste ignoré plus de trente ans avant que les *[Parerga et Paralipomena](../works/parerga-and-paralipomena-schopenhauer.md)* (1851) ne lui apportent une célébrité tardive. Héritier revendiqué de [Kant](../philosophers/kant.md) et de [Platon](../philosophers/plato.md), premier grand philosophe européen à intégrer les Upanishad et le [bouddhisme](../movements/buddhism.md) à sa pensée, il bâtit, contre l'optimisme spéculatif de [Hegel](../philosophers/hegel.md) qu'il combattit sa vie durant, une métaphysique du [vouloir-vivre](../glossary/vouloir-vivre.md) qui fait de la souffrance le fond de l'existence et cherche la délivrance du côté de l'art, de la [compassion](../glossary/compassion.md) et de l'[ascèse](../glossary/asceticism.md). Portée par une prose d'écrivain, sa philosophie a marqué [Nietzsche](../philosophers/nietzsche.md), [Freud](../philosophers/freud.md) et [Wittgenstein](../philosophers/wittgenstein.md) autant que les artistes, de Wagner à Thomas Mann.
 
+**Liens externes** : [Wikipédia](https://fr.wikipedia.org/wiki/Arthur_Schopenhauer) · [Wikidata](https://www.wikidata.org/wiki/Q38193)
+
 ## Positions structurantes
 
 1. [Nature du réel](../axes/reality-nature.md) : **Le monde est [représentation](../glossary/representation.md) pour un sujet et, en son fond, Volonté : un vouloir aveugle, sans raison ni but, dont notre corps est la manifestation immédiate.**

@@ -129,6 +129,13 @@
       }
     }
   ],
+  "identity": {
+    "wikidata": "Q6216",
+    "wikipedia": {
+      "fr": "https://fr.wikipedia.org/wiki/Lib%C3%A9ralisme",
+      "en": "https://en.wikipedia.org/wiki/Liberalism"
+    }
+  },
   "updatedAt": "2026-07-03T00:00:00.000Z",
   "validation": {
     "method": "NOT_VALIDATED"

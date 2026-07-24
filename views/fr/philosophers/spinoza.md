@@ -6,6 +6,8 @@
 
 Penseur [rationaliste](../movements/rationalism.md) du Siècle d'or hollandais, héritier de [Descartes](../philosophers/descartes.md) et de la tradition juive d'Amsterdam, dont sa communauté l'exclut à vingt-trois ans pour ses idées. Polisseur de lentilles refusant les honneurs académiques, il expose dans *[l'Éthique](../works/ethics-spinoza.md)*, écrite **more geometrico** et publiée après sa mort, un système qui part de Dieu pour repenser la liberté, les passions et le bonheur. Longtemps maudit comme athée, il est redécouvert au XIXe siècle et demeure une référence majeure de la philosophie de l'immanence.
 
+**Liens externes** : [Wikipédia](https://fr.wikipedia.org/wiki/Baruch_Spinoza) · [Wikidata](https://www.wikidata.org/wiki/Q35802)
+
 ## Positions structurantes
 
 1. [Où réside le sacré](../axes/transcendence.md) : **Il n'existe qu'une seule substance, [Dieu ou la Nature](../glossary/immanence.md) : rien n'existe hors d'elle, et aucun arrière-monde ne double le réel.**

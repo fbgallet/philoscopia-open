@@ -6,6 +6,8 @@
 
 A Greek philosopher of the Hellenistic age, Epicurus founded the school of the Garden in Athens around 306 BCE, a community open to women and slaves where one lived withdrawn from the city. In a world unsettled by the fall of the free cities, he conceived philosophy as a medicine of the soul: “empty is the word of the philosopher that heals no human suffering”. Taking up the atomism of Democritus, he drew from it a physics meant to free men from the fear of the gods and of death, and grounded his whole ethics on the analysis of [pleasure](../glossary/hedonism.md). His work, almost entirely lost, reaches us through three letters and the *[Principal Doctrines](../works/principal-doctrines-epicurus.md)* preserved by Diogenes Laertius, and above all through the great poem of Lucretius. Long caricatured as a sensualist and charged with impiety, Epicureanism was one of antiquity's main currents, rival to [Stoicism](../movements/stoicism.md), and nourished modern materialist thought.
 
+**External links** : [Wikipedia](https://en.wikipedia.org/wiki/Epicurus) · [Wikidata](https://www.wikidata.org/wiki/Q43216)
+
 ## Core positions
 
 1. [The highest good](../axes/sovereign-good.md) : **The sovereign good is [pleasure](../glossary/hedonism.md), but true pleasure is not enjoyment: it is [ataraxia](../glossary/ataraxia.md), the stable state in which, once all pain is removed, nothing more is lacking.**

@@ -730,6 +730,13 @@
       }
     }
   ],
+  "identity": {
+    "wikidata": "Q41568",
+    "wikipedia": {
+      "fr": "https://fr.wikipedia.org/wiki/Michel_de_Montaigne",
+      "en": "https://en.wikipedia.org/wiki/Michel_de_Montaigne"
+    }
+  },
   "updatedAt": "2026-07-19T00:00:00.000Z",
   "validation": {
     "method": "NOT_VALIDATED"

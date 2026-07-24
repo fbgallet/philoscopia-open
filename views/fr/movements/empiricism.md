@@ -6,6 +6,8 @@
 
 Courant majeur de la philosophie britannique des XVIIe et XVIIIe siècles, l'empirisme classique répond à une question d'épistémologie : d'où l'esprit tire-t-il son contenu, et jusqu'où la connaissance peut-elle s'étendre ? Annoncé par la méthode expérimentale de Francis Bacon, il prend forme avec l'*[Essai](../works/essay-concerning-human-understanding-locke.md)* de [Locke](../philosophers/locke.md) (1689), qui entreprend d'inventorier l'origine et les bornes de l'entendement, puis se radicalise avec l'idéalisme de Berkeley et culmine dans l'analyse de [Hume](../philosophers/hume.md), qui étend la méthode aux impressions et à leurs idées. Sa méthode est l'analyse régressive : décomposer toute notion jusqu'à l'expérience dont elle dérive, faute de quoi on la tient pour creuse. L'école se construit en réplique au [rationalisme](../axes/knowledge-source.md) continental de [Descartes](../philosophers/descartes.md) et [Leibniz](../philosophers/leibniz.md), accompagne l'essor de la philosophie naturelle expérimentale, et réveille [Kant](../philosophers/kant.md), qui dira lui devoir sa sortie du « sommeil dogmatique » avant d'en chercher la synthèse avec le rationalisme. Sa postérité court jusqu'à l'empirisme logique du XXe siècle et à l'analyse du langage.
 
+**Liens externes** : [Wikipédia](https://fr.wikipedia.org/wiki/Empirisme) · [Wikidata](https://www.wikidata.org/wiki/Q83368)
+
 **Figures majeures** : [Francis Bacon](../philosophers/bacon.md) · [John Locke](../philosophers/locke.md) · [George Berkeley](../philosophers/berkeley.md) · [David Hume](../philosophers/hume.md)
 
 ## Positions structurantes

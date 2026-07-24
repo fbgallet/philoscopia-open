@@ -6,6 +6,8 @@
 
 A German philosopher, Schopenhauer published his single system at thirty, *[The World as Will and Representation](../works/the-world-as-will-and-representation-schopenhauer.md)* (1818), which went ignored for more than thirty years before the *[Parerga and Paralipomena](../works/parerga-and-paralipomena-schopenhauer.md)* (1851) brought him late fame. An avowed heir of [Kant](../philosophers/kant.md) and [Plato](../philosophers/plato.md), and the first major European philosopher to draw the Upanishads and [Buddhism](../movements/buddhism.md) into his thought, he built, against the speculative optimism of [Hegel](../philosophers/hegel.md) whom he fought all his life, a metaphysics of the [will-to-live](../glossary/vouloir-vivre.md) that makes suffering the ground of existence and seeks deliverance in art, [compassion](../glossary/compassion.md), and [asceticism](../glossary/asceticism.md). Written in a novelist's prose, his philosophy marked [Nietzsche](../philosophers/nietzsche.md), [Freud](../philosophers/freud.md), and [Wittgenstein](../philosophers/wittgenstein.md) as much as artists, from Wagner to Thomas Mann.
 
+**External links** : [Wikipedia](https://en.wikipedia.org/wiki/Arthur_Schopenhauer) · [Wikidata](https://www.wikidata.org/wiki/Q38193)
+
 ## Core positions
 
 1. [Nature of reality](../axes/reality-nature.md) : **The world is [representation](../glossary/representation.md) for a subject and, at bottom, Will: a blind willing, without reason or goal, of which our body is the immediate manifestation.**

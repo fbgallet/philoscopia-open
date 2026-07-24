@@ -6,6 +6,8 @@
 
 L'Éveillé, fondateur du [bouddhisme](../movements/buddhism.md), maître errant du nord-est de l'Inde dont la tradition situe la vie entre 563 et 483 avant notre ère, dates traditionnelles et débattues. Né prince du clan des Shakya, la tradition le montre quittant son palais à la vue de la maladie, de la vieillesse et de la mort, puis menant six ans la vie d'un renonçant et d'un ascète avant de connaître l'éveil sous l'arbre de la Bodhi, à Bodh Gaya. Il prêche d'abord à Bénarès, rassemble autour de lui une communauté de moines et de laïcs, la communauté (saṅgha), et enseigne quarante ans durant. Sa parole, d'abord transmise oralement, est fixée des siècles plus tard dans les discours (suttas) du Canon pāli. Son enseignement part d'un constat, l'omniprésence du mal-être dans l'existence, et cherche moins à expliquer le monde qu'à en délivrer : aux grandes questions métaphysiques qui n'aident pas à cette délivrance, Gautama oppose un **silence** délibéré, comme le blessé d'une flèche n'a pas à connaître l'archer avant qu'on l'extraie. Diffusé du Sri Lanka à l'Asie de l'Est, son enseignement a donné naissance à l'une des grandes traditions philosophiques et spirituelles du monde.
 
+**Liens externes** : [Wikipédia](https://fr.wikipedia.org/wiki/Siddhartha_Gautama) · [Wikidata](https://www.wikidata.org/wiki/Q9441)
+
 ## Positions structurantes
 
 1. [Nature du moi](../axes/self-nature.md) : **Il n'y a pas de moi : ce qu'on nomme « soi » n'est qu'un faisceau impermanent d'agrégats, et chercher au fond de soi un [ātman](../glossary/atman.md) permanent, c'est courir après une illusion.**

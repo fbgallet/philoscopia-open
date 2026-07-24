@@ -1,0 +1,18 @@
+{
+  "id": "paternalisme",
+  "term": {
+    "fr": "Paternalisme",
+    "en": "Paternalism"
+  },
+  "aliases": {
+    "fr": ["paternaliste"],
+    "en": ["paternalistic", "paternalist"]
+  },
+  "definition": {
+    "fr": "Attitude ou politique qui contraint ou influence quelqu'un « pour son bien », comme un père le ferait pour ses enfants : ceinture de sécurité obligatoire, substances interdites, épargne forcée. Le paternalisme met en tension la bienveillance et l'autonomie : protéger les gens d'eux-mêmes, est-ce les servir ou les traiter en mineurs ? Depuis <ph id='mill'>Mill</ph>, le libéralisme lui oppose le principe du tort : la contrainte n'est légitime que pour empêcher de nuire à autrui, jamais pour imposer à quelqu'un son propre bien. On distingue enfin le paternalisme dur, qui passe outre un choix libre et éclairé, du paternalisme doux, qui n'intervient que quand le choix ne l'est pas ; quant au nudge, qui incite sans contraindre, il se réclame d'un « paternalisme libertarien ». La question traverse toute la <ax id='POLITICAL_LIBERTY'>liberté politique</ax>.",
+    "en": "An attitude or policy that constrains or steers someone \"for their own good\", as a father would his children: mandatory seatbelts, banned substances, forced savings. Paternalism sets benevolence against autonomy: is protecting people from themselves serving them, or treating them as minors? Since <ph id='mill'>Mill</ph>, liberalism has met it with the harm principle: coercion is legitimate only to prevent harm to others, never to impose on someone their own good. A final distinction sets hard paternalism, which overrides a free and informed choice, against soft paternalism, which steps in only when the choice is not fully voluntary or informed; as for the nudge, which steers without coercing, it claims the name of \"libertarian paternalism\". The question runs through the whole of <ax id='POLITICAL_LIBERTY'>political liberty</ax>."
+  },
+  "relatedAxes": ["POLITICAL_LIBERTY", "MORAL_DEMAND"],
+  "relatedTerms": ["negative-liberty", "positive-liberty"],
+  "updatedAt": "2026-07-24T00:00:00.000Z"
+}

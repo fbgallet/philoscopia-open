@@ -6,6 +6,8 @@
 
 Penseur [taoïste](../movements/taoism.md) chinois de la période des Royaumes combattants, traditionnellement situé au IVe siècle avant notre ère et présenté comme un petit fonctionnaire qui aurait refusé une charge ministérielle pour rester libre. Il donne son nom au *[Zhuangzi](../works/zhuangzi-zhuangzi.md)*, recueil composite dont les sept « Chapitres intérieurs » lui sont attribués : un tissu de paraboles, de dialogues et de provocations logiques où l'humour fait office d'argument. Là où [Laozi](../philosophers/laozi.md) énonce le [Dao](../glossary/dao.md) en aphorismes cosmiques et politiques, Zhuangzi le radicalise sur le terrain de l'existence singulière et de la connaissance : il y mène une critique des distinctions, du langage et de l'utilité dont le rêve du papillon, le boucher Ding et le bonheur des poissons sont les emblèmes. En réaction au moralisme [confucéen](../philosophers/confucius.md) et au logicien [Hui Shi](../philosophers/hui-shi.md), son interlocuteur favori, sa pensée a irrigué le bouddhisme chan (zen) et inspiré toute une tradition de spontanéité poétique et picturale.
 
+**Liens externes** : [Wikipédia](https://fr.wikipedia.org/wiki/Tchouang-tseu) · [Wikidata](https://www.wikidata.org/wiki/Q47739)
+
 ## Positions structurantes
 
 1. [Statut des normes (métaéthique)](../axes/moral-scope.md) : **Le vrai et le faux, le beau et le laid n'existent que d'un point de vue : « égalise » les perspectives au lieu de tenir la tienne pour la mesure de tout.**

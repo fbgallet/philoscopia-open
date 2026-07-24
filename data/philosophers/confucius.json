@@ -936,6 +936,13 @@
       }
     }
   ],
+  "identity": {
+    "wikidata": "Q4604",
+    "wikipedia": {
+      "fr": "https://fr.wikipedia.org/wiki/Confucius",
+      "en": "https://en.wikipedia.org/wiki/Confucius"
+    }
+  },
   "updatedAt": "2026-06-24T00:00:00.000Z",
   "validation": {
     "method": "NOT_VALIDATED"

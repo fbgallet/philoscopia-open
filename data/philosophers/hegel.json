@@ -529,6 +529,13 @@
       }
     }
   ],
+  "identity": {
+    "wikidata": "Q9235",
+    "wikipedia": {
+      "fr": "https://fr.wikipedia.org/wiki/Georg_Wilhelm_Friedrich_Hegel",
+      "en": "https://en.wikipedia.org/wiki/Georg_Wilhelm_Friedrich_Hegel"
+    }
+  },
   "updatedAt": "2026-07-22T00:00:00.000Z",
   "validation": { "method": "NOT_VALIDATED" }
 }

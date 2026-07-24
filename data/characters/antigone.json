@@ -162,6 +162,13 @@
       }
     }
   ],
+  "identity": {
+    "wikidata": "Q131351",
+    "wikipedia": {
+      "fr": "https://fr.wikipedia.org/wiki/Antigone_fille_d%27%C5%92dipe",
+      "en": "https://en.wikipedia.org/wiki/Antigone"
+    }
+  },
   "updatedAt": "2026-06-24T00:00:00.000Z",
   "validation": { "method": "NOT_VALIDATED" }
 }

@@ -6,6 +6,8 @@
 
 Courant né au XXe siècle de la crise écologique et de la question animale, qui conteste l'anthropocentrisme dominant : la valeur morale ne s'arrête pas à l'humanité. [Leopold](../philosophers/leopold.md) et sa land ethic étendent la communauté morale aux sols, aux eaux et aux espèces ; [Næss](../philosophers/naess.md) fonde l'écologie profonde sur la valeur propre de tout vivant et l'homme comme membre parmi d'autres ; [Singer](../philosophers/singer.md) et [Regan](../philosophers/regan.md) portent la cause animale, l'un au nom de la souffrance, l'autre des droits ; [Schweitzer](../philosophers/schweitzer.md) prêche le respect de la vie, [Jonas](../philosophers/jonas.md) une responsabilité envers les générations futures. Famille traversée de tensions, du souci de l'individu sensible à celui des touts écologiques, elle partage le refus de tenir la nature pour une simple ressource.
 
+**Liens externes** : [Wikipédia](https://fr.wikipedia.org/wiki/%C3%89thique_de_l%27environnement) · [Wikidata](https://www.wikidata.org/wiki/Q875686)
+
 **Figures majeures** : [Leopold](../philosophers/leopold.md) · [Næss](../philosophers/naess.md) · [Singer](../philosophers/singer.md)
 
 ## Positions structurantes

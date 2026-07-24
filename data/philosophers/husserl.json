@@ -305,6 +305,13 @@
       }
     }
   ],
+  "identity": {
+    "wikidata": "Q58586",
+    "wikipedia": {
+      "fr": "https://fr.wikipedia.org/wiki/Edmund_Husserl",
+      "en": "https://en.wikipedia.org/wiki/Edmund_Husserl"
+    }
+  },
   "updatedAt": "2026-06-29T00:00:00.000Z",
   "validation": {
     "method": "NOT_VALIDATED"

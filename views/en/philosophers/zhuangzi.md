@@ -6,6 +6,8 @@
 
 A Chinese [Taoist](../movements/taoism.md) thinker of the Warring States period, traditionally placed in the fourth century BCE and presented as a minor official who is said to have refused a ministerial post to keep his freedom. He gives his name to the *[Zhuangzi](../works/zhuangzi-zhuangzi.md)*, a composite collection whose seven "Inner Chapters" are ascribed to him: a fabric of parables, dialogues and logical provocations in which humor does the work of argument. Where [Laozi](../philosophers/laozi.md) states the [Dao](../glossary/dao.md) in cosmic and political aphorisms, Zhuangzi radicalizes it on the terrain of singular existence and of knowledge: he mounts a critique of distinctions, of language and of usefulness whose emblems are the butterfly dream, Cook Ding and the happiness of fish. Reacting against [Confucian](../philosophers/confucius.md) moralism and against the logician [Hui Shi](../philosophers/hui-shi.md), his favorite foil, his thought shaped Chan (Zen) Buddhism and inspired a whole tradition of poetic and pictorial spontaneity.
 
+**External links** : [Wikipedia](https://en.wikipedia.org/wiki/Zhuang_Zhou) · [Wikidata](https://www.wikidata.org/wiki/Q47739)
+
 ## Core positions
 
 1. [Status of norms (metaethics)](../axes/moral-scope.md) : **True and false, beautiful and ugly exist only from a standpoint: "equalize" the perspectives instead of taking yours for the measure of all.**

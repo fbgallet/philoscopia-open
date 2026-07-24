@@ -6,6 +6,8 @@
 
 Mathématicien, physicien et philosophe français, formé chez les jésuites de La Flèche puis longtemps installé aux Provinces-Unies, où il publie l'essentiel de son œuvre à l'écart des autorités universitaires. Tenu pour le père de la philosophie moderne et fondateur du [rationalisme](../movements/rationalism.md) continental, il rompt avec la scolastique aristotélicienne héritée du Moyen Âge et entreprend, dans le *[Discours de la méthode](../works/meditations-descartes.md)* puis les *[Méditations métaphysiques](../works/meditations-descartes.md)*, de refonder l'ensemble du savoir sur une méthode unique inspirée des mathématiques. Inventeur de la géométrie analytique, il prépare la physique mécaniste qui culminera chez Newton. Sa pensée suscite aussitôt débats et objections, de [Spinoza](../philosophers/spinoza.md) à [Leibniz](../philosophers/leibniz.md), et structure encore les querelles modernes sur l'esprit, le corps et la connaissance.
 
+**Liens externes** : [Wikipédia](https://fr.wikipedia.org/wiki/Ren%C3%A9_Descartes) · [Wikidata](https://www.wikidata.org/wiki/Q9191)
+
 ## Positions structurantes
 
 1. [L'énigme de la conscience](../axes/consciousness-nature.md) : **L'esprit et le corps sont deux substances réellement distinctes : je puis concevoir la chose pensante sans rien de corporel, donc mon essence est de penser, non d'être étendu.**

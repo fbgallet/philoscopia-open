@@ -620,6 +620,13 @@
       }
     }
   ],
+  "identity": {
+    "wikidata": "Q9441",
+    "wikipedia": {
+      "fr": "https://fr.wikipedia.org/wiki/Siddhartha_Gautama",
+      "en": "https://en.wikipedia.org/wiki/The_Buddha"
+    }
+  },
   "updatedAt": "2026-07-19T00:00:00.000Z",
   "validation": {
     "method": "NOT_VALIDATED"

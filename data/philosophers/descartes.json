@@ -954,6 +954,13 @@
       }
     }
   ],
+  "identity": {
+    "wikidata": "Q9191",
+    "wikipedia": {
+      "fr": "https://fr.wikipedia.org/wiki/Ren%C3%A9_Descartes",
+      "en": "https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes"
+    }
+  },
   "updatedAt": "2026-07-19T00:00:00.000Z",
   "validation": {
     "method": "NOT_VALIDATED"

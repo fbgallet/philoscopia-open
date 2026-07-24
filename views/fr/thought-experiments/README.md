@@ -6,6 +6,7 @@
 - [Chacun ses coutumes ?](funeral-customs.md) (Hérodote)
 - [L'anneau de Gygès](ring-of-gyges.md) (Platon)
 - [L'enfant qui se noie](drowning-child.md) (Singer)
+- [L'esclave du bon maître](the-kind-master.md) (Philip Pettit, d'après la tradition républicaine)
 - [L'éternel retour](the-eternal-return.md) (Nietzsche)
 - [L'expérience de Milgram](milgram.md) (Stanley Milgram)
 - [La barrière de Chesterton](chestertons-fence.md) (G.K. Chesterton)

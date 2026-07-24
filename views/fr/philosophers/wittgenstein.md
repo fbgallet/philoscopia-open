@@ -6,6 +6,8 @@
 
 Figure centrale de la [philosophie analytique](../movements/analytic-philosophy.md), il l'a bouleversée deux fois. Ingénieur devenu logicien auprès de [Russell](../philosophers/russell.md) à Cambridge, il écrit au front et en captivité durant la Grande Guerre le *[Tractatus logico-philosophicus](../works/tractatus-logico-philosophicus-wittgenstein.md)* (1921), croit avoir résolu tous les problèmes philosophiques et quitte la discipline : il donne sa fortune, enseigne dans des villages autrichiens. Revenu à Cambridge en 1929, il retourne sa première pensée dans les *[Recherches philosophiques](../works/philosophical-investigations-wittgenstein.md)* (posthumes, 1953), abandonnant la théorie du langage-image pour les « jeux de langage » et le sens comme usage. De ces deux Wittgenstein sont sortis le positivisme logique, la philosophie du langage ordinaire et une part de la philosophie de l'esprit contemporaine.
 
+**Liens externes** : [Wikipédia](https://fr.wikipedia.org/wiki/Ludwig_Wittgenstein) · [Wikidata](https://www.wikidata.org/wiki/Q9391)
+
 ## Positions structurantes
 
 1. [Le but de la philosophie](../axes/metaphilosophy.md) : **La philosophie n'est pas une doctrine mais une activité : elle ne découvre pas de vérités et ne bâtit pas de théories : elle clarifie, et dissout les faux problèmes nés des pièges du langage au lieu de les résoudre.**

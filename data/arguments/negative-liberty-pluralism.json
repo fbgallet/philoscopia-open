@@ -1,0 +1,109 @@
+{
+  "id": "negative-liberty-pluralism",
+  "kind": "SUPPORTS",
+  "position": {
+    "axisId": "POLITICAL_LIBERTY",
+    "poleId": "NEGATIVE_LIBERTY"
+  },
+  "name": {
+    "fr": "L'argument du pluralisme des fins",
+    "en": "The plurality-of-ends argument"
+  },
+  "claim": {
+    "fr": "Être libre, c'est n'être pas empêché : toute définition plus riche de la liberté ouvre la porte à la contrainte exercée en son nom.",
+    "en": "To be free is not to be prevented: any richer definition of liberty opens the door to coercion exercised in its name."
+  },
+  "development": [
+    {
+      "fr": "Les fins humaines sont <kw>plurielles et souvent incompatibles</kw> : la sainteté, la création, la réussite, le plaisir ou le service des autres ne se laissent ni classer ni combiner en une seule vie bonne.",
+      "en": "Human ends are <kw>plural and often incompatible</kw>: sainthood, creation, success, pleasure, or the service of others cannot be ranked or combined into a single good life."
+    },
+    {
+      "fr": "Nul tiers, État, majorité ou sage, ne peut se prévaloir d'un savoir supérieur sur la fin que je devrais poursuivre : présumer le contraire, c'est déjà du <c id='paternalisme'>paternalisme</c>.",
+      "en": "No third party, whether state, majority, or sage, can claim superior knowledge of the end I ought to pursue: to presume otherwise is already <c id='paternalisme'>paternalism</c>."
+    },
+    {
+      "fr": "Toute définition plus « riche » de la liberté (<c id='positive-liberty'>se gouverner selon sa raison</c>, réaliser son vrai moi, vivre vertueusement) incorpore une conception particulière de la vie bonne : elle rend donc possible de déclarer « non libre » celui qui vit autrement, et de le contraindre au nom de sa propre liberté, pente que l'histoire a dévalée plus d'une fois.",
+      "en": "Any \"thicker\" definition of liberty (<c id='positive-liberty'>governing oneself by reason</c>, realizing one's true self, living virtuously) builds in one particular conception of the good life: it thereby makes it possible to declare those who live otherwise \"unfree\", and to coerce them in the name of their own freedom, a slope history has slid down more than once."
+    },
+    {
+      "fr": "La définition <c id='negative-liberty'>négative</c> est celle qui préjuge le moins des fins : est libre celui qu'autrui n'empêche pas d'agir selon ses propres choix. Elle suppose seulement qu'on tienne à cette latitude, non une conception de la vie bonne.",
+      "en": "The <c id='negative-liberty'>negative</c> definition is the one that prejudges ends least: free is the person whom others do not prevent from acting on their own choices. It assumes only that this latitude matters, not any conception of the good life."
+    }
+  ],
+  "conclusion": {
+    "fr": "Être libre, c'est n'être pas entravé par autrui : la société doit garantir à chacun son périmètre, non prescrire l'usage qu'il en fait.",
+    "en": "To be free is to be unhindered by others: society must guarantee each person's perimeter, not prescribe the use they make of it."
+  },
+  "difficulty": 2,
+  "source": {
+    "author": {
+      "fr": "Isaiah Berlin",
+      "en": "Isaiah Berlin"
+    },
+    "figures": [
+      {
+        "name": {
+          "fr": "Berlin",
+          "en": "Berlin"
+        },
+        "kind": "PHILOSOPHER",
+        "slug": "berlin"
+      }
+    ],
+    "work": {
+      "fr": "« Deux concepts de liberté »",
+      "en": "\"Two Concepts of Liberty\""
+    },
+    "year": 1958
+  },
+  "deepenings": [
+    {
+      "id": "experiments-of-living",
+      "label": {
+        "fr": "Les « expériences de vie »",
+        "en": "\"Experiments of living\""
+      },
+      "targetStep": 0,
+      "development": [
+        {
+          "fr": "Nul ne sait d'avance quelles vies valent d'être vécues : <ph id='mill'>Mill</ph> défend la diversité des « expériences de vie » comme le seul chemin de découverte, à la manière dont la science a besoin de la diversité des hypothèses.",
+          "en": "No one knows in advance which lives are worth living: <ph id='mill'>Mill</ph> defends the diversity of \"experiments of living\" as the only path of discovery, the way science needs a diversity of hypotheses."
+        },
+        {
+          "fr": "Interdire une manière de vivre qui ne lèse personne d'autre, c'est donc fermer une expérience dont tous, y compris ses adversaires, auraient pu apprendre.",
+          "en": "To forbid a way of living that wrongs no one else is therefore to close down an experiment from which everyone, its opponents included, might have learned."
+        }
+      ],
+      "conclusion": {
+        "fr": "La pluralité protégée des manières de vivre est une condition du progrès de tous.",
+        "en": "The protected plurality of ways of living is a condition of everyone's progress."
+      },
+      "source": {
+        "author": {
+          "fr": "Mill",
+          "en": "Mill"
+        },
+        "figures": [
+          {
+            "name": {
+              "fr": "Mill",
+              "en": "Mill"
+            },
+            "kind": "PHILOSOPHER",
+            "slug": "mill"
+          }
+        ],
+        "work": {
+          "fr": "De la liberté, chap. III",
+          "en": "On Liberty, ch. III"
+        },
+        "workId": "on-liberty-mill",
+        "year": 1859
+      }
+    }
+  ],
+  "problems": ["forced-to-be-free"],
+  "testThoughtExperiment": "the-kind-master",
+  "updatedAt": "2026-07-24T00:00:00.000Z"
+}

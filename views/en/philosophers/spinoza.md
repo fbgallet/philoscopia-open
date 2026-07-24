@@ -6,6 +6,8 @@
 
 A [rationalist](../movements/rationalism.md) thinker of the Dutch Golden Age, heir to [Descartes](../philosophers/descartes.md) and to the Jewish tradition of Amsterdam, whose community excommunicated him at twenty-three for his ideas. A lens-grinder who declined academic honours, he set out in *[the Ethics](../works/ethics-spinoza.md)*, written **more geometrico** and published after his death, a system that starts from God to rethink freedom, the passions and happiness. Long cursed as an atheist, he was rediscovered in the nineteenth century and remains a major reference for the philosophy of immanence.
 
+**External links** : [Wikipedia](https://en.wikipedia.org/wiki/Baruch_Spinoza) · [Wikidata](https://www.wikidata.org/wiki/Q35802)
+
 ## Core positions
 
 1. [Where the sacred resides](../axes/transcendence.md) : **There is only one substance, [God, or Nature](../glossary/immanence.md): nothing exists outside it, and no world beyond doubles the real.**

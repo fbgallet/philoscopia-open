@@ -6,6 +6,8 @@
 
 Le Vedānta (« fin du Veda ») est la grande tradition qui interprète les Upaniṣad, ces textes spéculatifs qui closent le corpus védique, à travers le triple canon (prasthāna-traya) que forment ces Upaniṣad, les Brahma-Sūtra attribués à Bādarāyaṇa (vers le IIe siècle) et la Bhagavad-Gītā. Son école la plus influente, l'Advaita (« non-deux »), reçut sa forme systématique de Gauḍapāda puis surtout de Śaṅkara vers le VIIIe siècle, dans un contexte de débat serré avec le bouddhisme, dont elle reprend des outils tout en le combattant, et avec les écoles réalistes et dualistes (Nyāya, Sāṅkhya, Mīmāṃsā ritualiste). Le problème qu'elle affronte est celui de la saṃsāra et du karman : comment sortir définitivement du cycle des renaissances et de la souffrance qu'il porte. Le Vedānta n'est pas monolithique : aux côtés de l'Advaita non-dualiste se dressent le Viśiṣṭādvaita théiste de Rāmānuja (non-dualisme qualifié) et le Dvaita dualiste de Madhva, qui maintiennent une distinction réelle entre l'âme et Dieu. Porté à l'époque moderne par Vivekananda et le néo-vedānta, il est devenu l'une des matrices de l'hindouisme contemporain et la philosophie indienne la plus reçue en Occident, de [Schopenhauer](../philosophers/schopenhauer.md) aux spiritualités du XXe siècle.
 
+**Liens externes** : [Wikipédia](https://fr.wikipedia.org/wiki/Adva%C3%AFta_v%C3%A9danta) · [Wikidata](https://www.wikidata.org/wiki/Q2348383)
+
 **Figures majeures** : [Śaṅkara](../philosophers/shankara.md) · [Gauḍapāda](../philosophers/gaudapada.md) · [Bādarāyaṇa](../philosophers/badarayana.md)
 
 ## Positions structurantes

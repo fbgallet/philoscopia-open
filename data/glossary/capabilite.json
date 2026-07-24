@@ -1,0 +1,31 @@
+{
+  "id": "capabilite",
+  "term": {
+    "fr": "Capabilité",
+    "en": "Capability"
+  },
+  "aliases": {
+    "fr": ["approche par les capabilités"],
+    "en": ["capability approach", "capabilities approach"]
+  },
+  "figure": {
+    "slug": "sen",
+    "name": {
+      "fr": "Sen",
+      "en": "Sen"
+    }
+  },
+  "definition": {
+    "fr": "Placée au cœur de la philosophie politique par l'économiste et philosophe <ph id='sen'>Amartya Sen</ph>, la capabilité désigne ce qu'une personne peut effectivement être et faire : non ses seules ressources, ni ses seuls droits, mais les vies qu'elle peut réellement choisir compte tenu de sa santé, de son éducation et de sa situation. Deux personnes aux droits et aux revenus égaux n'ont pas les mêmes capabilités si la maladie ou la discrimination ferme à l'une ce qui reste ouvert à l'autre. Reprise par <ph id='nussbaum'>Martha Nussbaum</ph> dans sa propre version, la notion sert à mesurer la liberté et le développement aux <ax id='POLITICAL_LIBERTY' pole='CAPABILITY_FREEDOM'>possibilités effectives</ax> plutôt qu'aux permissions formelles.",
+    "en": "Brought to the center of political philosophy by the economist and philosopher <ph id='sen'>Amartya Sen</ph>, a capability is what a person can actually be and do: not their resources alone, nor their rights alone, but the lives they can really choose given their health, education, and situation. Two people with equal rights and equal incomes do not have the same capabilities if illness or discrimination closes to one what remains open to the other. Taken up by <ph id='nussbaum'>Martha Nussbaum</ph> in her own version, the notion serves to measure freedom and development by <ax id='POLITICAL_LIBERTY' pole='CAPABILITY_FREEDOM'>effective possibilities</ax> rather than formal permissions."
+  },
+  "relatedAxes": ["POLITICAL_LIBERTY", "DISTRIBUTIVE_JUSTICE"],
+  "relatedTerms": ["negative-liberty", "positive-liberty"],
+  "positions": [
+    {
+      "axisId": "POLITICAL_LIBERTY",
+      "poleId": "CAPABILITY_FREEDOM"
+    }
+  ],
+  "updatedAt": "2026-07-24T00:00:00.000Z"
+}

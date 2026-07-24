@@ -6,6 +6,8 @@
 
 The inaugural figure of Western philosophy, a fifth-century-BCE Athenian who wrote nothing: he is known only through his followers, above all [Plato](../philosophers/plato.md) and Xenophon, the caricature drawn by the comic poet Aristophanes, and the testimony of [Aristotle](../philosophers/aristotle.md), hence the Socratic problem, the difficulty of telling the man apart from his portraits. The son of a stonemason and a midwife, he gave up the study of nature to question his fellow citizens about virtue, justice and beauty, wandering the agora and practising a relentless questioning, the [elenchus](../glossary/elenchos.md), that unmasked false certainties. Charged with impiety and corrupting the youth, he was condemned to death by an Athenian court and drank the hemlock; his defence, reported by Plato in the *[Apology](../works/apology-plato.md)*, made him the model of the philosopher who dies for his mission. He directly inspired the minor Socratic schools, among them the [Cynics](../movements/cynicism.md), and, through Plato, the entire later tradition.
 
+**External links** : [Wikipedia](https://en.wikipedia.org/wiki/Socrates) · [Wikidata](https://www.wikidata.org/wiki/Q913)
+
 ## Core positions
 
 1. [Interiority](../axes/interiority.md) : **The unexamined life is not worth living: to know oneself and ceaselessly question one's opinions is the proper task of a human being.**

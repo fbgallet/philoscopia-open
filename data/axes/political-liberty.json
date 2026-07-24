@@ -14,6 +14,23 @@
     "fr": "Être libre, est-ce n'être pas entravé, se gouverner soi-même, ou ne dépendre du bon vouloir de personne ? Selon la réponse, ce qu'une société doit garantir, et ce dont elle doit nous protéger, change du tout au tout.",
     "en": "To be free, is it to be unhindered, to govern oneself, or to depend on no one's good will? Depending on the answer, what a society must guarantee, and what it must protect us from, changes entirely."
   },
+  "aliases": {
+    "fr": [
+      "liberté d'expression",
+      "censure",
+      "liberté politique",
+      "libertés publiques",
+      "paternalisme"
+    ],
+    "en": [
+      "free speech",
+      "freedom of expression",
+      "censorship",
+      "political freedom",
+      "civil liberties",
+      "paternalism"
+    ]
+  },
   "layer": "THEORY",
   "type": "CATEGORICAL",
   "poles": [
@@ -115,6 +132,7 @@
     },
     {
       "id": "CAPABILITY_FREEDOM",
+      "concept": "capabilite",
       "label": {
         "fr": "Liberté-capabilité",
         "en": "Capability freedom"
@@ -150,6 +168,414 @@
     "WHO_DECIDES",
     "INDIVIDUAL_SOCIETY",
     "FREEDOM",
-    "MORAL_DEMAND"
+    "MORAL_DEMAND",
+    "VIOLENCE"
+  ],
+  "problems": [
+    {
+      "id": "limits-of-speech",
+      "resolution": "LATENT",
+      "object": "RELATION",
+      "objectLabel": {
+        "fr": "la parole publique",
+        "en": "public speech"
+      },
+      "mode": "PRESCRIPTIVE",
+      "sphere": "POLITICAL",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        {
+          "fr": "principe de non-nuisance",
+          "en": "harm principle"
+        },
+        {
+          "fr": "discours de haine",
+          "en": "hate speech"
+        },
+        {
+          "fr": "censure",
+          "en": "censorship"
+        },
+        {
+          "fr": "paradoxe de la tolérance",
+          "en": "paradox of tolerance"
+        },
+        {
+          "fr": "libre marché des idées",
+          "en": "marketplace of ideas"
+        }
+      ],
+      "poles": [
+        "NEGATIVE_LIBERTY",
+        "NON_DOMINATION"
+      ],
+      "anchors": [
+        {
+          "name": {
+            "fr": "Mill",
+            "en": "Mill"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "mill"
+        },
+        {
+          "name": {
+            "fr": "Spinoza",
+            "en": "Spinoza"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "spinoza"
+        },
+        {
+          "name": {
+            "fr": "Platon",
+            "en": "Plato"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "plato"
+        },
+        {
+          "name": {
+            "fr": "Popper",
+            "en": "Popper"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "popper"
+        }
+      ],
+      "doorways": [
+        {
+          "axis": "VIOLENCE"
+        },
+        {
+          "axis": "WHO_DECIDES"
+        }
+      ],
+      "title": {
+        "fr": "Les limites de la parole",
+        "en": "The limits of speech"
+      },
+      "explicitation": {
+        "fr": "Une parole qui rabaisse sans porter de coup : une société libre doit-elle la protéger au nom de la liberté elle-même, ou la restreindre au nom de la liberté de ceux qu'elle vise ?",
+        "en": "Speech that demeans without striking a blow: must a free society protect it in the name of freedom itself, or restrain it in the name of the freedom of those it targets?"
+      }
+    },
+    {
+      "id": "formal-or-real-freedom",
+      "resolution": "LATENT",
+      "object": "STRUCTURE",
+      "objectLabel": {
+        "fr": "les droits sur le papier",
+        "en": "rights on paper"
+      },
+      "mode": "DESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        {
+          "fr": "liberté formelle et liberté réelle",
+          "en": "formal vs real freedom"
+        },
+        {
+          "fr": "valeur de la liberté",
+          "en": "the worth of liberty"
+        },
+        {
+          "fr": "capabilités",
+          "en": "capabilities"
+        }
+      ],
+      "poles": [
+        "NEGATIVE_LIBERTY",
+        "CAPABILITY_FREEDOM"
+      ],
+      "anchors": [
+        {
+          "name": {
+            "fr": "Marx",
+            "en": "Marx"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "marx"
+        },
+        {
+          "name": {
+            "fr": "Berlin",
+            "en": "Berlin"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "berlin"
+        }
+      ],
+      "doorways": [
+        {
+          "axis": "DISTRIBUTIVE_JUSTICE",
+          "problem": "liberty-vs-equality"
+        }
+      ],
+      "title": {
+        "fr": "La liberté sur le papier",
+        "en": "Freedom on paper"
+      },
+      "explicitation": {
+        "fr": "La loi n'interdit à personne de voyager, d'étudier ou d'entreprendre ; mais sans argent, sans santé, sans relations, rien de tout cela n'est à portée. Celui qui n'a rien est-il privé de liberté, ou seulement de moyens ? Et dire que la pauvreté est un manque de liberté, est-ce préciser l'idée de liberté ou la dissoudre ?",
+        "en": "The law forbids no one to travel, study, or start a business, yet without money, health or connections none of it is within reach. Is the penniless person unfree, or merely unable? And does calling poverty a lack of freedom sharpen the idea of liberty, or dissolve it?"
+      }
+    },
+    {
+      "id": "forced-to-be-free",
+      "resolution": "LATENT",
+      "object": "RELATION",
+      "objectLabel": {
+        "fr": "la contrainte bienveillante",
+        "en": "benevolent coercion"
+      },
+      "mode": "PRESCRIPTIVE",
+      "sphere": "POLITICAL",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        {
+          "fr": "paternalisme",
+          "en": "paternalism"
+        },
+        {
+          "fr": "forcé d'être libre",
+          "en": "forced to be free"
+        },
+        {
+          "fr": "moi véritable",
+          "en": "the true self"
+        },
+        {
+          "fr": "nudge",
+          "en": "nudge"
+        }
+      ],
+      "poles": [
+        "POSITIVE_LIBERTY",
+        "NEGATIVE_LIBERTY"
+      ],
+      "anchors": [
+        {
+          "name": {
+            "fr": "Rousseau",
+            "en": "Rousseau"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "rousseau"
+        },
+        {
+          "name": {
+            "fr": "Mill",
+            "en": "Mill"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "mill"
+        },
+        {
+          "name": {
+            "fr": "Berlin",
+            "en": "Berlin"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "berlin"
+        }
+      ],
+      "doorways": [
+        {
+          "axis": "MORAL_DEMAND",
+          "problem": "consent-enough"
+        }
+      ],
+      "title": {
+        "fr": "Libéré malgré soi",
+        "en": "Freed against one's will"
+      },
+      "explicitation": {
+        "fr": "De la ceinture de sécurité à l'école obligatoire, jusqu'au toxicomane qu'on sèvre contre son gré : la contrainte peut-elle rendre libre ? Et si l'on peut invoquer ma volonté « véritable » contre celle que j'exprime, qui décide laquelle est la mienne ?",
+        "en": "From seatbelt laws to compulsory schooling to the addict weaned off against their will: can coercion make a person free? And if my \"true\" will can be invoked against the will I actually express, who decides which one is me?"
+      }
+    },
+    {
+      "id": "law-and-freedom",
+      "resolution": "LATENT",
+      "object": "STRUCTURE",
+      "objectLabel": {
+        "fr": "la loi",
+        "en": "the law"
+      },
+      "mode": "DESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        {
+          "fr": "silence des lois",
+          "en": "silence of the laws"
+        },
+        {
+          "fr": "État de droit",
+          "en": "rule of law"
+        },
+        {
+          "fr": "autonomie",
+          "en": "autonomy"
+        },
+        {
+          "fr": "liberté et licence",
+          "en": "liberty vs license"
+        }
+      ],
+      "poles": [
+        "NEGATIVE_LIBERTY",
+        "POSITIVE_LIBERTY",
+        "NON_DOMINATION"
+      ],
+      "anchors": [
+        {
+          "name": {
+            "fr": "Hobbes",
+            "en": "Hobbes"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "hobbes"
+        },
+        {
+          "name": {
+            "fr": "Locke",
+            "en": "Locke"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "locke"
+        },
+        {
+          "name": {
+            "fr": "Rousseau",
+            "en": "Rousseau"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "rousseau"
+        }
+      ],
+      "doorways": [
+        {
+          "axis": "AUTHORITY"
+        }
+      ],
+      "title": {
+        "fr": "Libre de la loi, ou libre par la loi ?",
+        "en": "Free from the law, or free through the law?"
+      },
+      "explicitation": {
+        "fr": "Chaque loi retranche quelque chose à ce que je peux faire ; là où les lois se taisent, je fais ce qui me plaît. Mais sans loi, les faibles sont à la merci des forts, et un peuple se donne des lois précisément pour être libre. La loi limite-t-elle la liberté, la protège-t-elle, ou la constitue-t-elle ?",
+        "en": "Every law takes something from what I may do; where laws fall silent, I do as I please. Yet without law the weak are at the mercy of the strong, and a people gives itself laws precisely to be free. Does law limit freedom, protect it, or constitute it?"
+      }
+    },
+    {
+      "id": "ancients-and-moderns",
+      "resolution": "LATENT",
+      "object": "STRUCTURE",
+      "objectLabel": {
+        "fr": "la cité",
+        "en": "the city"
+      },
+      "mode": "DESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        {
+          "fr": "liberté des anciens et des modernes",
+          "en": "liberty of the ancients and of the moderns"
+        },
+        {
+          "fr": "despotisme doux",
+          "en": "gentle despotism"
+        },
+        {
+          "fr": "apathie politique",
+          "en": "political apathy"
+        }
+      ],
+      "poles": [
+        "NEGATIVE_LIBERTY",
+        "POSITIVE_LIBERTY"
+      ],
+      "anchors": [
+        {
+          "name": {
+            "fr": "Constant",
+            "en": "Constant"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "constant"
+        },
+        {
+          "name": {
+            "fr": "Tocqueville",
+            "en": "Tocqueville"
+          },
+          "kind": "PHILOSOPHER"
+        }
+      ],
+      "doorways": [
+        {
+          "axis": "WHO_DECIDES"
+        }
+      ],
+      "title": {
+        "fr": "Participer, ou être laissé en paix",
+        "en": "Taking part, or being left in peace"
+      },
+      "explicitation": {
+        "fr": "Un âge a placé la liberté dans le partage du pouvoir public, un autre dans la jouissance paisible de la vie privée. Si les modernes désertent l'assemblée pour cultiver leur indépendance, n'abandonnent-ils pas la garantie même de cette indépendance ?",
+        "en": "One age placed freedom in sharing public power, another in the quiet enjoyment of private life. If the moderns desert the assembly to cultivate their independence, do they hand over the very guarantee of that independence?"
+      }
+    },
+    {
+      "id": "free-in-chains",
+      "resolution": "LATENT",
+      "object": "INDIVIDUAL",
+      "objectLabel": {
+        "fr": "la liberté intérieure",
+        "en": "inner freedom"
+      },
+      "mode": "PRESCRIPTIVE",
+      "sphere": "POLITICAL",
+      "relation": "RELATED",
+      "keywords": [
+        {
+          "fr": "citadelle intérieure",
+          "en": "inner citadel"
+        }
+      ],
+      "anchors": [
+        {
+          "name": {
+            "fr": "Épictète",
+            "en": "Epictetus"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "epictetus"
+        },
+        {
+          "name": {
+            "fr": "Berlin",
+            "en": "Berlin"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "berlin"
+        }
+      ],
+      "doorways": [
+        {
+          "axis": "FREEDOM",
+          "problem": "inner-or-outer-freedom"
+        }
+      ],
+      "title": {
+        "fr": "Libre dans les fers ?",
+        "en": "Free in chains?"
+      },
+      "explicitation": {
+        "fr": "Si la liberté se conquiert au-dedans, un esprit lucide peut être libre même sous un tyran. Ce refuge intérieur est-il ce qu'aucun pouvoir ne peut confisquer, ou une consolation qui apprend aux opprimés à supporter leurs chaînes ?",
+        "en": "If freedom is won within, a clear-eyed person can be free even under a tyrant. Is that inner refuge the one thing no power can confiscate, or a consolation that teaches the oppressed to put up with their chains?"
+      }
+    }
   ]
 }

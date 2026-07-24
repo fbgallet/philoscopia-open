@@ -720,7 +720,8 @@
       ],
       "doorways": [
         {
-          "axis": "POLITICAL_LIBERTY"
+          "axis": "POLITICAL_LIBERTY",
+          "problem": "formal-or-real-freedom"
         }
       ],
       "title": {

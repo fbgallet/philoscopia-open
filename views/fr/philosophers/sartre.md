@@ -6,6 +6,8 @@
 
 Philosophe, romancier et dramaturge français, figure centrale de l'[existentialisme](../movements/existentialism.md) athée et de la vie intellectuelle d'après-guerre. Nourri de la [phénoménologie](../movements/phenomenology.md) de Husserl et Heidegger, il bâtit dans L'Être et le Néant (1943) une philosophie de la conscience et de la liberté, qu'il prolonge en morale de l'engagement. Compagnon de [Simone de Beauvoir](../philosophers/beauvoir.md) et animateur des Temps modernes, il incarne l'intellectuel engagé : Résistance, anticolonialisme, refus du prix Nobel en 1964, puis rapprochement avec le [marxisme](../movements/marxism.md).
 
+**Liens externes** : [Wikipédia](https://fr.wikipedia.org/wiki/Jean-Paul_Sartre) · [Wikidata](https://www.wikidata.org/wiki/Q9364)
+
 ## Positions structurantes
 
 1. [Essence et existence](../axes/essence.md) : **Chez l'homme, l'existence précède l'essence : il surgit d'abord sans nature donnée, puis se définit par ses actes.**

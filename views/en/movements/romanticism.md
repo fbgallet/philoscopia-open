@@ -6,6 +6,8 @@
 
 An artistic, literary and philosophical movement born in Germany and England at the turn of the nineteenth century, Romanticism is the great reaction against the [Enlightenment](../movements/enlightenment.md). To universal reason, mechanism and the cult of progress it opposes the claims of feeling, [imagination](../glossary/imagination-creatrice.md) and [genius](../glossary/genie.md), the mystery of a living nature, and the [singular genius of each people](../glossary/volksgeist.md) and each individual. Heralded by the sensibility of [Rousseau](../philosophers/rousseau.md) and by the Sturm und Drang, carried by [Herder](../philosophers/herder.md), [Schelling](../philosophers/schelling.md), [Novalis](../philosophers/novalis.md) and [Schiller](../philosophers/schiller.md) in Germany, [Coleridge](../philosophers/coleridge.md) and Wordsworth in England, it refuses to reduce reality to what reason can calculate. The cultural form of the « Counter-Enlightenment », it fed nationalisms as much as avant-gardes, and remains the source of our modern idea of art as creation and expression.
 
+**External links** : [Wikipedia](https://en.wikipedia.org/wiki/Romanticism) · [Wikidata](https://www.wikidata.org/wiki/Q37068)
+
 **Key figures** : [Herder](../philosophers/herder.md) · [Schelling](../philosophers/schelling.md) · [Novalis](../philosophers/novalis.md) · [Schiller](../philosophers/schiller.md) · [Coleridge](../philosophers/coleridge.md)
 
 ## Core positions

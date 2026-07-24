@@ -899,6 +899,13 @@
       }
     }
   ],
+  "identity": {
+    "wikidata": "Q2054",
+    "wikipedia": {
+      "fr": "https://fr.wikipedia.org/wiki/S%C3%A9n%C3%A8que",
+      "en": "https://en.wikipedia.org/wiki/Seneca_the_Younger"
+    }
+  },
   "updatedAt": "2026-06-24T00:00:00.000Z",
   "validation": {
     "method": "NOT_VALIDATED"

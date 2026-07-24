@@ -6,6 +6,8 @@
 
 Ancient skepticism traces back to Pyrrho of Elis (fourth century BCE), an almost legendary figure who wrote nothing and whose imperturbability, it was said, never wavered before any danger. Two strands stand apart: Academic skepticism, born when Arcesilaus and then Carneades turned [Plato](../philosophers/plato.md)'s Academy against the [dogmatism](../glossary/dogmatism.md) of the Stoics, and the more radical Pyrrhonian skepticism, which Sextus Empiricus codifies around 200 CE in his Outlines of Pyrrhonism, our principal source. The problem the school confronts is that of the criterion: how to decide between rival doctrines that all claim to be true? Long marginal, this tradition resurfaced in the Renaissance with the rediscovery of Sextus: it fed the doubt of Montaigne, the methodical doubt of [Descartes](../philosophers/descartes.md) who sought to overcome it, and later the empiricism of [Hume](../philosophers/hume.md).
 
+**External links** : [Wikipedia](https://en.wikipedia.org/wiki/Skepticism) · [Wikidata](https://www.wikidata.org/wiki/Q1395219)
+
 **Key figures** : [Pyrrho](../philosophers/pyrrho.md) · [Sextus Empiricus](../philosophers/sextus-empiricus.md) · [Arcesilaus](../philosophers/arcesilaus.md)
 
 ## Core positions

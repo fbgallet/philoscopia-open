@@ -557,6 +557,13 @@
       }
     }
   ],
+  "identity": {
+    "wikidata": "Q171195",
+    "wikipedia": {
+      "fr": "https://fr.wikipedia.org/wiki/N%C4%81g%C4%81rjuna",
+      "en": "https://en.wikipedia.org/wiki/Nagarjuna"
+    }
+  },
   "updatedAt": "2026-07-19T00:00:00.000Z",
   "validation": {
     "method": "NOT_VALIDATED"

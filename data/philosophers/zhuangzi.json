@@ -853,6 +853,13 @@
       }
     }
   ],
+  "identity": {
+    "wikidata": "Q47739",
+    "wikipedia": {
+      "fr": "https://fr.wikipedia.org/wiki/Tchouang-tseu",
+      "en": "https://en.wikipedia.org/wiki/Zhuang_Zhou"
+    }
+  },
   "updatedAt": "2026-07-19T00:00:00.000Z",
   "validation": {
     "method": "NOT_VALIDATED"

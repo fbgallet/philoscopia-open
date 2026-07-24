@@ -6,6 +6,8 @@
 
 Roman emperor from 161 to 180 and the last of the « good emperors » of the Antonine dynasty, Marcus Aurelius was adopted by Antoninus Pius and governed an empire strained by wars on the Danube and by a great plague. A [Stoic](../movements/stoicism.md), he was decisively shaped by reading the *[Discourses](../works/discourses-epictetus.md)* of [Epictetus](../philosophers/epictetus.md), passed to him by his teacher Rusticus, and he inherits the Roman Stoa of [Seneca](../philosophers/seneca.md). His *[Meditations](../works/meditations-marcus-aurelius.md)*, a notebook written in Greek over the course of his campaigns and never meant for publication, are not a treatise but a series of exhortations addressed to himself, to lead himself back each day to a life according to [reason](../glossary/logos.md). Become one of the great classics of spiritual life, they offer the rare testimony of a man of power striving, in daily exercise, to remain just and serene.
 
+**External links** : [Wikipedia](https://en.wikipedia.org/wiki/Marcus_Aurelius) · [Wikidata](https://www.wikidata.org/wiki/Q1430)
+
 ## Core positions
 
 1. [Interiority](../axes/interiority.md) : **You need no retreat in the country or by the sea: at any hour you can withdraw into yourself, for nowhere is there a calmer retreat than one's own [soul](../glossary/hegemonikon.md).**

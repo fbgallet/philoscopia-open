@@ -6,6 +6,8 @@
 
 A current born of Kierkegaard's revolt against [Hegel](../philosophers/hegel.md)'s system and of [Nietzsche](../philosophers/nietzsche.md)'s announcement of the « death of God », which takes concrete, singular existence rather than abstract essence as philosophy's starting point. Heir to the [phenomenology](../movements/phenomenology.md) of Husserl and [Heidegger](../philosophers/heidegger.md), it has its hour in postwar Paris, where [Sartre](../philosophers/sartre.md), [Beauvoir](../philosophers/beauvoir.md) and [Camus](../philosophers/camus.md) turn it into a philosophy of commitment. The school is split by a divide that does not stop it from sharing its founding theses: a Christian wing (Kierkegaard, Jaspers, Marcel) and an atheist one (Sartre, Beauvoir, Camus). Against every given morality and every guaranteed salvation, it puts to the individual the question of what they make of their freedom, and shaped existential psychology, theology, literature and feminist thought through The Second Sex.
 
+**External links** : [Wikipedia](https://en.wikipedia.org/wiki/Existentialism) · [Wikidata](https://www.wikidata.org/wiki/Q38066)
+
 **Key figures** : [Kierkegaard](../philosophers/kierkegaard.md) · [Sartre](../philosophers/sartre.md) · [Simone de Beauvoir](../philosophers/beauvoir.md)
 
 ## Core positions

@@ -6,6 +6,8 @@
 
 Scottish philosopher, historian and essayist, a leading figure of the Edinburgh Enlightenment and of British [empiricism](../movements/empiricism.md), following [Locke](../philosophers/locke.md) and Berkeley. Refused a university chair on suspicion of irreligion, he lived by his pen, from a youthful *[system](../works/treatise-of-human-nature-hume.md)* that at first fell dead-born to a celebrated *[Enquiry](../works/enquiry-concerning-human-understanding-hume.md)*, the Essays and a monumental History of England. His project: to apply Newton's experimental method to the human mind, testing how far observation, without metaphysical hypotheses, can carry the analysis of knowledge, the passions and morality. Reckoned a scandalous sceptic in his lifetime, he became the goad of modern philosophy: it was he, [Kant](../philosophers/kant.md) would say, who roused him from his “dogmatic slumber”.
 
+**External links** : [Wikipedia](https://en.wikipedia.org/wiki/David_Hume) · [Wikidata](https://www.wikidata.org/wiki/Q37160)
+
 ## Core positions
 
 1. [Explaining nature](../axes/causality.md) : **We never perceive the necessary connection between cause and effect, only their constant conjunction: causation is but a habit of the mind, and nothing rationally grounds [induction](../glossary/induction.md).**

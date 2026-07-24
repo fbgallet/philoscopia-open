@@ -6,6 +6,8 @@
 
 An English physician and philosopher of the dawning Enlightenment, regarded as the father of classical [empiricism](../movements/empiricism.md) and of political liberalism. Attached to the Earl of Shaftesbury, caught up in the struggles against Stuart absolutism, he was exiled to the Dutch Republic and published his major works only on his return, after the Glorious Revolution of 1688. His *[Essay Concerning Human Understanding](../works/essay-concerning-human-understanding-locke.md)* sets out to gauge the reach and the limits of human knowledge, against the [rationalism](../movements/rationalism.md) of [Descartes](../philosophers/descartes.md); his *[Two Treatises of Government](../works/two-treatises-of-government-locke.md)*, written against absolutism, recast the legitimacy of power, and his *[Letter Concerning Toleration](../works/letter-concerning-toleration-locke.md)* separates Church from State. His method is patient, attentive to the ordinary working of the mind, more concerned with probability than with system. His legacy is immense: he shaped the Enlightenment, and his theses on natural rights and consent fed both the American Revolution and the French Revolution.
 
+**External links** : [Wikipedia](https://en.wikipedia.org/wiki/John_Locke) · [Wikidata](https://www.wikidata.org/wiki/Q9353)
+
 ## Core positions
 
 1. [Source of knowledge](../axes/knowledge-source.md) : **There are no [innate ideas](../glossary/innate-ideas.md): the mind is born a [blank slate](../glossary/tabula-rasa.md), and sensation and reflection suffice to form all our ideas.**

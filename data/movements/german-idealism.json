@@ -135,6 +135,13 @@
       }
     }
   ],
+  "identity": {
+    "wikidata": "Q679842",
+    "wikipedia": {
+      "fr": "https://fr.wikipedia.org/wiki/Id%C3%A9alisme_allemand",
+      "en": "https://en.wikipedia.org/wiki/German_idealism"
+    }
+  },
   "updatedAt": "2026-07-03T00:00:00.000Z",
   "validation": {
     "method": "NOT_VALIDATED"

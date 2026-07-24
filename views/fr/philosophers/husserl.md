@@ -6,6 +6,8 @@
 
 Fondateur de la [phénoménologie](../movements/phenomenology.md), d'abord mathématicien formé auprès de Weierstrass avant de se tourner vers la philosophie sous l'influence de Brentano, dont il reprend la notion d'[intentionnalité](../glossary/intentionality.md). Avec les *[Recherches logiques](../works/logical-investigations-husserl.md)*, il rompt avec le [psychologisme](../glossary/psychologism.md) ambiant et entreprend de refonder la philosophie comme science rigoureuse, fidèle au mot d'ordre « « aux choses mêmes » ». Les *[Idées directrices](../works/ideas-i-husserl.md)* opèrent son tournant transcendantal, les *[Méditations cartésiennes](../works/cartesian-meditations-husserl.md)* affrontent le problème d'autrui, et la *[Crise des sciences européennes](../works/crisis-of-the-european-sciences-husserl.md)* introduit le [monde de la vie](../glossary/lebenswelt.md). Professeur à Göttingen puis à Fribourg, écarté par le régime nazi en raison de ses origines juives, il forme et inspire toute une postérité, de [Heidegger](../philosophers/heidegger.md), son assistant, à [Merleau-Ponty](../philosophers/merleau-ponty.md), [Sartre](../philosophers/sartre.md) et [Levinas](../philosophers/levinas.md).
 
+**Liens externes** : [Wikipédia](https://fr.wikipedia.org/wiki/Edmund_Husserl) · [Wikidata](https://www.wikidata.org/wiki/Q58586)
+
 ## Positions structurantes
 
 1. [Rapport à la certitude](../axes/certainty.md) : **La philosophie doit devenir « science rigoureuse » : un savoir d'évidence apodictique, fondé sur les choses se donnant elles-mêmes au regard qui les décrit.**

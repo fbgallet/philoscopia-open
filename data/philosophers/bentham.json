@@ -803,6 +803,13 @@
       }
     }
   ],
+  "identity": {
+    "wikidata": "Q60887",
+    "wikipedia": {
+      "fr": "https://fr.wikipedia.org/wiki/Jeremy_Bentham",
+      "en": "https://en.wikipedia.org/wiki/Jeremy_Bentham"
+    }
+  },
   "updatedAt": "2026-06-24T00:00:00.000Z",
   "validation": {
     "method": "NOT_VALIDATED"

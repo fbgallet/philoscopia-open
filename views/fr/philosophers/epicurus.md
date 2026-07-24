@@ -6,6 +6,8 @@
 
 Philosophe grec de l'âge hellénistique, Épicure fonde vers 306 av. J.-C. l'école du Jardin à Athènes, communauté ouverte aux femmes et aux esclaves où l'on vit à l'écart de la cité. Dans un monde déstabilisé par la chute des cités libres, il conçoit la philosophie comme une médecine de l'âme : « vaine est la parole du philosophe qui ne soigne aucune souffrance humaine ». Reprenant l'atomisme de Démocrite, il en tire une physique destinée à délivrer les hommes de la peur des dieux et de la mort, et fonde toute sa morale sur l'analyse du [plaisir](../glossary/hedonism.md). Son œuvre, presque entièrement perdue, nous est connue par trois lettres et les *[Maximes capitales](../works/principal-doctrines-epicurus.md)* transmises par Diogène Laërce, et surtout par le grand poème de Lucrèce. Longtemps caricaturé en jouisseur et accusé d'impiété, l'épicurisme fut l'un des principaux courants de l'Antiquité, rival du [stoïcisme](../movements/stoicism.md), et nourrit la pensée matérialiste moderne.
 
+**Liens externes** : [Wikipédia](https://fr.wikipedia.org/wiki/%C3%89picure) · [Wikidata](https://www.wikidata.org/wiki/Q43216)
+
 ## Positions structurantes
 
 1. [Souverain bien](../axes/sovereign-good.md) : **Le souverain bien est le [plaisir](../glossary/hedonism.md), mais le vrai plaisir n'est pas la jouissance : c'est l'[ataraxie](../glossary/ataraxia.md), l'état stable où, toute douleur ôtée, rien ne manque plus.**

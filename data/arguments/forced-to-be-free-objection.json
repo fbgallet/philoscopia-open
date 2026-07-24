@@ -1,0 +1,120 @@
+{
+  "id": "forced-to-be-free-objection",
+  "kind": "OBJECTS",
+  "position": {
+    "axisId": "POLITICAL_LIBERTY",
+    "poleId": "POSITIVE_LIBERTY"
+  },
+  "name": {
+    "fr": "L'objection du moi véritable",
+    "en": "The true-self objection"
+  },
+  "claim": {
+    "fr": "Si la liberté est l'obéissance à ma volonté « véritable », un autre peut prétendre la connaître mieux que moi, et me contraindre au nom de ma liberté.",
+    "en": "If liberty is obedience to my \"true\" will, someone else can claim to know it better than I do, and coerce me in the name of my freedom."
+  },
+  "development": [
+    {
+      "fr": "La <c id='positive-liberty'>liberté positive</c>, dans les versions que vise l'objection, distingue en chacun deux volontés : celle qui s'exprime, et une volonté « véritable » (rationnelle, supérieure) qu'il s'agirait de faire régner.",
+      "en": "<c id='positive-liberty'>Positive liberty</c>, in the versions the objection targets, distinguishes two wills in each of us: the one we express, and a \"true\" (rational, higher) will that ought to rule."
+    },
+    {
+      "fr": "Dès que ces deux volontés peuvent diverger, quelqu'un doit dire où est la vraie : et rien n'empêche qu'un tiers, parti, État ou majorité, s'en déclare meilleur juge que moi.",
+      "en": "Once these two wills can diverge, someone must say where the true one lies: and nothing prevents a third party, party, state, or majority, from declaring itself a better judge of it than I am."
+    },
+    {
+      "fr": "Contraindre alors ma volonté exprimée ne compte plus comme une oppression, mais comme une libération : la formule de <ph id='rousseau'>Rousseau</ph>, <q>on le forcera d'être libre</q>, pensée pour l'obéissance à la <c id='volonte-generale'>volonté générale</c>, cesse d'être un paradoxe et devient un programme entre d'autres mains.",
+      "en": "Coercing my expressed will then no longer counts as oppression but as liberation: <ph id='rousseau'>Rousseau</ph>'s formula, <q>he will be forced to be free</q>, coined for obedience to the <c id='volonte-generale'>general will</c>, stops being a paradox and becomes a program in other hands."
+    },
+    {
+      "fr": "Une définition de la liberté qui permet de décrire la coercition comme une libération a perdu ce que toute conception de la liberté doit garder : que ma volonté effective compte.",
+      "en": "A definition of liberty that allows coercion to be described as liberation has lost what any conception of liberty must keep: that my actual will counts."
+    }
+  ],
+  "conclusion": {
+    "fr": "La liberté comme gouvernement du « vrai moi » ouvre la porte à une tyrannie exercée au nom de la liberté : toute définition de ce type porte la charge de montrer ce qui barre cette pente, et tant qu'elle ne le montre pas, elle ne peut servir de définition, quelle que soit la valeur de l'idéal d'autonomie.",
+    "en": "Liberty as the rule of the \"true self\" opens the door to a tyranny exercised in freedom's name: any definition of this type bears the burden of showing what blocks that slope, and until it does, it cannot serve as a definition, whatever the worth of the ideal of autonomy."
+  },
+  "difficulty": 2,
+  "source": {
+    "author": {
+      "fr": "Isaiah Berlin",
+      "en": "Isaiah Berlin"
+    },
+    "figures": [
+      {
+        "name": {
+          "fr": "Berlin",
+          "en": "Berlin"
+        },
+        "kind": "PHILOSOPHER",
+        "slug": "berlin"
+      }
+    ],
+    "work": {
+      "fr": "« Deux concepts de liberté »",
+      "en": "\"Two Concepts of Liberty\""
+    },
+    "year": 1958
+  },
+  "attacks": "POSITION",
+  "targets": ["positive-liberty-autonomy"],
+  "responses": [
+    {
+      "id": "expressed-will",
+      "label": {
+        "fr": "Tenons-nous-en à la volonté que j'exprime : est libre celui qu'on n'empêche pas, même de se tromper.",
+        "en": "Let us stick to the will I express: we are free when no one prevents us, even from making mistakes."
+      },
+      "hints": [
+        {
+          "axisId": "POLITICAL_LIBERTY",
+          "value": { "kind": "weights", "weights": [1, 0, 0, 0] },
+          "weight": 2
+        }
+      ],
+      "discussion": {
+        "fr": "Le choix de <ph id='berlin'>Berlin</ph> : la liberté négative est la seule qui ne puisse se retourner contre celui qu'elle prétend libérer.",
+        "en": "<ph id='berlin'>Berlin</ph>'s choice: negative liberty is the only one that cannot be turned against the person it claims to free."
+      }
+    },
+    {
+      "id": "procedural-self-rule",
+      "label": {
+        "fr": "Gardons l'autogouvernement, mais comme procédure collective sous garanties : nul tiers ne peut invoquer mon vrai moi, seulement des institutions non arbitraires.",
+        "en": "Keep self-government, but as a collective procedure under guarantees: no third party may invoke my true self, only non-arbitrary institutions."
+      },
+      "hints": [
+        {
+          "axisId": "POLITICAL_LIBERTY",
+          "value": { "kind": "weights", "weights": [0, 0, 1, 0] },
+          "weight": 1
+        }
+      ],
+      "discussion": {
+        "fr": "Le républicanisme comme voie moyenne entre les deux libertés de Berlin.",
+        "en": "Republicanism as the middle path between Berlin's two liberties."
+      }
+    },
+    {
+      "id": "first-person-autonomy",
+      "label": {
+        "fr": "L'abus d'une idée n'est pas sa réfutation : l'autonomie exige l'examen en première personne, précisément ce qu'aucun tiers ne peut confisquer.",
+        "en": "The abuse of an idea is not its refutation: autonomy demands first-person examination, precisely what no third party can confiscate."
+      },
+      "hints": [
+        {
+          "axisId": "POLITICAL_LIBERTY",
+          "value": { "kind": "weights", "weights": [0, 1, 0, 0] },
+          "weight": 0.5
+        }
+      ],
+      "discussion": {
+        "fr": "Une réponse d'inspiration kantienne : chez <ph id='kant'>Kant</ph>, l'autonomie est un rapport de soi à soi, non un blanc-seing donné à l'État.",
+        "en": "A Kant-inspired reply: for <ph id='kant'>Kant</ph>, autonomy is a relation of self to self, not a blank check handed to the state."
+      }
+    }
+  ],
+  "problems": ["forced-to-be-free"],
+  "updatedAt": "2026-07-24T00:00:00.000Z"
+}

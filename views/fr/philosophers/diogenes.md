@@ -6,6 +6,8 @@
 
 Figure la plus célèbre du [cynisme](../movements/cynicism.md), Diogène naquit à Sinope, sur le Pont, d'où il fut banni, dit-on, pour une affaire de fausse monnaie, avant de mener à Athènes puis à Corinthe une vie de mendiant philosophe. Il se rattache à Socrate par Antisthène, dont il radicalisa l'enseignement jusqu'à la provocation : il vécut dans une jarre, ne possédant qu'un manteau, une besace et un bâton, et fit du scandale public sa méthode. Platon l'aurait appelé « un Socrate devenu fou ». Il n'a laissé aucun écrit assuré, et toute notre connaissance de lui passe par les anecdotes (chries) que rapporte trois siècles plus tard Diogène Laërce dans le livre VI de ses Vies des philosophes illustres, ce qui rend la frontière incertaine entre l'homme et la légende. Par son disciple Cratès, qui forma Zénon de Citium, son éthique de la vertu et son cosmopolitisme passèrent au [stoïcisme](../movements/stoicism.md).
 
+**Liens externes** : [Wikipédia](https://fr.wikipedia.org/wiki/Diog%C3%A8ne_de_Sinope) · [Wikidata](https://www.wikidata.org/wiki/Q59180)
+
 ## Positions structurantes
 
 1. [Périmètre d'action](../axes/control-scope.md) : **Qui ne désire rien d'extérieur ne dépend de personne : l'[autosuffisance](../glossary/autarkeia.md) rend le plus dénué des hommes plus libre que le plus puissant des rois.**

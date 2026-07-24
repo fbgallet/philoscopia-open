@@ -6,6 +6,8 @@
 
 A Greek philosopher of Elis, in the Peloponnese, held to be the father of ancient [skepticism](../movements/skepticism.md). He wrote nothing: his doctrine is known to us only through his disciple Timon of Phlius, and then through Aenesidemus, Cicero, Diogenes Laertius and [Sextus Empiricus](../philosophers/sextus-empiricus.md), who claims him as his inspiration. Tradition reports that he followed Alexander's expedition as far as India, where he frequented the naked sages (the "gymnosophists"), an experience often linked to his ideal of indifference and imperturbability. His skepticism is not in the first place a theory of knowledge but a way of life: an existential withdrawal before things judged indeterminate, in which the [suspension of judgment](../glossary/epoche.md) opens onto tranquillity ([ataraxia](../glossary/ataraxia.md)). Where [Sextus](../philosophers/sextus-empiricus.md) would later turn this into an argued method, Pyrrho stays with the figure of the sage whom nothing moves.
 
+**External links** : [Wikipedia](https://en.wikipedia.org/wiki/Pyrrho) · [Wikidata](https://www.wikidata.org/wiki/Q192313)
+
 ## Core positions
 
 1. [Relation to certainty](../axes/certainty.md) : **Things are no more this than that: indeterminate and indiscriminable, they deserve neither our senses nor our opinions, so [hold no opinion](../glossary/epoche.md).**

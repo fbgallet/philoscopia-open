@@ -6,6 +6,8 @@
 
 Mouvement artistique, littéraire et philosophique né en Allemagne et en Angleterre au tournant du XIXe siècle, le romantisme est la grande réaction contre les [Lumières](../movements/enlightenment.md). À la raison universelle, au mécanisme et au culte du progrès, il oppose les droits du sentiment, de l'[imagination](../glossary/imagination-creatrice.md) et du [génie](../glossary/genie.md), le mystère d'une nature vivante et le [génie singulier de chaque peuple](../glossary/volksgeist.md) comme de chaque individu. Annoncé par la sensibilité de [Rousseau](../philosophers/rousseau.md) et par le Sturm und Drang, porté par [Herder](../philosophers/herder.md), [Schelling](../philosophers/schelling.md), [Novalis](../philosophers/novalis.md) et [Schiller](../philosophers/schiller.md) en Allemagne, [Coleridge](../philosophers/coleridge.md) et Wordsworth en Angleterre, il refuse de réduire le réel à ce que la raison calcule. Forme culturelle des « anti-Lumières », il a nourri aussi bien les nationalismes que les avant-gardes, et reste la source de notre idée moderne de l'art comme création et expression.
 
+**Liens externes** : [Wikipédia](https://fr.wikipedia.org/wiki/Romantisme) · [Wikidata](https://www.wikidata.org/wiki/Q37068)
+
 **Figures majeures** : [Herder](../philosophers/herder.md) · [Schelling](../philosophers/schelling.md) · [Novalis](../philosophers/novalis.md) · [Schiller](../philosophers/schiller.md) · [Coleridge](../philosophers/coleridge.md)
 
 ## Positions structurantes

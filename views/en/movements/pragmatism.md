@@ -6,6 +6,8 @@
 
 The first distinctively American philosophy, born in the United States after the Civil War, within the **Metaphysical Club** that gathered in Cambridge around 1872 Charles Sanders Peirce, William James and a few jurists and scientists intent on thinking without dogmas. Peirce forged its method, James spread it to a wide public, John Dewey broadened it into a vast philosophy of experience, education and democracy, before Richard Rorty revived it late in the twentieth century. Shaped by Darwinism, which casts thought as an organ of adaptation rather than a mirror, and by the democratic ideal of a collective inquiry with no final authority, pragmatism sought to escape the sterile quarrels between [rationalism](../movements/rationalism.md) and [empiricism](../movements/empiricism.md) by referring every dispute back to what would, concretely, make a difference. Long eclipsed by analytic philosophy, it has since seen a marked revival and remains the matrix of a whole American strand in ethics, education and social theory.
 
+**External links** : [Wikipedia](https://en.wikipedia.org/wiki/Pragmatism) · [Wikidata](https://www.wikidata.org/wiki/Q126692)
+
 **Key figures** : [Charles Sanders Peirce](../philosophers/peirce.md) · [William James](../philosophers/william-james.md) · [John Dewey](../philosophers/dewey.md)
 
 ## Core positions

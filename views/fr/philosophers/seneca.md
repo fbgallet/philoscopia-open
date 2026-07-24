@@ -6,6 +6,8 @@
 
 Figure majeure du [stoïcisme](../movements/stoicism.md) impérial, né à Cordoue vers l'an 4 avant notre ère, Sénèque fut sénateur, dramaturge et homme d'affaires fortuné avant d'être le précepteur puis le ministre de Néron, qui finit par lui ordonner de se donner la mort. Héritier du [Portique](../movements/stoicism.md) de Zénon et de Chrysippe, il déplace la philosophie de la théorie vers la cure de l'âme : ses *[dialogues](../works/on-providence-seneca.md)* et surtout ses *[Lettres à Lucilius](../works/letters-to-lucilius-seneca.md)* sont des exercices spirituels destinés à transformer celui qui les lit. Contre l'objection qu'il prêche la sagesse depuis le luxe et le pouvoir, il assume l'écart entre le sage idéal et le progressant qu'il dit être. Modèle de prose morale, sa pensée a nourri les Pères de l'Église, les essayistes de la Renaissance et le néostoïcisme moderne.
 
+**Liens externes** : [Wikipédia](https://fr.wikipedia.org/wiki/S%C3%A9n%C3%A8que) · [Wikidata](https://www.wikidata.org/wiki/Q2054)
+
 ## Positions structurantes
 
 1. [Périmètre d'action](../axes/control-scope.md) : **Ne tiens pour tien que ce qu'aucune fortune ne peut t'ôter : tes jugements et tes désirs dépendent de toi, le reste ne te fut que prêté.**

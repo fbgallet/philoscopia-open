@@ -864,6 +864,13 @@
       }
     }
   ],
+  "identity": {
+    "wikidata": "Q9358",
+    "wikipedia": {
+      "fr": "https://fr.wikipedia.org/wiki/Friedrich_Nietzsche",
+      "en": "https://en.wikipedia.org/wiki/Friedrich_Nietzsche"
+    }
+  },
   "updatedAt": "2026-07-19T00:00:00.000Z",
   "validation": {
     "method": "NOT_VALIDATED"

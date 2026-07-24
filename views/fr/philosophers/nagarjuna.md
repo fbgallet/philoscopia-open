@@ -6,6 +6,8 @@
 
 Penseur indien du [bouddhisme](../movements/buddhism.md) mahāyāna, actif vers 150-250 de notre ère (dates incertaines), tenu pour le fondateur de l'école [Madhyamaka (la Voie du Milieu)](../glossary/the-middle-way.md), l'un des deux grands courants philosophiques du Mahāyāna. Son œuvre maîtresse, les Stances du milieu par excellence (Mūlamadhyamakakārikā), mène une critique serrée, chapitre après chapitre, des catégories que les écoles bouddhiques antérieures, en particulier l'Abhidharma, tenaient pour les composants ultimes du réel. Là où le [Bouddha](../philosophers/buddha.md) visait surtout la délivrance du [mal-être (duḥkha)](../glossary/dukkha.md), Nāgārjuna en tire les conséquences logiques et métaphysiques, au risque que sa critique paraisse tout dissoudre, d'où l'objection sceptique à laquelle répond la Vigrahavyāvartanī (Réfutation des objections). Commenté par Candrakīrti et Bhāviveka, il devient une référence centrale du bouddhisme tibétain, où le Madhyamaka est l'aboutissement du cursus philosophique, comme du bouddhisme d'Asie de l'Est, dont l'école Sanlun (les « Trois Traités ») prolonge sa pensée en Chine.
 
+**Liens externes** : [Wikipédia](https://fr.wikipedia.org/wiki/N%C4%81g%C4%81rjuna) · [Wikidata](https://www.wikidata.org/wiki/Q171195)
+
 ## Positions structurantes
 
 1. [Essence et existence](../axes/essence.md) : **Aucune chose n'a de [nature propre (svabhāva)](../glossary/svabhava.md) : tout est [vide (śūnyatā)](../glossary/sunyata.md), et la vacuité elle-même n'est pas une essence cachée mais encore vide.**

@@ -1,6 +1,6 @@
 # Philoscopia — an open map of philosophical debates and worldviews, and the tools to build your own philosophical profile
 
-**🇬🇧 English · [🇫🇷 Français](README.fr.md)**
+**English · [Français](README.fr.md)**
 
 An open, bilingual (EN/FR) referential for mapping philosophical positions: **80 axes** covering the great debates, **sourced profiles** of philosophers and movements, **influence and foundation graphs**, a glossary and a registry of works — all as validated, machine-readable JSON, designed for reuse by humans and LLMs alike.
 
@@ -28,6 +28,8 @@ Everything lives under `data/`, one JSON file per entity:
 | `arguments/` | The canonical arguments (SUPPORTS) and objections (OBJECTS) bearing on a position: a chain of reasons with optional deepenings, sources, and — for objections — the honest ways out (revise / qualify / hold firm). |
 
 Most entities (themes, axes, philosophers, movements, glossary, characters) also carry **`aliases`** — bilingual lists of alternative names and everyday search terms — so a reader or LLM can reach the right entry from the words they'd naturally use, not just its canonical id.
+
+Each full **profile** (philosopher, movement, character) also carries an optional **`identity`** block linking it to the Knowledge Graph — its **Wikidata** QID and, derived from the entity's sitelinks, its **Wikipedia** article URLs. This makes the dataset *joinable*: our sourced positions can be tied back to Wikidata and Wikipedia through a stable identifier.
 
 ## Browse the corpus
 

@@ -1,0 +1,17 @@
+{
+  "kind": "PHILOSOPHER",
+  "stub": true,
+  "id": "hayek",
+  "name": { "fr": "Hayek", "en": "Hayek" },
+  "aliases": { "fr": ["Friedrich Hayek", "hayékien"], "en": ["Friedrich Hayek", "Hayekian"] },
+  "summary": {
+    "fr": "Économiste et philosophe austro-britannique du libéralisme : l'ordre social naît de l'ajustement spontané de savoirs dispersés qu'aucun planificateur ne peut centraliser, et la liberté est l'absence de coercition sous la protection de règles générales.",
+    "en": "Austrian-British economist and philosopher of liberalism: social order arises from the spontaneous adjustment of dispersed knowledge no planner can centralize, and freedom is the absence of coercion under the protection of general rules."
+  },
+  "nationality": { "fr": "Austro-britannique", "en": "Austrian-British" },
+  "birth": 1899,
+  "death": 1992,
+  "movements": [],
+  "updatedAt": "2026-07-24T00:00:00.000Z",
+  "validation": { "method": "NOT_VALIDATED" }
+}

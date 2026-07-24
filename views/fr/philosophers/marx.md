@@ -6,6 +6,8 @@
 
 Philosophe et économiste allemand du XIXe siècle, formé à l'école de [Hegel](../philosophers/hegel.md) qu'il rejoint d'abord parmi les jeunes hégéliens avant de rompre avec eux. Exilé à Paris puis à Londres après l'échec des révolutions de 1848, il mène sa critique de l'économie politique en lecteur des économistes anglais (Smith, Ricardo) et compagnon de lutte d'Engels, avec qui il rédige le Manifeste du Parti communiste. Son œuvre maîtresse, Le Capital, dont il ne publie de son vivant que le premier livre, ausculte les rouages du capitalisme là où ses prédécesseurs n'en décrivaient que la surface. Animateur de la Première Internationale, il meurt sans avoir vu triompher la révolution qu'il annonçait, mais sa pensée façonnera une part décisive de la politique, des sciences sociales et de la philosophie du XXe siècle.
 
+**Liens externes** : [Wikipédia](https://fr.wikipedia.org/wiki/Karl_Marx) · [Wikidata](https://www.wikidata.org/wiki/Q9061)
+
 ## Positions structurantes
 
 1. [Nature du réel](../axes/reality-nature.md) : **Ce ne sont pas les idées qui font l'histoire, mais la manière dont les hommes produisent leur vie : la conscience est déterminée par l'être social, non l'inverse.**

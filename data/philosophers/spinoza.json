@@ -849,6 +849,13 @@
       }
     }
   ],
+  "identity": {
+    "wikidata": "Q35802",
+    "wikipedia": {
+      "fr": "https://fr.wikipedia.org/wiki/Baruch_Spinoza",
+      "en": "https://en.wikipedia.org/wiki/Baruch_Spinoza"
+    }
+  },
   "updatedAt": "2026-07-19T00:00:00.000Z",
   "validation": {
     "method": "NOT_VALIDATED"

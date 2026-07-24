@@ -334,6 +334,13 @@
       }
     }
   ],
+  "identity": {
+    "wikidata": "Q1395219",
+    "wikipedia": {
+      "fr": "https://fr.wikipedia.org/wiki/Scepticisme_(philosophie)",
+      "en": "https://en.wikipedia.org/wiki/Skepticism"
+    }
+  },
   "updatedAt": "2026-07-19T00:00:00.000Z",
   "validation": {
     "method": "NOT_VALIDATED"

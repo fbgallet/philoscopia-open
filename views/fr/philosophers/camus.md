@@ -6,6 +6,8 @@
 
 Écrivain, journaliste et philosophe français né dans l'Algérie coloniale en 1913, dans une famille pauvre de pieds-noirs. Reporter à Alger puis résistant à Paris où il dirige le journal clandestin Combat, il aborde la philosophie en romancier et en dramaturge autant qu'en essayiste, avec *[L'Étranger](../works/the-stranger-camus.md)* et *[Le Mythe de Sisyphe](../works/the-myth-of-sisyphus-camus.md)* (1942), puis *[La Peste](../works/the-plague-camus.md)* (1947) et *[L'Homme révolté](../works/the-rebel-camus.md)* (1951). Sa question constante est celle du sens et de la conduite à tenir dans un monde qui ne répond pas à notre demande. Ce dernier essai, par sa critique des révolutions au nom de l'Histoire, provoque sa rupture éclatante avec [Sartre](../philosophers/sartre.md) et les [existentialistes](../movements/existentialism.md), dont il a toujours refusé l'étiquette. Prix Nobel de littérature en 1957, mort en 1960 dans un accident de voiture, il reste une référence majeure d'une pensée méditerranéenne de la mesure, attentive aux limites.
 
+**Liens externes** : [Wikipédia](https://fr.wikipedia.org/wiki/Albert_Camus) · [Wikidata](https://www.wikidata.org/wiki/Q34670)
+
 ## Positions structurantes
 
 1. [Le sens de la vie](../axes/life-meaning.md) : **[L'absurde](../glossary/the-absurd.md) n'est ni dans le monde ni en moi, mais dans le divorce entre ma demande de sens et le silence du monde : aucun sens donné ne le comble.**

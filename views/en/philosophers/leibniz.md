@@ -6,6 +6,8 @@
 
 A universal mind of German [rationalism](../movements/rationalism.md), born in Leipzig in the aftermath of the Thirty Years' War. A diplomat, jurist and librarian in the service of the House of Hanover, he pursued at once mathematics (inventing, at the same time as Newton and independently of him, the infinitesimal calculus, whence a bitter priority dispute), logic, physics and metaphysics. He published almost no major book: his thought lives in a vast European correspondence, in the Discourse on Metaphysics, the Monadology, and the Theodicy, the only one to appear in his lifetime. A critical heir of [Descartes](../philosophers/descartes.md) and an opponent of [Spinoza](../philosophers/spinoza.md)'s necessitarianism, he sought to reconcile the new mechanistic science with [freedom](../glossary/free-will.md), finality and a creator God. His optimism was mocked by Voltaire in Candide, yet his logic and his project of a universal language of concepts make him a recognized forerunner of modern logic.
 
+**External links** : [Wikipedia](https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz) · [Wikidata](https://www.wikidata.org/wiki/Q9047)
+
 ## Core positions
 
 1. [Nature of reality](../axes/reality-nature.md) : **The true atoms of nature are not material but spiritual: the real is made of monads, simple windowless substances, each of which expresses the whole universe in its own way.**

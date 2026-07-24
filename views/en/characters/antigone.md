@@ -6,6 +6,8 @@
 
 Daughter of Oedipus, Antigone stands at the heart of Sophocles' tragedy: Creon, the new ruler of Thebes, has forbidden, on pain of death, the burial of her brother Polynices, fallen while assaulting the city. She stands in that bare conflict between a young woman's conscience and the decree of power, between what the city commands and what she holds owed to the gods and to her own. Reworked by Anouilh in 1944, she became the very figure of solitary refusal, the one who says no in the name of a demand higher than the state.
 
+**External links** : [Wikipedia](https://en.wikipedia.org/wiki/Antigone) · [Wikidata](https://www.wikidata.org/wiki/Q131351)
+
 ## Core positions
 
 1. [Where the sacred resides](../axes/transcendence.md) : **The gods' unwritten laws are not of yesterday or today, and no mortal's decree can override them.**

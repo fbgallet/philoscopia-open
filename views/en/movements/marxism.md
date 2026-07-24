@@ -6,6 +6,8 @@
 
 A tradition founded by [Karl Marx](../philosophers/marx.md) and Friedrich Engels, from the Communist Manifesto (1848) to Capital (1867), at once an analysis of capitalism, a philosophy of [history](../axes/history-meaning.md), and a project of emancipation. Marxism is born of a twofold inverted inheritance: [Hegel](../philosophers/hegel.md)'s dialectic, which it "sets back on its feet" by tearing it from idealism, and English political economy (Smith, Ricardo), of which it makes a critique to expose exploitation within it. To the problem of the workers' misery of industrialization it opposes not a moral appeal but a science of the contradictions of capital. After Marx the current split into rival lineages: social democracy (Kautsky, Bernstein), Leninism and its twentieth-century regimes, and finally Western Marxism (Gramsci and his hegemony, the Frankfurt School, Althusser), which extends its critique of culture and ideology far from any state power. Few bodies of thought have so marked political history, historiography, and the social sciences.
 
+**External links** : [Wikipedia](https://en.wikipedia.org/wiki/Marxism) · [Wikidata](https://www.wikidata.org/wiki/Q7264)
+
 **Key figures** : [Karl Marx](../philosophers/marx.md) · [Friedrich Engels](../philosophers/engels.md) · [Antonio Gramsci](../philosophers/gramsci.md)
 
 ## Core positions

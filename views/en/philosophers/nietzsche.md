@@ -6,6 +6,8 @@
 
 A German philosopher and philologist, a professor at Basel at twenty-four before illness forced him to withdraw. First marked by Schopenhauer and the composer Wagner, from whom he broke away, he waged a radical critique of metaphysics, morality and Christianity, in a style of aphorisms and genealogy. Having sunk into madness in 1889 and long disfigured by posthumous misappropriations, he stands as one of the major sources of twentieth-century thought, from psychoanalysis to existentialism.
 
+**External links** : [Wikipedia](https://en.wikipedia.org/wiki/Friedrich_Nietzsche) · [Wikidata](https://www.wikidata.org/wiki/Q9358)
+
 ## Core positions
 
 1. [Status of norms (metaethics)](../axes/moral-scope.md) : **There is no universal morality: every morality is the creation of a type of life, which a genealogy traces back to its origins.**

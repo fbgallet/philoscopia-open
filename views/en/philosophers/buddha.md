@@ -6,6 +6,8 @@
 
 The Awakened One, founder of [Buddhism](../movements/buddhism.md), a wandering teacher of north-eastern India whose life tradition places between 563 and 483 BCE, dates that are traditional and debated. Born a prince of the Shakya clan, he is shown by tradition leaving his palace at the sight of sickness, old age and death, then living six years as a renunciant and ascetic before reaching awakening under the Bodhi tree at Bodh Gaya. He first preaches at Benares, gathers around him a community of monks and laypeople, the community (saṅgha), and teaches for forty years. His words, at first transmitted orally, were fixed centuries later in the discourses (suttas) of the Pāli Canon. His teaching begins from an observation, the pervasiveness of dis-ease in existence, and seeks less to explain the world than to release one from it: to the great metaphysical questions that do not aid that release Gautama opposes a deliberate **silence**, just as a man struck by an arrow need not learn who shot it before it is drawn out. Spread from Sri Lanka across East Asia, his teaching gave rise to one of the great philosophical and spiritual traditions of the world.
 
+**External links** : [Wikipedia](https://en.wikipedia.org/wiki/The_Buddha) · [Wikidata](https://www.wikidata.org/wiki/Q9441)
+
 ## Core positions
 
 1. [Nature of the self](../axes/self-nature.md) : **There is no self: what we call "self" is only an impermanent bundle of aggregates, and to seek a permanent [ātman](../glossary/atman.md) within is to chase an illusion.**

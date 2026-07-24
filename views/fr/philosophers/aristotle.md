@@ -6,6 +6,8 @@
 
 Né à Stagire en Macédoine, Aristote rejoint à dix-sept ans l'Académie de [Platon](../philosophers/plato.md), où il étudie une vingtaine d'années avant de devenir précepteur du jeune Alexandre, puis de fonder à Athènes sa propre école, le Lycée. Encyclopédiste de l'Antiquité, il écrit sur la logique, la physique, la biologie, la métaphysique, l'éthique, la politique et la poétique, fondant ou réorganisant la plupart de ces disciplines. Sa méthode part des phénomènes observés et des opinions reçues (les **endoxa**), recense les difficultés, puis cherche les causes et les principes : une démarche d'enquête patiente, souvent dirigée contre les thèses de son maître. Transmise par les commentateurs grecs, puis arabes et latins, sa pensée devient au Moyen Âge « le Philosophe » par excellence et la charpente de la scolastique, avant d'être combattue par la science moderne et sans cesse relue jusqu'à aujourd'hui.
 
+**Liens externes** : [Wikipédia](https://fr.wikipedia.org/wiki/Aristote) · [Wikidata](https://www.wikidata.org/wiki/Q868)
+
 ## Positions structurantes
 
 1. [Explication de la nature](../axes/causality.md) : **La nature ne fait rien en vain : tout être tend vers une fin inscrite dans sa forme, et c'est la cause finale, non le seul mécanisme, qui explique ce qui advient.**

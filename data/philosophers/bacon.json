@@ -488,6 +488,13 @@
       }
     }
   ],
+  "identity": {
+    "wikidata": "Q37388",
+    "wikipedia": {
+      "fr": "https://fr.wikipedia.org/wiki/Francis_Bacon_(philosophe)",
+      "en": "https://en.wikipedia.org/wiki/Francis_Bacon"
+    }
+  },
   "updatedAt": "2026-07-20T00:00:00.000Z",
   "validation": {
     "method": "NOT_VALIDATED"

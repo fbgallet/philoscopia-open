@@ -6,6 +6,8 @@
 
 Athénien né dans une famille aristocratique, disciple de Socrate dont la condamnation à mort le détourna de la carrière politique, Platon (vers 428-348 av. J.-C.) fonde vers 387 l'Académie, qui survivra près de neuf siècles. Tout son œuvre est écrite en dialogues, où la voix de Socrate mène l'enquête : ce choix littéraire fait de la dialectique, l'examen contradictoire des opinions, la méthode même de la philosophie. Il y affronte le défi des sophistes et du relativisme de son temps, la question « comment vivre et gouverner justement ? » héritée du procès de Socrate, et celle d'un savoir stable dans un monde changeant. De la *[République](../works/republic-plato.md)* au *[Timée](../works/timaeus-plato.md)* et aux *[Lois](../works/laws-plato.md)*, son influence est telle que toute la tradition occidentale a pu être lue, selon le mot de Whitehead, comme « une série de notes en bas de page à Platon ».
 
+**Liens externes** : [Wikipédia](https://fr.wikipedia.org/wiki/Platon) · [Wikidata](https://www.wikidata.org/wiki/Q859)
+
 ## Positions structurantes
 
 1. [Nature du réel](../axes/reality-nature.md) : **Le monde sensible n'est pas le vrai réel : derrière lui existent des [Idées](../glossary/theory-of-forms.md) intelligibles, éternelles et immuables, dont les choses ne sont que des copies imparfaites.**

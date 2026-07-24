@@ -106,6 +106,13 @@
       }
     }
   ],
+  "identity": {
+    "wikidata": "Q875686",
+    "wikipedia": {
+      "fr": "https://fr.wikipedia.org/wiki/%C3%89thique_de_l%27environnement",
+      "en": "https://en.wikipedia.org/wiki/Environmental_ethics"
+    }
+  },
   "updatedAt": "2026-07-03T00:00:00.000Z",
   "validation": {
     "method": "NOT_VALIDATED"

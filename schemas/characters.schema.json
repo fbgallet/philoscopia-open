@@ -66,6 +66,33 @@
         }
       }
     },
+    "identity": {
+      "type": "object",
+      "properties": {
+        "wikidata": {
+          "type": "string",
+          "pattern": "^Q\\d+$"
+        },
+        "wikipedia": {
+          "type": "object",
+          "properties": {
+            "fr": {
+              "type": "string",
+              "format": "uri"
+            },
+            "en": {
+              "type": "string",
+              "format": "uri"
+            }
+          },
+          "additionalProperties": false
+        }
+      },
+      "required": [
+        "wikidata"
+      ],
+      "additionalProperties": false
+    },
     "summary": {
       "type": "object",
       "properties": {

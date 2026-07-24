@@ -6,6 +6,8 @@
 
 Né dans l'Angleterre des Lumières et de la révolution industrielle, l'utilitarisme prolonge l'[empirisme](../movements/empiricism.md) moral de [Hume](../philosophers/hume.md) et l'arithmétique des plaisirs d'Helvétius, que [Bentham](../philosophers/bentham.md) érige vers 1789 en principe unique de réforme. Devant un droit, des prisons et des institutions hérités et arbitraires, il cherche un critère mesurable et public du juste, soustrait à la coutume et à la [volonté divine](../axes/god-existence.md). [Mill](../philosophers/mill.md) en affine la psychologie et la défense, Sidgwick en éprouve la rigueur dans « Les Méthodes de l'éthique », et le courant essaime de la réforme pénale à l'éthique animale de Singer et à l'altruisme efficace contemporain. Il demeure, face à la déontologie et à l'éthique de la [vertu](../axes/ethics-foundation.md), l'une des grandes familles de l'éthique normative.
 
+**Liens externes** : [Wikipédia](https://fr.wikipedia.org/wiki/Utilitarisme) · [Wikidata](https://www.wikidata.org/wiki/Q160590)
+
 **Figures majeures** : [Bentham](../philosophers/bentham.md) · [John Stuart Mill](../philosophers/mill.md) · [Sidgwick](../philosophers/sidgwick.md) · [Peter Singer](../philosophers/singer.md)
 
 ## Positions structurantes

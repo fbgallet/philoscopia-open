@@ -6,6 +6,8 @@
 
 Haut fonctionnaire de la République de Florence, chargé quatorze ans durant des affaires diplomatiques et militaires, il observe de près le pouvoir en acte, de César Borgia aux cours de France et de l'Empire. Écarté puis emprisonné au retour des Médicis en 1512, il écrit dans la disgrâce, sur ses terres de Sant'Andrea, *[Le Prince](../works/the-prince-machiavelli.md)* (1513) et les *[Discours sur la première décade de Tite-Live](../works/discourses-on-livy-machiavelli.md)*, rompant avec la tradition du **miroir des princes** pour fonder une science de la politique tirée de l'histoire romaine et de l'expérience. Républicain de conviction autant que théoricien du pouvoir princier, il a laissé son nom à une manière, le « machiavélisme », qui trahit souvent sa pensée : moins un éloge du mal qu'une lucidité désenchantée sur les ressorts de l'action collective. Longtemps lu comme le maître des tyrans, il est aujourd'hui reconnu comme le premier penseur politique moderne, revendiqué par la tradition réaliste comme par le républicanisme.
 
+**Liens externes** : [Wikipédia](https://fr.wikipedia.org/wiki/Nicolas_Machiavel) · [Wikidata](https://www.wikidata.org/wiki/Q1399)
+
 ## Positions structurantes
 
 1. [Idéal et réel](../axes/political-ideal.md) : **Il faut partir de la [vérité effective](../glossary/verita-effettuale.md) des choses, non des républiques imaginées qui n'ont jamais existé : qui délaisse ce qui se fait pour ce qui devrait se faire apprend sa ruine plutôt que son salut.**

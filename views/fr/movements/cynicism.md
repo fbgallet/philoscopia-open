@@ -6,6 +6,8 @@
 
 Né à Athènes au IVe siècle avant notre ère, le cynisme se rattache à Socrate par Antisthène, mais c'est Diogène de Sinope, exilé qui vécut dit-on dans un tonneau, qui en fit une provocation érigée en philosophie : le scandale public, l'anecdote mordante et le geste valent ici l'argument. Le mot « cynique » vient du grec kynikos (« comme un chien »), un sobriquet que l'école retourna en fierté, et n'a rien de son sens péjoratif moderne. L'essentiel de la doctrine ne nous est connu qu'indirectement, par les chries (anecdotes) que compila Diogène Laërce, car les cyniques écrivirent peu et tinrent la philosophie pour affaire de vie plus que de traités. Cratès de Thèbes en adoucit la figure et transmit l'enseignement à Zénon de Citium : par lui, le cynisme devient l'une des racines du [stoïcisme](../movements/stoicism.md), qui héritera de son cosmopolitisme et de l'idée que la vertu suffit, en lui adjoignant la physique et la logique que les cyniques dédaignaient.
 
+**Liens externes** : [Wikipédia](https://fr.wikipedia.org/wiki/Cynisme) · [Wikidata](https://www.wikidata.org/wiki/Q485459)
+
 **Figures majeures** : [Diogène de Sinope](../philosophers/diogenes.md) · [Antisthène](../philosophers/antisthenes.md) · [Cratès](../philosophers/crates.md)
 
 ## Positions structurantes

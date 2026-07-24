@@ -6,6 +6,8 @@
 
 Empereur romain de 161 à 180 et dernier des « bons empereurs » de la dynastie des Antonins, Marc Aurèle fut adopté par Antonin le Pieux et gouverna un Empire éprouvé par les guerres du Danube et par une grande peste. [Stoïcien](../movements/stoicism.md), il fut décisivement marqué par la lecture des *[Entretiens](../works/discourses-epictetus.md)* d'[Épictète](../philosophers/epictetus.md), que lui transmit son maître Rusticus, et il hérite du Portique romain de [Sénèque](../philosophers/seneca.md). Ses *[Pensées pour moi-même](../works/meditations-marcus-aurelius.md)*, carnet rédigé en grec au fil des campagnes et jamais destiné à la publication, ne sont pas un traité mais une suite d'exhortations qu'il s'adresse à lui-même pour se reconduire chaque jour à la vie selon la [raison](../glossary/logos.md). Devenues l'un des grands classiques de la spiritualité, elles offrent le rare témoignage d'un homme de pouvoir cherchant, dans l'exercice quotidien, à rester juste et serein.
 
+**Liens externes** : [Wikipédia](https://fr.wikipedia.org/wiki/Marc_Aur%C3%A8le) · [Wikidata](https://www.wikidata.org/wiki/Q1430)
+
 ## Positions structurantes
 
 1. [Intériorité](../axes/interiority.md) : **Tu n'as pas besoin de te retirer à la campagne ni au bord de la mer : à toute heure tu peux rentrer en toi-même, car nulle retraite n'est plus tranquille que sa propre [âme](../glossary/hegemonikon.md).**

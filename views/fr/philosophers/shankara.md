@@ -6,6 +6,8 @@
 
 Maître de l'[Advaita Vedānta](../movements/vedanta.md), la branche non-dualiste du Vedānta, traditionnellement situé en Inde vers 700-750 (sa datation reste discutée). Il systématise une lecture des Upaniṣad où le soi ([ātman](../glossary/atman.md)) et l'absolu ([brahman](../glossary/brahman.md)) sont une seule et même réalité, contre les écoles dualistes et ritualistes de son temps. On lui doit de grands commentaires (bhāṣya) sur les *[Brahma Sūtra](../works/brahma-sutras-badarayana.md)* de [Bādarāyaṇa](../philosophers/badarayana.md), sur les principales Upaniṣad et sur la Bhagavad Gītā, ainsi que des traités didactiques comme l'*[Upadeśasāhasrī](../works/upadesasahasri-shankara.md)*. Héritier de [Gauḍapāda](../philosophers/gaudapada.md), il fait de la voie de la connaissance ([jñāna](../glossary/jnana.md)) le cœur de sa doctrine, et la tradition lui rattache la fondation de monastères (maṭha) qui pérenniseront son école. Son non-dualisme reste à ce jour le courant le plus influent de la philosophie hindoue.
 
+**Liens externes** : [Wikipédia](https://fr.wikipedia.org/wiki/Adi_Shankara) · [Wikidata](https://www.wikidata.org/wiki/Q180967)
+
 ## Positions structurantes
 
 1. [Nature du moi](../axes/self-nature.md) : **Tu n'es ni ton corps ni ton mental : ton soi véritable ([ātman](../glossary/atman.md)) est la conscience-témoin, et elle est identique à l'absolu, le [brahman](../glossary/brahman.md).**

@@ -6,6 +6,8 @@
 
 Founder of [phenomenology](../movements/phenomenology.md), first a mathematician trained under Weierstrass before turning to philosophy under the influence of Brentano, from whom he takes up the notion of [intentionality](../glossary/intentionality.md). With the *[Logical Investigations](../works/logical-investigations-husserl.md)* he breaks with the prevailing [psychologism](../glossary/psychologism.md) and undertakes to refound philosophy as a rigorous science, faithful to the watchword "“to the things themselves”". The *[Ideas](../works/ideas-i-husserl.md)* carry out his transcendental turn, the *[Cartesian Meditations](../works/cartesian-meditations-husserl.md)* confront the problem of the other, and the *[Crisis of the European Sciences](../works/crisis-of-the-european-sciences-husserl.md)* introduces the [life-world](../glossary/lebenswelt.md). A professor at Göttingen and then Freiburg, barred by the Nazi regime on account of his Jewish origins, he trained and inspired a whole posterity, from [Heidegger](../philosophers/heidegger.md), his assistant, to [Merleau-Ponty](../philosophers/merleau-ponty.md), [Sartre](../philosophers/sartre.md) and [Levinas](../philosophers/levinas.md).
 
+**External links** : [Wikipedia](https://en.wikipedia.org/wiki/Edmund_Husserl) · [Wikidata](https://www.wikidata.org/wiki/Q58586)
+
 ## Core positions
 
 1. [Relation to certainty](../axes/certainty.md) : **Philosophy must become a “rigorous science”: knowledge of apodictic evidence, grounded on things giving themselves to the gaze that describes them.**

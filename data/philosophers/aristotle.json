@@ -945,6 +945,13 @@
       }
     }
   ],
+  "identity": {
+    "wikidata": "Q868",
+    "wikipedia": {
+      "fr": "https://fr.wikipedia.org/wiki/Aristote",
+      "en": "https://en.wikipedia.org/wiki/Aristotle"
+    }
+  },
   "updatedAt": "2026-07-19T00:00:00.000Z",
   "validation": {
     "method": "NOT_VALIDATED"

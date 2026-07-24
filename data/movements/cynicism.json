@@ -584,6 +584,13 @@
       }
     }
   ],
+  "identity": {
+    "wikidata": "Q485459",
+    "wikipedia": {
+      "fr": "https://fr.wikipedia.org/wiki/Cynisme",
+      "en": "https://en.wikipedia.org/wiki/Cynicism_(philosophy)"
+    }
+  },
   "updatedAt": "2026-07-19T00:00:00.000Z",
   "validation": {
     "method": "NOT_VALIDATED"

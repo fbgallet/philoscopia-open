@@ -1055,6 +1055,13 @@
       }
     }
   ],
+  "identity": {
+    "wikidata": "Q859",
+    "wikipedia": {
+      "fr": "https://fr.wikipedia.org/wiki/Platon",
+      "en": "https://en.wikipedia.org/wiki/Plato"
+    }
+  },
   "updatedAt": "2026-07-19T00:00:00.000Z",
   "validation": {
     "method": "NOT_VALIDATED"

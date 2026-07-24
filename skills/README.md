@@ -1,5 +1,7 @@
 # Exploration skills
 
+**English · [Français](README.fr.md)**
+
 Eight [agent skills](https://agentskills.io) that turn any capable assistant into a philosophical companion over the [Philoscopia MCP server](../mcp/): they carry the conversational craft (how to conduct a session), while the server carries the data and the persistence.
 
 | Skill | Job |

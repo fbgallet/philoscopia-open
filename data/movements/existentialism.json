@@ -467,6 +467,13 @@
       }
     }
   ],
+  "identity": {
+    "wikidata": "Q38066",
+    "wikipedia": {
+      "fr": "https://fr.wikipedia.org/wiki/Existentialisme",
+      "en": "https://en.wikipedia.org/wiki/Existentialism"
+    }
+  },
   "updatedAt": "2026-06-24T00:00:00.000Z",
   "validation": {
     "method": "NOT_VALIDATED"

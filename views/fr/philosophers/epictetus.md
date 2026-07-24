@@ -6,6 +6,8 @@
 
 Philosophe [stoïcien](../movements/stoicism.md) de l'époque impériale, né esclave en Phrygie puis affranchi à Rome. Formé auprès du stoïcien Musonius Rufus, il enseigne d'abord à Rome, d'où l'empereur Domitien l'exile avec les autres philosophes, puis fonde une école renommée à Nicopolis, en Épire. Il n'a rien écrit : son enseignement oral nous est parvenu par les notes de son disciple Arrien, qui composa les *[Entretiens](../works/discourses-epictetus.md)* et le *[Manuel](../works/enchiridion-epictetus.md)*. Cette éthique de la vie bonne a profondément marqué Marc Aurèle, qui le cite parmi ses maîtres, et inspire aujourd'hui les thérapies cognitivo-comportementales.
 
+**Liens externes** : [Wikipédia](https://fr.wikipedia.org/wiki/%C3%89pict%C3%A8te) · [Wikidata](https://www.wikidata.org/wiki/Q183144)
+
 ## Positions structurantes
 
 1. [Périmètre d'action](../axes/control-scope.md) : **Partage d'abord tes affaires en deux : [ce qui dépend de toi](../glossary/dichotomy-of-control.md) et ce qui n'en dépend pas, car tout le malheur vient d'avoir confondu les deux.**

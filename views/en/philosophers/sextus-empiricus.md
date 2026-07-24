@@ -6,6 +6,8 @@
 
 A physician of the Empiric school and a Greek philosopher of the 2nd-3rd centuries, of whom almost nothing is known beyond his works. He is the chief source that transmitted Pyrrhonian [skepticism](../movements/skepticism.md) to us, the current inspired by [Pyrrho](../philosophers/pyrrho.md) of Elis and systematized by Aenesidemus and then Agrippa. His *[Outlines of Pyrrhonism](../works/outlines-of-pyrrhonism-sextus-empiricus.md)* and his *[Against the Mathematicians](../works/against-the-mathematicians-sextus-empiricus.md)* preserve the complete arsenal of [modes](../glossary/skeptical-modes.md), those patterns of opposition by which the skeptic balances the arguments of the [dogmatists](../glossary/dogmatism.md), Stoic and Epicurean alike. Presenting skepticism not as a doctrine but as a "way" and an art of living, he nourished, on his rediscovery in the Renaissance, the doubt of [Montaigne](../philosophers/montaigne.md) and then, by reaction, the quest for certainty of [Descartes](../philosophers/descartes.md).
 
+**External links** : [Wikipedia](https://en.wikipedia.org/wiki/Sextus_Empiricus) · [Wikidata](https://www.wikidata.org/wiki/Q236594)
+
 ## Core positions
 
 1. [Relation to certainty](../axes/certainty.md) : **To every thesis answers a contrary one of equal strength: unable to decide, [suspend your judgment](../glossary/epoche.md), and do not even assert that nothing can be known.**

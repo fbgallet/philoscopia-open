@@ -6,6 +6,8 @@
 
 A current born in the twentieth century from the ecological crisis and the animal question, which contests the dominant anthropocentrism: moral worth does not stop at humanity. [Leopold](../philosophers/leopold.md) and his land ethic extend the moral community to soils, waters and species; [Næss](../philosophers/naess.md) grounds deep ecology in the intrinsic worth of all living things and the human as one member among others; [Singer](../philosophers/singer.md) and [Regan](../philosophers/regan.md) carry the animal cause, one in the name of suffering, the other of rights; [Schweitzer](../philosophers/schweitzer.md) preaches reverence for life, [Jonas](../philosophers/jonas.md) a responsibility toward future generations. A family shot through with tensions, from concern for the sentient individual to concern for ecological wholes, it shares the refusal to treat nature as a mere resource.
 
+**External links** : [Wikipedia](https://en.wikipedia.org/wiki/Environmental_ethics) · [Wikidata](https://www.wikidata.org/wiki/Q875686)
+
 **Key figures** : [Leopold](../philosophers/leopold.md) · [Næss](../philosophers/naess.md) · [Singer](../philosophers/singer.md)
 
 ## Core positions

@@ -1,0 +1,111 @@
+{
+  "id": "liberty-or-security",
+  "kind": "OBJECTS",
+  "position": {
+    "axisId": "POLITICAL_LIBERTY",
+    "poleId": "NON_DOMINATION"
+  },
+  "name": {
+    "fr": "L'objection de la liberté et de sa sûreté",
+    "en": "The objection from liberty and its security"
+  },
+  "claim": {
+    "fr": "La non-domination confond la liberté avec sa garantie : l'exposition à un pouvoir n'ôte rien à ce qu'on peut faire, elle rend seulement la liberté précaire.",
+    "en": "Non-domination confuses liberty with its guarantee: exposure to a power takes nothing away from what one can do; it only makes liberty precarious."
+  },
+  "development": [
+    {
+      "fr": "Distinguons ce que je peux faire aujourd'hui et la solidité de ce pouvoir demain : une chose est d'être libre, une autre d'être assuré de le rester.",
+      "en": "Distinguish what I can do today from how solid that power is tomorrow: being free is one thing, being assured of remaining free another."
+    },
+    {
+      "fr": "L'esclave du bon maître peut, aujourd'hui, agir à sa guise sur tout le champ laissé ouvert : ce qui lui manque est la certitude que ce champ restera ouvert, c'est-à-dire la <kw>sûreté</kw>, non l'étendue, de sa liberté.",
+      "en": "The kind master's slave can, today, act as he pleases across the whole field left open: what he lacks is the certainty that this field will stay open, that is, the <kw>security</kw>, not the extent, of his liberty."
+    },
+    {
+      "fr": "L'autocensure du dépendant montre le coût pratique de la dépendance ; pour le décrire, nul besoin d'une autre définition : la simple probabilité d'une ingérence réduit la liberté sur laquelle on peut compter, et c'est bien en termes d'ingérence attendue qu'on la mesure.",
+      "en": "The dependent's self-censorship shows the practical cost of dependence; describing it needs no new definition: the mere probability of interference already reduces the liberty one can count on, and it is precisely in terms of expected interference that it gets measured."
+    },
+    {
+      "fr": "On répondra que seul domine le pouvoir arbitraire, non contrôlé ; mais alors le désaccord devient affaire de degré : plus un pouvoir est encadré, moins l'ingérence est probable, et la « <kw>domination</kw> » se laisse mesurer en risque d'ingérence, sans nouveau concept.",
+      "en": "It will be replied that only arbitrary, uncontrolled power dominates; but then the disagreement becomes one of degree: the more a power is checked, the less likely interference becomes, and \"<kw>domination</kw>\" can be measured as a risk of interference, with no new concept."
+    }
+  ],
+  "conclusion": {
+    "fr": "La dépendance rend la liberté fragile et précieuse à garantir ; elle ne change pas ce qu'être libre veut dire.",
+    "en": "Dependence makes liberty fragile and precious to guarantee; it does not change what being free means."
+  },
+  "difficulty": 2,
+  "source": {
+    "author": {
+      "fr": "William Paley",
+      "en": "William Paley"
+    },
+    "figures": [
+      {
+        "name": {
+          "fr": "Paley",
+          "en": "Paley"
+        },
+        "kind": "PHILOSOPHER"
+      }
+    ],
+    "work": {
+      "fr": "Principes de philosophie morale et politique",
+      "en": "The Principles of Moral and Political Philosophy"
+    },
+    "year": 1785
+  },
+  "attacks": "REASONING",
+  "targets": ["non-domination-arbitrary-power"],
+  "relatedThoughtExperiment": "the-kind-master",
+  "responses": [
+    {
+      "id": "freedom-is-noninterference",
+      "label": {
+        "fr": "La liberté se mesure à ce qu'on peut faire sans entrave ; la protéger est une autre affaire.",
+        "en": "Liberty is measured by what one can do unhindered; protecting it is another matter."
+      },
+      "hints": [
+        {
+          "axisId": "POLITICAL_LIBERTY",
+          "value": { "kind": "weights", "weights": [1, 0, 0, 0] },
+          "weight": 2
+        }
+      ]
+    },
+    {
+      "id": "guaranteed-liberty",
+      "label": {
+        "fr": "Une liberté révocable à merci vaut moins ; mais appelons-la liberté garantie plutôt que d'en faire un autre concept.",
+        "en": "A liberty revocable at will is worth less; but call it guaranteed liberty rather than making it another concept."
+      },
+      "hints": [
+        {
+          "axisId": "POLITICAL_LIBERTY",
+          "value": { "kind": "weights", "weights": [1, 0, 0, 0] },
+          "weight": 1
+        }
+      ],
+      "discussion": {
+        "fr": "La voie de l'État de droit : <ph id='hayek'>Hayek</ph> plutôt que <ph>Pettit</ph>.",
+        "en": "The rule-of-law route: <ph id='hayek'>Hayek</ph> rather than <ph>Pettit</ph>."
+      }
+    },
+    {
+      "id": "servitude-itself",
+      "label": {
+        "fr": "Tenir sa vie entière du bon vouloir d'un autre n'est pas une liberté fragile : c'est la servitude même, un statut diminué que nulle probabilité ne mesure.",
+        "en": "To hold one's whole life at another's good pleasure is not fragile liberty: it is servitude itself, a diminished standing that no probability measures."
+      },
+      "hints": [
+        {
+          "axisId": "POLITICAL_LIBERTY",
+          "value": { "kind": "weights", "weights": [0, 0, 1, 0] },
+          "weight": 0.5
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-24T00:00:00.000Z"
+}

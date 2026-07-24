@@ -6,6 +6,8 @@
 
 Philosophe et philologue allemand, professeur à Bâle à vingt-quatre ans avant que la maladie ne l'écarte. D'abord marqué par Schopenhauer et le compositeur Wagner, dont il se détache, il mène une critique radicale de la métaphysique, de la morale et du christianisme, dans un style d'aphorismes et de généalogie. Sombré dans la folie en 1889, longtemps défiguré par des récupérations posthumes, il s'impose comme l'une des sources majeures de la pensée du XXe siècle, de la psychanalyse à l'existentialisme.
 
+**Liens externes** : [Wikipédia](https://fr.wikipedia.org/wiki/Friedrich_Nietzsche) · [Wikidata](https://www.wikidata.org/wiki/Q9358)
+
 ## Positions structurantes
 
 1. [Statut des normes (métaéthique)](../axes/moral-scope.md) : **Il n'existe pas de morale universelle : toute morale est la création d'un type de vie, qu'une généalogie ramène à ses origines.**

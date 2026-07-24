@@ -642,6 +642,13 @@
       }
     }
   ],
+  "identity": {
+    "wikidata": "Q9333",
+    "wikipedia": {
+      "fr": "https://fr.wikipedia.org/wiki/Lao_Tseu",
+      "en": "https://en.wikipedia.org/wiki/Laozi"
+    }
+  },
   "updatedAt": "2026-07-20T00:00:00.000Z",
   "validation": {
     "method": "NOT_VALIDATED"

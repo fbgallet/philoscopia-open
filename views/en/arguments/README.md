@@ -173,6 +173,16 @@
 - [The slope of favoritism](partiality-partialism-favoritism-objection.md) (against « Partialism »)
 - [The limits you already accept](partiality-partialism-impartial-limits.md) (against « Partialism »)
 
+## [Political liberty](../axes/political-liberty.md)
+
+- [The capabilities argument](capability-real-freedom.md) (for « Capability freedom »)
+- [The true-self objection](forced-to-be-free-objection.md) (against « Positive liberty »)
+- [The conditions-of-liberty objection](freedom-vs-its-conditions.md) (against « Capability freedom »)
+- [The objection from liberty and its security](liberty-or-security.md) (against « Republican non-domination »)
+- [The plurality-of-ends argument](negative-liberty-pluralism.md) (for « Negative liberty »)
+- [The self-censorship argument](non-domination-arbitrary-power.md) (for « Republican non-domination »)
+- [The self-prescribed law argument](positive-liberty-autonomy.md) (for « Positive liberty »)
+
 ## [Place of science](../axes/science-place.md)
 
 - [Conjectures and refutations](critical-rationalism-conjectures.md) (for « Critical rationalism »)

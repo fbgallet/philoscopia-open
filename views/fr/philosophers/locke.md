@@ -6,6 +6,8 @@
 
 Médecin et philosophe anglais du Siècle des lumières naissant, tenu pour le père de l'[empirisme](../movements/empiricism.md) classique et du libéralisme politique. Lié au comte de Shaftesbury, mêlé aux luttes contre l'absolutisme des Stuart, il connaît l'exil aux Provinces-Unies et ne publie ses grands ouvrages qu'au retour, après la Glorieuse Révolution de 1688. Son *[Essai sur l'entendement humain](../works/essay-concerning-human-understanding-locke.md)* entreprend de mesurer la portée et les limites de la connaissance humaine, contre le [rationalisme](../movements/rationalism.md) de [Descartes](../philosophers/descartes.md) ; ses *[Traités du gouvernement civil](../works/two-treatises-of-government-locke.md)*, écrits contre l'absolutisme, refondent la légitimité du pouvoir, et sa *[Lettre sur la tolérance](../works/letter-concerning-toleration-locke.md)* sépare l'Église de l'État. Méthode patiente, attentive à l'usage ordinaire de l'esprit, plus soucieuse de probabilité que de système. Sa postérité est immense : il inspire les Lumières, et ses thèses sur les droits naturels et le consentement nourrissent la révolution américaine comme la Révolution française.
 
+**Liens externes** : [Wikipédia](https://fr.wikipedia.org/wiki/John_Locke) · [Wikidata](https://www.wikidata.org/wiki/Q9353)
+
 ## Positions structurantes
 
 1. [Source de la connaissance](../axes/knowledge-source.md) : **Il n'existe aucune [idée innée](../glossary/innate-ideas.md) : l'esprit naît [table rase](../glossary/tabula-rasa.md), et la sensation et la réflexion suffisent à former toutes nos idées.**

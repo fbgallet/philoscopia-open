@@ -6,6 +6,8 @@
 
 Indian thinker of Mahāyāna [Buddhism](../movements/buddhism.md), active around 150-250 CE (dates uncertain), regarded as the founder of the [Madhyamaka (the Middle Way)](../glossary/the-middle-way.md) school, one of the two great philosophical currents of the Mahāyāna. His masterwork, the Fundamental Verses on the Middle Way (Mūlamadhyamakakārikā), mounts a tight, chapter-by-chapter critique of the categories that the earlier Buddhist schools, the Abhidharma above all, held to be the ultimate constituents of the real. Where the [Buddha](../philosophers/buddha.md) aimed chiefly at release from [dis-ease (duḥkha)](../glossary/dukkha.md), Nāgārjuna draws out its logical and metaphysical consequences, at the risk of seeming to dissolve everything, hence the skeptical objection answered in the Vigrahavyāvartanī (The Dispeller of Disputes). Commented on by Candrakīrti and Bhāviveka, he became a central reference for Tibetan Buddhism, where Madhyamaka crowns the philosophical curriculum, and for East Asian Buddhism, whose Sanlun (the "Three Treatises") school carried his thought into China.
 
+**External links** : [Wikipedia](https://en.wikipedia.org/wiki/Nagarjuna) · [Wikidata](https://www.wikidata.org/wiki/Q171195)
+
 ## Core positions
 
 1. [Essence and existence](../axes/essence.md) : **Nothing has an [inherent existence (svabhāva)](../glossary/svabhava.md): everything is [empty (śūnyatā)](../glossary/sunyata.md), and emptiness itself is no hidden essence but is empty in turn.**

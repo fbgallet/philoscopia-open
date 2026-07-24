@@ -6,6 +6,8 @@
 
 Philosophe grec d'Élis, dans le Péloponnèse, tenu pour le père du [scepticisme](../movements/skepticism.md) antique. Il n'a rien écrit : sa doctrine ne nous est connue que par son disciple Timon de Phlionte, puis par Énésidème, Cicéron, Diogène Laërce et [Sextus Empiricus](../philosophers/sextus-empiricus.md), qui le réclame comme inspirateur. La tradition rapporte qu'il accompagna l'expédition d'Alexandre jusqu'en Inde, où il fréquenta les sages nus (les « gymnosophistes »), expérience souvent reliée à son idéal d'indifférence et d'imperturbabilité. Son scepticisme n'est pas d'abord une théorie de la connaissance mais une manière de vivre : un retrait existentiel devant des choses jugées indéterminées, où la [suspension du jugement](../glossary/epoche.md) ouvre sur la tranquillité ([ataraxie](../glossary/ataraxia.md)). Là où [Sextus](../philosophers/sextus-empiricus.md) en fera plus tard une méthode argumentée, Pyrrhon en reste à la figure du sage que rien n'émeut.
 
+**Liens externes** : [Wikipédia](https://fr.wikipedia.org/wiki/Pyrrhon_d%27%C3%89lis) · [Wikidata](https://www.wikidata.org/wiki/Q192313)
+
 ## Positions structurantes
 
 1. [Rapport à la certitude](../axes/certainty.md) : **Les choses ne sont pas plus ceci que cela : indéterminées et indiscernables, elles ne méritent ni nos sens ni nos opinions, alors [n'aie aucune opinion](../glossary/epoche.md).**

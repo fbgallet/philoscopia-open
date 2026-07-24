@@ -6,6 +6,8 @@
 
 Grand système post-kantien qui, de [Fichte](../philosophers/fichte.md) à [Hegel](../philosophers/hegel.md) en passant par [Schelling](../philosophers/schelling.md), radicalise le tournant critique de [Kant](../philosophers/kant.md) tout en franchissant la limite qu'il avait posée : là où Kant déclarait la chose en soi inconnaissable, l'idéalisme allemand tient que la raison, déployée en système, peut rejoindre l'absolu. Le réel n'est plus matière opaque mais [Esprit](../axes/reality-nature.md) ou sujet qui se pose lui-même et se comprend au terme d'un mouvement dialectique. Chez Hegel, ce déploiement devient histoire : l'Esprit se réalise dans le temps comme progrès de la conscience de la liberté. Porté par la Révolution française et l'élan du [romantisme](../movements/romanticism.md), le courant s'éteint avec la mort de Hegel en 1831, aussitôt renversé par [Marx](../philosophers/marx.md), qui le remet « sur ses pieds », et par [Kierkegaard](../philosophers/kierkegaard.md), qui lui oppose l'existant singulier.
 
+**Liens externes** : [Wikipédia](https://fr.wikipedia.org/wiki/Id%C3%A9alisme_allemand) · [Wikidata](https://www.wikidata.org/wiki/Q679842)
+
 **Figures majeures** : [Fichte](../philosophers/fichte.md) · [Schelling](../philosophers/schelling.md) · [Hegel](../philosophers/hegel.md)
 
 ## Positions structurantes

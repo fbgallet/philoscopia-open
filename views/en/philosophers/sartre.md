@@ -6,6 +6,8 @@
 
 A French philosopher, novelist and playwright, the central figure of atheistic [existentialism](../movements/existentialism.md) and of postwar intellectual life. Steeped in the [phenomenology](../movements/phenomenology.md) of Husserl and Heidegger, he built in Being and Nothingness (1943) a philosophy of consciousness and freedom, which he extended into an ethics of commitment. Companion of [Simone de Beauvoir](../philosophers/beauvoir.md) and editor of Les Temps modernes, he embodied the engaged intellectual: the Resistance, anti-colonialism, his refusal of the Nobel Prize in 1964, then his move toward [Marxism](../movements/marxism.md).
 
+**External links** : [Wikipedia](https://en.wikipedia.org/wiki/Jean-Paul_Sartre) · [Wikidata](https://www.wikidata.org/wiki/Q9364)
+
 ## Core positions
 
 1. [Essence and existence](../axes/essence.md) : **In man, existence precedes essence: he first arises with no given nature, then defines himself through his acts.**

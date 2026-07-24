@@ -6,6 +6,8 @@
 
 A senior official of the Florentine Republic, in charge of its diplomatic and military affairs for fourteen years, he observed power at close range in action, from Cesare Borgia to the courts of France and the Empire. Cast out and imprisoned when the Medici returned in 1512, he wrote in disgrace, on his farm at Sant'Andrea, *[The Prince](../works/the-prince-machiavelli.md)* (1513) and the *[Discourses on the First Decade of Livy](../works/discourses-on-livy-machiavelli.md)*, breaking with the mirror-of-princes tradition to found a science of politics drawn from Roman history and from experience. A republican by conviction as much as a theorist of princely power, he gave his name to a manner, "Machiavellianism," that often betrays his thought: less a praise of evil than a disenchanted lucidity about the springs of collective action. Long read as the master of tyrants, he is now recognized as the first modern political thinker, claimed by the realist tradition and by republicanism alike.
 
+**External links** : [Wikipedia](https://en.wikipedia.org/wiki/Niccol%C3%B2_Machiavelli) · [Wikidata](https://www.wikidata.org/wiki/Q1399)
+
 ## Core positions
 
 1. [Ideal and reality](../axes/political-ideal.md) : **One must start from the [effectual truth](../glossary/verita-effettuale.md) of things, not from imagined republics that have never existed: whoever forsakes what is done for what ought to be done learns his ruin rather than his preservation.**

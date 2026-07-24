@@ -6,6 +6,8 @@
 
 Born at the castle of Roccasecca in the kingdom of Sicily, Thomas entered while still young the Dominican order, a mendicant order devoted to preaching and study, against the will of his family, who held him captive for a year. At Paris and then Cologne he was the pupil of [Albert the Great](../philosophers/albert-the-great.md), who passed on to him a taste for the natural sciences and for the [Aristotle](../philosophers/aristotle.md) rediscovered through the Arab commentators [Avicenna](../philosophers/avicenna.md) and [Averroes](../philosophers/averroes.md). A master of theology at the University of Paris at the very moment when Aristotelianism was alarming the Church authorities, he set out, in the *[Summa Theologiae](../works/summa-theologiae-aquinas.md)* and the *[Summa contra Gentiles](../works/summa-contra-gentiles-aquinas.md)*, to show that philosophical reason and revealed faith, far from contradicting each other, agree. His thought, first contested and then partly condemned in 1277, became the framework of Scholasticism and, since Leo XIII, the reference philosophy of the Catholic Church.
 
+**External links** : [Wikipedia](https://en.wikipedia.org/wiki/Thomas_Aquinas) · [Wikidata](https://www.wikidata.org/wiki/Q9438)
+
 ## Core positions
 
 1. [Faith and reason](../axes/faith-reason.md) : **[Grace](../glossary/grace.md) does not destroy nature but perfects it: reason and faith, coming from the same God, cannot contradict each other and work together.**

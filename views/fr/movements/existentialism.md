@@ -6,6 +6,8 @@
 
 Courant né de la révolte de Kierkegaard contre le système de [Hegel](../philosophers/hegel.md) et de l'annonce par [Nietzsche](../philosophers/nietzsche.md) de la « mort de Dieu », qui place l'existence concrète et singulière, et non l'essence abstraite, au point de départ de la philosophie. Héritier de la [phénoménologie](../movements/phenomenology.md) de Husserl et de [Heidegger](../philosophers/heidegger.md), il connaît son heure dans le Paris de l'après-guerre, où [Sartre](../philosophers/sartre.md), [Beauvoir](../philosophers/beauvoir.md) et [Camus](../philosophers/camus.md) en font une philosophie de l'engagement. L'école est traversée par une fracture qui ne l'empêche pas de partager ses thèses fondatrices : un versant chrétien (Kierkegaard, Jaspers, Marcel) et un versant athée (Sartre, Beauvoir, Camus). Contre toute morale donnée et tout salut garanti, elle adresse à l'individu la question de ce qu'il fait de sa liberté, et a marqué la psychologie existentielle, la théologie, la littérature et la pensée féministe au travers du Deuxième Sexe.
 
+**Liens externes** : [Wikipédia](https://fr.wikipedia.org/wiki/Existentialisme) · [Wikidata](https://www.wikidata.org/wiki/Q38066)
+
 **Figures majeures** : [Kierkegaard](../philosophers/kierkegaard.md) · [Sartre](../philosophers/sartre.md) · [Simone de Beauvoir](../philosophers/beauvoir.md)
 
 ## Positions structurantes

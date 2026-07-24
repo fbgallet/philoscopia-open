@@ -6,6 +6,8 @@
 
 Courant de pensée contemporain, né dans les années 1980-1990 dans le sillage de la cybernétique et des biotechnologies, qui tient la nature humaine non pour un donné intangible mais pour un point de départ à dépasser : par la médecine, la génétique, les prothèses et l'intelligence artificielle, l'être humain pourrait [augmenter ses capacités physiques et mentales](../axes/human-enhancement.md), prolonger indéfiniment sa vie, voire [vaincre la mort](../axes/death.md). Le mot est forgé par le biologiste Julian Huxley en 1957, mais le mouvement s'organise plus tard autour de figures comme [Max More](../philosophers/max-more.md), [Nick Bostrom](../philosophers/bostrom.md) ou Ray Kurzweil, et de l'idée de [Singularité](../glossary/singularity.md). Héritier des [Lumières](../movements/enlightenment.md) et de leur foi dans le progrès, il prolonge le projet moderne de maîtrise de la nature jusqu'à l'humain lui-même, et nourrit de vives controverses éthiques sur les limites, l'égalité d'accès et le sens d'une vie sans terme. Le mouvement reste lui-même divers, des extropiens libertariens aux transhumanistes démocrates : tous ne placent pas au même rang l'augmentation des capacités, la fin du vieillissement et l'immortalité.
 
+**Liens externes** : [Wikipédia](https://fr.wikipedia.org/wiki/Transhumanisme) · [Wikidata](https://www.wikidata.org/wiki/Q194100)
+
 **Figures majeures** : [Nick Bostrom](../philosophers/bostrom.md) · [Max More](../philosophers/max-more.md)
 
 ## Positions structurantes

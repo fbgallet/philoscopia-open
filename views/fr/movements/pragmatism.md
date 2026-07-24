@@ -6,6 +6,8 @@
 
 Première philosophie proprement américaine, née dans l'Amérique d'après la guerre de Sécession, au sein du **Metaphysical Club** qui réunit à Cambridge, vers 1872, Charles Sanders Peirce, William James et quelques juristes et savants soucieux de penser sans dogmes. Peirce en forge la méthode, James la diffuse au grand public, John Dewey l'élargit en une vaste philosophie de l'expérience, de l'éducation et de la démocratie, avant que Richard Rorty ne la ranime à la fin du XXe siècle. Marqué par le darwinisme, qui fait de la pensée un organe d'adaptation et non un miroir, et par l'idéal démocratique d'une enquête collective sans autorité ultime, le pragmatisme cherche à sortir des querelles stériles entre [rationalisme](../movements/rationalism.md) et [empirisme](../movements/empiricism.md) en ramenant tout débat à ce qui ferait, concrètement, une différence. Longtemps éclipsé par la philosophie analytique, il connaît depuis un net regain et reste la matrice de tout un courant américain en éthique, en éducation et en théorie sociale.
 
+**Liens externes** : [Wikipédia](https://fr.wikipedia.org/wiki/Pragmatisme) · [Wikidata](https://www.wikidata.org/wiki/Q126692)
+
 **Figures majeures** : [Charles Sanders Peirce](../philosophers/peirce.md) · [William James](../philosophers/william-james.md) · [John Dewey](../philosophers/dewey.md)
 
 ## Positions structurantes

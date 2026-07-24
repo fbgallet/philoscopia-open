@@ -1,0 +1,16 @@
+{
+  "kind": "PHILOSOPHER",
+  "stub": true,
+  "id": "sen",
+  "name": { "fr": "Sen", "en": "Sen" },
+  "aliases": { "fr": ["Amartya Sen"], "en": ["Amartya Sen"] },
+  "summary": {
+    "fr": "Économiste et philosophe indien : il déplace la mesure de la liberté et du développement des ressources vers les capabilités, ce que chacun peut réellement être et faire, et montre que les famines relèvent des droits d'accès autant que des récoltes.",
+    "en": "Indian economist and philosopher: he shifts the measure of freedom and development from resources to capabilities, what each person can really be and do, and shows that famines are a matter of entitlements as much as of harvests."
+  },
+  "nationality": { "fr": "Indien", "en": "Indian" },
+  "birth": 1933,
+  "movements": [],
+  "updatedAt": "2026-07-24T00:00:00.000Z",
+  "validation": { "method": "NOT_VALIDATED" }
+}

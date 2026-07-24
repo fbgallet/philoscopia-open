@@ -1,0 +1,112 @@
+{
+  "id": "freedom-vs-its-conditions",
+  "kind": "OBJECTS",
+  "position": {
+    "axisId": "POLITICAL_LIBERTY",
+    "poleId": "CAPABILITY_FREEDOM"
+  },
+  "name": {
+    "fr": "L'objection des conditions de la liberté",
+    "en": "The conditions-of-liberty objection"
+  },
+  "claim": {
+    "fr": "Confondre la liberté avec ses conditions dissout le concept : le pauvre manque de moyens, non de liberté, et cette distinction protège l'un comme l'autre.",
+    "en": "To confuse liberty with its conditions dissolves the concept: the poor lack means, not liberty, and the distinction protects both."
+  },
+  "development": [
+    {
+      "fr": "Toute liberté s'exerce sous conditions : santé, argent, instruction, et jusqu'aux lois de la nature. Nul ne dit pourtant qu'être incapable de voler prive de liberté : toute incapacité n'est pas une servitude.",
+      "en": "Every liberty is exercised under conditions: health, money, education, even the laws of nature. Yet no one says that being unable to fly deprives us of liberty: not every inability is servitude."
+    },
+    {
+      "fr": "L'approche par les <c id='capabilite'>capabilités</c> ne dit pas cela de toute incapacité naturelle ; mais dès que le manque de moyens compte, comme tel, comme un manque de liberté, « liberté » glisse vers « pouvoir », et la différence s'estompe entre être empêché par quelqu'un et être limité par sa situation.",
+      "en": "The <c id='capabilite'>capabilities</c> approach does not say this of every natural inability; but once a lack of means counts, as such, as a lack of liberty, \"liberty\" slides toward \"power\", and the difference fades between being prevented by someone and being limited by one's situation."
+    },
+    {
+      "fr": "Cette différence fait pourtant tout le travail critique du mot : elle distingue la prison de la pauvreté, le censeur de la malchance, et désigne un responsable là où il y en a un.",
+      "en": "Yet that difference does all the critical work of the word: it distinguishes the prison from poverty, the censor from bad luck, and points to someone responsible where there is one."
+    },
+    {
+      "fr": "Ce que vise l'approche par les capabilités est réel, mais c'est une exigence de justice (donner à chacun les moyens) plutôt qu'une redéfinition de la liberté.",
+      "en": "What the capabilities approach is after is real, but it is a demand of justice (giving each person the means) rather than a redefinition of liberty."
+    }
+  ],
+  "conclusion": {
+    "fr": "La pauvreté ôte à la liberté sa valeur, et c'est bien pourquoi il faut la combattre ; mais au titre de la justice, plutôt qu'en dissolvant le sens du mot liberté.",
+    "en": "Poverty robs liberty of its worth, and that is exactly why it must be fought; but fought in the name of justice, rather than by dissolving the meaning of the word liberty."
+  },
+  "difficulty": 2,
+  "source": {
+    "author": {
+      "fr": "Isaiah Berlin",
+      "en": "Isaiah Berlin"
+    },
+    "figures": [
+      {
+        "name": {
+          "fr": "Berlin",
+          "en": "Berlin"
+        },
+        "kind": "PHILOSOPHER",
+        "slug": "berlin"
+      }
+    ],
+    "work": {
+      "fr": "Introduction à Quatre essais sur la liberté",
+      "en": "Introduction to Four Essays on Liberty"
+    },
+    "year": 1969
+  },
+  "attacks": "POSITION",
+  "targets": ["capability-real-freedom"],
+  "responses": [
+    {
+      "id": "means-are-justice",
+      "label": {
+        "fr": "La liberté est l'absence d'entrave d'autrui ; la pauvreté relève de la justice, pas de la liberté.",
+        "en": "Liberty is the absence of others' hindrance; poverty belongs to justice, not to liberty."
+      },
+      "hints": [
+        {
+          "axisId": "POLITICAL_LIBERTY",
+          "value": { "kind": "weights", "weights": [1, 0, 0, 0] },
+          "weight": 2
+        }
+      ]
+    },
+    {
+      "id": "worth-of-liberty",
+      "label": {
+        "fr": "Distinguons la liberté, égale pour tous, et sa valeur, qui varie avec les moyens : c'est cette valeur qu'il faut égaliser.",
+        "en": "Distinguish liberty, equal for all, from its worth, which varies with means: it is that worth we must equalize."
+      },
+      "hints": [
+        {
+          "axisId": "POLITICAL_LIBERTY",
+          "value": { "kind": "weights", "weights": [1, 0, 0, 0] },
+          "weight": 1
+        }
+      ],
+      "discussion": {
+        "fr": "La distinction de <ph id='rawls'>Rawls</ph> : des libertés de base égales pour tous ; et, pour les seules libertés politiques, une valeur équitable à garantir.",
+        "en": "<ph id='rawls'>Rawls</ph>'s distinction: equal basic liberties for all, and, for the political liberties alone, a fair value to be guaranteed."
+      }
+    },
+    {
+      "id": "dictionary-freedom",
+      "label": {
+        "fr": "Pour celui qui ne peut rien, la distinction est un jeu de mots : une liberté sans aucun pouvoir n'est libre qu'au dictionnaire.",
+        "en": "For someone who can do nothing, the distinction is wordplay: a liberty with no power at all is free only in the dictionary."
+      },
+      "hints": [
+        {
+          "axisId": "POLITICAL_LIBERTY",
+          "value": { "kind": "weights", "weights": [0, 0, 0, 1] },
+          "weight": 0.5
+        }
+      ]
+    }
+  ],
+  "problems": ["formal-or-real-freedom"],
+  "updatedAt": "2026-07-24T00:00:00.000Z"
+}

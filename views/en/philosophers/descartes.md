@@ -6,6 +6,8 @@
 
 French mathematician, physicist and philosopher, schooled by the Jesuits at La Flèche and long settled in the Dutch Republic, where he published most of his work away from the university authorities. Regarded as the father of modern philosophy and founder of continental [rationalism](../movements/rationalism.md), he breaks with the Aristotelian scholasticism inherited from the Middle Ages and undertakes, in the *[Discourse on Method](../works/meditations-descartes.md)* and then the *[Meditations on First Philosophy](../works/meditations-descartes.md)*, to refound the whole of knowledge on a single method modelled on mathematics. The inventor of analytic geometry, he paves the way for the mechanistic physics that would culminate in Newton. His thought at once drew debate and objection, from [Spinoza](../philosophers/spinoza.md) to [Leibniz](../philosophers/leibniz.md), and still frames modern disputes about mind, body and knowledge.
 
+**External links** : [Wikipedia](https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes) · [Wikidata](https://www.wikidata.org/wiki/Q9191)
+
 ## Core positions
 
 1. [The enigma of consciousness](../axes/consciousness-nature.md) : **Mind and body are two really distinct substances: I can conceive the thinking thing with nothing corporeal, so my essence is to think, not to be extended.**

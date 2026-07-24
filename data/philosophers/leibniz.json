@@ -716,6 +716,13 @@
       }
     }
   ],
+  "identity": {
+    "wikidata": "Q9047",
+    "wikipedia": {
+      "fr": "https://fr.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz",
+      "en": "https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz"
+    }
+  },
   "updatedAt": "2026-06-24T00:00:00.000Z",
   "validation": {
     "method": "NOT_VALIDATED"

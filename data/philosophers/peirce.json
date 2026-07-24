@@ -453,6 +453,13 @@
       }
     }
   ],
+  "identity": {
+    "wikidata": "Q187520",
+    "wikipedia": {
+      "fr": "https://fr.wikipedia.org/wiki/Charles_Sanders_Peirce",
+      "en": "https://en.wikipedia.org/wiki/Charles_Sanders_Peirce"
+    }
+  },
   "updatedAt": "2026-07-19T00:00:00.000Z",
   "validation": {
     "method": "NOT_VALIDATED"

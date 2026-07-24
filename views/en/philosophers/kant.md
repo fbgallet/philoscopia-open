@@ -6,6 +6,8 @@
 
 German Enlightenment philosopher, a professor at Königsberg he never left, a pivotal figure of modern philosophy standing between the [rationalist legacy](../movements/rationalism.md) of [Leibniz](../philosophers/leibniz.md) and the [empiricism](../movements/empiricism.md) of [Hume](../philosophers/hume.md), who he says “woke him from his dogmatic slumber”. After a long "pre-critical" period he published late, near sixty, the three Critiques, in which he sets out to bring reason itself before a tribunal, to measure what it can know, what it ought to do and what it may hope. His work commands the whole of German idealism that followed ([Hegel](../philosophers/hegel.md)) and remains, from neo-Kantianism to [Rawls](../philosophers/rawls.md), a living reference for ethics and political philosophy.
 
+**External links** : [Wikipedia](https://en.wikipedia.org/wiki/Immanuel_Kant) · [Wikidata](https://www.wikidata.org/wiki/Q9312)
+
 ## Core positions
 
 1. [Nature of reality](../axes/reality-nature.md) : **We never know things as they are in themselves, only phenomena: it is the mind that, through its a priori forms, constitutes the object of knowledge.**

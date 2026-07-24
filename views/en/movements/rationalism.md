@@ -6,6 +6,8 @@
 
 A continental current born in the heart of the 17th century, in the age of the scientific revolution of Galileo and Kepler, when the success of mathematics in studying nature seemed to call for a rebuilding of knowledge on equally secure foundations. Its lineage runs from [Descartes](../philosophers/descartes.md), who opens the way with the *[Meditations](../works/meditations-descartes.md)* and the Discourse on the Method, to [Spinoza](../philosophers/spinoza.md), who draws from it in the *[Ethics](../works/ethics-spinoza.md)* a geometric system, and on to [Leibniz](../philosophers/leibniz.md), who crowns it in the Monadology. The problem it addresses is that of foundations: on what can certain knowledge be secured after the collapse of scholastic physics and under the threat of [skepticism](../glossary/skepticism.md)? Against the [empiricism](../movements/empiricism.md) of [Locke](../philosophers/locke.md) and [Hume](../philosophers/hume.md), which derives all knowledge from experience, the school would be held to be superseded by [Kant](../philosophers/kant.md)'s synthesis, which keeps its a priori component while stripping away its claim to know things in themselves. Even so it fixed the modern ideal of science for centuries and remains one of the two poles around which classical epistemology is organised.
 
+**External links** : [Wikipedia](https://en.wikipedia.org/wiki/Rationalism) · [Wikidata](https://www.wikidata.org/wiki/Q483024)
+
 **Key figures** : [Descartes](../philosophers/descartes.md) · [Spinoza](../philosophers/spinoza.md) · [Leibniz](../philosophers/leibniz.md)
 
 ## Core positions

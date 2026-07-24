@@ -6,6 +6,8 @@
 
 Né à Genève en 1712, autodidacte devenu l'un des plus grands écrivains du siècle, Jean-Jacques Rousseau occupe une place singulière dans les [Lumières](../movements/enlightenment.md) : philosophe du contrat et de la souveraineté du peuple, d'abord collaborateur de l'Encyclopédie, il se brouille pourtant avec [Voltaire](../philosophers/voltaire.md), [Diderot](../philosophers/diderot.md) et [d'Alembert](../philosophers/d-alembert.md). Son premier Discours soutient que les sciences et les arts ont corrompu les mœurs, et toute son œuvre oppose à la civilisation la bonté de l'homme naturel. Par la souveraineté populaire du Contrat social, l'éducation selon la nature de l'Émile et la religion du cœur du vicaire savoyard, il marque la pensée révolutionnaire et, par son culte du sentiment et de la nature, annonce le [romantisme](../movements/romanticism.md). [Kant](../philosophers/kant.md), qui l'appelait « le Newton du monde moral », lui doit sa morale de l'autonomie.
 
+**Liens externes** : [Wikipédia](https://fr.wikipedia.org/wiki/Jean-Jacques_Rousseau) · [Wikidata](https://www.wikidata.org/wiki/Q6527)
+
 ## Positions structurantes
 
 1. [Origine du lien social](../axes/social-contract.md) : **« L'homme est né libre, et partout il est dans les fers » : seul un pacte où chacun, s'unissant à tous, n'obéit qu'à lui-même peut fonder une autorité légitime.**

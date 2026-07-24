@@ -6,6 +6,8 @@
 
 Sommet et point de bascule de l'[idéalisme allemand](../movements/german-idealism.md), il bâtit après [Kant](../philosophers/kant.md), [Fichte](../philosophers/fichte.md) et [Schelling](../philosophers/schelling.md) le système le plus ambitieux de la philosophie moderne : une dialectique où l'être, la nature et l'esprit se déploient et se comprennent comme les moments d'un même procès rationnel. Il achève à Iéna la *[Phénoménologie de l'esprit](../works/phenomenology-of-spirit-hegel.md)* en 1806, à l'heure où Napoléon entre dans la ville (elle paraît l'année suivante), rédige à Nuremberg la *[Science de la logique](../works/science-of-logic-hegel.md)* (1812-1816), puis règne depuis Berlin sur la vie philosophique allemande, où paraissent les *[Principes de la philosophie du droit](../works/philosophy-of-right-hegel.md)*. À sa mort, son école éclate entre hégéliens de droite et de gauche, dont sort [Marx](../philosophers/marx.md) : peu de pensées auront autant marqué l'histoire, la politique et l'art des deux siècles suivants.
 
+**Liens externes** : [Wikipédia](https://fr.wikipedia.org/wiki/Georg_Wilhelm_Friedrich_Hegel) · [Wikidata](https://www.wikidata.org/wiki/Q9235)
+
 ## Positions structurantes
 
 1. [Nature du réel](../axes/reality-nature.md) : **Le vrai ne se pense pas comme une substance inerte que l'esprit connaîtrait du dehors : il est aussi sujet, l'Idée qui se déploie, s'extériorise et revient à soi en se sachant. C'est l'idéalisme absolu.**

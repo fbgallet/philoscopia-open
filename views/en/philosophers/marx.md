@@ -6,6 +6,8 @@
 
 A nineteenth-century German philosopher and economist, trained in the school of [Hegel](../philosophers/hegel.md), whose Young Hegelian circle he first joined before breaking with it. Exiled to Paris and then to London after the failed revolutions of 1848, he pursued his critique of political economy as a reader of the English economists (Smith, Ricardo) and a comrade-in-arms of Engels, with whom he wrote the Communist Manifesto. His major work, Capital, of which he published only the first volume in his lifetime, probes the inner workings of capitalism where his predecessors had described only its surface. An organiser of the First International, he died without seeing the revolution he foretold, yet his thought would shape a decisive part of twentieth-century politics, social science and philosophy.
 
+**External links** : [Wikipedia](https://en.wikipedia.org/wiki/Karl_Marx) · [Wikidata](https://www.wikidata.org/wiki/Q9061)
+
 ## Core positions
 
 1. [Nature of reality](../axes/reality-nature.md) : **It is not ideas that drive history but the way men produce their life: consciousness is determined by social being, not the reverse.**

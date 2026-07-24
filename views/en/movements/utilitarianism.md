@@ -6,6 +6,8 @@
 
 Born in the England of the Enlightenment and the industrial revolution, utilitarianism extends the moral [empiricism](../movements/empiricism.md) of [Hume](../philosophers/hume.md) and the arithmetic of pleasures of Helvétius, which [Bentham](../philosophers/bentham.md) raises around 1789 into a single principle of reform. Facing an inherited and arbitrary body of law, prisons and institutions, he seeks a measurable, public criterion of the right, free of custom and of [divine will](../axes/god-existence.md). [Mill](../philosophers/mill.md) refines its psychology and defence, Sidgwick tests its rigour in “The Methods of Ethics”, and the movement spreads from penal reform to Singer's animal ethics and to contemporary effective altruism. Against deontology and [virtue](../axes/ethics-foundation.md) ethics, it remains one of the major families of normative ethics.
 
+**External links** : [Wikipedia](https://en.wikipedia.org/wiki/Utilitarianism) · [Wikidata](https://www.wikidata.org/wiki/Q160590)
+
 **Key figures** : [Bentham](../philosophers/bentham.md) · [John Stuart Mill](../philosophers/mill.md) · [Sidgwick](../philosophers/sidgwick.md) · [Peter Singer](../philosophers/singer.md)
 
 ## Core positions

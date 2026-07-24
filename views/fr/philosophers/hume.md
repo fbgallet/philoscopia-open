@@ -6,6 +6,8 @@
 
 Philosophe, historien et essayiste écossais, figure majeure des Lumières d'Édimbourg et de l'[empirisme](../movements/empiricism.md) britannique, dans le sillage de [Locke](../philosophers/locke.md) et de Berkeley. Refusé par l'université pour soupçon d'irreligion, il vécut de sa plume, d'une *[somme](../works/treatise-of-human-nature-hume.md)* de jeunesse passée d'abord inaperçue à une célèbre *[Enquête](../works/enquiry-concerning-human-understanding-hume.md)*, des Essais et une monumentale Histoire d'Angleterre. Son projet : appliquer la méthode expérimentale de Newton à l'esprit humain, pour voir jusqu'où l'observation, sans hypothèse métaphysique, peut conduire l'analyse de la connaissance, des passions et de la morale. Tenu pour un sceptique sulfureux de son vivant, il devint l'aiguillon de la philosophie moderne : c'est lui, dira [Kant](../philosophers/kant.md), qui le tira de son « sommeil dogmatique ».
 
+**Liens externes** : [Wikipédia](https://fr.wikipedia.org/wiki/David_Hume) · [Wikidata](https://www.wikidata.org/wiki/Q37160)
+
 ## Positions structurantes
 
 1. [Explication de la nature](../axes/causality.md) : **Nous ne percevons jamais la connexion nécessaire entre cause et effet, seulement leur conjonction constante : la causalité n'est qu'une habitude de l'esprit, et rien ne fonde rationnellement l'[induction](../glossary/induction.md).**

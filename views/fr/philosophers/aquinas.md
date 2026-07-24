@@ -6,6 +6,8 @@
 
 Né au château de Roccasecca dans le royaume de Sicile, Thomas entre tout jeune chez les dominicains, ordre mendiant voué à la prédication et à l'étude, contre le vœu de sa famille qui le séquestre une année durant. À Paris puis à Cologne, il est l'élève d'[Albert le Grand](../philosophers/albert-the-great.md), qui lui transmet le goût des sciences de la nature et de l'[Aristote](../philosophers/aristotle.md) redécouvert par les commentateurs arabes, [Avicenne](../philosophers/avicenna.md) et [Averroès](../philosophers/averroes.md). Maître en théologie à l'Université de Paris au moment où l'aristotélisme inquiète l'autorité ecclésiastique, il entreprend, dans la *[Somme théologique](../works/summa-theologiae-aquinas.md)* et la *[Somme contre les Gentils](../works/summa-contra-gentiles-aquinas.md)*, de montrer que la raison philosophique et la foi révélée, loin de se contredire, s'accordent. Sa pensée, d'abord contestée puis condamnée en partie en 1277, devient la charpente de la scolastique et, depuis Léon XIII, la philosophie de référence de l'Église catholique.
 
+**Liens externes** : [Wikipédia](https://fr.wikipedia.org/wiki/Thomas_d%27Aquin) · [Wikidata](https://www.wikidata.org/wiki/Q9438)
+
 ## Positions structurantes
 
 1. [Foi et raison](../axes/faith-reason.md) : **La [grâce](../glossary/grace.md) ne détruit pas la nature mais l'achève : la raison et la foi, venues du même Dieu, ne peuvent se contredire et collaborent.**

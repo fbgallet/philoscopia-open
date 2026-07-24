@@ -564,6 +564,13 @@
       }
     }
   ],
+  "identity": {
+    "wikidata": "Q7264",
+    "wikipedia": {
+      "fr": "https://fr.wikipedia.org/wiki/Marxisme",
+      "en": "https://en.wikipedia.org/wiki/Marxism"
+    }
+  },
   "updatedAt": "2026-06-24T00:00:00.000Z",
   "validation": {
     "method": "NOT_VALIDATED"

@@ -6,6 +6,8 @@
 
 A school founded in Athens by Zeno of Citium around 300 BCE, which taught under the "Painted Porch" (stoa poikilē) from which it takes its name. A complete system of logic, physics and ethics, Stoicism was carried by Chrysippus and then, in Rome, by Seneca, Epictetus and the emperor Marcus Aurelius. Its ethics of wisdom and self-mastery deeply marked Christianity, [Spinoza](../philosophers/spinoza.md), [Kant](../philosophers/kant.md) and even contemporary self-help movements.
 
+**External links** : [Wikipedia](https://en.wikipedia.org/wiki/Stoicism) · [Wikidata](https://www.wikidata.org/wiki/Q48235)
+
 **Key figures** : [Zeno of Citium](../philosophers/zeno-of-citium.md) · [Seneca](../philosophers/seneca.md) · [Epictetus](../philosophers/epictetus.md) · [Marcus Aurelius](../philosophers/marcus-aurelius.md)
 
 ## Core positions

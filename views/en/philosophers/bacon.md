@@ -6,6 +6,8 @@
 
 An English Renaissance statesman and philosopher, Lord Chancellor under James I, Francis Bacon is the great herald of modern science. Against the [scholastic logic](../movements/aristotelianism.md) inherited from Aristotle, judged barren, he calls in the *[Novum Organum](../works/novum-organum-bacon.md)* for a "great instauration" of learning: an experimental [induction](../glossary/induction.md) that starts from facts to uncover the laws of nature, and a science turned at last toward utility and the "relief of man's estate." A forerunner and tutelary figure of [empiricism](../movements/empiricism.md), he inspired the **Royal Society** his *[New Atlantis](../works/new-atlantis-bacon.md)* foreshadows, and [Diderot](../philosophers/diderot.md) and the Enlightenment encyclopedists hailed him as their master.
 
+**External links** : [Wikipedia](https://en.wikipedia.org/wiki/Francis_Bacon) · [Wikidata](https://www.wikidata.org/wiki/Q37388)
+
 ## Core positions
 
 1. [Scientific method](../axes/scientific-method.md) : **The syllogism discovers nothing: only an experimental, eliminative [induction](../glossary/induction.md), rising step by step from facts to laws, can interpret nature.**

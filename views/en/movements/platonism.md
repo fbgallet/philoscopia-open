@@ -6,6 +6,8 @@
 
 A tradition issuing from the Academy, the school [Plato](../philosophers/plato.md) founded near Athens around 387 BCE and which lasted several centuries. Heir to Socrates and adversary of the sophists, Plato seeks, against their relativism and the Heraclitean flux, a stable foundation for knowledge and justice, which he unfolds in dialogues, the *[Republic](../works/republic-plato.md)*, the *[Phaedo](../works/phaedo-plato.md)*, the *[Symposium](../works/symposium-plato.md)*, where dialectical reasoning serves as method. After the early Academy, the tradition was renewed in the Neoplatonism of Plotinus in the third century, then died out with the closing of the Athenian school in 529. Taken up by Augustine and the Church Fathers, it lastingly shaped Western metaphysics, theology and mysticism, and remains, in Whitehead's phrase, the horizon to which all later philosophy is a series of footnotes.
 
+**External links** : [Wikipedia](https://en.wikipedia.org/wiki/Platonism) · [Wikidata](https://www.wikidata.org/wiki/Q193589)
+
 **Key figures** : [Plato](../philosophers/plato.md) · [Plotinus](../philosophers/plotinus.md) · [Augustine](../philosophers/augustine.md)
 
 ## Core positions

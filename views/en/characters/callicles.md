@@ -6,6 +6,8 @@
 
 An ambitious young Athenian of the deme of Acharnae, host to the sophist [Gorgias](../philosophers/gorgias.md) and about to enter political life, Callicles is the last and most formidable of the three interlocutors of [Plato](../philosophers/plato.md)'s *[Gorgias](../works/gorgias-plato.md)*. Where Gorgias and then Polus retreat, overcome by shame, he takes up the argument without disguise and pushes to its limit the thesis the others dared not own: received morality is only a trap laid for the strong by the multitude of the weak. A character perhaps drawn from a real man but known to us through Plato alone, he embodies one of the most formidable adversaries Socrates ever had to face, close to the [Thrasymachus](../philosophers/thrasymachus.md) of the Republic and a figure whom readers of [Nietzsche](../philosophers/nietzsche.md) have often likened to his morality of masters.
 
+**External links** : [Wikipedia](https://en.wikipedia.org/wiki/Callicles) · [Wikidata](https://www.wikidata.org/wiki/Q553801)
+
 ## Core positions
 
 1. [Status of norms (metaethics)](../axes/moral-scope.md) : **What is called justice is only the [convention](../glossary/physis-nomos.md) by which the weak bridle the strong; by nature, the better should rule the inferior and possess more.**

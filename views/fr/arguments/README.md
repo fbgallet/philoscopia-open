@@ -173,6 +173,16 @@
 - [La pente du favoritisme](partiality-partialism-favoritism-objection.md) (contre « Partialisme »)
 - [Les bornes que vous acceptez déjà](partiality-partialism-impartial-limits.md) (contre « Partialisme »)
 
+## [Liberté politique](../axes/political-liberty.md)
+
+- [L'argument des capabilités](capability-real-freedom.md) (pour « Liberté-capabilité »)
+- [L'objection du moi véritable](forced-to-be-free-objection.md) (contre « Liberté positive »)
+- [L'objection des conditions de la liberté](freedom-vs-its-conditions.md) (contre « Liberté-capabilité »)
+- [L'objection de la liberté et de sa sûreté](liberty-or-security.md) (contre « Non-domination républicaine »)
+- [L'argument du pluralisme des fins](negative-liberty-pluralism.md) (pour « Liberté négative »)
+- [L'argument de l'autocensure](non-domination-arbitrary-power.md) (pour « Non-domination républicaine »)
+- [L'argument de la loi qu'on se prescrit](positive-liberty-autonomy.md) (pour « Liberté positive »)
+
 ## [Place de la science](../axes/science-place.md)
 
 - [Conjectures et réfutations](critical-rationalism-conjectures.md) (pour « Rationalisme critique »)

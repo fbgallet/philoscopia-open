@@ -6,6 +6,8 @@
 
 Logicien, savant et philosophe américain, fondateur du [pragmatisme](../movements/pragmatism.md) et de la [sémiotique](../glossary/semiotics.md) moderne. Formé aux sciences exactes, géodésien au service de l'État pendant trente ans, il publie en 1877-1878 dans le Popular Science Monthly la série des Illustrations de la logique de la science, dont *[La fixation de la croyance](../works/the-fixation-of-belief-peirce.md)* et *[Comment rendre nos idées claires](../works/how-to-make-our-ideas-clear-peirce.md)* posent la [maxime pragmatique](../glossary/pragmatic-maxim.md). C'est [William James](../philosophers/william-james.md) qui, en la reprenant, popularise le mot « pragmatisme » ; jugeant l'usage de James trop subjectif, Peirce rebaptise sa propre doctrine « **pragmaticisme** », mot « assez laid pour être à l'abri des ravisseurs ». Tenu à l'écart de l'université, il meurt dans la misère, laissant une œuvre immense et dispersée, redécouverte au XXe siècle, qui irrigue [Dewey](../philosophers/dewey.md), la logique et la philosophie du langage.
 
+**Liens externes** : [Wikipédia](https://fr.wikipedia.org/wiki/Charles_Sanders_Peirce) · [Wikidata](https://www.wikidata.org/wiki/Q187520)
+
 ## Positions structurantes
 
 1. [Le sens des mots](../axes/meaning.md) : **Pour clarifier une idée, demande quels [effets pratiques concevables](../glossary/pragmatic-maxim.md) aurait son objet : son sens tout entier tient là, et nulle part ailleurs.**

@@ -240,6 +240,13 @@
       }
     }
   ],
+  "identity": {
+    "wikidata": "Q194100",
+    "wikipedia": {
+      "fr": "https://fr.wikipedia.org/wiki/Transhumanisme",
+      "en": "https://en.wikipedia.org/wiki/Transhumanism"
+    }
+  },
   "updatedAt": "2026-06-28T00:00:00.000Z",
   "validation": {
     "method": "NOT_VALIDATED"

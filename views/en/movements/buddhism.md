@@ -6,6 +6,8 @@
 
 Buddhism arises from the awakening of Siddhārtha Gautama, the Buddha, around the fifth century BCE in the Ganges plain, and from the community of practitioners, the monastic community (saṅgha), that he gathered around him. The tradition is carried by the Three Jewels, the Buddha, his teaching (the Dharma), and the saṅgha, and by a vast canon of discourses first recited and later written down. Addressing one underlying problem, the [unsatisfactoriness (dukkha)](../glossary/dukkha.md) that pervades every existence bound to the cycle of rebirth, the teaching spread across Asia and branched into great vehicles: the Theravāda of the South, the Mahāyāna of China, Korea, and Japan, and the Tibetan Vajrayāna. It was deepened by [Nāgārjuna](../philosophers/nagarjuna.md), thinker of emptiness, and Dōgen, master of Zen, while keeping a shared doctrinal and practical core.
 
+**External links** : [Wikipedia](https://en.wikipedia.org/wiki/Buddhism) · [Wikidata](https://www.wikidata.org/wiki/Q748)
+
 **Key figures** : [The Buddha](../philosophers/buddha.md) · [Nāgārjuna](../philosophers/nagarjuna.md) · [Dōgen](../philosophers/dogen.md)
 
 ## Core positions

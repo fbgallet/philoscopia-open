@@ -6,6 +6,8 @@
 
 A Roman poet and philosopher of the first century BCE, of whom almost nothing is known except that, amid the crisis of the Republic, he composed the *[De rerum natura](../works/on-the-nature-of-things-lucretius.md)*, a vast didactic poem in six books that is the fullest ancient exposition of Epicureanism to have reached us. In it he renders into Latin verse the physics of [Epicurus](../philosophers/epicurus.md), inherited from the atomism of Democritus: there are only atoms and void, nature was made neither by the gods nor for men, and his avowed aim is therapeutic, to free humanity from the fear of the gods and of death that poisons life. A fervent disciple rather than an inventor of doctrine, Lucretius nonetheless gives Epicureanism a voice of its own: the dark grandeur of the materialist [sublime](../glossary/sublime.md), an uncompromising polemic against religion as a source of evils, and a natural history of humankind in book V. Nearly lost, his poem was recovered in 1417 by Poggio Bracciolini and became one of the chief sources of modern materialism and free thought, from Gassendi to Montaigne and the [Enlightenment](../glossary/lumieres.md).
 
+**External links** : [Wikipedia](https://en.wikipedia.org/wiki/Lucretius) · [Wikidata](https://www.wikidata.org/wiki/Q47154)
+
 ## Core positions
 
 1. [Nature of reality](../axes/reality-nature.md) : **There exist only atoms and void: nothing comes from nothing or returns to it, and all the real, down to the soul, is but matter in motion.**

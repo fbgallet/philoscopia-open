@@ -6,6 +6,8 @@
 
 Philosophe allemand des Lumières, professeur à Königsberg dont il ne sortit jamais, figure pivot de la philosophie moderne entre l'[héritage rationaliste](../movements/rationalism.md) de [Leibniz](../philosophers/leibniz.md) et l'[empirisme](../movements/empiricism.md) de [Hume](../philosophers/hume.md), qui dit l'avoir « tiré de son sommeil dogmatique ». Après une longue période « précritique », il publie tardivement, à près de soixante ans, les trois Critiques où il entreprend de soumettre la raison elle-même à un tribunal, pour mesurer ce qu'elle peut connaître, ce qu'elle doit faire et ce qu'il lui est permis d'espérer. Son œuvre commande tout l'idéalisme allemand qui le suit ([Hegel](../philosophers/hegel.md)) et reste, du néokantisme à [Rawls](../philosophers/rawls.md), une référence vivante de l'éthique et de la philosophie politique.
 
+**Liens externes** : [Wikipédia](https://fr.wikipedia.org/wiki/Emmanuel_Kant) · [Wikidata](https://www.wikidata.org/wiki/Q9312)
+
 ## Positions structurantes
 
 1. [Nature du réel](../axes/reality-nature.md) : **Nous ne connaissons jamais les choses telles qu'elles sont en soi, mais seulement les phénomènes : c'est l'esprit qui, par ses formes a priori, constitue l'objet de la connaissance.**

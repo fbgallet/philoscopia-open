@@ -6,6 +6,8 @@
 
 Juriste et réformateur anglais des Lumières tardives, fondateur de l'[utilitarisme](../movements/utilitarianism.md) classique, héritier de l'[empirisme](../movements/empiricism.md) de [Locke](../philosophers/locke.md) et de Hume et lecteur d'Helvétius et de Beccaria. Devant l'arbitraire de la common law et le fatras du droit pénal de son temps, il cherche un critère unique, mesurable et séculier pour juger lois et institutions, et le décline dans son maître livre, l'Introduction aux principes de la morale et de la législation (1789). Animateur du cercle des « radicaux philosophiques », concepteur du Panoptique, il influence durablement le droit, l'économie et la réforme politique ; [Mill](../philosophers/mill.md) en recueille et infléchit l'héritage. Sa dépouille, momifiée selon ses voeux en « auto-icône », est toujours conservée à University College de Londres.
 
+**Liens externes** : [Wikipédia](https://fr.wikipedia.org/wiki/Jeremy_Bentham) · [Wikidata](https://www.wikidata.org/wiki/Q60887)
+
 ## Positions structurantes
 
 1. [Critère du juste](../axes/ethics-foundation.md) : **Une seule règle juge toute action, le [principe d'utilité](../glossary/greatest-happiness-principle.md) : est bon ce qui tend à augmenter le bonheur, mauvais ce qui tend à le diminuer, et rien d'autre.**

@@ -500,6 +500,13 @@
       }
     }
   ],
+  "identity": {
+    "wikidata": "Q9581",
+    "wikipedia": {
+      "fr": "https://fr.wikipedia.org/wiki/Confucianisme",
+      "en": "https://en.wikipedia.org/wiki/Confucianism"
+    }
+  },
   "updatedAt": "2026-06-24T00:00:00.000Z",
   "validation": {
     "method": "NOT_VALIDATED"

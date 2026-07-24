@@ -916,6 +916,13 @@
       }
     }
   ],
+  "identity": {
+    "wikidata": "Q7197",
+    "wikipedia": {
+      "fr": "https://fr.wikipedia.org/wiki/Simone_de_Beauvoir",
+      "en": "https://en.wikipedia.org/wiki/Simone_de_Beauvoir"
+    }
+  },
   "updatedAt": "2026-07-19T00:00:00.000Z",
   "validation": {
     "method": "NOT_VALIDATED"

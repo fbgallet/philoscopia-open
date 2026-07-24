@@ -6,6 +6,8 @@
 
 A leading figure of imperial [Stoicism](../movements/stoicism.md), born at Córdoba around 4 BCE, Seneca was a senator, playwright and wealthy man of affairs before becoming tutor and then minister to Nero, who eventually ordered him to take his own life. Heir to the [Stoa](../movements/stoicism.md) of Zeno and Chrysippus, he shifts philosophy from theory toward the cure of the soul: his *[dialogues](../works/on-providence-seneca.md)*, and above all his *[Letters to Lucilius](../works/letters-to-lucilius-seneca.md)*, are spiritual exercises meant to transform their reader. Against the charge that he preaches wisdom from amid luxury and power, he owns the gap between the ideal sage and the one still making progress he calls himself. A model of moral prose, his thought fed the Church Fathers, the Renaissance essayists and modern neo-Stoicism.
 
+**External links** : [Wikipedia](https://en.wikipedia.org/wiki/Seneca_the_Younger) · [Wikidata](https://www.wikidata.org/wiki/Q2054)
+
 ## Core positions
 
 1. [Scope of action](../axes/control-scope.md) : **Count as yours only what no fortune can take from you: your judgements and your desires depend on you, the rest was merely lent.**

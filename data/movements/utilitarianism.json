@@ -519,6 +519,13 @@
       }
     }
   ],
+  "identity": {
+    "wikidata": "Q160590",
+    "wikipedia": {
+      "fr": "https://fr.wikipedia.org/wiki/Utilitarisme",
+      "en": "https://en.wikipedia.org/wiki/Utilitarianism"
+    }
+  },
   "updatedAt": "2026-06-24T00:00:00.000Z",
   "validation": {
     "method": "NOT_VALIDATED"

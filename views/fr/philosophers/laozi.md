@@ -6,6 +6,8 @@
 
 Sage chinois semi-légendaire, traditionnellement situé au VIe siècle avant notre ère et présenté par la tradition comme un archiviste de la cour des Zhou et un aîné de [Confucius](../philosophers/confucius.md). La critique historique tient désormais le personnage pour incertain et date le *[Dao De Jing](../works/dao-de-jing-laozi.md)* qu'on lui attribue plutôt des IVe-IIIe siècles avant notre ère. Ce bref recueil d'aphorismes, devenu l'un des textes les plus traduits au monde, est le socle du [taoïsme](../movements/taoism.md) : il y déploie le [Dao](../glossary/dao.md), voie ineffable et source de toute chose, le [wu-wei](../glossary/wu-wei.md) (non-agir) et le [ziran](../glossary/ziran.md) (la spontanéité naturelle). En réaction au ritualisme confucéen et aux écoles légistes, sa pensée a irrigué la culture chinoise, le bouddhisme chan (zen) et, en Occident, tout un courant écologique et anti-productiviste.
 
+**Liens externes** : [Wikipédia](https://fr.wikipedia.org/wiki/Lao_Tseu) · [Wikidata](https://www.wikidata.org/wiki/Q9333)
+
 ## Positions structurantes
 
 1. [Périmètre d'action](../axes/control-scope.md) : **[N'agis pas en forçant](../glossary/wu-wei.md) : épouse le cours spontané des choses comme l'eau contourne l'obstacle, et rien ne reste inaccompli.**

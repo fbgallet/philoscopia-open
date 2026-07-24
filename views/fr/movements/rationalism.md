@@ -6,6 +6,8 @@
 
 Courant continental né au cœur du XVIIe siècle, à l'âge de la révolution scientifique de Galilée et de Kepler, quand le succès des mathématiques dans l'étude de la nature semble appeler une refondation du savoir sur des bases aussi sûres. Sa lignée va de [Descartes](../philosophers/descartes.md), qui ouvre la voie avec les *[Méditations](../works/meditations-descartes.md)* et le Discours de la méthode, à [Spinoza](../philosophers/spinoza.md), qui en tire dans l'*[Éthique](../works/ethics-spinoza.md)* un système géométrique, puis à [Leibniz](../philosophers/leibniz.md), qui le couronne dans la Monadologie. Le problème auquel il répond est celui des fondements : sur quoi assurer une connaissance certaine après la ruine de la physique scolastique et la menace du [scepticisme](../glossary/skepticism.md) ? Face à l'[empirisme](../movements/empiricism.md) de [Locke](../philosophers/locke.md) et [Hume](../philosophers/hume.md), qui fait dériver tout savoir de l'expérience, l'école sera réputée dépassée par la synthèse de [Kant](../philosophers/kant.md), qui en retient la part a priori tout en lui ôtant sa prétention à connaître les choses en soi. Elle n'en a pas moins fixé pour des siècles l'idéal moderne de la science et reste l'un des deux pôles autour desquels s'organise l'épistémologie classique.
 
+**Liens externes** : [Wikipédia](https://fr.wikipedia.org/wiki/Rationalisme) · [Wikidata](https://www.wikidata.org/wiki/Q483024)
+
 **Figures majeures** : [Descartes](../philosophers/descartes.md) · [Spinoza](../philosophers/spinoza.md) · [Leibniz](../philosophers/leibniz.md)
 
 ## Positions structurantes

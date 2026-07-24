@@ -6,6 +6,8 @@
 
 French writer, journalist and philosopher born in colonial Algeria in 1913, into a poor pied-noir family. A reporter in Algiers and then a Resistance member in Paris, where he edited the clandestine paper Combat, he approached philosophy as a novelist and playwright as much as an essayist, with *[The Stranger](../works/the-stranger-camus.md)* and *[The Myth of Sisyphus](../works/the-myth-of-sisyphus-camus.md)* (1942), then *[The Plague](../works/the-plague-camus.md)* (1947) and *[The Rebel](../works/the-rebel-camus.md)* (1951). His constant question is that of meaning and of how to act in a world that gives no answer to our demand. This last essay, with its critique of revolutions waged in the name of History, triggered his famous break with [Sartre](../philosophers/sartre.md) and the [existentialists](../movements/existentialism.md), whose label he always refused. Nobel laureate in literature in 1957 and killed in a car crash in 1960, he remains a major reference for a Mediterranean philosophy of measure, attentive to limits.
 
+**External links** : [Wikipedia](https://en.wikipedia.org/wiki/Albert_Camus) · [Wikidata](https://www.wikidata.org/wiki/Q34670)
+
 ## Core positions
 
 1. [The meaning of life](../axes/life-meaning.md) : **[The absurd](../glossary/the-absurd.md) is neither in the world nor in me, but in the divorce between my demand for meaning and the world's silence: no given meaning fills it.**

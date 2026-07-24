@@ -6,6 +6,8 @@
 
 Born at Stagira in Macedon, Aristotle joined [Plato](../philosophers/plato.md)'s Academy at seventeen, studying there for some twenty years before becoming tutor to the young Alexander and then founding his own school at Athens, the Lyceum. Antiquity's encyclopedist, he wrote on logic, physics, biology, metaphysics, ethics, politics and poetics, founding or reorganizing most of these disciplines. His method starts from observed phenomena and received opinions (the **endoxa**), surveys the difficulties, then seeks causes and principles: a patient mode of inquiry, often turned against his master's theses. Transmitted by the Greek, then Arabic and Latin commentators, his thought became in the Middle Ages "the Philosopher" without qualification and the framework of scholasticism, before being challenged by modern science and reread ceaselessly down to our own day.
 
+**External links** : [Wikipedia](https://en.wikipedia.org/wiki/Aristotle) · [Wikidata](https://www.wikidata.org/wiki/Q868)
+
 ## Core positions
 
 1. [Explaining nature](../axes/causality.md) : **Nature does nothing in vain: every being tends toward an end inscribed in its form, and it is the final cause, not mechanism alone, that explains what comes to be.**

@@ -6,6 +6,8 @@
 
 Tradition née des Entretiens (Lunyu) de [Confucius](../philosophers/confucius.md) (Kongzi) dans la Chine en crise des Printemps et Automnes, et adossée aux Classiques anciens (les Odes, les Documents, les Rites). Au siècle des Royaumes combattants, deux héritiers la portent en sens opposés : Mencius tient la nature humaine pour spontanément bonne, dotée de germes de vertu qu'il suffit de cultiver, tandis que Xunzi la juge mauvaise et confie aux rites (li 禮) et à l'éducation le soin de la redresser. Écartée puis réhabilitée sous les Han, l'école devient l'orthodoxie impériale et la matière des concours mandarinaux, qui durant des siècles recrutent les fonctionnaires sur la maîtrise des Classiques. Le néo-confucianisme de l'époque Song lui adjoint une métaphysique du li (principe) et du qi (souffle). Diffusée dans toute l'Asie orientale, en Corée, au Japon et au Vietnam, cette pensée répond à une question constante : comment refaire l'ordre social et politique par la transformation morale des personnes plutôt que par la force.
 
+**Liens externes** : [Wikipédia](https://fr.wikipedia.org/wiki/Confucianisme) · [Wikidata](https://www.wikidata.org/wiki/Q9581)
+
 **Figures majeures** : [Confucius](../philosophers/confucius.md) · [Mencius](../philosophers/mencius.md) · [Xunzi](../philosophers/xunzi.md)
 
 ## Positions structurantes

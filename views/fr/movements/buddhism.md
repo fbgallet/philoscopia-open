@@ -6,6 +6,8 @@
 
 Le bouddhisme naît de l'éveil de Siddhārtha Gautama, le Bouddha, vers le Ve siècle avant notre ère dans la plaine du Gange, et de la communauté de pratiquants, la communauté monastique (saṅgha), qu'il rassemble autour de lui. La tradition se transmet par les Trois Joyaux, le Bouddha, sa doctrine (le Dharma) et le saṅgha, et par un vaste canon de discours d'abord récités puis fixés par écrit. Face à un problème de fond, l'[insatisfaction (dukkha)](../glossary/dukkha.md) qui traverse toute existence soumise au cycle des renaissances, l'enseignement s'est diffusé dans toute l'Asie et différencié en grands véhicules : le Theravāda du Sud, le Mahāyāna de Chine, de Corée et du Japon, le Vajrayāna tibétain. Il a été approfondi par [Nāgārjuna](../philosophers/nagarjuna.md), penseur de la vacuité, et Dōgen, maître du zen, tout en gardant un noyau doctrinal et pratique commun.
 
+**Liens externes** : [Wikipédia](https://fr.wikipedia.org/wiki/Bouddhisme) · [Wikidata](https://www.wikidata.org/wiki/Q748)
+
 **Figures majeures** : [Le Bouddha](../philosophers/buddha.md) · [Nāgārjuna](../philosophers/nagarjuna.md) · [Dōgen](../philosophers/dogen.md)
 
 ## Positions structurantes

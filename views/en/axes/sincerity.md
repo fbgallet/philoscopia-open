@@ -20,7 +20,7 @@ The duty to tell the truth is unconditional: lying, even out of kindness, destro
 
 Telling the truth is a duty, but only toward those who have a right to it. When honesty would cause unjust harm, protecting an innocent person or sparing needless suffering can justify a lie: the truth is not owed to the executioner.
 
-*Constant*
+*[Constant](../philosophers/constant.md)*
 
 ## Arguments
 

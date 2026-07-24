@@ -6,6 +6,8 @@
 
 A political tradition born with [Locke](../philosophers/locke.md) and the English Revolution, which sets the individual, their [liberties](../axes/political-liberty.md) and their rights at the foundation of political order. Against absolutism, it holds that power derives from the consent of the governed, that it must remain limited and accountable, and that a sphere of private life is by right beyond the reach of the state. [Mill](../philosophers/mill.md) gives it its charter with the harm principle; Constant and [Berlin](../philosophers/berlin.md) conceive it as the liberty of the moderns and negative liberty; [Rawls](../philosophers/rawls.md) recasts it in the twentieth century, reconciling basic liberties with social justice. A plural family, from the economic liberalism of [Smith](../philosophers/adam-smith.md) to social liberalism, it shares the refusal to sacrifice the individual to the whole.
 
+**External links** : [Wikipedia](https://en.wikipedia.org/wiki/Liberalism) · [Wikidata](https://www.wikidata.org/wiki/Q6216)
+
 **Key figures** : [Locke](../philosophers/locke.md) · [Mill](../philosophers/mill.md) · [Rawls](../philosophers/rawls.md)
 
 ## Core positions

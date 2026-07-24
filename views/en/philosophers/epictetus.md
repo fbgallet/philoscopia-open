@@ -6,6 +6,8 @@
 
 [Stoic](../movements/stoicism.md) philosopher of the imperial era, born a slave in Phrygia and later freed in Rome. Trained under the Stoic Musonius Rufus, he first taught in Rome, from which the emperor Domitian banished him along with the other philosophers, then founded a celebrated school at Nicopolis in Epirus. He wrote nothing: his oral teaching reached us through the notes of his pupil Arrian, who composed the *[Discourses](../works/discourses-epictetus.md)* and the *[Enchiridion](../works/enchiridion-epictetus.md)*. This ethics of the good life deeply shaped Marcus Aurelius, who names him among his teachers, and today inspires cognitive behavioral therapy.
 
+**External links** : [Wikipedia](https://en.wikipedia.org/wiki/Epictetus) · [Wikidata](https://www.wikidata.org/wiki/Q183144)
+
 ## Core positions
 
 1. [Scope of action](../axes/control-scope.md) : **First divide your concerns in two: [what is up to you](../glossary/dichotomy-of-control.md) and what is not, for all unhappiness comes from having confused the two.**

@@ -609,6 +609,13 @@
       }
     }
   ],
+  "identity": {
+    "wikidata": "Q59180",
+    "wikipedia": {
+      "fr": "https://fr.wikipedia.org/wiki/Diog%C3%A8ne_de_Sinope",
+      "en": "https://en.wikipedia.org/wiki/Diogenes"
+    }
+  },
   "updatedAt": "2026-06-29T00:00:00.000Z",
   "validation": {
     "method": "NOT_VALIDATED"

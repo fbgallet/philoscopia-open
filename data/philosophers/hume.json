@@ -845,6 +845,13 @@
       }
     }
   ],
+  "identity": {
+    "wikidata": "Q37160",
+    "wikipedia": {
+      "fr": "https://fr.wikipedia.org/wiki/David_Hume",
+      "en": "https://en.wikipedia.org/wiki/David_Hume"
+    }
+  },
   "updatedAt": "2026-07-19T00:00:00.000Z",
   "validation": {
     "method": "NOT_VALIDATED"

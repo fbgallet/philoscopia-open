@@ -6,6 +6,8 @@
 
 A major current of British philosophy in the 17th and 18th centuries, classical empiricism answers a question of epistemology: where does the mind get its content, and how far can knowledge reach? Heralded by Francis Bacon's experimental method, it takes shape with [Locke](../philosophers/locke.md)'s *[Essay](../works/essay-concerning-human-understanding-locke.md)* (1689), which sets out to inventory the origin and bounds of the understanding, is then radicalised into Berkeley's idealism, and culminates in [Hume](../philosophers/hume.md)'s analysis, which extends the method to impressions and their ideas. Its method is regressive analysis: trace every notion back to the experience it derives from, on pain of judging it empty. The school is built as a reply to the continental [rationalism](../axes/knowledge-source.md) of [Descartes](../philosophers/descartes.md) and [Leibniz](../philosophers/leibniz.md), accompanies the rise of experimental natural philosophy, and wakes [Kant](../philosophers/kant.md), who said he owed to it his escape from his « dogmatic slumber » before seeking its synthesis with rationalism. Its legacy runs to the logical empiricism of the 20th century and to the analysis of language.
 
+**External links** : [Wikipedia](https://en.wikipedia.org/wiki/Empiricism) · [Wikidata](https://www.wikidata.org/wiki/Q83368)
+
 **Key figures** : [Francis Bacon](../philosophers/bacon.md) · [John Locke](../philosophers/locke.md) · [George Berkeley](../philosophers/berkeley.md) · [David Hume](../philosophers/hume.md)
 
 ## Core positions

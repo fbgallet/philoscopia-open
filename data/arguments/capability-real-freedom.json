@@ -1,0 +1,112 @@
+{
+  "id": "capability-real-freedom",
+  "kind": "SUPPORTS",
+  "position": {
+    "axisId": "POLITICAL_LIBERTY",
+    "poleId": "CAPABILITY_FREEDOM"
+  },
+  "name": {
+    "fr": "L'argument des capabilités",
+    "en": "The capabilities argument"
+  },
+  "claim": {
+    "fr": "Une liberté dont on n'a pas les moyens n'existe que sur le papier : être libre, c'est pouvoir effectivement être et faire.",
+    "en": "A liberty one lacks the means to use exists only on paper: to be free is to be actually able to be and to do."
+  },
+  "development": [
+    {
+      "fr": "À droits égaux, deux personnes n'ont pas les mêmes possibilités réelles : le droit d'entreprendre, d'étudier ou de voyager n'ouvre rien à qui manque d'argent, de santé ou d'instruction.",
+      "en": "With equal rights, two people do not have the same real possibilities: the right to start a business, to study, or to travel opens nothing to those who lack money, health, or education."
+    },
+    {
+      "fr": "Ce que nous prisons dans la liberté, ce sont les vies qu'elle rend possibles : un droit que son titulaire ne peut saisir garde peut-être sa valeur de principe, mais il n'ouvre, à lui seul, aucune vie.",
+      "en": "What we prize in liberty are the lives it makes possible: a right its holder cannot take up may keep its value in principle, but by itself it opens no life."
+    },
+    {
+      "fr": "Une définition purement formelle doit pourtant déclarer ces deux personnes également libres : comme mesure de la liberté, elle est aveugle à ce qui en fait la valeur.",
+      "en": "A purely formal definition must nonetheless declare these two people equally free: as a measure of freedom, it is blind to what gives freedom its value."
+    },
+    {
+      "fr": "La mesure pertinente est donc l'éventail des <c id='capabilite'>capabilités</c> : non les ressources elles-mêmes, mais ce que chacun, avec elles et selon sa situation, peut effectivement choisir d'être et de faire.",
+      "en": "The relevant measure is therefore the range of <c id='capabilite'>capabilities</c>: not resources themselves, but what each person, with them and given their situation, can actually choose to be and to do."
+    }
+  ],
+  "conclusion": {
+    "fr": "Une société libre est celle qui élargit ce que ses membres peuvent réellement être et faire, santé, instruction et ressources comprises.",
+    "en": "A free society is one that widens what its members can really be and do, health, education, and resources included."
+  },
+  "difficulty": 1,
+  "source": {
+    "author": {
+      "fr": "Amartya Sen",
+      "en": "Amartya Sen"
+    },
+    "figures": [
+      {
+        "name": {
+          "fr": "Sen",
+          "en": "Sen"
+        },
+        "kind": "PHILOSOPHER",
+        "slug": "sen"
+      },
+      {
+        "name": {
+          "fr": "Nussbaum",
+          "en": "Nussbaum"
+        },
+        "kind": "PHILOSOPHER",
+        "slug": "nussbaum"
+      }
+    ],
+    "work": {
+      "fr": "Un nouveau modèle économique. Développement, justice, liberté",
+      "en": "Development as Freedom"
+    },
+    "year": 1999
+  },
+  "deepenings": [
+    {
+      "id": "formal-freedoms-critique",
+      "label": {
+        "fr": "La critique des libertés formelles",
+        "en": "The critique of formal freedoms"
+      },
+      "targetStep": 2,
+      "development": [
+        {
+          "fr": "L'égalité de droit peut coexister avec la dépendance de fait : proclamées pour tous, les libertés restent, pour qui n'a pas les moyens de les exercer, des <kw>libertés de papier</kw>.",
+          "en": "Legal equality can coexist with actual dependence: proclaimed for all, freedoms remain, for those without the means to exercise them, <kw>paper freedoms</kw>."
+        },
+        {
+          "fr": "L'approche par les capabilités ne reprend pas ce diagnostic politique, mais elle en retient l'avertissement : une société peut multiplier les droits sans élargir d'un pouce ce que les plus démunis peuvent réellement faire.",
+          "en": "The capability approach does not take over this political diagnosis, but it keeps the warning: a society can multiply rights without widening by an inch what its poorest members can actually do."
+        }
+      ],
+      "source": {
+        "author": {
+          "fr": "Marx",
+          "en": "Marx"
+        },
+        "figures": [
+          {
+            "name": {
+              "fr": "Marx",
+              "en": "Marx"
+            },
+            "kind": "PHILOSOPHER",
+            "slug": "marx"
+          }
+        ],
+        "work": {
+          "fr": "Sur la question juive",
+          "en": "On the Jewish Question"
+        },
+        "year": 1844
+      }
+    }
+  ],
+  "problems": ["formal-or-real-freedom"],
+  "test": "freedom-vs-its-conditions",
+  "updatedAt": "2026-07-24T00:00:00.000Z"
+}

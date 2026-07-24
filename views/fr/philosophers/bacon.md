@@ -6,6 +6,8 @@
 
 Homme d'État et philosophe anglais de la Renaissance, lord chancelier sous Jacques Ier, Francis Bacon est le grand annonciateur de la science moderne. Contre la [logique scolastique](../movements/aristotelianism.md) héritée d'Aristote, jugée stérile, il appelle dans le *[Novum Organum](../works/novum-organum-bacon.md)* à une « grande restauration » des savoirs : une [induction](../glossary/induction.md) expérimentale qui parte des faits pour découvrir les lois de la nature, et une science enfin tournée vers l'utilité et le « soulagement de la condition humaine ». Précurseur et figure tutélaire de l'[empirisme](../movements/empiricism.md), il inspire la **Royal Society** que sa *[Nouvelle Atlantide](../works/new-atlantis-bacon.md)* annonce, et [Diderot](../philosophers/diderot.md) et les encyclopédistes des Lumières le saluent comme leur maître.
 
+**Liens externes** : [Wikipédia](https://fr.wikipedia.org/wiki/Francis_Bacon_(philosophe)) · [Wikidata](https://www.wikidata.org/wiki/Q37388)
+
 ## Positions structurantes
 
 1. [Méthode scientifique](../axes/scientific-method.md) : **Le syllogisme ne découvre rien : seule une [induction](../glossary/induction.md) expérimentale et éliminative, montant pas à pas des faits aux lois, peut interpréter la nature.**

@@ -851,6 +851,13 @@
       }
     }
   ],
+  "identity": {
+    "wikidata": "Q37068",
+    "wikipedia": {
+      "fr": "https://fr.wikipedia.org/wiki/Romantisme",
+      "en": "https://en.wikipedia.org/wiki/Romanticism"
+    }
+  },
   "updatedAt": "2026-07-19T00:00:00.000Z",
   "validation": {
     "method": "NOT_VALIDATED"

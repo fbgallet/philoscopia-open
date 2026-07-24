@@ -432,6 +432,13 @@
       }
     }
   ],
+  "identity": {
+    "wikidata": "Q126692",
+    "wikipedia": {
+      "fr": "https://fr.wikipedia.org/wiki/Pragmatisme",
+      "en": "https://en.wikipedia.org/wiki/Pragmatism"
+    }
+  },
   "updatedAt": "2026-06-24T00:00:00.000Z",
   "validation": {
     "method": "NOT_VALIDATED"

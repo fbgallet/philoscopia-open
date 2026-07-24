@@ -6,6 +6,8 @@
 
 Jeune Athénien ambitieux du dème d'Acharnes, hôte du sophiste [Gorgias](../philosophers/gorgias.md) et sur le point d'entrer dans la vie politique, Calliclès est le dernier et le plus redoutable des trois interlocuteurs du *[Gorgias](../works/gorgias-plato.md)* de [Platon](../philosophers/plato.md). Là où Gorgias puis Polos reculent, gagnés par la honte, il reprend l'argument sans fard et pousse jusqu'au bout la thèse que les autres n'osaient assumer : la morale reçue n'est qu'un piège tendu aux forts par la multitude des faibles. Personnage peut-être inspiré d'un homme réel mais connu de nous par le seul Platon, il incarne l'un des adversaires les plus redoutables que Socrate ait eu à affronter, proche du [Thrasymaque](../philosophers/thrasymachus.md) de la République et une figure que les lecteurs de [Nietzsche](../philosophers/nietzsche.md) ont souvent rapprochée de sa morale des maîtres.
 
+**Liens externes** : [Wikipédia](https://fr.wikipedia.org/wiki/Callicl%C3%A8s) · [Wikidata](https://www.wikidata.org/wiki/Q553801)
+
 ## Positions structurantes
 
 1. [Statut des normes (métaéthique)](../axes/moral-scope.md) : **Ce qu'on nomme justice n'est que la [convention](../glossary/physis-nomos.md) par laquelle les faibles brident les forts ; selon la nature, le meilleur doit commander à l'inférieur et posséder davantage.**

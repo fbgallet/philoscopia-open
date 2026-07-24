@@ -347,6 +347,13 @@
       }
     }
   ],
+  "identity": {
+    "wikidata": "Q82049",
+    "wikipedia": {
+      "fr": "https://fr.wikipedia.org/wiki/George_Berkeley",
+      "en": "https://en.wikipedia.org/wiki/George_Berkeley"
+    }
+  },
   "updatedAt": "2026-06-29T00:00:00.000Z",
   "validation": {
     "method": "NOT_VALIDATED"

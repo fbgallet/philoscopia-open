@@ -6,6 +6,8 @@
 
 Esprit universel du [rationalisme](../movements/rationalism.md) allemand, né à Leipzig au lendemain de la guerre de Trente Ans. Diplomate, juriste et bibliothécaire au service de la maison de Hanovre, il mena de front les mathématiques (il invente, en même temps que Newton et indépendamment de lui, le calcul infinitésimal, d'où une âpre querelle de priorité), la logique, la physique et la métaphysique. Il ne publia presque aucun grand livre : sa pensée vit dans une immense correspondance européenne, dans le Discours de métaphysique, la Monadologie et les seuls Essais de théodicée parus de son vivant. Héritier critique de [Descartes](../philosophers/descartes.md) et adversaire du nécessitarisme de [Spinoza](../philosophers/spinoza.md), il cherche à concilier la nouvelle science mécaniste avec la [liberté](../glossary/free-will.md), la finalité et un Dieu créateur. Son optimisme fut tourné en dérision par Voltaire dans Candide, mais sa logique et son projet d'une langue universelle des concepts en font un précurseur reconnu de la logique moderne.
 
+**Liens externes** : [Wikipédia](https://fr.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz) · [Wikidata](https://www.wikidata.org/wiki/Q9047)
+
 ## Positions structurantes
 
 1. [Nature du réel](../axes/reality-nature.md) : **Les véritables atomes de la nature ne sont pas matériels mais spirituels : le réel est fait de monades, substances simples sans fenêtres dont chacune exprime tout l'univers à sa façon.**

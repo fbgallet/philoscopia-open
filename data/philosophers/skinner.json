@@ -1,0 +1,16 @@
+{
+  "kind": "PHILOSOPHER",
+  "stub": true,
+  "id": "skinner",
+  "name": { "fr": "Skinner", "en": "Skinner" },
+  "aliases": { "fr": ["Quentin Skinner"], "en": ["Quentin Skinner"] },
+  "summary": {
+    "fr": "Historien britannique de la pensée politique, figure de l'école de Cambridge : il a remis au jour la conception néo-romaine de la liberté, être libre c'est ne pas vivre dans la dépendance de la volonté arbitraire d'autrui, avant même toute entrave effective.",
+    "en": "British historian of political thought, a leading figure of the Cambridge School: he recovered the neo-Roman conception of liberty, being free is not living in dependence on another's arbitrary will, prior to any actual interference."
+  },
+  "nationality": { "fr": "Britannique", "en": "British" },
+  "birth": 1940,
+  "movements": [],
+  "updatedAt": "2026-07-24T00:00:00.000Z",
+  "validation": { "method": "NOT_VALIDATED" }
+}

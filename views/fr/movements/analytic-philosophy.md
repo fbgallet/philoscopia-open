@@ -6,6 +6,8 @@
 
 Née au tournant du XXe siècle de la révolte de [Russell](../philosophers/russell.md) et de Moore contre l'idéalisme alors régnant, et armée par la logique nouvelle de Frege, la philosophie analytique fait de l'analyse logique du langage et des concepts sa méthode, et de la clarté son idéal. À la construction de grands systèmes elle préfère l'examen patient d'arguments précis ; à sa pointe, elle tient bien des problèmes philosophiques pour des confusions de langage, à dissoudre plutôt qu'à résoudre. [Wittgenstein](../philosophers/wittgenstein.md) en illustre les deux âges : il rêve d'abord d'un langage aux contours logiques stricts, où l'on ne dirait que ce qui peut être clairement dit, avant de se tourner vers le langage de tous les jours, dont la variété des usages fait, selon lui, s'évanouir bien des problèmes philosophiques. Plus une tradition-méthode qu'une doctrine commune, elle rassemble des positions très diverses et domine depuis la philosophie de langue anglaise, de l'épistémologie à l'éthique.
 
+**Liens externes** : [Wikipédia](https://fr.wikipedia.org/wiki/Philosophie_analytique) · [Wikidata](https://www.wikidata.org/wiki/Q183216)
+
 **Figures majeures** : [Russell](../philosophers/russell.md) · [Wittgenstein](../philosophers/wittgenstein.md)
 
 ## Positions structurantes

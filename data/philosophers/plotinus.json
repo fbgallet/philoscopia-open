@@ -747,6 +747,13 @@
       }
     }
   ],
+  "identity": {
+    "wikidata": "Q134189",
+    "wikipedia": {
+      "fr": "https://fr.wikipedia.org/wiki/Plotin",
+      "en": "https://en.wikipedia.org/wiki/Plotinus"
+    }
+  },
   "updatedAt": "2026-07-19T00:00:00.000Z",
   "validation": {
     "method": "NOT_VALIDATED"

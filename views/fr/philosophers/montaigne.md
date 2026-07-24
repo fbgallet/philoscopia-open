@@ -6,6 +6,8 @@
 
 Moraliste et magistrat français de la Renaissance, né au château de Montaigne en Périgord et formé très tôt au latin. Après une carrière au parlement de Bordeaux et la mort de son ami La Boétie, il se retire en 1571 dans sa « librairie » pour écrire les *[Essais](../works/essays-montaigne.md)*, dont il invente [le genre](../glossary/essai-genre.md) et qu'il remanie jusqu'à sa mort. Il écrit dans le fracas des guerres de Religion, dont il fut un négociateur modéré, et tire de l'humanisme antique, surtout des sceptiques grecs, de Sénèque et de Plutarque, une sagesse de la mesure et de la tolérance plutôt qu'une doctrine. Lecture de chevet de Pascal, qui le combat, de Descartes, qu'il provoque au doute, puis de Nietzsche qui l'admire, il reste l'un des premiers à faire de l'examen de sa propre vie le cœur de la philosophie.
 
+**Liens externes** : [Wikipédia](https://fr.wikipedia.org/wiki/Michel_de_Montaigne) · [Wikidata](https://www.wikidata.org/wiki/Q41568)
+
 ## Positions structurantes
 
 1. [Rapport à la certitude](../axes/certainty.md) : **« « Que sais-je ? » » : non pour suspendre tout jugement, mais pour vivre humblement avec des croyances qu'on sait faillibles.**

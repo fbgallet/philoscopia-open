@@ -6,6 +6,8 @@
 
 Philosophe française du XXe siècle, figure du [existentialisme](../movements/existentialism.md) aux côtés de [Sartre](../philosophers/sartre.md), formée à la [phénoménologie](../movements/phenomenology.md) de Husserl et de [Merleau-Ponty](../philosophers/merleau-ponty.md). Romancière, mémorialiste et théoricienne, elle est surtout l'autrice du Deuxième Sexe (1949), enquête qui croise biologie, histoire, psychanalyse et marxisme pour comprendre la condition faite aux femmes, et de Pour une morale de l'ambiguïté (1947), où elle tente l'éthique que l'existentialisme avait promise sans l'écrire. Longtemps reçue comme la disciple de Sartre, elle est aujourd'hui relue comme une penseuse à part entière, fondatrice du féminisme philosophique contemporain et source majeure des théories du genre.
 
+**Liens externes** : [Wikipédia](https://fr.wikipedia.org/wiki/Simone_de_Beauvoir) · [Wikidata](https://www.wikidata.org/wiki/Q7197)
+
 ## Positions structurantes
 
 1. [Identité sociale](../axes/social-identity.md) : **On ne naît pas femme : on le devient, car la **féminité** n'est pas une nature mais une situation construite par toute une civilisation.**

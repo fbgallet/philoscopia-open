@@ -6,6 +6,8 @@
 
 An Athenian born into an aristocratic family, a disciple of Socrates whose execution turned him away from a political career, Plato (c. 428-348 BCE) founded the Academy around 387, an institution that would last nearly nine centuries. His entire work is written in dialogues, with Socrates' voice leading the inquiry: this literary choice makes dialectic, the contradictory examination of opinions, the very method of philosophy. In them he confronts the challenge of the sophists and the relativism of his day, the question "how should one live and govern justly?" inherited from Socrates' trial, and the problem of stable knowledge in a changing world. From the *[Republic](../works/republic-plato.md)* to the *[Timaeus](../works/timaeus-plato.md)* and the *[Laws](../works/laws-plato.md)*, his influence is such that the whole Western tradition has been read, in Whitehead's phrase, as "a series of footnotes to Plato".
 
+**External links** : [Wikipedia](https://en.wikipedia.org/wiki/Plato) · [Wikidata](https://www.wikidata.org/wiki/Q859)
+
 ## Core positions
 
 1. [Nature of reality](../axes/reality-nature.md) : **The sensible world is not what is truly real: behind it exist intelligible [Forms](../glossary/theory-of-forms.md), eternal and unchanging, of which things are only imperfect copies.**

@@ -6,6 +6,8 @@
 
 Tradition issue de l'école que [Aristote](../philosophers/aristotle.md) fonda au Lycée d'Athènes vers 335 avant notre ère, où ses disciples, les Péripatéticiens, enseignaient en se promenant. Formé chez [Platon](../philosophers/plato.md) mais en rupture avec lui, Aristote bâtit le premier système encyclopédique de la philosophie, de la logique à la biologie, à partir de l'observation patiente du monde sensible plutôt que de la contemplation d'un monde des Idées. Après une longue éclipse, son œuvre est commentée et prolongée par Averroès dans le monde arabo-musulman, puis intégrée au christianisme par Thomas d'Aquin : l'aristotélisme devient l'ossature de la [scolastique](../glossary/scholasticism.md) médiévale et la référence dominante des universités, jusqu'à ce que la science moderne conteste son finalisme. Sa logique, son éthique de la vertu et son vocabulaire métaphysique irriguent encore la pensée occidentale.
 
+**Liens externes** : [Wikipédia](https://fr.wikipedia.org/wiki/Aristot%C3%A9lisme) · [Wikidata](https://www.wikidata.org/wiki/Q263307)
+
 **Figures majeures** : [Aristote](../philosophers/aristotle.md) · [Thomas d'Aquin](../philosophers/aquinas.md) · [Averroès](../philosophers/averroes.md)
 
 ## Positions structurantes

@@ -6,6 +6,8 @@
 
 Fille d'Œdipe, Antigone se dresse au cœur de la tragédie de Sophocle : Créon, nouveau maître de Thèbes, a interdit sous peine de mort d'ensevelir son frère Polynice, tombé en assaillant la cité. Elle se tient dans ce conflit nu entre la conscience d'une jeune femme et le décret du pouvoir, entre ce que la cité ordonne et ce qu'elle croit dû aux dieux et aux siens. Reprise par Anouilh en 1944, elle est devenue la figure même du refus solitaire, celle qui dit non au nom d'une exigence plus haute que l'État.
 
+**Liens externes** : [Wikipédia](https://fr.wikipedia.org/wiki/Antigone_fille_d%27%C5%92dipe) · [Wikidata](https://www.wikidata.org/wiki/Q131351)
+
 ## Positions structurantes
 
 1. [Où réside le sacré](../axes/transcendence.md) : **Les lois non écrites des dieux ne datent ni d'hier ni d'aujourd'hui, et aucun décret d'un mortel ne saurait les abroger.**

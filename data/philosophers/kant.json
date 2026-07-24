@@ -994,6 +994,13 @@
       }
     }
   ],
+  "identity": {
+    "wikidata": "Q9312",
+    "wikipedia": {
+      "fr": "https://fr.wikipedia.org/wiki/Emmanuel_Kant",
+      "en": "https://en.wikipedia.org/wiki/Immanuel_Kant"
+    }
+  },
   "updatedAt": "2026-07-19T00:00:00.000Z",
   "validation": {
     "method": "NOT_VALIDATED"

@@ -6,6 +6,8 @@
 
 Born at the turn of the twentieth century from the revolt of [Russell](../philosophers/russell.md) and Moore against the then-reigning idealism, and armed with the new logic of Frege, analytic philosophy makes the logical analysis of language and concepts its method, and clarity its ideal. To the building of grand systems it prefers the patient examination of precise arguments; at its sharpest, it holds many philosophical problems to be confusions of language, to be dissolved rather than solved. [Wittgenstein](../philosophers/wittgenstein.md) illustrates its two ages: he first dreams of a language with strict logical contours, in which one would say only what can be clearly said, before turning to everyday language, whose sheer variety of uses makes, on his account, many philosophical problems evaporate. More a method-tradition than a shared doctrine, it gathers widely divergent positions and has dominated English-language philosophy ever since, from epistemology to ethics.
 
+**External links** : [Wikipedia](https://en.wikipedia.org/wiki/Analytic_philosophy) · [Wikidata](https://www.wikidata.org/wiki/Q183216)
+
 **Key figures** : [Russell](../philosophers/russell.md) · [Wittgenstein](../philosophers/wittgenstein.md)
 
 ## Core positions

@@ -380,6 +380,13 @@
       }
     }
   ],
+  "identity": {
+    "wikidata": "Q192313",
+    "wikipedia": {
+      "fr": "https://fr.wikipedia.org/wiki/Pyrrhon_d%27%C3%89lis",
+      "en": "https://en.wikipedia.org/wiki/Pyrrho"
+    }
+  },
   "updatedAt": "2026-06-29T00:00:00.000Z",
   "validation": {
     "method": "NOT_VALIDATED"

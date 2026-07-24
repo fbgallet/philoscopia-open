@@ -6,6 +6,8 @@
 
 Inaugurée par Edmund Husserl au tournant du XXe siècle, la phénoménologie naît d'un combat précis : contre le psychologisme, qui réduisait les lois logiques à de simples faits de notre esprit, et contre le naturalisme, qui traite la conscience comme un objet du monde parmi d'autres. Husserl forge une **méthode** de description rigoureuse, prolongée puis infléchie par ses héritiers, dont la divergence fait l'histoire de l'école : Heidegger, son assistant, la convertit en analytique de l'existence ( Être et Temps, 1927) ; Merleau-Ponty la déplace vers la perception et le corps ( Phénoménologie de la perception, 1945) ; [Sartre](../philosophers/sartre.md) en tire une ontologie de la liberté. De cette filiation sort l'[existentialisme](../movements/existentialism.md), et son influence irrigue ensuite une grande part de la pensée française, de l'herméneutique à la déconstruction. Ce que l'école partage tient moins à une doctrine qu'à une exigence : revenir « aux choses mêmes » telles qu'elles se donnent.
 
+**Liens externes** : [Wikipédia](https://fr.wikipedia.org/wiki/Ph%C3%A9nom%C3%A9nologie_(philosophie)) · [Wikidata](https://www.wikidata.org/wiki/Q179235)
+
 **Figures majeures** : [Husserl](../philosophers/husserl.md) · [Heidegger](../philosophers/heidegger.md) · [Merleau-Ponty](../philosophers/merleau-ponty.md) · [Sartre](../philosophers/sartre.md)
 
 ## Positions structurantes

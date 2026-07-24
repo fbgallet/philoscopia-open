@@ -1,6 +1,6 @@
 # Philoscopia — une carte ouverte des débats et visions du monde philosophiques, et les outils pour construire votre propre profil philosophique
 
-**[🇬🇧 English](README.md) · 🇫🇷 Français**
+**[English](README.md) · Français**
 
 Un référentiel ouvert et bilingue (EN/FR) pour cartographier les positions philosophiques : **80 axes** couvrant les grands débats, des **profils sourcés** de philosophes et de mouvements, des **graphes d'influence et de fondation**, un glossaire et un registre des œuvres — le tout en JSON validé et lisible par machine, conçu pour être réutilisé aussi bien par des humains que par des LLM.
 
@@ -28,6 +28,8 @@ Tout se trouve sous `data/`, un fichier JSON par entité :
 | `arguments/` | Les arguments canoniques (SUPPORTS) et les objections (OBJECTS) qui portent sur une position : une chaîne de raisons avec des approfondissements facultatifs, des sources, et — pour les objections — les issues honnêtes (réviser / nuancer / maintenir). |
 
 La plupart des entités (thèmes, axes, philosophes, mouvements, glossaire, personnages) portent aussi des **`aliases`** — des listes bilingues de noms alternatifs et de termes de recherche courants — pour qu'un lecteur ou un LLM atteigne la bonne entrée à partir des mots qu'il emploierait naturellement, et pas seulement de son identifiant canonique.
+
+Chaque **profil** complet (philosophe, mouvement, personnage) porte en outre un bloc **`identity`** facultatif qui le relie au Knowledge Graph : son identifiant **Wikidata** (QID) et, dérivées des liens interwikis de l'entité, les URL de ses articles **Wikipédia**. Le jeu de données devient ainsi *joignable* : nos positions sourcées peuvent être raccrochées à Wikidata et Wikipédia par un identifiant stable.
 
 ## Parcourir le corpus
 

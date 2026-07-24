@@ -6,6 +6,8 @@
 
 A Greek-speaking philosopher of late antiquity (c. 204-270), born in Roman Egypt and trained in Alexandria under Ammonius Saccas, Plotinus then taught in Rome, where he gathered a circle of disciples. He is the chief founder of what would be called [Neoplatonism](../movements/platonism.md): in his own eyes not a new system but the faithful unfolding of [Plato](../philosophers/plato.md), whom he systematizes and bends toward mysticism. He wrote only late and without concern for order; his treatises were collected and edited after his death by his pupil Porphyry, who arranged them into six groups of nine, the *[Enneads](../works/enneads-plotinus.md)*. His thought of the three principles, the One, the Intellect and the Soul, would feed Christian theology, above all [Augustine](../philosophers/augustine.md), as well as the Jewish and Islamic traditions, down to the Florentine Renaissance.
 
+**External links** : [Wikipedia](https://en.wikipedia.org/wiki/Plotinus) · [Wikidata](https://www.wikidata.org/wiki/Q134189)
+
 ## Core positions
 
 1. [Where the sacred resides](../axes/transcendence.md) : **The principle of all is a [One](../glossary/the-one.md) beyond being and beyond thought: nothing can be said of it, one can only ascend back to it.**

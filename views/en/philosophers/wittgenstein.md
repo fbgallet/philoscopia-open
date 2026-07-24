@@ -6,6 +6,8 @@
 
 A central figure of [analytic philosophy](../movements/analytic-philosophy.md), he overturned it twice. An engineer turned logician under [Russell](../philosophers/russell.md) at Cambridge, he wrote at the front and in captivity during the Great War the *[Tractatus Logico-Philosophicus](../works/tractatus-logico-philosophicus-wittgenstein.md)* (1921), believed he had solved every philosophical problem, and left the discipline: he gave away his fortune and taught in Austrian villages. Returning to Cambridge in 1929, he turned his early thought inside out in the *[Philosophical Investigations](../works/philosophical-investigations-wittgenstein.md)* (posthumous, 1953), abandoning the picture theory of language for "language-games" and meaning as use. Out of these two Wittgensteins came logical positivism, ordinary-language philosophy, and part of contemporary philosophy of mind.
 
+**External links** : [Wikipedia](https://en.wikipedia.org/wiki/Ludwig_Wittgenstein) · [Wikidata](https://www.wikidata.org/wiki/Q9391)
+
 ## Core positions
 
 1. [The point of philosophy](../axes/metaphilosophy.md) : **Philosophy is not a doctrine but an activity: it discovers no truths and builds no theories: it clarifies, and dissolves the false problems born of the traps of language rather than solving them.**

@@ -6,6 +6,8 @@
 
 Évêque anglican et philosophe anglo-irlandais, troisième grand nom de l'[empirisme](../movements/empiricism.md) britannique aux côtés de [Locke](../philosophers/locke.md) et de [Hume](../philosophers/hume.md). Né près de Kilkenny, formé au Trinity College de Dublin, il publie très jeune ses œuvres décisives, les *[Principes de la connaissance humaine](../works/principles-of-human-knowledge-berkeley.md)* et les *[Trois dialogues entre Hylas et Philonous](../works/three-dialogues-berkeley.md)*, avant de longs voyages, un projet avorté de collège missionnaire aux Bermudes, un séjour à Rhode Island, puis l'évêché de Cloyne. Reprenant l'empirisme de Locke pour le radicaliser, il en tire une conclusion inattendue : si toute idée vient des sens, l'idée d'une matière existant hors de tout esprit est un mot vide. De là son [immatérialisme](../glossary/immaterialism.md), longtemps caricaturé comme un déni du monde, que Samuel Johnson crut réfuter d'un coup de pied dans une pierre, et que [Hume](../philosophers/hume.md) puis [Kant](../philosophers/kant.md) durent affronter de près.
 
+**Liens externes** : [Wikipédia](https://fr.wikipedia.org/wiki/George_Berkeley) · [Wikidata](https://www.wikidata.org/wiki/Q82049)
+
 ## Positions structurantes
 
 1. [Nature du réel](../axes/reality-nature.md) : **Il n'y a pas de matière : « être, c'est être perçu », et les corps ne sont que des collections réglées d'idées dans des esprits.**

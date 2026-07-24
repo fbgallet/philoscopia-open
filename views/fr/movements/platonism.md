@@ -6,6 +6,8 @@
 
 Tradition issue de l'Académie, l'école que [Platon](../philosophers/plato.md) fonda près d'Athènes vers 387 avant notre ère et qui se perpétua plusieurs siècles. Héritier de Socrate et adversaire des sophistes, Platon cherche, contre leur relativisme et le flux héraclitéen, un fondement stable au savoir et à la justice, qu'il déploie dans des dialogues, la *[République](../works/republic-plato.md)*, le *[Phédon](../works/phaedo-plato.md)*, le *[Banquet](../works/symposium-plato.md)*, où le raisonnement dialectique tient lieu de méthode. Après l'Académie ancienne, la tradition se renouvelle dans le néoplatonisme de Plotin au IIIe siècle, puis s'éteint avec la fermeture de l'école d'Athènes en 529. Reprise par Augustin et la patristique, elle a façonné durablement la métaphysique, la théologie et la mystique occidentales, et reste, selon le mot de Whitehead, l'horizon dont toute la philosophie postérieure serait une série de notes.
 
+**Liens externes** : [Wikipédia](https://fr.wikipedia.org/wiki/Platonisme_(doctrine_philosophique)) · [Wikidata](https://www.wikidata.org/wiki/Q193589)
+
 **Figures majeures** : [Platon](../philosophers/plato.md) · [Plotin](../philosophers/plotinus.md) · [Augustin](../philosophers/augustine.md)
 
 ## Positions structurantes

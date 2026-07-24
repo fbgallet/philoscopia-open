@@ -6,6 +6,8 @@
 
 A tradition born in the China of the Warring States (5th-3rd century BCE), an age of war and the collapse of order that pressed each school to offer a cure for the disorder. So-called philosophical Taoism forms around two texts: the Dao De Jing (Tao Te Ching), an aphoristic collection ascribed to Laozi (Lao Tzu), a perhaps legendary figure, and the Zhuangzi (Chuang Tzu), a sequence of tales, parables and dialogues of great inventive freedom. Where the [Confucianism](../movements/confucianism.md) of [Confucius](../philosophers/confucius.md) answered the crisis with ritual, study and social duty, Taoism seeks deliverance in withdrawal, naturalness and the critique of artifice. Gathered later alongside the Liezi, this current would feed, from the Han onward, a religious Taoism with its deities, its longevity techniques and its quest for immortality, distinct from the original philosophical vein. Its sensibility deeply shaped Chinese poetry, painting and medicine, the Chan school (the ancestor of Zen) across Asia, and today nourishes in the West an imaginary of simplicity and accord with nature.
 
+**External links** : [Wikipedia](https://en.wikipedia.org/wiki/Taoism) · [Wikidata](https://www.wikidata.org/wiki/Q9598)
+
 **Key figures** : [Laozi](../philosophers/laozi.md) · [Zhuangzi](../philosophers/zhuangzi.md) · [Liezi](../philosophers/liezi.md)
 
 ## Core positions

@@ -6,6 +6,8 @@
 
 Employé de bureau à Alger et narrateur de *[L'Étranger](../works/the-stranger-camus.md)*, Meursault est un homme sans histoire et sans illusions, qui dit ne pas savoir s'il a aimé sa mère et ne voit guère de raison de changer de vie. Il habite la sensation présente, le soleil, la mer, le tabac, étranger aux comédies sociales et au langage des sentiments attendus. [Camus](../philosophers/camus.md) le pose dans un monde sans providence ni arrière-monde, indifférent au sort des hommes : il incarne [l'homme absurde](../glossary/the-absurd.md), celui qui vit sans tricher avec ce divorce entre l'attente humaine et le silence du monde.
 
+**Liens externes** : [Wikidata](https://www.wikidata.org/wiki/Q21933247)
+
 ## Positions structurantes
 
 1. [Tonalité du réel](../axes/cosmic-outlook.md) : **Le monde n'a ni providence ni dessein : il est tendrement indifférent, et le même soleil qui comble peut écraser.**

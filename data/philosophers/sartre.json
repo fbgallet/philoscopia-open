@@ -883,6 +883,13 @@
       }
     }
   ],
+  "identity": {
+    "wikidata": "Q9364",
+    "wikipedia": {
+      "fr": "https://fr.wikipedia.org/wiki/Jean-Paul_Sartre",
+      "en": "https://en.wikipedia.org/wiki/Jean-Paul_Sartre"
+    }
+  },
   "updatedAt": "2026-07-19T00:00:00.000Z",
   "validation": {
     "method": "NOT_VALIDATED"

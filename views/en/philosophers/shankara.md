@@ -6,6 +6,8 @@
 
 Master of [Advaita Vedānta](../movements/vedanta.md), the non-dualist branch of Vedānta, traditionally placed in India around 700-750 (his dating remains debated). He systematized a reading of the Upaniṣads in which the self ([ātman](../glossary/atman.md)) and the absolute ([brahman](../glossary/brahman.md)) are one and the same reality, against the dualist and ritualist schools of his day. To him we owe great commentaries (bhāṣya) on [Bādarāyaṇa](../philosophers/badarayana.md)'s *[Brahma Sūtras](../works/brahma-sutras-badarayana.md)*, on the principal Upaniṣads and on the Bhagavad Gītā, as well as didactic treatises such as the *[Upadeśasāhasrī](../works/upadesasahasri-shankara.md)*. Heir to [Gauḍapāda](../philosophers/gaudapada.md), he makes the path of knowledge ([jñāna](../glossary/jnana.md)) the heart of his doctrine, and tradition credits him with founding the monasteries (maṭha) that would perpetuate his school. His non-dualism remains to this day the most influential current of Hindu philosophy.
 
+**External links** : [Wikipedia](https://en.wikipedia.org/wiki/Adi_Shankara) · [Wikidata](https://www.wikidata.org/wiki/Q180967)
+
 ## Core positions
 
 1. [Nature of the self](../axes/self-nature.md) : **You are neither your body nor your mind: your true self ([ātman](../glossary/atman.md)) is witness-consciousness, and it is identical to the absolute, [brahman](../glossary/brahman.md).**

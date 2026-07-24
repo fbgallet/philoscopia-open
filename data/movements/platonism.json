@@ -570,6 +570,13 @@
       }
     }
   ],
+  "identity": {
+    "wikidata": "Q193589",
+    "wikipedia": {
+      "fr": "https://fr.wikipedia.org/wiki/Platonisme_(doctrine_philosophique)",
+      "en": "https://en.wikipedia.org/wiki/Platonism"
+    }
+  },
   "updatedAt": "2026-06-24T00:00:00.000Z",
   "validation": {
     "method": "NOT_VALIDATED"

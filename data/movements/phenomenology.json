@@ -283,6 +283,13 @@
       }
     }
   ],
+  "identity": {
+    "wikidata": "Q179235",
+    "wikipedia": {
+      "fr": "https://fr.wikipedia.org/wiki/Ph%C3%A9nom%C3%A9nologie_(philosophie)",
+      "en": "https://en.wikipedia.org/wiki/Phenomenology_(philosophy)"
+    }
+  },
   "updatedAt": "2026-06-24T00:00:00.000Z",
   "validation": {
     "method": "NOT_VALIDATED"

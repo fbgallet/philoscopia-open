@@ -6,6 +6,8 @@
 
 A school founded in Athens by [Epicurus](../philosophers/epicurus.md) around 307 BCE, which taught in the garden beside his house, whence the name « the Garden » given to a community open, rare for the time, to women and slaves. Epicurus answers the anxiety of his age, troubled by wars and by fear of the gods and of death: he builds a therapeutics of happiness that anchors ethics in a physics, the atomism taken over from Democritus. His treatises being almost all lost, the doctrine survives chiefly in three summary letters (among them the *[Letter to Menoeceus](../works/letter-to-menoeceus-epicurus.md)*), the *[Principal Doctrines](../works/principal-doctrines-epicurus.md)* and, in the first century BCE, the great poem of Lucretius, *[On the Nature of Things](../works/on-the-nature-of-things-lucretius.md)*, which carried the school to Rome. Long caricatured as an apology for debauchery, Epicureanism was rediscovered in the Renaissance and fed the tradition of modern materialism, from Gassendi to Marx.
 
+**External links** : [Wikipedia](https://en.wikipedia.org/wiki/Epicureanism) · [Wikidata](https://www.wikidata.org/wiki/Q179541)
+
 **Key figures** : [Epicurus](../philosophers/epicurus.md) · [Lucretius](../philosophers/lucretius.md) · [Metrodorus](../philosophers/metrodorus.md)
 
 ## Core positions

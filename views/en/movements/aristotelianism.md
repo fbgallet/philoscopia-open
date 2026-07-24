@@ -6,6 +6,8 @@
 
 A tradition stemming from the school [Aristotle](../philosophers/aristotle.md) founded at the Lyceum in Athens around 335 BCE, where his disciples, the Peripatetics, taught while walking about. Trained under [Plato](../philosophers/plato.md) but breaking with him, Aristotle built philosophy's first encyclopaedic system, from logic to biology, out of the patient observation of the sensible world rather than the contemplation of a realm of Ideas. After a long eclipse, his work was commented on and extended by Averroes in the Arab-Muslim world, then absorbed into Christianity by Thomas Aquinas: Aristotelianism became the backbone of medieval [scholasticism](../glossary/scholasticism.md) and the dominant authority of the universities, until modern science challenged its finalism. Its logic, its virtue ethics and its metaphysical vocabulary still run through Western thought.
 
+**External links** : [Wikipedia](https://en.wikipedia.org/wiki/Aristotelianism) · [Wikidata](https://www.wikidata.org/wiki/Q263307)
+
 **Key figures** : [Aristotle](../philosophers/aristotle.md) · [Thomas Aquinas](../philosophers/aquinas.md) · [Averroes](../philosophers/averroes.md)
 
 ## Core positions

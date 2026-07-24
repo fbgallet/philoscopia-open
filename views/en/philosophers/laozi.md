@@ -6,6 +6,8 @@
 
 A semi-legendary Chinese sage, traditionally placed in the sixth century BCE and presented by tradition as an archivist at the Zhou court and an elder of [Confucius](../philosophers/confucius.md). Historical scholarship now regards the figure as uncertain and dates the *[Dao De Jing](../works/dao-de-jing-laozi.md)* attributed to him rather to the fourth-third centuries BCE. This brief collection of aphorisms, now one of the most translated texts in the world, is the foundation of [Taoism](../movements/taoism.md): it unfolds the [Dao](../glossary/dao.md), the ineffable way and source of all things, [wu wei](../glossary/wu-wei.md) (non-action) and [ziran](../glossary/ziran.md) (natural spontaneity). Reacting against Confucian ritualism and the Legalist schools, his thought shaped Chinese culture, Chan (Zen) Buddhism and, in the West, a whole ecological and anti-productivist current.
 
+**External links** : [Wikipedia](https://en.wikipedia.org/wiki/Laozi) · [Wikidata](https://www.wikidata.org/wiki/Q9333)
+
 ## Core positions
 
 1. [Scope of action](../axes/control-scope.md) : **[Act without forcing](../glossary/wu-wei.md): espouse the spontaneous course of things as water flows around the obstacle, and nothing is left undone.**

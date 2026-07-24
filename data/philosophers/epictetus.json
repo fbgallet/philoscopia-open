@@ -687,6 +687,13 @@
       }
     }
   ],
+  "identity": {
+    "wikidata": "Q183144",
+    "wikipedia": {
+      "fr": "https://fr.wikipedia.org/wiki/%C3%89pict%C3%A8te",
+      "en": "https://en.wikipedia.org/wiki/Epictetus"
+    }
+  },
   "updatedAt": "2026-07-12T00:00:00.000Z",
   "validation": {
     "method": "NOT_VALIDATED"

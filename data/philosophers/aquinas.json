@@ -1031,6 +1031,13 @@
       }
     }
   ],
+  "identity": {
+    "wikidata": "Q9438",
+    "wikipedia": {
+      "fr": "https://fr.wikipedia.org/wiki/Thomas_d%27Aquin",
+      "en": "https://en.wikipedia.org/wiki/Thomas_Aquinas"
+    }
+  },
   "updatedAt": "2026-07-19T00:00:00.000Z",
   "validation": {
     "method": "NOT_VALIDATED"

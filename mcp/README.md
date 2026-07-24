@@ -1,6 +1,10 @@
 # philoscopia-mcp
 
+**English · [Français](README.fr.md)**
+
 An MCP server that lets any LLM work with the [Philoscopia referential](https://github.com/fbgallet/philoscopia-referential): explore the axes of philosophical positions, read figures' profiles, and build **your own philosophical profile** in a local, private workspace.
+
+More than a lookup service: the corpus is **sourced and didactic** — distilled from over twenty years of philosophy teaching — and the tools are built so that you (and your assistant) can actually *do* philosophy, not just read about it: surface the positions you already hold, test them against the strongest objections, and keep a structured workspace of your own thinking.
 
 Everything runs on your machine. The corpus is bundled in the package (each version pins one exact state of the referential); the server makes **no network calls**, and your workspace is a plain folder of JSON and markdown you own, read, edit and version as you wish.
 

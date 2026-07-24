@@ -702,6 +702,13 @@
       }
     }
   ],
+  "identity": {
+    "wikidata": "Q913",
+    "wikipedia": {
+      "fr": "https://fr.wikipedia.org/wiki/Socrate",
+      "en": "https://en.wikipedia.org/wiki/Socrates"
+    }
+  },
   "updatedAt": "2026-07-19T00:00:00.000Z",
   "validation": {
     "method": "NOT_VALIDATED"

@@ -565,6 +565,13 @@
       }
     }
   ],
+  "identity": {
+    "wikidata": "Q263307",
+    "wikipedia": {
+      "fr": "https://fr.wikipedia.org/wiki/Aristot%C3%A9lisme",
+      "en": "https://en.wikipedia.org/wiki/Aristotelianism"
+    }
+  },
   "updatedAt": "2026-07-03T00:00:00.000Z",
   "validation": {
     "method": "NOT_VALIDATED"

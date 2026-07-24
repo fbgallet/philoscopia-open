@@ -6,6 +6,8 @@
 
 Anglican bishop and Anglo-Irish philosopher, the third great name of British [empiricism](../movements/empiricism.md) alongside [Locke](../philosophers/locke.md) and [Hume](../philosophers/hume.md). Born near Kilkenny and educated at Trinity College, Dublin, he published his decisive works while still young, the *[Principles of Human Knowledge](../works/principles-of-human-knowledge-berkeley.md)* and the *[Three Dialogues between Hylas and Philonous](../works/three-dialogues-berkeley.md)*, before long travels, a failed plan for a missionary college in Bermuda, a stay in Rhode Island, and finally the bishopric of Cloyne. Taking up Locke's empiricism in order to radicalise it, he drew an unexpected conclusion: if every idea comes from the senses, the idea of a matter existing outside any mind is an empty word. Hence his [immaterialism](../glossary/immaterialism.md), long caricatured as a denial of the world, which Samuel Johnson thought to refute by kicking a stone, and which [Hume](../philosophers/hume.md) and then [Kant](../philosophers/kant.md) had to confront at close quarters.
 
+**External links** : [Wikipedia](https://en.wikipedia.org/wiki/George_Berkeley) · [Wikidata](https://www.wikidata.org/wiki/Q82049)
+
 ## Core positions
 
 1. [Nature of reality](../axes/reality-nature.md) : **There is no matter: “to be is to be perceived”, and bodies are only ordered collections of ideas in minds.**

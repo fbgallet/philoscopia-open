@@ -274,6 +274,13 @@
       }
     }
   ],
+  "identity": {
+    "wikidata": "Q553801",
+    "wikipedia": {
+      "fr": "https://fr.wikipedia.org/wiki/Callicl%C3%A8s",
+      "en": "https://en.wikipedia.org/wiki/Callicles"
+    }
+  },
   "updatedAt": "2026-07-07T00:00:00.000Z",
   "validation": { "method": "NOT_VALIDATED" }
 }

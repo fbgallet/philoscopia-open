@@ -6,6 +6,8 @@
 
 Poète et philosophe romain du Ier siècle av. J.-C., dont on ne sait presque rien sinon qu'il composa, en pleine crise de la République, le *[De rerum natura](../works/on-the-nature-of-things-lucretius.md)*, vaste poème didactique en six livres qui est la plus complète exposition antique de l'épicurisme parvenue jusqu'à nous. Il y transpose en vers latins la physique de [Épicure](../philosophers/epicurus.md), héritée de l'atomisme de Démocrite : il n'y a que des atomes et du vide, la nature ne fut faite ni par les dieux ni pour les hommes, et son but avoué est thérapeutique, délivrer l'humanité de la crainte des dieux et de la mort qui empoisonne la vie. Disciple fervent plus qu'inventeur de doctrine, Lucrèce donne pourtant à l'épicurisme une voix propre : la grandeur sombre du [sublime](../glossary/sublime.md) matérialiste, une polémique sans concession contre la religion comme source de maux, et une histoire naturelle de l'humanité au livre V. Presque oublié, son poème est retrouvé en 1417 par Poggio Bracciolini et devient l'une des sources majeures du matérialisme et de la libre pensée modernes, de Gassendi à Montaigne et aux [Lumières](../glossary/lumieres.md).
 
+**Liens externes** : [Wikipédia](https://fr.wikipedia.org/wiki/Lucr%C3%A8ce) · [Wikidata](https://www.wikidata.org/wiki/Q47154)
+
 ## Positions structurantes
 
 1. [Nature du réel](../axes/reality-nature.md) : **Il n'existe que des atomes et du vide : rien ne naît du néant ni n'y retourne, et tout le réel, jusqu'à l'âme, n'est que matière en mouvement.**

@@ -6,6 +6,8 @@
 
 An office clerk in Algiers and the narrator of *[The Stranger](../works/the-stranger-camus.md)*, Meursault is a man without a story and without illusions, who says he does not know whether he loved his mother and sees little reason to change his life. He inhabits present sensation, the sun, the sea, tobacco, a stranger to social play-acting and to the language of expected feeling. [Camus](../philosophers/camus.md) places him in a world without providence or any beyond, indifferent to the fate of men: he embodies [the absurd man](../glossary/the-absurd.md), the one who lives without cheating about this divorce between human longing and the silence of the world.
 
+**External links** : [Wikidata](https://www.wikidata.org/wiki/Q21933247)
+
 ## Core positions
 
 1. [Tonality of reality](../axes/cosmic-outlook.md) : **The world has no providence and no design: it is tenderly indifferent, and the same sun that fulfills can crush.**

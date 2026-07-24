@@ -6,6 +6,8 @@
 
 A grand post-Kantian system which, from [Fichte](../philosophers/fichte.md) through [Schelling](../philosophers/schelling.md) to [Hegel](../philosophers/hegel.md), radicalizes [Kant](../philosophers/kant.md)'s critical turn while crossing the limit he had set: where Kant declared the thing in itself unknowable, German Idealism holds that reason, unfolded into a system, can reach the absolute itself. The real is no longer opaque matter but [Spirit](../axes/reality-nature.md), or a subject that posits itself and comes to understand itself at the end of a dialectical movement. In Hegel this unfolding becomes history: Spirit realizes itself in time as the progress of the consciousness of freedom. Carried by the French Revolution and the momentum of [Romanticism](../movements/romanticism.md), the current dies out with Hegel's death in 1831, at once overturned by [Marx](../philosophers/marx.md), who sets it "back on its feet", and by [Kierkegaard](../philosophers/kierkegaard.md), who sets the singular existing individual against it.
 
+**External links** : [Wikipedia](https://en.wikipedia.org/wiki/German_idealism) · [Wikidata](https://www.wikidata.org/wiki/Q679842)
+
 **Key figures** : [Fichte](../philosophers/fichte.md) · [Schelling](../philosophers/schelling.md) · [Hegel](../philosophers/hegel.md)
 
 ## Core positions

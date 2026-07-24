@@ -6,6 +6,8 @@
 
 The summit and turning point of [German idealism](../movements/german-idealism.md), he builds, after [Kant](../philosophers/kant.md), [Fichte](../philosophers/fichte.md) and [Schelling](../philosophers/schelling.md), the most ambitious system of modern philosophy: a dialectic in which being, nature and spirit unfold and understand themselves as the moments of one rational process. He finishes the *[Phenomenology of Spirit](../works/phenomenology-of-spirit-hegel.md)* at Jena in 1806, as Napoleon enters the city (it appears the following year), writes the *[Science of Logic](../works/science-of-logic-hegel.md)* (1812–1816) at Nuremberg, then, from Berlin, reigns over German philosophical life, where the *[Elements of the Philosophy of Right](../works/philosophy-of-right-hegel.md)* appear. At his death his school splits between Hegelian right and left, out of which comes [Marx](../philosophers/marx.md): few bodies of thought have so marked the history, politics and art of the two following centuries.
 
+**External links** : [Wikipedia](https://en.wikipedia.org/wiki/Georg_Wilhelm_Friedrich_Hegel) · [Wikidata](https://www.wikidata.org/wiki/Q9235)
+
 ## Core positions
 
 1. [Nature of reality](../axes/reality-nature.md) : **The true is not to be thought as an inert substance that mind would know from outside: it is also subject, the Idea that unfolds, externalizes itself and returns to itself in knowing itself. This is absolute idealism.**

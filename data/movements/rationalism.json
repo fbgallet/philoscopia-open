@@ -389,6 +389,13 @@
       }
     }
   ],
+  "identity": {
+    "wikidata": "Q483024",
+    "wikipedia": {
+      "fr": "https://fr.wikipedia.org/wiki/Rationalisme",
+      "en": "https://en.wikipedia.org/wiki/Rationalism"
+    }
+  },
   "updatedAt": "2026-06-24T00:00:00.000Z",
   "validation": {
     "method": "NOT_VALIDATED"

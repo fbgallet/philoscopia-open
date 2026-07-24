@@ -1,0 +1,172 @@
+{
+  "id": "the-kind-master",
+  "title": {
+    "fr": "L'esclave du bon maître",
+    "en": "The slave of the kind master"
+  },
+  "description": {
+    "fr": "Imaginez un esclave échu à un maître d'humeur égale et bienveillante : jamais un ordre brutal, jamais une punition ; il le laisse vivre, travailler, aimer à sa guise. Nulle ingérence, donc, d'un bout à l'autre de sa vie. Son voisin est un citoyen pauvre, protégé par la loi. Si la liberté n'est que l'absence d'entrave, l'esclave bien traité est aussi libre que le citoyen, peut-être davantage.",
+    "en": "Imagine a slave who has fallen to a master of even, benevolent temper: never a brutal order, never a punishment; he lets him live, work, and love as he pleases. No interference, then, from one end of his life to the other. His neighbor is a poor citizen, protected by the law. If liberty is nothing but the absence of hindrance, the well-treated slave is as free as the citizen, perhaps freer."
+  },
+  "source": {
+    "author": {
+      "fr": "Philip Pettit, d'après la tradition républicaine",
+      "en": "Philip Pettit, after the republican tradition"
+    },
+    "work": {
+      "fr": "Républicanisme. Une théorie de la liberté et du gouvernement",
+      "en": "Republicanism: A Theory of Freedom and Government"
+    },
+    "year": 1997
+  },
+  "question": {
+    "fr": "L'esclave du bon maître est-il libre ?",
+    "en": "Is the slave of the kind master free?"
+  },
+  "axisIds": ["POLITICAL_LIBERTY"],
+  "options": [
+    {
+      "id": "unhindered-so-free",
+      "label": {
+        "fr": "Oui : rien ni personne ne l'empêche d'agir à sa guise ; sa condition est plus enviable que celle de bien des hommes libres.",
+        "en": "Yes: nothing and no one prevents him from acting as he pleases; his condition is more enviable than that of many free men."
+      },
+      "hints": [
+        {
+          "axisId": "POLITICAL_LIBERTY",
+          "value": { "kind": "weights", "weights": [1, 0, 0, 0] }
+        }
+      ],
+      "discussion": {
+        "fr": "Vous mesurez la liberté à la <c id='negative-liberty'>non-ingérence</c> effective : c'est la réponse libérale classique.",
+        "en": "You measure liberty by actual <c id='negative-liberty'>non-interference</c>: the classic liberal answer."
+      }
+    },
+    {
+      "id": "at-anothers-mercy",
+      "label": {
+        "fr": "Non : sa vie entière est suspendue au bon vouloir d'un autre, qui peut tout lui reprendre à chaque instant.",
+        "en": "No: his entire life hangs on another's good will, which can take everything back at any moment."
+      },
+      "hints": [
+        {
+          "axisId": "POLITICAL_LIBERTY",
+          "value": { "kind": "weights", "weights": [0, 0, 1, 0] }
+        }
+      ],
+      "discussion": {
+        "fr": "La liberté comme absence de dépendance : l'intuition républicaine de la <kw>non-domination</kw>. Une loi contrôlée et contestable peut contraindre sans dominer ; le maître, lui, domine sans contraindre.",
+        "en": "Liberty as the absence of dependence: the republican intuition of <kw>non-domination</kw>. A controlled, contestable law can constrain without dominating; the master dominates without constraining."
+      }
+    },
+    {
+      "id": "no-part-in-the-rules",
+      "label": {
+        "fr": "Non, mais pour une autre raison : privé de toute part aux affaires communes, il subit les règles sans jamais en être l'auteur.",
+        "en": "No, but for another reason: with no part in common affairs, he lives under rules he never helped author."
+      },
+      "hints": [
+        {
+          "axisId": "POLITICAL_LIBERTY",
+          "value": { "kind": "weights", "weights": [0, 1, 0, 0] }
+        }
+      ],
+      "discussion": {
+        "fr": "Être libre, c'est se gouverner : vous rejoignez la famille de la <c id='positive-liberty'>liberté positive</c>, de l'autonomie personnelle à l'autogouvernement collectif.",
+        "en": "To be free is to govern oneself: you join the family of <c id='positive-liberty'>positive liberty</c>, from personal autonomy to collective self-government."
+      }
+    }
+  ],
+  "roles": [
+    {
+      "role": "OBJECTS",
+      "position": {
+        "axisId": "POLITICAL_LIBERTY",
+        "poleId": "NEGATIVE_LIBERTY"
+      },
+      "attacks": "POSITION",
+      "argumentId": "negative-liberty-pluralism",
+      "summary": {
+        "fr": "Si la liberté n'est que non-ingérence, l'esclave du maître doux est libre ; le défenseur de la liberté négative hésite lui-même à l'admettre.",
+        "en": "If liberty is mere non-interference, the gentle master's slave is free; even the defender of negative liberty hesitates to grant it."
+      },
+      "reconstruction": {
+        "development": [
+          {
+            "fr": "Par hypothèse, le bon maître n'interfère jamais : au critère de la non-ingérence, son esclave est pleinement libre.",
+            "en": "By hypothesis, the kind master never interferes: by the criterion of non-interference, his slave is fully free."
+          },
+          {
+            "fr": "Or le défenseur de la liberté négative hésite lui-même à tenir cet esclave pour un homme libre : la servitude est précisément ce que le statut d'homme libre a pour fonction d'exclure.",
+            "en": "Yet the defender of negative liberty himself hesitates to count this slave as a free man: servitude is precisely what the status of a free man is meant to rule out."
+          },
+          {
+            "fr": "Ce qui manque à l'esclave n'est pas l'absence d'entrave présente, mais la protection contre un <kw>pouvoir arbitraire</kw>, c'est-à-dire incontrôlé et incontestable : sa liberté dépend d'une humeur, non d'un droit.",
+            "en": "What the slave lacks is not the absence of present hindrance but protection against <kw>arbitrary power</kw>, that is, power uncontrolled and uncontestable: his liberty depends on a mood, not on a right."
+          }
+        ],
+        "conclusion": {
+          "fr": "La non-ingérence effective ne suffit pas à définir la liberté : une définition doit pouvoir dire pourquoi l'esclave du bon maître n'est pas libre.",
+          "en": "Actual non-interference is not enough to define liberty: a definition must be able to say why the kind master's slave is not free."
+        }
+      },
+      "responses": [
+        {
+          "id": "security-not-luck",
+          "label": {
+            "fr": "Vous avez raison : être libre, c'est être protégé de l'arbitraire, pas seulement épargné par lui.",
+            "en": "You are right: to be free is to be protected from arbitrary power, not merely spared by it."
+          },
+          "hints": [
+            {
+              "axisId": "POLITICAL_LIBERTY",
+              "value": { "kind": "weights", "weights": [0, 0, 1, 0] },
+              "weight": 2
+            }
+          ],
+          "discussion": {
+            "fr": "Vous rejoignez la tradition républicaine : la liberté est un statut garanti, non une chance.",
+            "en": "You join the republican tradition: liberty is a guaranteed status, not a stroke of luck."
+          }
+        },
+        {
+          "id": "robust-non-interference",
+          "label": {
+            "fr": "L'objection montre seulement qu'il faut une non-ingérence garantie par des lois, pas une autre définition de la liberté.",
+            "en": "The objection shows only that non-interference must be guaranteed by laws, not that liberty needs another definition."
+          },
+          "hints": [
+            {
+              "axisId": "POLITICAL_LIBERTY",
+              "value": { "kind": "weights", "weights": [0, 0, 1, 0] },
+              "weight": 0.5
+            }
+          ],
+          "discussion": {
+            "fr": "Position intermédiaire de fait : la non-ingérence garantie se rapproche de la non-domination sans franchir le pas.",
+            "en": "An intermediate position in practice: guaranteed non-interference edges toward non-domination without taking the step."
+          }
+        },
+        {
+          "id": "interference-is-what-counts",
+          "label": {
+            "fr": "L'esclave chanceux peut agir à sa guise : ce qui lui manque est la sûreté, qui est un autre bien que la liberté.",
+            "en": "The lucky slave can act as he pleases: what he lacks is security, which is a different good from liberty."
+          },
+          "hints": [
+            {
+              "axisId": "POLITICAL_LIBERTY",
+              "value": { "kind": "weights", "weights": [1, 0, 0, 0] },
+              "weight": 0.5
+            }
+          ],
+          "discussion": {
+            "fr": "La réponse de <ph>Paley</ph> et des libéraux : distinguer la liberté et la sûreté de la liberté, sans nier le prix de cette sûreté.",
+            "en": "<ph>Paley</ph>'s and the liberals' reply: distinguish liberty from the security of liberty, without denying that security's worth."
+          }
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-24T00:00:00.000Z"
+}

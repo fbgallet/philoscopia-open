@@ -898,6 +898,13 @@
       }
     }
   ],
+  "identity": {
+    "wikidata": "Q48235",
+    "wikipedia": {
+      "fr": "https://fr.wikipedia.org/wiki/Sto%C3%AFcisme",
+      "en": "https://en.wikipedia.org/wiki/Stoicism"
+    }
+  },
   "updatedAt": "2026-07-19T00:00:00.000Z",
   "validation": {
     "method": "NOT_VALIDATED"

@@ -6,6 +6,8 @@
 
 Tradition née dans la Chine des Royaumes combattants (Ve-IIIe siècle avant notre ère), une époque de guerres et d'effondrement de l'ordre qui poussait chaque école à proposer un remède au désordre. Le taoïsme dit philosophique se constitue autour de deux textes : le Dao De Jing (Tao Te King), recueil aphoristique attribué à Laozi (Lao-tseu), figure peut-être légendaire, et le Zhuangzi (Tchouang-tseu), suite de récits, paraboles et dialogues d'une grande liberté d'invention. Là où le [confucianisme](../movements/confucianism.md) de [Confucius](../philosophers/confucius.md) répondait à la crise par les rites, l'étude et le devoir social, le taoïsme cherche le salut dans le retrait, le naturel et la critique de l'artifice. Recueilli plus tard avec le Liezi, ce courant nourrira à partir des Han un taoïsme religieux, avec ses divinités, ses techniques de longue vie et ses recherches d'immortalité, distinct de la veine philosophique première. Sa sensibilité a profondément imprégné la poésie, la peinture et la médecine chinoises, le chan (l'ancêtre du zen) en Asie, et nourrit aujourd'hui en Occident un imaginaire de la simplicité et de l'accord avec la nature.
 
+**Liens externes** : [Wikipédia](https://fr.wikipedia.org/wiki/Tao%C3%AFsme) · [Wikidata](https://www.wikidata.org/wiki/Q9598)
+
 **Figures majeures** : [Laozi](../philosophers/laozi.md) · [Zhuangzi](../philosophers/zhuangzi.md) · [Liezi](../philosophers/liezi.md)
 
 ## Positions structurantes

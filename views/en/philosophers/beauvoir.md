@@ -6,6 +6,8 @@
 
 A French philosopher of the twentieth century, a figure of [existentialism](../movements/existentialism.md) alongside [Sartre](../philosophers/sartre.md), trained in the [phenomenology](../movements/phenomenology.md) of Husserl and [Merleau-Ponty](../philosophers/merleau-ponty.md). A novelist, memoirist and theorist, she is above all the author of The Second Sex (1949), an inquiry that weaves together biology, history, psychoanalysis and Marxism to understand the condition imposed on women, and of The Ethics of Ambiguity (1947), where she attempts the ethics existentialism had promised without writing it. Long received as Sartre's disciple, she is now read as a thinker in her own right, the founder of contemporary philosophical feminism and a major source of gender theory.
 
+**External links** : [Wikipedia](https://en.wikipedia.org/wiki/Simone_de_Beauvoir) · [Wikidata](https://www.wikidata.org/wiki/Q7197)
+
 ## Core positions
 
 1. [Social identity](../axes/social-identity.md) : **One is not born, but rather becomes, a woman, for **femininity** is not a nature but a situation constructed by a whole civilization.**

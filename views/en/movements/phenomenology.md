@@ -6,6 +6,8 @@
 
 Inaugurated by Edmund Husserl at the turn of the twentieth century, phenomenology was born of a precise battle: against psychologism, which reduced the laws of logic to mere facts of our mind, and against naturalism, which treats consciousness as one object in the world among others. Husserl forged a **method** of rigorous description, extended and then bent by his heirs, whose divergence is the school's very history: Heidegger, his assistant, turned it into an analytic of existence ( Being and Time, 1927); Merleau-Ponty shifted it toward perception and the body ( Phenomenology of Perception, 1945); [Sartre](../philosophers/sartre.md) drew from it an ontology of freedom. Out of this lineage came [existentialism](../movements/existentialism.md), and its influence later ran through much of French thought, from hermeneutics to deconstruction. What the school shares lies less in a doctrine than in a demand: to return "to the things themselves" as they give themselves.
 
+**External links** : [Wikipedia](https://en.wikipedia.org/wiki/Phenomenology_(philosophy)) · [Wikidata](https://www.wikidata.org/wiki/Q179235)
+
 **Key figures** : [Husserl](../philosophers/husserl.md) · [Heidegger](../philosophers/heidegger.md) · [Merleau-Ponty](../philosophers/merleau-ponty.md) · [Sartre](../philosophers/sartre.md)
 
 ## Core positions

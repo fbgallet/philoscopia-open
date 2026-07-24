@@ -24,6 +24,7 @@
 - [The Milgram experiment](milgram.md) (Stanley Milgram)
 - [The picture of Dorian Gray](dorian-gray.md) (Oscar Wilde)
 - [The ring of Gyges](ring-of-gyges.md) (Plato)
+- [The slave of the kind master](the-kind-master.md) (Philip Pettit, after the republican tradition)
 - [The teletransporter](teletransporter.md) (Derek Parfit)
 - [The trolley problem](trolley-problem.md) (Philippa Foot)
 - [The Veil of Ignorance](veil-of-ignorance.md) (Rawls)

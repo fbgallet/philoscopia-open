@@ -6,6 +6,8 @@
 
 Héros de l'*[Odyssée](../works/odyssey-homer.md)* d'Homère, Ulysse est le roi d'Ithaque retenu dix ans loin de chez lui après la guerre de Troie, dont sa ruse du cheval de bois avait précipité la fin. Là où l'Achille de l'*[Iliade](../works/iliad-homer.md)* incarne la force et la gloire brève, Ulysse est le héros de l'intelligence retorse, de la patience et du retour : son épopée n'est pas une conquête mais une longue traversée d'épreuves, de tentations et de pièges vers sa maison, sa femme Pénélope et son royaume. Figure inépuisable, il fut tour à tour érigé en sage endurant par les [stoïciens](../movements/stoicism.md), damné en explorateur sacrilège par Dante, relu par [Horkheimer](../philosophers/horkheimer.md) et [Adorno](../philosophers/adorno.md), dans la Dialectique de la raison, comme le premier visage de la [raison instrumentale](../glossary/raison-instrumentale.md), et transposé par Joyce dans une seule journée dublinoise.
 
+**Liens externes** : [Wikipédia](https://fr.wikipedia.org/wiki/Ulysse) · [Wikidata](https://www.wikidata.org/wiki/Q47231)
+
 ## Positions structurantes
 
 1. [Lettre ou esprit de la règle](../axes/rule-spirit.md) : **Là où la force se brise, la ruse ouvre un passage : à chaque situation sa feinte, et l'intelligence qui épouse le cas particulier vaut mieux que le courage qui fonce.**

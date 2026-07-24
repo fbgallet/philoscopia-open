@@ -807,6 +807,13 @@
       }
     }
   ],
+  "identity": {
+    "wikidata": "Q12539",
+    "wikipedia": {
+      "fr": "https://fr.wikipedia.org/wiki/Si%C3%A8cle_des_Lumi%C3%A8res",
+      "en": "https://en.wikipedia.org/wiki/Age_of_Enlightenment"
+    }
+  },
   "updatedAt": "2026-07-19T00:00:00.000Z",
   "validation": {
     "method": "NOT_VALIDATED"

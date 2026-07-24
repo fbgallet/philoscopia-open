@@ -6,6 +6,8 @@
 
 École fondée à Athènes par Zénon de Citium vers 300 avant notre ère, qui enseignait sous le « Portique peint » (stoa poikilè) dont elle tire son nom. Système complet de logique, de physique et d'éthique, le stoïcisme fut porté par Chrysippe puis, à Rome, par Sénèque, Épictète et l'empereur Marc Aurèle. Sa morale de la sagesse et de la maîtrise de soi a profondément marqué le christianisme, [Spinoza](../philosophers/spinoza.md), [Kant](../philosophers/kant.md) et jusqu'aux courants contemporains de développement personnel.
 
+**Liens externes** : [Wikipédia](https://fr.wikipedia.org/wiki/Sto%C3%AFcisme) · [Wikidata](https://www.wikidata.org/wiki/Q48235)
+
 **Figures majeures** : [Zénon de Citium](../philosophers/zeno-of-citium.md) · [Sénèque](../philosophers/seneca.md) · [Épictète](../philosophers/epictetus.md) · [Marc Aurèle](../philosophers/marcus-aurelius.md)
 
 ## Positions structurantes

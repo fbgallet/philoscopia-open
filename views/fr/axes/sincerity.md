@@ -20,7 +20,7 @@ Le devoir de dire la vérité est inconditionnel : mentir, même par bonté, rui
 
 Dire la vérité est un devoir, mais seulement envers ceux qui y ont droit. Quand la franchise causerait un tort injuste, protéger un innocent ou épargner une souffrance inutile peut justifier de mentir : la vérité n'est pas due au bourreau.
 
-*Constant*
+*[Constant](../philosophers/constant.md)*
 
 ## Arguments
 

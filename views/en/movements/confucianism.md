@@ -6,6 +6,8 @@
 
 A tradition born from the Analects (Lunyu) of [Confucius](../philosophers/confucius.md) (Kongzi) in the China in crisis of the Spring and Autumn period, and anchored in the ancient Classics (the Odes, the Documents, the Rites). In the age of the Warring States two heirs carried it in opposite directions: Mencius held human nature to be spontaneously good, endowed with sprouts of virtue that one need only cultivate, while Xunzi judged it bad and entrusted the rites (li 禮) and education with the task of straightening it. Sidelined and then rehabilitated under the Han, the school became the imperial orthodoxy and the matter of the mandarin examinations, which for centuries recruited officials on their mastery of the Classics. The Neo-Confucianism of the Song era added to it a metaphysics of li (principle) and qi (vital energy). Spread across all of East Asia, in Korea, Japan and Vietnam, this thought answers one constant question: how to remake social and political order through the moral transformation of persons rather than by force.
 
+**External links** : [Wikipedia](https://en.wikipedia.org/wiki/Confucianism) · [Wikidata](https://www.wikidata.org/wiki/Q9581)
+
 **Key figures** : [Confucius](../philosophers/confucius.md) · [Mencius](../philosophers/mencius.md) · [Xunzi](../philosophers/xunzi.md)
 
 ## Core positions

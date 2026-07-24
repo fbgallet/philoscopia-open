@@ -1,0 +1,17 @@
+{
+  "kind": "PHILOSOPHER",
+  "stub": true,
+  "id": "constant",
+  "name": { "fr": "Constant", "en": "Constant" },
+  "aliases": { "fr": ["Benjamin Constant"], "en": ["Benjamin Constant"] },
+  "summary": {
+    "fr": "Écrivain et penseur libéral franco-suisse : il distingue la liberté des anciens, participation au pouvoir collectif, de celle des modernes, indépendance privée, et avertit que les modernes perdent l'une s'ils désertent l'autre.",
+    "en": "Franco-Swiss writer and liberal thinker: he distinguishes the liberty of the ancients, a share in collective power, from that of the moderns, private independence, and warns that the moderns lose the one if they desert the other."
+  },
+  "nationality": { "fr": "Franco-suisse", "en": "Franco-Swiss" },
+  "birth": 1767,
+  "death": 1830,
+  "movements": [],
+  "updatedAt": "2026-07-24T00:00:00.000Z",
+  "validation": { "method": "NOT_VALIDATED" }
+}

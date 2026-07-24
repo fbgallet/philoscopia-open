@@ -6,6 +6,8 @@
 
 American logician, scientist and philosopher, founder of [pragmatism](../movements/pragmatism.md) and of modern [semiotics](../glossary/semiotics.md). Trained in the exact sciences, a geodesist in state service for thirty years, in 1877-1878 he published in the Popular Science Monthly the series Illustrations of the Logic of Science, of which *[The Fixation of Belief](../works/the-fixation-of-belief-peirce.md)* and *[How to Make Our Ideas Clear](../works/how-to-make-our-ideas-clear-peirce.md)* lay down the [pragmatic maxim](../glossary/pragmatic-maxim.md). It was [William James](../philosophers/william-james.md) who, taking it up, popularised the word « pragmatism »; judging James's use too subjective, Peirce renamed his own doctrine « pragmaticism », a word « ugly enough to be safe from kidnappers ». Kept out of academia, he died in poverty, leaving an immense, scattered body of work, rediscovered in the twentieth century, that feeds [Dewey](../philosophers/dewey.md), logic and the philosophy of language.
 
+**External links** : [Wikipedia](https://en.wikipedia.org/wiki/Charles_Sanders_Peirce) · [Wikidata](https://www.wikidata.org/wiki/Q187520)
+
 ## Core positions
 
 1. [The meaning of words](../axes/meaning.md) : **To clarify an idea, ask what [conceivable practical effects](../glossary/pragmatic-maxim.md) its object would have: its whole meaning lies there, and nowhere else.**
