@@ -1,0 +1,17 @@
+{
+  "id": "logical-construction",
+  "term": { "fr": "Construction logique", "en": "Logical construction" },
+  "aliases": {
+    "fr": ["constructions logiques", "fiction logique"],
+    "en": ["logical constructions", "logical fiction"]
+  },
+  "definition": {
+    "fr": "Procédé par lequel une entité douteuse est définie comme une classe ou une série d'éléments déjà admis, au lieu d'être postulée derrière eux. Un objet physique devient une classe d'apparences, un point de l'espace une classe d'événements qui se recouvrent, une personne une série d'expériences liées par des lois, un nombre une classe de classes. <ph id='russell'>Russell</ph> en fait la maxime suprême du travail philosophique : <arg>partout où c'est possible, substituer des constructions à partir d'entités connues aux inférences vers des entités inconnues</arg>. Le procédé est réductionniste par économie plus que par matérialisme : ce qui ne peut être construit ainsi doit être suspecté, mais la réduction visée est logique, non physique.",
+    "en": "The device by which a doubtful entity is defined as a class or series of already admitted elements, instead of being posited behind them. A physical object becomes a class of appearances, a point of space a class of overlapping events, a person a series of experiences bound by laws, a number a class of classes. <ph id='russell'>Russell</ph> makes it the supreme maxim of philosophical work: <arg>wherever possible, substitute constructions out of known entities for inferences to unknown entities</arg>. The device is reductionist out of economy rather than materialism: whatever cannot be so constructed is to be suspected, but the reduction aimed at is logical, not physical."
+  },
+  "relatedAxes": ["REDUCTION_EMERGENCE", "METAPHILOSOPHY", "EPISTEMIC_JUSTIFICATION", "SELF_NATURE"],
+  "relatedTerms": ["logical-atomism", "knowledge-by-acquaintance", "sense-data"],
+  "figure": { "slug": "russell", "name": { "fr": "Russell", "en": "Russell" } },
+  "positions": [{ "axisId": "REDUCTION_EMERGENCE", "poleId": "REDUCTIONISM" }],
+  "updatedAt": "2026-07-25T00:00:00.000Z"
+}

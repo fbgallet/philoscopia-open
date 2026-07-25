@@ -44,10 +44,10 @@
       "declaredValue": {
         "kind": "weights",
         "weights": [
+          0,
+          0,
+          0,
           0.2,
-          0,
-          0,
-          0,
           0.8
         ]
       },

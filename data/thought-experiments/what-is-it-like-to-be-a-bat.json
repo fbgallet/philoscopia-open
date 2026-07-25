@@ -40,9 +40,9 @@
           "value": {
             "kind": "weights",
             "weights": [
-              0,
               0.35,
               0.65,
+              0,
               0,
               0
             ]
@@ -50,8 +50,8 @@
         }
       ],
       "discussion": {
-        "fr": "Vous tenez le <kw>problème difficile</kw> pour un problème d'ontologie : le vécu est quelque chose de plus dans le monde. C'est la voie que suit <ph id='chalmers'>Chalmers</ph> vers un <ax id='CONSCIOUSNESS_NATURE' pole='PROPERTY_DUALISM'>dualisme des propriétés</ax>, le cerveau restant physique mais portant des propriétés irréductibles. Le <ax id='CONSCIOUSNESS_NATURE' pole='SUBSTANCE_DUALISM'>dualisme des substances</ax> répond autrement à la même intuition : non des propriétés en plus, mais une réalité d'une autre nature.",
-        "en": "You take the <kw>hard problem</kw> to be a problem of ontology: lived experience is something more in the world. This is the path <ph id='chalmers'>Chalmers</ph> follows toward a <ax id='CONSCIOUSNESS_NATURE' pole='PROPERTY_DUALISM'>property dualism</ax>, the brain remaining physical but bearing irreducible properties. <ax id='CONSCIOUSNESS_NATURE' pole='SUBSTANCE_DUALISM'>Substance dualism</ax> answers the same intuition differently: not further properties, but a reality of another nature."
+        "fr": "Vous tenez le <c id='hard-problem'>problème difficile</c> pour un problème d'ontologie : le vécu est quelque chose de plus dans le monde. C'est la voie que suit <ph id='chalmers'>Chalmers</ph> vers un <ax id='CONSCIOUSNESS_NATURE' pole='PROPERTY_DUALISM'>dualisme des propriétés</ax>, le cerveau restant physique mais portant des propriétés irréductibles. Le <ax id='CONSCIOUSNESS_NATURE' pole='SUBSTANCE_DUALISM'>dualisme des substances</ax> répond autrement à la même intuition : non des propriétés en plus, mais une réalité d'une autre nature.",
+        "en": "You take the <c id='hard-problem'>hard problem</c> to be a problem of ontology: lived experience is something more in the world. This is the path <ph id='chalmers'>Chalmers</ph> follows toward a <ax id='CONSCIOUSNESS_NATURE' pole='PROPERTY_DUALISM'>property dualism</ax>, the brain remaining physical but bearing irreducible properties. <ax id='CONSCIOUSNESS_NATURE' pole='SUBSTANCE_DUALISM'>Substance dualism</ax> answers the same intuition differently: not further properties, but a reality of another nature."
       }
     },
     {
@@ -66,10 +66,10 @@
           "value": {
             "kind": "weights",
             "weights": [
+              0,
+              0,
+              0,
               1,
-              0,
-              0,
-              0,
               0
             ]
           }
@@ -94,16 +94,16 @@
             "weights": [
               0,
               0,
-              0,
               1,
+              0,
               0
             ]
           }
         }
       ],
       "discussion": {
-        "fr": "Le <ax id='CONSCIOUSNESS_NATURE' pole='PANPSYCHISM'>panpsychisme</ax> refuse de faire surgir l'expérience par miracle en un point de l'évolution : la matière porterait, à l'état élémentaire, quelque chose comme une intériorité, sans qu'il faille prêter un sujet à chaque caillou. <dif>Reste à expliquer comment des myriades de micro-vécus composeraient une conscience unique.</dif>",
-        "en": "<ax id='CONSCIOUSNESS_NATURE' pole='PANPSYCHISM'>Panpsychism</ax> refuses to have experience appear by miracle at some point in evolution: matter would carry, in elementary form, something like inwardness, without ascribing a subject to every pebble. <dif>It remains to explain how myriad micro-experiences would compose a single consciousness.</dif>"
+        "fr": "Le <ax id='CONSCIOUSNESS_NATURE' pole='DUAL_ASPECT'>panpsychisme</ax> refuse de faire surgir l'expérience par miracle en un point de l'évolution : la matière porterait, à l'état élémentaire, quelque chose comme une intériorité, sans qu'il faille prêter un sujet à chaque caillou. <dif>Reste à expliquer comment des myriades de micro-vécus composeraient une conscience unique.</dif>",
+        "en": "<ax id='CONSCIOUSNESS_NATURE' pole='DUAL_ASPECT'>Panpsychism</ax> refuses to have experience appear by miracle at some point in evolution: matter would carry, in elementary form, something like inwardness, without ascribing a subject to every pebble. <dif>It remains to explain how myriad micro-experiences would compose a single consciousness.</dif>"
       }
     },
     {
@@ -118,10 +118,10 @@
           "value": {
             "kind": "weights",
             "weights": [
+              0,
+              0,
+              0,
               0.3,
-              0,
-              0,
-              0,
               0.7
             ]
           }

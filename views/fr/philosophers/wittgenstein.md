@@ -110,7 +110,7 @@ Le fond où s'arrête la justification, ce sont les [formes de vie](../glossary/
 
 *rejette l'alternative*
 
-Wittgenstein récuse le cadre même de la question. Contre le « théâtre intérieur » cartésien comme contre le behaviorisme, l'argument du langage privé montre qu'un mot renvoyant à une sensation purement privée n'aurait aucun critère de correction, donc aucun sens : « un processus intérieur a besoin de critères extérieurs ». Le scarabée dans la boîte : ce que chacun seul verrait dans sa boîte « n'a aucune place dans le jeu de langage, la boîte pourrait même être vide ». Le problème métaphysique de la conscience repose sur une illusion grammaticale (Recherches, §§243-293, §580).
+Wittgenstein récuse le cadre même de la question. Contre le « théâtre intérieur » cartésien comme contre le behaviorisme, l'argument du langage privé montre qu'un mot renvoyant à une sensation purement privée n'aurait aucun critère de correction, donc aucun sens : « « un processus intérieur a besoin de critères extérieurs » ». Le scarabée dans la boîte : ce que chacun seul verrait dans sa boîte « n'a aucune place dans le jeu de langage, la boîte pourrait même être vide ». Le problème métaphysique de la conscience repose sur une illusion grammaticale (Recherches, §§243-293, §580).
 
 ### [Nature du réel](../axes/reality-nature.md)
 

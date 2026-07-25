@@ -28,6 +28,12 @@
         },
         "commit": {
           "type": "string"
+        },
+        "migrations": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
         }
       },
       "required": [

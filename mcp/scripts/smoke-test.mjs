@@ -576,6 +576,124 @@ check(
 
 await client.close();
 
+// ── Workspace migration (src/migrations.ts) ───────────────────────────────
+// A workspace written before the CONSCIOUSNESS_NATURE remodel: its weight
+// vectors follow the OLD pole order (PHYSICALISM first) and its refs name the
+// retired PANPSYCHISM pole. Opening it must rewrite both, once.
+
+const legacy = mkdtempSync(join(tmpdir(), "philoscopia-legacy-"));
+const legacyDate = "2026-07-01T10:00:00.000Z";
+mkdirSync(join(legacy, "journal"), { recursive: true });
+const writeJson = (dir, name, data) =>
+  writeFileSync(join(dir, `${name}.json`), `${JSON.stringify(data, null, 2)}\n`);
+
+writeJson(legacy, "philoscopia", {
+  format: 1,
+  locale: "fr",
+  createdAt: legacyDate,
+  referential: {
+    source: "https://github.com/fbgallet/philoscopia-referential",
+    syncedAt: legacyDate,
+    commit: "0000000",
+  },
+});
+writeJson(legacy, "profile", {
+  entries: {
+    CONSCIOUSNESS_NATURE: {
+      status: "POSITIONED",
+      value: { kind: "weights", weights: [1, 0, 0, 0, 0] }, // PHYSICALISM, old order
+      updatedAt: legacyDate,
+      history: [
+        {
+          at: legacyDate,
+          value: { kind: "weights", weights: [0, 0, 0, 1, 0] }, // PANPSYCHISM, old order
+          provenance: { modality: "theory", ref: "pole:CONSCIOUSNESS_NATURE/PANPSYCHISM" },
+        },
+      ],
+    },
+    // Another axis: its vector must come back untouched.
+    SOVEREIGN_GOOD: {
+      status: "POSITIONED",
+      value: { kind: "weights", weights: [0.5, 0.5, 0] },
+      updatedAt: legacyDate,
+      history: [],
+    },
+  },
+});
+writeJson(legacy, "beliefs", [
+  {
+    id: "b-legacy",
+    statement: "Le vécu est l'envers de ce que la physique décrit.",
+    mode: "DESCRIPTIVE",
+    status: "HELD",
+    adherence: "STRONG",
+    grounds: ["pole:CONSCIOUSNESS_NATURE/PANPSYCHISM"],
+    createdAt: legacyDate,
+    updatedAt: legacyDate,
+  },
+]);
+for (const name of ["concepts", "affinities", "inquiries", "practices", "quotes", "readings"]) {
+  writeJson(legacy, name, []);
+}
+
+const openLegacy = async () => {
+  const c = new Client({ name: "smoke-legacy", version: "0.0.0" });
+  await c.connect(
+    new StdioClientTransport({
+      command: process.execPath,
+      args: [join(pkgRoot, "dist/index.js"), "--workspace", legacy, "--locale", "fr"],
+    }),
+  );
+  await c.callTool({ name: "get_profile", arguments: { axisId: "CONSCIOUSNESS_NATURE" } });
+  await c.close();
+  return {
+    manifest: JSON.parse(readFileSync(join(legacy, "philoscopia.json"), "utf8")),
+    profile: JSON.parse(readFileSync(join(legacy, "profile.json"), "utf8")),
+    beliefs: JSON.parse(readFileSync(join(legacy, "beliefs.json"), "utf8")),
+  };
+};
+
+const migrated = await openLegacy();
+const entry = migrated.profile.entries.CONSCIOUSNESS_NATURE;
+check(
+  "a pre-remodel position is permuted into the new pole order",
+  JSON.stringify(entry.value.weights) === JSON.stringify([0, 0, 0, 1, 0]),
+  JSON.stringify(entry.value.weights),
+);
+check(
+  "its history is permuted too (PANPSYCHISM → DUAL_ASPECT)",
+  JSON.stringify(entry.history[0].value.weights) === JSON.stringify([0, 0, 1, 0, 0]),
+);
+check(
+  "refs naming the retired pole are rewritten (provenance + collections)",
+  entry.history[0].provenance.ref === "pole:CONSCIOUSNESS_NATURE/DUAL_ASPECT" &&
+    migrated.beliefs[0].grounds[0] === "pole:CONSCIOUSNESS_NATURE/DUAL_ASPECT",
+);
+check(
+  "another axis's vector is left alone",
+  JSON.stringify(migrated.profile.entries.SOVEREIGN_GOOD.value.weights) === JSON.stringify([0.5, 0.5, 0]),
+);
+check(
+  "the manifest stamps the migration as applied",
+  (migrated.manifest.referential.migrations ?? []).includes("consciousness-nature-poles-2026-07"),
+);
+
+const reopened = await openLegacy();
+check(
+  "reopening does NOT permute a second time",
+  JSON.stringify(reopened.profile) === JSON.stringify(migrated.profile) &&
+    JSON.stringify(reopened.manifest) === JSON.stringify(migrated.manifest),
+);
+
+// A workspace born after the remodel is stamped at init, never migrated.
+const freshManifest = JSON.parse(readFileSync(join(workspace, "philoscopia.json"), "utf8"));
+check(
+  "init stamps the known migrations rather than leaving them pending",
+  (freshManifest.referential.migrations ?? []).includes("consciousness-nature-poles-2026-07"),
+);
+
+rmSync(legacy, { recursive: true, force: true });
+
 if (process.argv.includes("--keep")) console.log(`workspace kept: ${workspace}`);
 else rmSync(workspace, { recursive: true, force: true });
 

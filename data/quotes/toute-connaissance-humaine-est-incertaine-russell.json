@@ -1,0 +1,19 @@
+{
+  "id": "toute-connaissance-humaine-est-incertaine-russell",
+  "text": {
+    "fr": "Toute connaissance humaine est incertaine, imprécise et partielle.",
+    "en": "All human knowledge is uncertain, inexact, and partial."
+  },
+  "author": { "name": { "fr": "Russell", "en": "Russell" }, "kind": "PHILOSOPHER", "slug": "russell" },
+  "work": "human-knowledge-russell",
+  "source": {
+    "fr": "La Connaissance humaine : sa portée et ses limites, dernières lignes",
+    "en": "Human Knowledge: Its Scope and Limits, closing lines"
+  },
+  "anchors": [{ "axisId": "CERTAINTY", "median": true }],
+  "context": {
+    "fr": "La phrase clôt le dernier grand livre d'épistémologie de Russell, au terme d'une vie passée à chercher dans les mathématiques une certitude qu'il n'y a pas trouvée.",
+    "en": "The sentence closes Russell's last large work of epistemology, at the end of a life spent seeking in mathematics a certainty he did not find there."
+  },
+  "updatedAt": "2026-07-25T00:00:00.000Z"
+}

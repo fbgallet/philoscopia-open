@@ -110,7 +110,7 @@ The bedrock where justification ends is the [forms of life](../glossary/forme-de
 
 *rejects the alternative*
 
-Wittgenstein rejects the very framing of the question. Against the Cartesian "inner theatre" as against behaviourism, the private-language argument shows that a word referring to a purely private sensation would have no criterion of correctness, hence no meaning: "an inner process stands in need of outward criteria". The beetle in the box: what each person alone would see in their box "has no place in the language-game at all, the box might even be empty". The metaphysical problem of consciousness rests on a grammatical illusion (Investigations, §§243-293, §580).
+Wittgenstein rejects the very framing of the question. Against the Cartesian "inner theatre" as against behaviourism, the private-language argument shows that a word referring to a purely private sensation would have no criterion of correctness, hence no meaning: "“an inner process stands in need of outward criteria”". The beetle in the box: what each person alone would see in their box "has no place in the language-game at all, the box might even be empty". The metaphysical problem of consciousness rests on a grammatical illusion (Investigations, §§243-293, §580).
 
 ### [Nature of reality](../axes/reality-nature.md)
 

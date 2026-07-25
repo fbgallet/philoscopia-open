@@ -89,6 +89,8 @@ We can hold firm, well-justified beliefs while knowing they might be wrong. Betw
 
 > “To silence the expression of an opinion is to rob the human race; those who dissent from it still more than those who hold it.” — [Mill](../philosophers/mill.md), On Liberty, ch. 2
 
+> “All human knowledge is uncertain, inexact, and partial.” — [Russell](../philosophers/russell.md), Human Knowledge: Its Scope and Limits, closing lines
+
 ## Related axes
 
 [Justification of belief](../axes/epistemic-justification.md) · [Ethics of belief](../axes/belief-ethics.md) · [Source of knowledge](../axes/knowledge-source.md) · [Nature of truth](../axes/truth-nature.md) · [Scientific method](../axes/scientific-method.md) · [Nature of reality](../axes/reality-nature.md) · [The value of truth](../axes/truth-value.md)

@@ -1,0 +1,11 @@
+{
+  "id": "in-praise-of-idleness-russell",
+  "title": { "fr": "Éloge de l'oisiveté", "en": "In Praise of Idleness" },
+  "author": { "slug": "russell", "name": { "fr": "Russell", "en": "Russell" } },
+  "year": 1932,
+  "presentation": {
+    "fr": "Essai où Russell soutient que la technique moderne a rendu possible une journée de quatre heures, et que le gain a été employé à produire davantage plutôt qu'à libérer du temps. Il y analyse le <arg>devoir de travailler comme un legs des sociétés où le loisir d'une minorité reposait sur le travail forcé de la majorité</arg>.",
+    "en": "An essay in which Russell argues that modern technique has made a four-hour day possible, and that the gain has been spent on producing more rather than on freeing time. He analyses the <arg>duty to work as a legacy of societies where the leisure of a minority rested on the forced labour of the majority</arg>."
+  },
+  "updatedAt": "2026-07-25T00:00:00.000Z"
+}

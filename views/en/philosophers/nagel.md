@@ -14,7 +14,7 @@ American analytic philosopher, known for his work on subjectivity ("What is it l
 
 *positioned · inferable · major*
 
-Property dualism 55% · Panpsychism 35% · Physicalism 10%
+Property dualism 55% · Dual-aspect monism 35% · Physicalism 10%
 
 Nagel holds that an organism is conscious if there is something it is like to be that organism, and that this subjective character is tied to a point of view: this is what his [bat thought experiment](../thought-experiments/what-is-it-like-to-be-a-bat.md) stages, in 1974. Every reduction proceeds by moving away from the point of view in order to gain objectivity; applied to experience, the move removes precisely what had to be explained. From this he draws a refusal of [reductionism](../glossary/reductionism.md), but not a [dualism](../glossary/dualism.md): he maintains that we lack the necessary concepts, and that he cannot see how physicalism could be true, without declaring it false. His 1979 essay examines, without firmly endorsing it, the hypothesis of an intrinsic nature common to the mental and the physical, closer to a neutral monism than to an avowed property dualism; his 2012 book advances another conjecture, that of an oriented tendency inscribed in nature, which he himself offers as speculative.
 

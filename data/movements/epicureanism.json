@@ -408,10 +408,10 @@
       "declaredValue": {
         "kind": "weights",
         "weights": [
+          0,
+          0,
+          0,
           0.9,
-          0,
-          0,
-          0,
           0.1
         ]
       },
@@ -419,8 +419,8 @@
       "salience": "MAJOR",
       "justification": {
         "text": {
-          "fr": "L'âme est corporelle : un assemblage d'atomes très fins qui se dissout à la mort comme le reste. La pensée et la sensation sont des processus matériels, sans rien d'immortel ni d'immatériel.",
-          "en": "The soul is corporeal: an assembly of very fine atoms that dissolves at death like the rest. Thought and sensation are material processes, with nothing immortal or immaterial."
+          "fr": "L'<c>âme</c> est corporelle : un assemblage d'<c>atomes</c> très fins qui se dissout à la mort comme le reste. <arg>La pensée et la sensation sont des processus matériels, sans rien d'immortel ni d'immatériel.</arg>",
+          "en": "The <c>soul</c> is corporeal: an assembly of very fine <c>atoms</c> that dissolves at death like the rest. <arg>Thought and sensation are material processes, with nothing immortal or immaterial.</arg>"
         },
         "references": [
           {

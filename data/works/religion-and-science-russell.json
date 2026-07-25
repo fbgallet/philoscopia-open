@@ -1,0 +1,11 @@
+{
+  "id": "religion-and-science-russell",
+  "title": { "fr": "Science et religion", "en": "Religion and Science" },
+  "author": { "slug": "russell", "name": { "fr": "Russell", "en": "Russell" } },
+  "year": 1935,
+  "presentation": {
+    "fr": "Histoire des défaites successives de la théologie devant la science, de la place de la Terre à l'âge du monde, écrite pour montrer que le repli sur des vérités « d'un autre ordre » vient toujours après la défaite. Le dernier chapitre soutient en revanche que <dif>les questions de valeur échappent à la science</dif>, sans échapper pour autant à la religion.",
+    "en": "A history of theology's successive defeats before science, from the place of the Earth to the age of the world, written to show that the retreat to truths 'of another order' always comes after the defeat. The last chapter argues, conversely, that <dif>questions of value fall outside science</dif>, without thereby falling to religion."
+  },
+  "updatedAt": "2026-07-25T00:00:00.000Z"
+}

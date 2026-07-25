@@ -48,11 +48,17 @@ Les normes morales ne sont ni découvertes dans la nature des choses ni simpleme
 - *[Statut des normes (métaéthique)](../axes/moral-scope.md) : Universalisme* fonde *[Critère du juste](../axes/ethics-foundation.md) : Déontologisme* : S'il existe des normes objectives valables pour tout être raisonnable, le critère du juste est la conformité au devoir, et non le calcul des effets. L'universalisme moral fonde le déontologisme : [Kant](../philosophers/kant.md) tire de la raison un [impératif catégorique](../glossary/categorical-imperative.md) qui vaut sans condition, indépendamment des conséquences.
 - *[Statut des normes (métaéthique)](../axes/moral-scope.md) : Universalisme* fonde *[Nature des droits](../axes/rights-nature.md) : Droits naturels* : S'il existe des normes morales objectives valables pour tout être raisonnable, alors la personne possède des droits antérieurs à l'État, que nulle loi ne saurait légitimement abolir. L'universalisme moral fonde les droits naturels : chez [Locke](../philosophers/locke.md) comme chez [Kant](../philosophers/kant.md), une loi qui les viole reste injuste, fût-elle parfaitement légale.
 
+## Tensions
+
+- Avec [Générations futures](../axes/future-generations.md) : Tenir qu'un jugement de valeur n'exprime qu'un désir, sans rien décrire dans le monde, puis reconnaître envers les générations futures une obligation que rien ne devrait pouvoir mettre en balance, met deux positions en tension : une obligation sans exception a besoin d'une autorité que le subjectivisme lui refuse. Il reste des façons de tenir les deux : dire que l'obligation vaut pour quiconque partage certains désirs, ou qu'elle repose sur un accord et non sur une vérité. Encore faut-il l'assumer, car la condamnation perd alors ce qu'elle prétendait avoir : la force de valoir aussi contre celui qui n'en veut pas.
+
 ## Citations
 
 > « Chacun appelle barbarie ce qui n'est pas de son usage. » — [Michel de Montaigne](../philosophers/montaigne.md), Essais, I, 31, « Des cannibales »
 
 > « Il n'y a pas de phénomènes moraux, seulement une interprétation morale des phénomènes. » — [Nietzsche](../philosophers/nietzsche.md), Par-delà bien et mal, §108
+
+> « Je ne vois pas comment réfuter les arguments en faveur de la subjectivité des valeurs éthiques, mais je me trouve incapable de croire que tout ce qu'il y a de mal dans la cruauté gratuite, c'est que je ne l'aime pas. » — [Russell](../philosophers/russell.md), « Reply to Criticisms », dans The Philosophy of Bertrand Russell (1944)
 
 > « La nature démontre qu'il est juste que celui qui vaut mieux ait plus que celui qui vaut moins, et le plus fort que le plus faible. » — [Platon](../philosophers/plato.md), Gorgias, 483d
 

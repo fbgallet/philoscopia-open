@@ -58,5 +58,40 @@
       }
     }
   ],
-  "updatedAt": "2026-07-13T00:00:00.000Z"
+  "roles": [
+    {
+      "role": "SUPPORTS",
+      "position": {
+        "axisId": "MACHINE_MIND",
+        "poleId": "FUNCTIONALISM"
+      },
+      "argumentId": "functionalism-multiple-realizability",
+      "problems": ["turing-test"],
+      "summary": {
+        "fr": "Nous n'accordons jamais la pensée à autrui que sur ses propos et ses gestes : exiger davantage de la machine, c'est appliquer un critère que nous n'appliquons à personne.",
+        "en": "We never grant thought to others except on their words and gestures: to demand more of the machine is to apply a criterion we apply to no one."
+      },
+      "reconstruction": {
+        "development": [
+          {
+            "fr": "De l'esprit d'autrui, je n'ai aucun accès direct : je n'observe que des conduites, des paroles, des réactions, et c'est sur cette seule base que je lui accorde une vie intérieure.",
+            "en": "Of another's mind I have no direct access: I observe only conduct, words, reactions, and it is on that basis alone that I grant them an inner life."
+          },
+          {
+            "fr": "Si, dans un échange prolongé, rien ne distingue les réponses d'une machine de celles d'une personne, le critère que j'emploie partout ailleurs est satisfait.",
+            "en": "If, over a sustained exchange, nothing distinguishes a machine's answers from a person's, the criterion I use everywhere else is met."
+          },
+          {
+            "fr": "Refuser malgré cela la pensée à la machine suppose un critère supplémentaire, que je n'exige d'aucun de mes semblables et que je serais bien en peine d'énoncer.",
+            "en": "To deny it thought nonetheless presupposes a further criterion, one I require of none of my fellows and would be hard put to state."
+          }
+        ],
+        "conclusion": {
+          "fr": "Donc ce qui réalise la conduite d'un être pensant doit être tenu pour pensant : le support ne fait pas partie du critère.",
+          "en": "So whatever realizes the conduct of a thinking being must be held to think: the substrate is no part of the criterion."
+        }
+      }
+    }
+  ],
+  "updatedAt": "2026-07-25T00:00:00.000Z"
 }

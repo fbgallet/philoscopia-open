@@ -1,0 +1,19 @@
+{
+  "id": "epiphenomenalism",
+  "term": {
+    "fr": "L'épiphénoménisme",
+    "en": "Epiphenomenalism"
+  },
+  "aliases": {
+    "fr": ["épiphénoménisme", "épiphénoménaliste", "épiphénoménal"],
+    "en": ["epiphenomenalism", "epiphenomenalist", "epiphenomenal"]
+  },
+  "definition": {
+    "fr": "Doctrine selon laquelle la vie mentale est produite par le cerveau sans rien produire en retour : le vécu accompagne les processus physiques comme la fumée accompagne la locomotive, sans la faire avancer. <per>Thomas Huxley</per> en a fixé l'image au XIXe siècle. Elle a l'avantage de respecter la <c id='causal-closure'>clôture causale</c> tout en reconnaissant que le vécu existe, mais à un prix rude : <dif>si le vécu n'agit pas, ce n'est pas lui qui nous fait parler de lui, et nos témoignages sur notre propre conscience se coupent de ce dont ils témoignent.</dif>",
+    "en": "The doctrine that mental life is produced by the brain without producing anything in return: experience accompanies physical processes as smoke accompanies the locomotive, without driving it forward. <per>Thomas Huxley</per> fixed the image in the nineteenth century. It has the advantage of respecting <c id='causal-closure'>causal closure</c> while granting that experience exists, but at a steep price: <dif>if experience does nothing, it is not what makes us speak of it, and our testimony about our own consciousness is cut off from what it testifies to.</dif>"
+  },
+  "relatedAxes": ["CONSCIOUSNESS_NATURE", "FREEDOM"],
+  "relatedTerms": ["causal-closure", "dualism", "qualia", "supervenience"],
+  "positions": [{ "axisId": "CONSCIOUSNESS_NATURE", "poleId": "PROPERTY_DUALISM" }],
+  "updatedAt": "2026-07-25T00:00:00.000Z"
+}

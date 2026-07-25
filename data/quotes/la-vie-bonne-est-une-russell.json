@@ -1,0 +1,15 @@
+{
+  "id": "la-vie-bonne-est-une-russell",
+  "text": {
+    "fr": "La vie bonne est une vie inspirée par l'amour et guidée par la connaissance.",
+    "en": "The good life is one inspired by love and guided by knowledge."
+  },
+  "author": { "name": { "fr": "Russell", "en": "Russell" }, "kind": "PHILOSOPHER", "slug": "russell" },
+  "source": { "fr": "Ce que je crois (1925), ch. II", "en": "What I Believe (1925), ch. II" },
+  "anchors": [{ "axisId": "SOVEREIGN_GOOD", "poleId": "EUDAIMONISM" }],
+  "context": {
+    "fr": "Russell propose la formule comme une définition complète : ni l'amour ni la connaissance ne suffit seul, et rien d'autre n'est requis.",
+    "en": "Russell offers the formula as a complete definition: neither love nor knowledge suffices alone, and nothing else is required."
+  },
+  "updatedAt": "2026-07-25T00:00:00.000Z"
+}

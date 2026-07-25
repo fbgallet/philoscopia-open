@@ -1,0 +1,11 @@
+{
+  "id": "icarus-russell",
+  "title": { "fr": "Icare ou l'avenir de la science", "en": "Icarus, or the Future of Science" },
+  "author": { "slug": "russell", "name": { "fr": "Russell", "en": "Russell" } },
+  "year": 1924,
+  "presentation": {
+    "fr": "Bref essai écrit en réponse au <w>Dédale</w> de <per>Haldane</per>, qui promettait le bonheur par la biologie. Russell y renverse l'image : la science donne du pouvoir, et le pouvoir sert les fins qu'ont déjà ceux qui le reçoivent, si bien qu'une technique nouvelle n'améliore rien par elle-même.",
+    "en": "A short essay written in reply to <per>Haldane</per>'s <w>Daedalus</w>, which promised happiness through biology. Russell turns the image around: science confers power, and power serves whatever ends those who receive it already have, so that a new technique improves nothing by itself."
+  },
+  "updatedAt": "2026-07-25T00:00:00.000Z"
+}

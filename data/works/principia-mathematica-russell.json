@@ -1,0 +1,11 @@
+{
+  "id": "principia-mathematica-russell",
+  "title": { "fr": "Principia Mathematica", "en": "Principia Mathematica" },
+  "author": { "slug": "russell", "name": { "fr": "Russell", "en": "Russell" } },
+  "year": 1910,
+  "presentation": {
+    "fr": "Écrits avec <ph id='whitehead'>Whitehead</ph> en trois volumes, ces Principia veulent dériver toute l'arithmétique de la seule logique, sans recourir à l'intuition. L'entreprise, que le <pb>paradoxe des ensembles</pb> découvert par Russell oblige à compliquer, a donné à la logique moderne son appareil symbolique et fixé pour un siècle le style de la <mv id='analytic-philosophy'>philosophie analytique</mv>.",
+    "en": "Written with <ph id='whitehead'>Whitehead</ph> in three volumes, these Principia set out to derive the whole of arithmetic from logic alone, with no appeal to intuition. The undertaking, which the <pb>paradox of sets</pb> Russell discovered forced him to complicate, gave modern logic its symbolic apparatus and set the style of <mv id='analytic-philosophy'>analytic philosophy</mv> for a century."
+  },
+  "updatedAt": "2026-07-25T00:00:00.000Z"
+}

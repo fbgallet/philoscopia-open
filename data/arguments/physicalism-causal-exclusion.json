@@ -1,0 +1,148 @@
+{
+  "id": "physicalism-causal-exclusion",
+  "kind": "SUPPORTS",
+  "position": {
+    "axisId": "CONSCIOUSNESS_NATURE",
+    "poleId": "PHYSICALISM"
+  },
+  "name": {
+    "fr": "L'argument de l'efficacité mentale",
+    "en": "The argument from mental efficacy"
+  },
+  "claim": {
+    "fr": "Nos pensées font bouger nos corps ; or dans le monde physique, seul le physique produit des effets : la conscience est donc déjà là, dans le cerveau au travail.",
+    "en": "Our thoughts move our bodies; yet in the physical world only the physical produces effects: consciousness is therefore already there, in the working brain."
+  },
+  "summary": {
+    "fr": "Si le vécu agit sur le corps et que tout effet physique a déjà une cause physique suffisante, le vécu n'est pas autre chose que l'état cérébral qui agit.",
+    "en": "If experience acts on the body and every physical effect already has a sufficient physical cause, experience is nothing other than the brain state that acts."
+  },
+  "development": [
+    {
+      "fr": "Toute variation connue de la vie mentale suit une variation du cerveau : anesthésie, lésion, alcool, fatigue, développement de l'enfant. On ne connaît pas un cas d'expérience vécue sans support cérébral, ni de modification cérébrale d'ampleur sans écho dans le vécu.",
+      "en": "Every known variation in mental life tracks a variation in the brain: anaesthesia, lesion, alcohol, fatigue, a child's development. We know of no case of lived experience without a cerebral substrate, nor of any sizeable cerebral change without an echo in what is lived."
+    },
+    {
+      "fr": "Nos états mentaux ont des effets physiques : ma douleur me fait crier, ma décision lève mon bras. Le nier, c'est faire de la vie mentale un <c id='epiphenomenalism'>épiphénomène</c>, un spectacle sans la moindre prise sur nos actes.",
+      "en": "Our mental states have physical effects: my pain makes me cry out, my decision raises my arm. To deny it is to turn mental life into an <c id='epiphenomenalism'>epiphenomenon</c>, a spectacle with no purchase whatever on our acts."
+    },
+    {
+      "fr": "Or le monde physique est <c id='causal-closure'>causalement clos</c>, autrement dit tout effet physique a déjà une cause physique suffisante : le cri s'explique intégralement par une chaîne de nerfs et de muscles, sans reste ni trou où viendrait s'insérer autre chose.",
+      "en": "Yet the physical world is <c id='causal-closure'>causally closed</c>, that is, every physical effect already has a sufficient physical cause: the cry is explained entirely by a chain of nerves and muscles, with no remainder and no gap where something else might slip in."
+    },
+    {
+      "fr": "Si le cri a déjà une cause physique suffisante et que ma douleur le cause aussi, il n'y a que deux issues : ou bien il est causé deux fois, par une <kw>surdétermination</kw> systématique et inexplicable, ou bien ma douleur n'est pas autre chose que cet état cérébral, et c'est ce que soutient la <kw>théorie de l'identité</kw>.",
+      "en": "If the cry already has a sufficient physical cause and my pain causes it too, only two exits remain: either it is caused twice over, by a systematic and inexplicable <kw>overdetermination</kw>, or my pain is nothing other than that cerebral state, which is what <kw>identity theory</kw> holds."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc la conscience n'est pas un ingrédient posé à côté du cerveau : elle est le cerveau au travail. Reste à comprendre comment, ce qui est une difficulté de recherche et non un mystère de principe.",
+    "en": "So consciousness is not one more ingredient set beside the brain: it is the brain at work. How remains to be understood, which is a difficulty of research and not a mystery of principle."
+  },
+  "difficulty": 2,
+  "source": {
+    "author": {
+      "fr": "Jaegwon Kim",
+      "en": "Jaegwon Kim"
+    },
+    "figures": [
+      {
+        "name": {
+          "fr": "Kim",
+          "en": "Kim"
+        },
+        "kind": "PHILOSOPHER"
+      }
+    ],
+    "work": {
+      "fr": "Physicalism, or Something Near Enough",
+      "en": "Physicalism, or Something Near Enough"
+    },
+    "year": 2005
+  },
+  "deepenings": [
+    {
+      "id": "causal-closure",
+      "label": {
+        "fr": "Ce que veut dire « causalement clos »",
+        "en": "What \"causally closed\" means"
+      },
+      "targetStep": 2,
+      "summary": {
+        "fr": "La clôture causale n'est pas un postulat métaphysique : c'est le constat que la physiologie n'a jamais rencontré d'effet sans cause physique.",
+        "en": "Causal closure is not a metaphysical postulate: it is the finding that physiology has never met an effect without a physical cause."
+      },
+      "development": [
+        {
+          "fr": "Dire que le physique est clos, ce n'est pas dire que rien d'autre n'existe, mais que si l'on suit une chaîne d'effets physiques à rebours, on ne trouve jamais que des causes physiques : chaque contraction musculaire a son influx nerveux, chaque influx sa cascade chimique.",
+          "en": "To say the physical is closed is not to say nothing else exists, but that if one follows a chain of physical effects backwards, one finds only physical causes: every muscle contraction has its nerve impulse, every impulse its chemical cascade."
+        },
+        {
+          "fr": "Cette clôture n'a rien d'une décision de principe : elle est le résultat de deux siècles de physiologie, qui cherchaient au contraire le point d'insertion de l'âme et ne l'ont jamais trouvé, ainsi que des <kw>lois de conservation</kw>, qu'une force venue d'ailleurs viendrait rompre.",
+          "en": "This closure is no decision of principle: it is the outcome of two centuries of physiology, which were looking, on the contrary, for the soul's point of insertion and never found it, and of the <kw>conservation laws</kw>, which a force coming from elsewhere would break."
+        },
+        {
+          "fr": "Il reste possible de la refuser, mais à un prix précis : il faut alors admettre que la physique est fausse quelque part dans le crâne, et dire où.",
+          "en": "It remains possible to reject it, but at a precise price: one must then grant that physics is false somewhere inside the skull, and say where."
+        }
+      ],
+      "conclusion": {
+        "fr": "Refuser la clôture n'est pas une position métaphysique inoffensive : c'est une prédiction empirique, jusqu'ici démentie.",
+        "en": "Rejecting closure is not a harmless metaphysical position: it is an empirical prediction, so far disconfirmed."
+      }
+    },
+    {
+      "id": "water-and-h2o",
+      "label": {
+        "fr": "L'eau et H₂O",
+        "en": "Water and H₂O"
+      },
+      "summary": {
+        "fr": "La science a plusieurs fois découvert que deux choses apparemment distinctes n'en font qu'une, et chaque fois l'identité a d'abord paru inconcevable.",
+        "en": "Science has repeatedly found that two apparently distinct things are one, and each time the identity first seemed inconceivable."
+      },
+      "development": [
+        {
+          "fr": "L'éclair et la décharge électrique, la chaleur et l'agitation des molécules, l'eau et H₂O : dans chaque cas, on tenait deux choses pour distinctes parce qu'on les atteignait par deux voies différentes, l'une familière, l'autre théorique.",
+          "en": "Lightning and electrical discharge, heat and molecular agitation, water and H₂O: in each case two things were held distinct because they were reached by two different routes, one familiar, the other theoretical."
+        },
+        {
+          "fr": "Chaque fois, l'identité a d'abord paru inconcevable : rien dans l'expérience de la chaleur ne ressemble à un mouvement de particules. L'étrangeté de l'identification n'a jamais été un argument contre elle.",
+          "en": "Each time, the identity at first seemed inconceivable: nothing in the experience of heat resembles a motion of particles. The strangeness of the identification was never an argument against it."
+        },
+        {
+          "fr": "Rien n'interdit donc que la sensation et le processus cérébral soient de même deux abords d'une seule chose, ce que la <c id='materialism'>doctrine matérialiste</c> tient pour l'issue naturelle de l'enquête : l'un du dedans, par le vécu, l'autre du dehors, par la mesure.",
+          "en": "Nothing therefore forbids that sensation and cerebral process should likewise be two approaches to a single thing, which the <c id='materialism'>materialist</c> tradition takes to be the natural outcome of the inquiry: one from within, through experience, the other from without, through measurement."
+        }
+      ],
+      "conclusion": {
+        "fr": "L'identité de l'état mental et de l'état cérébral serait une découverte comme les autres, non une négation du vécu.",
+        "en": "The identity of mental state and cerebral state would be a discovery like any other, not a denial of experience."
+      },
+      "source": {
+        "author": {
+          "fr": "J. J. C. Smart",
+          "en": "J. J. C. Smart"
+        },
+        "figures": [
+          {
+            "name": {
+              "fr": "Smart",
+              "en": "Smart"
+            },
+            "kind": "PHILOSOPHER",
+            "slug": "smart"
+          }
+        ],
+        "work": {
+          "fr": "« Sensations et processus cérébraux »",
+          "en": "\"Sensations and Brain Processes\""
+        },
+        "year": 1959
+      }
+    }
+  ],
+  "problems": ["mind-body-knot", "mind-at-the-mercy-of-the-body"],
+  "testThoughtExperiment": "marys-room",
+  "updatedAt": "2026-07-25T00:00:00.000Z"
+}

@@ -89,6 +89,8 @@ On peut tenir des croyances solides et justifiées tout en sachant qu'elles pour
 
 > « Réduire au silence une opinion, c'est voler l'humanité ; ceux qui dissentent plus encore que ceux qui la partagent. » — [Mill](../philosophers/mill.md), De la liberté, ch. 2
 
+> « Toute connaissance humaine est incertaine, imprécise et partielle. » — [Russell](../philosophers/russell.md), La Connaissance humaine : sa portée et ses limites, dernières lignes
+
 ## Axes liés
 
 [Justification de la croyance](../axes/epistemic-justification.md) · [Éthique de la croyance](../axes/belief-ethics.md) · [Source de la connaissance](../axes/knowledge-source.md) · [Nature de la vérité](../axes/truth-nature.md) · [Méthode scientifique](../axes/scientific-method.md) · [Nature du réel](../axes/reality-nature.md) · [Valeur de la vérité](../axes/truth-value.md)

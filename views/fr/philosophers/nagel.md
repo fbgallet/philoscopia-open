@@ -14,7 +14,7 @@ Philosophe analytique américain, connu pour ses analyses de la subjectivité (�
 
 *positionné · inférable · majeure*
 
-Dualisme des propriétés 55% · Panpsychisme 35% · Physicalisme 10%
+Dualisme des propriétés 55% · Monisme à double aspect 35% · Physicalisme 10%
 
 Nagel tient qu'un organisme est conscient s'il y a un effet que cela fait d'être cet organisme, et que ce caractère subjectif est lié à un point de vue : c'est ce que met en scène son [expérience de la chauve-souris](../thought-experiments/what-is-it-like-to-be-a-bat.md), en 1974. Toute réduction procède en s'éloignant du point de vue pour gagner en objectivité ; appliquée à l'expérience, la démarche supprime justement ce qu'il fallait expliquer. Il en tire un refus du [réductionnisme](../glossary/reductionism.md), mais non un [dualisme](../glossary/dualism.md) : il soutient que nous n'avons pas les concepts nécessaires, et qu'il ne voit pas comment le physicalisme pourrait être vrai, sans le déclarer faux pour autant. Son essai de 1979 examine, sans y souscrire fermement, l'hypothèse d'une nature intrinsèque commune au mental et au physique, plus proche d'un monisme neutre que d'un dualisme des propriétés assumé ; son livre de 2012 avance une autre conjecture, celle d'une tendance orientée inscrite dans la nature, qu'il donne lui-même pour spéculative.
 

@@ -1,0 +1,17 @@
+{
+  "id": "knowledge-by-acquaintance",
+  "term": { "fr": "Connaissance par accointance", "en": "Knowledge by acquaintance" },
+  "aliases": {
+    "fr": ["accointance", "connaissance directe", "savoir par description"],
+    "en": ["acquaintance", "knowledge by description"]
+  },
+  "definition": {
+    "fr": "Distinction que <ph id='russell'>Russell</ph> pose entre deux façons de connaître. On est en accointance avec ce qui est directement présent à l'esprit, sans passer par aucune proposition : cette tache rouge, ce son, ce souvenir. On connaît par <c id='definite-description'>description</c> tout le reste (César, l'électron, le centre de la Terre), c'est-à-dire par des propositions qui l'atteignent comme « le tel-et-tel ». <stk>L'enjeu est un principe de sens</stk> : toute proposition que nous comprenons doit être entièrement composée de termes avec lesquels nous sommes en accointance, ce qui oblige à reconstruire par description tout ce que nous ne rencontrons pas. Le français retient « accointance » faute d'équivalent exact de l'anglais <ety>acquaintance</ety>, qui dit la familiarité d'une rencontre.",
+    "en": "A distinction <ph id='russell'>Russell</ph> draws between two ways of knowing. We are acquainted with whatever is directly present to the mind, without passing through any proposition: this red patch, this sound, this memory. Everything else — Caesar, the electron, the centre of the Earth — we know by <c id='definite-description'>description</c>, that is, through propositions that reach it as 'the such-and-such'. <stk>What is at stake is a principle about meaning</stk>: every proposition we understand must be composed wholly of terms with which we are acquainted, which forces us to rebuild by description everything we do not meet."
+  },
+  "relatedAxes": ["KNOWLEDGE_SOURCE", "EPISTEMIC_JUSTIFICATION", "SELF_NATURE"],
+  "relatedTerms": ["definite-description", "sense-data", "logical-construction"],
+  "figure": { "slug": "russell", "name": { "fr": "Russell", "en": "Russell" } },
+  "positions": [{ "axisId": "EPISTEMIC_JUSTIFICATION", "poleId": "FOUNDATIONALISM" }],
+  "updatedAt": "2026-07-25T00:00:00.000Z"
+}

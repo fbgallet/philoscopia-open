@@ -272,7 +272,7 @@ The argument from kinship draws its conclusion from the metaphysics of the Forms
 
 Substance dualism 80% · Property dualism 20%
 
-What thinks cannot be of the same nature as what is thought from without: the soul knows the immaterial Forms, it moves itself and outlasts the body's states, traits no arrangement of matter could produce. Consciousness thus belongs to an order other than the sensible, prior to and independent of it, not to a bodily configuration that would generate it. Platonism thereby refuses in advance any reduction of mind to matter, where the Stoics will make the soul a corporeal breath.
+What thinks cannot be of the same nature as what is thought from without: the soul knows the immaterial [Forms](../glossary/theory-of-forms.md), it moves itself and outlasts the body's states, traits no arrangement of matter could produce. Consciousness thus belongs to an order other than the sensible, prior to and independent of it, not to a bodily configuration that would generate it. Platonism thereby refuses in advance any [reduction](../glossary/reductionism.md) of mind to matter, where the [Stoics](../movements/stoicism.md) will make the soul a corporeal breath.
 
 *Sources : Plato, Phaedo; Phaedrus*
 

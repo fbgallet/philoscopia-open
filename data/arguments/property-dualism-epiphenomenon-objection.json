@@ -1,0 +1,172 @@
+{
+  "id": "property-dualism-epiphenomenon-objection",
+  "kind": "OBJECTS",
+  "position": {
+    "axisId": "CONSCIOUSNESS_NATURE",
+    "poleId": "PROPERTY_DUALISM"
+  },
+  "name": {
+    "fr": "L'objection du vécu inutile",
+    "en": "The idle-experience objection"
+  },
+  "claim": {
+    "fr": "Si le vécu est un fait de plus qui ne change rien au cours des choses, ce n'est pas lui qui vous fait parler de lui, et votre conviction même devient inexplicable.",
+    "en": "If experience is a further fact that changes nothing in the course of things, it is not what makes you speak of it, and your very conviction becomes inexplicable."
+  },
+  "summary": {
+    "fr": "Un vécu qui n'agit pas ne peut pas être ce qui cause nos discours sur lui : le témoignage se coupe de ce dont il témoigne.",
+    "en": "An experience that does not act cannot be what causes our talk about it: the testimony is cut off from what it testifies to."
+  },
+  "development": [
+    {
+      "fr": "Cette position accepte la <c id='causal-closure'>clôture causale</c> du monde physique, qui se suffit à lui-même : aucun neurone n'attend le vécu pour se déclencher, et c'est ce qui lui permet de se dire naturaliste.",
+      "en": "This position grants the <c id='causal-closure'>causal closure</c> of the physical world, self-sufficient as it is: no neuron waits on experience to fire, and that is what allows it to call itself naturalistic."
+    },
+    {
+      "fr": "Il suit que le vécu est un simple <c id='epiphenomenalism'>épiphénomène</c>, qui ne fait rien : mes cris, mes gestes et jusqu'à mes paroles sur ma douleur s'expliquent sans lui, par la seule machinerie nerveuse.",
+      "en": "It follows that experience is a mere <c id='epiphenomenalism'>epiphenomenon</c>, doing nothing: my cries, my gestures, and even my words about my pain are explained without it, by the nervous machinery alone."
+    },
+    {
+      "fr": "Or je parle de mon vécu, je m'en étonne, j'écris des livres sur le <c id='hard-problem'>problème difficile</c>. Ces comportements ont donc, selon la position elle-même, des causes entièrement physiques.",
+      "en": "Yet I do speak of my experience, I marvel at it, I write books about the <c id='hard-problem'>hard problem</c>. Those behaviours therefore have, by the position's own lights, entirely physical causes."
+    },
+    {
+      "fr": "Ma conviction qu'il y a un vécu ne vient donc pas du vécu : elle serait exactement la même s'il n'y en avait aucun, puisque le zombie, physiquement identique, affirme lui aussi avoir un ressenti et s'en émerveille.",
+      "en": "My conviction that there is experience therefore does not come from experience: it would be exactly the same were there none, since the zombie, physically identical, also declares it has a feel and marvels at it."
+    }
+  ],
+  "conclusion": {
+    "fr": "Ou bien le vécu agit, et il faut renoncer à la clôture du monde physique ; ou bien il n'agit pas, et le témoignage sur lequel repose toute la position se coupe de ce dont il témoigne.",
+    "en": "Either experience acts, and the closure of the physical world must be given up; or it does not, and the testimony on which the whole position rests is cut off from what it testifies to."
+  },
+  "difficulty": 3,
+  "source": {
+    "author": {
+      "fr": "Daniel Dennett",
+      "en": "Daniel Dennett"
+    },
+    "figures": [
+      {
+        "name": {
+          "fr": "Dennett",
+          "en": "Dennett"
+        },
+        "kind": "PHILOSOPHER",
+        "slug": "dennett"
+      }
+    ],
+    "work": {
+      "fr": "La Conscience expliquée",
+      "en": "Consciousness Explained"
+    },
+    "year": 1991
+  },
+  "attacks": "POSITION",
+  "problems": [
+    "mind-body-knot",
+    "the-zombie-twin"
+  ],
+  "responses": [
+    {
+      "id": "experience-must-act",
+      "label": {
+        "fr": "Mon témoignage n'a de valeur que si le vécu le cause : c'est donc qu'il est l'état cérébral lui-même.",
+        "en": "My testimony is worth something only if experience causes it: so it is the cerebral state itself."
+      },
+      "hints": [
+        {
+          "axisId": "CONSCIOUSNESS_NATURE",
+          "value": {
+            "kind": "weights",
+            "weights": [
+              0,
+              0,
+              0,
+              1,
+              0
+            ]
+          },
+          "weight": 2
+        }
+      ]
+    },
+    {
+      "id": "inside-matter",
+      "label": {
+        "fr": "Pour que le vécu agisse sans rien violer, il faut qu'il soit dans la matière même, non greffé sur elle.",
+        "en": "For experience to act while violating nothing, it must be in matter itself, not grafted onto it."
+      },
+      "hints": [
+        {
+          "axisId": "CONSCIOUSNESS_NATURE",
+          "value": {
+            "kind": "weights",
+            "weights": [
+              0,
+              0,
+              1,
+              0,
+              0
+            ]
+          },
+          "weight": 1
+        }
+      ],
+      "discussion": {
+        "fr": "C'est l'argument que <ph id='strawson'>Strawson</ph> retourne contre le dualisme : loger le vécu dans la nature intrinsèque de la matière lui rend son efficacité.",
+        "en": "This is the argument <ph id='strawson'>Strawson</ph> turns against dualism: lodging experience in matter's intrinsic nature restores its efficacy."
+      }
+    },
+    {
+      "id": "explain-the-conviction",
+      "label": {
+        "fr": "Si notre conviction s'expliquerait aussi bien sans vécu, c'est peut-être la conviction qu'il faut expliquer, non le vécu.",
+        "en": "If our conviction would be explained just as well without experience, perhaps it is the conviction that needs explaining, not experience."
+      },
+      "hints": [
+        {
+          "axisId": "CONSCIOUSNESS_NATURE",
+          "value": {
+            "kind": "weights",
+            "weights": [
+              0,
+              0,
+              0,
+              0,
+              1
+            ]
+          },
+          "weight": 1
+        }
+      ],
+      "discussion": {
+        "fr": "Vous basculez vers l'<ax id='CONSCIOUSNESS_NATURE' pole='ILLUSIONISM'>illusionnisme</ax> : expliquer pourquoi le vécu nous paraît ineffable, plutôt que l'ineffable lui-même.",
+        "en": "You tip toward <ax id='CONSCIOUSNESS_NATURE' pole='ILLUSIONISM'>illusionism</ax>: explaining why experience seems ineffable to us, rather than the ineffable itself."
+      }
+    },
+    {
+      "id": "known-by-living-it",
+      "label": {
+        "fr": "Que ma croyance ait des causes physiques ne la rend pas fausse : je connais ma douleur en la vivant, non en l'inférant de mes cris.",
+        "en": "That my belief has physical causes does not make it false: I know my pain by living it, not by inferring it from my cries."
+      },
+      "hints": [
+        {
+          "axisId": "CONSCIOUSNESS_NATURE",
+          "value": {
+            "kind": "weights",
+            "weights": [
+              0,
+              1,
+              0,
+              0,
+              0
+            ]
+          },
+          "weight": 0.5
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-25T00:00:00.000Z"
+}

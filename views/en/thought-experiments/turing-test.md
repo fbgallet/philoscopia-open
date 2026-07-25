@@ -10,6 +10,22 @@ Turing finds the question "can a machine think?" too vague, and proposes to repl
 
 **Axes at stake** : [Can a machine think](../axes/machine-mind.md)
 
+## What it does in the debate
+
+### Supports [Can a machine think](../axes/machine-mind.md) : The substrate does not matter
+
+We never grant thought to others except on their words and gestures: to demand more of the machine is to apply a criterion we apply to no one.
+
+**The argument it makes**
+
+1. Of another's mind I have no direct access: I observe only conduct, words, reactions, and it is on that basis alone that I grant them an inner life.
+2. If, over a sustained exchange, nothing distinguishes a machine's answers from a person's, the criterion I use everywhere else is met.
+3. To deny it thought nonetheless presupposes a further criterion, one I require of none of my fellows and would be hard put to state.
+
+**⇒** So whatever realizes the conduct of a thinking being must be held to think: the substrate is no part of the criterion.
+
+**Reinforces** : [The multiple-realizability argument](../arguments/functionalism-multiple-realizability.md)
+
 **Possible stances** :
 
 - Passing the test is enough: of a mind, even in others, we never have any proof but behaviour.

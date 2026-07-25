@@ -1,0 +1,11 @@
+{
+  "id": "cosmic-tragedy-political-meliorism",
+  "kind": "T_V",
+  "a": { "axisId": "COSMIC_OUTLOOK", "predicate": { "kind": "scalarRange", "min": 0.6, "max": 1 } },
+  "b": { "axisId": "CONSERVATISM_PROGRESSISM", "predicate": { "kind": "scalarRange", "min": 0.6, "max": 1 } },
+  "explanation": {
+    "fr": "Tenir que l'univers est indifférent à ce que nous valorisons, que rien n'y prescrit de fin et que le peu que nous sommes y est provisoire, puis attendre du savoir et de la réforme une amélioration réelle du sort humain, met une lecture du réel et un engagement en tension : si aucune direction n'est inscrite dans les choses, rien ne garantit que l'effort porte, et le progrès cesse d'être une pente pour devenir un pari. Il reste des façons de tenir les deux, et c'est même la position de plusieurs athées conséquents : dire que l'indifférence du monde est précisément ce qui rend la réforme nécessaire plutôt que superflue, ou distinguer l'espoir cosmique, qui n'a pas d'objet, de l'espoir historique, qui en a un. Encore faut-il le dire, sous peine de laisser le militantisme emprunter à la providence la confiance qu'on lui a refusée.",
+    "en": "Holding that the universe is indifferent to what we value, that nothing in it prescribes an end and that the little we are is provisional there, and then expecting knowledge and reform to bring a real improvement in the human lot, puts a reading of reality and a commitment in tension: if no direction is inscribed in things, nothing guarantees the effort will tell, and progress stops being a slope and becomes a wager. There are ways of holding both, and it is indeed the position of several consistent atheists: saying that the world's indifference is precisely what makes reform necessary rather than superfluous, or distinguishing cosmic hope, which has no object, from historical hope, which has one. But it has to be said, on pain of letting activism borrow from providence the confidence one has denied it."
+  },
+  "updatedAt": "2026-07-25T00:00:00.000Z"
+}

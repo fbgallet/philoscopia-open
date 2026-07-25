@@ -264,13 +264,15 @@ The Ethics is demonstrated "in the geometrical manner": all knowledge is deduced
 
 ### [The enigma of consciousness](../axes/consciousness-nature.md)
 
-*positioned · inferable · minor*
+*positioned · explicit in the texts · major*
 
-Panpsychism 70% · Property dualism 30%
+Dual-aspect monism 85% · Property dualism 15%
 
-Thought and extension are two attributes of one substance: the mind is the idea of the body, neither reducible to it nor separable from it. "All individuals are animate in varying degrees": a position close to dual-aspect monism and panpsychism.
+Mind and body are not two things in relation, but one and the same thing expressed under two attributes, the order of ideas following exactly that of things. The human mind is the idea of the body, neither produced by it nor able to act upon it, which dissolves the Cartesian question of their interaction instead of answering it. Spinoza adds that “all individuals are animate in varying degrees”, thought being no privilege of brains: this is the historical matrix of dual-aspect monism, and the acknowledged ancestor of contemporary [panpsychism](../glossary/panpsychism.md).
 
-*Sources : Ethics, II, props. 7 and 13 (scholium)*
+> “The order and connection of ideas is the same as the order and connection of things.”, Ethics, II, proposition 7
+
+*Sources : Ethics, II, props. 7 and 13 (scholium) · Ethics, III, prop. 2*
 
 ### [Being or having a body](../axes/embodiment.md)
 

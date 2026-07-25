@@ -28,6 +28,14 @@ Nos obligations vont d'abord aux personnes qui existent ici et maintenant : leur
 - **Un bien lointain vaut-il moins ?** : Un bien ou un mal fait à des gens du futur doit-il compter pour moins du seul fait de sa distance dans le temps, comme le fait le calcul économique qui escompte l'avenir, ou cette préférence pour le présent est-elle une faute morale, un simple manque d'imagination ? Un très faible taux annuel suffit à rendre une catastrophe lointaine presque sans poids aujourd'hui.
 - **Le partage entre les âges** : Admettons qu'on doive quelque chose au futur : quel est le juste partage des ressources et des charges entre les générations, combien chaque âge doit-il épargner, et qui paie le coût d'éviter un mal lointain, comme le fardeau climatique ?
 
+## Tensions
+
+- Avec [Statut des normes (métaéthique)](../axes/moral-scope.md) : Tenir qu'un jugement de valeur n'exprime qu'un désir, sans rien décrire dans le monde, puis reconnaître envers les générations futures une obligation que rien ne devrait pouvoir mettre en balance, met deux positions en tension : une obligation sans exception a besoin d'une autorité que le subjectivisme lui refuse. Il reste des façons de tenir les deux : dire que l'obligation vaut pour quiconque partage certains désirs, ou qu'elle repose sur un accord et non sur une vérité. Encore faut-il l'assumer, car la condamnation perd alors ce qu'elle prétendait avoir : la force de valoir aussi contre celui qui n'en veut pas.
+
+## Citations
+
+> « Souvenez-vous de votre humanité, et oubliez le reste. » — [Russell](../philosophers/russell.md), Manifeste Russell-Einstein (1955), appel final
+
 ## Axes liés
 
 [Place de l'homme dans la nature](../axes/human-place-nature.md) · [Cercle moral](../axes/moral-circle.md) · [Tradition et transformation](../axes/conservatism-progressism.md) · [Orientation temporelle](../axes/time-orientation.md) · [Origine du lien social](../axes/social-contract.md) · [Justice distributive](../axes/distributive-justice.md)

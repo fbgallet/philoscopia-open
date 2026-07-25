@@ -1,0 +1,19 @@
+{
+  "id": "hegel-to-russell",
+  "from": { "kind": "PHILOSOPHER", "slug": "hegel" },
+  "to": { "kind": "PHILOSOPHER", "slug": "russell" },
+  "directness": "ATTESTED",
+  "mode": "REACTS_AGAINST",
+  "strength": "STRONG",
+  "note": {
+    "fr": "<ph id='russell'>Russell</ph> a été formé dans l'idéalisme néo-hégélien qui dominait Cambridge, et sa philosophie naît de la rupture qu'il datait de 1898 : ce qu'il rejette est la thèse que rien n'est intelligible hors du tout, et que toute relation est interne à ses termes. Son <c id='logical-atomism'>atomisme logique</c> est d'abord ce refus retourné en méthode : un monde de faits indépendants, analysable pièce à pièce. <dif>Le règlement de comptes reste polémique</dif> : l'<w>Histoire de la philosophie occidentale</w> traite <ph id='hegel'>Hegel</ph> avec une brusquerie que ses lecteurs lui ont souvent reprochée.",
+    "en": "<ph id='russell'>Russell</ph> was trained in the neo-Hegelian idealism that dominated Cambridge, and his philosophy is born of the break he dated to 1898: what he rejects is the thesis that nothing is intelligible outside the whole, and that every relation is internal to its terms. His <c id='logical-atomism'>logical atomism</c> is first of all that refusal turned into a method — a world of independent facts, analysable piece by piece. <dif>The settling of accounts remains polemical</dif>: <w>A History of Western Philosophy</w> treats <ph id='hegel'>Hegel</ph> with a brusqueness his readers have often held against him."
+  },
+  "sources": [
+    {
+      "fr": "Russell, Mon évolution philosophique (1959), ch. VI-VII",
+      "en": "Russell, My Philosophical Development (1959), ch. VI-VII"
+    }
+  ],
+  "updatedAt": "2026-07-25T00:00:00.000Z"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "human-knowledge-russell",
+  "title": {
+    "fr": "La Connaissance humaine : sa portée et ses limites",
+    "en": "Human Knowledge: Its Scope and Limits"
+  },
+  "author": { "slug": "russell", "name": { "fr": "Russell", "en": "Russell" } },
+  "year": 1948,
+  "presentation": {
+    "fr": "Sa dernière grande somme d'épistémologie. Russell y soutient que l'inférence scientifique ne se justifie qu'en admettant des postulats sur la structure du monde, que l'expérience ne prouve pas, et que ce qu'elle produit n'est jamais une certitude mais un <c>degré de crédibilité</c>. Le livre se ferme sur l'aveu que toute connaissance humaine est incertaine, inexacte et partielle.",
+    "en": "His last large work of epistemology. Russell argues that scientific inference can be justified only by admitting postulates about the structure of the world which experience does not prove, and that what it yields is never certainty but a <c>degree of credibility</c>. The book closes on the admission that all human knowledge is uncertain, inexact and partial."
+  },
+  "updatedAt": "2026-07-25T00:00:00.000Z"
+}

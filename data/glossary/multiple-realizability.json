@@ -1,0 +1,19 @@
+{
+  "id": "multiple-realizability",
+  "term": {
+    "fr": "La réalisabilité multiple",
+    "en": "Multiple realizability"
+  },
+  "aliases": {
+    "fr": ["réalisabilité multiple", "réalisation multiple", "réalisable de plusieurs façons"],
+    "en": ["multiple realizability", "multiply realizable", "multiple realization"]
+  },
+  "definition": {
+    "fr": "Une même fonction mentale peut être réalisée par des supports très différents : la douleur, chez l'homme, le poulpe ou une machine, n'aurait pas besoin de la même matière pour être la douleur, pourvu que le rôle soit tenu, à savoir être causée par une lésion, faire fuir, s'apprendre. <ph>Hilary Putnam</ph> en fit dans les années 1960 l'argument central contre l'idée qu'un état mental serait identique à un état cérébral déterminé, et le socle du <ax id='MACHINE_MIND' pole='FUNCTIONALISM'>fonctionnalisme</ax>. <dif>Reste à savoir jusqu'où va cette indifférence au support : poussé au bout, le même argument accorde la pensée à une foule de gens s'échangeant des messages.</dif>",
+    "en": "One and the same mental function can be realized by very different substrates: pain, in a human, an octopus or a machine, would not need the same material to be pain, provided the role is played, namely being caused by injury, prompting flight, being learned from. <ph>Hilary Putnam</ph> made this, in the 1960s, the central argument against the idea that a mental state is identical with one determinate brain state, and the foundation of <ax id='MACHINE_MIND' pole='FUNCTIONALISM'>functionalism</ax>. <dif>How far this indifference to substrate extends remains open: pushed to the limit, the same argument grants thought to a crowd of people passing messages.</dif>"
+  },
+  "relatedAxes": ["MACHINE_MIND", "CONSCIOUSNESS_NATURE", "REDUCTION_EMERGENCE"],
+  "relatedTerms": ["reductionism", "emergentism", "supervenience"],
+  "positions": [{ "axisId": "MACHINE_MIND", "poleId": "FUNCTIONALISM" }],
+  "updatedAt": "2026-07-25T00:00:00.000Z"
+}

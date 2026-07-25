@@ -1,0 +1,11 @@
+{
+  "id": "conquest-of-happiness-russell",
+  "title": { "fr": "La Conquête du bonheur", "en": "The Conquest of Happiness" },
+  "author": { "slug": "russell", "name": { "fr": "Russell", "en": "Russell" } },
+  "year": 1930,
+  "presentation": {
+    "fr": "Livre de conseils sans système, écrit pour le grand public : Russell y soutient que le malheur ordinaire vient de désirs trop tournés vers soi, et que le remède est l'élargissement des intérêts plutôt que leur réduction. Le zeste, l'affection et les intérêts impersonnels y remplacent l'ascèse.",
+    "en": "A book of advice without a system, written for the general reader: Russell argues that ordinary unhappiness comes from desires turned too much toward oneself, and that the cure is to widen one's interests rather than to cut them down. Zest, affection and impersonal interests replace asceticism."
+  },
+  "updatedAt": "2026-07-25T00:00:00.000Z"
+}

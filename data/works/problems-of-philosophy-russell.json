@@ -1,0 +1,11 @@
+{
+  "id": "problems-of-philosophy-russell",
+  "title": { "fr": "Problèmes de philosophie", "en": "The Problems of Philosophy" },
+  "author": { "slug": "russell", "name": { "fr": "Russell", "en": "Russell" } },
+  "year": 1912,
+  "presentation": {
+    "fr": "Petit livre d'introduction écrit en quelques semaines, resté le plus lu de ses ouvrages non techniques. Russell y expose la distinction entre <c id='knowledge-by-acquaintance'>connaissance par accointance</c> et savoir par description, le <pb>problème de l'induction</pb>, la vérité comme correspondance et le <c id='realism-of-universals'>réalisme des universaux</c>.",
+    "en": "A short introductory book written in a few weeks, and still the most widely read of his non-technical works. Russell sets out the distinction between <c id='knowledge-by-acquaintance'>knowledge by acquaintance</c> and knowledge by description, the <pb>problem of induction</pb>, truth as correspondence and <c id='realism-of-universals'>realism about universals</c>."
+  },
+  "updatedAt": "2026-07-25T00:00:00.000Z"
+}

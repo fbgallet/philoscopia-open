@@ -10,6 +10,7 @@ Philosophe allemand, figure majeure du Cercle de Vienne et de l'empirisme logiqu
 
 ## Influencé par
 
+- **[Russell](../philosophers/russell.md)** (transmet) : Ce qui passe est une maxime de méthode, que [Carnap](../philosophers/carnap.md) place en épigraphe de son entreprise : partout où c'est possible, substituer des [constructions](../glossary/logical-construction.md) à partir d'entités connues aux inférences vers des entités inconnues. La Construction logique du monde (1928) l'applique à la lettre en reconstruisant tous les concepts scientifiques à partir d'une base d'expériences élémentaires. Le programme s'éloigne ensuite de son modèle : Carnap abandonne le réalisme de [Russell](../philosophers/russell.md) et l'idée que la métaphysique puisse être vraie ou fausse plutôt que dépourvue de sens.
 - **[Wittgenstein](../philosophers/wittgenstein.md)** (réinterprète) : Le Tractatus fut le livre de chevet du Cercle de Vienne : [Carnap](../philosophers/carnap.md) et les positivistes logiques y lurent une charte du vérificationnisme, réduisant le sens à la vérifiabilité empirique. Wittgenstein s'en démarqua : ils avaient manqué, disait-il, ce que le livre montrait sans le dire, l'éthique et le mystique. Le malentendu fonde une part de la philosophie analytique.
 
 ---

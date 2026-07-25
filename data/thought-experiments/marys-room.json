@@ -47,9 +47,9 @@
           "value": {
             "kind": "weights",
             "weights": [
-              0,
               0.35,
               0.65,
+              0,
               0,
               0
             ]
@@ -80,10 +80,10 @@
           "value": {
             "kind": "weights",
             "weights": [
+              0,
+              0,
+              0,
               0.65,
-              0,
-              0,
-              0,
               0.35
             ]
           }
@@ -113,10 +113,10 @@
           "value": {
             "kind": "weights",
             "weights": [
+              0,
+              0,
+              0,
               1,
-              0,
-              0,
-              0,
               0
             ]
           }
@@ -230,7 +230,127 @@
           }
         }
       ]
+    },
+    {
+      "role": "OBJECTS",
+      "position": {
+        "axisId": "CONSCIOUSNESS_NATURE",
+        "poleId": "PHYSICALISM"
+      },
+      "attacks": "POSITION",
+      "argumentId": "physicalism-causal-exclusion",
+      "problems": [
+        "what-mary-learns",
+        "what-it-is-like"
+      ],
+      "summary": {
+        "fr": "Mary connaît tout le physique de la couleur et apprend pourtant quelque chose en voyant le rouge : le vécu n'était donc pas contenu dans la description complète du cerveau.",
+        "en": "Mary knows all the physics of colour and yet learns something on seeing red: experience was therefore not contained in the complete description of the brain."
+      },
+      "reconstruction": {
+        "development": [
+          {
+            "fr": "Mary connaît tous les faits physiques de la vision des couleurs, jusqu'au dernier circuit du cerveau, sans avoir jamais rien vu qu'en noir et blanc.",
+            "en": "Mary knows every physical fact about colour vision, down to the last cerebral circuit, without ever having seen anything but black and white."
+          },
+          {
+            "fr": "En sortant, elle voit une rose rouge et apprend ce que c'est que de voir du rouge : quelque chose qu'elle ignorait, et qu'aucune information physique supplémentaire ne lui aurait donné.",
+            "en": "On coming out, she sees a red rose and learns what it is to see red: something she did not know, and that no further physical information would have given her."
+          },
+          {
+            "fr": "Si le vécu était identique à l'état cérébral, elle n'aurait rien à apprendre : elle possédait déjà, en droit, la description complète de cet état.",
+            "en": "If experience were identical with the cerebral state, she would have nothing to learn: she already possessed, in principle, the complete description of that state."
+          }
+        ],
+        "conclusion": {
+          "fr": "Donc le vécu n'est pas épuisé par le fonctionnement du cerveau : il reste un fait que la description physique complète ne contenait pas.",
+          "en": "So experience is not exhausted by the brain's workings: a fact remains that the complete physical description did not contain."
+        }
+      },
+      "responses": [
+        {
+          "id": "revise",
+          "label": {
+            "fr": "Elle apprend un fait nouveau : le vécu s'ajoute donc au fonctionnement cérébral, si étroitement qu'il en dépende.",
+            "en": "She learns a new fact: experience is therefore additional to the brain's workings, however tightly it depends on them."
+          },
+          "hints": [
+            {
+              "axisId": "CONSCIOUSNESS_NATURE",
+              "value": {
+                "kind": "weights",
+                "weights": [
+                  0.3,
+                  0.7,
+                  0,
+                  0,
+                  0
+                ]
+              },
+              "weight": 2
+            }
+          ],
+          "discussion": {
+            "fr": "C'est l'argument de la connaissance de <ph>Frank Jackson</ph>, qui mène le plus souvent au <ax id='CONSCIOUSNESS_NATURE' pole='PROPERTY_DUALISM'>dualisme des propriétés</ax> plutôt qu'à une âme séparée.",
+            "en": "This is <ph>Frank Jackson</ph>'s knowledge argument, which most often leads to <ax id='CONSCIOUSNESS_NATURE' pole='PROPERTY_DUALISM'>property dualism</ax> rather than to a separate soul."
+          }
+        },
+        {
+          "id": "qualify",
+          "label": {
+            "fr": "Elle ne gagne pas un fait mais une familiarité : reconnaître, imaginer, se souvenir du rouge. Un savoir-faire, non une vérité de plus.",
+            "en": "She gains not a fact but a familiarity: recognizing, imagining, remembering red. A know-how, not one more truth."
+          },
+          "hints": [
+            {
+              "axisId": "CONSCIOUSNESS_NATURE",
+              "value": {
+                "kind": "weights",
+                "weights": [
+                  0,
+                  0,
+                  0,
+                  1,
+                  0
+                ]
+              },
+              "weight": 1
+            }
+          ],
+          "discussion": {
+            "fr": "La réponse par les capacités : le physicalisme survit si ce que Mary acquiert est une aptitude, non l'accès à un fait qui lui manquait.",
+            "en": "The ability reply: physicalism survives if what Mary acquires is a capacity, not access to a fact she lacked."
+          }
+        },
+        {
+          "id": "refute",
+          "label": {
+            "fr": "L'expérience de pensée triche : personne ne peut se représenter ce que serait un savoir physique vraiment complet, et l'intuition ne porte que sur notre ignorance.",
+            "en": "The thought experiment cheats: no one can picture what a truly complete physical knowledge would be, and the intuition bears only on our ignorance."
+          },
+          "hints": [
+            {
+              "axisId": "CONSCIOUSNESS_NATURE",
+              "value": {
+                "kind": "weights",
+                "weights": [
+                  0,
+                  0,
+                  0,
+                  0.6,
+                  0.4
+                ]
+              },
+              "weight": 0.5
+            }
+          ],
+          "discussion": {
+            "fr": "L'objection de <ph id='dennett'>Dennett</ph> : nous imaginons Mary savante comme nous le serions, c'est-à-dire ignorants, et nous concluons de cette image.",
+            "en": "<ph id='dennett'>Dennett</ph>'s objection: we imagine Mary as learned in the way we would be, that is, ignorant, and we draw conclusions from that picture."
+          }
+        }
+      ]
     }
   ],
-  "updatedAt": "2026-07-15T00:00:00.000Z"
+  "updatedAt": "2026-07-25T00:00:00.000Z"
 }

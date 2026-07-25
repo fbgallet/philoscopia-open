@@ -1,0 +1,11 @@
+{
+  "id": "analysis-of-mind-russell",
+  "title": { "fr": "L'Analyse de l'esprit", "en": "The Analysis of Mind" },
+  "author": { "slug": "russell", "name": { "fr": "Russell", "en": "Russell" } },
+  "year": 1921,
+  "presentation": {
+    "fr": "Le livre où Russell adopte le <c id='neutral-monism'>monisme neutre</c> : l'étoffe du monde n'est ni mentale ni matérielle, et ce que nous appelons un esprit n'est qu'un groupement d'événements suivant des lois psychologiques. Le moi substantiel y est abandonné au profit d'une série liée par la <c id='mnemic-causation'>causalité mnésique</c>.",
+    "en": "The book in which Russell adopts <c id='neutral-monism'>neutral monism</c>: the stuff of the world is neither mental nor material, and what we call a mind is only a grouping of events following psychological laws. The substantial self is abandoned for a series bound together by <c id='mnemic-causation'>mnemic causation</c>."
+  },
+  "updatedAt": "2026-07-25T00:00:00.000Z"
+}

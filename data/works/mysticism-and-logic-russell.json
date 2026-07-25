@@ -1,0 +1,11 @@
+{
+  "id": "mysticism-and-logic-russell",
+  "title": { "fr": "Mysticisme et logique", "en": "Mysticism and Logic" },
+  "author": { "slug": "russell", "name": { "fr": "Russell", "en": "Russell" } },
+  "year": 1918,
+  "presentation": {
+    "fr": "Recueil que Russell assemble et publie lui-même en 1918, réunissant dix essais parus entre 1902 et 1914. D'un côté les textes techniques qui fondent sa méthode : « De la méthode scientifique en philosophie », « De la notion de cause », qui congédie la causalité au profit de la dépendance fonctionnelle, et « Connaissance par accointance et connaissance par description ». De l'autre des essais écrits pour le grand public, dont « La profession de foi d'un homme libre » (ch. III), le plus lu de tous, et l'essai-titre, qui accorde au sentiment mystique une valeur réelle en lui refusant toute autorité cognitive. La première traduction française intégrale a paru chez Vrin en 2007.",
+    "en": "A collection Russell assembled and published himself in 1918, gathering ten essays that had appeared between 1902 and 1914. On one side the technical pieces that ground his method: \"On Scientific Method in Philosophy\", \"On the Notion of Cause\", which dismisses causality in favour of functional dependence, and \"Knowledge by Acquaintance and Knowledge by Description\". On the other the essays written for a general readership, chief among them \"A Free Man's Worship\" (ch. III), the most widely read of all, and the title essay, which grants the mystical feeling real value while denying it any cognitive authority."
+  },
+  "updatedAt": "2026-07-25T00:00:00.000Z"
+}

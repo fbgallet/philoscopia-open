@@ -363,6 +363,15 @@
 - « Tout est bien sortant des mains de l'Auteur des choses, tout dégénère entre les mains de l'homme. » — Émile, livre I
 - « Trouver une forme d'association par laquelle chacun, s'unissant à tous, n'obéisse pourtant qu'à lui-même et reste aussi libre qu'auparavant. » — Du contrat social, I, 6
 
+### [Russell](../philosophers/russell.md)
+
+- « Il n'est pas souhaitable de croire une proposition quand rien ne permet de la supposer vraie. » — Essais sceptiques, « De la valeur du scepticisme »
+- « Je ne vois pas comment réfuter les arguments en faveur de la subjectivité des valeurs éthiques, mais je me trouve incapable de croire que tout ce qu'il y a de mal dans la cruauté gratuite, c'est que je ne l'aime pas. » — « Reply to Criticisms », dans The Philosophy of Bertrand Russell (1944)
+- « La vie bonne est une vie inspirée par l'amour et guidée par la connaissance. » — Ce que je crois (1925), ch. II
+- « Souvenez-vous de votre humanité, et oubliez le reste. » — Manifeste Russell-Einstein (1955), appel final
+- « Toute connaissance accessible doit être atteinte par des méthodes scientifiques ; et ce que la science ne peut découvrir, l'humanité ne peut le savoir. » — Science et religion (1935)
+- « Toute connaissance humaine est incertaine, imprécise et partielle. » — La Connaissance humaine : sa portée et ses limites, dernières lignes
+
 ### Samyutta Nikāya
 
 - « Tout ce qui est sujet à l'apparition est sujet à la cessation. » — SN 56.11, Dhammacakkappavattana Sutta

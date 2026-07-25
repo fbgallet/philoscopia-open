@@ -1,0 +1,152 @@
+{
+  "id": "substance-dualism-interaction-objection",
+  "kind": "OBJECTS",
+  "position": {
+    "axisId": "CONSCIOUSNESS_NATURE",
+    "poleId": "SUBSTANCE_DUALISM"
+  },
+  "name": {
+    "fr": "L'objection d'Élisabeth de Bohême",
+    "en": "Elisabeth of Bohemia's objection"
+  },
+  "claim": {
+    "fr": "Si l'esprit n'a ni étendue ni surface, on ne voit pas par quel bout il pourrait pousser un corps, ni comment un corps l'atteindrait.",
+    "en": "If the mind has neither extension nor surface, one cannot see by what end it could push a body, nor how a body could reach it."
+  },
+  "summary": {
+    "fr": "Plus l'âme est pure, moins on comprend qu'elle puisse lever un bras : le dualisme sauve l'esprit au prix de son commerce avec le corps.",
+    "en": "The purer the soul, the less one understands how it could raise an arm: dualism saves the mind at the price of its commerce with the body."
+  },
+  "development": [
+    {
+      "fr": "Une chose n'en meut une autre qu'en la touchant, ou en agissant sur elle par une force qui a une direction et un point d'application : c'est ainsi que nous comprenons toute action, du choc des billes au signal qui parcourt un nerf.",
+      "en": "One thing moves another only by touching it, or by acting on it through a force that has a direction and a point of application: this is how we understand any action, from colliding balls to the signal running along a nerve."
+    },
+    {
+      "fr": "Mais un esprit sans <kw>étendue</kw> n'est nulle part, n'a ni surface ni force : il ne remplit aucune des conditions par lesquelles nous comprenons qu'une chose en modifie une autre.",
+      "en": "But an <kw>unextended</kw> mind is nowhere, has neither surface nor force: it meets none of the conditions by which we understand one thing to modify another."
+    },
+    {
+      "fr": "Il faudrait donc admettre une action d'un genre entièrement inédit, dont on ne peut rien dire sinon qu'elle a lieu. Ce n'est pas expliquer l'<kw>union de l'âme et du corps</kw>, c'est lui donner un nom.",
+      "en": "One would then have to admit an action of an entirely unprecedented kind, of which nothing can be said except that it occurs. That is not explaining the <kw>union of soul and body</kw>, it is giving it a name."
+    },
+    {
+      "fr": "Et l'énigme est double, car l'esprit devrait aussi être atteint par le corps : un coup, une fièvre, un verre de vin changent immédiatement ce que je pense et ce que j'éprouve, comme si la matière avait prise sur ce qui n'en est pas.",
+      "en": "And the puzzle is twofold, for the mind would also have to be reached by the body: a blow, a fever, a glass of wine immediately change what I think and what I feel, as if matter had purchase on what is not matter."
+    }
+  ],
+  "conclusion": {
+    "fr": "Le dualisme sauve l'irréductibilité de l'esprit au prix de son commerce avec le corps : plus l'âme est pure, moins on comprend qu'elle puisse lever un bras.",
+    "en": "Dualism saves the mind's irreducibility at the price of its commerce with the body: the purer the soul, the less one understands how it could raise an arm."
+  },
+  "difficulty": 1,
+  "source": {
+    "author": {
+      "fr": "Élisabeth de Bohême",
+      "en": "Elisabeth of Bohemia"
+    },
+    "figures": [
+      {
+        "name": {
+          "fr": "Élisabeth de Bohême",
+          "en": "Elisabeth of Bohemia"
+        },
+        "kind": "PHILOSOPHER",
+        "slug": "elisabeth-of-bohemia"
+      }
+    ],
+    "work": {
+      "fr": "Correspondance avec Descartes, lettre du 6 mai 1643",
+      "en": "Correspondence with Descartes, letter of 6 May 1643"
+    },
+    "year": 1643
+  },
+  "attacks": "POSITION",
+  "problems": [
+    "mind-body-knot"
+  ],
+  "responses": [
+    {
+      "id": "brain-acts-visibly",
+      "label": {
+        "fr": "Une âme qui n'agirait que par miracle explique moins que le cerveau, dont l'action se laisse suivre pas à pas.",
+        "en": "A soul that would act only by miracle explains less than the brain, whose action can be followed step by step."
+      },
+      "hints": [
+        {
+          "axisId": "CONSCIOUSNESS_NATURE",
+          "value": {
+            "kind": "weights",
+            "weights": [
+              0,
+              0,
+              0,
+              1,
+              0
+            ]
+          },
+          "weight": 2
+        }
+      ],
+      "discussion": {
+        "fr": "Vous suivez le chemin qui va de <ph id='descartes'>Descartes</ph> aux sciences du cerveau : ce que l'âme devait faire, on le voit se faire dans les tissus.",
+        "en": "You follow the path leading from <ph id='descartes'>Descartes</ph> to the brain sciences: what the soul was to do is seen being done in tissue."
+      }
+    },
+    {
+      "id": "property-not-substance",
+      "label": {
+        "fr": "Gardons l'irréductibilité du vécu, mais dans le monde physique : une propriété du cerveau, non une substance à part.",
+        "en": "Let us keep experience irreducible, but inside the physical world: a property of the brain, not a separate substance."
+      },
+      "hints": [
+        {
+          "axisId": "CONSCIOUSNESS_NATURE",
+          "value": {
+            "kind": "weights",
+            "weights": [
+              0,
+              1,
+              0,
+              0,
+              0
+            ]
+          },
+          "weight": 1
+        }
+      ],
+      "discussion": {
+        "fr": "L'objection perd sa prise sur le <ax id='CONSCIOUSNESS_NATURE' pole='PROPERTY_DUALISM'>dualisme des propriétés</ax> : rien n'y traverse la frontière, puisqu'il n'y a qu'une seule substance.",
+        "en": "The objection loses its grip on <ax id='CONSCIOUSNESS_NATURE' pole='PROPERTY_DUALISM'>property dualism</ax>: nothing there crosses a border, since there is only one substance."
+      }
+    },
+    {
+      "id": "interaction-is-a-fact",
+      "label": {
+        "fr": "Que nous ne comprenions pas comment ne prouve pas que cela n'a pas lieu : notre modèle du choc n'est pas la mesure du possible.",
+        "en": "That we do not understand how does not prove it does not happen: our model of impact is not the measure of the possible."
+      },
+      "hints": [
+        {
+          "axisId": "CONSCIOUSNESS_NATURE",
+          "value": {
+            "kind": "weights",
+            "weights": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "weight": 0.5
+        }
+      ],
+      "discussion": {
+        "fr": "C'est la réponse de <ph id='descartes'>Descartes</ph> à Élisabeth : l'union de l'âme et du corps ne se comprend pas par l'entendement, mais s'éprouve à chaque instant.",
+        "en": "This is <ph id='descartes'>Descartes</ph>'s reply to Elisabeth: the union of soul and body is not grasped by the understanding, but undergone at every moment."
+      }
+    }
+  ],
+  "updatedAt": "2026-07-25T00:00:00.000Z"
+}

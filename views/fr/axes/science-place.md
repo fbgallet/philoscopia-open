@@ -58,6 +58,8 @@ La science est notre connaissance la plus rigoureuse, mais elle procède par con
 
 > « Sapere aude ! Aie le courage de te servir de ton propre entendement : telle est la devise des Lumières. » — [Kant](../philosophers/kant.md), Réponse à la question : Qu'est-ce que les Lumières ?
 
+> « Toute connaissance accessible doit être atteinte par des méthodes scientifiques ; et ce que la science ne peut découvrir, l'humanité ne peut le savoir. » — [Russell](../philosophers/russell.md), Science et religion (1935)
+
 ## Axes liés
 
 [Méthode scientifique](../axes/scientific-method.md) · [Foi et raison](../axes/faith-reason.md) · [Statut du savoir](../axes/knowledge-status.md) · [Le but de la philosophie](../axes/metaphilosophy.md) · [Statut des normes (métaéthique)](../axes/moral-scope.md) · [L'énigme de la conscience](../axes/consciousness-nature.md)

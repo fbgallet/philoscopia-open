@@ -1,20 +1,1425 @@
 {
   "kind": "PHILOSOPHER",
-  "stub": true,
   "id": "russell",
-  "name": { "fr": "Russell", "en": "Russell" },
+  "name": {
+    "fr": "Russell",
+    "en": "Russell"
+  },
+  "fullName": {
+    "fr": "Bertrand Russell",
+    "en": "Bertrand Russell"
+  },
+  "tagline": {
+    "fr": "L'analyse logique appliquée à tout, à la matière, à l'esprit, à Dieu, avec le refus de croire sans raison pour seule morale intellectuelle.",
+    "en": "Logical analysis turned on everything alike, on matter, on mind, on God, with one intellectual morality: never believe beyond your reasons."
+  },
   "aliases": {
-    "fr": ["russellien", "russellienne"],
-    "en": ["Russellian"]
+    "fr": [
+      "russellien",
+      "russellienne"
+    ],
+    "en": [
+      "Russellian"
+    ]
   },
   "summary": {
-    "fr": "Logicien et philosophe britannique : rationaliste et athée, il tient la croyance religieuse pour contraire à l'exigence de preuve et défend une morale sans Dieu.",
-    "en": "British logician and philosopher: a rationalist and atheist, he holds religious belief to run counter to the demand for evidence and defends a morality without God."
+    "fr": "Petit-fils d'un premier ministre britannique, Russell entre en philosophie par les mathématiques : les <w id='principia-mathematica-russell'>Principia Mathematica</w> (1910-1913), écrits avec <ph id='whitehead'>Whitehead</ph>, veulent dériver l'arithmétique de la logique seule, et le <pb>paradoxe</pb> qu'il découvre dans la théorie des ensembles ébranle l'entreprise autant qu'il la relance. De cette formation naît une manière : traiter chaque question philosophique comme un problème d'analyse, programme qu'il baptise en 1918 <c id='logical-atomism'>atomisme logique</c>, jusqu'à ce que <ph id='wittgenstein'>Wittgenstein</ph>, son élève à Cambridge, retourne la méthode contre lui. À côté de cette œuvre technique, qui le place avec <ph id='frege'>Frege</ph> et <ph id='moore'>Moore</ph> parmi les fondateurs de la <mv id='analytic-philosophy'>philosophie analytique</mv>, il mène une vie publique de polémiste : écarté de Trinity College en 1916 puis emprisonné en 1918 pour sa campagne contre la conscription, privé en 1940 d'une chaire au City College de New York pour ses écrits sur la morale sexuelle, prix Nobel de littérature en 1950, à nouveau en prison à quatre-vingt-neuf ans pour le désarmement nucléaire. Ses essais, écrits pour le grand public dans une prose d'une clarté rare, ont circulé bien plus largement que ses travaux techniques.",
+    "en": "Grandson of a British prime minister, Russell came to philosophy through mathematics: <w id='principia-mathematica-russell'>Principia Mathematica</w> (1910-1913), written with <ph id='whitehead'>Whitehead</ph>, sets out to derive arithmetic from logic alone, and the <pb>paradox</pb> he found in set theory shook the enterprise as much as it relaunched it. Out of that training came a manner: treating every philosophical question as a problem of analysis, a programme he named <c id='logical-atomism'>logical atomism</c> in 1918, until <ph id='wittgenstein'>Wittgenstein</ph>, his student at Cambridge, turned the method against him. Alongside this technical work, which places him with <ph id='frege'>Frege</ph> and <ph id='moore'>Moore</ph> among the founders of <mv id='analytic-philosophy'>analytic philosophy</mv>, he led a public life as a polemicist: removed from Trinity College in 1916 and then imprisoned in 1918 for his campaign against conscription, denied a chair at the City College of New York in 1940 for his writings on sexual morality, awarded the Nobel Prize in literature in 1950, and in prison again at eighty-nine for nuclear disarmament. His essays, written for the general reader in prose of rare clarity, have circulated far more widely than his technical work."
   },
-  "nationality": { "fr": "Britannique", "en": "British" },
+  "nationality": {
+    "fr": "Britannique",
+    "en": "British"
+  },
   "birth": 1872,
   "death": 1970,
-  "movements": ["analytic-philosophy"],
-  "updatedAt": "2026-07-03T00:00:00.000Z",
-  "validation": { "method": "NOT_VALIDATED" }
+  "movements": [
+    "analytic-philosophy"
+  ],
+  "structuring": [
+    {
+      "axisId": "METAPHILOSOPHY",
+      "thesis": {
+        "fr": "La philosophie n'a pas de méthode qui lui soit propre : elle est l'analyse logique de ce que nous disons, et elle doit progresser comme une science, par résultats partiels et corrigibles, non par systèmes.",
+        "en": "Philosophy has no method of its own: it is the logical analysis of what we say, and it must advance as a science does, by partial and correctable results, not by systems."
+      }
+    },
+    {
+      "axisId": "MEANING",
+      "thesis": {
+        "fr": "« Le roi de France est chauve » n'est pas absurde faute de roi : ce n'est pas un nom qui manque son objet, mais une affirmation d'existence, et elle est simplement fausse.",
+        "en": "'The king of France is bald' is not nonsense for want of a king: it is not a name missing its object, but a claim of existence, and it is simply false."
+      }
+    },
+    {
+      "axisId": "CONSCIOUSNESS_NATURE",
+      "thesis": {
+        "fr": "Ni la matière ni l'esprit ne sont au fond des choses : ce sont deux façons de grouper les mêmes événements, l'une par les lois de la physique, l'autre par celles de la psychologie.",
+        "en": "Neither matter nor mind lies at the bottom of things: they are two ways of grouping the same events, one by the laws of physics, the other by those of psychology."
+      }
+    },
+    {
+      "axisId": "CERTAINTY",
+      "thesis": {
+        "fr": "Il n'y a pas de socle : le savoir se gradue en degrés de créance, et une proposition tenue pour révisable n'en est pas moins un savoir.",
+        "en": "There is no bedrock: knowledge comes in degrees of credence, and a proposition held to be revisable is knowledge nonetheless."
+      }
+    },
+    {
+      "axisId": "SOVEREIGN_GOOD",
+      "thesis": {
+        "fr": "La vie bonne est inspirée par l'amour et guidée par la connaissance : ni l'une ni l'autre ne suffit, et rien d'autre n'est requis.",
+        "en": "The good life is inspired by love and guided by knowledge: neither suffices alone, and nothing else is required."
+      }
+    },
+    {
+      "axisId": "VIOLENCE",
+      "thesis": {
+        "fr": "Le pacifisme n'est pas un principe mais un calcul : presque aucune guerre ne vaut ce qu'elle coûte, et « presque » n'est pas « aucune ».",
+        "en": "Pacifism is not a principle but a calculation: almost no war is worth what it costs, and 'almost' is not 'none'."
+      }
+    }
+  ],
+  "entries": [
+    {
+      "axisId": "METAPHILOSOPHY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.4,
+          0.1,
+          0,
+          0.5
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Le modèle est pris à la logique : de même que l'analyse a fait de l'arithmétique un chapitre de la logique, elle doit défaire les problèmes philosophiques en propositions dont la forme est claire. Russell en tire une conséquence de méthode contre la tradition : <arg>un philosophe doit accepter de ne rien conclure sur le tout, et de ne produire que des résultats partiels, techniques, révisables</arg>, ce qu'il appelle une philosophie scientifique, opposée aux systèmes qui répondent d'un coup à toutes les questions. Il ne suit pourtant pas <ph id='wittgenstein'>Wittgenstein</ph> jusqu'à la thérapie : <dif>clarifier n'est pas renoncer à connaître le monde</dif>, et la valeur de la philosophie reste pour lui d'élargir la pensée au-delà du cercle des intérêts privés.",
+          "en": "The model is taken from logic: just as analysis made arithmetic a chapter of logic, it must break philosophical problems down into propositions whose form is clear. Russell draws a methodological consequence against the tradition: <arg>a philosopher must accept concluding nothing about the whole, and producing only partial, technical, revisable results</arg> — this is what he calls a scientific philosophy, opposed to systems that answer every question at one stroke. He does not, however, follow <ph id='wittgenstein'>Wittgenstein</ph> as far as therapy: <dif>to clarify is not to give up knowing the world</dif>, and the value of philosophy remains for him the enlargement of thought beyond the circle of private interests."
+        },
+        "references": [
+          {
+            "fr": "Notre connaissance du monde extérieur (1914), « De la méthode scientifique en philosophie »",
+            "en": "Our Knowledge of the External World (1914), \"On Scientific Method in Philosophy\""
+          },
+          {
+            "fr": "« L'atomisme logique » (1924)",
+            "en": "\"Logical Atomism\" (1924)"
+          },
+          {
+            "fr": "Problèmes de philosophie (1912), ch. XV",
+            "en": "The Problems of Philosophy (1912), ch. XV"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "MEANING",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.95,
+          0.05,
+          0
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Le problème n'est pas de trouver ce qu'un mot désigne, mais de comprendre qu'une expression peut avoir un rôle logique sans rien désigner du tout. En analysant « le roi de France » comme une <c id='definite-description'>description définie</c> qui se dissout en quantificateurs (il existe un x, un seul, qui règne sur la France, et cet x est chauve), Russell obtient trois gains d'un coup : les énoncés sur les objets inexistants deviennent faux plutôt qu'absurdes, la négation cesse d'être ambiguë, et l'ontologie se dégraisse sans qu'il faille peupler le monde d'entités subsistantes. <stk>Ce qui est en jeu est la confiance faite à la grammaire</stk> : la forme d'une phrase n'est pas la forme du fait qu'elle énonce.",
+          "en": "The problem is not to find what a word designates, but to see that an expression can have a logical role while designating nothing at all. By analysing 'the king of France' as a <c id='definite-description'>definite description</c> that dissolves into quantifiers — there is an x, exactly one, that reigns over France, and that x is bald — Russell secures three gains at once: statements about non-existent objects become false rather than nonsensical, negation stops being ambiguous, and the ontology slims down without having to people the world with subsisting entities. <stk>What is at stake is the trust placed in grammar</stk>: the form of a sentence is not the form of the fact it states."
+        },
+        "references": [
+          {
+            "fr": "« On Denoting », Mind (1905)",
+            "en": "\"On Denoting\", Mind (1905)"
+          },
+          {
+            "fr": "Introduction à la philosophie mathématique (1919), ch. XVI",
+            "en": "Introduction to Mathematical Philosophy (1919), ch. XVI"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "CERTAINTY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.35
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "La position est le résultat d'une défaite acceptée : Russell est venu à la philosophie pour trouver dans les mathématiques une certitude comparable à celle que d'autres cherchent dans la foi, et il a passé vingt ans à découvrir que même là le sol se dérobe : <pb>le paradoxe des ensembles qui porte son nom</pb> l'a contraint à des expédients techniques dont il n'a jamais été satisfait. De cet échec il tire non le scepticisme mais une règle de degré : <arg>on ne suspend pas son jugement, on gradue sa créance sur les raisons dont on dispose</arg>, et l'on tient toute proposition pour révisable sans cesser d'agir. Il refuse ainsi les deux camps hérités : la certitude fondatrice n'existe pas, mais l'égalité de force des thèses opposées n'existe pas davantage.",
+          "en": "The position is the outcome of an accepted defeat: Russell came to philosophy to find in mathematics a certainty like the one others seek in faith, and spent twenty years discovering that even there the ground gives way — <pb>the paradox of sets that bears his name</pb> forced on him technical expedients he was never satisfied with. From that failure he draws not scepticism but a rule of degree: <arg>one does not suspend judgment, one grades one's credence by the reasons available</arg>, holding every proposition revisable without ceasing to act. He thus refuses both inherited camps: there is no foundational certainty, but neither is there any equal balance of opposing theses."
+        },
+        "references": [
+          {
+            "fr": "La Connaissance humaine : sa portée et ses limites (1948)",
+            "en": "Human Knowledge: Its Scope and Limits (1948)"
+          },
+          {
+            "fr": "Portraits de mémoire (1956)",
+            "en": "Portraits from Memory (1956)"
+          }
+        ],
+        "quoteId": "toute-connaissance-humaine-est-incertaine-russell",
+        "argumentIds": [
+          "fallibilism-science"
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "EPISTEMIC_JUSTIFICATION",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.85,
+          0.15,
+          0
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Si toute connaissance du monde vient de l'expérience, il faut qu'il y ait des <c id='sense-data'>données</c> que l'on n'infère pas : Russell les appelle les données dures, ce qui résiste au maximum d'effort de doute, et il en construit par <c id='logical-construction'>construction logique</c> tout le reste, objets, autres esprits, passé. <dif>La difficulté est que ces données sont privées et instantanées</dif>, si bien que le monde public doit être reconstruit à grands frais. Russell l'admet et recule : en 1912 il tenait les données pour indubitables, tandis que <w id='human-knowledge-russell'>La Connaissance humaine</w> (1948) leur accorde une base seulement probable, ce qui affaiblit d'autant la fondation.",
+          "en": "If all knowledge of the world comes from experience, there must be <c id='sense-data'>data</c> that are not inferred: Russell calls them hard data, what resists the utmost effort of doubt, and out of them he builds everything else by <c id='logical-construction'>logical construction</c>: objects, other minds, the past. <dif>The difficulty is that these data are private and momentary</dif>, so that the public world has to be rebuilt at great cost. Russell admits this and retreats: in 1912 he held the data to be indubitable, whereas <w id='human-knowledge-russell'>Human Knowledge</w> (1948) grants them only a probable base, weakening the foundation by that much."
+        },
+        "references": [
+          {
+            "fr": "Notre connaissance du monde extérieur (1914), leçons III-IV",
+            "en": "Our Knowledge of the External World (1914), lectures III-IV"
+          },
+          {
+            "fr": "La Connaissance humaine (1948), partie II",
+            "en": "Human Knowledge (1948), part II"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "TRUTH_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.95,
+          0.05,
+          0
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Contre les deux rivales de son temps, Russell défend que la vérité d'une croyance ne tient ni à sa cohérence avec les autres ni à ses effets utiles, mais à une relation à quelque chose qui n'est pas une croyance. <arg>Une croyance est complexe, elle ordonne plusieurs termes ; elle est vraie s'il existe un <c>fait</c> qui les ordonne ainsi, fausse sinon</arg>. D'où deux conséquences qu'il assume : il faut des faits dans le monde, et la fausseté n'est pas un défaut de la pensée mais l'absence du fait correspondant. Il oppose à <ph id='william-james'>James</ph> qu'une croyance utile peut être fausse, et à la cohérence qu'un roman parfaitement cohérent n'est pas vrai pour autant.",
+          "en": "Against the two rivals of his day, Russell holds that the truth of a belief lies neither in its coherence with other beliefs nor in its useful effects, but in a relation to something that is not a belief. <arg>A belief is complex, it orders several terms; it is true if there exists a <c>fact</c> that orders them so, false otherwise</arg> — hence two consequences he accepts: there must be facts in the world, and falsehood is not a defect of thought but the absence of the corresponding fact. Against <ph id='william-james'>James</ph> he objects that a useful belief may be false, and against coherence that a perfectly coherent novel is not thereby true."
+        },
+        "references": [
+          {
+            "fr": "Problèmes de philosophie (1912), ch. XII",
+            "en": "The Problems of Philosophy (1912), ch. XII"
+          },
+          {
+            "fr": "« La conception de la vérité selon William James » (1908)",
+            "en": "\"William James's Conception of Truth\" (1908)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "UNIVERSALS",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.8
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "L'argument, formulé en 1911-1912, est un argument de régression, et il porte sur les relations plutôt que sur les qualités : <arg>si l'on veut expliquer que deux taches blanches sont blanches sans admettre la blancheur, on dira qu'elles se ressemblent, mais la ressemblance devra elle-même être une, et l'on aura admis un universel en croyant les avoir tous éliminés</arg>. Russell en tire un résultat inconfortable pour un empiriste : il y a des entités que nous ne rencontrons pas dans la sensation et que nous connaissons pourtant, ce qui lui interdit le <c id='nominalism'>nominalisme</c> et lui fait reconnaître à <ph id='plato'>Platon</ph> un mérite qu'il refuse au reste de sa métaphysique.",
+          "en": "The argument, formulated in 1911-1912, is one of regress, and it bears on relations rather than qualities: <arg>if you want to explain that two white patches are white without admitting whiteness, you will say that they resemble one another — but the resemblance will itself have to be one, and you will have admitted a universal while believing you had eliminated them all</arg>. Russell draws from this a result uncomfortable for an empiricist: there are entities we do not meet in sensation and yet know, which bars him from <c id='nominalism'>nominalism</c> and makes him grant <ph id='plato'>Plato</ph> a merit he denies the rest of his metaphysics."
+        },
+        "references": [
+          {
+            "fr": "Problèmes de philosophie (1912), ch. IX",
+            "en": "The Problems of Philosophy (1912), ch. IX"
+          },
+          {
+            "fr": "« On the Relations of Universals and Particulars » (1911)",
+            "en": "\"On the Relations of Universals and Particulars\" (1911)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "SCIENCE_PLACE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.75
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "La thèse est posée comme une limite, non comme un éloge : ce que la science ne peut découvrir, l'humanité ne peut pas le savoir, ce qui ne signifie pas que la science réponde à tout, mais qu'aucune autre voie ne donne de connaissance. <dif>Russell réserve aussitôt un domaine entier</dif> : les questions de valeur, qui ne relèvent ni du vrai ni du faux et sur lesquelles la science n'a rien à dire, ce qui le distingue d'un scientisme complet. La religion n'est pas écartée parce qu'elle consolerait mal, mais parce qu'elle prétend au savoir sans en avoir les moyens.",
+          "en": "The thesis is posed as a limit rather than a tribute: what science cannot discover, mankind cannot know — which does not mean that science answers everything, but that no other route yields knowledge. <dif>Russell immediately sets aside a whole domain</dif>: questions of value, which are neither true nor false and on which science has nothing to say, and this marks him off from a complete scientism. Religion is ruled out not because it consoles badly, but because it lays claim to knowledge without the means to it."
+        },
+        "references": [
+          {
+            "fr": "Science et religion (1935), ch. IX « Science et éthique »",
+            "en": "Religion and Science (1935), ch. IX \"Science and Ethics\""
+          },
+          {
+            "fr": "L'Impact de la science sur la société (1952)",
+            "en": "The Impact of Science on Society (1952)"
+          }
+        ],
+        "quoteId": "toute-connaissance-accessible-doit-etre-atteinte-russell",
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "KNOWLEDGE_STATUS",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.75
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "La physique est vraie, mais elle est vraie d'une manière très particulière : <arg>elle capte la structure des choses, c'est-à-dire l'ordre, les relations et les lois, sans nous livrer la nature intrinsèque de ce qui est ainsi ordonné</arg>. Russell tient donc les théories physiques pour de véritables descriptions du monde, et non pour des constructions sociales ou des instruments de calcul, tout en concédant qu'on ne connaît de l'électron rien de plus que sa place dans un réseau de relations. <stk>C'est là le prix de son réalisme</stk> : il porte sur la forme du réel et laisse son étoffe indéterminée, thèse que le <c id='structural-realism'>réalisme structural</c> contemporain reprend sous son nom.",
+          "en": "Physics is true, but true in a very particular way: <arg>it captures the structure of things — order, relations, laws — without delivering the intrinsic nature of what is thus ordered</arg>. Russell therefore takes physical theories to be genuine descriptions of the world, not social constructions or calculating instruments, while conceding that we know nothing of the electron beyond its place in a network of relations. <stk>This is the price of his realism</stk>: it bears on the form of the real and leaves its stuff undetermined, a thesis that contemporary <c id='structural-realism'>structural realism</c> takes up under his name."
+        },
+        "references": [
+          {
+            "fr": "L'Analyse de la matière (1927)",
+            "en": "The Analysis of Matter (1927)"
+          },
+          {
+            "fr": "La Connaissance humaine (1948), partie III",
+            "en": "Human Knowledge (1948), part III"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "SCIENTIFIC_METHOD",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.55,
+          0.05,
+          0.4
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Le problème est celui de l'<c id='induction'>induction</c>, et Russell refuse les deux échappatoires : on ne peut ni la justifier par l'expérience, ce qui serait circulaire, ni s'en passer, car sans elle la science ne dit rien du non-observé. <arg>Il faut donc l'admettre comme une famille de postulats sur la structure du monde (quasi-permanence, séparabilité des lignes causales, analogie) que l'expérience ne prouve pas mais sans lesquels elle ne prouverait rien</arg>. Ce que ces postulats produisent n'est jamais une certitude mais un <kw>degré de crédibilité</kw>, une probabilité que Russell traite comme la seule mesure honnête d'une croyance scientifique.",
+          "en": "The problem is that of <c id='induction'>induction</c>, and Russell refuses both ways out: it can neither be justified by experience, which would be circular, nor dispensed with, since without it science says nothing about the unobserved. <arg>It must therefore be admitted as a family of postulates about the structure of the world — quasi-permanence, the separability of causal lines, analogy — that experience does not prove but without which it would prove nothing</arg>. What these postulates yield is never certainty but a <kw>degree of credibility</kw>, a probability Russell treats as the only honest measure of a scientific belief."
+        },
+        "references": [
+          {
+            "fr": "La Connaissance humaine (1948), parties V-VI",
+            "en": "Human Knowledge (1948), parts V-VI"
+          },
+          {
+            "fr": "Problèmes de philosophie (1912), ch. VI",
+            "en": "The Problems of Philosophy (1912), ch. VI"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "TRUTH_VALUE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.9
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Russell ne défend pas la vérité au nom de son utilité : il admet volontiers qu'une illusion puisse rendre heureux, et refuse quand même de l'acheter à ce prix. <arg>Une croyance consolante acquise sans preuve corrompt l'instrument qui sert à toutes les autres questions</arg>, et la même complaisance qui fait accepter le paradis fait accepter la propagande. Il y ajoute un argument de dignité qu'il n'a cessé de reformuler : voir le monde tel qu'il est, sans finalité qui nous protège, est la seule <stk>liberté accessible à un être qui ne commande pas à l'univers</stk>.",
+          "en": "Russell does not defend truth on grounds of usefulness: he readily allows that an illusion may make one happy, and still refuses to buy it at that price. <arg>A consoling belief acquired without evidence corrupts the very instrument that serves every other question</arg>, and the same indulgence that makes paradise acceptable makes propaganda acceptable. To this he adds an argument from dignity he never stopped reformulating: to see the world as it is, with no purpose to shelter us, is the only <stk>freedom available to a being that does not command the universe</stk>."
+        },
+        "references": [
+          {
+            "fr": "« La profession de foi d'un homme libre » (1903), dans Mysticisme et logique, ch. III",
+            "en": "\"A Free Man's Worship\" (1903), in Mysticism and Logic, ch. III"
+          },
+          {
+            "fr": "Essais sceptiques (1928)",
+            "en": "Sceptical Essays (1928)"
+          },
+          {
+            "fr": "Pourquoi je ne suis pas chrétien (1927)",
+            "en": "Why I Am Not a Christian (1927)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "KNOWLEDGE_SOURCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.6
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Toute connaissance du monde repose en dernier ressort sur l'expérience, et Russell nomme <c id='knowledge-by-acquaintance'>connaissance par accointance</c> ce contact direct avec les données des sens, dont le reste n'est qu'un <c id='knowledge-by-acquaintance'>savoir par description</c>. Mais il n'est pas empiriste jusqu'au bout : <dif>la logique et les mathématiques ne s'apprennent pas de l'expérience</dif>, et ce sont elles qui donnent à l'analyse ses instruments. D'où une position mixte, un empirisme des faits armé d'un a priori formel.",
+          "en": "All knowledge of the world rests in the end on experience, and Russell calls <c id='knowledge-by-acquaintance'>knowledge by acquaintance</c> that direct contact with sense-data, of which the rest is only <c id='knowledge-by-acquaintance'>knowledge by description</c>. But he is not an empiricist all the way down: <dif>logic and mathematics are not learned from experience</dif>, and it is they that supply analysis with its instruments. Hence a mixed position, an empiricism of facts armed with a formal a priori."
+        },
+        "references": [
+          {
+            "fr": "Problèmes de philosophie (1912), ch. V",
+            "en": "The Problems of Philosophy (1912), ch. V"
+          },
+          {
+            "fr": "La Connaissance humaine : sa portée et ses limites (1948)",
+            "en": "Human Knowledge: Its Scope and Limits (1948)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "BELIEF_ETHICS",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.9
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Une seule règle, qu'il donne lui-même pour scandaleuse tant elle est simple : il n'est pas souhaitable de croire une proposition quand rien ne permet de la supposer vraie. Russell en fait moins une thèse d'épistémologie qu'une <stk>hygiène publique</stk>, l'habitude de proportionner sa confiance aux raisons étant à ses yeux ce qui protège des fanatismes.",
+          "en": "A single rule, which he himself offers as scandalous for being so simple: it is undesirable to believe a proposition when there is no ground whatever for supposing it true. Russell makes of it less a thesis in epistemology than a matter of <stk>public hygiene</stk>, the habit of proportioning one's confidence to the reasons being, in his eyes, what guards against fanaticisms."
+        },
+        "references": [
+          {
+            "fr": "Essais sceptiques (1928), « De la valeur du scepticisme »",
+            "en": "Sceptical Essays (1928), \"On the Value of Scepticism\""
+          }
+        ],
+        "quoteId": "il-n-est-pas-souhaitable-de-russell",
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "AFTERLIFE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0,
+          0,
+          1
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "L'argument est direct et empirique : <arg>tout ce que nous savons du caractère et de la mémoire les montre liés à l'organisation du cerveau, qui se défait à la mort ; rien n'autorise donc à penser que ce qui dépend ainsi d'une structure lui survive</arg>. Russell ne prétend pas démontrer l'impossibilité de la survie : il déplace la charge de la preuve, puis diagnostique le motif de la croyance contraire, qui n'est pas crue parce qu'on a des raisons de la croire mais parce que la mort fait peur, et l'explication d'un désir n'est pas une preuve. <stk>Ce qui disparaît est à ses yeux la personne elle-même</stk>, et l'admettre est la condition d'une vie sans mensonge.",
+          "en": "The argument is direct and empirical: <arg>everything we know of character and memory shows them bound to the organisation of the brain, which comes apart at death; nothing therefore licenses the thought that what depends on a structure in that way outlasts it</arg>. Russell does not claim to demonstrate that survival is impossible: he shifts the burden of proof, then diagnoses the motive for the contrary belief, which is held not because there are reasons for it but because death is frightening — and explaining a wish is not proving a thing. <stk>What disappears is, in his eyes, the person herself</stk>, and admitting it is the condition of a life without pretence."
+        },
+        "references": [
+          {
+            "fr": "« Survivons-nous à la mort ? » (1936)",
+            "en": "\"Do We Survive Death?\" (1936)"
+          },
+          {
+            "fr": "Pourquoi je ne suis pas chrétien (1927)",
+            "en": "Why I Am Not a Christian (1927)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "DEATH",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.85,
+          0.15,
+          0,
+          0
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Russell tient la crainte de la mort pour un mal à guérir, mais il n'emploie pas l'argument d'<ph id='epicurus'>Épicure</ph>, selon lequel elle n'est rien pour nous puisque nous n'y serons pas. <arg>Il propose un déplacement d'attention : à mesure qu'une vie s'étend, ses intérêts doivent porter sur des choses qui la dépassent, jusqu'à ce que la disparition du moi cesse d'être ce qui compte le plus</arg>. La recommandation est graduelle et pratique plutôt que métaphysique, et elle rejoint son remède contre le malheur ordinaire, l'<ax id='INTERIORITY'>élargissement des intérêts</ax>. <dif>Il ne va pourtant pas jusqu'à faire de la mort le révélateur de l'existence</dif> : il en tire une règle de conduite pour la vieillesse, non une structure de l'être.",
+          "en": "Russell takes the fear of death to be an ill to be cured, but he does not use <ph id='epicurus'>Epicurus</ph>'s argument that death is nothing to us since we shall not be there for it. <arg>He proposes a shift of attention: as a life lengthens, its interests should bear on things that outlast it, until the disappearance of the self stops being what matters most</arg>. The recommendation is gradual and practical rather than metaphysical, and it rejoins his cure for ordinary unhappiness, the <ax id='INTERIORITY'>widening of interests</ax>. <dif>He does not, however, go so far as to make death the revealer of existence</dif>: he draws from it a rule of conduct for old age, not a structure of being."
+        },
+        "references": [
+          {
+            "fr": "Portraits de mémoire (1956), « Comment vieillir »",
+            "en": "Portraits from Memory (1956), \"How to Grow Old\""
+          },
+          {
+            "fr": "La Conquête du bonheur (1930)",
+            "en": "The Conquest of Happiness (1930)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "LIFE_MEANING",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0,
+          0.8,
+          0.2,
+          0
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Le point de départ est un constat qu'il tient pour établi par les sciences : l'homme est le produit de causes qui n'avaient aucune prévision de leur résultat, et rien dans l'univers ne prescrit de fin. <arg>Mais de ce que le monde n'ait pas de but il ne suit pas qu'une vie n'en ait pas : les fins sont créées par des êtres qui en ont, et elles ne perdent rien à n'être pas garanties du dehors</arg>. Russell refuse donc les deux consolations symétriques, la providence et le désespoir : <dif>l'absence de sens cosmique laisse intactes l'affection, la connaissance et la beauté</dif>, qui sont des biens sans avoir besoin d'être des devoirs de l'univers.",
+          "en": "The starting point is a fact he takes the sciences to have established: man is the product of causes that had no foresight of their result, and nothing in the universe prescribes an end. <arg>But from the world's having no purpose it does not follow that a life has none: ends are created by beings that have them, and they lose nothing by not being underwritten from outside</arg>. Russell therefore refuses the two symmetrical consolations, providence and despair: <dif>the absence of cosmic meaning leaves affection, knowledge and beauty untouched</dif>, and these are goods without needing to be duties of the universe."
+        },
+        "references": [
+          {
+            "fr": "« La profession de foi d'un homme libre » (1903), dans Mysticisme et logique, ch. III",
+            "en": "\"A Free Man's Worship\" (1903), in Mysticism and Logic, ch. III"
+          },
+          {
+            "fr": "Ce que je crois (1925)",
+            "en": "What I Believe (1925)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "COSMIC_OUTLOOK",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.75
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Le monde décrit par la physique est indifférent, non hostile : il ignore ce que nous valorisons, et le peu que nous sommes y est provisoire. Russell tient ce tableau pour une conséquence du savoir et non pour une humeur, et il en tire une conclusion inhabituelle : <arg>reconnaître que l'univers ne nous doit rien est ce qui permet de cesser de lui demander quelque chose</arg>. <dif>Il n'en conclut pourtant pas au pessimisme de <ph id='schopenhauer'>Schopenhauer</ph></dif> : la valeur d'une vie humaine ne dépend pas de la tonalité du réel.",
+          "en": "The world physics describes is indifferent, not hostile: it takes no notice of what we value, and the little that we are is provisional in it. Russell takes this picture to be a consequence of knowledge rather than a mood, and draws an unusual conclusion from it: <arg>recognising that the universe owes us nothing is what allows us to stop asking it for something</arg>. <dif>He does not, however, conclude to <ph id='schopenhauer'>Schopenhauer</ph>'s pessimism</dif>: the worth of a human life does not depend on the tonality of the real."
+        },
+        "references": [
+          {
+            "fr": "« La profession de foi d'un homme libre » (1903), dans Mysticisme et logique, ch. III",
+            "en": "\"A Free Man's Worship\" (1903), in Mysticism and Logic, ch. III"
+          },
+          {
+            "fr": "Science et religion (1935)",
+            "en": "Religion and Science (1935)"
+          },
+          {
+            "fr": "Ce que je crois (1925)",
+            "en": "What I Believe (1925)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "SUFFERING_MEANING",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.7
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Russell refuse de créditer la souffrance d'aucune fécondité : <arg>elle n'apprend rien qu'on ne pût apprendre autrement, et la doctrine qui la dit formatrice sert surtout à excuser ceux qui l'infligent ou tolèrent qu'on l'inflige</arg>. La conséquence est politique autant que morale, puisqu'elle fait de la réduction de la douleur, par la médecine, l'instruction et la réforme sociale, un objectif sans contrepartie spirituelle. <dif>Il a lui-même donné prise au camp inverse</dif> : son essai de 1903 confère au tragique une noblesse dont il a rétrospectivement jugé le style trop rhétorique.",
+          "en": "Russell refuses to credit suffering with any fruitfulness: <arg>it teaches nothing that could not be learned otherwise, and the doctrine that calls it formative serves mainly to excuse those who inflict it or tolerate its infliction</arg>. The consequence is political as much as moral, since it makes the reduction of pain, through medicine, education and social reform, an aim with no spiritual counterweight. <dif>He gave the opposite camp a handhold himself</dif>: his 1903 essay lends the tragic a nobility whose style he later judged too rhetorical."
+        },
+        "references": [
+          {
+            "fr": "Ce que je crois (1925)",
+            "en": "What I Believe (1925)"
+          },
+          {
+            "fr": "La Conquête du bonheur (1930)",
+            "en": "The Conquest of Happiness (1930)"
+          },
+          {
+            "fr": "Autobiographie (1967-1969), t. I",
+            "en": "The Autobiography of Bertrand Russell (1967-1969), vol. I"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "SELF_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0,
+          0.25,
+          0,
+          0.75
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Russell a d'abord admis, en 1912, qu'on pouvait avoir <c id='knowledge-by-acquaintance'>connaissance par accointance</c> d'un sujet, puis il a retiré cette concession en 1921 : quand on cherche le moi dans l'expérience, on ne trouve que des expériences. <arg>Une personne est alors une série d'événements liés par des lois, au premier rang la <c id='mnemic-causation'>causalité mnésique</c> (le fait qu'un souvenir présent dépende d'un événement passé de cette série et d'aucune autre), et non le porteur substantiel de ces événements</arg>. <stk>L'enjeu est d'économie autant que d'observation</stk> : si les lois suffisent à constituer l'unité d'une vie, un sujet supplémentaire ne fait rien.",
+          "en": "Russell first allowed, in 1912, that one might have <c id='knowledge-by-acquaintance'>knowledge by acquaintance</c> of a subject, then withdrew the concession in 1921: when you look for the self in experience, all you find is experiences. <arg>A person is then a series of events bound by laws — chief among them <c id='mnemic-causation'>mnemic causation</c>, the fact that a present memory depends on a past event of this series and of no other — and not the substantial bearer of those events</arg>. <stk>The stake is economy as much as observation</stk>: if the laws suffice to constitute the unity of a life, an additional subject does no work."
+        },
+        "references": [
+          {
+            "fr": "L'Analyse de l'esprit (1921), leçons I et IX",
+            "en": "The Analysis of Mind (1921), lectures I and IX"
+          },
+          {
+            "fr": "Problèmes de philosophie (1912), ch. V",
+            "en": "The Problems of Philosophy (1912), ch. V"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "DESIRE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.5,
+          0.45,
+          0.05
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Russell renverse la question du bonheur : le malheur ordinaire ne vient pas de désirs trop nombreux mais de désirs trop tournés vers soi, et le remède est l'élargissement, non la réduction. <arg>Plus une personne a d'intérêts impersonnels (un métier, une science, un jardin, une cause), plus les échecs qui la frappent sont amortis, parce qu'ils ne l'atteignent jamais tout entière</arg>. C'est pourquoi <w id='conquest-of-happiness-russell'>La Conquête du bonheur</w> refuse à la fois l'ascèse, qui traite le désir comme une maladie, et l'excitation continue, qui l'épuise : le tri qu'il propose porte non sur l'intensité des désirs mais sur leur <kw>direction</kw>.",
+          "en": "Russell turns the question of happiness around: ordinary unhappiness comes not from having too many desires but from desires turned too much toward oneself, and the cure is enlargement, not reduction. <arg>The more impersonal interests a person has — a trade, a science, a garden, a cause — the more the failures that strike are cushioned, because they never reach the whole of her at once</arg>. This is why <w id='conquest-of-happiness-russell'>The Conquest of Happiness</w> refuses both asceticism, which treats desire as a disease, and continuous excitement, which exhausts it: the sorting he proposes bears not on the intensity of desires but on their <kw>direction</kw>."
+        },
+        "references": [
+          {
+            "fr": "La Conquête du bonheur (1930), ch. XI et XV",
+            "en": "The Conquest of Happiness (1930), ch. XI and XV"
+          },
+          {
+            "fr": "Ce que je crois (1925)",
+            "en": "What I Believe (1925)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "SOVEREIGN_GOOD",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.35,
+          0.6,
+          0.05
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "La formule est construite pour tenir les deux moitiés que les morales séparent d'ordinaire. <arg>L'amour seul est aveugle, car l'affection qui ignore comment agir nuit à ce qu'elle veut protéger ; la connaissance seule est inerte, car elle donne des moyens sans donner de fin</arg>. Russell en tire une conséquence contre le moralisme : ce qui manque le plus aux hommes n'est pas la volonté d'être bons mais l'information et l'affection, et l'on améliore davantage la conduite en instruisant et en rendant heureux qu'en blâmant. <dif>Le bien lui-même reste pourtant sans fondement objectif</dif> à ses yeux, ce qui laisse la vie bonne sans autre autorité que le désir de ceux qui la choisissent.",
+          "en": "The formula is built to hold together the two halves that moralities usually keep apart. <arg>Love alone is blind — affection that does not know how to act harms what it means to protect — and knowledge alone is inert, since it supplies means without supplying an end</arg>. Russell draws a consequence against moralism: what men most lack is not the will to be good but information and affection, and conduct is improved more by instructing and by making people happy than by blaming them. <dif>The good itself, however, remains for him without objective foundation</dif>, which leaves the good life no authority beyond the desire of those who choose it."
+        },
+        "references": [
+          {
+            "fr": "Ce que je crois (1925), ch. II",
+            "en": "What I Believe (1925), ch. II"
+          },
+          {
+            "fr": "La Conquête du bonheur (1930)",
+            "en": "The Conquest of Happiness (1930)"
+          }
+        ],
+        "quoteId": "la-vie-bonne-est-une-russell",
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "BODILY_PLEASURES",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.6
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "L'argument est historique et thérapeutique plus qu'hédoniste : <arg>la doctrine qui fait du plaisir sexuel un péché a produit une quantité de honte, d'ignorance et de cruauté qu'aucun bien n'équilibre</arg>, et le premier devoir en cette matière est de retirer aux enfants la peur qu'on leur a transmise. <w id='marriage-and-morals-russell'>Le Mariage et la morale</w> demande donc qu'on juge les conduites sexuelles par leurs effets sur les partenaires et sur les enfants, et non par une pureté. Ces positions lui ont coûté en 1940 une nomination au City College de New York, annulée par décision de justice avant son entrée en fonction. <dif>Il ne prêche pourtant pas la licence</dif> : c'est l'affection durable, et non la seule sensation, qui reste à ses yeux le bien en jeu.",
+          "en": "The argument is historical and therapeutic rather than hedonist: <arg>the doctrine that makes sexual pleasure a sin has produced an amount of shame, ignorance and cruelty that no good outweighs</arg>, and the first duty here is to take from children the fear that has been passed on to them. <w id='marriage-and-morals-russell'>Marriage and Morals</w> therefore asks that sexual conduct be judged by its effects on the partners and on the children, and not by a standard of purity. These positions cost him, in 1940, an appointment at the City College of New York, annulled by court order before he could take it up. <dif>He does not, however, preach licence</dif>: it is lasting affection, not sensation alone, that remains for him the good at stake."
+        },
+        "references": [
+          {
+            "fr": "Le Mariage et la morale (1929)",
+            "en": "Marriage and Morals (1929)"
+          },
+          {
+            "fr": "De l'éducation (1926)",
+            "en": "On Education (1926)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "INTERIORITY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.6
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "L'examen de soi est ici traité comme une cause de malheur plutôt que comme une voie de sagesse : <arg>celui qui s'observe sans cesse reste enfermé dans un objet trop petit et trop connu pour le nourrir : le pécheur qui compte ses fautes, le narcissique qui guette son effet, le mégalomane qui mesure son pouvoir</arg>. Russell recommande donc de porter l'attention au-dehors, non par mépris de la vie intérieure, mais parce qu'il tient l'intérêt pour la seule source d'énergie disponible. <dif>Son œuvre est pourtant elle-même un examen de soi intellectuel continu</dif> : ce qu'il condamne est la rumination sur sa personne, non la vigilance sur ses croyances.",
+          "en": "Self-examination is treated here as a cause of unhappiness rather than a road to wisdom: <arg>whoever watches himself without pause — the sinner counting his faults, the narcissist checking his effect, the megalomaniac measuring his power — stays shut inside an object too small and too familiar to nourish him</arg>. Russell therefore recommends turning attention outward, not out of contempt for the inner life, but because he takes interest to be the only available source of energy. <dif>His own work is nonetheless a continuous intellectual self-examination</dif>: what he condemns is brooding over oneself, not vigilance over one's beliefs."
+        },
+        "references": [
+          {
+            "fr": "La Conquête du bonheur (1930), ch. I et XV",
+            "en": "The Conquest of Happiness (1930), ch. I and XV"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "EMOTIONS",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.25
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "La thèse est nette et Russell la répète : <arg>la raison ne choisit jamais les fins, elle ne calcule que les moyens d'atteindre celles qu'on a déjà ; ce sont les désirs qui fixent ce vers quoi l'on va</arg>. Il en tire une conséquence qui l'embarrasse, puisqu'elle prive ses propres combats de fondement rationnel, et une conséquence pratique dont il fait tout un livre : si les fins viennent du sentiment, éduquer les affections importe plus que raisonner juste. <dif>Il n'est donc ni intellectualiste ni sentimentaliste au sens strict</dif> : la raison garde toute autorité sur les moyens et n'en a aucune sur les fins.",
+          "en": "The thesis is sharp and Russell repeats it: <arg>reason never chooses ends, it only calculates the means of reaching those one already has; it is desires that fix what one goes toward</arg>. He draws from this one consequence that embarrasses him, since it strips his own campaigns of any rational ground, and one practical consequence he makes a whole book of: if ends come from feeling, then educating the affections matters more than reasoning correctly. <dif>He is thus neither an intellectualist nor a sentimentalist in the strict sense</dif>: reason keeps full authority over means and has none over ends."
+        },
+        "references": [
+          {
+            "fr": "L'Éthique et la politique dans la société humaine (1954)",
+            "en": "Human Society in Ethics and Politics (1954)"
+          },
+          {
+            "fr": "La Conquête du bonheur (1930)",
+            "en": "The Conquest of Happiness (1930)"
+          },
+          {
+            "fr": "Science et religion (1935), ch. IX",
+            "en": "Religion and Science (1935), ch. IX"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "CONSCIOUSNESS_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0,
+          0,
+          0.9,
+          0.1,
+          0
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Russell refuse les deux camps hérités : ni la matière ni l'esprit ne sont fondamentaux, tous deux sont construits à partir d'une même <c>étoffe neutre</c>, faite d'événements que l'on peut grouper selon les lois de la physique ou selon celles de la psychologie. Il y ajoute une remarque qui a fait fortune : <arg>la physique ne nous livre que la structure des choses, jamais leur nature intrinsèque</arg>, et la seule portion du monde que nous connaissions autrement que par sa structure est notre propre expérience, qui est justement ce qui se passe dans un cerveau. On appelle depuis <c id='neutral-monism'>monisme russellien</c> la famille de positions qui logent le vécu dans cette place laissée vide, <dif>au prix d'un glissement</dif> : Russell, qui adopte le monisme neutre en 1921 après l'avoir longtemps combattu, tient l'étoffe pour neutre, c'est-à-dire pour ni mentale ni physique, là où plusieurs de ses héritiers la peuplent de propriétés expérientielles qu'il refusait.",
+          "en": "Russell refuses both inherited camps: neither matter nor mind is fundamental, both are built out of one and the same <c>neutral stuff</c>, made of events that can be grouped by the laws of physics or by those of psychology. To this he adds a remark that has since prospered: <arg>physics gives us only the structure of things, never their intrinsic nature</arg>, and the one portion of the world we know otherwise than by its structure is our own experience, which is precisely what goes on in a brain. The family of positions that lodge experience in that vacant place has since been called <c id='neutral-monism'>Russellian monism</c>, <dif>at the cost of a slippage</dif>: Russell, who adopted neutral monism in 1921 after long opposing it, holds the stuff to be neutral, that is, neither mental nor physical, where several of his heirs people it with the experiential properties he refused."
+        },
+        "references": [
+          {
+            "fr": "L'Analyse de l'esprit (1921)",
+            "en": "The Analysis of Mind (1921)"
+          },
+          {
+            "fr": "L'Analyse de la matière (1927)",
+            "en": "The Analysis of Matter (1927)"
+          }
+        ],
+        "argumentIds": [
+          "panpsychism-intrinsic-nature"
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "ETHICS_FOUNDATION",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.85,
+          0,
+          0.15,
+          0
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Russell garde toute sa vie la forme conséquentialiste : une action se juge par ce qu'elle produit. <arg>Contre le déontologisme, il soutient que les règles absolues sont des généralisations utiles devenues rigides, et qu'invoquer un devoir sans regarder les effets revient à préférer sa propre pureté au sort d'autrui</arg>, argument qu'il applique à la guerre, à la sexualité et à la peine. Sa description de la vie bonne par des dispositions (affection, curiosité, zeste) le rapproche pourtant d'une éthique du caractère. <dif>Le désaccord qui l'occupe est ailleurs</dif> : il conserve ce critère du juste alors qu'il a cessé, dans les années 1930, de croire que le bien qu'il maximise soit un fait, si bien que la forme de sa morale a survécu à son fondement.",
+          "en": "Russell keeps the consequentialist form all his life: an action is judged by what it produces. <arg>Against deontologism, he argues that absolute rules are useful generalisations gone rigid, and that invoking a duty without looking at effects amounts to preferring one's own purity to the fate of others</arg> — an argument he applies to war, to sexuality and to punishment. His description of the good life in terms of dispositions (affection, curiosity, zest) nonetheless brings him close to an ethics of character. <dif>The disagreement that occupies him lies elsewhere</dif>: he keeps this criterion of the right after ceasing, in the 1930s, to believe that the good it maximises is a fact, so that the form of his morality outlived its foundation."
+        },
+        "references": [
+          {
+            "fr": "« Les éléments de l'éthique » (1910)",
+            "en": "\"The Elements of Ethics\" (1910)"
+          },
+          {
+            "fr": "L'Éthique et la politique dans la société humaine (1954)",
+            "en": "Human Society in Ethics and Politics (1954)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "MORAL_SCOPE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.25,
+          0.65,
+          0.1
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "note": {
+        "fr": "Aucun des trois pôles ne recouvre exactement sa position. Son subjectivisme n'est pas un relativisme culturel, puisqu'il juge sans hésiter les mœurs des autres époques, mais il refuse toute norme objective, ce qui l'écarte de l'universalisme. Le poids porté par le relativisme mesure ce refus, non une thèse sur la variété des coutumes.",
+        "en": "None of the three poles covers his position exactly. His subjectivism is not a cultural relativism — he judges the mores of other ages without hesitation — but he refuses every objective norm, which sets him apart from universalism. The weight carried by relativism measures that refusal, not a thesis about the variety of customs."
+      },
+      "justification": {
+        "text": {
+          "fr": "Après avoir admis avec <ph id='moore'>Moore</ph> que le bien est une qualité objective, Russell s'est convaincu du contraire : <arg>un désaccord moral ne se règle par aucune observation ni aucun calcul, et un énoncé de valeur, à la différence d'un énoncé de fait, n'exclut rien de ce qui pourrait arriver ; il exprime donc un désir, non une propriété du monde</arg>. Il refuse pourtant de s'en satisfaire, et le dit publiquement : <dif>il tient sa propre conclusion pour irréfutable et pour incroyable à la fois</dif>. <stk>L'enjeu est la portée de ses propres combats</stk> : condamner une guerre au nom d'un désir n'a pas la même force qu'au nom d'une vérité, et Russell a vécu cette difficulté sans la résoudre.",
+          "en": "Having granted with <ph id='moore'>Moore</ph> that goodness is an objective quality, Russell talked himself out of it: <arg>a moral disagreement is settled by no observation and no calculation, and a statement of value, unlike a statement of fact, rules out nothing that might happen; it therefore expresses a desire, not a property of the world</arg>. He refuses, however, to be satisfied with this, and says so publicly: <dif>he holds his own conclusion to be at once irrefutable and unbelievable</dif>. <stk>What is at stake is the reach of his own campaigns</stk>: to condemn a war in the name of a desire does not carry the force of condemning it in the name of a truth, and Russell lived with the difficulty without resolving it."
+        },
+        "references": [
+          {
+            "fr": "Science et religion (1935), ch. IX",
+            "en": "Religion and Science (1935), ch. IX"
+          },
+          {
+            "fr": "« Reply to Criticisms », dans The Philosophy of Bertrand Russell (1944)",
+            "en": "\"Reply to Criticisms\", in The Philosophy of Bertrand Russell (1944)"
+          },
+          {
+            "fr": "L'Éthique et la politique dans la société humaine (1954)",
+            "en": "Human Society in Ethics and Politics (1954)"
+          }
+        ],
+        "quoteId": "je-ne-vois-pas-comment-russell",
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "MORAL_RESPONSIBILITY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0,
+          0.85,
+          0.15
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Si les actions ont des causes, la notion de mérite s'effondre, et avec elle celle de péché : <arg>on ne peut pas à la fois expliquer une conduite par l'hérédité, l'éducation et les circonstances, et prétendre que son auteur la méritait</arg>. Russell en tire non l'abandon de toute réaction mais le changement de son objet : ce qui reste légitime est de modifier les causes (instruire, soigner, empêcher), et ce qui tombe est le désir de faire souffrir en retour, qu'il tient pour la racine la plus durable de la cruauté humaine. <dif>Il conserve pourtant le blâme comme outil</dif>, ce qui l'arrête avant l'abolition complète de l'imputation.",
+          "en": "If actions have causes, the notion of desert collapses, and with it that of sin: <arg>one cannot both explain a piece of conduct by heredity, upbringing and circumstance, and maintain that its author deserved it</arg>. Russell draws from this not the abandonment of all reaction but a change in its object: what remains legitimate is to modify the causes — to instruct, to treat, to prevent — and what falls away is the wish to inflict suffering in return, which he takes to be the most durable root of human cruelty. <dif>He keeps blame as a tool, however</dif>, which stops him short of abolishing imputation altogether."
+        },
+        "references": [
+          {
+            "fr": "« Les éléments de l'éthique » (1910), § « Déterminisme et morale »",
+            "en": "\"The Elements of Ethics\" (1910), § \"Determinism and Morals\""
+          },
+          {
+            "fr": "« La religion a-t-elle contribué utilement à la civilisation ? » (1930)",
+            "en": "\"Has Religion Made Useful Contributions to Civilisation?\" (1930)"
+          },
+          {
+            "fr": "Essais sceptiques (1928)",
+            "en": "Sceptical Essays (1928)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "VIOLENCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.65,
+          0.35,
+          0,
+          0
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Russell ne condamne pas la guerre comme intrinsèquement mauvaise, ce qui serait déjà admettre une règle absolue ; il la condamne parce que le bilan en est presque toujours désastreux, y compris pour le vainqueur. <arg>Il trie donc les guerres par leur type (colonisation, prestige, principe, défense) et montre que seules quelques-unes, très rares, passent l'épreuve du calcul</arg>. Cette structure explique ses revirements apparents : il a fait de la prison en 1918 pour s'être opposé à une guerre qu'il jugeait sans enjeu, et soutenu celle de 1939 parce que la victoire d'Hitler lui paraissait le seul mal pire ; <dif>le même calcul l'a conduit vers 1948 à des déclarations où il envisageait de menacer l'URSS d'une guerre pour lui imposer le contrôle international de l'arme atomique</dif>, propos dont la portée exacte reste discutée, qu'il a d'abord niés avant de les reconnaître et de les regretter.",
+          "en": "Russell does not condemn war as intrinsically evil, which would already be to admit an absolute rule; he condemns it because the reckoning is almost always disastrous, for the victor included. <arg>He therefore sorts wars by type — colonisation, prestige, principle, self-defence — and shows that only a very few pass the test of the calculation</arg>. This structure explains his apparent reversals: he went to prison in 1918 for opposing a war he judged to be about nothing, and supported the war of 1939 because a victory for Hitler seemed to him the only worse evil; <dif>the same calculation led him around 1948 to remarks contemplating a threat of war against the USSR to force international control of the atomic bomb upon it</dif>, remarks whose exact import remains disputed, and which he first denied before acknowledging and regretting them."
+        },
+        "references": [
+          {
+            "fr": "« L'éthique de la guerre » (1915)",
+            "en": "\"The Ethics of War\" (1915)"
+          },
+          {
+            "fr": "Justice in War-Time (1916)",
+            "en": "Justice in War-Time (1916)"
+          },
+          {
+            "fr": "Autobiographie (1967-1969), t. II-III",
+            "en": "The Autobiography of Bertrand Russell (1967-1969), vols. II-III"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "POLITICAL_OBLIGATION",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0,
+          0.9,
+          0.1
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "La désobéissance n'est pour Russell ni un droit de la conscience ni une révolte, mais un moyen d'information dans une démocratie : <arg>quand une décision engage la survie de tous et que les canaux ordinaires ne parviennent pas à faire entendre ce qui est en jeu, enfreindre publiquement la loi et en subir la peine est l'un des rares actes assez visibles pour forcer l'attention</arg>. Deux conditions y sont attachées, la publicité de l'acte et l'acceptation de la sanction, qui la distinguent de la fraude. Il l'a pratiquée deux fois, à quarante-six ans contre la conscription et à quatre-vingt-neuf pour le désarmement.",
+          "en": "Disobedience is for Russell neither a right of conscience nor a revolt, but a means of information within a democracy: <arg>when a decision puts everyone's survival at stake and the ordinary channels fail to get what is at stake heard, breaking the law publicly and taking the penalty is one of the few acts visible enough to force attention</arg>. Two conditions attach to it — the publicity of the act and the acceptance of the penalty — which distinguish it from fraud. He practised it twice, at forty-six against conscription and at eighty-nine for disarmament."
+        },
+        "references": [
+          {
+            "fr": "« Civil Disobedience and the Threat of Nuclear Warfare » (1961)",
+            "en": "\"Civil Disobedience and the Threat of Nuclear Warfare\" (1961)"
+          },
+          {
+            "fr": "Autobiographie (1967-1969), t. II-III",
+            "en": "The Autobiography of Bertrand Russell (1967-1969), vols. II-III"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "AUTHORITY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.35
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Russell pose le problème comme un dosage et non comme un choix de camp : <pb>il faut assez d'autorité pour que la coopération soit possible et assez peu pour que l'initiative reste vivante</pb>, et aucune formule générale ne fixe le point d'équilibre. <arg>Sa raison de pencher du côté de la liberté est psychologique : ce que produit une société vient d'individus, et les institutions qui absorbent l'initiative tarissent la source de ce qu'elles voulaient organiser</arg>. Il a examiné l'anarchisme avec sympathie et l'a écarté comme impraticable, tout en réclamant par ailleurs un gouvernement mondial : <dif>le maximum d'autorité concevable, requis pour la seule fin qui le justifie à ses yeux</dif>, empêcher la guerre.",
+          "en": "Russell frames the problem as a dosage rather than a choice of camp: <pb>there must be enough authority for cooperation to be possible and little enough for initiative to stay alive</pb>, and no general formula fixes the point of balance. <arg>His reason for leaning toward liberty is psychological: what a society produces comes from individuals, and institutions that absorb initiative dry up the source of what they meant to organise</arg>. He examined anarchism with sympathy and set it aside as impracticable, while calling elsewhere for a world government: <dif>the greatest conceivable authority, required for the one end that justifies it in his eyes</dif>, the prevention of war."
+        },
+        "references": [
+          {
+            "fr": "Autorité et individu (1949)",
+            "en": "Authority and the Individual (1949)"
+          },
+          {
+            "fr": "Proposed Roads to Freedom (1918)",
+            "en": "Proposed Roads to Freedom (1918)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "DISTRIBUTIVE_JUSTICE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.6
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "La proposition est concrète et antérieure d'un siècle à sa mode : <arg>un revenu modeste mais suffisant pour les nécessités doit être garanti à chacun, qu'il travaille ou non, un supplément étant accordé au travail que la communauté juge utile</arg>. Russell la tire moins de l'égalité comme valeur que de la liberté comme condition : celui qui doit accepter n'importe quel emploi pour manger n'est pas libre, et le socialisme ne vaut à ses yeux que s'il augmente ce pouvoir de refuser. <dif>Il refuse pour la même raison l'égalisation autoritaire</dif> : une bureaucratie qui distribue tout devient le seul employeur, donc le seul maître.",
+          "en": "The proposal is concrete, and a century ahead of its vogue: <arg>a modest income, sufficient for necessities, should be secured to everyone whether they work or not, with a supplement granted for work the community judges useful</arg>. Russell derives it less from equality as a value than from liberty as a condition: whoever must take any job at all in order to eat is not free, and socialism is worth having, in his eyes, only if it enlarges that power to refuse. <dif>For the same reason he rejects authoritarian levelling</dif>: a bureaucracy that distributes everything becomes the sole employer, and so the sole master."
+        },
+        "references": [
+          {
+            "fr": "Proposed Roads to Freedom (1918), ch. IV",
+            "en": "Proposed Roads to Freedom (1918), ch. IV"
+          },
+          {
+            "fr": "Autorité et individu (1949)",
+            "en": "Authority and the Individual (1949)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "INDIVIDUAL_SOCIETY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.75
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "L'argument n'est pas un droit de l'individu mais une observation sur la provenance du bien : <arg>tout ce qui vaut dans une civilisation, qu'il s'agisse d'une découverte, d'une œuvre ou d'une réforme, est apparu d'abord dans une tête, souvent contre l'avis commun ; une société n'a donc pas d'autre moyen de progresser que de tolérer ceux qui la contredisent</arg>. Russell en tire une hostilité constante aux collectifs qui se pensent comme des sujets (l'État, la nation, la classe) et une méfiance envers l'unanimité, qu'il diagnostique comme un phénomène de troupeau plutôt que comme un accord. <stk>Ce qui est en jeu est la source même de l'innovation</stk>, autant que la liberté de qui la produit.",
+          "en": "The argument is not a right of the individual but an observation about where the good comes from: <arg>everything of worth in a civilisation — a discovery, a work, a reform — appeared first in one head, often against common opinion; a society therefore has no other way of improving than to tolerate those who contradict it</arg>. Russell draws from this a constant hostility toward collectives that think of themselves as subjects — the state, the nation, the class — and a distrust of unanimity, which he diagnoses as a herd phenomenon rather than an agreement. <stk>What is at stake is the very source of innovation</stk>, as much as the freedom of whoever produces it."
+        },
+        "references": [
+          {
+            "fr": "Autorité et individu (1949)",
+            "en": "Authority and the Individual (1949)"
+          },
+          {
+            "fr": "Principes de reconstruction sociale (1916)",
+            "en": "Principles of Social Reconstruction (1916)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "CONSERVATISM_PROGRESSISM",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.7
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Sur l'éducation, le mariage, la peine et la religion, Russell a défendu chaque fois le changement contre la coutume, en soutenant que la plupart des interdits reçus protègent l'habitude et non les personnes. <dif>Il n'accorde pourtant rien au progrès comme loi de l'histoire</dif> : <arg>la puissance technique croît, la sagesse qui devrait la gouverner ne croît pas avec elle, et rien ne garantit que la première n'emporte pas la seconde</arg>. Son progressisme est un programme, pas une prévision.",
+          "en": "On education, marriage, punishment and religion, Russell defended change against custom every time, arguing that most inherited prohibitions protect the habit rather than the persons. <dif>He grants nothing, however, to progress as a law of history</dif>: <arg>technical power grows, the wisdom that should govern it does not grow with it, and nothing guarantees that the first will not carry off the second</arg>. His progressism is a programme, not a forecast."
+        },
+        "references": [
+          {
+            "fr": "Icare ou l'avenir de la science (1924)",
+            "en": "Icarus, or the Future of Science (1924)"
+          },
+          {
+            "fr": "De l'éducation (1926)",
+            "en": "On Education (1926)"
+          },
+          {
+            "fr": "L'Impact de la science sur la société (1952)",
+            "en": "The Impact of Science on Society (1952)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "BELONGING",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.85
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Le cosmopolitisme de Russell ne se déduit pas d'une fraternité mais d'un fait technique : <arg>à partir du moment où une puissance peut détruire l'espèce entière, l'unité politique dans laquelle la sécurité peut être organisée n'est plus la nation mais la planète</arg>, et un gouvernement mondial devient moins une utopie qu'une condition de survie. Il traite en conséquence le sentiment national comme la loyauté la plus dangereuse de son temps, non parce qu'elle serait basse, mais parce qu'elle mobilise des vertus réelles, courage et dévouement, au service d'une division devenue mortelle.",
+          "en": "Russell's cosmopolitanism is not deduced from any brotherhood but from a technical fact: <arg>once one power can destroy the whole species, the political unit within which security can be organised is no longer the nation but the planet</arg>, and a world government becomes less a utopia than a condition of survival. He accordingly treats national feeling as the most dangerous loyalty of his time — not because it is base, but because it enlists real virtues, courage and devotion, in the service of a division that has become lethal."
+        },
+        "references": [
+          {
+            "fr": "Manifeste Russell-Einstein (1955)",
+            "en": "Russell-Einstein Manifesto (1955)"
+          },
+          {
+            "fr": "« Le péril où se trouve l'homme » (1954)",
+            "en": "\"Man's Peril\" (1954)"
+          },
+          {
+            "fr": "L'Impact de la science sur la société (1952)",
+            "en": "The Impact of Science on Society (1952)"
+          }
+        ],
+        "quoteId": "souvenez-vous-de-votre-humanite-russell",
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "GOD_EXISTENCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.7
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Aucune des preuves classiques ne résiste à l'examen, et <arg>la <kw>charge de la preuve</kw> revient à celui qui affirme, non à celui qui doute</arg> : c'est le sens de <te>sa théière en orbite</te>, un objet trop petit pour être détecté et dont nul ne pourrait réfuter l'existence, sans que personne soit tenu d'y croire. Russell distingue toutefois ses publics : devant un auditoire philosophique il se dit agnostique, car l'inexistence de Dieu ne se démontre pas plus que celle des dieux de l'Olympe ; devant le grand public, athée, puisqu'en pratique il ne tient pas la question pour ouverte.",
+          "en": "None of the classical proofs survives examination, and <arg>the <kw>burden of proof</kw> lies with whoever asserts, not with whoever doubts</arg>: such is the point of <te>his orbiting teapot</te>, an object too small to be detected and whose existence no one could refute, without anyone being bound to believe in it. Russell distinguishes his audiences, though: before a philosophical one he calls himself an agnostic, since God's non-existence can no more be demonstrated than that of the Olympian gods; before a general one, an atheist, since in practice he does not treat the question as open."
+        },
+        "references": [
+          {
+            "fr": "« Pourquoi je ne suis pas chrétien » (1927)",
+            "en": "\"Why I Am Not a Christian\" (1927)"
+          },
+          {
+            "fr": "« Suis-je athée ou agnostique ? » (1947)",
+            "en": "\"Am I an Atheist or an Agnostic?\" (1947)"
+          },
+          {
+            "fr": "« Y a-t-il un Dieu ? » (1952)",
+            "en": "\"Is There a God?\" (1952)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "FAITH_REASON",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0,
+          0,
+          0.95,
+          0.05
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Le conflit n'est pas pour Russell un malentendu qu'un partage des territoires pourrait dissiper : <arg>la religion fait des affirmations sur ce qui existe (un créateur, une âme, des miracles), et dès qu'elle en fait, elle entre en concurrence avec la science sur son propre terrain, où elle a, selon lui, perdu chaque bataille livrée</arg>. <w id='religion-and-science-russell'>Science et religion</w> retrace ces défaites une à une, de la place de la Terre à l'âge du monde, pour montrer que le repli sur des vérités « d'un autre ordre » vient toujours après la défaite et jamais avant. <dif>Une seule concession subsiste</dif> : les questions de valeur échappent à la science, mais elles échappent aussi à la religion, qui n'y a aucune autorité particulière.",
+          "en": "The conflict is not for Russell a misunderstanding that a division of territories could clear up: <arg>religion makes claims about what exists — a creator, a soul, miracles — and as soon as it does, it competes with science on science's own ground, where, on his account, it has lost every battle it has fought</arg>. <w id='religion-and-science-russell'>Religion and Science</w> retraces those defeats one by one, from the place of the Earth to the age of the world, to show that the retreat to truths 'of another order' always comes after the defeat and never before. <dif>One concession remains</dif>: questions of value fall outside science, but they fall outside religion too, which has no particular authority over them."
+        },
+        "references": [
+          {
+            "fr": "Science et religion (1935)",
+            "en": "Religion and Science (1935)"
+          },
+          {
+            "fr": "Pourquoi je ne suis pas chrétien (1927)",
+            "en": "Why I Am Not a Christian (1927)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "TRANSCENDENCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.7
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Russell traite le sentiment mystique comme un fait important et comme une source de valeur, tout en lui refusant la moindre autorité cognitive : <arg>l'émotion d'unité avec le tout peut transformer une vie, mais rien en elle ne permet de distinguer une révélation d'une illusion</arg>. Il reconnaît l'avoir éprouvée, ce qui donne à sa position son tranchant : ce n'est pas un sceptique qui n'a rien senti. <dif>Le sacré ne réside donc nulle part au-delà de la nature</dif>, ce qui n'empêche pas l'amour, la contemplation et la connaissance impersonnelle d'avoir la valeur que d'autres cherchent dans la transcendance.",
+          "en": "Russell treats the mystical feeling as an important fact and as a source of value, while denying it the least cognitive authority: <arg>the emotion of union with the whole can transform a life, but nothing within it lets one tell a revelation from an illusion</arg>. He acknowledges having felt it, which is what gives his position its edge: this is not a sceptic who has felt nothing. <dif>The sacred therefore resides nowhere beyond nature</dif>, which does not stop love, contemplation and impersonal knowledge from having the worth others seek in transcendence."
+        },
+        "references": [
+          {
+            "fr": "« Mysticisme et logique » (1914), essai-titre du recueil de 1918",
+            "en": "\"Mysticism and Logic\" (1914), the title essay of the 1918 collection"
+          },
+          {
+            "fr": "« La profession de foi d'un homme libre » (1903), dans Mysticisme et logique, ch. III",
+            "en": "\"A Free Man's Worship\" (1903), in Mysticism and Logic, ch. III"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "REALITY_NATURE",
+      "status": "REJECTS_ALTERNATIVE",
+      "note": {
+        "fr": "Russell rejette la question telle que l'axe la pose : l'étoffe du monde n'est ni mentale ni matérielle, et le débat entre matérialisme et idéalisme repose à ses yeux sur une dichotomie que l'analyse dissout. Les événements dont il compose le monde deviennent « matière » ou « esprit » selon les lois qui les groupent, si bien qu'aucun des trois pôles ne peut recevoir sa position : elle est portée par <ax id='CONSCIOUSNESS_NATURE' pole='DUAL_ASPECT'>l'énigme de la conscience</ax>. Voir L'Analyse de l'esprit (1921) et L'Analyse de la matière (1927).",
+        "en": "Russell rejects the question as the axis poses it: the stuff of the world is neither mental nor material, and the debate between materialism and idealism rests, in his view, on a dichotomy that analysis dissolves. The events out of which he composes the world become 'matter' or 'mind' according to the laws that group them, so that none of the three poles can take his position: it is carried by <ax id='CONSCIOUSNESS_NATURE' pole='DUAL_ASPECT'>the enigma of consciousness</ax>. See The Analysis of Mind (1921) and The Analysis of Matter (1927)."
+      }
+    },
+    {
+      "axisId": "TECHNOLOGY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.25
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Écrit en réponse au <w>Dédale</w> de <per>Haldane</per>, qui promettait le bonheur par la biologie, <w id='icarus-russell'>Icare</w> renverse l'image : la science donne du pouvoir, et le pouvoir sert les fins qu'ont déjà ceux qui le reçoivent. <arg>Une technique nouvelle n'améliore donc rien par elle-même ; elle amplifie, et si les passions dominantes sont la rivalité et la domination, elle les rend simplement plus efficaces</arg>. Russell reste partisan de la science et refuse le retour en arrière : ce qu'il demande n'est pas moins de puissance mais un changement des fins, ce qui fait de lui un instrumentaliste inquiet plutôt qu'un techno-critique.",
+          "en": "Written in reply to <per>Haldane</per>'s <w>Daedalus</w>, which promised happiness through biology, <w id='icarus-russell'>Icarus</w> turns the image around: science confers power, and power serves the ends already held by those who receive it. <arg>A new technique therefore improves nothing by itself; it amplifies, and if the dominant passions are rivalry and domination, it simply makes them more efficient</arg>. Russell remains a partisan of science and refuses any turning back: what he asks for is not less power but a change of ends, which makes him an uneasy instrumentalist rather than a critic of technology."
+        },
+        "references": [
+          {
+            "fr": "Icare ou l'avenir de la science (1924)",
+            "en": "Icarus, or the Future of Science (1924)"
+          },
+          {
+            "fr": "La Perspective scientifique (1931)",
+            "en": "The Scientific Outlook (1931)"
+          },
+          {
+            "fr": "L'Impact de la science sur la société (1952)",
+            "en": "The Impact of Science on Society (1952)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "WORK_MEANING",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.15,
+          0.2,
+          0.65
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "L'argument est arithmétique avant d'être moral : <arg>la technique moderne a beaucoup réduit le travail nécessaire à la subsistance de tous, et ce gain a été employé non à libérer du temps mais à produire davantage, en entretenant le chômage d'une partie pendant que l'autre s'épuise</arg>. <w id='in-praise-of-idleness-russell'>Éloge de l'oisiveté</w> propose de le convertir en heures, quatre par jour suffiraient selon lui, et défend le loisir comme la condition de tout ce qui a jamais été fait de bon : la science, l'art, l'affection, la conversation. <stk>Ce qu'il attaque est une morale</stk>, le devoir de travailler, qu'il analyse comme un legs des sociétés où le loisir d'une minorité reposait sur le travail forcé de la majorité.",
+          "en": "The argument is arithmetical before it is moral: <arg>modern technique has greatly reduced the work needed to keep everyone alive, and that gain has gone not into freeing time but into producing more, sustaining the unemployment of some while the others wear themselves out</arg>. <w id='in-praise-of-idleness-russell'>In Praise of Idleness</w> proposes converting it into hours — four a day would do — and defends leisure as the condition of everything good that has ever been done: science, art, affection, conversation. <stk>What he attacks is a morality</stk>, the duty to work, which he analyses as a legacy of societies where the leisure of a minority rested on the forced labour of the majority."
+        },
+        "references": [
+          {
+            "fr": "Éloge de l'oisiveté (1932)",
+            "en": "In Praise of Idleness (1932)"
+          },
+          {
+            "fr": "Proposed Roads to Freedom (1918)",
+            "en": "Proposed Roads to Freedom (1918)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "HUMAN_VISION",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.15
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Russell refuse de juger l'homme bon ou mauvais et propose de le décrire par ses <c id='creative-and-possessive-impulses'>impulsions</c>, qu'il partage en deux familles : les possessives, qui portent sur des biens qu'un seul peut avoir, et les créatrices, qui portent sur des biens qu'on ne perd pas en les partageant : savoir, art, affection. <arg>Aucune des deux n'est plus naturelle que l'autre ; ce sont les institutions qui décident laquelle grandit</arg>, et une politique se juge à celle qu'elle nourrit. De là une plasticité sans optimisme : l'homme n'est ni corrompu ni sauvé par la société, il est <kw>façonné</kw>, et rien n'assure que ce soit dans le bon sens.",
+          "en": "Russell refuses to judge human beings good or bad and proposes to describe them by their <c id='creative-and-possessive-impulses'>impulses</c>, which he divides into two families: the possessive, bearing on goods only one person can have, and the creative, bearing on goods that are not lost by being shared — knowledge, art, affection. <arg>Neither is more natural than the other; institutions decide which one grows</arg>, and a politics is judged by the one it feeds. Hence a plasticity without optimism: human beings are neither corrupted nor saved by society, they are <kw>shaped</kw>, and nothing guarantees it will be for the better."
+        },
+        "references": [
+          {
+            "fr": "Principes de reconstruction sociale (1916), ch. I",
+            "en": "Principles of Social Reconstruction (1916), ch. I"
+          },
+          {
+            "fr": "Autorité et individu (1949)",
+            "en": "Authority and the Individual (1949)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "FUTURE_GENERATIONS",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.85
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "La menace nucléaire fait apparaître pour Russell une obligation qui n'avait jamais eu d'objet : <arg>ce qui est en jeu n'est plus l'intérêt d'un camp mais l'existence de l'espèce, et devant une telle mise il n'y a plus de calcul politique recevable</arg>. Il en tire une règle d'argumentation qu'il applique jusqu'à sa mort : dans un débat sur les armes atomiques, il faut d'abord obtenir de l'adversaire qu'il se pense comme membre de l'espèce et non comme partisan. <stk>On y reconnaît, par anticipation, une responsabilité envers ce qui n'existe pas encore</stk>, que <ph id='jonas'>Jonas</ph> systématisera plus de vingt ans plus tard en principe, sans que Russell en ait donné la théorie.",
+          "en": "The nuclear threat brings into view, for Russell, an obligation that had never had an object: <arg>what is at stake is no longer the interest of one camp but the existence of the species, and against a stake of that size no political calculation is admissible</arg>. From this he draws a rule of argument he applied to the end of his life: in a debate about atomic weapons, one must first get one's opponent to think of himself as a member of the species and not as a partisan. <stk>One recognises here, by anticipation, a responsibility toward what does not yet exist</stk>, which <ph id='jonas'>Jonas</ph> would systematise into a principle more than twenty years later, though Russell never gave it a theory."
+        },
+        "references": [
+          {
+            "fr": "Manifeste Russell-Einstein (1955)",
+            "en": "Russell-Einstein Manifesto (1955)"
+          },
+          {
+            "fr": "« Le péril où se trouve l'homme » (1954)",
+            "en": "\"Man's Peril\" (1954)"
+          },
+          {
+            "fr": "Common Sense and Nuclear Warfare (1959)",
+            "en": "Common Sense and Nuclear Warfare (1959)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "REDUCTION_EMERGENCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.85
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "La règle de méthode est explicite, et Russell la tient pour la maxime suprême du travail philosophique : <arg>partout où c'est possible, substituer des <c id='logical-construction'>constructions</c> à partir d'entités connues aux inférences vers des entités inconnues</arg>. Elle est réductionniste par économie plus que par matérialisme : un point de l'espace, un instant, un objet physique, une personne, un nombre deviennent des classes ou des séries d'éléments déjà admis, et ce qui ne peut être construit ainsi doit être suspecté. <dif>La réduction visée est logique et non physique</dif> : Russell ne ramène pas l'esprit à la matière, il ramène l'un et l'autre à des groupements d'événements.",
+          "en": "The rule of method is explicit, and Russell holds it to be the supreme maxim of philosophical work: <arg>wherever possible, substitute <c id='logical-construction'>constructions</c> out of known entities for inferences to unknown entities</arg>. It is reductionist out of economy rather than materialism: a point of space, an instant, a physical object, a person, a number all become classes or series of already admitted elements, and whatever cannot be built that way is to be suspected. <dif>The reduction aimed at is logical, not physical</dif>: Russell does not reduce mind to matter, he reduces both to groupings of events."
+        },
+        "references": [
+          {
+            "fr": "« L'atomisme logique » (1924)",
+            "en": "\"Logical Atomism\" (1924)"
+          },
+          {
+            "fr": "Notre connaissance du monde extérieur (1914)",
+            "en": "Our Knowledge of the External World (1914)"
+          },
+          {
+            "fr": "Introduction à la philosophie mathématique (1919)",
+            "en": "Introduction to Mathematical Philosophy (1919)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "BEING_BECOMING",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.5
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le monde de Russell est fait d'<kw>événements</kw> et non de choses qui durent : la substance, ce sujet permanent supposé porter des propriétés changeantes, est à ses yeux une erreur héritée de la grammaire, dont l'analyse se passe en définissant un objet comme une <c id='logical-construction'>série d'événements</c>. <dif>Ce n'est pourtant pas une philosophie du flux</dif> : il a consacré à <ph id='bergson'>Bergson</ph> une critique célèbre où il soutient que faire de la durée vécue l'accès privilégié au réel confond une intuition avec un argument. <stk>L'enjeu est de savoir ce que l'abandon de la substance oblige à admettre</stk> : pour Russell des événements et des lois, pas un devenir créateur.",
+          "en": "Russell's world is made of <kw>events</kw> rather than of things that last: substance, that permanent subject supposed to bear changing properties, is in his eyes an error inherited from grammar, which analysis dispenses with by defining an object as a <c id='logical-construction'>series of events</c>. <dif>This is not a philosophy of flux, however</dif>: he devoted a famous critique to <ph id='bergson'>Bergson</ph>, arguing that making lived duration the privileged access to the real mistakes an intuition for an argument. <stk>What is at stake is what abandoning substance obliges one to admit</stk>: for Russell, events and laws, not a creative becoming."
+        },
+        "references": [
+          {
+            "fr": "L'Analyse de l'esprit (1921)",
+            "en": "The Analysis of Mind (1921)"
+          },
+          {
+            "fr": "L'Analyse de la matière (1927)",
+            "en": "The Analysis of Matter (1927)"
+          },
+          {
+            "fr": "« La philosophie de Bergson » (1912)",
+            "en": "\"The Philosophy of Bergson\" (1912)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "CAUSALITY",
+      "status": "REJECTS_ALTERNATIVE",
+      "note": {
+        "fr": "Russell ne prend pas parti dans l'alternative que l'axe propose, il la dissout : ce qu'il attaque est la notion même de cause, non l'un de ses usages. <arg>Les sciences avancées n'énoncent nulle part qu'un événement A produit un événement B, elles écrivent des équations où des grandeurs varient ensemble, sans que l'une soit l'agent de l'autre</arg> ; la loi de causalité est donc un vestige, utile au sens commun mais absent de la physique qu'il prend pour modèle. Il partage avec le mécanisme le refus des causes finales et de tout principe vital, mais il va plus loin en remplaçant la cause par la <kw>dépendance fonctionnelle</kw>, si bien qu'aucun des trois pôles ne peut recevoir sa position. Voir « De la notion de cause » (1913), repris au chapitre IX de <w id='mysticism-and-logic-russell'>Mysticisme et logique</w>, ainsi que Notre connaissance du monde extérieur (1914, leçon VIII) et L'Analyse de la matière (1927).",
+        "en": "Russell takes no side in the alternative the axis offers, he dissolves it: what he attacks is the notion of cause itself, not one of its uses. <arg>Advanced sciences nowhere state that an event A produces an event B; they write equations in which magnitudes vary together, with neither acting as the agent of the other</arg>. The law of causality is therefore a relic, useful to common sense but absent from the physics he takes as his model. He shares with mechanism the refusal of final causes and of any vital principle, but he goes further by replacing the cause with <kw>functional dependence</kw>, so that none of the three poles can take his position. See \"On the Notion of Cause\" (1913), reprinted as chapter IX of <w id='mysticism-and-logic-russell'>Mysticism and Logic</w>, together with Our Knowledge of the External World (1914, lecture VIII) and The Analysis of Matter (1927)."
+      }
+    }
+  ],
+  "identity": {
+    "wikidata": "Q33760",
+    "wikipedia": {
+      "fr": "https://fr.wikipedia.org/wiki/Bertrand_Russell",
+      "en": "https://en.wikipedia.org/wiki/Bertrand_Russell"
+    }
+  },
+  "updatedAt": "2026-07-25T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
 }

@@ -33,6 +33,10 @@ The world is neither rational nor benevolent: suffering, conflict and meaningles
 - *[Tonality of reality](../axes/cosmic-outlook.md) : Tragic thought* grounds *[Relation to desire](../axes/desire.md) : Extinction and detachment* : If existence is woven of lack and suffering, and to want is to expose oneself endlessly to loss, then wisdom lies not in fulfilling desires but in releasing them. A tragic view of the world, from [Buddhism](../movements/buddhism.md) to Schopenhauer, grounds detachment: to dry up the thirst rather than chase what escapes.
 - *[Tonality of reality](../axes/cosmic-outlook.md) : Tragic thought* grounds *[Hope](../axes/hope.md) : Lucidity without hope* : If the world is neither rational nor benevolent and no final harmony will redeem suffering, then to hope is to lie to oneself. Tragic thought grounds lucidity without hope: [Camus](../philosophers/camus.md) holds lucid revolt, without consolation, to be worthier than hope, and finds in it a form of freedom.
 
+## Tensions
+
+- With [Tradition and transformation](../axes/conservatism-progressism.md) : Holding that the universe is indifferent to what we value, that nothing in it prescribes an end and that the little we are is provisional there, and then expecting knowledge and reform to bring a real improvement in the human lot, puts a reading of reality and a commitment in tension: if no direction is inscribed in things, nothing guarantees the effort will tell, and progress stops being a slope and becomes a wager. There are ways of holding both, and it is indeed the position of several consistent atheists: saying that the world's indifference is precisely what makes reform necessary rather than superfluous, or distinguishing cosmic hope, which has no object, from historical hope, which has one. But it has to be said, on pain of letting activism borrow from providence the confidence one has denied it.
+
 ## Quotations
 
 > “It follows from the supreme perfection of God that in producing the universe he chose the best possible plan.” — [Leibniz](../philosophers/leibniz.md), Monadology, §55; Theodicy

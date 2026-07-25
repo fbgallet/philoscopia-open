@@ -20,6 +20,21 @@
 - [L'objection d'auto-réfutation](skepticism-self-refutation.md) (contre « Scepticisme »)
 - [Le succès de la connaissance](skepticism-success-objection.md) (contre « Scepticisme »)
 
+## [L'énigme de la conscience](../axes/consciousness-nature.md)
+
+- [L'argument de l'introspection trompeuse](illusionism-introspection-misleads.md) (pour « Illusionnisme »)
+- [L'objection du paraître](illusionism-seeming-is-experience-objection.md) (contre « Illusionnisme »)
+- [Le problème de la combinaison](panpsychism-combination-objection.md) (contre « Monisme à double aspect »)
+- [L'argument de la nature intrinsèque](panpsychism-intrinsic-nature.md) (pour « Monisme à double aspect »)
+- [L'argument de l'efficacité mentale](physicalism-causal-exclusion.md) (pour « Physicalisme »)
+- [L'objection de l'écart explicatif](physicalism-explanatory-gap-objection.md) (contre « Physicalisme »)
+- [L'objection de la conception et du possible](property-dualism-conceivability-objection.md) (contre « Dualisme des propriétés »)
+- [L'objection du vécu inutile](property-dualism-epiphenomenon-objection.md) (contre « Dualisme des propriétés »)
+- [L'argument du problème difficile](property-dualism-hard-problem.md) (pour « Dualisme des propriétés »)
+- [L'objection du cerveau divisé](substance-dualism-divided-mind-objection.md) (contre « Dualisme des substances »)
+- [L'argument de l'indivisibilité de l'esprit](substance-dualism-indivisible-subject.md) (pour « Dualisme des substances »)
+- [L'objection d'Élisabeth de Bohême](substance-dualism-interaction-objection.md) (contre « Dualisme des substances »)
+
 ## [Périmètre d'action](../axes/control-scope.md)
 
 - [La citadelle intérieure](control-dichotomy-inner-sovereignty.md) (pour « Ce qui dépend de nous »)
@@ -126,6 +141,15 @@
 - [Le remède supprime le malade](renunciation-negates-life-objection.md) (contre « Renoncement »)
 - [Un sens qu'on se donne n'oblige pas](teleology-found-not-made.md) (pour « Téléologie-providence »)
 - [Le monde ne répond pas](teleology-silent-world-objection.md) (contre « Téléologie-providence »)
+
+## [Une machine peut-elle penser](../axes/machine-mind.md)
+
+- [L'objection du peuple-cerveau](functionalism-china-brain-objection.md) (contre « Peu importe le support »)
+- [L'argument de la réalisabilité multiple](functionalism-multiple-realizability.md) (pour « Peu importe le support »)
+- [L'argument de la syntaxe et du sens](machine-median-syntax-not-semantics.md) (pour « Pas par simple programme »)
+- [La réponse des systèmes](machine-median-systems-reply-objection.md) (contre « Pas par simple programme »)
+- [L'objection du privilège de la chair](only-life-thinks-carbon-chauvinism-objection.md) (contre « Seul le vivant pense »)
+- [L'argument du souci](only-life-thinks-nothing-matters-to-it.md) (pour « Seul le vivant pense »)
 
 ## [Le but de la philosophie](../axes/metaphilosophy.md)
 

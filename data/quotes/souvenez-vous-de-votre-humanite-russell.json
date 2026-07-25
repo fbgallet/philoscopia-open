@@ -1,0 +1,21 @@
+{
+  "id": "souvenez-vous-de-votre-humanite-russell",
+  "text": {
+    "fr": "Souvenez-vous de votre humanité, et oubliez le reste.",
+    "en": "Remember your humanity, and forget the rest."
+  },
+  "author": { "name": { "fr": "Russell", "en": "Russell" }, "kind": "PHILOSOPHER", "slug": "russell" },
+  "source": {
+    "fr": "Manifeste Russell-Einstein (1955), appel final",
+    "en": "Russell-Einstein Manifesto (1955), closing appeal"
+  },
+  "anchors": [
+    { "axisId": "FUTURE_GENERATIONS", "poleId": "RESPONSIBILITY_PRINCIPLE" },
+    { "axisId": "BELONGING", "poleId": "COSMOPOLITANISM" }
+  ],
+  "context": {
+    "fr": "Le manifeste, signé par onze savants deux mois avant la mort d'Einstein, demande aux gouvernements de renoncer à la guerre. La phrase conclut un appel adressé, écrit Russell, « en tant qu'êtres humains à des êtres humains ».",
+    "en": "The manifesto, signed by eleven scientists two months before Einstein's death, asks governments to renounce war. The sentence closes an appeal addressed, Russell writes, \"as human beings, to human beings\"."
+  },
+  "updatedAt": "2026-07-25T00:00:00.000Z"
+}

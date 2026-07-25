@@ -1,0 +1,147 @@
+{
+  "id": "substance-dualism-divided-mind-objection",
+  "kind": "OBJECTS",
+  "position": {
+    "axisId": "CONSCIOUSNESS_NATURE",
+    "poleId": "SUBSTANCE_DUALISM"
+  },
+  "name": {
+    "fr": "L'objection du cerveau divisé",
+    "en": "The divided-brain objection"
+  },
+  "claim": {
+    "fr": "L'unité que le dualisme prend pour la marque d'une substance simple se défait quand on sectionne un cerveau.",
+    "en": "The unity dualism takes for the mark of a simple substance comes apart when a brain is severed."
+  },
+  "summary": {
+    "fr": "Le sentiment d'être un pourrait n'être que l'effet d'un cerveau intact : coupé, il se dédouble.",
+    "en": "The sense of being one may be no more than the effect of an intact brain: severed, it doubles."
+  },
+  "development": [
+    {
+      "fr": "L'argument repose entièrement sur une prémisse : ce qui pense ne se laisse pas partager. Si elle tombe, la distinction entre l'esprit indivisible et le corps divisible tombe avec elle.",
+      "en": "The argument rests entirely on one premise: what thinks cannot be parted. If it falls, the distinction between the indivisible mind and the divisible body falls with it."
+    },
+    {
+      "fr": "Or on a sectionné, chez des patients épileptiques, le faisceau qui relie les deux hémisphères, ce qu'on appelle un <kw>cerveau divisé</kw>. Ils vivent ensuite normalement ; mais dans certaines épreuves, une main désigne ce que le sujet affirme ne pas voir, et il invente aussitôt une raison à ce geste. Un même cerveau semble alors abriter deux flux d'expérience qui s'ignorent.",
+      "en": "Yet in epileptic patients the bundle joining the two hemispheres has been severed, producing what is called a <kw>split brain</kw>. They live normally afterwards; but in certain tests one hand points to what the subject declares not to see, and he at once invents a reason for the gesture. One and the same brain then seems to host two streams of experience that ignore each other."
+    },
+    {
+      "fr": "Le sentiment d'être un ne prouve donc pas qu'on ait affaire à une substance simple : il peut être le produit d'une communication réussie entre des parties, et il se défait quand cette communication est coupée.",
+      "en": "The sense of being one therefore does not prove one is dealing with a simple substance: it may be the product of successful communication between parts, and it comes apart when that communication is cut."
+    },
+    {
+      "fr": "Bien avant ces opérations, la vie mentale montrait ses coutures : ce qui admet des degrés (le sommeil, l'ivresse, la démence), ce qui se dissocie, ce qui se construit par étapes chez l'enfant, ressemble à un assemblage plutôt qu'à un indivisible, et rejoint la question de l'<c id='personal-identity'>identité personnelle</c>.",
+      "en": "Long before such operations, mental life showed its seams: what admits of degrees (sleep, drunkenness, dementia), what dissociates, what is built up in stages in a child, resembles an assembly rather than something indivisible, and joins the question of <c id='personal-identity'>personal identity</c>."
+    }
+  ],
+  "conclusion": {
+    "fr": "L'indivisibilité de l'esprit n'est pas une donnée : c'est une apparence produite par un cerveau intact. La prémisse décisive de l'argument tombe.",
+    "en": "The mind's indivisibility is not a given: it is an appearance produced by an intact brain. The argument's decisive premise falls."
+  },
+  "difficulty": 2,
+  "source": {
+    "author": {
+      "fr": "Derek Parfit",
+      "en": "Derek Parfit"
+    },
+    "figures": [
+      {
+        "name": {
+          "fr": "Parfit",
+          "en": "Parfit"
+        },
+        "kind": "PHILOSOPHER",
+        "slug": "parfit"
+      }
+    ],
+    "work": {
+      "fr": "Reasons and Persons, § 87 (« Divided Minds »)",
+      "en": "Reasons and Persons, § 87 (\"Divided Minds\")"
+    },
+    "year": 1984
+  },
+  "attacks": "REASONING",
+  "targets": [
+    "substance-dualism-indivisible-subject"
+  ],
+  "problems": [
+    "what-holds-experience-together"
+  ],
+  "responses": [
+    {
+      "id": "unity-is-made",
+      "label": {
+        "fr": "Si l'unité du sujet se fabrique et se coupe, c'est bien qu'elle tient au cerveau : il n'y a pas de substance simple à sauver.",
+        "en": "If the subject's unity is manufactured and can be cut, it does depend on the brain: there is no simple substance to save."
+      },
+      "hints": [
+        {
+          "axisId": "CONSCIOUSNESS_NATURE",
+          "value": {
+            "kind": "weights",
+            "weights": [
+              0,
+              0,
+              0,
+              1,
+              0
+            ]
+          },
+          "weight": 2
+        }
+      ]
+    },
+    {
+      "id": "not-unity-but-feel",
+      "label": {
+        "fr": "Ce qui résiste n'est pas l'indivisibilité, c'est qu'il y ait quelque chose à ressentir : deux flux d'expérience restent deux expériences.",
+        "en": "What resists is not indivisibility but that there is something to feel at all: two streams of experience are still two experiences."
+      },
+      "hints": [
+        {
+          "axisId": "CONSCIOUSNESS_NATURE",
+          "value": {
+            "kind": "weights",
+            "weights": [
+              0,
+              1,
+              0,
+              0,
+              0
+            ]
+          },
+          "weight": 1
+        }
+      ],
+      "discussion": {
+        "fr": "Vous déplacez la question de l'unité vers la qualité : l'objection touche l'argument de <ph id='descartes'>Descartes</ph>, non le <ax id='CONSCIOUSNESS_NATURE' pole='PROPERTY_DUALISM'>dualisme des propriétés</ax>.",
+        "en": "You shift the question from unity to quality: the objection strikes <ph id='descartes'>Descartes</ph>'s argument, not <ax id='CONSCIOUSNESS_NATURE' pole='PROPERTY_DUALISM'>property dualism</ax>."
+      }
+    },
+    {
+      "id": "functions-not-subject",
+      "label": {
+        "fr": "Ce sont les fonctions et l'information qui sont coupées, non un sujet : chacun des deux flux, s'il y en a deux, reste indivisible en lui-même.",
+        "en": "It is functions and information that are cut, not a subject: each of the two streams, if there are two, remains indivisible in itself."
+      },
+      "hints": [
+        {
+          "axisId": "CONSCIOUSNESS_NATURE",
+          "value": {
+            "kind": "weights",
+            "weights": [
+              1,
+              0,
+              0,
+              0,
+              0
+            ]
+          },
+          "weight": 0.5
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-25T00:00:00.000Z"
+}

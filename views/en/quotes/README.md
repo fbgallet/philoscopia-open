@@ -354,6 +354,15 @@
 - “Everything is good as it leaves the hands of the Author of things; everything degenerates in the hands of man.” — Emile, book I
 - “To find a form of association by which each, uniting with all, still obeys only himself and remains as free as before.” — The Social Contract, I, 6
 
+### [Russell](../philosophers/russell.md)
+
+- “It is undesirable to believe a proposition when there is no ground whatever for supposing it true.” — Sceptical Essays, "On the Value of Scepticism"
+- “I cannot see how to refute the arguments for the subjectivity of ethical values, but I find myself incapable of believing that all that is wrong with wanton cruelty is that I don't like it.” — "Reply to Criticisms", in The Philosophy of Bertrand Russell (1944)
+- “The good life is one inspired by love and guided by knowledge.” — What I Believe (1925), ch. II
+- “Remember your humanity, and forget the rest.” — Russell-Einstein Manifesto (1955), closing appeal
+- “Whatever knowledge is attainable, must be attained by scientific methods; and what science cannot discover, mankind cannot know.” — Religion and Science (1935)
+- “All human knowledge is uncertain, inexact, and partial.” — Human Knowledge: Its Scope and Limits, closing lines
+
 ### Samyutta Nikāya
 
 - “Whatever is subject to arising is subject to ceasing.” — SN 56.11, Dhammacakkappavattana Sutta

@@ -1,0 +1,19 @@
+{
+  "id": "panpsychism",
+  "term": {
+    "fr": "Le panpsychisme",
+    "en": "Panpsychism"
+  },
+  "aliases": {
+    "fr": ["panpsychisme", "panpsychiste"],
+    "en": ["panpsychism", "panpsychist"]
+  },
+  "definition": {
+    "fr": "Le panpsychisme tient qu'une forme d'intériorité est une propriété fondamentale de la matière, présente partout à des degrés infimes, et dont notre conscience serait la forme la plus élaborée. Il ne prête pas une pensée à chaque caillou : l'expérience élémentaire qu'on attribuerait à un électron n'aurait rien d'un point de vue sur le monde. C'est la version radicale du <ax id='CONSCIOUSNESS_NATURE' pole='DUAL_ASPECT'>monisme à double aspect</ax> : là où celui-ci dit seulement que la physique décrit du dehors ce que le vécu donne du dedans, le panpsychisme étend cette face interne à toute la matière. <dif>Son obstacle propre est le problème de la combinaison : comment des myriades de micro-vécus feraient-ils un sujet unique ?</dif>",
+    "en": "Panpsychism holds that a form of inwardness is a fundamental property of matter, present everywhere in vanishing degrees, and of which our consciousness would be the most elaborate form. It does not ascribe thought to every pebble: the elementary experience one would attribute to an electron would be nothing like a point of view on the world. It is the radical version of <ax id='CONSCIOUSNESS_NATURE' pole='DUAL_ASPECT'>dual-aspect monism</ax>: where the latter says only that physics describes from outside what experience gives from within, panpsychism extends that inner face to all matter. <dif>Its own obstacle is the combination problem: how would myriad micro-experiences make a single subject?</dif>"
+  },
+  "relatedAxes": ["CONSCIOUSNESS_NATURE", "REALITY_NATURE", "REDUCTION_EMERGENCE"],
+  "relatedTerms": ["dualism", "emergentism", "qualia", "materialism", "hard-problem"],
+  "positions": [{ "axisId": "CONSCIOUSNESS_NATURE", "poleId": "DUAL_ASPECT" }],
+  "updatedAt": "2026-07-25T00:00:00.000Z"
+}

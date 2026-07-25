@@ -1,0 +1,16 @@
+{
+  "id": "sense-data",
+  "term": { "fr": "Données des sens", "en": "Sense-data" },
+  "aliases": {
+    "fr": ["donnée des sens", "sense-data", "données dures", "sensibilia"],
+    "en": ["sense datum", "hard data", "sensibilia"]
+  },
+  "definition": {
+    "fr": "Ce qui est immédiatement donné dans la perception, avant toute interprétation : cette forme brune, ce goût, ce bruit, non pas la table mais l'apparence de table que j'ai maintenant, sous cet angle et cet éclairage. Le terme est répandu par <ph id='moore'>Moore</ph> et <ph id='russell'>Russell</ph> au début du XXᵉ siècle et devient la pièce maîtresse d'un <ax id='EPISTEMIC_JUSTIFICATION' pole='FOUNDATIONALISM'>fondationnalisme</ax> empiriste : les données sont ce qui résiste au maximum d'effort de doute, et tout le reste (l'objet, les autres esprits, le passé) doit s'en déduire ou s'y construire. <dif>La difficulté qui a fini par emporter la notion</dif> est que ces données sont privées et instantanées : le monde public devient très coûteux à reconstruire, et <ph id='wittgenstein'>Wittgenstein</ph> puis ses héritiers ont contesté qu'un donné puisse être à la fois vécu et propositionnel.",
+    "en": "What is immediately given in perception, prior to any interpretation: this brown shape, this taste, this noise — not the table, but the table-appearance I have now, from this angle and in this light. The term was spread by <ph id='moore'>Moore</ph> and <ph id='russell'>Russell</ph> in the early twentieth century and became the centrepiece of an empiricist <ax id='EPISTEMIC_JUSTIFICATION' pole='FOUNDATIONALISM'>foundationalism</ax>: the data are what resist the utmost effort of doubt, and all the rest — the object, other minds, the past — must be inferred from them or built out of them. <dif>The difficulty that eventually sank the notion</dif> is that these data are private and momentary: the public world becomes very costly to rebuild, and <ph id='wittgenstein'>Wittgenstein</ph> and his heirs disputed that anything given could be at once experienced and propositional."
+  },
+  "relatedAxes": ["EPISTEMIC_JUSTIFICATION", "KNOWLEDGE_SOURCE", "CERTAINTY"],
+  "relatedTerms": ["knowledge-by-acquaintance", "logical-construction"],
+  "positions": [{ "axisId": "EPISTEMIC_JUSTIFICATION", "poleId": "FOUNDATIONALISM" }],
+  "updatedAt": "2026-07-25T00:00:00.000Z"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "logical-atomism",
+  "term": { "fr": "Atomisme logique", "en": "Logical atomism" },
+  "aliases": { "fr": ["atomiste logique", "fait atomique"], "en": ["logical atomist", "atomic fact"] },
+  "definition": {
+    "fr": "Doctrine selon laquelle le monde est une pluralité de faits indépendants, et non un tout dont chaque partie tiendrait sa nature de l'ensemble. À l'analyse, un fait complexe se décompose en faits atomiques (un objet a telle qualité, deux objets sont dans telle relation), auxquels correspondent des propositions élémentaires ; les propositions composées se ramènent à elles par les opérations de la logique. <ph id='russell'>Russell</ph> forge le terme en 1911 et le développe en 1918, contre l'<ax id='INDIVIDUAL_SOCIETY' pole='HOLISM'>holisme</ax> des idéalistes qu'il avait suivis dans sa jeunesse : l'atomisme est d'abord un refus, celui de la thèse que rien n'est intelligible hors du tout. <ph id='wittgenstein'>Wittgenstein</ph> en donne dans le <w>Tractatus</w> une version plus radicale, puis la retourne.",
+    "en": "The doctrine that the world is a plurality of independent facts, and not a whole from which each part would draw its nature. Under analysis a complex fact decomposes into atomic facts — an object has such a quality, two objects stand in such a relation — matched by elementary propositions; compound propositions reduce to these by the operations of logic. <ph id='russell'>Russell</ph> coined the term in 1911 and developed it in 1918, against the <ax id='INDIVIDUAL_SOCIETY' pole='HOLISM'>holism</ax> of the idealists he had followed in his youth: atomism is first of all a refusal, that of the thesis that nothing is intelligible outside the whole. <ph id='wittgenstein'>Wittgenstein</ph> gives a more radical version of it in the <w>Tractatus</w>, then turns against it."
+  },
+  "relatedAxes": ["REDUCTION_EMERGENCE", "METAPHILOSOPHY", "MEANING", "BEING_BECOMING"],
+  "relatedTerms": ["logical-construction", "definite-description"],
+  "figure": { "slug": "russell", "name": { "fr": "Russell", "en": "Russell" } },
+  "positions": [{ "axisId": "REDUCTION_EMERGENCE", "poleId": "REDUCTIONISM" }],
+  "updatedAt": "2026-07-25T00:00:00.000Z"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "mnemic-causation",
+  "term": { "fr": "Causalité mnésique", "en": "Mnemic causation" },
+  "aliases": { "fr": ["phénomènes mnésiques", "causalité mnémique"], "en": ["mnemic phenomena", "mnemic causal law"] },
+  "definition": {
+    "fr": "Nom que <ph id='russell'>Russell</ph> donne aux lois où l'état présent d'un être dépend non de son état immédiatement antérieur, mais d'un événement passé qui l'a marqué : un souvenir, une habitude, un réflexe conditionné. <stk>L'intérêt de la notion est constructif</stk> : elle permet de définir une personne comme une série d'événements liés entre eux par de telles lois, mes souvenirs dépendant de mon passé et non du vôtre, au lieu de postuler un moi substantiel qui les porterait. La <c id='logical-construction'>construction logique</c> remplace ainsi le sujet. Russell reconnaît que ces lois pourraient un jour se réduire à des traces physiques dans le cerveau, ce qui ne changerait rien à leur rôle : elles fournissent, réductibles ou non, le principe d'unité d'une vie.",
+    "en": "Russell's name for laws in which the present state of a being depends not on its immediately preceding state but on a past event that marked it: a memory, a habit, a conditioned reflex. <stk>The point of the notion is constructive</stk>: it allows a person to be defined as a series of events bound together by such laws — my memories depend on my past and not on yours — instead of positing a substantial self to carry them. <c id='logical-construction'>Logical construction</c> thus replaces the subject. Russell grants that these laws might one day reduce to physical traces in the brain, which would change nothing in their role: reducible or not, they supply the principle of unity of a life."
+  },
+  "relatedAxes": ["SELF_NATURE", "CONSCIOUSNESS_NATURE", "REDUCTION_EMERGENCE"],
+  "relatedTerms": ["logical-construction", "neutral-monism"],
+  "figure": { "slug": "russell", "name": { "fr": "Russell", "en": "Russell" } },
+  "positions": [{ "axisId": "SELF_NATURE", "poleId": "BUNDLE_THEORY" }],
+  "updatedAt": "2026-07-25T00:00:00.000Z"
+}

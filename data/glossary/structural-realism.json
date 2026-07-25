@@ -1,0 +1,13 @@
+{
+  "id": "structural-realism",
+  "term": { "fr": "Réalisme structural", "en": "Structural realism" },
+  "aliases": { "fr": ["réalisme structurel", "réaliste structural"], "en": ["structural realist", "epistemic structural realism"] },
+  "definition": {
+    "fr": "Position selon laquelle les théories physiques nous font connaître la structure du réel, c'est-à-dire l'ordre, les relations et les lois, sans nous livrer la nature intrinsèque de ce qui est ainsi ordonné. On ne sait de l'électron rien de plus que sa place dans un réseau de relations, et cela suffit pour que la physique soit vraie. <stk>C'est le prix d'un réalisme modeste</stk> : il gagne d'expliquer pourquoi les théories successives se conservent par leurs équations plutôt que par leurs images du monde, et il concède que l'étoffe des choses reste indéterminée. <ph id='russell'>Russell</ph> en donne la première formulation systématique en 1927 ; la <ax id='KNOWLEDGE_STATUS' pole='SCIENTIFIC_REALISM'>philosophie des sciences contemporaine</ax> l'a reprise sous son nom, et le <c id='neutral-monism'>monisme neutre</c> se loge précisément dans la place que ce réalisme laisse vide.",
+    "en": "The position that physical theories give us knowledge of the structure of the real — order, relations, laws — without delivering the intrinsic nature of what is thus ordered. We know nothing of the electron beyond its place in a network of relations, and that is enough for physics to be true. <stk>This is the price of a modest realism</stk>: it gains an explanation of why successive theories are preserved through their equations rather than their pictures of the world, and it concedes that the stuff of things remains undetermined. <ph id='russell'>Russell</ph> gave the first systematic formulation in 1927; <ax id='KNOWLEDGE_STATUS' pole='SCIENTIFIC_REALISM'>contemporary philosophy of science</ax> has taken it up under his name, and <c id='neutral-monism'>neutral monism</c> lodges itself precisely in the place this realism leaves vacant."
+  },
+  "relatedAxes": ["KNOWLEDGE_STATUS", "CONSCIOUSNESS_NATURE", "SCIENCE_PLACE"],
+  "relatedTerms": ["neutral-monism"],
+  "positions": [{ "axisId": "KNOWLEDGE_STATUS", "poleId": "SCIENTIFIC_REALISM" }],
+  "updatedAt": "2026-07-25T00:00:00.000Z"
+}

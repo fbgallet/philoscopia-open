@@ -506,10 +506,10 @@
       "declaredValue": {
         "kind": "weights",
         "weights": [
-          0.25,
           0,
           0.15,
           0.6,
+          0.25,
           0
         ]
       },
@@ -517,8 +517,8 @@
       "salience": "MINOR",
       "justification": {
         "text": {
-          "fr": "Double thèse : l'intellect est une fonction du cerveau, phénomène second, tardif et fatigable, ce qui a des accents matérialistes ; mais le fond de toute chose, du minéral à l'homme, est vouloir. C'est moins un panpsychisme au sens strict qu'une doctrine de l'objectivation universelle de la Volonté : ce n'est pas l'esprit qui est partout, mais l'aveugle vouloir.",
-          "en": "A double thesis: the intellect is a function of the brain, a secondary, late, and fatigable phenomenon, which has materialist overtones; but the ground of all things, from the mineral to man, is will. Less a panpsychism in the strict sense than a doctrine of the universal objectification of the Will: it is not mind that is everywhere, but blind willing."
+          "fr": "Double thèse : l'intellect est une fonction du cerveau, phénomène second, tardif et fatigable, ce qui a des accents <c id='materialism'>matérialistes</c> ; mais le fond de toute chose, du minéral à l'homme, est <c id='vouloir-vivre'>vouloir</c>. C'est moins un <c id='panpsychism'>panpsychisme</c> au sens strict qu'une doctrine de l'objectivation universelle de la Volonté : ce n'est pas l'esprit qui est partout, mais l'aveugle vouloir.",
+          "en": "A double thesis: the intellect is a function of the brain, a secondary, late, and fatigable phenomenon, which has <c id='materialism'>materialist</c> overtones; but the ground of all things, from the mineral to man, is <c id='vouloir-vivre'>will</c>. Less a <c id='panpsychism'>panpsychism</c> in the strict sense than a doctrine of the universal objectification of the Will: it is not mind that is everywhere, but blind willing."
         },
         "references": [
           {

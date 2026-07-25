@@ -1,0 +1,19 @@
+{
+  "id": "frege-to-russell",
+  "from": { "kind": "PHILOSOPHER", "slug": "frege" },
+  "to": { "kind": "PHILOSOPHER", "slug": "russell" },
+  "directness": "ATTESTED",
+  "mode": "CONTINUES",
+  "strength": "STRONG",
+  "note": {
+    "fr": "<ph id='russell'>Russell</ph> découvre <ph id='frege'>Frege</ph> tard, alors que les <w id='principia-mathematica-russell'>Principia</w> sont en chantier, et reconnaît avoir été précédé sur l'essentiel : le projet de dériver l'arithmétique de la logique, et l'appareil de quantificateurs qui le rend possible. C'est en lisant Frege qu'il lui écrit en 1902 le <pb>paradoxe</pb> qui ruine sa tentative : peut-être la lettre la plus conséquente de l'histoire de la logique. Il le fait ensuite connaître au monde anglophone tout en refusant sa distinction du sens et de la référence, à laquelle il oppose sa propre <c id='definite-description'>théorie des descriptions</c>.",
+    "en": "<ph id='russell'>Russell</ph> discovered <ph id='frege'>Frege</ph> late, while the <w id='principia-mathematica-russell'>Principia</w> were under way, and acknowledged having been anticipated on the essentials: the project of deriving arithmetic from logic, and the apparatus of quantifiers that makes it possible. It was in reading Frege that he wrote to him in 1902 with the <pb>paradox</pb> that wrecked his attempt — the most consequential letter in the history of logic. He then made Frege known to the English-speaking world, while refusing the distinction between sense and reference, against which he set his own <c id='definite-description'>theory of descriptions</c>."
+  },
+  "sources": [
+    {
+      "fr": "Russell, Principia Mathematica, appendice A ; lettre à Frege du 16 juin 1902",
+      "en": "Russell, Principia Mathematica, appendix A; letter to Frege, 16 June 1902"
+    }
+  ],
+  "updatedAt": "2026-07-25T00:00:00.000Z"
+}

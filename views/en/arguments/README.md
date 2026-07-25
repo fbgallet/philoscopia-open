@@ -20,6 +20,21 @@
 - [The self-refutation objection](skepticism-self-refutation.md) (against « Skepticism »)
 - [The success of knowledge](skepticism-success-objection.md) (against « Skepticism »)
 
+## [The enigma of consciousness](../axes/consciousness-nature.md)
+
+- [The argument from misleading introspection](illusionism-introspection-misleads.md) (for « Illusionism »)
+- [The objection from seeming](illusionism-seeming-is-experience-objection.md) (against « Illusionism »)
+- [The combination problem](panpsychism-combination-objection.md) (against « Dual-aspect monism »)
+- [The argument from intrinsic nature](panpsychism-intrinsic-nature.md) (for « Dual-aspect monism »)
+- [The argument from mental efficacy](physicalism-causal-exclusion.md) (for « Physicalism »)
+- [The explanatory gap objection](physicalism-explanatory-gap-objection.md) (against « Physicalism »)
+- [The conceivability objection](property-dualism-conceivability-objection.md) (against « Property dualism »)
+- [The idle-experience objection](property-dualism-epiphenomenon-objection.md) (against « Property dualism »)
+- [The hard-problem argument](property-dualism-hard-problem.md) (for « Property dualism »)
+- [The divided-brain objection](substance-dualism-divided-mind-objection.md) (against « Substance dualism »)
+- [The argument from the indivisibility of mind](substance-dualism-indivisible-subject.md) (for « Substance dualism »)
+- [Elisabeth of Bohemia's objection](substance-dualism-interaction-objection.md) (against « Substance dualism »)
+
 ## [Scope of action](../axes/control-scope.md)
 
 - [The inner citadel](control-dichotomy-inner-sovereignty.md) (for « What is up to us »)
@@ -126,6 +141,15 @@
 - [The cure removes the patient](renunciation-negates-life-objection.md) (against « Renunciation »)
 - [A meaning you give yourself does not bind](teleology-found-not-made.md) (for « Teleology and providence »)
 - [The world does not answer](teleology-silent-world-objection.md) (against « Teleology and providence »)
+
+## [Can a machine think](../axes/machine-mind.md)
+
+- [The China-brain objection](functionalism-china-brain-objection.md) (against « The substrate does not matter »)
+- [The multiple-realizability argument](functionalism-multiple-realizability.md) (for « The substrate does not matter »)
+- [The syntax-and-meaning argument](machine-median-syntax-not-semantics.md) (for « Not by program alone »)
+- [The systems reply](machine-median-systems-reply-objection.md) (against « Not by program alone »)
+- [The objection from the privilege of flesh](only-life-thinks-carbon-chauvinism-objection.md) (against « Only the living think »)
+- [The argument from concern](only-life-thinks-nothing-matters-to-it.md) (for « Only the living think »)
 
 ## [The point of philosophy](../axes/metaphilosophy.md)
 

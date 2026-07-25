@@ -11,8 +11,8 @@
     "en": "Is lived experience something more than the structure and functioning of the brain?"
   },
   "stakes": {
-    "fr": "La douleur, le rouge que je vois, le goût du café : les sciences cognitives décrivent de mieux en mieux les mécanismes cérébraux qui les accompagnent, mais le vécu se réduit-il à eux ? Se positionner, c'est dire si l'expérience n'est rien de plus que l'organisation du cerveau, si elle y ajoute quelque chose d'irréductible, si elle tient à une intériorité déjà présente dans la matière, ou si l'introspection nous trompe sur son existence même. L'axe suppose un cerveau bien réel : ceux pour qui l'esprit est premier et la matière une apparence se situent sur <ax id='REALITY_NATURE'>l'axe de la nature du réel</ax>.",
-    "en": "Pain, the red I see, the taste of coffee: cognitive science describes ever more finely the brain mechanisms that accompany them, but does lived experience reduce to them? To take a position is to say whether experience is nothing more than the brain's organization, whether it adds something irreducible to it, whether it rests on an inwardness already present in matter, or whether introspection deceives us about its very existence. The axis assumes a brain that is genuinely real: those for whom mind comes first and matter is an appearance take their position on <ax id='REALITY_NATURE'>the nature of reality</ax>."
+    "fr": "La douleur, le rouge que je vois, le goût du café : les sciences cognitives décrivent de mieux en mieux les mécanismes cérébraux qui les accompagnent, mais le vécu se réduit-il à eux ? Se positionner, c'est dire si l'expérience n'est rien de plus que l'organisation du cerveau, si elle y ajoute quelque chose d'irréductible, si elle tient à une intériorité déjà présente dans la matière, ou si l'introspection nous trompe sur son existence même. L'axe suppose un cerveau bien réel : ceux pour qui l'esprit est premier et la matière une apparence se situent sur <ax id='REALITY_NATURE'>l'axe de la nature du réel</ax>. Les cinq positions sont présentées en partant de la plus commune, une âme d'une autre nature, chaque pas suivant retirant un ingrédient à l'inventaire du monde, jusqu'à contester au vécu ce qu'il croit être. C'est un chemin de lecture, non une échelle graduée : la distance entre deux positions ne se mesure pas à leur écart dans la liste.",
+    "en": "Pain, the red I see, the taste of coffee: cognitive science describes ever more finely the brain mechanisms that accompany them, but does lived experience reduce to them? To take a position is to say whether experience is nothing more than the brain's organization, whether it adds something irreducible to it, whether it rests on an inwardness already present in matter, or whether introspection deceives us about its very existence. The axis assumes a brain that is genuinely real: those for whom mind comes first and matter is an appearance take their position on <ax id='REALITY_NATURE'>the nature of reality</ax>. The five positions are presented starting from the most common, a soul of another nature, each further step removing an ingredient from the inventory of the world, until lived experience is denied what it takes itself to be. This is a reading path, not a scale: the distance between two positions is not measured by the gap between them in the list."
   },
   "aliases": {
     "fr": [
@@ -23,7 +23,11 @@
       "dualisme corps-esprit",
       "esprit et cerveau",
       "problème difficile de la conscience",
-      "qualia"
+      "qualia",
+      "panpsychisme",
+      "monisme à double aspect",
+      "monisme russellien",
+      "parallélisme"
     ],
     "en": [
       "mind-body problem",
@@ -33,39 +37,16 @@
       "dualism",
       "mind and brain",
       "hard problem of consciousness",
-      "qualia"
+      "qualia",
+      "panpsychism",
+      "dual-aspect monism",
+      "Russellian monism",
+      "parallelism"
     ]
   },
   "layer": "THEORY",
   "type": "CATEGORICAL",
   "poles": [
-    {
-      "id": "PHYSICALISM",
-      "label": {
-        "fr": "Physicalisme",
-        "en": "Physicalism"
-      },
-      "description": {
-        "fr": "La conscience n'est rien d'autre que l'activité du cerveau : le vécu n'est pas un fait supplémentaire qui s'ajouterait au fonctionnement cérébral, il en fait partie, si difficile soit-il à expliquer. Reste à comprendre comment, ce que la plupart tiennent pour une difficulté de recherche et non pour un mystère de principe. Le pôle réunit plusieurs nuances : la théorie de l'identité, pour qui chaque état mental sera un jour identifié à un état cérébral, et le naturalisme biologique, pour qui la conscience est une propriété du cerveau aussi ordinaire que la digestion, irréductible à une description en troisième personne sans être pour autant un ingrédient de plus dans le monde. Que cette réduction aboutisse se joue sur l'axe du tout et de ses parties ; que le support doive être biologique, sur celui de la machine pensante.",
-        "en": "Consciousness is nothing but the brain's activity: experience is not a further fact added to the brain's workings, it is part of them, however hard it may be to explain. How remains to be understood, which most take to be a difficulty of research rather than a mystery of principle. The pole gathers several shades: identity theory, for which every mental state will one day be identified with a brain state, and biological naturalism, for which consciousness is a feature of the brain as ordinary as digestion, irreducible to a third-person description without being one more ingredient in the world. Whether that reduction succeeds is settled on the axis of wholes and parts; whether the substrate must be biological, on that of the thinking machine."
-      },
-      "figures": [
-        {
-          "slug": "smart",
-          "name": {
-            "fr": "Smart",
-            "en": "Smart"
-          }
-        },
-        {
-          "slug": "place",
-          "name": {
-            "fr": "Place",
-            "en": "Place"
-          }
-        }
-      ]
-    },
     {
       "id": "SUBSTANCE_DUALISM",
       "label": {
@@ -100,8 +81,8 @@
         "en": "Property dualism"
       },
       "description": {
-        "fr": "Le cerveau est physique, mais il possède des propriétés irréductibles : l'effet que cela fait de voir du rouge ou de souffrir. Le vécu est ici un fait supplémentaire du monde, relié au cerveau par une loi de la nature plutôt qu'identique à lui ; c'est ce qui sépare cette position du physicalisme, qui n'admet rien au-delà du fonctionnement cérébral. Et c'est là le « problème difficile » de la conscience.",
-        "en": "The brain is physical, but it has irreducible properties: what it is like to see red or to suffer. Here lived experience is a further fact about the world, tied to the brain by a law of nature rather than identical to it; that is what separates this position from physicalism, which admits nothing beyond the brain's workings. And this is the \"hard problem\" of consciousness."
+        "fr": "Le cerveau est physique, mais il possède des propriétés irréductibles : l'effet que cela fait de voir du rouge ou de souffrir. Le vécu est ici un fait supplémentaire du monde, relié au cerveau par une loi de la nature plutôt qu'identique à lui ; c'est ce qui sépare cette position du physicalisme, qui n'admet rien au-delà du fonctionnement cérébral. Et c'est là le « <c id='hard-problem'>problème difficile</c> » de la conscience.",
+        "en": "The brain is physical, but it has irreducible properties: what it is like to see red or to suffer. Here lived experience is a further fact about the world, tied to the brain by a law of nature rather than identical to it; that is what separates this position from physicalism, which admits nothing beyond the brain's workings. And this is the \"<c id='hard-problem'>hard problem</c>\" of consciousness."
       },
       "figures": [
         {
@@ -121,8 +102,8 @@
       ],
       "nuances": [
         {
-          "fr": "David Chalmers qualifie sa position de « dualisme naturaliste », et se dit ouvertement attiré par le panpsychisme, qu'il tient pour une option sérieuse.",
-          "en": "David Chalmers calls his position a \"naturalistic dualism\", and openly declares himself drawn to panpsychism, which he takes to be a serious option."
+          "fr": "David Chalmers qualifie sa position de « dualisme naturaliste », et se dit ouvertement attiré par le <c id='panpsychism'>panpsychisme</c>, qu'il tient pour une option sérieuse.",
+          "en": "David Chalmers calls his position a \"naturalistic dualism\", and openly declares himself drawn to <c id='panpsychism'>panpsychism</c>, which he takes to be a serious option."
         },
         {
           "fr": "Thomas Nagel refuse le réductionnisme sans conclure au dualisme, récuse les étiquettes et penche vers un monisme neutre.",
@@ -131,16 +112,23 @@
       ]
     },
     {
-      "id": "PANPSYCHISM",
+      "id": "DUAL_ASPECT",
       "label": {
-        "fr": "Panpsychisme",
-        "en": "Panpsychism"
+        "fr": "Monisme à double aspect",
+        "en": "Dual-aspect monism"
       },
       "description": {
-        "fr": "L'expérience n'a pas surgi par miracle dans un univers mort : une forme d'intériorité est une propriété fondamentale de la matière, présente partout à des degrés divers, dont notre conscience serait la forme la plus élaborée.",
-        "en": "Experience did not arise by miracle in a dead universe: a form of inwardness is a fundamental property of matter, present everywhere in varying degrees, of which our consciousness would be the most elaborate form."
+        "fr": "Le vécu n'est pas un ingrédient de plus dans le monde, mais l'envers de ce que la physique décrit du dehors : une seule réalité, deux façons de l'atteindre, du dedans par l'expérience, du dehors par la mesure. L'argument tient à ceci que la physique ne dit jamais ce que la matière est, seulement ce qu'elle fait : elle laisse une place vide, et notre propre cerveau est le seul morceau de matière que nous connaissions de l'intérieur. Reste à dire jusqu'où descend ce dedans : le <c id='panpsychism'>panpsychisme</c> le fait descendre jusqu'aux constituants les plus simples, dont notre conscience serait la composition la plus élaborée ; d'autres n'y logent qu'un précurseur de l'expérience, ou refusent de fixer un seuil. Ce qui sépare ce pôle du dualisme des propriétés, c'est qu'il n'ajoute rien au monde physique, il en réinterprète l'étoffe ; et du physicalisme, qu'il refuse de réduire cette étoffe à la structure et au fonctionnement.",
+        "en": "Lived experience is not one more ingredient in the world, but the inside of what physics describes from without: a single reality, two ways of reaching it, from within through experience, from without through measurement. The argument turns on this: physics never says what matter is, only what it does; it leaves a blank, and our own brain is the only piece of matter we know from the inside. How far down that inside goes is then the question. <c id='panpsychism'>Panpsychism</c> takes it all the way to the simplest constituents, of which our consciousness would be the most elaborate composition; others lodge there only a precursor of experience, or refuse to fix any threshold. What separates this pole from property dualism is that it adds nothing to the physical world, it reinterprets its fabric; and from physicalism, that it refuses to reduce that fabric to structure and function."
       },
       "figures": [
+        {
+          "slug": "spinoza",
+          "name": {
+            "fr": "Spinoza",
+            "en": "Spinoza"
+          }
+        },
         {
           "slug": "strawson",
           "name": {
@@ -158,8 +146,43 @@
       ],
       "nuances": [
         {
+          "fr": "Spinoza en fournit la matrice : la pensée et l'étendue sont deux attributs d'une même substance, et l'esprit est l'idée du corps, ni produit par lui ni séparable de lui.",
+          "en": "Spinoza provides its matrix: thought and extension are two attributes of one and the same substance, and the mind is the idea of the body, neither produced by it nor separable from it."
+        },
+        {
+          "fr": "Russell et Eddington relancent l'idée au XXe siècle en remarquant que la physique livre la structure du monde et non son étoffe ; on parle depuis de monisme russellien.",
+          "en": "Russell and Eddington revived the idea in the twentieth century by noting that physics delivers the structure of the world and not its stuff; the view has since been called Russellian monism."
+        },
+        {
           "fr": "Galen Strawson présente sa position comme un « physicalisme réel », non comme l'ajout d'un esprit à une matière par ailleurs inerte.",
           "en": "Galen Strawson frames his view as a \"real physicalism\", not as adding mind to otherwise inert matter."
+        }
+      ]
+    },
+    {
+      "id": "PHYSICALISM",
+      "label": {
+        "fr": "Physicalisme",
+        "en": "Physicalism"
+      },
+      "description": {
+        "fr": "La conscience n'est rien d'autre que l'activité du cerveau : le vécu n'est pas un fait supplémentaire qui s'ajouterait au fonctionnement cérébral, il en fait partie, si difficile soit-il à expliquer. Reste à comprendre comment, ce que la plupart tiennent pour une difficulté de recherche et non pour un mystère de principe. Le pôle réunit plusieurs nuances : la théorie de l'identité, pour qui chaque état mental sera un jour identifié à un état cérébral, et le naturalisme biologique, pour qui la conscience est une propriété du cerveau aussi ordinaire que la digestion, irréductible à une description en troisième personne sans être pour autant un ingrédient de plus dans le monde. Que cette réduction aboutisse se joue sur <ax id='REDUCTION_EMERGENCE'>l'axe du tout et de ses parties</ax> ; que le support doive être biologique, sur <ax id='MACHINE_MIND'>celui de la machine pensante</ax>.",
+        "en": "Consciousness is nothing but the brain's activity: experience is not a further fact added to the brain's workings, it is part of them, however hard it may be to explain. How remains to be understood, which most take to be a difficulty of research rather than a mystery of principle. The pole gathers several shades: identity theory, for which every mental state will one day be identified with a brain state, and biological naturalism, for which consciousness is a feature of the brain as ordinary as digestion, irreducible to a third-person description without being one more ingredient in the world. Whether that reduction succeeds is settled on <ax id='REDUCTION_EMERGENCE'>the axis of wholes and parts</ax>; whether the substrate must be biological, on <ax id='MACHINE_MIND'>that of the thinking machine</ax>."
+      },
+      "figures": [
+        {
+          "slug": "smart",
+          "name": {
+            "fr": "Smart",
+            "en": "Smart"
+          }
+        },
+        {
+          "slug": "place",
+          "name": {
+            "fr": "Place",
+            "en": "Place"
+          }
         }
       ]
     },
@@ -171,7 +194,7 @@
       },
       "description": {
         "fr": "Le vécu qualitatif que nous croyons saisir par introspection est une illusion que le cerveau se fait sur lui-même. Ce qui est nié, ce ne sont pas nos expériences, mais les qualia tels qu'on les conçoit d'ordinaire, propriétés privées et ineffables : il reste à expliquer, non ces propriétés, mais pourquoi elles nous paraissent si évidentes.",
-        "en": "The qualitative feel we think we grasp by introspection is an illusion the brain makes about itself. What is denied is not our experiences, but qualia as ordinarily conceived, private and ineffable properties: what remains to be explained is not those properties, but why they seem so obvious to us."
+        "en": "The qualitative feel we think we grasp by introspection is an illusion the brain has about itself. What is denied is not our experiences, but qualia as ordinarily conceived, private and ineffable properties: what remains to be explained is not those properties, but why they seem so obvious to us."
       },
       "figures": [
         {
@@ -197,6 +220,7 @@
       ]
     }
   ],
+  "commonOpinion": "SUBSTANCE_DUALISM",
   "core": false,
   "difficulty": 2,
   "clusters": [],
@@ -247,7 +271,7 @@
         "PHYSICALISM",
         "SUBSTANCE_DUALISM",
         "PROPERTY_DUALISM",
-        "PANPSYCHISM",
+        "DUAL_ASPECT",
         "ILLUSIONISM"
       ],
       "anchors": [
@@ -699,11 +723,19 @@
         {
           "fr": "gradation",
           "en": "gradation"
+        },
+        {
+          "fr": "seuil de la conscience",
+          "en": "threshold of consciousness"
+        },
+        {
+          "fr": "information intégrée",
+          "en": "integrated information"
         }
       ],
       "poles": [
         "PHYSICALISM",
-        "PANPSYCHISM",
+        "DUAL_ASPECT",
         "PROPERTY_DUALISM"
       ],
       "anchors": [
@@ -721,6 +753,20 @@
             "en": "Goff"
           },
           "kind": "PHILOSOPHER"
+        },
+        {
+          "name": {
+            "fr": "Tononi",
+            "en": "Tononi"
+          },
+          "kind": "PHILOSOPHER"
+        },
+        {
+          "name": {
+            "fr": "Velmans",
+            "en": "Velmans"
+          },
+          "kind": "PHILOSOPHER"
         }
       ],
       "title": {
@@ -728,13 +774,84 @@
         "en": "Where does consciousness begin?"
       },
       "explicitation": {
-        "fr": "Un chien souffre-t-il comme moi ? Et un poisson, une huître, un embryon, une plante, un thermostat ? Entre ce qui vit quelque chose et ce qui ne vit rien, y a-t-il un seuil net, une pente continue, ou la question est-elle mal posée ?",
-        "en": "Does a dog suffer as I do? And a fish, an oyster, an embryo, a plant, a thermostat? Between what undergoes something and what undergoes nothing, is there a sharp threshold, a continuous slope, or is the question ill-posed?"
+        "fr": "Un chien souffre-t-il comme moi ? Et un poisson, une huître, un embryon, une plante, un thermostat ? Entre ce qui vit quelque chose et ce qui ne vit rien, y a-t-il un seuil net, une pente continue, ou la question est-elle mal posée ? Qui refuse de généraliser le vécu à toute la matière doit un critère, et le quantifier est une manière de payer cette dette.",
+        "en": "Does a dog suffer as I do? And a fish, an oyster, an embryo, a plant, a thermostat? Between what undergoes something and what undergoes nothing, is there a sharp threshold, a continuous slope, or is the question ill-posed? Whoever refuses to extend experience to all matter owes a criterion, and quantifying it is one way of paying that debt."
       },
       "doorways": [
         {
           "axis": "MORAL_CIRCLE",
           "problem": "moral-status-criterion"
+        }
+      ]
+    },
+    {
+      "id": "what-physics-leaves-blank",
+      "resolution": "LATENT",
+      "object": "STRUCTURE",
+      "objectLabel": {
+        "fr": "l'étoffe du monde matériel",
+        "en": "the fabric of the material world"
+      },
+      "mode": "DESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        {
+          "fr": "nature intrinsèque",
+          "en": "intrinsic nature"
+        },
+        {
+          "fr": "structure et étoffe",
+          "en": "structure and stuff"
+        },
+        {
+          "fr": "monisme russellien",
+          "en": "Russellian monism"
+        }
+      ],
+      "poles": [
+        "PROPERTY_DUALISM",
+        "DUAL_ASPECT",
+        "PHYSICALISM"
+      ],
+      "anchors": [
+        {
+          "name": {
+            "fr": "Russell",
+            "en": "Russell"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "russell"
+        },
+        {
+          "name": {
+            "fr": "Eddington",
+            "en": "Eddington"
+          },
+          "kind": "PHILOSOPHER"
+        },
+        {
+          "name": {
+            "fr": "Strawson",
+            "en": "Strawson"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "strawson"
+        }
+      ],
+      "title": {
+        "fr": "Ce que la physique laisse en blanc",
+        "en": "What physics leaves blank"
+      },
+      "explicitation": {
+        "fr": "La physique décrit la matière par ce qu'elle fait : une masse résiste, une charge attire. Chaque terme renvoie à un autre et jamais à ce que la chose est en elle-même. Cette place vide attend-elle une réponse, ou la question de l'étoffe du monde est-elle un faux besoin ?",
+        "en": "Physics describes matter by what it does: a mass resists, a charge attracts. Each term refers to another and never to what the thing is in itself. Does that blank await an answer, or is the question of the world's fabric a false need?"
+      },
+      "doorways": [
+        {
+          "axis": "SCIENCE_PLACE"
+        },
+        {
+          "axis": "REALITY_NATURE"
         }
       ]
     },
@@ -763,7 +880,7 @@
         }
       ],
       "poles": [
-        "PANPSYCHISM"
+        "DUAL_ASPECT"
       ],
       "anchors": [
         {
@@ -819,7 +936,7 @@
         "PHYSICALISM",
         "SUBSTANCE_DUALISM",
         "PROPERTY_DUALISM",
-        "PANPSYCHISM",
+        "DUAL_ASPECT",
         "ILLUSIONISM"
       ],
       "anchors": [

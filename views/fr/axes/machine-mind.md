@@ -35,6 +35,15 @@ Exécuter un programme ne sera jamais penser : simuler la compréhension n'est p
 - **Penser, ou ressentir** : Raisonner est une chose, éprouver en est une autre : une machine pourrait tout calculer sans que « cela fasse quelque chose » d'être elle, la pensée sans la moindre conscience.
 - **Lui devrait-on quelque chose ?** : Si une machine pensait, aurait-elle des intérêts, une dignité, des droits, ou resterait-elle une chose dont on dispose sans lui rien devoir ?
 
+## Arguments
+
+- *Peu importe le support* · pour : [L'argument de la réalisabilité multiple](../arguments/functionalism-multiple-realizability.md)
+- *Peu importe le support* · contre : [L'objection du peuple-cerveau](../arguments/functionalism-china-brain-objection.md)
+- *Seul le vivant pense* · pour : [L'argument du souci](../arguments/only-life-thinks-nothing-matters-to-it.md)
+- *Seul le vivant pense* · contre : [L'objection du privilège de la chair](../arguments/only-life-thinks-carbon-chauvinism-objection.md)
+- *Pas par simple programme* · pour : [L'argument de la syntaxe et du sens](../arguments/machine-median-syntax-not-semantics.md)
+- *Pas par simple programme* · contre : [La réponse des systèmes](../arguments/machine-median-systems-reply-objection.md)
+
 ## Relations de fondation
 
 - *[Être ou avoir un corps](../axes/embodiment.md) : Corps-sujet* fonde *[Une machine peut-elle penser](../axes/machine-mind.md) : Seul le vivant pense* : Si penser, c'est d'abord être un organisme vivant couplé à son milieu, alors manipuler des symboles ne suffit pas à comprendre : un programme sans corps ni vie ne pense pas vraiment. La thèse du corps-sujet soutient l'idée que seul le vivant pense : pour [Jonas](../philosophers/jonas.md), l'esprit s'enracine dans la vie de l'organisme et son souci de durer.

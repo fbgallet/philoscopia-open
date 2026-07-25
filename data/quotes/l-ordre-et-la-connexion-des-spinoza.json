@@ -4,6 +4,6 @@
   "author": { "name": { "fr": "Spinoza", "en": "Spinoza" }, "kind": "PHILOSOPHER", "slug": "spinoza" },
   "work": "ethics-spinoza",
   "source": { "fr": "Éthique, II, proposition 7", "en": "Ethics, II, proposition 7" },
-  "anchors": [{ "axisId": "KNOWLEDGE_STATUS" }],
-  "updatedAt": "2026-07-18T00:00:00.000Z"
+  "anchors": [{ "axisId": "CONSCIOUSNESS_NATURE", "poleId": "DUAL_ASPECT" }, { "axisId": "KNOWLEDGE_STATUS" }],
+  "updatedAt": "2026-07-25T00:00:00.000Z"
 }

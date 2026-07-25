@@ -8,6 +8,8 @@ import { existsSync, mkdirSync, readdirSync, readFileSync, writeFileSync } from 
 import { join } from "node:path";
 import { Ajv2020, type ValidateFunction } from "ajv/dist/2020.js";
 import { poleWeight, positionValueText, type Corpus, type Locale } from "./corpus.js";
+import { MIGRATION_IDS, MIGRATIONS } from "./migrations.js";
+import { collectRefs } from "./refs.js";
 
 /* eslint-disable @typescript-eslint/no-explicit-any */
 
@@ -106,6 +108,8 @@ const PROFILE_FORMAT =
 
 export class Workspace {
   private validators = new Map<string, ValidateFunction>();
+  /** Pending migrations are looked for once per process, not per tool call. */
+  private migrationsChecked = false;
 
   constructor(
     readonly dir: string,
@@ -137,6 +141,12 @@ export class Workspace {
       throw new Error(
         `No workspace at ${this.dir} (philoscopia.json missing). Run the init_workspace tool first.`,
       );
+    }
+    // Every tool comes through here, so this is where a workspace written
+    // against an older referential catches up — once per process.
+    if (!this.migrationsChecked) {
+      this.migrationsChecked = true;
+      this.runPendingMigrations();
     }
   }
 
@@ -199,6 +209,9 @@ export class Workspace {
         source: "https://github.com/fbgallet/philoscopia-referential",
         syncedAt: this.corpus.paths.meta?.bundledAt ?? now,
         ...(this.corpus.paths.meta?.commit ? { commit: this.corpus.paths.meta.commit } : {}),
+        // Born against this corpus: every known migration is already true of
+        // it, and must never run on it.
+        migrations: [...MIGRATION_IDS],
       },
       ...(user && Object.keys(user).length > 0 ? { user: { ...user, updatedAt: now } } : {}),
     });
@@ -453,23 +466,6 @@ export class Workspace {
   }
 
   /** Every prefixed ref carried by an entry (list fields + ref/figureRef). */
-  private collectRefs(entry: any): string[] {
-    const refs: string[] = [];
-    for (const key of ["relatedAxes", "anchors", "grounds", "challengedBy", "inspiredBy", "relatedConcepts"]) {
-      if (Array.isArray(entry[key])) refs.push(...entry[key]);
-    }
-    for (const key of ["ref", "figureRef", "workRef"]) {
-      if (typeof entry[key] === "string") refs.push(entry[key]);
-    }
-    // A reading's agreements/disagreements may each echo a referential position.
-    for (const key of ["agreements", "disagreements"]) {
-      if (Array.isArray(entry[key])) {
-        for (const stance of entry[key]) if (typeof stance?.ref === "string") refs.push(stance.ref);
-      }
-    }
-    return refs;
-  }
-
   /** Does a ref resolve in the bundled corpus? Null when it is not a prefixed
    * referential ref (workspace-local ids are the caller's business). */
   private refResolves(ref: string): boolean | null {
@@ -492,7 +488,7 @@ export class Workspace {
   /** Referential refs a write introduces must resolve against the bundled
    * corpus (never invent refs); workspace-local ids pass through. */
   private checkRefs(entry: any): void {
-    for (const ref of this.collectRefs(entry)) {
+    for (const ref of collectRefs(entry)) {
       if (this.refResolves(ref) === false) {
         throw new Error(`Ref "${ref}" does not resolve in the referential.`);
       }
@@ -506,7 +502,7 @@ export class Workspace {
     const out: Array<{ file: string; id: string; ref: string }> = [];
     for (const name of COLLECTIONS) {
       for (const item of this.read(name) as any[]) {
-        for (const ref of this.collectRefs(item)) {
+        for (const ref of collectRefs(item)) {
           if (this.refResolves(ref) === false) out.push({ file: `${name}.json`, id: item.id ?? item.ref, ref });
         }
       }
@@ -522,6 +518,58 @@ export class Workspace {
       }
     }
     return out;
+  }
+
+  /**
+   * Bring a workspace written against an older referential up to date, once
+   * per process. Dangling refs are surfaced, not fixed; what is fixed here is
+   * what a change made silently WRONG (see migrations.ts).
+   *
+   * Never fatal: a workspace that cannot be migrated is still a workspace the
+   * user must be able to work in. An unstamped migration is simply retried at
+   * the next start.
+   */
+  private runPendingMigrations(): void {
+    let manifest: any;
+    try {
+      manifest = this.read("philoscopia");
+    } catch {
+      return; // an unreadable manifest is the caller's problem, not ours
+    }
+    const applied: string[] = [...(manifest?.referential?.migrations ?? [])];
+    const pending = MIGRATIONS.filter((m) => !applied.includes(m.id));
+    if (pending.length === 0) return;
+
+    for (const migration of pending) {
+      try {
+        // A collection file may be absent from a workspace older than it.
+        const present = COLLECTIONS.filter((name) => existsSync(join(this.dir, `${name}.json`)));
+        const collections = Object.fromEntries(present.map((name) => [name, this.read(name)]));
+        const profile = this.read("profile");
+        const changed = migration.apply({ profile, collections });
+
+        if (changed) {
+          // Validate the whole result before touching the disk: a migration
+          // that would produce an invalid file must not half-write one.
+          this.validate("profile", profile);
+          for (const name of present) this.validate(name, collections[name]);
+        }
+        // The stamp goes down FIRST, on purpose. Dying between it and the data
+        // leaves the workspace exactly as it was, which the log makes
+        // recoverable; dying the other way round would re-run the migration at
+        // the next start — a second permutation, silent and irreversible.
+        manifest.referential.migrations = [...applied, migration.id];
+        this.write("philoscopia", manifest);
+        applied.push(migration.id);
+        if (changed) {
+          this.write("profile", profile);
+          for (const name of present) this.write(name, collections[name]);
+          console.error(`[philoscopia-mcp] workspace migrated — ${migration.describe}`);
+        }
+      } catch (error) {
+        console.error(`[philoscopia-mcp] migration "${migration.id}" skipped: ${(error as Error).message}`);
+      }
+    }
   }
 
   /** Vault §10.4: every writer refreshes the manifest's referential pin when

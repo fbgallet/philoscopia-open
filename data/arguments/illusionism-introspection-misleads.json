@@ -1,0 +1,148 @@
+{
+  "id": "illusionism-introspection-misleads",
+  "kind": "SUPPORTS",
+  "position": {
+    "axisId": "CONSCIOUSNESS_NATURE",
+    "poleId": "ILLUSIONISM"
+  },
+  "name": {
+    "fr": "L'argument de l'introspection trompeuse",
+    "en": "The argument from misleading introspection"
+  },
+  "claim": {
+    "fr": "Rien ne garantit que l'introspection dise vrai sur elle-même ; et une fois expliqué pourquoi le vécu nous paraît ineffable, il ne reste rien à expliquer.",
+    "en": "Nothing guarantees that introspection tells the truth about itself; and once we have explained why experience seems ineffable to us, nothing is left to explain."
+  },
+  "summary": {
+    "fr": "Les qualia n'ont qu'un seul témoin, un mécanisme dont on sait qu'il se trompe : ce qu'il faut expliquer, c'est le témoignage.",
+    "en": "Qualia have only one witness, a mechanism we know to be fallible: what needs explaining is the testimony."
+  },
+  "development": [
+    {
+      "fr": "Tout ce que nous savons des <c id='qualia'>qualia</c>, ces propriétés privées, immédiates et ineffables, vient d'une seule source, l'<kw>introspection</kw> : la manière dont le cerveau se présente à lui-même ses propres états. Aucune observation extérieure ne les atteste.",
+      "en": "Everything we know of <c id='qualia'>qualia</c>, those private, immediate, ineffable properties, comes from a single source, <kw>introspection</kw>: the way the brain presents its own states to itself. No outside observation attests to them."
+    },
+    {
+      "fr": "Or ce mécanisme est un mécanisme comme un autre, et nous savons qu'il se trompe : la richesse du champ visuel est en grande partie reconstruite, nous <kw>confabulons</kw> après coup les motifs de nos choix, nous ne détectons pas d'énormes changements sous nos yeux. Ce n'est pas un miroir, c'est un résumé taillé pour agir vite.",
+      "en": "But that mechanism is a mechanism like any other, and we know it errs: the richness of the visual field is largely reconstructed, we <kw>confabulate</kw> after the fact the reasons for our choices, we fail to detect huge changes before our eyes. It is not a mirror, it is a summary cut out for acting fast."
+    },
+    {
+      "fr": "Un mécanisme qui simplifie et qui se trompe ailleurs peut se tromper aussi sur ce qu'il est lui-même : rien n'oblige à traiter ses verdicts comme des données infaillibles, sinon leur force de conviction, qui est précisément ce qu'il faudrait expliquer.",
+      "en": "A mechanism that simplifies and errs elsewhere may also err about what it is itself: nothing compels us to treat its verdicts as infallible data, except their force of conviction, which is precisely what needs explaining."
+    },
+    {
+      "fr": "Reste alors une question, celle-là traitable : pourquoi le cerveau se représente-t-il ses états comme dotés de propriétés ineffables ? Y répondre rendrait compte de tout ce qu'il y a à expliquer, nos rapports, nos étonnements, nos débats mêmes, sans laisser de résidu.",
+      "en": "One question then remains, and this one is tractable: why does the brain represent its states as having ineffable properties? Answering it would account for everything there is to explain, our reports, our astonishment, even our debates, with no remainder."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc les qualia n'ont pas à être expliqués mais dissous : ce qui existe, c'est un cerveau qui se représente comme ayant un vécu ineffable ; ce qu'il faut expliquer, c'est cette représentation, non son objet supposé.",
+    "en": "So qualia are not to be explained but dissolved: what exists is a brain representing itself as having ineffable experience; what needs explaining is that representation, not its supposed object."
+  },
+  "difficulty": 3,
+  "source": {
+    "author": {
+      "fr": "Keith Frankish",
+      "en": "Keith Frankish"
+    },
+    "figures": [
+      {
+        "name": {
+          "fr": "Frankish",
+          "en": "Frankish"
+        },
+        "kind": "PHILOSOPHER"
+      }
+    ],
+    "work": {
+      "fr": "« Illusionism as a Theory of Consciousness »",
+      "en": "\"Illusionism as a Theory of Consciousness\""
+    },
+    "year": 2016
+  },
+  "deepenings": [
+    {
+      "id": "what-introspection-misses",
+      "label": {
+        "fr": "Ce que l'introspection manque",
+        "en": "What introspection misses"
+      },
+      "targetStep": 1,
+      "summary": {
+        "fr": "Champ visuel reconstruit, motifs inventés après coup, changements énormes non vus : le témoin est établi comme peu fiable.",
+        "en": "A reconstructed visual field, motives invented after the fact, huge changes gone unseen: the witness is established as unreliable."
+      },
+      "development": [
+        {
+          "fr": "Nous croyons voir une scène nette et colorée d'un bord à l'autre du regard ; en réalité la précision et la couleur ne tiennent qu'au centre, et le reste est complété. L'impression de richesse ne correspond à rien dans le détail de ce qui est traité.",
+          "en": "We believe we see a scene sharp and coloured from one edge of our gaze to the other; in fact precision and colour hold only at the centre, and the rest is filled in. The impression of richness matches nothing in the detail of what is processed."
+        },
+        {
+          "fr": "Sollicités d'expliquer un choix, nous produisons sans hésiter une raison, y compris lorsque l'expérimentateur sait que ce n'est pas celle qui a agi. La sincérité du rapport n'est pas la garantie de sa vérité.",
+          "en": "Asked to explain a choice, we produce a reason without hesitation, including where the experimenter knows it is not the one that operated. The report's sincerity is no guarantee of its truth."
+        },
+        {
+          "fr": "Si l'introspection se trompe sur ce que nous voyons et sur ce qui nous fait agir, pourquoi serait-elle infaillible sur la nature même de ce qu'elle rapporte ?",
+          "en": "If introspection is wrong about what we see and about what makes us act, why should it be infallible about the very nature of what it reports?"
+        }
+      ],
+      "conclusion": {
+        "fr": "L'accès privilégié à soi n'est pas un accès transparent : c'est un rapport, produit par un dispositif que l'on peut étudier et prendre en défaut.",
+        "en": "Privileged access to oneself is not transparent access: it is a report, produced by a device that can be studied and caught out."
+      }
+    },
+    {
+      "id": "the-meta-problem",
+      "label": {
+        "fr": "Le méta-problème",
+        "en": "The meta-problem"
+      },
+      "summary": {
+        "fr": "Même un dualiste doit expliquer physiquement pourquoi nous disons que la conscience est mystérieuse : reste à savoir si cette explication est toute l'histoire.",
+        "en": "Even a dualist must physically explain why we say consciousness is mysterious: the question is whether that explanation is the whole story."
+      },
+      "development": [
+        {
+          "fr": "Nos discours sur la conscience sont des comportements : ils ont des causes physiques, et il doit donc exister une explication physique de ce que nous disons du <c id='hard-problem'>problème difficile</c>. C'est ce que <ph id='chalmers'>Chalmers</ph> a nommé le <kw>méta-problème</kw>, et la plupart des dualistes l'accordent, même s'ils réservent au vécu une part dans nos jugements.",
+          "en": "Our talk about consciousness consists of behaviours: it has physical causes, so there must be a physical explanation of what we say about the <c id='hard-problem'>hard problem</c>. This is what <ph id='chalmers'>Chalmers</ph> called the <kw>meta-problem</kw>, and most dualists grant it, even if they reserve a role for experience in our judgments."
+        },
+        {
+          "fr": "Cette explication, une fois trouvée, dira pourquoi il nous semble qu'il y a un vécu ineffable, pourquoi cela nous paraît indubitable et pourquoi nous jugeons que rien de physique ne peut en rendre compte.",
+          "en": "That explanation, once found, will say why it seems to us that there is ineffable experience, why it strikes us as indubitable, and why we judge that nothing physical could account for it."
+        },
+        {
+          "fr": "Deux attitudes deviennent alors possibles : ajouter au monde un vécu dont cette explication n'a nul besoin, ou reconnaître qu'elle épuise le phénomène. La seconde ne dit pas que rien n'est vécu : elle dit que ce qui est vécu n'a pas les propriétés que nous lui prêtons.",
+          "en": "Two attitudes then become possible: to add to the world an experience that this explanation has no need of, or to acknowledge that it exhausts the phenomenon. The second does not say that nothing is lived: it says that what is lived lacks the properties we ascribe to it."
+        }
+      ],
+      "conclusion": {
+        "fr": "Une fois le méta-problème résolu, ajouter le vécu ineffable n'explique plus rien de plus : la parcimonie penche du côté de l'illusion.",
+        "en": "Once the meta-problem is solved, adding ineffable experience explains nothing further: parsimony leans toward the illusion."
+      },
+      "source": {
+        "author": {
+          "fr": "David Chalmers",
+          "en": "David Chalmers"
+        },
+        "figures": [
+          {
+            "name": {
+              "fr": "Chalmers",
+              "en": "Chalmers"
+            },
+            "kind": "PHILOSOPHER",
+            "slug": "chalmers"
+          }
+        ],
+        "work": {
+          "fr": "« The Meta-Problem of Consciousness »",
+          "en": "\"The Meta-Problem of Consciousness\""
+        },
+        "year": 2018
+      }
+    }
+  ],
+  "problems": ["wrong-about-what-we-feel", "do-i-know-my-own-mind"],
+  "test": "illusionism-seeming-is-experience-objection",
+  "updatedAt": "2026-07-25T00:00:00.000Z"
+}

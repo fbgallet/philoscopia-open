@@ -1,0 +1,17 @@
+{
+  "id": "definite-description",
+  "term": { "fr": "Description définie", "en": "Definite description" },
+  "aliases": {
+    "fr": ["théorie des descriptions", "descriptions définies"],
+    "en": ["theory of descriptions", "definite descriptions"]
+  },
+  "definition": {
+    "fr": "Expression de la forme « le tel-et-tel » : le roi de France, l'auteur de Waverley, le plus petit nombre premier. <ph id='russell'>Russell</ph> soutient qu'une telle expression n'est pas un nom : elle ne désigne rien par elle-même, et la phrase où elle figure doit être réécrite comme une affirmation d'existence et d'unicité. « Le roi de France est chauve » devient : il existe un x, un seul, qui règne sur la France, et cet x est chauve. <stk>Trois gains d'un coup</stk> : les énoncés sur des objets inexistants deviennent faux plutôt qu'absurdes, la négation cesse d'être ambiguë (nier la phrase peut porter sur la chauvitude ou sur l'existence), et l'ontologie se dégraisse. La leçon générale est que <arg>la forme grammaticale d'une phrase n'est pas la forme logique du fait qu'elle énonce</arg>.",
+    "en": "An expression of the form 'the such-and-such' — the king of France, the author of Waverley, the smallest prime. <ph id='russell'>Russell</ph> holds that such an expression is not a name: it designates nothing by itself, and the sentence in which it occurs must be rewritten as a claim of existence and uniqueness. 'The king of France is bald' becomes: there is an x, exactly one, that reigns over France, and that x is bald. <stk>Three gains at once</stk>: statements about non-existent objects become false rather than nonsensical, negation stops being ambiguous (the denial may bear on the baldness or on the existence), and the ontology slims down. The general lesson is that <arg>the grammatical form of a sentence is not the logical form of the fact it states</arg>."
+  },
+  "relatedAxes": ["MEANING", "UNIVERSALS", "METAPHILOSOPHY"],
+  "relatedTerms": ["knowledge-by-acquaintance", "logical-atomism"],
+  "figure": { "slug": "russell", "name": { "fr": "Russell", "en": "Russell" } },
+  "positions": [{ "axisId": "MEANING", "poleId": "REFERENTIALISM" }],
+  "updatedAt": "2026-07-25T00:00:00.000Z"
+}

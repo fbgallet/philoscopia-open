@@ -1,0 +1,28 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "elisabeth-of-bohemia",
+  "stub": true,
+  "name": {
+    "fr": "Élisabeth de Bohême",
+    "en": "Elisabeth of Bohemia"
+  },
+  "aliases": {
+    "fr": ["Élisabeth", "Élisabeth de Bohême", "Elisabeth de Boheme", "princesse Élisabeth"],
+    "en": ["Elisabeth", "Elisabeth of Bohemia", "Princess Elisabeth", "Elisabeth of the Palatinate"]
+  },
+  "summary": {
+    "fr": "Princesse palatine et correspondante de Descartes, à qui elle opposa la difficulté restée célèbre : comment une âme sans étendue peut-elle mouvoir un corps ?",
+    "en": "Palatine princess and correspondent of Descartes, to whom she put the difficulty that remains famous: how can an unextended soul move a body?"
+  },
+  "birth": 1618,
+  "death": 1680,
+  "nationality": {
+    "fr": "Allemande",
+    "en": "German"
+  },
+  "movements": [],
+  "updatedAt": "2026-07-25T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

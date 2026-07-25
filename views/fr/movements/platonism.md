@@ -272,7 +272,7 @@ L'argument de la parenté tire la conclusion de la métaphysique des Idées : ce
 
 Dualisme des substances 80% · Dualisme des propriétés 20%
 
-Ce qui pense ne peut être de même nature que ce qui est pensé du dehors : l'âme connaît les Idées immatérielles, elle se meut elle-même et survit aux états du corps, autant de traits qu'aucune disposition de la matière ne saurait produire. La conscience relève donc d'un autre ordre que le sensible, antérieur et indépendant de lui, et non d'un agencement corporel qui l'engendrerait. Le platonisme refuse ainsi par avance toute réduction de l'esprit à la matière, là où les stoïciens feront de l'âme un souffle corporel.
+Ce qui pense ne peut être de même nature que ce qui est pensé du dehors : l'âme connaît les [Idées](../glossary/theory-of-forms.md) immatérielles, elle se meut elle-même et survit aux états du corps, autant de traits qu'aucune disposition de la matière ne saurait produire. La conscience relève donc d'un autre ordre que le sensible, antérieur et indépendant de lui, et non d'un agencement corporel qui l'engendrerait. Le platonisme refuse ainsi par avance toute [réduction](../glossary/reductionism.md) de l'esprit à la matière, là où les [stoïciens](../movements/stoicism.md) feront de l'âme un souffle corporel.
 
 *Sources : Platon, Phédon ; Phèdre*
 

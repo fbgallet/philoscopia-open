@@ -76,5 +76,93 @@
       }
     }
   ],
-  "updatedAt": "2026-07-13T00:00:00.000Z"
+  "roles": [
+    {
+      "role": "OBJECTS",
+      "position": {
+        "axisId": "MACHINE_MIND",
+        "poleId": "FUNCTIONALISM"
+      },
+      "attacks": "POSITION",
+      "argumentId": "functionalism-multiple-realizability",
+      "problems": ["chinese-room"],
+      "summary": {
+        "fr": "Dans la pièce, toute l'organisation requise est réalisée, et pourtant personne ne comprend un mot de chinois : réaliser le bon programme ne suffit donc pas à comprendre.",
+        "en": "In the room the whole required organization is realized, and yet no one understands a word of Chinese: realizing the right program is therefore not enough to understand."
+      },
+      "reconstruction": {
+        "development": [
+          {
+            "fr": "Dans la pièce, tout ce que le fonctionnalisme demande est réuni : les mêmes entrées, les mêmes états intermédiaires, les mêmes sorties qu'un locuteur chinois. L'organisation est réalisée intégralement.",
+            "en": "In the room, everything functionalism asks for is assembled: the same inputs, the same intermediate states, the same outputs as a Chinese speaker. The organization is realized in full."
+          },
+          {
+            "fr": "Pourtant, celui qui applique les règles ne comprend rien : il ne sait même pas de quoi parlent les feuillets qu'il rend. Il a la forme des signes, jamais leur sens.",
+            "en": "Yet whoever applies the rules understands nothing: he does not even know what the sheets he hands back are about. He has the shape of the signs, never their meaning."
+          },
+          {
+            "fr": "Si l'organisation était ce qui fait la compréhension, elle serait là, présente dans la pièce. Elle n'y est pas.",
+            "en": "If organization were what makes understanding, it would be there, present in the room. It is not."
+          }
+        ],
+        "conclusion": {
+          "fr": "Donc réaliser la bonne organisation ne suffit pas à penser : il manque quelque chose que le programme, par construction, ne peut fournir.",
+          "en": "So realizing the right organization is not enough to think: something is missing that the program, by construction, cannot supply."
+        }
+      },
+      "responses": [
+        {
+          "id": "revise",
+          "label": {
+            "fr": "Exécuter un programme n'est pas comprendre ; mais un artefact qui reproduirait les pouvoirs causaux du cerveau, ou l'engagement d'un corps, le pourrait.",
+            "en": "Running a program is not understanding; but an artifact reproducing the causal powers of the brain, or a body's engagement, could."
+          },
+          "hints": [
+            {
+              "axisId": "MACHINE_MIND",
+              "value": { "kind": "scalar", "value": 0 },
+              "weight": 2
+            }
+          ],
+          "discussion": {
+            "fr": "C'est exactement la conclusion de <ph id='searle'>Searle</ph> : il vise le programme, non la machine en général.",
+            "en": "This is exactly <ph id='searle'>Searle</ph>'s conclusion: his target is the program, not machines in general."
+          }
+        },
+        {
+          "id": "qualify",
+          "label": {
+            "fr": "Ce qui manque à la pièce, c'est d'avoir affaire au monde pour son compte : la compréhension appartient à ce qui vit, non à ce qu'on fabrique.",
+            "en": "What the room lacks is dealing with the world on its own account: understanding belongs to what lives, not to what is manufactured."
+          },
+          "hints": [
+            {
+              "axisId": "MACHINE_MIND",
+              "value": { "kind": "scalar", "value": 1 },
+              "weight": 1
+            }
+          ]
+        },
+        {
+          "id": "refute",
+          "label": {
+            "fr": "L'homme seul ne comprend pas, mais le système entier, lui, le manuel et la pièce, comprend : aucun neurone isolé ne comprend non plus.",
+            "en": "The man alone does not understand, but the whole system, he, the rulebook and the room, does: no isolated neuron understands either."
+          },
+          "hints": [
+            {
+              "axisId": "MACHINE_MIND",
+              "value": { "kind": "scalar", "value": -1 },
+              "weight": 0.5
+            }
+          ],
+          "discussion": {
+            "fr": "La réponse des systèmes, que <ph id='searle'>Searle</ph> écarte en imaginant l'homme apprenant le manuel par cœur : l'objection et la réplique tiennent toutes deux sur la question de savoir où loger la compréhension.",
+            "en": "The systems reply, which <ph id='searle'>Searle</ph> dismisses by imagining the man learning the rulebook by heart: objection and reply both turn on where understanding is to be located."
+          }
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-25T00:00:00.000Z"
 }

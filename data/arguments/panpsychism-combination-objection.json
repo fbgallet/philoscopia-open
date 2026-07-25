@@ -1,0 +1,144 @@
+{
+  "id": "panpsychism-combination-objection",
+  "kind": "OBJECTS",
+  "position": {
+    "axisId": "CONSCIOUSNESS_NATURE",
+    "poleId": "DUAL_ASPECT"
+  },
+  "name": {
+    "fr": "Le problème de la combinaison",
+    "en": "The combination problem"
+  },
+  "claim": {
+    "fr": "Des milliards de petits sujets ne font pas un grand sujet : la conscience unique reste aussi mystérieuse qu'avant, et l'on a peuplé l'univers d'esprits pour rien.",
+    "en": "Billions of little subjects do not make one great subject: the single consciousness stays as mysterious as before, and the universe has been peopled with minds for nothing."
+  },
+  "summary": {
+    "fr": "Le <c id='panpsychism'>panpsychisme</c> remplace une émergence inexpliquée par une composition tout aussi inexpliquée.",
+    "en": "<c id='panpsychism'>Panpsychism</c> replaces an unexplained emergence with an equally unexplained composition."
+  },
+  "development": [
+    {
+      "fr": "L'argument se veut plus économique qu'une émergence : plutôt que de faire naître le vécu de ce qui n'en a pas, il le suppose déjà là, en petit, dans les éléments dont nous sommes faits.",
+      "en": "The argument claims to be more economical than emergence: rather than having experience born from what has none, it assumes it already there, in miniature, in the elements we are made of."
+    },
+    {
+      "fr": "Mais un vécu n'est pas un ingrédient qui s'additionne : il est toujours le vécu de quelqu'un, un <kw>sujet</kw>, un point de vue sur quelque chose. Cent points de vue juxtaposés font cent points de vue, non un point de vue plus vaste.",
+      "en": "But an experience is not an ingredient that adds up: it is always someone's experience, a <kw>subject</kw>'s, a point of view on something. A hundred juxtaposed points of view make a hundred points of view, not one larger point of view."
+    },
+    {
+      "fr": "Il faudrait donc expliquer comment des <kw>micro-sujets</kw> se fondent en un sujet unique qui, lui, ne trouve en lui aucune trace des leurs : ma conscience ne se présente pas comme une foule dont j'entendrais les voix.",
+      "en": "One would then have to explain how <kw>micro-subjects</kw> merge into a single subject that finds in itself no trace of theirs: my consciousness does not present itself as a crowd whose voices I hear."
+    },
+    {
+      "fr": "Ce passage du multiple à l'un est aussi inexpliqué que le passage du non-vécu au vécu qu'on voulait éviter. L'argument reproche à ses rivaux un miracle, et en installe un autre à la place.",
+      "en": "That passage from many to one is as unexplained as the passage from the non-experienced to the experienced one wanted to avoid. The argument charges its rivals with a miracle, and installs another in its place."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc le <c id='panpsychism'>panpsychisme</c> n'a pas l'avantage qu'il réclame : il remplace une émergence inexpliquée par une composition tout aussi inexpliquée, au prix d'une intériorité prêtée à toute la matière.",
+    "en": "So <c id='panpsychism'>panpsychism</c> lacks the advantage it claims: it replaces an unexplained emergence with an equally unexplained composition, at the price of an inwardness lent to all matter."
+  },
+  "difficulty": 2,
+  "source": {
+    "author": {
+      "fr": "William James",
+      "en": "William James"
+    },
+    "figures": [
+      {
+        "name": {
+          "fr": "William James",
+          "en": "William James"
+        },
+        "kind": "PHILOSOPHER",
+        "slug": "william-james"
+      }
+    ],
+    "work": {
+      "fr": "Principes de psychologie, I, chap. VI",
+      "en": "The Principles of Psychology, I, ch. VI"
+    },
+    "year": 1890
+  },
+  "attacks": "POSITION",
+  "problems": [
+    "the-combination-problem"
+  ],
+  "responses": [
+    {
+      "id": "emergence-with-life",
+      "label": {
+        "fr": "Autant assumer que la conscience apparaît avec une certaine organisation du vivant, sans peupler l'univers d'intériorités.",
+        "en": "Better to accept that consciousness appears with a certain organization of living things, without peopling the universe with inwardness."
+      },
+      "hints": [
+        {
+          "axisId": "CONSCIOUSNESS_NATURE",
+          "value": {
+            "kind": "weights",
+            "weights": [
+              0,
+              0,
+              0,
+              1,
+              0
+            ]
+          },
+          "weight": 2
+        }
+      ]
+    },
+    {
+      "id": "irreducible-where-found",
+      "label": {
+        "fr": "Gardons l'irréductibilité du vécu là où on le trouve, sans le supposer partout : un fait de plus, non une étoffe universelle.",
+        "en": "Let us keep experience irreducible where we find it, without assuming it everywhere: one further fact, not a universal stuff."
+      },
+      "hints": [
+        {
+          "axisId": "CONSCIOUSNESS_NATURE",
+          "value": {
+            "kind": "weights",
+            "weights": [
+              0,
+              1,
+              0,
+              0,
+              0
+            ]
+          },
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "id": "hard-not-impossible",
+      "label": {
+        "fr": "Que la composition soit difficile ne la rend pas impossible ; et notre conscience est peut-être moins une qu'elle n'y paraît.",
+        "en": "That composition is hard does not make it impossible; and our consciousness may be less one than it appears."
+      },
+      "hints": [
+        {
+          "axisId": "CONSCIOUSNESS_NATURE",
+          "value": {
+            "kind": "weights",
+            "weights": [
+              0,
+              0,
+              1,
+              0,
+              0
+            ]
+          },
+          "weight": 0.5
+        }
+      ],
+      "discussion": {
+        "fr": "La réplique des panpsychistes contemporains : le problème de la combinaison est un programme de recherche, non une réfutation, et le <ax id='CONSCIOUSNESS_NATURE' pole='PHYSICALISM'>physicalisme</ax> a le sien.",
+        "en": "The reply of contemporary panpsychists: the combination problem is a research programme, not a refutation, and <ax id='CONSCIOUSNESS_NATURE' pole='PHYSICALISM'>physicalism</ax> has one of its own."
+      }
+    }
+  ],
+  "updatedAt": "2026-07-25T00:00:00.000Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "russell-to-galen-strawson",
+  "from": { "kind": "PHILOSOPHER", "slug": "russell" },
+  "to": { "kind": "PHILOSOPHER", "slug": "galen-strawson" },
+  "directness": "INDIRECT",
+  "mode": "REINTERPRETS",
+  "strength": "MEDIUM",
+  "note": {
+    "fr": "Ce qui est repris est un argument, non une doctrine : <arg>la physique ne nous livre que la structure des choses, jamais leur nature intrinsèque</arg>, et le vécu est la seule portion du monde que nous connaissions autrement que du dehors. <ph id='galen-strawson'>Strawson</ph> exploite cette place laissée vide dans un sens que <ph id='russell'>Russell</ph> n'a pas pris : il la peuple de propriétés expérientielles jusqu'au <c>panpsychisme</c>, là où Russell tenait l'étoffe pour <c id='neutral-monism'>neutre</c>, c'est-à-dire précisément pour ni mentale ni physique. <dif>L'étiquette « monisme russellien » recouvre les deux</dif> et brouille l'écart : <ax id='CONSCIOUSNESS_NATURE' pole='DUAL_ASPECT'>un même pôle</ax> abrite une thèse d'agnosticisme sur l'étoffe et une thèse sur sa nature.",
+    "en": "What is taken up is an argument, not a doctrine: <arg>physics gives us only the structure of things, never their intrinsic nature</arg>, and experience is the one portion of the world we know otherwise than from outside. <ph id='galen-strawson'>Strawson</ph> exploits that vacant place in a direction <ph id='russell'>Russell</ph> did not take: he peoples it with experiential properties, as far as <c>panpsychism</c>, where Russell held the stuff to be <c id='neutral-monism'>neutral</c>, that is, precisely neither mental nor physical. <dif>The label 'Russellian monism' covers both</dif> and blurs the gap: <ax id='CONSCIOUSNESS_NATURE' pole='DUAL_ASPECT'>one and the same pole</ax> houses a thesis of agnosticism about the stuff and a thesis about its nature."
+  },
+  "sources": [
+    {
+      "fr": "G. Strawson, « Realistic Monism: Why Physicalism Entails Panpsychism » (2006)",
+      "en": "G. Strawson, \"Realistic Monism: Why Physicalism Entails Panpsychism\" (2006)"
+    }
+  ],
+  "updatedAt": "2026-07-25T00:00:00.000Z"
+}

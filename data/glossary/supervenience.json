@@ -1,0 +1,18 @@
+{
+  "id": "supervenience",
+  "term": {
+    "fr": "La survenance",
+    "en": "Supervenience"
+  },
+  "aliases": {
+    "fr": ["survenance", "survenir sur", "supervenance"],
+    "en": ["supervenience", "supervenes on", "supervenient"]
+  },
+  "definition": {
+    "fr": "Deux choses ne peuvent différer par le haut sans différer par le bas : si deux cerveaux sont physiquement identiques jusqu'au dernier atome, ils ne peuvent pas différer par ce qu'ils éprouvent. La survenance énonce donc une dépendance stricte sans énoncer une identité, comme la beauté d'un tableau survient sur la disposition de ses pigments sans être cette disposition. <stk>C'est l'outil qui permet de tenir ensemble « tout dépend du physique » et « tout ne se réduit pas au physique »</stk>, et c'est là qu'on demande aux non-réductionnistes ce qui distingue encore leur position du <c id='materialism'>matérialisme</c>.",
+    "en": "Two things cannot differ at the upper level without differing at the lower one: if two brains are physically identical down to the last atom, they cannot differ in what they undergo. Supervenience thus states a strict dependence without stating an identity, as a painting's beauty supervenes on the arrangement of its pigments without being that arrangement. <stk>It is the tool that lets one hold together \"everything depends on the physical\" and \"not everything reduces to the physical\"</stk>, and it is the point at which non-reductionists are asked what still distinguishes their position from <c id='materialism'>materialism</c>."
+  },
+  "relatedAxes": ["CONSCIOUSNESS_NATURE", "REDUCTION_EMERGENCE"],
+  "relatedTerms": ["reductionism", "emergentism", "materialism", "causal-closure"],
+  "updatedAt": "2026-07-25T00:00:00.000Z"
+}

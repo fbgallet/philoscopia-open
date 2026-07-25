@@ -6,8 +6,8 @@
     "en": "Chalmers"
   },
   "summary": {
-    "fr": "Philosophe australien de l'esprit, qui a nommé le « problème difficile » de la conscience : expliquer les mécanismes du cerveau laisse entière la question de savoir pourquoi ils s'accompagnent d'un vécu. Il en tire, par l'argument des zombies, un dualisme des propriétés.",
-    "en": "Australian philosopher of mind, who named the \"hard problem\" of consciousness: explaining the brain's mechanisms leaves untouched the question of why they are accompanied by any experience at all. From it, through the zombie argument, he draws a property dualism."
+    "fr": "Philosophe australien de l'esprit, qui a nommé le « <c id='hard-problem'>problème difficile</c> » de la conscience : expliquer les mécanismes du cerveau laisse entière la question de savoir pourquoi ils s'accompagnent d'un vécu. Il en tire, par l'argument des zombies, un dualisme des propriétés.",
+    "en": "Australian philosopher of mind, who named the \"<c id='hard-problem'>hard problem</c>\" of consciousness: explaining the brain's mechanisms leaves untouched the question of why they are accompanied by any experience at all. From it, through the zombie argument, he draws a property dualism."
   },
   "birth": 1966,
   "nationality": {
@@ -33,8 +33,8 @@
     "en": "David Chalmers"
   },
   "tagline": {
-    "fr": "Il a nommé le problème difficile : quand la science aura tout dit des mécanismes du cerveau, il restera à expliquer pourquoi ils s'accompagnent d'un vécu, et cette question-là, aucune description fonctionnelle ne l'atteint.",
-    "en": "He named the hard problem: when science has said everything about the brain's mechanisms, it will remain to explain why they are accompanied by any experience at all, and no functional description reaches that question."
+    "fr": "Il a nommé le <c id='hard-problem'>problème difficile</c> : quand la science aura tout dit des mécanismes du cerveau, il restera à expliquer pourquoi ils s'accompagnent d'un vécu, et cette question-là, aucune description fonctionnelle ne l'atteint.",
+    "en": "He named the <c id='hard-problem'>hard problem</c>: when science has said everything about the brain's mechanisms, it will remain to explain why they are accompanied by any experience at all, and no functional description reaches that question."
   },
   "entries": [
     {
@@ -44,9 +44,9 @@
         "kind": "weights",
         "weights": [
           0,
+          0.7,
+          0.3,
           0,
-          0.75,
-          0.25,
           0
         ]
       },
@@ -54,8 +54,8 @@
       "salience": "MAJOR",
       "justification": {
         "text": {
-          "fr": "Chalmers sépare les <c>problèmes faciles</c> de la conscience, qui relèvent des mécanismes et que la science résoudra, du <c>problème difficile</c> : <pb>pourquoi ces mécanismes s'accompagnent-ils d'un vécu ?</pb> Aucune explication fonctionnelle n'y répond, car décrire ce que fait un système laisse entier l'effet que cela fait de l'être. Il en conclut que les <c id='qualia'>qualia</c> ne sont pas réductibles aux processus physiques mais leur sont liés par des lois de la nature, et qualifie sa position de <c>dualisme naturaliste</c> : la conscience est une donnée fondamentale du monde, comme la masse ou la charge, non une substance séparée. Il explore par ailleurs, sans s'y ranger, une autre voie pour la même intuition : loger l'expérience dans la nature intrinsèque du physique, dont la physique ne décrit que la structure. Cette option, voisine du <c>monisme russellien</c> et du <c>panpsychisme</c>, reste chez lui une piste sérieuse, non la thèse qu'il défend.",
-          "en": "Chalmers separates the <c>easy problems</c> of consciousness, which concern mechanisms and which science will solve, from the <c>hard problem</c>: <pb>why are those mechanisms accompanied by any experience at all?</pb> No functional explanation answers it, for describing what a system does leaves untouched what it is like to be one. He concludes that <c id='qualia'>qualia</c> are not reducible to physical processes but are tied to them by laws of nature, and calls his position a <c>naturalistic dualism</c>: consciousness is a fundamental feature of the world, like mass or charge, not a separate substance. He also explores, without adopting it, another route to the same intuition: lodging experience in the intrinsic nature of the physical, of which physics describes only the structure. That option, close to <c>Russellian monism</c> and to <c>panpsychism</c>, remains for him a serious avenue, not the thesis he defends."
+          "fr": "Chalmers sépare les <c>problèmes faciles</c> de la conscience, qui relèvent des mécanismes et que la science résoudra, du <c id='hard-problem'>problème difficile</c> : <pb>pourquoi ces mécanismes s'accompagnent-ils d'un vécu ?</pb> Aucune explication fonctionnelle n'y répond, car décrire ce que fait un système laisse entier l'effet que cela fait de l'être. Il en conclut que les <c id='qualia'>qualia</c> ne sont pas réductibles aux processus physiques mais leur sont liés par des lois de la nature, et qualifie sa position de <c>dualisme naturaliste</c> : la conscience est une donnée fondamentale du monde, comme la masse ou la charge, non une substance séparée. Il explore par ailleurs, sans s'y ranger, une autre voie pour la même intuition : loger l'expérience dans la nature intrinsèque du physique, dont la physique ne décrit que la structure. Cette option, voisine du <c>monisme russellien</c> et du <c id='panpsychism'>panpsychisme</c>, reste chez lui une piste sérieuse, non la thèse qu'il défend.",
+          "en": "Chalmers separates the <c>easy problems</c> of consciousness, which concern mechanisms and which science will solve, from the <c id='hard-problem'>hard problem</c>: <pb>why are those mechanisms accompanied by any experience at all?</pb> No functional explanation answers it, for describing what a system does leaves untouched what it is like to be one. He concludes that <c id='qualia'>qualia</c> are not reducible to physical processes but are tied to them by laws of nature, and calls his position a <c>naturalistic dualism</c>: consciousness is a fundamental feature of the world, like mass or charge, not a separate substance. He also explores, without adopting it, another route to the same intuition: lodging experience in the intrinsic nature of the physical, of which physics describes only the structure. That option, close to <c>Russellian monism</c> and to <c id='panpsychism'>panpsychism</c>, remains for him a serious avenue, not the thesis he defends."
         },
         "references": [
           {
@@ -65,6 +65,10 @@
           {
             "fr": "The Conscious Mind (1996)",
             "en": "The Conscious Mind (1996)"
+          },
+          {
+            "fr": "« Panpsychism and Panprotopsychism » (2015)",
+            "en": "\"Panpsychism and Panprotopsychism\" (2015)"
           }
         ],
         "strength": "STRONG"

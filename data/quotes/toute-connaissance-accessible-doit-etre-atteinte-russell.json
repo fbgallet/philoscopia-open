@@ -1,0 +1,16 @@
+{
+  "id": "toute-connaissance-accessible-doit-etre-atteinte-russell",
+  "text": {
+    "fr": "Toute connaissance accessible doit être atteinte par des méthodes scientifiques ; et ce que la science ne peut découvrir, l'humanité ne peut le savoir.",
+    "en": "Whatever knowledge is attainable, must be attained by scientific methods; and what science cannot discover, mankind cannot know."
+  },
+  "author": { "name": { "fr": "Russell", "en": "Russell" }, "kind": "PHILOSOPHER", "slug": "russell" },
+  "work": "religion-and-science-russell",
+  "source": { "fr": "Science et religion (1935)", "en": "Religion and Science (1935)" },
+  "anchors": [{ "axisId": "SCIENCE_PLACE", "poleId": "SCIENTISM" }],
+  "context": {
+    "fr": "La phrase est posée comme une limite et non comme un éloge : elle n'affirme pas que la science réponde à tout, mais qu'aucune autre voie ne donne de connaissance. Russell réserve aussitôt les questions de valeur.",
+    "en": "The sentence is posed as a limit rather than a tribute: it does not claim that science answers everything, but that no other route yields knowledge. Russell immediately sets questions of value aside."
+  },
+  "updatedAt": "2026-07-25T00:00:00.000Z"
+}

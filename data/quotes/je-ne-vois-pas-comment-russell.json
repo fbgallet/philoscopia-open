@@ -1,0 +1,18 @@
+{
+  "id": "je-ne-vois-pas-comment-russell",
+  "text": {
+    "fr": "Je ne vois pas comment réfuter les arguments en faveur de la subjectivité des valeurs éthiques, mais je me trouve incapable de croire que tout ce qu'il y a de mal dans la cruauté gratuite, c'est que je ne l'aime pas.",
+    "en": "I cannot see how to refute the arguments for the subjectivity of ethical values, but I find myself incapable of believing that all that is wrong with wanton cruelty is that I don't like it."
+  },
+  "author": { "name": { "fr": "Russell", "en": "Russell" }, "kind": "PHILOSOPHER", "slug": "russell" },
+  "source": {
+    "fr": "« Reply to Criticisms », dans The Philosophy of Bertrand Russell (1944)",
+    "en": "\"Reply to Criticisms\", in The Philosophy of Bertrand Russell (1944)"
+  },
+  "anchors": [{ "axisId": "MORAL_SCOPE" }],
+  "context": {
+    "fr": "Russell y répond à ses commentateurs et refuse de se satisfaire de sa propre métaéthique : il tient le subjectivisme pour irréfutable et incroyable à la fois, et n'a jamais résolu la difficulté.",
+    "en": "Answering his commentators, Russell refuses to settle for his own metaethics: he holds subjectivism to be at once irrefutable and unbelievable, and never resolved the difficulty."
+  },
+  "updatedAt": "2026-07-25T00:00:00.000Z"
+}

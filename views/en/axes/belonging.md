@@ -38,6 +38,8 @@ We are first citizens of the world: [human dignity does not stop at borders](../
 
 > “Working Men of All Countries, Unite!” — [Marx](../philosophers/marx.md), Manifesto of the Communist Party, 1848
 
+> “Remember your humanity, and forget the rest.” — [Russell](../philosophers/russell.md), Russell-Einstein Manifesto (1955), closing appeal
+
 > “Live unnoticed.” — [Epicurus](../philosophers/epicurus.md), Fragment 551 Usener (lathe biosas)
 
 ## Related axes

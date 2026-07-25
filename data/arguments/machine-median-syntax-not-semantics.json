@@ -1,0 +1,145 @@
+{
+  "id": "machine-median-syntax-not-semantics",
+  "kind": "SUPPORTS",
+  "position": {
+    "axisId": "MACHINE_MIND",
+    "median": true
+  },
+  "name": {
+    "fr": "L'argument de la syntaxe et du sens",
+    "en": "The syntax-and-meaning argument"
+  },
+  "claim": {
+    "fr": "Un programme ne manie que des formes ; comprendre, c'est atteindre un sens. Aucune quantité de règles ne franchit cet écart, ce qui ne condamne pas pour autant tout artefact.",
+    "en": "A program handles only forms; understanding is reaching a meaning. No quantity of rules crosses that gap, which does not condemn every artifact."
+  },
+  "summary": {
+    "fr": "Exécuter un programme ne sera jamais comprendre ; mais ce qui manque à la machine n'est pas la vie, ce sont les pouvoirs causaux du cerveau.",
+    "en": "Running a program will never be understanding; but what the machine lacks is not life, it is the causal powers of the brain."
+  },
+  "development": [
+    {
+      "fr": "Un programme se définit entièrement par la <kw>syntaxe</kw>, c'est-à-dire par la forme de ses symboles : on l'exécute correctement en suivant des règles qui ne parlent que de la figure et de la place des signes, jamais de ce qu'ils désignent. C'est précisément ce qui permet à un même programme de tourner sur des machines quelconques.",
+      "en": "A program is defined entirely by <kw>syntax</kw>, that is, by the shape of its symbols: one runs it correctly by following rules that speak only of the figure and place of signs, never of what they designate. That is exactly what lets one and the same program run on any machine."
+    },
+    {
+      "fr": "Or comprendre, ce n'est pas manier des signes, c'est savoir de quoi l'on parle, atteindre la <kw>sémantique</kw> et non la seule syntaxe : les signes doivent se rapporter à autre chose qu'eux, ce qu'on appelle l'<c id='intentionality'>intentionnalité</c>. Un système qui ne dispose que de la forme n'a, par lui-même, aucun moyen d'atteindre le sens, et ajouter des règles n'y change rien, puisque ce sont encore des règles sur des formes.",
+      "en": "But understanding is not handling signs, it is knowing what one is talking about, reaching the <kw>semantics</kw> and not the syntax alone: the signs must relate to something other than themselves, which is called <c id='intentionality'>intentionality</c>. A system that has only form at its disposal has, of itself, no way of reaching meaning, and adding rules changes nothing, since they are still rules about forms."
+    },
+    {
+      "fr": "On objectera que la simulation, si elle est parfaite, revient au même. Mais <kw>simuler</kw> n'est pas <kw>reproduire</kw> : la simulation d'un orage ne mouille personne, celle d'une digestion ne nourrit pas. Il n'y a aucune raison de faire une exception pour la compréhension.",
+      "en": "It will be objected that a simulation, if perfect, comes to the same thing. But <kw>simulating</kw> is not <kw>reproducing</kw>: the simulation of a storm wets no one, that of a digestion feeds no one. There is no reason to make an exception for understanding."
+    },
+    {
+      "fr": "Le cerveau, lui, produit bel et bien de la pensée : il ne se contente donc pas d'exécuter un programme, il a des <kw>pouvoirs causaux</kw> propres, tenant à ce qu'il est et non seulement à ce qu'il calcule. Rien n'interdit qu'un artefact les possède un jour, mais il devra les reproduire, non les simuler.",
+      "en": "The brain, however, genuinely does produce thought: it therefore does not merely run a program, it has <kw>causal powers</kw> of its own, belonging to what it is and not only to what it computes. Nothing forbids an artifact from possessing them one day, but it will have to reproduce them, not simulate them."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc exécuter un programme ne sera jamais penser, sans que la pensée soit pour autant le privilège du vivant : ce qui manque à nos machines n'est pas la vie, ce sont les pouvoirs causaux du cerveau, ou l'engagement d'un corps dans un monde.",
+    "en": "So running a program will never be thinking, without thought being the privilege of the living: what our machines lack is not life, it is the causal powers of the brain, or a body's engagement with a world."
+  },
+  "difficulty": 2,
+  "source": {
+    "author": {
+      "fr": "John Searle",
+      "en": "John Searle"
+    },
+    "figures": [
+      {
+        "name": {
+          "fr": "Searle",
+          "en": "Searle"
+        },
+        "kind": "PHILOSOPHER",
+        "slug": "searle"
+      }
+    ],
+    "work": {
+      "fr": "« Esprits, cerveaux et programmes »",
+      "en": "\"Minds, Brains, and Programs\""
+    },
+    "year": 1980
+  },
+  "deepenings": [
+    {
+      "id": "simulate-and-reproduce",
+      "label": {
+        "fr": "Simuler et reproduire",
+        "en": "Simulating and reproducing"
+      },
+      "targetStep": 2,
+      "summary": {
+        "fr": "Nul ne confond la carte et le territoire, sauf quand il s'agit de l'esprit.",
+        "en": "No one confuses the map with the territory, except where mind is concerned."
+      },
+      "development": [
+        {
+          "fr": "Une simulation reproduit la description d'un processus, non le processus : le modèle météorologique qui prévoit la pluie ne contient pas une goutte d'eau, et personne ne s'en étonne.",
+          "en": "A simulation reproduces the description of a process, not the process: the weather model that forecasts rain contains not one drop of water, and no one is surprised."
+        },
+        {
+          "fr": "Si l'on admet cela pour l'orage et la digestion, il faut dire pourquoi la pensée ferait exception : soit qu'elle ne soit rien d'autre qu'une structure formelle, ce qui est précisément la thèse en question, soit par un privilège accordé sans raison.",
+          "en": "If this is granted for storms and digestion, one must say why thought would be the exception: either because it is nothing but a formal structure, which is precisely the thesis at issue, or by a privilege granted for no reason."
+        }
+      ],
+      "conclusion": {
+        "fr": "Tenir la simulation pour la chose même, c'est déjà supposer que la pensée n'est que forme.",
+        "en": "Taking the simulation for the thing itself already assumes that thought is nothing but form."
+      }
+    },
+    {
+      "id": "intelligence-without-a-body",
+      "label": {
+        "fr": "Une intelligence sans corps",
+        "en": "Intelligence without a body"
+      },
+      "summary": {
+        "fr": "L'autre voie vers la même médiane : comprendre une situation suppose un corps qui l'habite, non un stock de règles.",
+        "en": "The other road to the same middle: grasping a situation takes a body that inhabits it, not a stock of rules."
+      },
+      "development": [
+        {
+          "fr": "Comprendre une situation, ce n'est pas parcourir la liste de ses traits : c'est voir d'emblée ce qui, dans ce contexte, mérite l'attention, ce qu'on appelle le sens de la <kw>pertinence</kw>. Un enfant sait qu'on ne plaisante pas à un enterrement sans avoir jamais appris la règle.",
+          "en": "Grasping a situation is not running through a list of its features: it is seeing at once what, in this context, deserves attention, a sense of <kw>relevance</kw>. A child knows one does not joke at a funeral without ever having learned the rule."
+        },
+        {
+          "fr": "Cette pertinence ne se laisse pas mettre en règles, parce qu'il faudrait une règle pour choisir la règle, et ainsi sans fin. Elle tient à un savoir-faire acquis par un corps qui a affaire au monde, qui a besoin, qui se déplace, qui craint.",
+          "en": "That sense of relevance cannot be put into rules, since a rule would be needed to choose the rule, and so on endlessly. It rests on a know-how acquired by a body that deals with the world, that needs, that moves, that fears."
+        },
+        {
+          "fr": "<ph>Dreyfus</ph>, s'appuyant sur <ph id='merleau-ponty'>Merleau-Ponty</ph>, en tire non que la machine est impossible, mais que la machine désincarnée l'est : un artefact engagé dans un monde ne tomberait pas sous l'objection.",
+          "en": "<ph>Dreyfus</ph>, drawing on <ph id='merleau-ponty'>Merleau-Ponty</ph>, concludes not that the machine is impossible, but that the disembodied machine is: an artifact engaged in a world would not fall under the objection."
+        }
+      ],
+      "conclusion": {
+        "fr": "Cette voie ne répond pas à la <te id='chinese-room'>chambre chinoise</te>, dont elle est indépendante : elle mène à la même position médiane par un autre chemin. Ce qui manque au programme n'est alors pas nécessairement la vie : c'est un corps engagé dans un monde, que rien n'interdit de construire.",
+        "en": "This route does not answer the <te id='chinese-room'>Chinese Room</te>, from which it is independent: it reaches the same middle position by another road. What the program lacks is then not necessarily life: it is a body engaged in a world, which nothing forbids us to build."
+      },
+      "source": {
+        "author": {
+          "fr": "Hubert Dreyfus",
+          "en": "Hubert Dreyfus"
+        },
+        "figures": [
+          {
+            "name": {
+              "fr": "Dreyfus",
+              "en": "Dreyfus"
+            },
+            "kind": "PHILOSOPHER"
+          }
+        ],
+        "work": {
+          "fr": "Intelligence artificielle : mythes et limites",
+          "en": "What Computers Can't Do"
+        },
+        "year": 1972
+      }
+    }
+  ],
+  "problems": ["chinese-room", "intelligence-without-body"],
+  "relatedThoughtExperiment": "chinese-room",
+  "test": "machine-median-systems-reply-objection",
+  "updatedAt": "2026-07-25T00:00:00.000Z"
+}

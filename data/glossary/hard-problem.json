@@ -1,0 +1,22 @@
+{
+  "id": "hard-problem",
+  "term": {
+    "fr": "Le problème difficile de la conscience",
+    "en": "The hard problem of consciousness"
+  },
+  "aliases": {
+    "fr": ["problème difficile", "problèmes faciles", "hard problem"],
+    "en": ["hard problem", "easy problems"]
+  },
+  "definition": {
+    "fr": "<ph id='chalmers'>David Chalmers</ph> appelle « problèmes faciles » ceux que la science du cerveau sait attaquer : comment nous discriminons les couleurs, mémorisons, contrôlons nos gestes, rendons compte de nos propres états. « Facile » ne veut pas dire simple, mais qu'on sait à quoi ressemblerait la solution. Le problème difficile est celui qui reste quand ils sont tous résolus : <pb>pourquoi tout ce travail s'accompagne-t-il d'un vécu, pourquoi cela fait-il quelque chose d'être nous ?</pb> <dif>Pour les uns, cet écart signale que le vécu est un fait supplémentaire du monde ; pour d'autres, il mesure seulement notre ignorance, et l'<ax id='CONSCIOUSNESS_NATURE' pole='ILLUSIONISM'>illusionnisme</ax> soutient qu'il n'y a là aucun problème, seulement une illusion à expliquer.</dif>",
+    "en": "<ph id='chalmers'>David Chalmers</ph> calls \"easy problems\" the ones brain science knows how to tackle: how we discriminate colours, memorize, control our movements, report on our own states. \"Easy\" does not mean simple, but that we know what a solution would look like. The hard problem is the one left over when all of those are solved: <pb>why is all that work accompanied by experience, why is it like anything at all to be us?</pb> <dif>For some, this gap shows that experience is a further fact about the world; for others, it measures only our ignorance, and <ax id='CONSCIOUSNESS_NATURE' pole='ILLUSIONISM'>illusionism</ax> holds that there is no problem here, only an illusion to be explained.</dif>"
+  },
+  "relatedAxes": ["CONSCIOUSNESS_NATURE", "SCIENCE_PLACE", "REDUCTION_EMERGENCE"],
+  "relatedTerms": ["qualia", "dualism", "emergentism", "supervenience"],
+  "figure": {
+    "slug": "chalmers",
+    "name": { "fr": "David Chalmers", "en": "David Chalmers" }
+  },
+  "updatedAt": "2026-07-25T00:00:00.000Z"
+}

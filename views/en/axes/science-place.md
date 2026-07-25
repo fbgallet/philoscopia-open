@@ -58,6 +58,8 @@ Science is our most rigorous knowledge, yet it proceeds by conjectures forever e
 
 > “Sapere aude! Have courage to use your own understanding: this is the motto of the Enlightenment.” — [Kant](../philosophers/kant.md), An Answer to the Question: What Is Enlightenment?
 
+> “Whatever knowledge is attainable, must be attained by scientific methods; and what science cannot discover, mankind cannot know.” — [Russell](../philosophers/russell.md), Religion and Science (1935)
+
 ## Related axes
 
 [Scientific method](../axes/scientific-method.md) · [Faith and reason](../axes/faith-reason.md) · [Status of knowledge](../axes/knowledge-status.md) · [The point of philosophy](../axes/metaphilosophy.md) · [Status of norms (metaethics)](../axes/moral-scope.md) · [The enigma of consciousness](../axes/consciousness-nature.md)

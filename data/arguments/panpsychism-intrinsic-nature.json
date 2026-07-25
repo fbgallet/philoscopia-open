@@ -1,0 +1,150 @@
+{
+  "id": "panpsychism-intrinsic-nature",
+  "kind": "SUPPORTS",
+  "position": {
+    "axisId": "CONSCIOUSNESS_NATURE",
+    "poleId": "DUAL_ASPECT"
+  },
+  "name": {
+    "fr": "L'argument de la nature intrinsèque",
+    "en": "The argument from intrinsic nature"
+  },
+  "claim": {
+    "fr": "La physique ne dit jamais ce que la matière est, seulement ce qu'elle fait : il y a une place laissée vide au cœur de la matière, et le vécu est la seule chose que nous connaissions du dedans.",
+    "en": "Physics never says what matter is, only what it does: there is a blank left at the heart of matter, and experience is the one thing we know from within."
+  },
+  "summary": {
+    "fr": "La physique décrit des relations et laisse en blanc la nature intrinsèque des choses ; notre vécu est le seul échantillon que nous en ayons.",
+    "en": "Physics describes relations and leaves the intrinsic nature of things blank; our own experience is the only sample of it we have."
+  },
+  "development": [
+    {
+      "fr": "La physique décrit la matière uniquement par sa <kw>structure</kw>, c'est-à-dire par des relations et des effets : une masse est ce qui résiste à l'accélération, une charge ce qui attire et repousse. Chaque terme renvoie à un autre, jamais à ce que la chose est en elle-même.",
+      "en": "Physics describes matter solely by its <kw>structure</kw>, that is, by relations and effects: a mass is what resists acceleration, a charge what attracts and repels. Each term refers to another, never to what the thing is in itself."
+    },
+    {
+      "fr": "Or des relations ne tiennent pas toutes seules : il faut bien que quelque chose les entretienne, une <kw>nature intrinsèque</kw> que la physique laisse en blanc, non par oubli mais par méthode, puisqu'elle mesure des comportements.",
+      "en": "But relations do not stand on their own: something must sustain them, an <kw>intrinsic nature</kw> that physics leaves blank, not through oversight but by method, since what it measures is behaviour."
+    },
+    {
+      "fr": "Or il est une chose au monde que nous ne connaissons pas par ses relations : notre propre vécu, qui nous est donné directement, et qui se trouve être ce que fait un morceau de matière, notre cerveau. C'est le seul endroit où nous tenions une donnée qui ne soit pas relationnelle.",
+      "en": "Yet there is one thing in the world we do not know through its relations: our own experience, given to us directly, and which happens to be what a piece of matter, our brain, does. It is the only place where we hold a datum that is not relational."
+    },
+    {
+      "fr": "Faire au contraire surgir le vécu d'une matière qui n'en contiendrait aucune trace demanderait une <c id='emergentism'>émergence</c> sans précédent : ailleurs, ce qui émerge se déduit des propriétés des parties, tandis qu'ici il faudrait tirer un dedans d'un pur dehors.",
+      "en": "To make experience arise instead from a matter containing no trace of it would require an <c id='emergentism'>emergence</c> without precedent: elsewhere what emerges follows from the properties of the parts, whereas here an inside would have to be drawn from a pure outside."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc la nature intrinsèque de la matière est, au moins en partie, expérientielle : la conscience n'apparaît pas dans l'univers, elle s'y compose, et la nôtre en est la forme la plus élaborée.",
+    "en": "So the intrinsic nature of matter is, at least in part, experiential: consciousness does not appear in the universe, it is composed within it, and ours is its most elaborate form."
+  },
+  "difficulty": 3,
+  "source": {
+    "author": {
+      "fr": "Galen Strawson",
+      "en": "Galen Strawson"
+    },
+    "figures": [
+      {
+        "name": {
+          "fr": "Strawson",
+          "en": "Strawson"
+        },
+        "kind": "PHILOSOPHER",
+        "slug": "strawson"
+      }
+    ],
+    "work": {
+      "fr": "« Realistic Monism: Why Physicalism Entails Panpsychism »",
+      "en": "\"Realistic Monism: Why Physicalism Entails Panpsychism\""
+    },
+    "year": 2006
+  },
+  "deepenings": [
+    {
+      "id": "what-physics-leaves-blank",
+      "label": {
+        "fr": "Ce que la physique laisse en blanc",
+        "en": "What physics leaves blank"
+      },
+      "targetStep": 0,
+      "summary": {
+        "fr": "Une théorie faite de relations ne dit pas ce qui est en relation : la remarque est de Russell et d'Eddington, non des <c id='panpsychism'>panpsychistes</c>.",
+        "en": "A theory made of relations does not say what the relata are: the point is Russell's and Eddington's, not the <c id='panpsychism'>panpsychists</c>'."
+      },
+      "development": [
+        {
+          "fr": "Ouvrez un manuel de physique : vous y trouverez des équations qui relient des grandeurs à d'autres grandeurs. Chacune se définit par son rôle dans ces équations, jamais par ce qu'elle est indépendamment d'elles.",
+          "en": "Open a physics textbook: you will find equations relating magnitudes to other magnitudes. Each is defined by its role in those equations, never by what it is independently of them."
+        },
+        {
+          "fr": "<ph id='russell'>Russell</ph>, comme l'astrophysicien <per>Eddington</per>, en tirait déjà cette conséquence : la physique nous donne la structure du monde matériel, non son étoffe. Elle est comme une carte parfaite dont on ignorerait le territoire.",
+          "en": "<ph id='russell'>Russell</ph>, like the astrophysicist <per>Eddington</per>, already drew the consequence: physics gives us the structure of the material world, not its stuff. It is like a perfect map of a territory one knows nothing about."
+        },
+        {
+          "fr": "Cette lacune n'est pas un défaut de la physique, c'est sa force : elle mesure des comportements, et n'a besoin de rien d'autre. Mais elle laisse la question ouverte, et refuser d'y répondre n'est pas y avoir répondu.",
+          "en": "That gap is not a flaw in physics, it is its strength: it measures behaviour, and needs nothing else. But it leaves the question open, and declining to answer is not having answered."
+        }
+      ],
+      "conclusion": {
+        "fr": "La place est donc vacante, et la question de ce qui l'occupe est légitime, quelle que soit la réponse qu'on lui donne.",
+        "en": "The place is therefore vacant, and the question of what occupies it is legitimate, whatever answer one gives."
+      },
+      "source": {
+        "author": {
+          "fr": "Bertrand Russell",
+          "en": "Bertrand Russell"
+        },
+        "figures": [
+          {
+            "name": {
+              "fr": "Russell",
+              "en": "Russell"
+            },
+            "kind": "PHILOSOPHER",
+            "slug": "russell"
+          }
+        ],
+        "work": {
+          "fr": "The Analysis of Matter",
+          "en": "The Analysis of Matter"
+        },
+        "year": 1927
+      }
+    },
+    {
+      "id": "radical-emergence",
+      "label": {
+        "fr": "L'émergence radicale",
+        "en": "Radical emergence"
+      },
+      "targetStep": 3,
+      "summary": {
+        "fr": "La liquidité se déduit des molécules ; le vécu ne se déduit d'aucune structure. Ce n'est pas la même émergence.",
+        "en": "Liquidity follows from the molecules; experience follows from no structure. This is not the same emergence."
+      },
+      "development": [
+        {
+          "fr": "On répond volontiers que la conscience <c id='emergentism'>émerge</c> du cerveau comme la liquidité émerge des molécules d'eau. Mais la liquidité se déduit : connaissant la forme des molécules et leurs liaisons, on comprend pourquoi l'ensemble coule.",
+          "en": "It is readily replied that consciousness <c id='emergentism'>emerges</c> from the brain as liquidity emerges from water molecules. But liquidity follows: knowing the shape of the molecules and their bonds, one understands why the whole flows."
+        },
+        {
+          "fr": "Rien de tel pour le vécu : aucune complexité de structure, aussi vertigineuse soit-elle, ne permet de déduire qu'il y a quelqu'un pour qui cela fait quelque chose. On peut toujours ajouter des relations à des relations, on n'en fera pas sortir un point de vue.",
+          "en": "Nothing of the sort for experience: no complexity of structure, however dizzying, lets one derive that there is someone for whom it is like something. One may always add relations to relations, no point of view will come out of it."
+        },
+        {
+          "fr": "Une <kw>émergence forte</kw>, qu'aucune connaissance des parties ne permettrait de prévoir, n'est plus une explication : c'est un miracle enregistré sous un nom savant.",
+          "en": "A <kw>strong emergence</kw>, which no knowledge of the parts could predict, is no longer an explanation: it is a miracle recorded under a learned name."
+        }
+      ],
+      "conclusion": {
+        "fr": "Il faut donc que le vécu soit déjà là, sous une forme élémentaire, dans ce dont nous sommes faits.",
+        "en": "Experience must therefore already be there, in elementary form, in what we are made of."
+      }
+    }
+  ],
+  "problems": ["what-physics-leaves-blank", "emergence-as-an-answer", "where-does-experience-begin"],
+  "test": "panpsychism-combination-objection",
+  "updatedAt": "2026-07-25T00:00:00.000Z"
+}

@@ -1,0 +1,117 @@
+{
+  "id": "machine-median-systems-reply-objection",
+  "kind": "OBJECTS",
+  "position": {
+    "axisId": "MACHINE_MIND",
+    "median": true
+  },
+  "name": {
+    "fr": "La réponse des systèmes",
+    "en": "The systems reply"
+  },
+  "claim": {
+    "fr": "Aucun neurone ne comprend le français, et pourtant vous comprenez : chercher la compréhension dans le composant, c'est la chercher là où elle n'est jamais.",
+    "en": "No neuron understands English, and yet you understand: to look for understanding in the component is to look where it never is."
+  },
+  "summary": {
+    "fr": "La médiane refuse à l'organisation ce qu'elle accorde au cerveau, sans dire ce que celui-ci aurait de plus.",
+    "en": "The middle position denies to organization what it grants to the brain, without saying what the brain has that it lacks."
+  },
+  "development": [
+    {
+      "fr": "L'argument conclut de ce qu'aucune partie ne comprend à ce que l'ensemble ne comprend pas. C'est un pas qu'on refuse partout ailleurs : aucune de vos cellules ne lit ces lignes, aucun de vos neurones ne parle français.",
+      "en": "The argument concludes from no part's understanding that the whole does not understand. It is a step refused everywhere else: none of your cells reads these lines, none of your neurons speaks English."
+    },
+    {
+      "fr": "La compréhension n'est donc jamais dans un composant, mais dans le <kw>système</kw> entier, dans l'organisation qui les relie : la chercher chez celui qui exécute les règles, c'est se donner d'avance la réponse.",
+      "en": "Understanding is therefore never in a component, but in the whole <kw>system</kw>, in the organization that links them: to look for it in whoever runs the rules is to help oneself to the answer in advance."
+    },
+    {
+      "fr": "Restent les <kw>pouvoirs causaux</kw> du cerveau vivant, invoqués pour marquer la différence. Mais tant qu'on ne dit pas lesquels, ni pourquoi une autre matière ne les aurait pas, ce n'est pas une explication : c'est un nom donné à l'écart que l'on veut maintenir.",
+      "en": "There remain the <kw>causal powers</kw> of the living brain, invoked to mark the difference. But so long as one does not say which ones, nor why another material would lack them, this is no explanation: it is a name given to the gap one wishes to preserve."
+    },
+    {
+      "fr": "Et le critère se retourne : notre cerveau nous paraît comprendre parce que nous le connaissons du dedans. Vu du dehors, il n'est qu'un assemblage de composants dont pas un ne comprend quoi que ce soit.",
+      "en": "And the criterion turns around: our brain seems to us to understand because we know it from within. Seen from outside, it is only an assembly of components not one of which understands anything."
+    }
+  ],
+  "conclusion": {
+    "fr": "La médiane ne tient qu'en accordant à la matière cérébrale un privilège qu'elle ne définit pas : ou bien l'organisation suffit, ou bien il faut nommer ce qui manque.",
+    "en": "The middle position holds only by granting cerebral matter a privilege it does not define: either organization suffices, or one must name what is missing."
+  },
+  "difficulty": 2,
+  "source": {
+    "author": {
+      "fr": "Douglas Hofstadter et Daniel Dennett",
+      "en": "Douglas Hofstadter and Daniel Dennett"
+    },
+    "figures": [
+      {
+        "name": {
+          "fr": "Dennett",
+          "en": "Dennett"
+        },
+        "kind": "PHILOSOPHER",
+        "slug": "dennett"
+      }
+    ],
+    "work": {
+      "fr": "Vues de l'esprit",
+      "en": "The Mind's I"
+    },
+    "year": 1981
+  },
+  "attacks": "REASONING",
+  "targets": ["machine-median-syntax-not-semantics"],
+  "problems": ["chinese-room"],
+  "relatedThoughtExperiment": "chinese-room",
+  "responses": [
+    {
+      "id": "organization-suffices",
+      "label": {
+        "fr": "Si l'on ne sait pas nommer ce qui manque, c'est que rien ne manque : l'organisation suffit.",
+        "en": "If one cannot name what is missing, nothing is missing: organization suffices."
+      },
+      "hints": [
+        {
+          "axisId": "MACHINE_MIND",
+          "value": { "kind": "scalar", "value": -1 },
+          "weight": 2
+        }
+      ]
+    },
+    {
+      "id": "the-missing-thing-is-life",
+      "label": {
+        "fr": "Ce qu'on ne sait pas nommer, c'est peut-être justement la vie : un être qui a affaire au monde pour son propre compte.",
+        "en": "What cannot be named may be precisely life: a being that deals with the world on its own account."
+      },
+      "hints": [
+        {
+          "axisId": "MACHINE_MIND",
+          "value": { "kind": "scalar", "value": 1 },
+          "weight": 1
+        }
+      ],
+      "discussion": {
+        "fr": "L'objection vous pousse au-delà de la médiane : si le critère doit être nommé, <ph id='jonas'>Jonas</ph> le nomme, et c'est le vivant.",
+        "en": "The objection pushes you past the middle: if the criterion must be named, <ph id='jonas'>Jonas</ph> names it, and it is the living."
+      }
+    },
+    {
+      "id": "a-fact-to-explain",
+      "label": {
+        "fr": "Que le cerveau produise la pensée est un fait à expliquer, non un privilège arbitraire : la biologie dira lesquels de ses pouvoirs comptent.",
+        "en": "That the brain produces thought is a fact to be explained, not an arbitrary privilege: biology will say which of its powers count."
+      },
+      "hints": [
+        {
+          "axisId": "MACHINE_MIND",
+          "value": { "kind": "scalar", "value": 0 },
+          "weight": 0.5
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-25T00:00:00.000Z"
+}

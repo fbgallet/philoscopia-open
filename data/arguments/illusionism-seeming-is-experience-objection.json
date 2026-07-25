@@ -1,0 +1,148 @@
+{
+  "id": "illusionism-seeming-is-experience-objection",
+  "kind": "OBJECTS",
+  "position": {
+    "axisId": "CONSCIOUSNESS_NATURE",
+    "poleId": "ILLUSIONISM"
+  },
+  "name": {
+    "fr": "L'objection du paraître",
+    "en": "The objection from seeming"
+  },
+  "claim": {
+    "fr": "Une illusion est encore quelque chose qu'on éprouve : dire que le vécu n'est qu'apparence, c'est le réaffirmer en croyant le nier.",
+    "en": "An illusion is still something undergone: to say experience is mere appearance is to reassert it while believing one denies it."
+  },
+  "summary": {
+    "fr": "L'illusionnisme peut corriger l'idée que nous nous faisons du vécu, non l'annuler : l'illusion qu'il invoque en est déjà une forme.",
+    "en": "Illusionism may correct the idea we form of experience, not cancel it: the illusion it invokes is already a form of it."
+  },
+  "development": [
+    {
+      "fr": "Une <kw>illusion</kw> est ce qui paraît autrement qu'il n'est : le bâton paraît brisé dans l'eau, il ne l'est pas. Le concept suppose donc toujours deux termes, un paraître et un être, et l'écart de l'un à l'autre.",
+      "en": "An <kw>illusion</kw> is what seems otherwise than it is: the stick seems broken in water, it is not. The concept therefore always presupposes two terms, a seeming and a being, and the gap between them."
+    },
+    {
+      "fr": "Mais dans le cas du vécu, le paraître est justement ce dont il est question : que la douleur me paraisse douloureuse, c'est déjà la douleur. Il n'y a pas de place pour un écart entre la souffrance et le fait qu'elle semble souffrance.",
+      "en": "But in the case of experience, the seeming is precisely what is at issue: that pain seems painful to me already is the pain. There is no room for a gap between suffering and its seeming to be suffering."
+    },
+    {
+      "fr": "Dire que le cerveau se <c id='representation'>représente</c> comme ayant un vécu qu'il n'a pas, c'est donc décrire un état où quelque chose est présent à quelqu'un : précisément ce qu'on prétendait éliminer.",
+      "en": "To say that the brain <c id='representation'>represents</c> itself as having an experience it does not have is thus to describe a state in which something is present to someone: precisely what was to be eliminated."
+    },
+    {
+      "fr": "On peut accorder tout le reste : que l'introspection nous trompe sur la richesse du champ visuel, sur nos motifs, sur la nature de nos états. Ces erreurs portent sur la <kw>description</kw> du vécu, et elles supposent qu'il y ait quelque chose à mal décrire.",
+      "en": "Everything else can be granted: that introspection deceives us about the richness of the visual field, about our motives, about the nature of our states. Those errors bear on the <kw>description</kw> of experience, and they presuppose that there is something to describe badly."
+    }
+  ],
+  "conclusion": {
+    "fr": "L'illusionnisme peut corriger l'idée que nous nous faisons du vécu ; il ne peut pas l'annuler, car l'illusion qu'il invoque en est déjà une forme.",
+    "en": "Illusionism can correct the idea we form of experience; it cannot cancel it, for the illusion it invokes is already a form of it."
+  },
+  "difficulty": 2,
+  "source": {
+    "author": {
+      "fr": "Galen Strawson",
+      "en": "Galen Strawson"
+    },
+    "figures": [
+      {
+        "name": {
+          "fr": "Strawson",
+          "en": "Strawson"
+        },
+        "kind": "PHILOSOPHER",
+        "slug": "strawson"
+      }
+    ],
+    "work": {
+      "fr": "« The Consciousness Deniers »",
+      "en": "\"The Consciousness Deniers\""
+    },
+    "year": 2018
+  },
+  "attacks": "POSITION",
+  "problems": [
+    "wrong-about-what-we-feel"
+  ],
+  "responses": [
+    {
+      "id": "experience-undeniable",
+      "label": {
+        "fr": "Le vécu est indéniable, et le <c id='hard-problem'>problème difficile</c> avec lui : c'est le seul fait dont je ne puisse pas douter.",
+        "en": "Experience is undeniable, and the <c id='hard-problem'>hard problem</c> with it: it is the one fact I cannot doubt."
+      },
+      "hints": [
+        {
+          "axisId": "CONSCIOUSNESS_NATURE",
+          "value": {
+            "kind": "weights",
+            "weights": [
+              0,
+              1,
+              0,
+              0,
+              0
+            ]
+          },
+          "weight": 2
+        }
+      ]
+    },
+    {
+      "id": "real-but-cerebral",
+      "label": {
+        "fr": "Le vécu est réel et cérébral : c'est notre conception des qualia qui est fausse, non leur existence.",
+        "en": "Experience is real and cerebral: it is our conception of qualia that is false, not their existence."
+      },
+      "hints": [
+        {
+          "axisId": "CONSCIOUSNESS_NATURE",
+          "value": {
+            "kind": "weights",
+            "weights": [
+              0,
+              0,
+              0,
+              1,
+              0
+            ]
+          },
+          "weight": 1.5
+        }
+      ],
+      "discussion": {
+        "fr": "C'est la voie du <ax id='CONSCIOUSNESS_NATURE' pole='PHYSICALISM'>physicalisme</ax> non éliminativiste : garder les expériences, abandonner les propriétés privées et ineffables qu'on leur prête.",
+        "en": "This is the road of non-eliminativist <ax id='CONSCIOUSNESS_NATURE' pole='PHYSICALISM'>physicalism</ax>: keeping the experiences, dropping the private, ineffable properties ascribed to them."
+      }
+    },
+    {
+      "id": "seeming-is-the-effect",
+      "label": {
+        "fr": "L'objection prend pour un fait ce qui est une représentation : que le paraître semble indubitable est précisément l'effet à expliquer.",
+        "en": "The objection takes for a fact what is a representation: that the seeming seems indubitable is precisely the effect to be explained."
+      },
+      "hints": [
+        {
+          "axisId": "CONSCIOUSNESS_NATURE",
+          "value": {
+            "kind": "weights",
+            "weights": [
+              0,
+              0,
+              0,
+              0,
+              1
+            ]
+          },
+          "weight": 0.5
+        }
+      ],
+      "discussion": {
+        "fr": "La réplique de <ph id='dennett'>Dennett</ph> : l'assurance avec laquelle nous refusons de lâcher les qualia fait partie du phénomène, elle ne le démontre pas.",
+        "en": "<ph id='dennett'>Dennett</ph>'s reply: the assurance with which we refuse to let go of qualia is part of the phenomenon, not a demonstration of it."
+      }
+    }
+  ],
+  "updatedAt": "2026-07-25T00:00:00.000Z"
+}

@@ -89,6 +89,8 @@ Le souverain bien est l'épanouissement de l'être humain dans toutes ses dimens
 
 > « La tranquillité suivit la suspension du jugement comme l'ombre suit le corps. » — [Sextus Empiricus](../philosophers/sextus-empiricus.md), Esquisses pyrrhoniennes, I, 29
 
+> « La vie bonne est une vie inspirée par l'amour et guidée par la connaissance. » — [Russell](../philosophers/russell.md), Ce que je crois (1925), ch. II
+
 > « Le bien de l'homme est une activité de l'âme en accord avec la vertu, et s'il y a plusieurs vertus, en accord avec la meilleure et la plus parfaite. » — [Aristote](../philosophers/aristotle.md), Éthique à Nicomaque, I, 7 (1098a)
 
 > « Le plaisir est le commencement et la fin de la vie bienheureuse. » — [Épicure](../philosophers/epicurus.md), Lettre à Ménécée, 128

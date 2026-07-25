@@ -1,0 +1,151 @@
+{
+  "id": "physicalism-explanatory-gap-objection",
+  "kind": "OBJECTS",
+  "position": {
+    "axisId": "CONSCIOUSNESS_NATURE",
+    "poleId": "PHYSICALISM"
+  },
+  "name": {
+    "fr": "L'objection de l'écart explicatif",
+    "en": "The explanatory gap objection"
+  },
+  "claim": {
+    "fr": "Que le vécu dépende du cerveau et agisse par lui, personne ne le conteste ; mais de la dépendance à l'identité, le pas n'est pas franchi.",
+    "en": "That experience depends on the brain and acts through it, no one disputes; but the step from dependence to identity has not been taken."
+  },
+  "summary": {
+    "fr": "L'argument des causes montre que le vécu est arrimé au cerveau ; il laisse entière la question de savoir pourquoi ces processus s'accompagnent d'un ressenti.",
+    "en": "The causal argument shows experience is moored to the brain; it leaves untouched the question why those processes are accompanied by any feel at all."
+  },
+  "development": [
+    {
+      "fr": "L'argument établit au mieux que les états mentaux et cérébraux sont <kw>corrélés</kw> et occupent la même place dans la chaîne des causes. Or une corrélation, même parfaite, n'est pas encore une <kw>identité</kw> : deux choses inséparables peuvent rester deux, et l'on peut tenir la <c id='supervenience'>survenance</c> du mental sur le cérébral sans conclure qu'ils ne font qu'un.",
+      "en": "The argument establishes at best that mental and cerebral states are <kw>correlated</kw> and occupy the same place in the chain of causes. Yet a correlation, however perfect, is not yet an <kw>identity</kw>: two inseparable things may still be two, and one may hold that the mental <c id='supervenience'>supervenes</c> on the cerebral without concluding that they are one."
+    },
+    {
+      "fr": "Dans les identifications réussies de la science, l'identité s'accompagne d'une explication : une fois comprise l'agitation des molécules, on voit <kw>pourquoi</kw> cela fait chaud, et l'on ne peut plus concevoir la chaleur sans elle.",
+      "en": "In science's successful identifications, identity comes with an explanation: once molecular agitation is understood, one sees <kw>why</kw> that amounts to heat, and one can no longer conceive of heat without it."
+    },
+    {
+      "fr": "Rien de tel ici : en connaissant tout du circuit de la douleur, la question « mais pourquoi cela fait-il mal ? » reste ouverte et parfaitement intelligible. Il subsiste un <kw>écart explicatif</kw> qu'aucune autre identification scientifique n'a laissé derrière elle.",
+      "en": "Nothing of the sort here: knowing everything about the circuitry of pain, the question \"but why does it hurt?\" stays open and perfectly intelligible. An <kw>explanatory gap</kw> remains that no other scientific identification has left behind it."
+    },
+    {
+      "fr": "L'argument des causes ne permet pas de trancher entre les deux lectures possibles de cet écart, provisoire ou définitif : il traite le vécu comme un maillon causal, alors que c'est justement sa face qualitative, les <c id='qualia'>qualia</c>, qui fait problème.",
+      "en": "The causal argument cannot decide between the two possible readings of that gap, provisional or final: it treats experience as a causal link, whereas it is precisely its qualitative face, the <c id='qualia'>qualia</c>, that raises the problem."
+    }
+  ],
+  "conclusion": {
+    "fr": "L'argument prouve que le vécu est arrimé au cerveau, non qu'il s'y réduit : le physicalisme reste ici une promesse, celle qu'un jour l'écart se refermera.",
+    "en": "The argument proves that experience is moored to the brain, not that it reduces to it: physicalism here remains a promise, the promise that one day the gap will close."
+  },
+  "difficulty": 2,
+  "source": {
+    "author": {
+      "fr": "Joseph Levine",
+      "en": "Joseph Levine"
+    },
+    "figures": [
+      {
+        "name": {
+          "fr": "Levine",
+          "en": "Levine"
+        },
+        "kind": "PHILOSOPHER"
+      }
+    ],
+    "work": {
+      "fr": "« Matérialisme et qualia : l'écart explicatif »",
+      "en": "\"Materialism and Qualia: The Explanatory Gap\""
+    },
+    "year": 1983
+  },
+  "attacks": "REASONING",
+  "targets": [
+    "physicalism-causal-exclusion"
+  ],
+  "problems": [
+    "what-it-is-like",
+    "emergence-as-an-answer"
+  ],
+  "responses": [
+    {
+      "id": "gap-is-real",
+      "label": {
+        "fr": "L'écart n'est pas provisoire : la description physique dit des structures et des fonctions, jamais ce que cela fait de les vivre.",
+        "en": "The gap is not provisional: physical description states structures and functions, never what it is like to live them."
+      },
+      "hints": [
+        {
+          "axisId": "CONSCIOUSNESS_NATURE",
+          "value": {
+            "kind": "weights",
+            "weights": [
+              0,
+              1,
+              0,
+              0,
+              0
+            ]
+          },
+          "weight": 2
+        }
+      ],
+      "discussion": {
+        "fr": "Vous rejoignez le <ax id='CONSCIOUSNESS_NATURE' pole='PROPERTY_DUALISM'>dualisme des propriétés</ax> : le cerveau reste physique, mais il porte des propriétés que sa description ne contient pas.",
+        "en": "You join <ax id='CONSCIOUSNESS_NATURE' pole='PROPERTY_DUALISM'>property dualism</ax>: the brain stays physical, but it bears properties its description does not contain."
+      }
+    },
+    {
+      "id": "matter-described-too-poorly",
+      "label": {
+        "fr": "Si la matière décrite du dehors ne peut rien contenir de tel, c'est peut-être qu'on l'a décrite trop pauvrement : elle a un dedans.",
+        "en": "If matter described from outside can contain nothing of the sort, perhaps it has been described too poorly: it has an inside."
+      },
+      "hints": [
+        {
+          "axisId": "CONSCIOUSNESS_NATURE",
+          "value": {
+            "kind": "weights",
+            "weights": [
+              0,
+              0,
+              1,
+              0,
+              0
+            ]
+          },
+          "weight": 1
+        }
+      ],
+      "discussion": {
+        "fr": "C'est le pari du <ax id='CONSCIOUSNESS_NATURE' pole='DUAL_ASPECT'>panpsychisme</ax> : combler l'écart non en ajoutant quelque chose à la matière, mais en cessant de la croire purement extérieure.",
+        "en": "This is <ax id='CONSCIOUSNESS_NATURE' pole='DUAL_ASPECT'>panpsychism</ax>'s wager: closing the gap not by adding something to matter, but by ceasing to believe it purely outward."
+      }
+    },
+    {
+      "id": "gap-is-ignorance",
+      "label": {
+        "fr": "Toute identification a d'abord paru inconcevable : l'écart est un état de notre ignorance, pas une découverte sur le monde.",
+        "en": "Every identification first seemed inconceivable: the gap is a state of our ignorance, not a discovery about the world."
+      },
+      "hints": [
+        {
+          "axisId": "CONSCIOUSNESS_NATURE",
+          "value": {
+            "kind": "weights",
+            "weights": [
+              0,
+              0,
+              0,
+              1,
+              0
+            ]
+          },
+          "weight": 0.5
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-07-25T00:00:00.000Z"
+}

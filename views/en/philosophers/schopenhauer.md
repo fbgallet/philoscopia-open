@@ -226,9 +226,9 @@ The Platonic Ideas, grades of the will's objectification, are more real than the
 
 *positioned · inferable · minor*
 
-Panpsychism 60% · Physicalism 25% · Property dualism 15%
+Dual-aspect monism 60% · Physicalism 25% · Property dualism 15%
 
-A double thesis: the intellect is a function of the brain, a secondary, late, and fatigable phenomenon, which has materialist overtones; but the ground of all things, from the mineral to man, is will. Less a panpsychism in the strict sense than a doctrine of the universal objectification of the Will: it is not mind that is everywhere, but blind willing.
+A double thesis: the intellect is a function of the brain, a secondary, late, and fatigable phenomenon, which has [materialist](../glossary/materialism.md) overtones; but the ground of all things, from the mineral to man, is [will](../glossary/vouloir-vivre.md). Less a [panpsychism](../glossary/panpsychism.md) in the strict sense than a doctrine of the universal objectification of the Will: it is not mind that is everywhere, but blind willing.
 
 *Sources : On the Will in Nature*
 

@@ -48,11 +48,17 @@ Moral norms are neither discovered in the nature of things nor merely relative: 
 - *[Status of norms (metaethics)](../axes/moral-scope.md) : Universalism* grounds *[Criterion of right action](../axes/ethics-foundation.md) : Deontologism* : If there are objective norms valid for every rational being, the criterion of right action is conformity to duty, not the calculation of effects. Moral universalism grounds deontologism: [Kant](../philosophers/kant.md) derives from reason a [categorical imperative](../glossary/categorical-imperative.md) that holds unconditionally, regardless of consequences.
 - *[Status of norms (metaethics)](../axes/moral-scope.md) : Universalism* grounds *[Nature of rights](../axes/rights-nature.md) : Natural rights* : If there are objective moral norms valid for every rational being, then the person holds rights prior to the state, which no law could legitimately abolish. Moral universalism grounds natural rights: for [Locke](../philosophers/locke.md) as for [Kant](../philosophers/kant.md), a law that violates them remains unjust, even if perfectly legal.
 
+## Tensions
+
+- With [Future generations](../axes/future-generations.md) : Holding that a value judgment expresses only a desire, describing nothing in the world, and then acknowledging toward future generations an obligation that nothing should be able to outweigh, puts two positions in tension: an obligation without exception needs an authority that subjectivism denies it. There are ways of holding both: saying that the obligation binds whoever shares certain desires, or that it rests on an agreement rather than a truth. But this has to be owned, for the condemnation then loses what it claimed to have — the force of holding even against someone who wants no part of it.
+
 ## Quotations
 
 > “Each man calls barbarism whatever is not his own practice.” — [Michel de Montaigne](../philosophers/montaigne.md), Essays, I, 31, "Of Cannibals"
 
 > “There are no moral phenomena, only a moral interpretation of phenomena.” — [Nietzsche](../philosophers/nietzsche.md), Beyond Good and Evil, §108
+
+> “I cannot see how to refute the arguments for the subjectivity of ethical values, but I find myself incapable of believing that all that is wrong with wanton cruelty is that I don't like it.” — [Russell](../philosophers/russell.md), "Reply to Criticisms", in The Philosophy of Bertrand Russell (1944)
 
 > “Nature herself shows that it is just for the better to have more than the worse, and the more capable than the less.” — [Plato](../philosophers/plato.md), Gorgias, 483d
 

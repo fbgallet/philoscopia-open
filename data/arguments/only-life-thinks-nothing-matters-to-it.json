@@ -1,0 +1,99 @@
+{
+  "id": "only-life-thinks-nothing-matters-to-it",
+  "kind": "SUPPORTS",
+  "position": {
+    "axisId": "MACHINE_MIND",
+    "poleId": "ONLY_LIFE_THINKS"
+  },
+  "name": {
+    "fr": "L'argument du souci",
+    "en": "The argument from concern"
+  },
+  "claim": {
+    "fr": "Penser suppose que quelque chose compte ; or rien ne peut compter pour ce qui ne risque rien.",
+    "en": "Thinking presupposes that something matters; but nothing can matter to what risks nothing."
+  },
+  "summary": {
+    "fr": "La machine calcule sans que rien lui importe : il n'y a pas de point de vue là où rien n'est en jeu.",
+    "en": "The machine computes with nothing mattering to it: there is no point of view where nothing is at stake."
+  },
+  "development": [
+    {
+      "fr": "Penser n'est pas seulement traiter de l'information : c'est que quelque chose soit <stk>en jeu</stk>. Une perception oriente, un jugement engage, une erreur coûte. Retirez tout enjeu, il reste des états qui se succèdent, non une pensée.",
+      "en": "To think is not merely to process information: it is for something to be <stk>at stake</stk>. A perception orients, a judgment commits, a mistake costs. Remove all stakes and what remains is states following one another, not thought."
+    },
+    {
+      "fr": "Or un enjeu suppose un être pour qui les choses peuvent aller bien ou mal : un vivant, dont l'activité même est un effort pour se maintenir, ce que <ph id='spinoza'>Spinoza</ph> nommait le <c id='conatus'>conatus</c>. Le <kw>métabolisme</kw> n'est pas une propriété parmi d'autres, c'est un besoin permanent, une dépendance à l'égard du monde.",
+      "en": "But a stake presupposes a being for whom things can go well or badly: a living thing, whose very activity is an effort to keep itself in being, what <ph id='spinoza'>Spinoza</ph> called <c id='conatus'>conatus</c>. <kw>Metabolism</kw> is not one property among others, it is a standing need, a dependence on the world."
+    },
+    {
+      "fr": "Une machine, elle, ne risque rien : débranchée, elle ne perd rien, car rien ne lui manquait. Ses « objectifs » lui ont été assignés du dehors et ne sont ses buts en aucun sens ; elle ne se maintient pas, on la maintient.",
+      "en": "A machine, by contrast, risks nothing: unplugged, it loses nothing, for nothing was lacking to it. Its \"goals\" were assigned from outside and are its own in no sense; it does not maintain itself, it is maintained."
+    },
+    {
+      "fr": "Sans ce risque, les mots qu'elle manie ne renvoient à rien pour elle, faute de cette <c id='intentionality'>orientation vers le monde</c> : la faim, la douleur, la perte ont un sens pour ce qui peut avoir faim, souffrir et perdre. Il n'y a pas de point de vue là où rien n'est en jeu.",
+      "en": "Without that risk, the words it handles refer to nothing for it, lacking that <c id='intentionality'>directedness toward the world</c>: hunger, pain, loss have a meaning for what can hunger, suffer and lose. There is no point of view where nothing is at stake."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc la pensée n'est pas une organisation détachable de son porteur : elle est l'activité d'un vivant exposé, et la machine la plus brillante reste une chose à qui rien n'arrive.",
+    "en": "So thought is not an organization detachable from its bearer: it is the activity of an exposed living being, and the most brilliant machine remains a thing to which nothing happens."
+  },
+  "difficulty": 2,
+  "source": {
+    "author": {
+      "fr": "Hans Jonas",
+      "en": "Hans Jonas"
+    },
+    "figures": [
+      {
+        "name": {
+          "fr": "Jonas",
+          "en": "Jonas"
+        },
+        "kind": "PHILOSOPHER",
+        "slug": "jonas"
+      }
+    ],
+    "work": {
+      "fr": "Le Phénomène de la vie, « Cybernétique et finalité : une critique »",
+      "en": "The Phenomenon of Life, \"Cybernetics and Purpose: A Critique\""
+    },
+    "year": 1966
+  },
+  "deepenings": [
+    {
+      "id": "needful-freedom",
+      "label": {
+        "fr": "La liberté besogneuse du vivant",
+        "en": "The needful freedom of the living"
+      },
+      "targetStep": 1,
+      "summary": {
+        "fr": "Le vivant échange sa matière sans cesse : il est libre de son support, mais au prix d'un besoin qui ne s'interrompt jamais.",
+        "en": "A living being exchanges its matter ceaselessly: it is free of its substrate, but at the cost of a need that never stops."
+      },
+      "development": [
+        {
+          "fr": "Un organisme n'est pas fait d'une matière fixe : les molécules qui le composent sont remplacées sans relâche, et il reste pourtant le même. Il est donc, d'une certaine façon, indépendant de sa matière.",
+          "en": "An organism is not made of fixed matter: the molecules composing it are replaced without respite, and yet it stays the same. It is therefore, in a way, independent of its matter."
+        },
+        {
+          "fr": "Mais cette indépendance a un prix : pour rester lui-même, il lui faut sans cesse prendre au dehors de quoi continuer. Sa <kw>liberté besogneuse</kw>, comme la nomme <ph id='jonas'>Jonas</ph>, fait que le monde lui importe : ce qu'il rencontre est nourriture, menace ou rien.",
+          "en": "But that independence has a price: to remain itself, it must ceaselessly take from outside what lets it continue. Its <kw>needful freedom</kw>, as <ph id='jonas'>Jonas</ph> calls it, is what makes the world matter to it: what it meets is food, threat, or nothing."
+        },
+        {
+          "fr": "L'intérêt, la valeur, le point de vue apparaissent là, avec le premier être qui peut cesser d'être. La machine n'a pas ce souci : sa continuité ne dépend pas d'elle.",
+          "en": "Interest, value, point of view appear there, with the first being that can cease to be. The machine has no such concern: its continuance does not depend on it."
+        }
+      ],
+      "conclusion": {
+        "fr": "C'est donc la vie, et non le calcul, qui introduit dans le monde le fait que quelque chose compte pour quelqu'un.",
+        "en": "It is therefore life, not computation, that introduces into the world the fact that something matters to someone."
+      }
+    }
+  ],
+  "problems": ["thinking-or-feeling", "do-we-owe-it-anything"],
+  "test": "only-life-thinks-carbon-chauvinism-objection",
+  "updatedAt": "2026-07-25T00:00:00.000Z"
+}

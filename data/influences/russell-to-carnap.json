@@ -1,0 +1,19 @@
+{
+  "id": "russell-to-carnap",
+  "from": { "kind": "PHILOSOPHER", "slug": "russell" },
+  "to": { "kind": "PHILOSOPHER", "slug": "carnap" },
+  "directness": "ATTESTED",
+  "mode": "TRANSMITS",
+  "strength": "STRONG",
+  "note": {
+    "fr": "Ce qui passe est une maxime de méthode, que <ph id='carnap'>Carnap</ph> place en épigraphe de son entreprise : <arg>partout où c'est possible, substituer des <c id='logical-construction'>constructions</c> à partir d'entités connues aux inférences vers des entités inconnues</arg>. La <w>Construction logique du monde</w> (1928) l'applique à la lettre en reconstruisant tous les concepts scientifiques à partir d'une base d'expériences élémentaires. <dif>Le programme s'éloigne ensuite de son modèle</dif> : Carnap abandonne le réalisme de <ph id='russell'>Russell</ph> et l'idée que la métaphysique puisse être vraie ou fausse plutôt que dépourvue de sens.",
+    "en": "What passes on is a maxim of method, which <ph id='carnap'>Carnap</ph> puts at the head of his enterprise: <arg>wherever possible, substitute <c id='logical-construction'>constructions</c> out of known entities for inferences to unknown entities</arg>. The <w>Logical Structure of the World</w> (1928) applies it to the letter, rebuilding every scientific concept from a base of elementary experiences. <dif>The programme then moves away from its model</dif>: Carnap gives up <ph id='russell'>Russell</ph>'s realism, and the idea that metaphysics could be true or false rather than devoid of meaning."
+  },
+  "sources": [
+    {
+      "fr": "Carnap, La Construction logique du monde (1928), préface et § 3",
+      "en": "Carnap, The Logical Structure of the World (1928), preface and § 3"
+    }
+  ],
+  "updatedAt": "2026-07-25T00:00:00.000Z"
+}

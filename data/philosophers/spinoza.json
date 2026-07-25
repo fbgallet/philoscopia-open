@@ -687,26 +687,31 @@
         "kind": "weights",
         "weights": [
           0,
+          0.15,
+          0.85,
           0,
-          0.3,
-          0.7,
           0
         ]
       },
-      "epistemicStatus": "INFERABLE",
-      "salience": "MINOR",
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
       "justification": {
         "text": {
-          "fr": "La pensée et l'étendue sont deux attributs d'une seule substance : l'esprit est l'idée du corps, ni réductible à lui ni séparable de lui. « Tous les individus sont animés à des degrés divers » : une position proche du monisme à double aspect et du panpsychisme.",
-          "en": "Thought and extension are two attributes of one substance: the mind is the idea of the body, neither reducible to it nor separable from it. \"All individuals are animate in varying degrees\": a position close to dual-aspect monism and panpsychism."
+          "fr": "L'esprit et le corps ne sont pas deux choses en relation, mais une seule et même chose exprimée sous deux attributs, l'ordre des idées suivant exactement celui des choses. L'esprit humain est <c>l'idée du corps</c>, ni produit par lui ni capable d'agir sur lui, ce qui dissout la question cartésienne de leur interaction au lieu d'y répondre. Spinoza ajoute que <q>tous les individus sont animés à des degrés divers</q>, la pensée n'étant pas le privilège des cerveaux : c'est la matrice historique du <c>monisme à double aspect</c>, et l'ancêtre reconnu du <c id='panpsychism'>panpsychisme</c> contemporain.",
+          "en": "Mind and body are not two things in relation, but one and the same thing expressed under two attributes, the order of ideas following exactly that of things. The human mind is <c>the idea of the body</c>, neither produced by it nor able to act upon it, which dissolves the Cartesian question of their interaction instead of answering it. Spinoza adds that <q>all individuals are animate in varying degrees</q>, thought being no privilege of brains: this is the historical matrix of <c>dual-aspect monism</c>, and the acknowledged ancestor of contemporary <c id='panpsychism'>panpsychism</c>."
         },
         "references": [
           {
             "fr": "Éthique, II, prop. 7 et 13 (scolie)",
             "en": "Ethics, II, props. 7 and 13 (scholium)"
+          },
+          {
+            "fr": "Éthique, III, prop. 2",
+            "en": "Ethics, III, prop. 2"
           }
         ],
-        "strength": "MEDIUM"
+        "quoteId": "l-ordre-et-la-connexion-des-spinoza",
+        "strength": "STRONG"
       }
     },
     {

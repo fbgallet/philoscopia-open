@@ -35,6 +35,15 @@ Running a program will never be thinking: simulating understanding is not unders
 - **Thinking, or feeling** : Reasoning is one thing, feeling another: a machine might compute everything without there being "something it is like" to be it, thought with no consciousness at all.
 - **Would we owe it anything?** : If a machine thought, would it have interests, a dignity, rights, or would it remain a thing we dispose of, owing it nothing?
 
+## Arguments
+
+- *The substrate does not matter* · for : [The multiple-realizability argument](../arguments/functionalism-multiple-realizability.md)
+- *The substrate does not matter* · against : [The China-brain objection](../arguments/functionalism-china-brain-objection.md)
+- *Only the living think* · for : [The argument from concern](../arguments/only-life-thinks-nothing-matters-to-it.md)
+- *Only the living think* · against : [The objection from the privilege of flesh](../arguments/only-life-thinks-carbon-chauvinism-objection.md)
+- *Not by program alone* · for : [The syntax-and-meaning argument](../arguments/machine-median-syntax-not-semantics.md)
+- *Not by program alone* · against : [The systems reply](../arguments/machine-median-systems-reply-objection.md)
+
 ## Grounding relations
 
 - *[Being or having a body](../axes/embodiment.md) : The lived body* grounds *[Can a machine think](../axes/machine-mind.md) : Only the living think* : If thinking is first of all being a living organism coupled to its environment, then manipulating symbols is not enough to understand: a program with neither body nor life does not truly think. The lived-body thesis supports the idea that only the living think: for [Jonas](../philosophers/jonas.md), mind is rooted in the organism's life and its concern to endure.

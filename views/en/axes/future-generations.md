@@ -28,6 +28,14 @@ Our obligations are owed first to the people who exist here and now: their needs
 - **Is a distant good worth less?** : Should a benefit or harm to future people count for less simply because it lies far off in time, as the economic reckoning that discounts the future does, or is that preference for the present a moral error, a mere failure of imagination? A very small annual rate is enough to make a distant catastrophe almost weightless today.
 - **A fair share across the ages** : Grant that we owe the future something: what is the fair division of resources and burdens across generations, how much must each age save, and who bears the cost of averting a distant harm, such as the climate burden?
 
+## Tensions
+
+- With [Status of norms (metaethics)](../axes/moral-scope.md) : Holding that a value judgment expresses only a desire, describing nothing in the world, and then acknowledging toward future generations an obligation that nothing should be able to outweigh, puts two positions in tension: an obligation without exception needs an authority that subjectivism denies it. There are ways of holding both: saying that the obligation binds whoever shares certain desires, or that it rests on an agreement rather than a truth. But this has to be owned, for the condemnation then loses what it claimed to have — the force of holding even against someone who wants no part of it.
+
+## Quotations
+
+> “Remember your humanity, and forget the rest.” — [Russell](../philosophers/russell.md), Russell-Einstein Manifesto (1955), closing appeal
+
 ## Related axes
 
 [Humanity's place in nature](../axes/human-place-nature.md) · [Moral circle](../axes/moral-circle.md) · [Tradition and transformation](../axes/conservatism-progressism.md) · [Temporal orientation](../axes/time-orientation.md) · [The origin of the social bond](../axes/social-contract.md) · [Distributive justice](../axes/distributive-justice.md)

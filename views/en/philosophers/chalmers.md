@@ -4,7 +4,7 @@
 
 *1966 – ? · Australian · [Analytic Philosophy](../movements/analytic-philosophy.md)*
 
-Australian philosopher of mind, who named the "hard problem" of consciousness: explaining the brain's mechanisms leaves untouched the question of why they are accompanied by any experience at all. From it, through the zombie argument, he draws a property dualism.
+Australian philosopher of mind, who named the "[hard problem](../glossary/hard-problem.md)" of consciousness: explaining the brain's mechanisms leaves untouched the question of why they are accompanied by any experience at all. From it, through the zombie argument, he draws a property dualism.
 
 **External links** : [Wikipedia](https://en.wikipedia.org/wiki/David_Chalmers) · [Wikidata](https://www.wikidata.org/wiki/Q366123)
 
@@ -14,11 +14,11 @@ Australian philosopher of mind, who named the "hard problem" of consciousness: e
 
 *positioned · explicit in the texts · major*
 
-Property dualism 75% · Panpsychism 25%
+Property dualism 70% · Dual-aspect monism 30%
 
-Chalmers separates the easy problems of consciousness, which concern mechanisms and which science will solve, from the hard problem: why are those mechanisms accompanied by any experience at all? No functional explanation answers it, for describing what a system does leaves untouched what it is like to be one. He concludes that [qualia](../glossary/qualia.md) are not reducible to physical processes but are tied to them by laws of nature, and calls his position a naturalistic dualism: consciousness is a fundamental feature of the world, like mass or charge, not a separate substance. He also explores, without adopting it, another route to the same intuition: lodging experience in the intrinsic nature of the physical, of which physics describes only the structure. That option, close to Russellian monism and to panpsychism, remains for him a serious avenue, not the thesis he defends.
+Chalmers separates the easy problems of consciousness, which concern mechanisms and which science will solve, from the [hard problem](../glossary/hard-problem.md): why are those mechanisms accompanied by any experience at all? No functional explanation answers it, for describing what a system does leaves untouched what it is like to be one. He concludes that [qualia](../glossary/qualia.md) are not reducible to physical processes but are tied to them by laws of nature, and calls his position a naturalistic dualism: consciousness is a fundamental feature of the world, like mass or charge, not a separate substance. He also explores, without adopting it, another route to the same intuition: lodging experience in the intrinsic nature of the physical, of which physics describes only the structure. That option, close to Russellian monism and to [panpsychism](../glossary/panpsychism.md), remains for him a serious avenue, not the thesis he defends.
 
-*Sources : "Facing Up to the Problem of Consciousness" (1995) · The Conscious Mind (1996)*
+*Sources : "Facing Up to the Problem of Consciousness" (1995) · The Conscious Mind (1996) · "Panpsychism and Panprotopsychism" (2015)*
 
 ### [Can a machine think](../axes/machine-mind.md)
 

@@ -30,6 +30,24 @@ Mary knows all the physical facts about color without having seen it; on seeing 
 
 **Puts to the test** : [The argument from success](../arguments/scientism-self-correction.md)
 
+### Objects to [The enigma of consciousness](../axes/consciousness-nature.md) : Physicalism — attacks the position
+
+Mary knows all the physics of colour and yet learns something on seeing red: experience was therefore not contained in the complete description of the brain.
+
+**The argument it makes**
+
+1. Mary knows every physical fact about colour vision, down to the last cerebral circuit, without ever having seen anything but black and white.
+2. On coming out, she sees a red rose and learns what it is to see red: something she did not know, and that no further physical information would have given her.
+3. If experience were identical with the cerebral state, she would have nothing to learn: she already possessed, in principle, the complete description of that state.
+
+**⇒** So experience is not exhausted by the brain's workings: a fact remains that the complete physical description did not contain.
+
+- **She learns a new fact: experience is therefore additional to the brain's workings, however tightly it depends on them.** : This is Frank Jackson's knowledge argument, which most often leads to [property dualism](../axes/consciousness-nature.md) rather than to a separate soul.
+- **She gains not a fact but a familiarity: recognizing, imagining, remembering red. A know-how, not one more truth.** : The ability reply: physicalism survives if what Mary acquires is a capacity, not access to a fact she lacked.
+- **The thought experiment cheats: no one can picture what a truly complete physical knowledge would be, and the intuition bears only on our ignorance.** : [Dennett](../philosophers/dennett.md)'s objection: we imagine Mary as learned in the way we would be, that is, ignorant, and we draw conclusions from that picture.
+
+**Puts to the test** : [The argument from mental efficacy](../arguments/physicalism-causal-exclusion.md)
+
 **Possible stances** :
 
 - She learns something: seeing red reveals to her what no textbook contained. There are, then, truths that science, however complete, cannot reach.

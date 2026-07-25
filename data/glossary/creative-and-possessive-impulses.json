@@ -1,0 +1,20 @@
+{
+  "id": "creative-and-possessive-impulses",
+  "term": {
+    "fr": "Impulsions créatrices et possessives",
+    "en": "Creative and possessive impulses"
+  },
+  "aliases": {
+    "fr": ["impulsions créatrices", "impulsions possessives", "impulsion possessive"],
+    "en": ["creative impulses", "possessive impulses", "possessive impulse"]
+  },
+  "definition": {
+    "fr": "Partage que <ph id='russell'>Russell</ph> propose pour décrire l'homme sans le juger bon ni mauvais. Les impulsions possessives portent sur des biens qu'un seul peut avoir, comme la terre, l'argent, le rang ou le pouvoir : ce que j'obtiens, un autre le perd. Les impulsions créatrices portent sur des biens qu'on ne perd pas en les partageant : le savoir, l'art, l'affection, la découverte. <arg>Aucune des deux n'est plus naturelle que l'autre ; ce sont les institutions qui décident laquelle grandit</arg>, et une politique se juge à celle qu'elle nourrit. D'où une <ax id='HUMAN_VISION'>plasticité sans optimisme</ax> : l'homme n'est ni corrompu ni sauvé par la société, il est façonné, et rien n'assure que ce soit dans le bon sens.",
+    "en": "A division <ph id='russell'>Russell</ph> proposes in order to describe human beings without judging them good or bad. Possessive impulses bear on goods only one person can have: land, money, rank, power — what I obtain, another loses. Creative impulses bear on goods that are not lost by being shared: knowledge, art, affection, discovery. <arg>Neither is more natural than the other; institutions decide which one grows</arg>, and a politics is judged by the one it feeds. Hence a <ax id='HUMAN_VISION'>plasticity without optimism</ax>: human beings are neither corrupted nor saved by society, they are shaped, and nothing guarantees it will be for the better."
+  },
+  "relatedAxes": ["HUMAN_VISION", "INDIVIDUAL_SOCIETY", "WORK_MEANING", "DISTRIBUTIVE_JUSTICE"],
+  "relatedTerms": [],
+  "figure": { "slug": "russell", "name": { "fr": "Russell", "en": "Russell" } },
+  "positions": [],
+  "updatedAt": "2026-07-25T00:00:00.000Z"
+}

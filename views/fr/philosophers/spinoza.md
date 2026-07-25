@@ -264,13 +264,15 @@ L'Éthique est démontrée « à la manière des géomètres » : tout le savoir
 
 ### [L'énigme de la conscience](../axes/consciousness-nature.md)
 
-*positionné · inférable · mineure*
+*positionné · explicite dans les textes · majeure*
 
-Panpsychisme 70% · Dualisme des propriétés 30%
+Monisme à double aspect 85% · Dualisme des propriétés 15%
 
-La pensée et l'étendue sont deux attributs d'une seule substance : l'esprit est l'idée du corps, ni réductible à lui ni séparable de lui. « Tous les individus sont animés à des degrés divers » : une position proche du monisme à double aspect et du panpsychisme.
+L'esprit et le corps ne sont pas deux choses en relation, mais une seule et même chose exprimée sous deux attributs, l'ordre des idées suivant exactement celui des choses. L'esprit humain est l'idée du corps, ni produit par lui ni capable d'agir sur lui, ce qui dissout la question cartésienne de leur interaction au lieu d'y répondre. Spinoza ajoute que « tous les individus sont animés à des degrés divers », la pensée n'étant pas le privilège des cerveaux : c'est la matrice historique du monisme à double aspect, et l'ancêtre reconnu du [panpsychisme](../glossary/panpsychism.md) contemporain.
 
-*Sources : Éthique, II, prop. 7 et 13 (scolie)*
+> « L'ordre et la connexion des idées sont les mêmes que l'ordre et la connexion des choses. », Éthique, II, proposition 7
+
+*Sources : Éthique, II, prop. 7 et 13 (scolie) · Éthique, III, prop. 2*
 
 ### [Être ou avoir un corps](../axes/embodiment.md)
 

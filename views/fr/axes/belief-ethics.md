@@ -30,6 +30,8 @@ Quand les preuves ne tranchent pas et que l'enjeu est vital, nous avons le droit
 
 ## Citations
 
+> « Il n'est pas souhaitable de croire une proposition quand rien ne permet de la supposer vraie. » — [Russell](../philosophers/russell.md), Essais sceptiques, « De la valeur du scepticisme »
+
 > « Le degré de notre assentiment doit être réglé sur les fondements de probabilité de la chose. » — [Locke](../philosophers/locke.md), Essai sur l'entendement humain, IV, ch. 15-16 (la probabilité et les degrés d'assentiment)
 
 > « Un homme sage proportionne donc sa croyance à l'évidence. » — [Hume](../philosophers/hume.md), Enquête sur l'entendement humain, sect. X

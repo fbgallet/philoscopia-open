@@ -1,0 +1,18 @@
+{
+  "id": "il-n-est-pas-souhaitable-de-russell",
+  "text": {
+    "fr": "Il n'est pas souhaitable de croire une proposition quand rien ne permet de la supposer vraie.",
+    "en": "It is undesirable to believe a proposition when there is no ground whatever for supposing it true."
+  },
+  "author": { "name": { "fr": "Russell", "en": "Russell" }, "kind": "PHILOSOPHER", "slug": "russell" },
+  "source": {
+    "fr": "Essais sceptiques, « De la valeur du scepticisme »",
+    "en": "Sceptical Essays, \"On the Value of Scepticism\""
+  },
+  "anchors": [{ "axisId": "BELIEF_ETHICS", "poleId": "EVIDENTIALISM" }],
+  "context": {
+    "fr": "Russell donne lui-même cette règle pour scandaleuse, tant elle est simple : il la présente comme une doctrine qui, si elle était admise, transformerait la vie humaine.",
+    "en": "Russell himself offers the rule as scandalous for being so simple: he presents it as a doctrine which, if accepted, would transform human life."
+  },
+  "updatedAt": "2026-07-25T00:00:00.000Z"
+}

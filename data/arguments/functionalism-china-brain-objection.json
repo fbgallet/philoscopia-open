@@ -1,0 +1,119 @@
+{
+  "id": "functionalism-china-brain-objection",
+  "kind": "OBJECTS",
+  "position": {
+    "axisId": "MACHINE_MIND",
+    "poleId": "FUNCTIONALISM"
+  },
+  "name": {
+    "fr": "L'objection du peuple-cerveau",
+    "en": "The China-brain objection"
+  },
+  "claim": {
+    "fr": "Si l'organisation suffit, alors une foule qui s'échange des messages pense — et l'on ne voit plus ce que l'on a dit.",
+    "en": "If organization suffices, then a crowd passing messages thinks — and one no longer sees what one has said."
+  },
+  "summary": {
+    "fr": "La réalisabilité multiple montre que beaucoup de supports conviennent, non que tous conviennent.",
+    "en": "Multiple realizability shows that many substrates will do, not that any will."
+  },
+  "development": [
+    {
+      "fr": "L'argument tient que toute réalisation de la bonne organisation suffit, quel qu'en soit le support : c'est le pas décisif, et il n'est assorti d'aucune restriction.",
+      "en": "The argument holds that any realization of the right organization suffices, whatever the substrate: that is the decisive step, and it comes with no restriction."
+    },
+    {
+      "fr": "Faisons-le jouer jusqu'au bout : que la population entière d'un pays, munie de téléphones et de consignes, reproduise exactement les relations causales de vos neurones, une personne par neurone. L'organisation, ce <kw>réseau de rôles causaux</kw>, est la même, à la vitesse près.",
+      "en": "Let us push it through: suppose the entire population of a country, equipped with telephones and instructions, reproduces exactly the causal relations of your neurons, one person per neuron. The organization, that <kw>network of causal roles</kw>, is the same, speed apart."
+    },
+    {
+      "fr": "Il faudrait alors dire qu'un <kw>sujet</kw> apparaît au-dessus de cette foule, avec ses douleurs et ses souvenirs, dont aucun participant n'a la moindre idée. La conclusion n'est pas seulement étrange : rien, dans l'argument, ne dit pourquoi elle serait vraie.",
+      "en": "One would then have to say that a <kw>subject</kw> appears above that crowd, with its pains and memories, of which no participant has the faintest idea. The conclusion is not merely strange: nothing in the argument says why it would be true."
+    },
+    {
+      "fr": "Ou bien on l'accepte, et « penser » ne veut plus dire ce que nous voulions dire ; ou bien on la refuse, et c'est qu'autre chose que l'organisation compte : la vitesse, la matière, la manière dont les parties tiennent ensemble.",
+      "en": "Either one accepts it, and \"thinking\" no longer means what we meant; or one refuses it, and then something besides organization matters: speed, material, the way the parts hold together."
+    }
+  ],
+  "conclusion": {
+    "fr": "La <c id='multiple-realizability'>réalisabilité multiple</c> prouve que beaucoup de supports conviennent, non que tous conviennent : l'argument franchit ce pas sans le justifier.",
+    "en": "<c id='multiple-realizability'>Multiple realizability</c> proves that many substrates will do, not that any will: the argument takes that step without justifying it."
+  },
+  "difficulty": 2,
+  "source": {
+    "author": {
+      "fr": "Ned Block",
+      "en": "Ned Block"
+    },
+    "figures": [
+      {
+        "name": {
+          "fr": "Block",
+          "en": "Block"
+        },
+        "kind": "PHILOSOPHER"
+      }
+    ],
+    "work": {
+      "fr": "« Troubles with Functionalism »",
+      "en": "\"Troubles with Functionalism\""
+    },
+    "year": 1978
+  },
+  "attacks": "REASONING",
+  "targets": ["functionalism-multiple-realizability"],
+  "problems": ["strange-realizers"],
+  "responses": [
+    {
+      "id": "flesh-required",
+      "label": {
+        "fr": "Si l'organisation ne suffit pas, c'est peut-être qu'il y faut la chair : un vivant, non un assemblage.",
+        "en": "If organization does not suffice, perhaps flesh is required: a living being, not an assembly."
+      },
+      "hints": [
+        {
+          "axisId": "MACHINE_MIND",
+          "value": { "kind": "scalar", "value": 1 },
+          "weight": 1.5
+        }
+      ]
+    },
+    {
+      "id": "causal-powers-missing",
+      "label": {
+        "fr": "Ce qui manque à la foule, ce sont les pouvoirs causaux d'un cerveau réel, pas la vie : un artefact d'un autre genre pourrait les avoir.",
+        "en": "What the crowd lacks are the causal powers of a real brain, not life: an artifact of another kind could have them."
+      },
+      "hints": [
+        {
+          "axisId": "MACHINE_MIND",
+          "value": { "kind": "scalar", "value": 0 },
+          "weight": 2
+        }
+      ],
+      "discussion": {
+        "fr": "C'est la position de <ph id='searle'>Searle</ph> : refuser le programme sans réserver la pensée au vivant.",
+        "en": "This is <ph id='searle'>Searle</ph>'s position: refusing the program without reserving thought to the living."
+      }
+    },
+    {
+      "id": "scale-not-argument",
+      "label": {
+        "fr": "Notre malaise vient de l'échelle et de la lenteur, non d'un argument : le peuple-cerveau penserait, très lentement.",
+        "en": "Our discomfort comes from scale and slowness, not from an argument: the China brain would think, very slowly."
+      },
+      "hints": [
+        {
+          "axisId": "MACHINE_MIND",
+          "value": { "kind": "scalar", "value": -1 },
+          "weight": 0.5
+        }
+      ],
+      "discussion": {
+        "fr": "La réplique fonctionnaliste : nos intuitions sont calibrées sur des objets à notre taille, et n'ont jamais été un bon guide sur ce point.",
+        "en": "The functionalist reply: our intuitions are calibrated on objects our own size, and have never been a good guide here."
+      }
+    }
+  ],
+  "updatedAt": "2026-07-25T00:00:00.000Z"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "moral-subjectivism-absolute-obligation",
+  "kind": "T_V",
+  "a": { "axisId": "MORAL_SCOPE", "predicate": { "kind": "minPoleWeight", "poleId": "RELATIVISM", "min": 0.5 } },
+  "b": { "axisId": "FUTURE_GENERATIONS", "predicate": { "kind": "scalarRange", "min": -1, "max": -0.6 } },
+  "explanation": {
+    "fr": "Tenir qu'un jugement de valeur n'exprime qu'un désir, sans rien décrire dans le monde, puis reconnaître envers les générations futures une obligation que rien ne devrait pouvoir mettre en balance, met deux positions en tension : une obligation sans exception a besoin d'une autorité que le subjectivisme lui refuse. Il reste des façons de tenir les deux : dire que l'obligation vaut pour quiconque partage certains désirs, ou qu'elle repose sur un accord et non sur une vérité. Encore faut-il l'assumer, car la condamnation perd alors ce qu'elle prétendait avoir : la force de valoir aussi contre celui qui n'en veut pas.",
+    "en": "Holding that a value judgment expresses only a desire, describing nothing in the world, and then acknowledging toward future generations an obligation that nothing should be able to outweigh, puts two positions in tension: an obligation without exception needs an authority that subjectivism denies it. There are ways of holding both: saying that the obligation binds whoever shares certain desires, or that it rests on an agreement rather than a truth. But this has to be owned, for the condemnation then loses what it claimed to have — the force of holding even against someone who wants no part of it."
+  },
+  "updatedAt": "2026-07-25T00:00:00.000Z"
+}

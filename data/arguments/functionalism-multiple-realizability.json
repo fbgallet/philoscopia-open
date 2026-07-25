@@ -1,0 +1,149 @@
+{
+  "id": "functionalism-multiple-realizability",
+  "kind": "SUPPORTS",
+  "position": {
+    "axisId": "MACHINE_MIND",
+    "poleId": "FUNCTIONALISM"
+  },
+  "name": {
+    "fr": "L'argument de la réalisabilité multiple",
+    "en": "The multiple-realizability argument"
+  },
+  "claim": {
+    "fr": "Ce qui fait un état mental, c'est le rôle qu'il joue, non l'étoffe qui le réalise : et le même rôle se laisse tenir par des matières très différentes.",
+    "en": "What makes a mental state is the role it plays, not the stuff that realizes it: and the same role can be played by very different materials."
+  },
+  "summary": {
+    "fr": "Le support peut varier sans que l'état mental change : ce n'est donc pas lui qui le constitue.",
+    "en": "The substrate can vary while the mental state stays the same: so it is not the substrate that constitutes it."
+  },
+  "development": [
+    {
+      "fr": "Nous n'attribuons jamais un état mental en inspectant une matière : nous l'attribuons au <kw>rôle</kw> qu'il joue dans ce qu'un être fait. Il évite ce qui l'a blessé, hésite, apprend, se corrige. C'est ainsi que nous reconnaissons la douleur d'un chien et la peur d'un enfant.",
+      "en": "We never ascribe a mental state by inspecting a material: we ascribe it to the <kw>role</kw> it plays in what a being does. It avoids what hurt it, hesitates, learns, corrects itself. That is how we recognize a dog's pain and a child's fear."
+    },
+    {
+      "fr": "Or le même rôle est tenu par des matières et des architectures très différentes, ce qu'on appelle la <c id='multiple-realizability'>réalisabilité multiple</c> : le poulpe, dont le système nerveux ne ressemble pas au nôtre, hésite et apprend ; et chez l'homme même, après une lésion, une fonction se réinstalle ailleurs dans le cerveau sans que le vécu correspondant disparaisse.",
+      "en": "Yet the same role is played by very different materials and architectures, which is called <c id='multiple-realizability'>multiple realizability</c>: the octopus, whose nervous system is nothing like ours, hesitates and learns; and in humans themselves, after a lesion, a function relocates elsewhere in the brain without the corresponding experience disappearing."
+    },
+    {
+      "fr": "Ce qui varie sans que l'état mental change n'est pas ce qui le constitue : si le support peut varier tandis que la douleur reste la douleur, ce n'est pas le support qui fait la douleur.",
+      "en": "What varies while the mental state stays the same is not what constitutes it: if the substrate can vary while pain remains pain, it is not the substrate that makes the pain."
+    },
+    {
+      "fr": "Reste ce qui n'a pas varié : l'<kw>organisation</kw>, c'est-à-dire un réseau de relations entre ce qui entre, ce qui se transforme au-dedans et ce qui sort. Rien dans cette organisation ne mentionne le carbone, le neurone ni le vivant.",
+      "en": "What remains is what did not vary: the <kw>organization</kw>, that is, a network of relations between what comes in, what is transformed within, and what goes out. Nothing in that organization mentions carbon, neurons, or the living."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc exiger une matière particulière n'est pas une exigence philosophique mais un <kw>préjugé de support</kw> : ce qui réalise l'organisation pense, fût-ce en silicium.",
+    "en": "So demanding a particular material is not a philosophical requirement but a <kw>substrate prejudice</kw>: whatever realizes the organization thinks, silicon included."
+  },
+  "difficulty": 2,
+  "source": {
+    "author": {
+      "fr": "Hilary Putnam",
+      "en": "Hilary Putnam"
+    },
+    "figures": [
+      {
+        "name": {
+          "fr": "Putnam",
+          "en": "Putnam"
+        },
+        "kind": "PHILOSOPHER"
+      }
+    ],
+    "work": {
+      "fr": "« Psychological Predicates » (repris sous le titre « The Nature of Mental States »)",
+      "en": "\"Psychological Predicates\" (later retitled \"The Nature of Mental States\")"
+    },
+    "year": 1967
+  },
+  "deepenings": [
+    {
+      "id": "octopus-and-plasticity",
+      "label": {
+        "fr": "Le poulpe et la plasticité",
+        "en": "The octopus and plasticity"
+      },
+      "targetStep": 1,
+      "summary": {
+        "fr": "La nature elle-même réalise l'esprit de plusieurs manières : chez le poulpe, et jusque dans un cerveau humain qui se réorganise.",
+        "en": "Nature itself realizes mind in more than one way: in the octopus, and even within a human brain that reorganizes itself."
+      },
+      "development": [
+        {
+          "fr": "Le poulpe a des neurones, mais son système nerveux est réparti dans ses bras, sans rien qui ressemble à notre architecture. Il résout pourtant des problèmes, reconnaît des personnes, apprend par essais : une lignée éloignée de la nôtre depuis six cents millions d'années réalise les mêmes fonctions autrement.",
+          "en": "The octopus has neurons, but its nervous system is spread through its arms, with nothing resembling our architecture. It nonetheless solves problems, recognizes people, learns by trial: a lineage separated from ours for six hundred million years realizes the same functions otherwise."
+        },
+        {
+          "fr": "Et sans quitter notre espèce : chez l'enfant dont un hémisphère est retiré, la parole et la mémoire se réinstallent dans l'autre. Ce n'est donc pas tel tissu qui portait ces états, puisqu'un autre les porte.",
+          "en": "And without leaving our own species: in a child whose hemisphere is removed, speech and memory re-establish themselves in the other. It was therefore not that particular tissue that carried those states, since another carries them."
+        },
+        {
+          "fr": "Exiger la matière du cerveau humain conduirait à refuser la douleur à tout ce qui n'est pas nous : la biologie a déjà tranché contre cette exigence.",
+          "en": "Demanding the material of the human brain would mean denying pain to everything that is not us: biology has already ruled against that demand."
+        }
+      ],
+      "conclusion": {
+        "fr": "La réalisabilité multiple n'est pas une hypothèse de philosophe : c'est un fait de la nature, que la machine ne fait qu'étendre.",
+        "en": "Multiple realizability is not a philosopher's hypothesis: it is a fact of nature, which the machine merely extends."
+      }
+    },
+    {
+      "id": "no-other-proof",
+      "label": {
+        "fr": "Nous n'avons jamais d'autre preuve",
+        "en": "We never have any other proof"
+      },
+      "summary": {
+        "fr": "J'accorde la pensée à mes semblables sur leurs seuls propos et gestes : la refuser à ce qui en fait autant serait un deux poids, deux mesures.",
+        "en": "I grant thought to my fellows on their words and gestures alone: denying it to whatever does the same would be a double standard."
+      },
+      "development": [
+        {
+          "fr": "De l'esprit d'autrui, je n'ai jamais d'accès direct : je ne perçois que des corps qui parlent et agissent. C'est sur cette seule base que j'accorde à chacun une vie intérieure, sans que cela me paraisse hasardeux.",
+          "en": "Of another's mind I never have direct access: I perceive only bodies that speak and act. On that basis alone I grant everyone an inner life, without its striking me as risky."
+        },
+        {
+          "fr": "Si une machine tient sa place dans les mêmes échanges, répond, s'explique, se reprend, on lui applique un critère qu'on n'applique à personne d'autre en exigeant une preuve supplémentaire.",
+          "en": "If a machine holds its place in those same exchanges, answering, explaining itself, correcting itself, then demanding an extra proof applies to it a criterion applied to no one else."
+        },
+        {
+          "fr": "Dans le <te id='turing-test'>jeu de l'imitation</te>, <ph id='turing'>Turing</ph> ne prétend pas démontrer qu'elle pense : il fait valoir qu'on ne dispose d'aucun autre critère, et qu'à défaut d'en produire un, le refus n'est plus qu'un privilège que nous nous accordons.",
+          "en": "In the <te id='turing-test'>imitation game</te>, <ph id='turing'>Turing</ph> does not claim to prove that it thinks: he points out that we have no other criterion, and that failing to produce one, the refusal is merely a privilege we grant ourselves."
+        }
+      ],
+      "conclusion": {
+        "fr": "Le refus de la pensée à la machine demande un critère que nous n'appliquons à aucun de nos semblables.",
+        "en": "Denying thought to the machine requires a criterion we apply to none of our fellows."
+      },
+      "source": {
+        "author": {
+          "fr": "Alan Turing",
+          "en": "Alan Turing"
+        },
+        "figures": [
+          {
+            "name": {
+              "fr": "Turing",
+              "en": "Turing"
+            },
+            "kind": "PHILOSOPHER",
+            "slug": "turing"
+          }
+        ],
+        "work": {
+          "fr": "« Les ordinateurs et l'intelligence »",
+          "en": "\"Computing Machinery and Intelligence\""
+        },
+        "year": 1950
+      }
+    }
+  ],
+  "problems": ["strange-realizers", "turing-test"],
+  "relatedThoughtExperiment": "turing-test",
+  "testThoughtExperiment": "chinese-room",
+  "updatedAt": "2026-07-25T00:00:00.000Z"
+}

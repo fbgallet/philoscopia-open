@@ -1,0 +1,17 @@
+{
+  "kind": "PHILOSOPHER",
+  "stub": true,
+  "id": "moore",
+  "name": { "fr": "Moore", "en": "Moore" },
+  "aliases": { "fr": ["moorien"], "en": ["Moorean"] },
+  "summary": {
+    "fr": "Philosophe anglais, collègue de <ph id='russell'>Russell</ph> à Cambridge et l'une des sources de la philosophie analytique : il défend le sens commun contre l'idéalisme et soutient que le bien est une qualité simple, indéfinissable, que toute tentative de le réduire à un fait naturel manque.",
+    "en": "English philosopher, <ph id='russell'>Russell</ph>'s colleague at Cambridge and one of the sources of analytic philosophy: he defends common sense against idealism and holds that goodness is a simple, indefinable quality that every attempt to reduce it to a natural fact misses."
+  },
+  "nationality": { "fr": "Anglais", "en": "English" },
+  "birth": 1873,
+  "death": 1958,
+  "movements": ["analytic-philosophy"],
+  "updatedAt": "2026-07-25T00:00:00.000Z",
+  "validation": { "method": "NOT_VALIDATED" }
+}

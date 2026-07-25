@@ -509,9 +509,9 @@
       "declaredValue": {
         "kind": "weights",
         "weights": [
-          0,
           0.8,
           0.2,
+          0,
           0,
           0
         ]
@@ -520,8 +520,8 @@
       "salience": "MAJOR",
       "justification": {
         "text": {
-          "fr": "Ce qui pense ne peut être de même nature que ce qui est pensé du dehors : l'âme connaît les Idées immatérielles, elle se meut elle-même et survit aux états du corps, autant de traits qu'aucune disposition de la matière ne saurait produire. La conscience relève donc d'un autre ordre que le sensible, antérieur et indépendant de lui, et non d'un agencement corporel qui l'engendrerait. Le platonisme refuse ainsi par avance toute réduction de l'esprit à la matière, là où les stoïciens feront de l'âme un souffle corporel.",
-          "en": "What thinks cannot be of the same nature as what is thought from without: the soul knows the immaterial Forms, it moves itself and outlasts the body's states, traits no arrangement of matter could produce. Consciousness thus belongs to an order other than the sensible, prior to and independent of it, not to a bodily configuration that would generate it. Platonism thereby refuses in advance any reduction of mind to matter, where the Stoics will make the soul a corporeal breath."
+          "fr": "<arg>Ce qui pense ne peut être de même nature que ce qui est pensé du dehors : l'âme connaît les <c id='theory-of-forms'>Idées</c> immatérielles, elle se meut elle-même et survit aux états du corps, autant de traits qu'aucune disposition de la matière ne saurait produire.</arg> La conscience relève donc d'un autre ordre que le sensible, antérieur et indépendant de lui, et non d'un agencement corporel qui l'engendrerait. Le platonisme refuse ainsi par avance toute <c id='reductionism'>réduction</c> de l'esprit à la matière, là où les <mv id='stoicism'>stoïciens</mv> feront de l'âme un souffle corporel.",
+          "en": "<arg>What thinks cannot be of the same nature as what is thought from without: the soul knows the immaterial <c id='theory-of-forms'>Forms</c>, it moves itself and outlasts the body's states, traits no arrangement of matter could produce.</arg> Consciousness thus belongs to an order other than the sensible, prior to and independent of it, not to a bodily configuration that would generate it. Platonism thereby refuses in advance any <c id='reductionism'>reduction</c> of mind to matter, where the <mv id='stoicism'>Stoics</mv> will make the soul a corporeal breath."
         },
         "references": [
           {

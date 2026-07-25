@@ -36,6 +36,10 @@ Societies can and must improve: reason allows us to identify inherited injustice
 - *[The meaning of history](../axes/history-meaning.md) : Directional meaning* grounds *[Tradition and transformation](../axes/conservatism-progressism.md) : Progressivism* : If history follows a march toward more reason and freedom, then inherited injustices are not a sacred order but stages to be surpassed. The directional meaning of history grounds progressivism: from Condorcet to [Marx](../philosophers/marx.md), to understand the movement of history is to give oneself the means to hasten it.
 - *[Vision of humanity](../axes/human-vision.md) : Anthropological pessimism* grounds *[Tradition and transformation](../axes/conservatism-progressism.md) : Conservatism* : If human beings are shot through with selfish, aggressive drives that nothing erases, individual reason is too weak to refound the social order from scratch. Anthropological pessimism supports conservatism: [Burke](../philosophers/burke.md) sees in inherited institutions an accumulated wisdom better reformed with prudence than destroyed.
 
+## Tensions
+
+- With [Tonality of reality](../axes/cosmic-outlook.md) : Holding that the universe is indifferent to what we value, that nothing in it prescribes an end and that the little we are is provisional there, and then expecting knowledge and reform to bring a real improvement in the human lot, puts a reading of reality and a commitment in tension: if no direction is inscribed in things, nothing guarantees the effort will tell, and progress stops being a slope and becomes a wager. There are ways of holding both, and it is indeed the position of several consistent atheists: saying that the world's indifference is precisely what makes reform necessary rather than superfluous, or distinguishing cosmic hope, which has no object, from historical hope, which has one. But it has to be said, on pain of letting activism borrow from providence the confidence one has denied it.
+
 ## Quotations
 
 > “I transmit and do not create; I love the Ancients and trust them.” — [Confucius](../philosophers/confucius.md), Analects, VII, 1

@@ -1,0 +1,119 @@
+{
+  "id": "only-life-thinks-carbon-chauvinism-objection",
+  "kind": "OBJECTS",
+  "position": {
+    "axisId": "MACHINE_MIND",
+    "poleId": "ONLY_LIFE_THINKS"
+  },
+  "name": {
+    "fr": "L'objection du privilège de la chair",
+    "en": "The objection from the privilege of flesh"
+  },
+  "claim": {
+    "fr": "Ce qui rend les choses importantes, c'est d'avoir quelque chose à perdre, et rien ne réserve cela au carbone.",
+    "en": "What makes things matter is having something to lose, and nothing reserves that to carbon."
+  },
+  "summary": {
+    "fr": "L'argument du souci prouve qu'il faut un être exposé, non qu'il faut un être vivant.",
+    "en": "The argument from concern proves that an exposed being is needed, not that a living one is."
+  },
+  "development": [
+    {
+      "fr": "L'argument fait du besoin de se maintenir la condition de la pensée. Mais ce besoin décrit comment la pensée est apparue chez nous ; il ne montre pas encore qu'elle ne pourrait apparaître autrement.",
+      "en": "The argument makes the need to maintain oneself the condition of thought. But that need describes how thought appeared in us; it does not yet show that it could not appear otherwise."
+    },
+    {
+      "fr": "On peut d'ailleurs dire précisément ce que le <kw>métabolisme</kw> apporte : une <kw>vulnérabilité</kw>, des buts propres, une dépendance au monde qui fait que les choses importent. Or aucun de ces traits ne tient à la chimie du carbone.",
+      "en": "One can in fact say precisely what <kw>metabolism</kw> brings: a <kw>vulnerability</kw>, goals of one's own, a dependence on the world that makes things matter. And none of those traits depends on carbon chemistry."
+    },
+    {
+      "fr": "Qu'un artefact soit vulnérable, dépendant de ressources qu'il doit chercher, exposé à une destruction qu'il évite pour son compte, et il possède ce que l'argument exigeait. Le lui refuser encore, c'est avouer que le critère n'était pas le souci mais la matière, et l'on ne dit plus pourquoi la matière compterait.",
+      "en": "Let an artifact be vulnerable, dependent on resources it must seek, exposed to a destruction it avoids on its own account, and it has what the argument demanded. To refuse it still is to admit that the criterion was not concern but material, and one no longer says why material would count."
+    },
+    {
+      "fr": "Nous avons déjà connu cette frontière : on a longtemps tenu la matière vivante pour animée d'un principe propre que la chimie ne pouvait produire, ce qu'on a nommé le <c id='vitalism'>vitalisme</c>. La frontière a reculé sans qu'aucun décret l'ait tracée.",
+      "en": "We have known this frontier before: living matter was long held to be animated by a principle of its own that chemistry could not produce, what came to be called <c id='vitalism'>vitalism</c>. The frontier receded without any decree having drawn it."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc l'argument n'établit pas que seul le vivant pense : il établit qu'il faut, pour penser, un être qui ait quelque chose à perdre, ce qui reste ouvert à d'autres êtres que nous.",
+    "en": "So the argument does not establish that only the living think: it establishes that thinking takes a being with something to lose, which remains open to beings other than us."
+  },
+  "difficulty": 2,
+  "source": {
+    "author": {
+      "fr": "Daniel Dennett",
+      "en": "Daniel Dennett"
+    },
+    "figures": [
+      {
+        "name": {
+          "fr": "Dennett",
+          "en": "Dennett"
+        },
+        "kind": "PHILOSOPHER",
+        "slug": "dennett"
+      }
+    ],
+    "work": {
+      "fr": "La Diversité des esprits",
+      "en": "Kinds of Minds"
+    },
+    "year": 1996
+  },
+  "attacks": "POSITION",
+  "problems": ["strange-realizers", "do-we-owe-it-anything"],
+  "responses": [
+    {
+      "id": "a-vulnerable-artifact",
+      "label": {
+        "fr": "Il y faudrait un artefact vulnérable, ayant vraiment quelque chose à perdre, non un programme : ni la vie, ni le simple calcul.",
+        "en": "It would take a vulnerable artifact, with something genuinely to lose, not a program: neither life nor mere computation."
+      },
+      "hints": [
+        {
+          "axisId": "MACHINE_MIND",
+          "value": { "kind": "scalar", "value": 0 },
+          "weight": 2
+        }
+      ],
+      "discussion": {
+        "fr": "Vous rejoignez la médiane par un autre chemin que <ph id='searle'>Searle</ph> : ce n'est pas la biologie qui manque à la machine, c'est d'être en jeu pour elle-même.",
+        "en": "You reach the middle by a road other than <ph id='searle'>Searle</ph>'s: what the machine lacks is not biology, it is being at stake for itself."
+      }
+    },
+    {
+      "id": "concern-not-flesh",
+      "label": {
+        "fr": "Si ce qui compte est le souci et non la chair, alors l'organisation suffit : le support est indifférent.",
+        "en": "If what counts is concern and not flesh, then organization suffices: the substrate is indifferent."
+      },
+      "hints": [
+        {
+          "axisId": "MACHINE_MIND",
+          "value": { "kind": "scalar", "value": -1 },
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "id": "programmed-vulnerability",
+      "label": {
+        "fr": "Une vulnérabilité programmée reste une consigne : on peut imiter le souci, on ne le fabrique pas du dehors.",
+        "en": "A programmed vulnerability is still an instruction: concern can be imitated, it cannot be manufactured from outside."
+      },
+      "hints": [
+        {
+          "axisId": "MACHINE_MIND",
+          "value": { "kind": "scalar", "value": 1 },
+          "weight": 0.5
+        }
+      ],
+      "discussion": {
+        "fr": "La réplique de <ph id='jonas'>Jonas</ph> : ce qui est donné du dehors comme but n'est jamais un intérêt propre, si fidèlement qu'on en reproduise les effets.",
+        "en": "<ph id='jonas'>Jonas</ph>'s reply: what is given from outside as a goal is never an interest of one's own, however faithfully its effects are reproduced."
+      }
+    }
+  ],
+  "updatedAt": "2026-07-25T00:00:00.000Z"
+}

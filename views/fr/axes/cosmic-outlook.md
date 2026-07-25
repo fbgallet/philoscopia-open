@@ -33,6 +33,10 @@ Le monde n'est ni rationnel ni bienveillant : la souffrance, le conflit et le no
 - *[Tonalité du réel](../axes/cosmic-outlook.md) : Pensée tragique* fonde *[Rapport au désir](../axes/desire.md) : Extinction-détachement* : Si l'existence est tissée de manque et de souffrance, et que vouloir, c'est s'exposer sans fin à la perte, la sagesse n'est pas de combler ses désirs mais de s'en délier. Une vision tragique du monde, du [bouddhisme](../movements/buddhism.md) à Schopenhauer, fonde le détachement : tarir la soif plutôt que courir après ce qui échappe.
 - *[Tonalité du réel](../axes/cosmic-outlook.md) : Pensée tragique* fonde *[Espoir](../axes/hope.md) : Lucidité sans espoir* : Si le monde n'est ni rationnel ni bienveillant et qu'aucune harmonie finale ne rachètera la souffrance, alors espérer, c'est se mentir. La pensée tragique fonde la lucidité sans espoir : [Camus](../philosophers/camus.md) tient la révolte lucide, sans consolation, pour plus digne que l'espérance, et y trouve une forme de liberté.
 
+## Tensions
+
+- Avec [Tradition et transformation](../axes/conservatism-progressism.md) : Tenir que l'univers est indifférent à ce que nous valorisons, que rien n'y prescrit de fin et que le peu que nous sommes y est provisoire, puis attendre du savoir et de la réforme une amélioration réelle du sort humain, met une lecture du réel et un engagement en tension : si aucune direction n'est inscrite dans les choses, rien ne garantit que l'effort porte, et le progrès cesse d'être une pente pour devenir un pari. Il reste des façons de tenir les deux, et c'est même la position de plusieurs athées conséquents : dire que l'indifférence du monde est précisément ce qui rend la réforme nécessaire plutôt que superflue, ou distinguer l'espoir cosmique, qui n'a pas d'objet, de l'espoir historique, qui en a un. Encore faut-il le dire, sous peine de laisser le militantisme emprunter à la providence la confiance qu'on lui a refusée.
+
 ## Citations
 
 > « Il s'ensuit de la suprême perfection de Dieu qu'en produisant l'univers il a choisi le meilleur plan possible. » — [Leibniz](../philosophers/leibniz.md), Monadologie, §55 ; Théodicée

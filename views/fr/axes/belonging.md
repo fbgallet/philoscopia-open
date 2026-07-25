@@ -38,6 +38,8 @@ Nous sommes d'abord citoyens du monde : [la dignité humaine ne s'arrête pas au
 
 > « Prolétaires de tous les pays, unissez-vous ! » — [Marx](../philosophers/marx.md), Manifeste du Parti communiste, 1848
 
+> « Souvenez-vous de votre humanité, et oubliez le reste. » — [Russell](../philosophers/russell.md), Manifeste Russell-Einstein (1955), appel final
+
 > « Vis caché. » — [Épicure](../philosophers/epicurus.md), Fragment 551 Usener (lathe biôsas)
 
 ## Axes liés

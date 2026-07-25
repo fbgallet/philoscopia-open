@@ -1,0 +1,149 @@
+{
+  "id": "property-dualism-hard-problem",
+  "kind": "SUPPORTS",
+  "position": {
+    "axisId": "CONSCIOUSNESS_NATURE",
+    "poleId": "PROPERTY_DUALISM"
+  },
+  "name": {
+    "fr": "L'argument du problème difficile",
+    "en": "The hard-problem argument"
+  },
+  "claim": {
+    "fr": "Expliquer toutes les fonctions du cerveau laisse entière la question de savoir pourquoi elles s'accompagnent d'un vécu : c'est le signe que le vécu est un fait de plus.",
+    "en": "Explaining every function of the brain leaves untouched the question why they are accompanied by experience: the sign that experience is one more fact."
+  },
+  "summary": {
+    "fr": "Les mécanismes expliquent ce que le cerveau fait ; ils ne disent pas pourquoi cela se vit de l'intérieur.",
+    "en": "Mechanisms explain what the brain does; they do not say why any of it is lived from within."
+  },
+  "development": [
+    {
+      "fr": "Expliquer, en science, c'est montrer par quel mécanisme une fonction s'accomplit : comment l'organisme discrimine les couleurs, mémorise, contrôle son comportement, rend compte de ses propres états. Ces <c id='hard-problem'>problèmes faciles</c>, comme on les nomme par contraste, sont difficiles, mais on sait à quoi ressemblerait leur solution.",
+      "en": "To explain, in science, is to show by what mechanism a function is carried out: how the organism discriminates colours, memorizes, controls its behaviour, reports on its own states. These <c id='hard-problem'>easy problems</c>, as they are called by contrast, are hard, but we know what their solution would look like."
+    },
+    {
+      "fr": "Supposons-les toutes résolues, jusqu'au dernier circuit. Une question demeure, parfaitement intelligible, et c'est le <c id='hard-problem'>problème difficile</c> : pourquoi tout ce travail s'accompagne-t-il d'un vécu ? On peut décrire un système qui discrimine, mémorise et rapporte sans avoir encore dit ce que cela lui fait.",
+      "en": "Suppose them all solved, down to the last circuit. One question remains, perfectly intelligible, and it is the <c id='hard-problem'>hard problem</c>: why is all that work accompanied by experience? One can describe a system that discriminates, memorizes and reports without yet having said what it is like for it."
+    },
+    {
+      "fr": "Quand une question reste ouverte alors que l'explication a dit tout ce qu'elle pouvait dire, c'est que son objet n'était pas ce que cette explication décrivait : la <kw>structure</kw> et la <kw>fonction</kw> ne contiennent pas le vécu.",
+      "en": "When a question stays open although the explanation has said all it could say, its object was not what that explanation described: <kw>structure</kw> and <kw>function</kw> do not contain experience."
+    },
+    {
+      "fr": "Pourtant le vécu varie strictement avec l'état du cerveau, et personne ne songe à le nier : cette dépendance est un fait aussi solide que l'écart.",
+      "en": "Yet experience varies strictly with the state of the brain, and no one dreams of denying it: that dependence is as solid a fact as the gap."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc le vécu est un fait supplémentaire du monde, irréductible mais lié au cerveau par une loi de la nature : un <c id='dualism'>dualisme</c> sans miracle, où rien n'est ajouté à la matière que ce qu'elle produit régulièrement.",
+    "en": "So experience is a further fact about the world, irreducible yet tied to the brain by a law of nature: a <c id='dualism'>dualism</c> without miracle, where nothing is added to matter but what it regularly produces."
+  },
+  "difficulty": 2,
+  "source": {
+    "author": {
+      "fr": "David Chalmers",
+      "en": "David Chalmers"
+    },
+    "figures": [
+      {
+        "name": {
+          "fr": "Chalmers",
+          "en": "Chalmers"
+        },
+        "kind": "PHILOSOPHER",
+        "slug": "chalmers"
+      }
+    ],
+    "work": {
+      "fr": "« Face au problème de la conscience »",
+      "en": "\"Facing Up to the Problem of Consciousness\""
+    },
+    "year": 1995
+  },
+  "deepenings": [
+    {
+      "id": "psychophysical-law",
+      "label": {
+        "fr": "Une loi psychophysique",
+        "en": "A psychophysical law"
+      },
+      "targetStep": 3,
+      "summary": {
+        "fr": "Ce qui sépare ce dualisme de celui de Descartes : rien ne viole la physique, le lien est une loi fondamentale à découvrir.",
+        "en": "What separates this dualism from Descartes's: nothing violates physics, the link is a fundamental law to be discovered."
+      },
+      "development": [
+        {
+          "fr": "La dépendance stricte du vécu au cerveau exclut l'âme séparée de <ph id='descartes'>Descartes</ph> : il n'y a pas ici deux substances, dont l'une viendrait pousser l'autre.",
+          "en": "The strict dependence of experience on the brain rules out <ph id='descartes'>Descartes</ph>'s separate soul: there are not two substances here, one of them pushing the other."
+        },
+        {
+          "fr": "Elle n'exclut pas, en revanche, qu'une <kw>loi psychophysique</kw> fondamentale relie certains états physiques à certains états vécus, comme d'autres lois relient la masse à la gravitation. Ces lois-là, la physique ne les déduit pas : elle les constate et les pose au départ.",
+          "en": "It does not, however, rule out that a fundamental <kw>psychophysical law</kw> links certain physical states to certain experienced states, as other laws link mass to gravitation. Such laws physics does not derive: it records them and posits them at the outset."
+        },
+        {
+          "fr": "Le vécu serait alors un ingrédient fondamental du monde, au même titre que la charge ou l'espace-temps, à intégrer dans la théorie plutôt qu'à en dériver.",
+          "en": "Experience would then be a fundamental ingredient of the world, on a par with charge or spacetime, to be built into the theory rather than derived from it."
+        }
+      ],
+      "conclusion": {
+        "fr": "Ce dualisme est naturaliste : il n'ajoute pas une âme au monde, il ajoute une ligne à la liste des lois de la nature.",
+        "en": "This dualism is naturalistic: it does not add a soul to the world, it adds a line to the list of nature's laws."
+      }
+    },
+    {
+      "id": "philosophical-zombie",
+      "label": {
+        "fr": "Le zombie philosophique",
+        "en": "The philosophical zombie"
+      },
+      "summary": {
+        "fr": "Si un double physiquement identique à nous, mais sans rien éprouver, est seulement possible, la vérité physique ne fixe pas le vécu.",
+        "en": "If a double physically identical to us but feeling nothing is so much as possible, physical truth does not fix experience."
+      },
+      "development": [
+        {
+          "fr": "Concevons un <kw>zombie</kw>, un être physiquement identique à vous, atome pour atome, qui parle et agit exactement comme vous, mais sans que rien ne soit vécu : personne à l'intérieur.",
+          "en": "Conceive a <kw>zombie</kw>, a being physically identical to you, atom for atom, speaking and acting exactly as you do, but with nothing being lived: no one home inside."
+        },
+        {
+          "fr": "La description n'a rien de contradictoire : le vocabulaire de la physique ne parle que de structures et de mouvements, et l'on peut suivre entièrement cette description sans jamais rencontrer un ressenti.",
+          "en": "The description involves no contradiction: the vocabulary of physics speaks only of structures and motions, and one can follow that description through without ever meeting a feel."
+        },
+        {
+          "fr": "Si un tel monde est possible, alors la vérité physique complète ne suffit pas à fixer les faits du vécu : deux mondes physiquement identiques pourraient différer par ce qui s'y éprouve.",
+          "en": "If such a world is possible, then the complete physical truth does not suffice to fix the facts of experience: two physically identical worlds could differ in what is felt in them."
+        }
+      ],
+      "conclusion": {
+        "fr": "Le vécu ne se déduit donc pas du physique : il s'y ajoute, et c'est exactement ce que dit le dualisme des propriétés.",
+        "en": "Experience therefore does not follow from the physical: it is added to it, which is exactly what property dualism says."
+      },
+      "source": {
+        "author": {
+          "fr": "David Chalmers",
+          "en": "David Chalmers"
+        },
+        "figures": [
+          {
+            "name": {
+              "fr": "Chalmers",
+              "en": "Chalmers"
+            },
+            "kind": "PHILOSOPHER",
+            "slug": "chalmers"
+          }
+        ],
+        "work": {
+          "fr": "The Conscious Mind, chap. 3",
+          "en": "The Conscious Mind, ch. 3"
+        },
+        "year": 1996
+      }
+    }
+  ],
+  "problems": ["what-it-is-like", "the-zombie-twin", "emergence-as-an-answer"],
+  "test": "property-dualism-epiphenomenon-objection",
+  "updatedAt": "2026-07-25T00:00:00.000Z"
+}

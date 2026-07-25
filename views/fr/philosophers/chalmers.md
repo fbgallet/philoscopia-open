@@ -4,7 +4,7 @@
 
 *1966 – ? · Australien · [Philosophie analytique](../movements/analytic-philosophy.md)*
 
-Philosophe australien de l'esprit, qui a nommé le « problème difficile » de la conscience : expliquer les mécanismes du cerveau laisse entière la question de savoir pourquoi ils s'accompagnent d'un vécu. Il en tire, par l'argument des zombies, un dualisme des propriétés.
+Philosophe australien de l'esprit, qui a nommé le « [problème difficile](../glossary/hard-problem.md) » de la conscience : expliquer les mécanismes du cerveau laisse entière la question de savoir pourquoi ils s'accompagnent d'un vécu. Il en tire, par l'argument des zombies, un dualisme des propriétés.
 
 **Liens externes** : [Wikipédia](https://fr.wikipedia.org/wiki/David_Chalmers) · [Wikidata](https://www.wikidata.org/wiki/Q366123)
 
@@ -14,11 +14,11 @@ Philosophe australien de l'esprit, qui a nommé le « problème difficile » de 
 
 *positionné · explicite dans les textes · majeure*
 
-Dualisme des propriétés 75% · Panpsychisme 25%
+Dualisme des propriétés 70% · Monisme à double aspect 30%
 
-Chalmers sépare les problèmes faciles de la conscience, qui relèvent des mécanismes et que la science résoudra, du problème difficile : pourquoi ces mécanismes s'accompagnent-ils d'un vécu ? Aucune explication fonctionnelle n'y répond, car décrire ce que fait un système laisse entier l'effet que cela fait de l'être. Il en conclut que les [qualia](../glossary/qualia.md) ne sont pas réductibles aux processus physiques mais leur sont liés par des lois de la nature, et qualifie sa position de dualisme naturaliste : la conscience est une donnée fondamentale du monde, comme la masse ou la charge, non une substance séparée. Il explore par ailleurs, sans s'y ranger, une autre voie pour la même intuition : loger l'expérience dans la nature intrinsèque du physique, dont la physique ne décrit que la structure. Cette option, voisine du monisme russellien et du panpsychisme, reste chez lui une piste sérieuse, non la thèse qu'il défend.
+Chalmers sépare les problèmes faciles de la conscience, qui relèvent des mécanismes et que la science résoudra, du [problème difficile](../glossary/hard-problem.md) : pourquoi ces mécanismes s'accompagnent-ils d'un vécu ? Aucune explication fonctionnelle n'y répond, car décrire ce que fait un système laisse entier l'effet que cela fait de l'être. Il en conclut que les [qualia](../glossary/qualia.md) ne sont pas réductibles aux processus physiques mais leur sont liés par des lois de la nature, et qualifie sa position de dualisme naturaliste : la conscience est une donnée fondamentale du monde, comme la masse ou la charge, non une substance séparée. Il explore par ailleurs, sans s'y ranger, une autre voie pour la même intuition : loger l'expérience dans la nature intrinsèque du physique, dont la physique ne décrit que la structure. Cette option, voisine du monisme russellien et du [panpsychisme](../glossary/panpsychism.md), reste chez lui une piste sérieuse, non la thèse qu'il défend.
 
-*Sources : « Facing Up to the Problem of Consciousness » (1995) · The Conscious Mind (1996)*
+*Sources : « Facing Up to the Problem of Consciousness » (1995) · The Conscious Mind (1996) · « Panpsychism and Panprotopsychism » (2015)*
 
 ### [Une machine peut-elle penser](../axes/machine-mind.md)
 

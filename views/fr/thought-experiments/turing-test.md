@@ -10,6 +10,22 @@ Turing juge la question « une machine peut-elle penser ? » trop vague, et prop
 
 **Axes en jeu** : [Une machine peut-elle penser](../axes/machine-mind.md)
 
+## Ce qu'elle fait dans le débat
+
+### Soutient [Une machine peut-elle penser](../axes/machine-mind.md) : Peu importe le support
+
+Nous n'accordons jamais la pensée à autrui que sur ses propos et ses gestes : exiger davantage de la machine, c'est appliquer un critère que nous n'appliquons à personne.
+
+**L'argument qu'elle porte**
+
+1. De l'esprit d'autrui, je n'ai aucun accès direct : je n'observe que des conduites, des paroles, des réactions, et c'est sur cette seule base que je lui accorde une vie intérieure.
+2. Si, dans un échange prolongé, rien ne distingue les réponses d'une machine de celles d'une personne, le critère que j'emploie partout ailleurs est satisfait.
+3. Refuser malgré cela la pensée à la machine suppose un critère supplémentaire, que je n'exige d'aucun de mes semblables et que je serais bien en peine d'énoncer.
+
+**⇒** Donc ce qui réalise la conduite d'un être pensant doit être tenu pour pensant : le support ne fait pas partie du critère.
+
+**Vient renforcer** : [L'argument de la réalisabilité multiple](../arguments/functionalism-multiple-realizability.md)
+
 **Positions possibles** :
 
 - Réussir l'épreuve suffit : d'un esprit, même chez autrui, nous n'avons jamais d'autre preuve que le comportement.

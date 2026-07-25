@@ -6,15 +6,9 @@
 
 *Le monde · descriptif (théorie) · catégoriel*
 
-La douleur, le rouge que je vois, le goût du café : les sciences cognitives décrivent de mieux en mieux les mécanismes cérébraux qui les accompagnent, mais le vécu se réduit-il à eux ? Se positionner, c'est dire si l'expérience n'est rien de plus que l'organisation du cerveau, si elle y ajoute quelque chose d'irréductible, si elle tient à une intériorité déjà présente dans la matière, ou si l'introspection nous trompe sur son existence même. L'axe suppose un cerveau bien réel : ceux pour qui l'esprit est premier et la matière une apparence se situent sur [l'axe de la nature du réel](../axes/reality-nature.md).
+La douleur, le rouge que je vois, le goût du café : les sciences cognitives décrivent de mieux en mieux les mécanismes cérébraux qui les accompagnent, mais le vécu se réduit-il à eux ? Se positionner, c'est dire si l'expérience n'est rien de plus que l'organisation du cerveau, si elle y ajoute quelque chose d'irréductible, si elle tient à une intériorité déjà présente dans la matière, ou si l'introspection nous trompe sur son existence même. L'axe suppose un cerveau bien réel : ceux pour qui l'esprit est premier et la matière une apparence se situent sur [l'axe de la nature du réel](../axes/reality-nature.md). Les cinq positions sont présentées en partant de la plus commune, une âme d'une autre nature, chaque pas suivant retirant un ingrédient à l'inventaire du monde, jusqu'à contester au vécu ce qu'il croit être. C'est un chemin de lecture, non une échelle graduée : la distance entre deux positions ne se mesure pas à leur écart dans la liste.
 
 ## Pôles
-
-### Physicalisme
-
-La conscience n'est rien d'autre que l'activité du cerveau : le vécu n'est pas un fait supplémentaire qui s'ajouterait au fonctionnement cérébral, il en fait partie, si difficile soit-il à expliquer. Reste à comprendre comment, ce que la plupart tiennent pour une difficulté de recherche et non pour un mystère de principe. Le pôle réunit plusieurs nuances : la théorie de l'identité, pour qui chaque état mental sera un jour identifié à un état cérébral, et le naturalisme biologique, pour qui la conscience est une propriété du cerveau aussi ordinaire que la digestion, irréductible à une description en troisième personne sans être pour autant un ingrédient de plus dans le monde. Que cette réduction aboutisse se joue sur l'axe du tout et de ses parties ; que le support doive être biologique, sur celui de la machine pensante.
-
-*[Smart](../philosophers/smart.md) · Place*
 
 ### Dualisme des substances
 
@@ -24,20 +18,28 @@ Le cerveau n'expliquera jamais entièrement l'expérience, car la conscience n'e
 
 ### Dualisme des propriétés
 
-Le cerveau est physique, mais il possède des propriétés irréductibles : l'effet que cela fait de voir du rouge ou de souffrir. Le vécu est ici un fait supplémentaire du monde, relié au cerveau par une loi de la nature plutôt qu'identique à lui ; c'est ce qui sépare cette position du physicalisme, qui n'admet rien au-delà du fonctionnement cérébral. Et c'est là le « problème difficile » de la conscience.
+Le cerveau est physique, mais il possède des propriétés irréductibles : l'effet que cela fait de voir du rouge ou de souffrir. Le vécu est ici un fait supplémentaire du monde, relié au cerveau par une loi de la nature plutôt qu'identique à lui ; c'est ce qui sépare cette position du physicalisme, qui n'admet rien au-delà du fonctionnement cérébral. Et c'est là le « [problème difficile](../glossary/hard-problem.md) » de la conscience.
 
-- David Chalmers qualifie sa position de « dualisme naturaliste », et se dit ouvertement attiré par le panpsychisme, qu'il tient pour une option sérieuse.
+- David Chalmers qualifie sa position de « dualisme naturaliste », et se dit ouvertement attiré par le [panpsychisme](../glossary/panpsychism.md), qu'il tient pour une option sérieuse.
 - Thomas Nagel refuse le réductionnisme sans conclure au dualisme, récuse les étiquettes et penche vers un monisme neutre.
 
 *[Chalmers](../philosophers/chalmers.md) · [Nagel](../philosophers/nagel.md)*
 
-### Panpsychisme
+### Monisme à double aspect
 
-L'expérience n'a pas surgi par miracle dans un univers mort : une forme d'intériorité est une propriété fondamentale de la matière, présente partout à des degrés divers, dont notre conscience serait la forme la plus élaborée.
+Le vécu n'est pas un ingrédient de plus dans le monde, mais l'envers de ce que la physique décrit du dehors : une seule réalité, deux façons de l'atteindre, du dedans par l'expérience, du dehors par la mesure. L'argument tient à ceci que la physique ne dit jamais ce que la matière est, seulement ce qu'elle fait : elle laisse une place vide, et notre propre cerveau est le seul morceau de matière que nous connaissions de l'intérieur. Reste à dire jusqu'où descend ce dedans : le [panpsychisme](../glossary/panpsychism.md) le fait descendre jusqu'aux constituants les plus simples, dont notre conscience serait la composition la plus élaborée ; d'autres n'y logent qu'un précurseur de l'expérience, ou refusent de fixer un seuil. Ce qui sépare ce pôle du dualisme des propriétés, c'est qu'il n'ajoute rien au monde physique, il en réinterprète l'étoffe ; et du physicalisme, qu'il refuse de réduire cette étoffe à la structure et au fonctionnement.
 
+- Spinoza en fournit la matrice : la pensée et l'étendue sont deux attributs d'une même substance, et l'esprit est l'idée du corps, ni produit par lui ni séparable de lui.
+- Russell et Eddington relancent l'idée au XXe siècle en remarquant que la physique livre la structure du monde et non son étoffe ; on parle depuis de monisme russellien.
 - Galen Strawson présente sa position comme un « physicalisme réel », non comme l'ajout d'un esprit à une matière par ailleurs inerte.
 
-*[Strawson](../philosophers/strawson.md) · Goff*
+*[Spinoza](../philosophers/spinoza.md) · [Strawson](../philosophers/strawson.md) · Goff*
+
+### Physicalisme
+
+La conscience n'est rien d'autre que l'activité du cerveau : le vécu n'est pas un fait supplémentaire qui s'ajouterait au fonctionnement cérébral, il en fait partie, si difficile soit-il à expliquer. Reste à comprendre comment, ce que la plupart tiennent pour une difficulté de recherche et non pour un mystère de principe. Le pôle réunit plusieurs nuances : la théorie de l'identité, pour qui chaque état mental sera un jour identifié à un état cérébral, et le naturalisme biologique, pour qui la conscience est une propriété du cerveau aussi ordinaire que la digestion, irréductible à une description en troisième personne sans être pour autant un ingrédient de plus dans le monde. Que cette réduction aboutisse se joue sur [l'axe du tout et de ses parties](../axes/reduction-emergence.md) ; que le support doive être biologique, sur [celui de la machine pensante](../axes/machine-mind.md).
+
+*[Smart](../philosophers/smart.md) · Place*
 
 ### Illusionnisme
 
@@ -46,6 +48,8 @@ Le vécu qualitatif que nous croyons saisir par introspection est une illusion q
 - Dennett rejette les qualia tels qu'on les conçoit d'ordinaire, non l'existence de la vie consciente.
 
 *[Dennett](../philosophers/dennett.md) · Frankish*
+
+*L'opinion commune penche vers « Dualisme des substances ».*
 
 ## Problèmes vifs
 
@@ -56,12 +60,28 @@ Le vécu qualitatif que nous croyons saisir par introspection est une illusion q
 - **Mon esprit m'est-il transparent ?** : Je crois savoir mieux que personne ce que je pense et ce que je ressens. Mais l'esprit déborde peut-être ce qu'il aperçoit de lui-même : et si l'introspection racontait, après coup, une histoire sur une vie mentale qui lui échappe en grande partie ?
 - **Se tromper sur ce qu'on ressent** : Je peux me tromper sur le monde, et même sur mes motifs, mais sur ma douleur même ? Elle semble le seul point où paraître et être coïncident. Et si cette évidence était l'illusion la mieux installée, un cerveau se représentant à lui-même une vie intérieure telle qu'il croit l'avoir ?
 - **D'autres consciences que la mienne** : Je ne perçois jamais l'expérience d'autrui, seulement des corps qui se comportent : comment savoir qu'il y a quelqu'un derrière ? La seule conscience dont j'aie un témoignage direct est la mienne.
-- **Où commence la conscience ?** : Un chien souffre-t-il comme moi ? Et un poisson, une huître, un embryon, une plante, un thermostat ? Entre ce qui vit quelque chose et ce qui ne vit rien, y a-t-il un seuil net, une pente continue, ou la question est-elle mal posée ?
+- **Où commence la conscience ?** : Un chien souffre-t-il comme moi ? Et un poisson, une huître, un embryon, une plante, un thermostat ? Entre ce qui vit quelque chose et ce qui ne vit rien, y a-t-il un seuil net, une pente continue, ou la question est-elle mal posée ? Qui refuse de généraliser le vécu à toute la matière doit un critère, et le quantifier est une manière de payer cette dette.
+- **Ce que la physique laisse en blanc** : La physique décrit la matière par ce qu'elle fait : une masse résiste, une charge attire. Chaque terme renvoie à un autre et jamais à ce que la chose est en elle-même. Cette place vide attend-elle une réponse, ou la question de l'étoffe du monde est-elle un faux besoin ?
 - **Des consciences qui s'additionnent ?** : Si une étincelle d'expérience habite déjà la matière, comment des milliards de micro-vécus font-ils un seul sujet, ma conscience une, plutôt qu'une foule ?
 - **Ce qui tient l'expérience ensemble** : À chaque instant je vois, j'entends et je pense à la fois, mais tout cela m'arrive comme une seule expérience. Qu'est-ce qui la tient ensemble ? Quand on sectionne le pont entre les deux hémisphères, un même cerveau semble abriter deux flux d'expérience qui s'ignorent.
 - **L'instrument ou la source** : Un verre de vin, une lésion, l'âge : le corps altère la pensée jusqu'au caractère. Cette dépendance prouve-t-elle que l'esprit est corporel de part en part, ou seulement que son instrument est abîmé, comme un musicien devant un violon cassé ?
 - **Émerger, est-ce expliquer ?** : La réponse la plus courante aujourd'hui : la conscience « émerge » du cerveau comme la vie a émergé de la chimie. Mais nommer une émergence, est-ce expliquer comment du vécu peut naître de ce qui n'en a pas ?
 - **Et si l'esprit était premier ?** : Tout l'axe demande comment la matière produit l'esprit. Mais on peut renverser la question : et si l'esprit était premier, et la « matière » une apparence en lui ?
+
+## Arguments
+
+- *Dualisme des substances* · pour : [L'argument de l'indivisibilité de l'esprit](../arguments/substance-dualism-indivisible-subject.md)
+- *Dualisme des substances* · contre : [L'objection du cerveau divisé](../arguments/substance-dualism-divided-mind-objection.md)
+- *Dualisme des substances* · contre : [L'objection d'Élisabeth de Bohême](../arguments/substance-dualism-interaction-objection.md)
+- *Dualisme des propriétés* · pour : [L'argument du problème difficile](../arguments/property-dualism-hard-problem.md)
+- *Dualisme des propriétés* · contre : [L'objection de la conception et du possible](../arguments/property-dualism-conceivability-objection.md)
+- *Dualisme des propriétés* · contre : [L'objection du vécu inutile](../arguments/property-dualism-epiphenomenon-objection.md)
+- *Monisme à double aspect* · pour : [L'argument de la nature intrinsèque](../arguments/panpsychism-intrinsic-nature.md)
+- *Monisme à double aspect* · contre : [Le problème de la combinaison](../arguments/panpsychism-combination-objection.md)
+- *Physicalisme* · pour : [L'argument de l'efficacité mentale](../arguments/physicalism-causal-exclusion.md)
+- *Physicalisme* · contre : [L'objection de l'écart explicatif](../arguments/physicalism-explanatory-gap-objection.md)
+- *Illusionnisme* · pour : [L'argument de l'introspection trompeuse](../arguments/illusionism-introspection-misleads.md)
+- *Illusionnisme* · contre : [L'objection du paraître](../arguments/illusionism-seeming-is-experience-objection.md)
 
 ## Relations de fondation
 
@@ -76,6 +96,8 @@ Le vécu qualitatif que nous croyons saisir par introspection est une illusion q
 ## Citations
 
 > « Je veux savoir ce que cela fait, pour une chauve-souris, d'être une chauve-souris. » — [Nagel](../philosophers/nagel.md), « Quel effet cela fait-il d'être une chauve-souris ? », The Philosophical Review, vol. 83, n° 4 (1974), p. 439
+
+> « L'ordre et la connexion des idées sont les mêmes que l'ordre et la connexion des choses. » — [Spinoza](../philosophers/spinoza.md), Éthique, II, proposition 7
 
 > « La conscience humaine est à peu près le dernier mystère qui subsiste. » — [Dennett](../philosophers/dennett.md), La conscience expliquée (1991), chap. 1, première phrase
 

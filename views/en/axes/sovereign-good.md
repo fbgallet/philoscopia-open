@@ -89,6 +89,8 @@ The highest good is human flourishing in all its dimensions: exercising one's ca
 
 > “Tranquillity followed the suspension of judgment as a shadow follows its body.” — [Sextus Empiricus](../philosophers/sextus-empiricus.md), Outlines of Pyrrhonism, I, 29
 
+> “The good life is one inspired by love and guided by knowledge.” — [Russell](../philosophers/russell.md), What I Believe (1925), ch. II
+
 > “The good of man is an activity of the soul in accordance with virtue, and if there are several virtues, in accordance with the best and most complete.” — [Aristotle](../philosophers/aristotle.md), Nicomachean Ethics, I.7 (1098a)
 
 > “Pleasure is the beginning and the end of the blessed life.” — [Epicurus](../philosophers/epicurus.md), Letter to Menoeceus, 128

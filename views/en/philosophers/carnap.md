@@ -10,6 +10,7 @@ German philosopher, a major figure of the Vienna Circle and of logical empiricis
 
 ## Influenced by
 
+- **[Russell](../philosophers/russell.md)** (transmits) : What passes on is a maxim of method, which [Carnap](../philosophers/carnap.md) puts at the head of his enterprise: wherever possible, substitute [constructions](../glossary/logical-construction.md) out of known entities for inferences to unknown entities. The Logical Structure of the World (1928) applies it to the letter, rebuilding every scientific concept from a base of elementary experiences. The programme then moves away from its model: Carnap gives up [Russell](../philosophers/russell.md)'s realism, and the idea that metaphysics could be true or false rather than devoid of meaning.
 - **[Wittgenstein](../philosophers/wittgenstein.md)** (reinterprets) : The Tractatus was the bedside book of the Vienna Circle: [Carnap](../philosophers/carnap.md) and the logical positivists read into it a charter of verificationism, reducing meaning to empirical verifiability. Wittgenstein distanced himself: they had missed, he said, what the book showed without saying, the ethical and the mystical. The misunderstanding grounds part of analytic philosophy.
 
 ---

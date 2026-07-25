@@ -1,0 +1,11 @@
+{
+  "id": "marriage-and-morals-russell",
+  "title": { "fr": "Le Mariage et la morale", "en": "Marriage and Morals" },
+  "author": { "slug": "russell", "name": { "fr": "Russell", "en": "Russell" } },
+  "year": 1929,
+  "presentation": {
+    "fr": "Enquête historique et polémique sur la morale sexuelle : Russell y soutient que <arg>la doctrine qui fait du plaisir sexuel un péché a produit une quantité de honte, d'ignorance et de cruauté qu'aucun bien n'équilibre</arg>, et demande que les conduites soient jugées par leurs effets. Le livre lui a coûté en 1940 une nomination au City College de New York, annulée par décision de justice avant son entrée en fonction, et a pesé lourd dans son prix Nobel de littérature.",
+    "en": "A historical and polemical inquiry into sexual morality: Russell argues that <arg>the doctrine which makes sexual pleasure a sin has produced an amount of shame, ignorance and cruelty that no good outweighs</arg>, and asks that conduct be judged by its effects. The book cost him, in 1940, an appointment at the City College of New York, annulled by court order before he could take it up, and weighed heavily in his Nobel Prize in literature."
+  },
+  "updatedAt": "2026-07-25T00:00:00.000Z"
+}
