@@ -2,7 +2,7 @@
 
 **[English](README.md) · Français**
 
-Un serveur MCP qui permet à n'importe quel LLM de travailler avec le [référentiel Philoscopia](https://github.com/fbgallet/philoscopia-referential) : explorer les axes de positions philosophiques, lire les profils de figures, et construire **votre propre profil philosophique** dans un espace de travail local et privé.
+Un serveur MCP qui permet à n'importe quel LLM de travailler avec le [référentiel Philoscopia](https://github.com/fbgallet/philoscopia-referential) : explorer les axes de positions philosophiques, lire les profils de figures, et construire **votre propre profil philosophique** dans un espace de travail local et privé. Le référentiel est également consultable en ligne sur [philoscopia.com](https://www.philoscopia.com).
 
 Plus qu'un service de consultation : le corpus est **sourcé et didactique** — distillé de plus de vingt ans d'enseignement de la philosophie — et les outils sont conçus pour que vous (et votre assistant) puissiez véritablement *faire* de la philosophie, et pas seulement la lire : mettre au jour les positions que vous tenez déjà, les éprouver face aux objections les plus fortes, et tenir un espace de travail structuré de votre propre pensée.
 

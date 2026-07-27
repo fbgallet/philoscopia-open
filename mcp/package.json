@@ -16,6 +16,7 @@
     "referential",
     "knowledge-base"
   ],
+  "homepage": "https://www.philoscopia.com",
   "license": "MIT",
   "type": "module",
   "bin": {
@@ -37,6 +38,9 @@
     "type": "git",
     "url": "git+https://github.com/fbgallet/philoscopia-referential.git",
     "directory": "mcp"
+  },
+  "bugs": {
+    "url": "https://github.com/fbgallet/philoscopia-referential/issues"
   },
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.13.0",
