@@ -19,7 +19,7 @@ Eight [agent skills](https://agentskills.io) that turn any capable assistant int
 
 A skill is **a plain text file of instructions** (`SKILL.md`) that your AI assistant reads before conducting a session — a method sheet, not a program. Nothing runs on your machine, nothing is downloaded beyond the file itself. "Installing" a skill simply means **putting that file where your assistant looks for its instructions** — or, simplest of all, pasting its content into the conversation.
 
-Division of labor: the **MCP server** gives your assistant the referential (the axes, the figures, the texts' concepts) and saves your work in your local `my-philosophy/` folder; the **skills** teach it how to conduct a real session (when to press, when to record, how to read a text, how to scale to your level).
+Division of labor: the **MCP server** gives your assistant the framework (the axes, the figures, the texts' concepts) and saves your work in your local `my-philosophy/` folder; the **skills** teach it how to conduct a real session (when to press, when to record, how to read a text, how to scale to your level).
 
 ## Do I need them?
 

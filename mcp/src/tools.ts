@@ -1,4 +1,4 @@
-// Tool registration: the referential-access tools (read-only, corpus-backed)
+// Tool registration: the framework-access tools (read-only, corpus-backed)
 // and the workspace tools (file persistence, schema-validated). The server is
 // deliberately dumb: all conversational methodology (discovery protocols,
 // Socratic examination) lives in the skills that drive these tools.
@@ -34,7 +34,7 @@ const asError = (error: unknown) => ({
 });
 
 // Point-of-use reminder rider on corpus reads (get_axis, get_entity): the
-// referential is material to make the person think, never a lecture to recite.
+// framework is material to make the person think, never a lecture to recite.
 // Reinforces the server's anti-lecture role (see help.ts / orient) exactly
 // where the temptation to dump doctrines is strongest.
 const CONDUCT: Record<Locale, string> = {
@@ -64,7 +64,7 @@ export function registerTools(server: McpServer, corpus: Corpus, ws: Workspace, 
     {
       title: "Where are we? (session opening)",
       description:
-        "The opening overview, made to be RESTATED to the user in a few simple sentences (never dumped): what the referential offers, who the user is (expertise, goals, motivations), their carnet's state, the thread left open last time (next), suggested threads to pick up, and the session menu. Call it at the FIRST interaction of every conversation, or whenever the user seems lost.",
+        "The opening overview, made to be RESTATED to the user in a few simple sentences (never dumped): what the framework offers, who the user is (expertise, goals, motivations), their carnet's state, the thread left open last time (next), suggested threads to pick up, and the session menu. Call it at the FIRST interaction of every conversation, or whenever the user seems lost.",
       inputSchema: {},
     },
     async () => {
@@ -76,14 +76,14 @@ export function registerTools(server: McpServer, corpus: Corpus, ws: Workspace, 
     },
   );
 
-  // ── Referential access ─────────────────────────────────────────────────
+  // ── Framework access ─────────────────────────────────────────────────
 
   server.registerTool(
     "list_axes",
     {
       title: "List the axes",
       description:
-        "The axis map (id, question, poles), grouped by relation. Default = the CORE axes only (the referential's backbone, ~2 dozen nodal questions) with a note counting the rest; pass relation (TRUTH, SELF, OTHERS or WORLD) for that quarter's FULL list, or all:true for the whole map. To locate one specific axis, search is cheaper.",
+        "The axis map (id, question, poles), grouped by relation. Default = the CORE axes only (the framework's backbone, ~2 dozen nodal questions) with a note counting the rest; pass relation (TRUTH, SELF, OTHERS or WORLD) for that quarter's FULL list, or all:true for the whole map. To locate one specific axis, search is cheaper.",
       inputSchema: {
         relation: z.enum(["TRUTH", "SELF", "OTHERS", "WORLD"]).optional(),
         all: z.boolean().optional().describe("The whole 70+ axis map"),
@@ -147,7 +147,7 @@ export function registerTools(server: McpServer, corpus: Corpus, ws: Workspace, 
   server.registerTool(
     "get_entity",
     {
-      title: "Read a referential entity",
+      title: "Read a framework entity",
       description:
         "Any entity by prefixed ref: ph:epictetus, mv:stoicism, chr:… (character), c:… (concept), te:… (thought experiment), w:… (work), ax:… (axis), problem:… (one axis sub-problem, with its home axis), arg:… (a corpus argument: its claim, step-by-step development, source, and — for an objection — the resolution options), theme:… (a discovery theme: the axes that treat a general-public notion, e.g. theme:happiness → SOVEREIGN_GOOD, DESIRE, …). A figure arrives as a DIGEST (~1k tokens): identity, structuring theses, and every position WITHOUT its justification — get_position supplies the justifications you actually discuss. full:true (the RICH view, ~2-5k tokens: summary, voice, the justified MAJOR/structuring positions — minor positions stay compact lines, get_position widens one) only for a whole-figure portrait, or when you do not know the figure at all.",
       inputSchema: {
@@ -203,7 +203,7 @@ export function registerTools(server: McpServer, corpus: Corpus, ws: Workspace, 
   server.registerTool(
     "search",
     {
-      title: "Search the referential",
+      title: "Search the framework",
       description:
         "Substring search across axes, philosophers, movements, characters, glossary, thought experiments, works, axis sub-problems (problem:… hits — the way to find the corpus problem behind a user's question), arguments (arg:… hits — the canonical reasons and objections for a position) and discovery themes (theme:… hits — a lay/school notion mapped to the axes that treat it; get_entity a theme for its curated axis list). Returns prefixed refs to feed get_entity/get_axis.",
       inputSchema: { query: z.string().min(2), limit: z.number().int().min(1).max(50).optional() },
@@ -216,7 +216,7 @@ export function registerTools(server: McpServer, corpus: Corpus, ws: Workspace, 
     {
       title: "Tensions touching an axis",
       description:
-        "The referential's tension rules involving this axis: pairs of positions that are hard to hold together, with the justification. Useful for Socratic tension analysis.",
+        "The framework's tension rules involving this axis: pairs of positions that are hard to hold together, with the justification. Useful for Socratic tension analysis.",
       inputSchema: { axisId: z.string() },
     },
     async ({ axisId }) => {
@@ -375,7 +375,7 @@ export function registerTools(server: McpServer, corpus: Corpus, ws: Workspace, 
     {
       title: "Add a workspace entry",
       description:
-        "Append one entry to a personal collection (schema-validated; id generated if omitted). Sentences (statement, definition, why…) are the USER's words; enums and per-field markers are on the fields. Required per collection — beliefs: statement + mode + adherence (a conviction that IS an axis position goes through record_position instead). inquiries (a live questioning): statement + kind (DOUBT = putting one of their OWN convictions to the test, named in relatedBeliefs). concepts: term + definition + clarity, or ref (c:…) to adopt a referential concept. affinities (a love or hate): feeling + subject; MODELS live here — an admired figure/lifestyle/school is LOVE + exemplar true (an anti-model: HATE + exemplar true), with figureRef and facets. practices (what they actually DO): statement + kind. quotes (the florilège): text VERBATIM — never invented, completed or approximated — plus source. readings (the reading register): title or workRef (w:…, search first) + scope; status TO_READ makes it a reading list, half the register's value.",
+        "Append one entry to a personal collection (schema-validated; id generated if omitted). Sentences (statement, definition, why…) are the USER's words; enums and per-field markers are on the fields. Required per collection — beliefs: statement + mode + adherence (a conviction that IS an axis position goes through record_position instead). inquiries (a live questioning): statement + kind (DOUBT = putting one of their OWN convictions to the test, named in relatedBeliefs). concepts: term + definition + clarity, or ref (c:…) to adopt a framework concept. affinities (a love or hate): feeling + subject; MODELS live here — an admired figure/lifestyle/school is LOVE + exemplar true (an anti-model: HATE + exemplar true), with figureRef and facets. practices (what they actually DO): statement + kind. quotes (the florilège): text VERBATIM — never invented, completed or approximated — plus source. readings (the reading register): title or workRef (w:…, search first) + scope; status TO_READ makes it a reading list, half the register's value.",
       inputSchema: {
         collection: z.enum(COLLECTIONS),
         entry: z.object({
@@ -392,7 +392,7 @@ export function registerTools(server: McpServer, corpus: Corpus, ws: Workspace, 
           grounds: z.array(z.string()).optional().describe("beliefs: belief ids or pole:… refs that ground this one"),
           challengedBy: z.array(z.string()).optional().describe("beliefs: belief ids or refs in tension with it"),
           rationale: z.string().optional().describe("beliefs"),
-          ref: z.string().optional().describe("concepts: c:… ref to adopt a referential concept"),
+          ref: z.string().optional().describe("concepts: c:… ref to adopt a framework concept"),
           term: z.string().optional().describe("concepts (personal)"),
           definition: z.string().optional().describe("concepts (personal): the user's working definition"),
           clarity: z.enum(["CLEAR", "SOMEWHAT_CLEAR", "FUZZY", "UNDEFINED"]).optional().describe("concepts: honest self-knowledge, not a grade"),
@@ -411,7 +411,7 @@ export function registerTools(server: McpServer, corpus: Corpus, ws: Workspace, 
             .array(z.enum(["THEORY", "POSITION", "THINKING_STYLE", "COMMITMENTS", "ACTIONS", "ATTITUDES"]))
             .optional()
             .describe("affinities (exemplar only): what inspires them, several allowed"),
-          figureRef: z.string().optional().describe("affinities (exemplar only): ph:/mv:/chr: ref when the subject is a referential figure"),
+          figureRef: z.string().optional().describe("affinities (exemplar only): ph:/mv:/chr: ref when the subject is a framework figure"),
           revealedBeliefs: z.array(z.string()).optional().describe("affinities: belief ids this feeling reveals"),
           kind: z
             .enum(["QUESTION", "TENSION", "DILEMMA", "CLARIFICATION", "DOUBT", "PRACTICE", "ATTITUDE", "RULE_OF_ACTION", "EXERCISE"])
@@ -444,7 +444,7 @@ export function registerTools(server: McpServer, corpus: Corpus, ws: Workspace, 
           agreements: z
             .array(z.object({ statement: z.string(), ref: z.string().optional() }))
             .optional()
-            .describe("readings: where the reader stands WITH the text (ref: a belief id or referential position it echoes)"),
+            .describe("readings: where the reader stands WITH the text (ref: a belief id or framework position it echoes)"),
           disagreements: z
             .array(z.object({ statement: z.string(), ref: z.string().optional() }))
             .optional()
@@ -538,7 +538,7 @@ export function registerTools(server: McpServer, corpus: Corpus, ws: Workspace, 
     {
       title: "Summarize the profile",
       description:
-        "Coverage (by relation, core axes), structuring positions, tensions triggered by the referential's tension rules, ungrounded prescriptive beliefs, stale entries, open work, dangling refs (written against another corpus version — signal, never fix silently). Set writeSummaryMd to also regenerate the human-readable summary.md portrait.",
+        "Coverage (by relation, core axes), structuring positions, tensions triggered by the framework's tension rules, ungrounded prescriptive beliefs, stale entries, open work, dangling refs (written against another corpus version — signal, never fix silently). Set writeSummaryMd to also regenerate the human-readable summary.md portrait.",
       inputSchema: { writeSummaryMd: z.boolean().optional() },
     },
     async ({ writeSummaryMd }) => {

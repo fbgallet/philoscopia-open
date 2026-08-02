@@ -29,7 +29,7 @@ rather than at merge time. This is normal — see CONTRIBUTING.md.
 - [ ] One entity per file; file name matches the entity id.
 
 <!-- CI runs scripts/check-json.mjs on this PR. The full upstream validation
-(referential integrity, graph acyclicity, tag closure across the private layer)
+(framework integrity, graph acyclicity, tag closure across the private layer)
 runs when the change is replayed in the monorepo. -->
 
 ## Sources

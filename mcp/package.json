@@ -1,7 +1,7 @@
 {
   "name": "philoscopia-mcp",
-  "version": "0.9.0",
-  "description": "MCP server for the Philoscopia referential: explore 80 axes of philosophical positions, compare figures, and build your own philosophical profile in a local, private workspace.",
+  "version": "0.9.1",
+  "description": "MCP server for the Philoscopia framework: explore 80 axes of philosophical positions, compare figures, and build your own philosophical profile in a local, private workspace.",
   "keywords": [
     "mcp",
     "model-context-protocol",
@@ -13,7 +13,7 @@
     "philosophy-education",
     "socratic",
     "critical-thinking",
-    "referential",
+    "philosophy-framework",
     "knowledge-base"
   ],
   "homepage": "https://www.philoscopia.com",

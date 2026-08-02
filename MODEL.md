@@ -1,6 +1,6 @@
 # The model
 
-This document specifies the semantics of the JSON corpus: what an axis, a position, a profile and the relation graphs mean. Read it before contributing, and give it to an LLM alongside the data when you use the referential programmatically. (The layout of the repository is in the [README](README.md); the machine-checkable structure of each file is in [`schemas/`](schemas/); the sub-problem grid carried by axes has [its own document](docs/problems-ontology.md).)
+This document specifies the semantics of the JSON corpus: what an axis, a position, a profile and the relation graphs mean. Read it before contributing, and give it to an LLM alongside the data when you use the framework programmatically. (The layout of the repository is in the [README](README.md); the machine-checkable structure of each file is in [`schemas/`](schemas/); the sub-problem grid carried by axes has [its own document](docs/problems-ontology.md).)
 
 ## Three registers
 
@@ -8,7 +8,7 @@ Before placing anyone, the model tells apart three registers of what a person, a
 
 - **Descriptive beliefs** (*what is*): theories about reality, answerable to true/false. Axes with `"layer": "THEORY"`.
 - **Prescriptive beliefs** (*what ought to be*): values, ends and rules — owned, argued for, contested rather than verified. Axes with `"layer": "VALUE"`.
-- **Practices** (*what one does*): concrete routines that put a belief to the test of action. Practices are part of the Philoscopia apps, not of this referential; the two belief registers are.
+- **Practices** (*what one does*): concrete routines that put a belief to the test of action. Practices are part of the Philoscopia apps, not of this framework; the two belief registers are.
 
 The registers do not collapse into one (Hume's is/ought gap), but a descriptive belief often *grounds* a prescriptive one: those supports are what the foundation graph maps (see below).
 
@@ -32,7 +32,7 @@ An **axis** (`data/axes/`) is one live philosophical question with its space of 
 
 - Each pole has a `label`, a `description`, optional `nuances`, and anchor `figures`.
 - `commonOpinion` — the pole closest to lay opinion, when one clearly dominates.
-- `core` — the ~2 dozen nodal axes that structure the referential; `difficulty` (1–3); `clusters` — correlation clusters used by the similarity engine; `relatedAxes` — the axis's neighbours in the parenthood graph.
+- `core` — the ~2 dozen nodal axes that structure the framework; `difficulty` (1–3); `clusters` — correlation clusters used by the similarity engine; `relatedAxes` — the axis's neighbours in the parenthood graph.
 - `problems` — the axis's map of live sub-problems (see [docs/problems-ontology.md](docs/problems-ontology.md)).
 
 ### Position values

@@ -1,5 +1,5 @@
 // profile_summary: everything derives from the workspace files plus the
-// public referential — coverage, triggered tensions, personal-graph checks,
+// public framework — coverage, triggered tensions, personal-graph checks,
 // open work — and the generated summary.md portrait.
 
 import { writeFileSync } from "node:fs";

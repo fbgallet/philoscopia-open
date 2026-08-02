@@ -1,5 +1,5 @@
 // orient: the session-opening overview, designed to be RESTATED to the user
-// (never dumped): what the referential offers, who the user is (expertise,
+// (never dumped): what the framework offers, who the user is (expertise,
 // goals, motivations), where their carnet stands, the thread left open, and a
 // few ways to continue. Everything derives from the corpus and the workspace;
 // this file only assembles.
@@ -11,8 +11,8 @@ import type { Workspace } from "./workspace.js";
 
 const T = {
   guidance: {
-    en: "Open the conversation FROM this data, in a few warm and simple sentences adapted to user.expertise — never show this JSON or enumerate it all. Where they stand, the open thread (next) if any, then two or three ways to continue. For someone unsure where to begin, a featured theme (referential.themes.featured — a general-public entry point) or an affinity they hold is the easiest way in.",
-    fr: "Ouvrir la conversation À PARTIR de ces données, en quelques phrases chaleureuses et simples adaptées à user.expertise — ne jamais montrer ce JSON ni tout énumérer. Où en est la personne, le fil laissé ouvert (next) s'il existe, puis deux ou trois façons de continuer. Pour quelqu'un qui ne sait pas par où commencer, un thème mis en avant (referential.themes.featured, une porte d'entrée grand public) ou une affinité qu'il porte est l'entrée la plus facile.",
+    en: "Open the conversation FROM this data, in a few warm and simple sentences adapted to user.expertise — never show this JSON or enumerate it all. Where they stand, the open thread (next) if any, then two or three ways to continue. For someone unsure where to begin, a featured theme (framework.themes.featured — a general-public entry point) or an affinity they hold is the easiest way in.",
+    fr: "Ouvrir la conversation À PARTIR de ces données, en quelques phrases chaleureuses et simples adaptées à user.expertise — ne jamais montrer ce JSON ni tout énumérer. Où en est la personne, le fil laissé ouvert (next) s'il existe, puis deux ou trois façons de continuer. Pour quelqu'un qui ne sait pas par où commencer, un thème mis en avant (framework.themes.featured, une porte d'entrée grand public) ou une affinité qu'il porte est l'entrée la plus facile.",
   },
   // A note addressed to the ASSISTANT, not for restating: delegate the
   // skill-detection the server can't do itself (it has no view of the client's
@@ -27,7 +27,7 @@ const T = {
     en: "FOR THE ASSISTANT (do not recite to the person): if no philo-* session protocol is loaded (a skill) and no session prompt is running, you are working from the built-in guide alone — usable, but coarser. DO NOT raise it at the first exchange: the person must taste something first (welcome, getting acquainted, a first exploration); asking for an install before giving anything drives people away. The right moment: the close of the first session, or when they hit something this guide handles poorly. Then, once and without insisting — first the client's session-prompt menu (immediate, nothing to install), then the philo-* skills (auto-triggered, hands-free) if they want the best experience (the philoscopia-referential repo's skills/ folder → the assistant's skills directory). This note is moot once a protocol is loaded.",
     fr: "POUR L'ASSISTANT (ne pas réciter à la personne) : si aucun protocole de session philo-* n'est chargé (un skill) et qu'aucun prompt de session n'est en cours, tu mènes avec le seul guide intégré — utilisable, mais plus fruste. N'EN PARLE PAS au premier échange : la personne doit d'abord goûter quelque chose (accueil, faire connaissance, une première exploration) ; demander un effort d'installation avant d'avoir rien donné fait fuir. Le bon moment : la clôture de la première session, ou quand elle bute sur quelque chose que ce guide rend mal. Alors, une fois et sans insister — d'abord le menu de prompts de session du client (immédiat, rien à installer), puis les skills philo-* (déclenchés automatiquement, mains-libres) si elle veut le meilleur confort (dossier skills/ du dépôt philoscopia-referential → dossier de skills de l'assistant). Note caduque dès qu'un protocole est chargé.",
   },
-  referential: {
+  framework: {
     en: (axes: number) =>
       `A shared map of ${axes} great philosophical questions (axes), each with its poles, plus the figures and materials to explore them.`,
     fr: (axes: number) =>
@@ -95,8 +95,8 @@ export function computeOrient(corpus: Corpus, ws: Workspace, locale: Locale) {
     if (entity.featured) featuredThemes.push({ ref, label: pickLocale(entity.label, locale) });
   }
 
-  const referential = {
-    what: T.referential[locale](axesList.length),
+  const framework = {
+    what: T.framework[locale](axesList.length),
     axesByRelation: byRelation,
     figures:
       countByPrefix(corpus, "ph") + countByPrefix(corpus, "mv") + countByPrefix(corpus, "chr"),
@@ -107,7 +107,7 @@ export function computeOrient(corpus: Corpus, ws: Workspace, locale: Locale) {
     ...(themeCount > 0 ? { themes: { count: themeCount, featured: featuredThemes } } : {}),
   };
 
-  const base = { guidance: T.guidance[locale], setup: T.setup[locale], referential, sessionMenu: T.menu[locale] };
+  const base = { guidance: T.guidance[locale], setup: T.setup[locale], framework, sessionMenu: T.menu[locale] };
 
   if (!ws.exists()) {
     return { ...base, workspace: { initialized: false, note: T.notInitialized[locale] } };

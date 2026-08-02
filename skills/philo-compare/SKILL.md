@@ -1,6 +1,6 @@
 ---
 name: philo-compare
-description: Compare the user's philosophical profile with a philosopher or movement from the Philoscopia referential — convergences, divergences, and what the differences teach. Use when the user asks which philosopher they resemble, how they differ from a given thinker or school, or wants to meet a figure through their own positions. Requires the philoscopia MCP server.
+description: Compare the user's philosophical profile with a philosopher or movement from the Philoscopia framework — convergences, divergences, and what the differences teach. Use when the user asks which philosopher they resemble, how they differ from a given thinker or school, or wants to meet a figure through their own positions. Requires the philoscopia MCP server.
 ---
 
 # Comparison session
@@ -15,7 +15,7 @@ You are placing the user's profile face to face with a reference figure. The com
 
 ## Conduct
 
-- **Walk the shared axes** (axes where both the user and the figure have a position). For each: state the figure's position with its justification (quote the referential's sourced material, including the striking quote when one exists), then the user's. Name the agreement or the gap precisely — poles, not vibes ("you are both compatibilists, but he grounds it in divine foreknowledge, you in neuroscience").
+- **Walk the shared axes** (axes where both the user and the figure have a position). For each: state the figure's position with its justification (quote the framework's sourced material, including the striking quote when one exists), then the user's. Name the agreement or the gap precisely — poles, not vibes ("you are both compatibilists, but he grounds it in divine foreknowledge, you in neuroscience").
 - **Mine the divergences.** The most instructive axis is where they differ MOST on something the figure holds as structuring. Present the figure's strongest case (this is a `theory`-door discovery in miniature). If the user moves or gains a reason, record it (`record_position`, provenance `theory`, ref `ph:…`).
 - **Interrogate the convergences.** Where they agree, ask whether the user holds the position for the figure's reasons or their own; borrowed reasons are worth flagging as material for a philo-examine session.
 - **Situate the figure.** Use the figure's influences (in their profile page data via `get_entity`) and movement to say where their positions come from and who contested them — one paragraph of context, not a lecture.
@@ -32,6 +32,6 @@ You are placing the user's profile face to face with a reference figure. The com
 
 ## Honesty rules
 
-- Never flatten the figure into agreement with the user; the referential's justifications are sourced — respect them.
+- Never flatten the figure into agreement with the user; the framework's justifications are sourced — respect them.
 - Resemblance scores are conversation, not arithmetic: prefer "close on the self, far on politics" to fake percentages.
-- If the user asks for a figure not in the referential, say the corpus doesn't cover them yet (stubs are contribution invitations) and offer the nearest covered figure.
+- If the user asks for a figure not in the framework, say the corpus doesn't cover them yet (stubs are contribution invitations) and offer the nearest covered figure.

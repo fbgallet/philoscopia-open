@@ -47,7 +47,7 @@ Two dosage principles: **checklist, not quota** (surface only the perspectives g
 
 ## Cross-axis control: doorways
 
-Every seed is tested against the referential: if it substantially overlaps another axis, it is a **door, not an internal sub-problem**. It is authored ONCE on its home axis and linked from elsewhere via `doorways` (which must stay within the axis's `relatedAxes`), never duplicated. Side benefit: mapping one axis densifies the parenthood graph of the whole referential.
+Every seed is tested against the framework: if it substantially overlaps another axis, it is a **door, not an internal sub-problem**. It is authored ONCE on its home axis and linked from elsewhere via `doorways` (which must stay within the axis's `relatedAxes`), never duplicated. Side benefit: mapping one axis densifies the parenthood graph of the whole framework.
 
 ## Field reference
 

@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-// philoscopia-mcp: MCP server over the Philoscopia referential + the user's
+// philoscopia-mcp: MCP server over the Philoscopia framework + the user's
 // local my-philosophy/ workspace. Everything runs locally; no network calls.
 //
 //   npx philoscopia-mcp [--workspace <dir>] [--locale fr|en]

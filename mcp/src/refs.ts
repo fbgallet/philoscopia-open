@@ -1,7 +1,7 @@
-// Where referential refs live inside a workspace record. One vocabulary, two
+// Where framework refs live inside a workspace record. One vocabulary, two
 // faces: the checker reads them (writes may never invent a ref, and refs that
 // stopped resolving are surfaced), the migrations rewrite them when the
-// referential renames what they point at. Kept in one module so the two can
+// framework renames what they point at. Kept in one module so the two can
 // never drift apart.
 
 /* eslint-disable @typescript-eslint/no-explicit-any */
@@ -12,7 +12,7 @@ const REF_ARRAYS = ["relatedAxes", "anchors", "grounds", "challengedBy", "inspir
 /** Fields holding a single ref. */
 const REF_STRINGS = ["ref", "figureRef", "workRef"] as const;
 
-/** A reading's agreements/disagreements may each echo a referential position. */
+/** A reading's agreements/disagreements may each echo a framework position. */
 const REF_STANCES = ["agreements", "disagreements"] as const;
 
 export function collectRefs(entry: any): string[] {

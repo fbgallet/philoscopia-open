@@ -1,6 +1,6 @@
 # Contributing
 
-Corrections and sourced improvements are very welcome — this referential gets better precisely where specialists disagree with it.
+Corrections and sourced improvements are very welcome — this framework gets better precisely where specialists disagree with it.
 
 Start by reading **[MODEL.md](MODEL.md)** (the semantics of axes, positions, statuses and graphs) and, for anything touching an axis's `problems`, **[docs/problems-ontology.md](docs/problems-ontology.md)**.
 

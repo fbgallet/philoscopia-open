@@ -1,7 +1,7 @@
 # JSON Schemas
 
 Draft 2020-12 JSON Schemas, generated from the source Zod schemas. Use them
-to validate or generate files that conform to the referential.
+to validate or generate files that conform to the framework.
 
 ## Corpus content types
 
@@ -22,7 +22,7 @@ to validate or generate files that conform to the referential.
 | themes | [`themes.schema.json`](themes.schema.json) |
 
 **Scope.** These describe the *structure* of each file (fields, types, enums,
-pole and position-value shapes). The referential also has cross-file and
+pole and position-value shapes). The framework also has cross-file and
 cross-field rules — reference resolution, graph acyclicity, pole-count-by-type,
 weights summing to 1 — that JSON Schema cannot express; they are enforced by
 the corpus validator. See [../MODEL.md](../MODEL.md) for the full semantics.
@@ -44,7 +44,7 @@ exploration skills (one folder per person; monolingual). One schema per file:
 | `quotes.json` | [`workspace/quotes.schema.json`](workspace/quotes.schema.json) |
 | `readings.json` | [`workspace/readings.schema.json`](workspace/readings.schema.json) |
 
-Referential refs inside workspace files use the prefixed grammar of the
+Framework refs inside workspace files use the prefixed grammar of the
 semantic tags: `ax:FREEDOM`, `pole:FREEDOM/FREE_WILL`, `c:eudaimonia`,
 `ph:epictetus`, `te:trolley-problem`, `problem:…`. `journal/*.md` session
 files are free markdown with YAML frontmatter and carry no schema.

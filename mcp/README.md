@@ -2,11 +2,11 @@
 
 **English · [Français](README.fr.md)**
 
-An MCP server that lets any LLM work with the [Philoscopia referential](https://github.com/fbgallet/philoscopia-referential): explore the axes of philosophical positions, read figures' profiles, and build **your own philosophical profile** in a local, private workspace. The referential is also browsable online at [philoscopia.com](https://www.philoscopia.com).
+An MCP server that lets any LLM work with the [Philoscopia framework](https://github.com/fbgallet/philoscopia-referential): explore the axes of philosophical positions, read figures' profiles, and build **your own philosophical profile** in a local, private workspace. The framework is also browsable online at [philoscopia.com](https://www.philoscopia.com).
 
 More than a lookup service: the corpus is **sourced and didactic** — distilled from over twenty years of philosophy teaching — and the tools are built so that you (and your assistant) can actually *do* philosophy, not just read about it: surface the positions you already hold, test them against the strongest objections, and keep a structured workspace of your own thinking.
 
-Everything runs on your machine. The corpus is bundled in the package (each version pins one exact state of the referential); the server makes **no network calls**, and your workspace is a plain folder of JSON and markdown you own, read, edit and version as you wish.
+Everything runs on your machine. The corpus is bundled in the package (each version pins one exact state of the framework); the server makes **no network calls**, and your workspace is a plain folder of JSON and markdown you own, read, edit and version as you wish.
 
 ## Setup
 
@@ -38,9 +38,9 @@ Guidance — the server also ships `instructions` (injected into the assistant's
 | Tool | Purpose |
 |---|---|
 | `help` | The full usage guide: typical session flow, recording rules, rules of care |
-| `orient` | The session-opening overview, meant to be restated simply to the user: what the referential offers, who the user is (expertise, goals, motivations), where their carnet stands, the thread left open last time, and the session menu |
+| `orient` | The session-opening overview, meant to be restated simply to the user: what the framework offers, who the user is (expertise, goals, motivations), where their carnet stands, the thread left open last time, and the session menu |
 
-Referential (read-only):
+Framework (read-only):
 
 | Tool | Purpose |
 |---|---|
@@ -66,7 +66,7 @@ Workspace (local files, schema-validated on every write):
 | `get_syntheses` / `write_synthesis` | Read past profile syntheses and write a new one: a dated, immutable prose portrait in `syntheses/`, crossing positions, carnet and user block (see the `philo-synthesize` skill) |
 | `compact` | Move closed records to `archive/` (nothing is deleted) |
 
-The workspace file format is specified by the published [JSON Schemas](../schemas/workspace/); every write is validated against them, plus the rules schemas cannot carry (a POSITIONED entry needs a value, values must fit the axis's pole shape, referential refs must resolve). The server only ever touches the files the format names: extra files another writer keeps in the same folder (e.g. the web app's local vault: `session.json`, `notes/`, `Inbox.md`) are ignored, and a ref that stopped resolving after a corpus update is surfaced by `profile_summary`, never a write blocker.
+The workspace file format is specified by the published [JSON Schemas](../schemas/workspace/); every write is validated against them, plus the rules schemas cannot carry (a POSITIONED entry needs a value, values must fit the axis's pole shape, framework refs must resolve). The server only ever touches the files the format names: extra files another writer keeps in the same folder (e.g. the web app's local vault: `session.json`, `notes/`, `Inbox.md`) are ignored, and a ref that stopped resolving after a corpus update is surfaced by `profile_summary`, never a write blocker.
 
 ## Session prompts (nothing to install)
 

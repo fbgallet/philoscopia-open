@@ -1,5 +1,5 @@
-// Corpus access: loads the open referential (data/) into memory and answers
-// the referential-side tools. The corpus is resolved from the npm bundle
+// Corpus access: loads the open framework (data/) into memory and answers
+// the framework-side tools. The corpus is resolved from the npm bundle
 // (mcp/corpus/data, created at pack time) or, when running inside the repo,
 // from the repo's own data/ directory.
 
@@ -30,7 +30,7 @@ export function resolveCorpusPaths(): CorpusPaths {
   if (existsSync(join(inRepo, "data"))) {
     return { data: join(inRepo, "data"), schemas: join(inRepo, "schemas") };
   }
-  throw new Error("Cannot locate the referential corpus (neither corpus/data nor ../data).");
+  throw new Error("Cannot locate the framework corpus (neither corpus/data nor ../data).");
 }
 
 const TYPE_DIRS = {
@@ -257,7 +257,7 @@ export function axesDigest(corpus: Corpus, locale: Locale, relation?: string) {
 
 /** Machine/authoring fields the model never uses. */
 const MACHINE_FIELDS = ["updatedAt", "validation", "aliases"] as const;
-/** Axis fields that serve the referential's taxonomy, never a conversation. */
+/** Axis fields that serve the framework's taxonomy, never a conversation. */
 const AXIS_MACHINE_FIELDS = ["clusters", "difficulty", "layer", "core", "territory"] as const;
 
 export function stripMachineFields(flat: any, isAxis: boolean): any {
