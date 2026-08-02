@@ -723,7 +723,14 @@ export class Workspace {
       .filter((f) => f.endsWith(".md"))
       .map((f) => this.parseSynthesis(readFileSync(join(dir, f), "utf8")))
       .filter((s): s is NonNullable<typeof s> => s !== null)
-      .sort((a, b) => a.at.localeCompare(b.at));
+      // Tie-break on the id: two generations written in the same millisecond
+      // carry the same `at`, and a stable sort would then fall back to readdir
+      // order — which differs between filesystems, making the order silently
+      // machine-dependent. Same-day ids are suffixed -2, -3…, so numeric
+      // collation puts them in generation order (and -10 after -2).
+      .sort(
+        (a, b) => a.at.localeCompare(b.at) || a.id.localeCompare(b.id, "en", { numeric: true }),
+      );
   }
 
   // ── compaction ─────────────────────────────────────────────────────────

@@ -131,9 +131,9 @@ check("get_profile before init errors politely", before.isError && before.text.i
 
 const orientBefore = (await call("orient")).json();
 check(
-  "orient before init: referential counts + invitation to create the carnet",
+  "orient before init: framework counts + invitation to create the carnet",
   orientBefore.workspace?.initialized === false &&
-    orientBefore.referential?.figures > 0 &&
+    orientBefore.framework?.figures > 0 &&
     orientBefore.sessionMenu?.length === 7 &&
     orientBefore.workspace.note.includes("init_workspace"),
 );
