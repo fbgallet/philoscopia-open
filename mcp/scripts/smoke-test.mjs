@@ -592,7 +592,7 @@ writeJson(legacy, "philoscopia", {
   locale: "fr",
   createdAt: legacyDate,
   referential: {
-    source: "https://github.com/fbgallet/philoscopia-referential",
+    source: "https://github.com/fbgallet/philoscopia-open",
     syncedAt: legacyDate,
     commit: "0000000",
   },

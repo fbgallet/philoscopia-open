@@ -2,7 +2,7 @@
 
 **English · [Français](README.fr.md)**
 
-An MCP server that lets any LLM work with the [Philoscopia framework](https://github.com/fbgallet/philoscopia-referential): explore the axes of philosophical positions, read figures' profiles, and build **your own philosophical profile** in a local, private workspace. The framework is also browsable online at [philoscopia.com](https://www.philoscopia.com).
+An MCP server that lets any LLM work with the [Philoscopia framework](https://github.com/fbgallet/philoscopia-open): explore the axes of philosophical positions, read figures' profiles, and build **your own philosophical profile** in a local, private workspace. The framework is also browsable online at [philoscopia.com](https://www.philoscopia.com).
 
 More than a lookup service: the corpus is **sourced and didactic** — distilled from over twenty years of philosophy teaching — and the tools are built so that you (and your assistant) can actually *do* philosophy, not just read about it: surface the positions you already hold, test them against the strongest objections, and keep a structured workspace of your own thinking.
 

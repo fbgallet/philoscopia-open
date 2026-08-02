@@ -36,11 +36,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fbgallet/philoscopia-referential.git",
+    "url": "git+https://github.com/fbgallet/philoscopia-open.git",
     "directory": "mcp"
   },
   "bugs": {
-    "url": "https://github.com/fbgallet/philoscopia-referential/issues"
+    "url": "https://github.com/fbgallet/philoscopia-open/issues"
   },
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.13.0",

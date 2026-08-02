@@ -143,7 +143,7 @@ export class Workspace {
       );
     }
     // Every tool comes through here, so this is where a workspace written
-    // against an older referential catches up — once per process.
+    // against an older framework catches up — once per process.
     if (!this.migrationsChecked) {
       this.migrationsChecked = true;
       this.runPendingMigrations();
@@ -206,7 +206,7 @@ export class Workspace {
       locale,
       createdAt: now,
       referential: {
-        source: "https://github.com/fbgallet/philoscopia-referential",
+        source: "https://github.com/fbgallet/philoscopia-open",
         syncedAt: this.corpus.paths.meta?.bundledAt ?? now,
         ...(this.corpus.paths.meta?.commit ? { commit: this.corpus.paths.meta.commit } : {}),
         // Born against this corpus: every known migration is already true of
@@ -295,7 +295,7 @@ export class Workspace {
     if (!axis) throw new Error(`Unknown axis "${args.axisId}". Use list_axes or search first.`);
     if (args.value) this.checkValueShape(axis, args.value);
     if (args.provenance?.ref && this.refResolves(args.provenance.ref) === false) {
-      throw new Error(`Provenance ref "${args.provenance.ref}" does not resolve in the referential.`);
+      throw new Error(`Provenance ref "${args.provenance.ref}" does not resolve in the framework.`);
     }
 
     const profile = this.read("profile");
@@ -467,7 +467,7 @@ export class Workspace {
 
   /** Every prefixed ref carried by an entry (list fields + ref/figureRef). */
   /** Does a ref resolve in the bundled corpus? Null when it is not a prefixed
-   * referential ref (workspace-local ids are the caller's business). */
+   * framework ref (workspace-local ids are the caller's business). */
   private refResolves(ref: string): boolean | null {
     const match = ref.match(/^(ax|pole|c|ph|mv|chr|te|w|problem|theme):(.+)$/);
     if (!match) return null;
@@ -490,7 +490,7 @@ export class Workspace {
   private checkRefs(entry: any): void {
     for (const ref of collectRefs(entry)) {
       if (this.refResolves(ref) === false) {
-        throw new Error(`Ref "${ref}" does not resolve in the referential.`);
+        throw new Error(`Ref "${ref}" does not resolve in the framework.`);
       }
     }
   }
@@ -521,7 +521,7 @@ export class Workspace {
   }
 
   /**
-   * Bring a workspace written against an older referential up to date, once
+   * Bring a workspace written against an older framework up to date, once
    * per process. Dangling refs are surfaced, not fixed; what is fixed here is
    * what a change made silently WRONG (see migrations.ts).
    *

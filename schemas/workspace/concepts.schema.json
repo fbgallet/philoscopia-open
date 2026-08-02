@@ -1,8 +1,8 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://github.com/fbgallet/philoscopia-referential/blob/main/schemas/workspace/concepts.schema.json",
+  "$id": "https://github.com/fbgallet/philoscopia-open/blob/main/schemas/workspace/concepts.schema.json",
   "title": "workspace/concepts",
-  "description": "Adopted glossary concepts and personal working definitions. Part of the user workspace format (my-philosophy/): monolingual, personal, local-first files written by the Philoscopia MCP server and exploration skills. Structure only; write-time rules (e.g. POSITIONED requires a value, ref resolution against the pinned referential) are enforced by the tools.",
+  "description": "Adopted glossary concepts and personal working definitions. Part of the user workspace format (my-philosophy/): monolingual, personal, local-first files written by the Philoscopia MCP server and exploration skills. Structure only; write-time rules (e.g. POSITIONED requires a value, ref resolution against the pinned framework) are enforced by the tools.",
   "type": "array",
   "items": {
     "anyOf": [

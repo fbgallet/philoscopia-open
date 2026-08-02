@@ -81,4 +81,4 @@ Suivez le projet et écrivez-nous sur **[X (@fbgallet)](https://x.com/fbgallet)*
 
 ## Citation
 
-> Gallet, F. (2026). *Philoscopia : un référentiel ouvert des visions du monde philosophiques.* https://github.com/fbgallet/philoscopia-referential
+> Gallet, F. (2026). *Philoscopia : un référentiel ouvert des visions du monde philosophiques.* https://github.com/fbgallet/philoscopia-open

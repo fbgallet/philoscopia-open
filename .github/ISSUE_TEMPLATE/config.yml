@@ -5,8 +5,8 @@
 blank_issues_enabled: true
 contact_links:
   - name: Read the model first (MODEL.md)
-    url: https://github.com/fbgallet/philoscopia-referential/blob/main/MODEL.md
+    url: https://github.com/fbgallet/philoscopia-open/blob/main/MODEL.md
     about: The semantics of axes, positions, statuses and graphs. Most disagreements dissolve once the intended meaning of a position value is clear.
   - name: How contributions are integrated (CONTRIBUTING.md)
-    url: https://github.com/fbgallet/philoscopia-referential/blob/main/CONTRIBUTING.md
+    url: https://github.com/fbgallet/philoscopia-open/blob/main/CONTRIBUTING.md
     about: This repo is a generated mirror; accepted changes are merged upstream and re-exported. Edit data/ JSON only, never views/ or schemas/ (both generated).

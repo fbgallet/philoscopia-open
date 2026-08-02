@@ -81,4 +81,4 @@ Follow the project and get in touch on **[X (@fbgallet)](https://x.com/fbgallet)
 
 ## Citation
 
-> Gallet, F. (2026). *Philoscopia: an open framework of philosophical worldviews.* https://github.com/fbgallet/philoscopia-referential
+> Gallet, F. (2026). *Philoscopia: an open framework of philosophical worldviews.* https://github.com/fbgallet/philoscopia-open

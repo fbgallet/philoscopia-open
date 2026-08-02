@@ -34,14 +34,14 @@ So why install the skills? Because a skill is **auto-triggered**: the assistant 
 
 **Prerequisite** — the `philoscopia` MCP server configured in your assistant (5 minutes, guided in [mcp/README.md](../mcp/README.md)). The skills drive its tools; without it they will ask you to set it up first.
 
-**Get the files**: clone this repository (`git clone https://github.com/fbgallet/philoscopia-referential`) or download it as a ZIP (green "Code" button → Download ZIP). The skills are the folders under `skills/`.
+**Get the files**: clone this repository (`git clone https://github.com/fbgallet/philoscopia-open`) or download it as a ZIP (green "Code" button → Download ZIP). The skills are the folders under `skills/`.
 
 Then, depending on your assistant:
 
 - **Claude Code** (terminal): copy the skill folders into your personal skills directory:
 
   ```bash
-  cp -r philoscopia-referential/skills/philo-* ~/.claude/skills/
+  cp -r philoscopia-open/skills/philo-* ~/.claude/skills/
   ```
 
   That's all. In any conversation you can now type `/philo-discover` (or any skill name), or simply say what you want ("help me figure out what I think about free will") — the assistant picks the right skill by itself.

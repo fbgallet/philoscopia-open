@@ -36,14 +36,14 @@ Alors pourquoi installer les skills ? Parce qu'une skill est **déclenchée auto
 
 **Prérequis** — le serveur MCP `philoscopia` configuré dans votre assistant (5 minutes, guidé dans [mcp/README.fr.md](../mcp/README.fr.md)). Les skills pilotent ses outils ; sans lui, elles vous demanderont de le configurer d'abord.
 
-**Récupérer les fichiers** : clonez ce dépôt (`git clone https://github.com/fbgallet/philoscopia-referential`) ou téléchargez-le en ZIP (bouton vert « Code » → Download ZIP). Les skills sont les dossiers sous `skills/`.
+**Récupérer les fichiers** : clonez ce dépôt (`git clone https://github.com/fbgallet/philoscopia-open`) ou téléchargez-le en ZIP (bouton vert « Code » → Download ZIP). Les skills sont les dossiers sous `skills/`.
 
 Ensuite, selon votre assistant :
 
 - **Claude Code** (terminal) : copiez les dossiers de skills dans votre répertoire personnel de skills :
 
   ```bash
-  cp -r philoscopia-referential/skills/philo-* ~/.claude/skills/
+  cp -r philoscopia-open/skills/philo-* ~/.claude/skills/
   ```
 
   C'est tout. Dans n'importe quelle conversation, vous pouvez désormais taper `/philo-discover` (ou tout autre nom de skill), ou simplement dire ce que vous voulez (« aide-moi à savoir ce que je pense du libre arbitre ») — l'assistant choisit la bonne skill de lui-même.

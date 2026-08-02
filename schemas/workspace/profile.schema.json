@@ -1,8 +1,8 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://github.com/fbgallet/philoscopia-referential/blob/main/schemas/workspace/profile.schema.json",
+  "$id": "https://github.com/fbgallet/philoscopia-open/blob/main/schemas/workspace/profile.schema.json",
   "title": "workspace/profile",
-  "description": "The user's positions on the referential's axes, with reasons and elicitation history. Part of the user workspace format (my-philosophy/): monolingual, personal, local-first files written by the Philoscopia MCP server and exploration skills. Structure only; write-time rules (e.g. POSITIONED requires a value, ref resolution against the pinned referential) are enforced by the tools.",
+  "description": "The user's positions on the framework's axes, with reasons and elicitation history. Part of the user workspace format (my-philosophy/): monolingual, personal, local-first files written by the Philoscopia MCP server and exploration skills. Structure only; write-time rules (e.g. POSITIONED requires a value, ref resolution against the pinned framework) are enforced by the tools.",
   "type": "object",
   "properties": {
     "entries": {

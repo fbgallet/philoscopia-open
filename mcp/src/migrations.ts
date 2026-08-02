@@ -1,6 +1,6 @@
 // Workspace migrations — the other half of the referential pin.
 //
-// A referential change that RETIRES an id leaves a ref that no longer
+// A framework change that RETIRES an id leaves a ref that no longer
 // resolves: danglingRefs() surfaces it and the user decides what to do. A
 // change that REORDERS an axis's poles is silent instead — a weight vector is
 // positional (one weight per pole, in pole order), so it stays perfectly valid
