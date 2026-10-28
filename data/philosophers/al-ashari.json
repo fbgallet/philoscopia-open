@@ -1,0 +1,34 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "al-ashari",
+  "stub": true,
+  "name": { "fr": "al-Ashʿarī", "en": "al-Ashʿarī" },
+  "fullName": { "fr": "Abū l-Ḥasan al-Ashʿarī", "en": "Abū l-Ḥasan al-Ashʿarī" },
+  "aliases": {
+    "fr": [
+      "ashʿarite",
+      "ashʿarites",
+      "asharite"
+    ],
+    "en": [
+      "Ashʿarite",
+      "Ashʿarites",
+      "Asharite"
+    ]
+  },
+  "summary": {
+    "fr": "Théologien passé du muʿtazilisme à la défense de la toute-puissance divine, fondateur de l'école ashʿarite du <mv id='kalam'>kalām</mv>.",
+    "en": "A theologian who moved from Muʿtazilism to the defence of divine omnipotence, founder of the Ashʿarite school of <mv id='kalam'>kalām</mv>."
+  },
+  "birth": 874,
+  "death": 936,
+  "nationality": { "fr": "Arabe", "en": "Arab" },
+  "language": "ara",
+  "movements": [
+    "kalam"
+  ],
+  "updatedAt": "2026-10-09T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

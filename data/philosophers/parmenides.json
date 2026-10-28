@@ -20,6 +20,8 @@
     "fr": "Grec (Élée)",
     "en": "Greek (Elea)"
   },
+  "datesApprox": true,
+  "language": "grc",
   "movements": [],
   "updatedAt": "2026-07-02T00:00:00.000Z",
   "validation": {

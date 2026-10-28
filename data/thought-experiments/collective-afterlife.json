@@ -1,0 +1,133 @@
+{
+  "id": "collective-afterlife",
+  "title": {
+    "fr": "L'après-vie collective",
+    "en": "The collective afterlife"
+  },
+  "description": {
+    "fr": "Imaginez que vous vivrez une vie normale jusqu'à votre mort, mais que, trente jours après, la Terre sera détruite et tous les êtres humains avec elle. Ou bien imaginez que, du jour au lendemain, plus aucun enfant ne naisse : l'humanité s'éteindra avec la dernière génération vivante. Dans les deux cas, rien ne change pour vous personnellement : vous ne souffrirez pas davantage, vous mourrez à la date prévue. Une seule chose disparaît : l'assurance que d'autres vivront après vous.",
+    "en": "Imagine that you will live a normal life until you die, but that thirty days later the Earth will be destroyed, and every human being with it. Or imagine that, overnight, no more children are born: humanity will die out with the last living generation. In both cases nothing changes for you personally: you will not suffer more, you will die on the expected date. Only one thing disappears: the assurance that others will live after you."
+  },
+  "source": {
+    "author": {
+      "fr": "Samuel Scheffler",
+      "en": "Samuel Scheffler"
+    },
+    "work": {
+      "fr": "Death and the Afterlife",
+      "en": "Death and the Afterlife"
+    },
+    "year": 2013
+  },
+  "question": {
+    "fr": "Si l'humanité devait s'éteindre peu après votre mort, ce que vous faites garderait-il pour vous la même valeur ?",
+    "en": "If humanity were to die out shortly after your death, would what you do keep the same value for you?"
+  },
+  "axisIds": [
+    "TIME_ORIENTATION",
+    "LIFE_MEANING"
+  ],
+  "options": [
+    {
+      "id": "much-would-lose-its-point",
+      "label": {
+        "fr": "Beaucoup perdrait son sens : chercher, bâtir, enseigner, élever, tout cela suppose qu'il y aura quelqu'un après nous.",
+        "en": "Much would lose its point: researching, building, teaching, raising, all of it assumes there will be someone after us."
+      },
+      "hints": [
+        {
+          "axisId": "TIME_ORIENTATION",
+          "value": {
+            "kind": "weights",
+            "weights": [
+              0,
+              0.4,
+              0.6
+            ]
+          }
+        }
+      ],
+      "discussion": {
+        "fr": "C'est la thèse de Scheffler : nous tenons à la survie de l'humanité plus qu'à notre propre survie, sans le savoir. Une grande part de nos activités tire sa valeur d'un avenir qui ne nous concerne pas personnellement.",
+        "en": "This is Scheffler's thesis: without knowing it, we care more about humanity's survival than about our own. A large share of our activities draws its value from a future that does not concern us personally."
+      }
+    },
+    {
+      "id": "nothing-essential-changes",
+      "label": {
+        "fr": "Rien d'essentiel ne changerait : ce qui compte vaut maintenant, pour ceux qui vivent.",
+        "en": "Nothing essential would change: what matters has value now, for those who are alive."
+      },
+      "hints": [
+        {
+          "axisId": "TIME_ORIENTATION",
+          "value": {
+            "kind": "weights",
+            "weights": [
+              1,
+              0,
+              0
+            ]
+          }
+        }
+      ],
+      "discussion": {
+        "fr": "C'est la position que l'expérience met à l'épreuve. Si elle résiste, c'est que nos raisons d'agir tiennent au présent, à ceux qui vivent et à l'activité elle-même. Mais beaucoup de lecteurs découvrent, en y réfléchissant, qu'ils continueraient à aimer et à jouir de la vie, sans plus avoir le cœur de chercher un remède ou d'écrire un livre.",
+        "en": "This is the position the experiment puts to the test. If it holds, our reasons to act rest on the present, on those alive and on the activity itself. But many readers discover, on reflection, that they would go on loving and enjoying life, yet no longer have the heart to look for a cure or write a book."
+      }
+    },
+    {
+      "id": "some-would-remain",
+      "label": {
+        "fr": "Certaines choses garderaient leur valeur (aimer, contempler, jouer), d'autres la perdraient (la recherche, les institutions, la transmission).",
+        "en": "Some things would keep their value (loving, contemplating, playing), others would lose it (research, institutions, handing things on)."
+      },
+      "hints": [
+        {
+          "axisId": "TIME_ORIENTATION",
+          "value": {
+            "kind": "weights",
+            "weights": [
+              0.5,
+              0.2,
+              0.3
+            ]
+          }
+        }
+      ],
+      "discussion": {
+        "fr": "Scheffler lui-même nuance ainsi sa thèse : la disparition de l'après-vie collective n'abolirait pas toute valeur, mais elle saperait la confiance que nous accordons à beaucoup de nos projets. Reste à savoir ce que ce partage dit de nous.",
+        "en": "Scheffler himself qualifies his thesis this way: the loss of the collective afterlife would not abolish all value, but it would undermine our confidence in many of our projects. The question is what this division says about us."
+      }
+    }
+  ],
+  "roles": [
+    {
+      "role": "RAISES_PROBLEM",
+      "position": {
+        "axisId": "TIME_ORIENTATION"
+      },
+      "problems": [
+        "building-for-those-after"
+      ],
+      "summary": {
+        "fr": "Si l'humanité s'éteignait après nous, que vaudrait encore ce que nous bâtissons et transmettons ?",
+        "en": "If humanity died out after us, what would what we build and hand on still be worth?"
+      }
+    },
+    {
+      "role": "RAISES_PROBLEM",
+      "position": {
+        "axisId": "LIFE_MEANING"
+      },
+      "problems": [
+        "meaning-and-permanence"
+      ],
+      "summary": {
+        "fr": "Le sens de nos activités dépend-il de la survie de l'humanité plus que de la nôtre ?",
+        "en": "Does the meaning of our activities depend on humanity's survival more than on our own?"
+      }
+    }
+  ],
+  "updatedAt": "2026-10-20T00:00:00.000Z"
+}

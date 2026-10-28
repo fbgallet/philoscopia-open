@@ -1,0 +1,16 @@
+{
+  "id": "mohism-vs-mencius",
+  "from": { "kind": "MOVEMENT", "slug": "mohism" },
+  "to": { "kind": "PHILOSOPHER", "slug": "mencius" },
+  "directness": "ATTESTED",
+  "mode": "REACTS_AGAINST",
+  "strength": "STRONG",
+  "note": {
+    "fr": "<ph id='mencius'>Mencius</ph> accuse le souci impartial du <mv id='mohism'>mohisme</mv> de nier le père, puisqu'il met les parents d'autrui au rang des siens, et défend contre lui un amour qui s'étend par degrés à partir de la famille.",
+    "en": "<ph id='mencius'>Mencius</ph> accuses the impartial concern of <mv id='mohism'>Mohism</mv> of denying one's father, since it puts other people's parents on a par with one's own, and defends against it a love that extends by degrees outward from the family."
+  },
+  "sources": [
+    { "fr": "Mencius, III B 9 et VII A 26", "en": "Mencius, 3B9 and 7A26" }
+  ],
+  "updatedAt": "2026-10-09T00:00:00.000Z"
+}

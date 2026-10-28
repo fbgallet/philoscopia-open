@@ -1,0 +1,183 @@
+{
+  "kind": "MOVEMENT",
+  "id": "falsafa",
+  "name": { "fr": "Falsafa", "en": "Falsafa" },
+  "tagline": {
+    "fr": "Une philosophie de traducteurs devenus fondateurs : penser avec <ph id='aristotle'>Aristote</ph> dans la langue du Coran, sans sacrifier ni l'un ni l'autre.",
+    "en": "A philosophy of translators turned founders: thinking with <ph id='aristotle'>Aristotle</ph> in the language of the Qur'an, without sacrificing either."
+  },
+  "aliases": {
+    "fr": [
+      "falāsifa",
+      "falâsifa"
+    ],
+    "en": [
+      "falāsifa",
+      "falasifa"
+    ]
+  },
+  "summary": {
+    "fr": "La <mv id='falsafa'>falsafa</mv> (transcription arabe du grec <kw>philosophia</kw>) désigne la philosophie de tradition grecque pratiquée en terre d'islam. Née du grand mouvement de traduction soutenu à Bagdad par les califes abbassides et leurs cours, que la tradition associe à la « Maison de la sagesse », elle s'ouvre avec <ph id='al-kindi'>al-Kindī</ph>, se systématise avec <ph id='al-farabi'>al-Fārābī</ph>, le « second maître » après <ph id='aristotle'>Aristote</ph>, culmine avec <ph id='avicenna'>Avicenne</ph> et trouve à l'ouest son dernier grand représentant en <ph id='averroes'>Averroès</ph>, commentateur d'Aristote à Cordoue. Ces penseurs ne forment pas une doctrine uniforme : al-Fārābī pense surtout la cité et la prophétie, Avicenne une métaphysique de l'être qui s'émancipe d'Aristote, Averroès le retour au texte aristotélicien et l'interprétation de la Loi religieuse. La falsafa hérite d'un Aristote lu à travers les <mv>commentateurs néoplatoniciens</mv>, essuie la critique des théologiens du <mv id='kalam'>kalām</mv> et, traduite en latin aux XIIe et XIIIe siècles, transforme la <mv>scolastique</mv>. La période retenue s'arrête avec Averroès, qui clôt la lignée andalouse ; en Orient, l'<mv>avicennisme</mv> se renouvelle encore avec Suhrawardī, Naṣīr al-Dīn al-Ṭūsī et Mullā Ṣadrā, dans la tradition persane de la <c>ḥikma</c> (sagesse), toujours enseignée aujourd'hui.",
+    "en": "<mv id='falsafa'>Falsafa</mv> (the Arabic transcription of the Greek <kw>philosophia</kw>) refers to philosophy in the Greek tradition as practised in the lands of Islam. Born of the great translation movement sponsored in Baghdad by the Abbasid caliphs and their courts, which tradition associates with the \"House of Wisdom\", it opens with <ph id='al-kindi'>al-Kindī</ph>, is systematized by <ph id='al-farabi'>al-Fārābī</ph>, the \"second teacher\" after <ph id='aristotle'>Aristotle</ph>, culminates in <ph id='avicenna'>Avicenna</ph> and finds its last great Western representative in <ph id='averroes'>Averroes</ph>, commentator on Aristotle in Córdoba. These thinkers do not form a uniform doctrine: al-Fārābī thinks above all about the city and prophecy, Avicenna builds a metaphysics of being that breaks free of Aristotle, Averroes returns to the Aristotelian text and to the interpretation of religious Law. Falsafa inherited an Aristotle read through the <mv>Neoplatonic commentators</mv>, weathered the critique of the <mv id='kalam'>kalām</mv> theologians and, translated into Latin in the twelfth and thirteenth centuries, transformed <mv>scholasticism</mv>. The period recorded here ends with Averroes, who closes the Andalusian line; in the East, <mv>Avicennism</mv> was renewed again by Suhrawardī, Naṣīr al-Dīn al-Ṭūsī and Mullā Ṣadrā, in the Persian tradition of <c>ḥikma</c> (wisdom), still taught today."
+  },
+  "area": "ISLAMIC_WORLD",
+  "period": {
+    "from": 830,
+    "to": 1198,
+    "approx": true,
+    "afterlife": "LIVING"
+  },
+  "keyFigures": [
+    {
+      "slug": "al-kindi",
+      "name": { "fr": "al-Kindī", "en": "al-Kindī" }
+    },
+    {
+      "slug": "al-farabi",
+      "name": { "fr": "al-Fārābī", "en": "al-Fārābī" }
+    },
+    {
+      "slug": "avicenna",
+      "name": { "fr": "Avicenne", "en": "Avicenna" }
+    },
+    {
+      "slug": "averroes",
+      "name": { "fr": "Averroès", "en": "Averroes" }
+    }
+  ],
+  "entries": [
+    {
+      "axisId": "FAITH_REASON",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0,
+          0.9,
+          0,
+          0.1
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Pour <ph id='al-farabi'>al-Fārābī</ph> déjà, la religion exprime en symboles ce que la philosophie établit en concepts ; <ph id='averroes'>Averroès</ph> en fait une doctrine juridique et herméneutique explicite. La Révélation et la démonstration disent une même vérité à des publics différents : la foule est persuadée par les images et la rhétorique, le philosophe convaincu par la <c id='burhan'>démonstration</c> (<c id='burhan'>burhān</c>, un raisonnement qui part de prémisses certaines). Quand un verset semble contredire une conclusion démontrée, c'est au texte de recevoir une interprétation figurée, et non à la raison de céder. <dif>La « double vérité » prêtée plus tard aux averroïstes latins déforme cette thèse</dif>, qui affirme au contraire l'unité du vrai.",
+          "en": "Already for <ph id='al-farabi'>al-Fārābī</ph>, religion expresses in symbols what philosophy establishes in concepts; <ph id='averroes'>Averroes</ph> turns this into an explicit legal and hermeneutical doctrine. Revelation and demonstration state one and the same truth to different audiences: the multitude is persuaded by images and rhetoric, the philosopher convinced by <c id='burhan'>demonstration</c> (<c id='burhan'>burhān</c>, reasoning from certain premises). When a verse seems to contradict a demonstrated conclusion, it is the text that must receive a figurative interpretation, not reason that must yield. <dif>The \"double truth\" later ascribed to the Latin Averroists distorts this thesis</dif>, which on the contrary asserts the unity of truth."
+        },
+        "references": [
+          { "fr": "Averroès, Discours décisif", "en": "Averroes, The Decisive Treatise" },
+          { "fr": "al-Fārābī, Livre de la religion", "en": "al-Fārābī, Book of Religion" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "GOD_EXISTENCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.95
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "<ph id='avicenna'>Avicenne</ph> fonde l'existence de Dieu sur la seule analyse de l'être, sans partir du mouvement comme Aristote. Une chose est <c id='essence-existence-distinction'>possible par soi</c> quand rien dans sa nature ne l'oblige à exister : si elle existe, c'est qu'une cause la fait exister. Même la totalité des êtres possibles, prise comme un tout, dépend encore d'une cause qui ne peut être elle-même possible ; il faut donc un être <c id='necessary-existent'>nécessaire par soi</c>, le <c id='necessary-existent'>Nécessaire Existant</c> (<c id='necessary-existent'>wājib al-wujūd</c>), dont l'essence est d'exister. Avec la <c id='essence-existence-distinction'>distinction de l'essence et de l'existence</c>, cet argument passe à <ph id='aquinas'>Thomas d'Aquin</ph> et à toute la métaphysique latine. <dif><ph id='al-ghazali'>Al-Ghazālī</ph> objectera que, dans un monde supposé éternel, les philosophes ne peuvent établir ni un véritable Créateur ni son unicité.</dif>",
+          "en": "<ph id='avicenna'>Avicenna</ph> grounds God's existence in the analysis of being alone, without starting from motion as Aristotle had. A thing is <c id='essence-existence-distinction'>possible in itself</c> when nothing in its nature requires it to exist: if it exists, a cause makes it exist. Even the totality of possible beings, taken as a whole, still depends on a cause that cannot itself be merely possible; there must therefore be a being <c id='necessary-existent'>necessary in itself</c>, the <c id='necessary-existent'>Necessary Existent</c> (<c id='necessary-existent'>wājib al-wujūd</c>), whose essence is to exist. Together with the <c id='essence-existence-distinction'>distinction between essence and existence</c>, this argument passed to <ph id='aquinas'>Aquinas</ph> and the whole of Latin metaphysics. <dif><ph id='al-ghazali'>Al-Ghazālī</ph> would object that, in a world assumed to be eternal, the philosophers can establish neither a true Creator nor his oneness.</dif>"
+        },
+        "references": [
+          {
+            "fr": "Avicenne, Livre de la guérison, Métaphysique, I, 5-7 et VIII, 1-3",
+            "en": "Avicenna, The Book of Healing, Metaphysics, I.5-7 and VIII.1-3"
+          },
+          { "fr": "Avicenne, Livre des directives et remarques", "en": "Avicenna, Remarks and Admonitions" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "METAPHILOSOPHY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.85,
+          0,
+          0.15,
+          0
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Pour les <mv id='falsafa'>falāsifa</mv>, selon des formulations qui varient d'al-Fārābī à Averroès, le bonheur ultime de l'homme est intellectuel : la perfection de l'intellect humain, qui se conjoint à l'<c id='agent-intellect'>intellect agent</c>. Celui-ci est une intelligence séparée qui fait passer notre pensée de la puissance à l'acte, comme la lumière rend les couleurs visibles. La philosophie n'est pas un exercice de vie parmi d'autres mais l'achèvement de la nature humaine, dont la vertu morale est la condition.",
+          "en": "For the <mv id='falsafa'>falāsifa</mv>, in formulations that vary from al-Fārābī to Averroes, man's ultimate happiness is intellectual: the perfection of the human intellect as it conjoins with the <c id='agent-intellect'>agent intellect</c>. The latter is a separate intelligence that brings our thinking from potentiality to act, as light makes colours visible. Philosophy is not one way of life among others but the completion of human nature, of which moral virtue is the precondition."
+        },
+        "references": [
+          { "fr": "al-Fārābī, L'Obtention du bonheur", "en": "al-Fārābī, The Attainment of Happiness" },
+          { "fr": "Ibn Bājja, Le Régime du solitaire", "en": "Ibn Bājja, The Governance of the Solitary" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "WHO_DECIDES",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.7
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "<ph id='al-farabi'>Al-Fārābī</ph> transpose la république de <ph id='plato'>Platon</ph> dans la cité islamique : la <c id='virtuous-city'>cité vertueuse</c> est gouvernée par un chef qui réunit le philosophe et le prophète, capable de saisir la vérité par l'intellect et de la traduire en symboles pour tous. <ph id='averroes'>Averroès</ph> commente lui aussi la <w>République</w>, signe que l'idéal d'un gouvernement du savoir est commun à l'école.",
+          "en": "<ph id='al-farabi'>Al-Fārābī</ph> transposes <ph id='plato'>Plato</ph>'s republic into the Islamic city: the <c id='virtuous-city'>virtuous city</c> is governed by a ruler who unites philosopher and prophet, able to grasp the truth through the intellect and to translate it into symbols for all. <ph id='averroes'>Averroes</ph> also wrote a commentary on the <w>Republic</w>, a sign that the ideal of government by knowledge is shared across the school."
+        },
+        "references": [
+          {
+            "fr": "al-Fārābī, Idées des habitants de la cité vertueuse",
+            "en": "al-Fārābī, The Opinions of the People of the Virtuous City"
+          },
+          {
+            "fr": "Averroès, Commentaire de la République de Platon",
+            "en": "Averroes, Commentary on Plato's Republic"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    }
+  ],
+  "structuring": [
+    {
+      "axisId": "FAITH_REASON",
+      "thesis": {
+        "fr": "La vérité ne contredit pas la vérité : là où la Révélation semble démentir la démonstration, c'est le texte qu'il faut interpréter.",
+        "en": "Truth does not contradict truth: where Revelation seems to belie demonstration, it is the text that must be interpreted."
+      }
+    },
+    {
+      "axisId": "GOD_EXISTENCE",
+      "thesis": {
+        "fr": "Exister n'est pas compris dans ce qu'est une chose : il faut donc un être dont l'essence est d'exister, le <c id='necessary-existent'>Nécessaire Existant</c>.",
+        "en": "Existing is not contained in what a thing is: there must therefore be a being whose essence is to exist, the <c id='necessary-existent'>Necessary Existent</c>."
+      }
+    },
+    {
+      "axisId": "METAPHILOSOPHY",
+      "thesis": {
+        "fr": "L'homme accomplit sa nature en pensant : le bonheur suprême est la conjonction de l'intellect humain avec l'<c id='agent-intellect'>intellect agent</c>.",
+        "en": "Man fulfils his nature by thinking: supreme happiness is the conjunction of the human intellect with the <c id='agent-intellect'>agent intellect</c>."
+      }
+    }
+  ],
+  "identity": {
+    "wikidata": "Q4126621"
+  },
+  "updatedAt": "2026-10-09T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

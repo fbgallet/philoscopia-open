@@ -1,0 +1,12 @@
+{
+  "id": "letter-on-humanism-heidegger",
+  "title": { "fr": "Lettre sur l'humanisme", "en": "Letter on Humanism" },
+  "originalTitle": "Brief über den Humanismus",
+  "author": { "slug": "heidegger", "name": { "fr": "Martin Heidegger", "en": "Martin Heidegger" } },
+  "year": 1947,
+  "presentation": {
+    "fr": "Écrite en 1946 en réponse au philosophe Jean Beaufret et publiée en 1947, cette lettre prend ses distances avec l'existentialisme de <ph id='sartre'>Sartre</ph> et fait de l'homme non le seigneur de l'étant mais le « berger de l'être », dont la langue est la « maison ». Elle marque l'entrée de <ph id='heidegger'>Heidegger</ph> dans le débat philosophique français d'après-guerre.",
+    "en": "Written in 1946 in reply to the philosopher Jean Beaufret and published in 1947, this letter distances itself from <ph id='sartre'>Sartre</ph>'s existentialism and makes the human being not the lord of beings but the \"shepherd of being\", whose \"house\" is language. It marks <ph id='heidegger'>Heidegger</ph>'s entry into post-war French philosophical debate."
+  },
+  "updatedAt": "2026-10-11T00:00:00.000Z"
+}

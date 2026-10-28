@@ -1,0 +1,29 @@
+{
+  "id": "qi",
+  "term": {
+    "fr": "Qi (souffle)",
+    "en": "Qi (vital force)"
+  },
+  "aliases": {
+    "fr": [
+      "ch'i"
+    ],
+    "en": [
+      "ch'i",
+      "vital force"
+    ]
+  },
+  "definition": {
+    "fr": "Dans la pensée chinoise, le qì (氣) est l'énergie-matière dont toutes choses sont faites, plus ou moins dense ou subtile, claire ou trouble. Le <mv id='neo-confucianism'>néoconfucianisme</mv> l'associe au <c id='li-principle'>principe</c> : le qi donne aux choses leur réalité concrète, le li leur forme et leur norme. Chez <ph id='zhu-xi'>Zhu Xi</ph>, un qi trouble explique que la bonté de la nature humaine puisse être obscurcie.",
+    "en": "In Chinese thought, qì (氣) is the energy-matter of which all things are made, more or less dense or subtle, clear or turbid. <mv id='neo-confucianism'>Neo-Confucianism</mv> pairs it with <c id='li-principle'>principle</c>: qi gives things their concrete reality, li their form and their norm. For <ph id='zhu-xi'>Zhu Xi</ph>, a turbid qi explains how the goodness of human nature can be obscured."
+  },
+  "relatedAxes": [
+    "REALITY_NATURE",
+    "HUMAN_VISION"
+  ],
+  "relatedTerms": [
+    "li-principle",
+    "dao"
+  ],
+  "updatedAt": "2026-10-10T00:00:00.000Z"
+}

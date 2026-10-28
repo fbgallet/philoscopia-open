@@ -1,0 +1,12 @@
+{
+  "id": "preindividual",
+  "term": { "fr": "Préindividuel", "en": "Preindividual" },
+  "definition": {
+    "fr": "Chez <ph id='simondon'>Simondon</ph>, l'état de l'être avant toute <c id='individuation'>individuation</c> : non pas un individu en germe ni une matière informe, mais une réalité riche de potentiels et de tensions, plus qu'une et plus qu'identité. Toute individuation en résout une part, et l'individu garde avec lui une charge de préindividuel, source de ses individuations ultérieures.",
+    "en": "In <ph id='simondon'>Simondon</ph>, the state of being before any <c id='individuation'>individuation</c>: not an individual in embryo nor a formless matter, but a reality rich in potentials and tensions, more than one and more than identity. Every individuation resolves part of it, and the individual keeps with it a charge of the preindividual, the source of its later individuations."
+  },
+  "relatedAxes": ["BEING_BECOMING"],
+  "relatedTerms": ["individuation", "metastability", "transindividual"],
+  "figure": { "slug": "simondon", "name": { "fr": "Gilbert Simondon", "en": "Gilbert Simondon" } },
+  "updatedAt": "2026-10-11T00:00:00.000Z"
+}

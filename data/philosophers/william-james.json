@@ -10,6 +10,7 @@
   "nationality": { "fr": "Américain", "en": "American" },
   "birth": 1842,
   "death": 1910,
+  "language": "eng",
   "movements": ["pragmatism"],
   "updatedAt": "2026-06-22T00:00:00.000Z",
   "validation": { "method": "NOT_VALIDATED" }

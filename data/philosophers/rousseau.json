@@ -29,6 +29,7 @@
   },
   "birth": 1712,
   "death": 1778,
+  "language": "fra",
   "movements": [
     "enlightenment"
   ],
@@ -37,6 +38,65 @@
     "en": "Born in Geneva in 1712, a self-taught man who became one of the greatest writers of the century, Jean-Jacques Rousseau holds a singular place within the <mv id='enlightenment'>Enlightenment</mv>: a philosopher of the contract and of popular sovereignty, at first a contributor to the <w>Encyclopédie</w>, he nonetheless fell out with <ph id='voltaire'>Voltaire</ph>, <ph id='diderot'>Diderot</ph> and <ph id='d-alembert'>d'Alembert</ph>. His first Discourse argues that the sciences and arts have corrupted morals, and his whole work opposes to civilization the goodness of natural man. Through the popular sovereignty of the Social Contract, the education according to nature of Émile and the religion of the heart of the Savoyard vicar, he marks revolutionary thought and, by his cult of feeling and nature, heralds <mv id='romanticism'>Romanticism</mv>. <ph id='kant'>Kant</ph>, who called him « the Newton of the moral world », owes him his morality of autonomy."
   },
   "entries": [
+    {
+      "axisId": "AUTHORITY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.35
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Rousseau refuse que la force ou le modèle paternel fondent une autorité politique légitime : celle-ci doit procéder d'un pacte entre associés. Le citoyen obéit alors à une loi dont il est collectivement l'auteur, plutôt qu'à une volonté particulière. Cette autonomie n'abolit pas la contrainte, puisque le corps politique peut forcer un associé à respecter le pacte : celui qui refuse d'obéir à la <c id='volonte-generale'>volonté générale</c> « sera forcé d'être libre ». La souveraineté reste toutefois bornée par la généralité de son objet et par les engagements qui constituent l'association.",
+          "en": "Rousseau denies that force or the paternal model can ground legitimate political authority: it must proceed from a pact among associates. Citizens then obey laws of which they are collectively the authors, rather than the will of a particular individual. This autonomy does not abolish constraint, since the body politic may compel an associate to keep the pact: whoever refuses to obey the <c id='volonte-generale'>general will</c> \"shall be forced to be free\". Sovereignty nonetheless remains bounded by the generality of its object and by the commitments that constitute the association."
+        },
+        "references": [
+          {
+            "fr": "Du contrat social, I, 2-4 et 6-7",
+            "en": "The Social Contract, I, 2-4 and 6-7"
+          },
+          {
+            "fr": "Du contrat social, II, 1-4",
+            "en": "The Social Contract, II, 1-4"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "MORAL_CIRCLE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.4,
+          0.6,
+          0,
+          0
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Rousseau distingue la capacité de connaître la loi naturelle de celle d'en recevoir la protection : les bêtes n'ont pas la première, mais, sensibles comme nous, elles « doivent participer au droit naturel ». Si nous devons ne pas faire de mal à autrui, c'est moins parce qu'il est raisonnable que parce qu'il est sensible. Le devoir de ne pas maltraiter inutilement les animaux procède ainsi de la <c id='pitie'>pitié</c>, non de leur part à la raison : une extension directe de la considération morale, qui dépasse l'anthropocentrisme strict sans établir d'égalité entre intérêts humains et animaux.",
+          "en": "Rousseau separates the capacity to know natural law from the capacity to be protected by it: animals lack the first, but, sentient as we are, they \"must partake of natural right\". If we owe it to others not to harm them, it is less because they are rational than because they are sentient. The duty not to mistreat animals needlessly thus flows from <c id='pitie'>pity</c>, not from any share in reason: a direct extension of moral consideration that goes beyond strict anthropocentrism without establishing equality between human and animal interests."
+        },
+        "references": [
+          {
+            "fr": "Discours sur l'origine de l'inégalité, Préface",
+            "en": "Discourse on the Origin of Inequality, Preface"
+          },
+          {
+            "fr": "Émile, II",
+            "en": "Emile, II"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
     {
       "axisId": "SUFFERING_MEANING",
       "status": "POSITIONED",
@@ -753,7 +813,7 @@
       "en": "https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau"
     }
   },
-  "updatedAt": "2026-07-19T00:00:00.000Z",
+  "updatedAt": "2026-10-11T00:00:00.000Z",
   "validation": {
     "method": "NOT_VALIDATED"
   }

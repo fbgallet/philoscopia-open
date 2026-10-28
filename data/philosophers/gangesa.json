@@ -1,0 +1,31 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "gangesa",
+  "stub": true,
+  "name": { "fr": "Gaṅgeśa", "en": "Gaṅgeśa" },
+  "fullName": { "fr": "Gaṅgeśa Upādhyāya", "en": "Gaṅgeśa Upādhyāya" },
+  "aliases": {
+    "fr": [
+      "Gangesha"
+    ],
+    "en": [
+      "Gangesha"
+    ]
+  },
+  "summary": {
+    "fr": "Fondateur du « nouveau Nyāya » (Navya-Nyāya), auteur du <w>Tattvacintāmaṇi</w>, dont la langue technique devient celle de toute la scolastique indienne.",
+    "en": "Founder of \"new Nyāya\" (Navya-Nyāya), author of the <w>Tattvacintāmaṇi</w>, whose technical language became that of all Indian scholasticism."
+  },
+  "birth": 1300,
+  "death": 1360,
+  "nationality": { "fr": "Indien", "en": "Indian" },
+  "datesApprox": true,
+  "language": "san",
+  "movements": [
+    "nyaya"
+  ],
+  "updatedAt": "2026-10-09T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

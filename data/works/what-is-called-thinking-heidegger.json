@@ -1,0 +1,12 @@
+{
+  "id": "what-is-called-thinking-heidegger",
+  "title": { "fr": "Qu'appelle-t-on penser ?", "en": "What Is Called Thinking?" },
+  "originalTitle": "Was heißt Denken?",
+  "author": { "slug": "heidegger", "name": { "fr": "Martin Heidegger", "en": "Martin Heidegger" } },
+  "year": 1954,
+  "presentation": {
+    "fr": "Cours de 1951-1952, le premier que <ph id='heidegger'>Heidegger</ph> donne après la levée de son interdiction d'enseigner, publié en 1954. Il y répète que ce qui donne le plus à penser est que nous ne pensons pas encore, et que la science, par nature, « ne pense pas ».",
+    "en": "The lecture course of 1951-1952, the first <ph id='heidegger'>Heidegger</ph> gave after his ban on teaching was lifted, published in 1954. He repeats there that what is most thought-provoking is that we are still not thinking, and that science, by its nature, \"does not think\"."
+  },
+  "updatedAt": "2026-10-11T00:00:00.000Z"
+}

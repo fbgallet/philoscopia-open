@@ -196,6 +196,7 @@ Knowledge begins with a purge: the idols, of the tribe, the cave, the marketplac
 
 - **[The Enlightenment](../movements/enlightenment.md)** (continues) : [Bacon](../philosophers/bacon.md) bequeaths to the Enlightenment the programme of a knowledge founded on experience and turned toward utility, « knowledge is power ». [Diderot](../philosophers/diderot.md) and [d'Alembert](../philosophers/d-alembert.md) salute him as the inspiration of the Encyclopédie, whose Preliminary Discourse traces his genealogy of the sciences.
 - **[Transhumanism](../movements/transhumanism.md)** (continues) : Transhumanism extends [Bacon](../philosophers/bacon.md)'s program: turning knowledge into effective power over nature, through experimental science, to relieve the human condition. It radicalizes that promise by stretching this command of nature to the human body and mind themselves.
+- **[Jonas](../philosophers/jonas.md)** (reacts against) : [Jonas](../philosophers/jonas.md) reacts against the Baconian ideal of knowledge aimed at mastering nature for the good of humanity: fulfilled beyond all expectation, it becomes the threat that ethics must contain. His critique targets that programme, not [Bacon](../philosophers/bacon.md)'s philosophy as a whole.
 
 ---
 

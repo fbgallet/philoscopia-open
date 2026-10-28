@@ -9,6 +9,7 @@
   },
   "nationality": { "fr": "Britannique", "en": "British" },
   "birth": 1952,
+  "language": "eng",
   "movements": [],
   "updatedAt": "2026-07-12T00:00:00.000Z",
   "validation": { "method": "NOT_VALIDATED" }

@@ -17,6 +17,16 @@ Juriste et réformateur anglais des Lumières tardives, fondateur de l'[utilitar
 
 ## Positions
 
+### [Rapport à l'autorité](../axes/authority.md)
+
+*positionné · inférable · mineure*
+
+Autorité 75% · Anarchisme 25%
+
+Bentham rejette les droits « naturels et imprescriptibles » censés précéder les institutions, ces « absurdités montées sur échasses » : les droits juridiques supposent des règles reconnues et garanties par une autorité politique. Cette autorité n'est pourtant légitime qu'à proportion de son utilité, et l'obéissance cesse d'être justifiée quand ses maux dépassent ceux de la résistance. Son programme de codification et de réforme vise à rendre le pouvoir contrôlable et utile, non à supprimer toute institution coercitive.
+
+*Sources : Fragment sur le gouvernement (1776), ch. I · Sophismes anarchiques (rédigés vers 1795, publiés en français par Dumont en 1816)*
+
 ### [Sens de la souffrance](../axes/suffering-meaning.md)
 
 *positionné · explicite dans les textes · mineure*

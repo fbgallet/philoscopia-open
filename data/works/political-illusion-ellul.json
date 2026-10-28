@@ -1,0 +1,11 @@
+{
+  "id": "political-illusion-ellul",
+  "title": { "fr": "L'Illusion politique", "en": "The Political Illusion" },
+  "author": { "slug": "ellul", "name": { "fr": "Jacques Ellul", "en": "Jacques Ellul" } },
+  "year": 1965,
+  "presentation": {
+    "fr": "<ph id='ellul'>Ellul</ph> y soutient que la croyance en la toute-puissance de la politique est une illusion : l'État moderne, gagné par les nécessités techniques et administratives, décide de moins en moins, tandis que tout problème est présenté comme politique.",
+    "en": "<ph id='ellul'>Ellul</ph> argues there that belief in the omnipotence of politics is an illusion: the modern state, overtaken by technical and administrative necessities, decides less and less, while every problem is presented as political."
+  },
+  "updatedAt": "2026-10-11T00:00:00.000Z"
+}

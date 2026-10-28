@@ -1,0 +1,10 @@
+{
+  "id": "la-science-ne-pense-pas-heidegger",
+  "text": { "fr": "La science ne pense pas.", "en": "Science does not think." },
+  "author": { "name": { "fr": "Heidegger", "en": "Heidegger" }, "kind": "PHILOSOPHER", "slug": "heidegger" },
+  "work": "what-is-called-thinking-heidegger",
+  "source": { "fr": "Qu'appelle-t-on penser ?, cours 1951-1952", "en": "What Is Called Thinking?, lectures 1951-1952" },
+  "anchors": [{ "axisId": "SCIENCE_PLACE", "poleId": "EPISTEMIC_PLURALISM" }],
+  "context": { "fr": "Heidegger précise aussitôt que ce n'est pas un reproche : la science ne peut, par ses seuls moyens, interroger l'être de ce qu'elle étudie.", "en": "Heidegger at once adds that this is no reproach: science cannot, by its own means alone, question the being of what it studies." },
+  "updatedAt": "2026-10-11T00:00:00.000Z"
+}

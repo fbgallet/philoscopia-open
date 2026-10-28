@@ -18,6 +18,26 @@ Né à Stagire en Macédoine, Aristote rejoint à dix-sept ans l'Académie de [P
 
 ## Positions
 
+### [Rapport à l'autorité](../axes/authority.md)
+
+*positionné · explicite dans les textes · majeure*
+
+Autorité 80% · Anarchisme 20%
+
+La cité est naturelle parce qu'elle accomplit les capacités humaines de langage, de délibération et de vie bonne : celui qui, par nature, n'en aurait aucun besoin serait « une bête ou un dieu ». Aristote préfère le gouvernement de la loi, « intelligence sans désir », à celui des passions d'un individu, sans exclure des magistrats capables de juger les cas particuliers. Entre citoyens libres et égaux, l'autorité consiste à gouverner et être gouverné à tour de rôle ; et pour la plupart des cités, le meilleur régime praticable mêle des éléments démocratiques et oligarchiques, adossés à une classe moyenne nombreuse.
+
+*Sources : Politique, I, 2 (1253a) · Politique, III, 16 (1287a) · Politique, IV, 8-11*
+
+### [Nature et culture](../axes/human-nature.md)
+
+*positionné · explicite dans les textes · mineure*
+
+Naturalisme 75% · Culturalisme 25%
+
+L'homme est par nature un animal politique et doué de [logos](../glossary/logos.md), et ses fins sont inscrites dans cette nature. Mais la vertu n'est pas donnée : elle naît de l'habitude, qui forme comme une seconde nature, et c'est la cité, par les lois et l'éducation, qui façonne le caractère. Naturalisme, donc, mais d'une nature qui a besoin de la culture pour s'accomplir.
+
+*Sources : Politique, I, 2 · Éthique à Nicomaque, II, 1*
+
 ### [L'être et le devenir](../axes/being-becoming.md)
 
 *positionné · explicite dans les textes · majeure*
@@ -377,6 +397,7 @@ Le désir de connaître n'est pas un instrument du bonheur : il est constitutif 
 - **[Avicenne](../philosophers/avicenna.md)** (réinterprète) : [Avicenne](../philosophers/avicenna.md) refonde la métaphysique d'[Aristote](../philosophers/aristotle.md) en la néoplatonisant : distinction de l'essence et de l'existence, être nécessaire, hiérarchie des intellects.
 - **[Boèce](../philosophers/boethius.md)** (transmet) : [Boèce](../philosophers/boethius.md) se donne pour tâche de traduire et commenter l'Organon d'[Aristote](../philosophers/aristotle.md) : il en fera le seul Aristote logique connu du haut Moyen Âge latin.
 - **[Hegel](../philosophers/hegel.md)** (prolonge) : [Hegel](../philosophers/hegel.md) tient [Aristote](../philosophers/aristotle.md) pour l'un des plus spéculatifs des penseurs : il lui reprend l'actualité (energeia), la fin immanente et l'universel qui n'existe que dans ses individus, contre l'universel abstrait, et clôt son Encyclopédie sur une citation de la Métaphysique, la pensée de la pensée.
+- **[Heidegger](../philosophers/heidegger.md)** (réinterprète) : Les cours de [Heidegger](../philosophers/heidegger.md) des années 1920 sont pour une large part des lectures d'[Aristote](../philosophers/aristotle.md) : il y relit la phronèsis comme une compréhension de l'existence en situation et l'ousia comme présence, matériaux qu'*[Être et temps](../works/being-and-time-heidegger.md)* transforme en analytique du [Dasein](../glossary/dasein.md).
 - **[Maïmonide](../philosophers/maimonides.md)** (réinterprète) : Le Guide des égarés de [Maïmonide](../philosophers/maimonides.md) entreprend d'accorder la physique et la métaphysique d'[Aristote](../philosophers/aristotle.md) avec la Torah, quitte à en limiter la portée sur la création du monde.
 - **[Martha Nussbaum](../philosophers/nussbaum.md)** (prolonge) : [Nussbaum](../philosophers/nussbaum.md) renoue avec l'éthique d'[Aristote](../philosophers/aristotle.md) : le bien humain est l'épanouissement de capacités propres à notre nature. Elle en tire l'approche des capabilités, liste des libertés réelles qu'une société juste doit garantir à chacun.
 - **[Plotin](../philosophers/plotinus.md)** (réinterprète) : [Plotin](../philosophers/plotinus.md) intègre à son néoplatonisme des pièces majeures d'[Aristote](../philosophers/aristotle.md), au premier chef l'Intellect comme pensée qui se pense, tout en refusant les catégories appliquées à l'intelligible.

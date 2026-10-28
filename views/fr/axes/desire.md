@@ -14,7 +14,7 @@ Le désir est à la fois ce qui nous met en mouvement et ce qui nous tourmente :
 
 Le désir n'est pas un manque à combler mais une puissance créatrice qu'il faut affirmer et intensifier. Brider ses désirs, c'est s'amoindrir : la vie réussie est celle qui dit oui à ce qui la traverse et la porte au-delà d'elle-même.
 
-*[Nietzsche](../philosophers/nietzsche.md) · Deleuze*
+*[Nietzsche](../philosophers/nietzsche.md) · [Deleuze](../philosophers/deleuze.md)*
 
 ### Tri raisonné
 

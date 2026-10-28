@@ -14,7 +14,7 @@ If the sacred is here, in this world, the spiritual quest turns toward life, nat
 
 There is no world behind this one: whatever deserves to be called sacred or divine resides in this world, in nature, in life and its powers. To look for meaning elsewhere is to depreciate the only reality there is.
 
-*[Spinoza](../philosophers/spinoza.md) · [Nietzsche](../philosophers/nietzsche.md) · Deleuze*
+*[Spinoza](../philosophers/spinoza.md) · [Nietzsche](../philosophers/nietzsche.md) · [Deleuze](../philosophers/deleuze.md)*
 
 ### Transcendence
 

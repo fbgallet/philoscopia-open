@@ -1,0 +1,31 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "al-farabi",
+  "stub": true,
+  "name": { "fr": "al-Fārābī", "en": "al-Fārābī" },
+  "fullName": { "fr": "Abū Naṣr al-Fārābī", "en": "Abū Naṣr al-Fārābī" },
+  "aliases": {
+    "fr": [
+      "Alfarabius"
+    ],
+    "en": [
+      "Alpharabius"
+    ]
+  },
+  "summary": {
+    "fr": "Le « second maître » après Aristote : logicien, penseur de la <c id='virtuous-city'>cité vertueuse</c> gouvernée par le philosophe-prophète, figure fondatrice de la <mv id='falsafa'>falsafa</mv>.",
+    "en": "The \"second teacher\" after Aristotle: a logician, the thinker of the <c id='virtuous-city'>virtuous city</c> ruled by the philosopher-prophet, a founding figure of <mv id='falsafa'>falsafa</mv>."
+  },
+  "birth": 870,
+  "death": 950,
+  "nationality": { "fr": "Né en Asie centrale", "en": "Central Asian" },
+  "datesApprox": true,
+  "language": "ara",
+  "movements": [
+    "falsafa"
+  ],
+  "updatedAt": "2026-10-09T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

@@ -2,7 +2,7 @@
 
 # Marxisme
 
-*1848 – ?*
+*1848 – …*
 
 Tradition fondée par [Karl Marx](../philosophers/marx.md) et Friedrich Engels, du Manifeste du Parti communiste (1848) au Capital (1867), à la fois analyse du capitalisme, philosophie de l'[histoire](../axes/history-meaning.md) et projet d'émancipation. Le marxisme naît d'un double héritage retourné : la dialectique de [Hegel](../philosophers/hegel.md), qu'il « remet sur ses pieds » en l'arrachant à l'idéalisme, et l'économie politique anglaise (Smith, Ricardo), dont il fait la critique pour y déceler l'exploitation. Au problème de la misère ouvrière de l'industrialisation, il oppose non un appel moral mais une science des contradictions du capital. Après Marx, le courant éclate en lignées rivales : la social-démocratie (Kautsky, Bernstein), le léninisme et ses régimes au XXᵉ siècle, le marxisme occidental enfin (Gramsci et son hégémonie, l'École de Francfort, Althusser), qui en prolonge la critique de la culture et de l'idéologie loin de tout pouvoir d'État. Peu de pensées ont autant marqué l'histoire politique, l'historiographie et les sciences sociales.
 

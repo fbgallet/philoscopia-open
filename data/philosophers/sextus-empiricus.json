@@ -23,6 +23,8 @@
     "fr": "Grec",
     "en": "Greek"
   },
+  "datesApprox": true,
+  "language": "grc",
   "movements": [
     "skepticism"
   ],

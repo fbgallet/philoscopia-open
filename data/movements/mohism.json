@@ -1,0 +1,210 @@
+{
+  "kind": "MOVEMENT",
+  "id": "mohism",
+  "name": { "fr": "Mohisme", "en": "Mohism" },
+  "tagline": {
+    "fr": "Juger chaque coutume à ce qu'elle rapporte à tous, et oser dire que le rite, la musique et la guerre coûtent trop.",
+    "en": "Judging every custom by what it yields for all, and daring to say that ritual, music and war cost too much."
+  },
+  "aliases": {
+    "fr": [
+      "mohiste",
+      "mohistes",
+      "moïsme",
+      "moïste",
+      "moïstes"
+    ],
+    "en": [
+      "Mohist",
+      "Mohists"
+    ]
+  },
+  "summary": {
+    "fr": "Le mohisme est l'école fondée par <ph id='mozi'>Mozi</ph> au Ve siècle avant notre ère, dans la Chine des Royaumes combattants. L'une des premières grandes critiques du <mv id='confucianism'>confucianisme</mv>, elle juge les doctrines et les institutions à leur utilité pour le peuple et prêche une sollicitude étendue à tous sans distinction. Organisée en confrérie disciplinée, réputée pour son expertise dans la défense des villes assiégées, l'école développe aussi, avec les <mv>mohistes tardifs</mv>, une logique et une théorie de la connaissance parmi les plus élaborées de la Chine ancienne. Elle décline après l'unification impériale de 221 avant notre ère et s'éteint comme école sous les Han ; le <w>Mozi</w>, transmis sous une forme lacunaire et corrompue, n'est vraiment remis en lumière que par les philologues des Qing, à la fin du XIXe siècle. <dif>On compare aujourd'hui Mozi aux <mv id='utilitarianism'>utilitaristes</mv>, mais sa doctrine repose aussi sur l'autorité du Ciel et le modèle des anciens rois sages</dif>, ce qui interdit une assimilation pure et simple.",
+    "en": "Mohism is the school founded by <ph id='mozi'>Mozi</ph> in the fifth century BCE, in Warring States China. One of the first great critiques of <mv id='confucianism'>Confucianism</mv>, it judges doctrines and institutions by their usefulness to the people and preaches a concern extended to all without distinction. Organized as a disciplined brotherhood, renowned for its expertise in defending besieged cities, the school also developed, with the <mv>later Mohists</mv>, one of the most elaborate logics and theories of knowledge of ancient China. It declined after the imperial unification of 221 BCE and died out as a school under the Han; the <w>Mozi</w>, handed down in an incomplete and corrupt form, was only properly brought back to light by Qing philologists at the end of the nineteenth century. <dif>Mozi is now compared to the <mv id='utilitarianism'>utilitarians</mv>, but his doctrine also rests on the authority of Heaven and the model of the ancient sage kings</dif>, which rules out a straightforward assimilation."
+  },
+  "area": "EAST_ASIA",
+  "period": {
+    "from": -430,
+    "to": -221,
+    "approx": true,
+    "afterlife": "HISTORICAL"
+  },
+  "keyFigures": [
+    {
+      "slug": "mozi",
+      "name": { "fr": "Mozi", "en": "Mozi" }
+    }
+  ],
+  "entries": [
+    {
+      "axisId": "ETHICS_FOUNDATION",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.85,
+          0.15,
+          0,
+          0
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Une doctrine se juge à trois critères (les <c>trois normes</c>) : son origine chez les anciens rois sages, sa conformité à l'expérience du peuple, et surtout son utilité, c'est-à-dire ce qu'elle apporte de <c>bénéfice</c> (<c>li</c>) au monde. Le bien se mesure à ce qui enrichit le peuple, accroît la population et établit l'<c>ordre</c>. La <c>volonté du Ciel</c>, que <ph id='mozi'>Mozi</ph> invoque comme norme, prescrit précisément ce bénéfice universel, d'où la part déontologique.",
+          "en": "A doctrine is judged by three criteria (the <c>three standards</c>): its origin with the sage kings, its agreement with the people's experience, and above all its usefulness, that is, the <c>benefit</c> (<c>li</c>) it brings the world. The good is measured by what enriches the people, increases the population and establishes <c>order</c>. The <c>will of Heaven</c>, which <ph id='mozi'>Mozi</ph> invokes as a standard, prescribes precisely this universal benefit, hence the deontological share."
+        },
+        "references": [
+          { "fr": "Mozi, ch. 35-37 (« Contre le destin »)", "en": "Mozi, ch. 35-37 (\"Against Fatalism\")" },
+          { "fr": "Mozi, ch. 26-28 (« La volonté du Ciel »)", "en": "Mozi, ch. 26-28 (\"Heaven's Will\")" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "PARTIALITY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.9
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Les désordres du monde viennent de ce que chacun aime les siens au détriment des autres. Le remède est le <c id='jian-ai'>souci de tous sans distinction</c> (<c id='jian-ai'>jian ai</c>) : traiter dans ses actes la famille, la ville et l'État d'autrui comme les siens, ce qui n'exige pas d'éprouver pour tous une affection identique. <dif>Contre l'<c id='graded-love'>amour gradué</c> du <mv id='confucianism'>confucianisme</mv></dif>, <ph id='mozi'>Mozi</ph> soutient que l'impartialité sert même l'intérêt de chacun, puisque qui aime les parents d'autrui verra les siens aimés en retour.",
+          "en": "The world's disorders come from each person loving their own at the expense of others. The remedy is <c id='jian-ai'>impartial concern for all</c> (<c id='jian-ai'>jian ai</c>): treating, in one's conduct, other people's families, cities and states as one's own, which does not require feeling the same affection for everyone. <dif>Against the <c id='graded-love'>graded love</c> of <mv id='confucianism'>Confucianism</mv></dif>, <ph id='mozi'>Mozi</ph> argues that impartiality even serves each person's interest, since whoever loves other people's parents will see their own loved in return."
+        },
+        "references": [
+          { "fr": "Mozi, ch. 14-16 (« Le souci universel »)", "en": "Mozi, ch. 14-16 (\"Impartial Concern\")" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "VIOLENCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.25,
+          0.75,
+          0,
+          0
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "La <c>guerre d'agression</c> est le plus grand des crimes : celui qu'on punit pour avoir volé un cochon, on le loue pour avoir pillé un royaume. Mais les mohistes ne sont pas pacifistes au sens strict : ils se mettent au service des villes attaquées et deviennent des spécialistes de la fortification.",
+          "en": "<c>Wars of aggression</c> are the greatest of crimes: the man punished for stealing a pig is praised for plundering a kingdom. But the Mohists were not pacifists in the strict sense: they put themselves at the service of cities under attack and became specialists in fortification."
+        },
+        "references": [
+          { "fr": "Mozi, ch. 17-19 (« Contre l'agression »)", "en": "Mozi, ch. 17-19 (\"Against Aggression\")" },
+          {
+            "fr": "Mozi, ch. 50 (« Gongshu ») et chapitres sur la défense des villes",
+            "en": "Mozi, ch. 50 (\"Gongshu\") and the chapters on city defence"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "AESTHETIC_LIFE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.9
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "La musique de cour, les funérailles somptueuses et les longs deuils confucéens dilapident les ressources du peuple sans nourrir personne. <ph id='mozi'>Mozi</ph> les condamne au nom de l'économie et du bien commun : ce qui ne profite pas à tous doit être abandonné, quel qu'en soit le charme.",
+          "en": "Court music, sumptuous funerals and long Confucian mourning periods squander the people's resources without feeding anyone. <ph id='mozi'>Mozi</ph> condemns them in the name of economy and the common good: what does not benefit everyone must be given up, whatever its charm."
+        },
+        "references": [
+          { "fr": "Mozi, ch. 32 (« Contre la musique »)", "en": "Mozi, ch. 32 (\"Against Music\")" },
+          { "fr": "Mozi, ch. 25 (« Funérailles modestes »)", "en": "Mozi, ch. 25 (\"Moderation in Funerals\")" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "GOD_EXISTENCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.6
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le <c>Ciel</c> a une volonté, il aime tous les hommes et sanctionne les gouvernants ; les esprits existent et punissent le mal. C'est un théisme affirmé, mais sans Dieu créateur ni révélation, d'où une valeur nettement théiste sans être extrême : <ph id='mozi'>Mozi</ph> y voit une garantie de la morale plus qu'un objet de spéculation.",
+          "en": "<c>Heaven</c> has a will, loves all people and sanctions rulers; spirits exist and punish wrongdoing. It is an affirmed theism, but without a creator God or revelation, hence a clearly theistic value short of the extreme: <ph id='mozi'>Mozi</ph> sees in it a guarantee of morality more than an object of speculation."
+        },
+        "references": [
+          { "fr": "Mozi, ch. 26-28 (« La volonté du Ciel »)", "en": "Mozi, ch. 26-28 (\"Heaven's Will\")" },
+          { "fr": "Mozi, ch. 31 (« Éclaircir les esprits »)", "en": "Mozi, ch. 31 (\"Explaining Ghosts\")" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "WHO_DECIDES",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.6
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Il faut <c>élever les sages</c> (<c>shang xian</c>) aux charges, quelle que soit leur naissance, et que chacun se conforme au jugement de son supérieur, jusqu'au Fils du Ciel (<c>shang tong</c>). C'est une <c>méritocratie</c> autoritaire, non une démocratie.",
+          "en": "The <c>worthy must be promoted</c> (<c>shang xian</c>) to office whatever their birth, and everyone must conform to the judgment of their superior, up to the Son of Heaven (<c>shang tong</c>). It is an authoritarian <c>meritocracy</c>, not a democracy."
+        },
+        "references": [
+          { "fr": "Mozi, ch. 8-10 (« Élever les sages »)", "en": "Mozi, ch. 8-10 (\"Elevating the Worthy\")" },
+          {
+            "fr": "Mozi, ch. 11-13 (« Se conformer au supérieur »)",
+            "en": "Mozi, ch. 11-13 (\"Identifying with the Superior\")"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    }
+  ],
+  "structuring": [
+    {
+      "axisId": "ETHICS_FOUNDATION",
+      "thesis": {
+        "fr": "Une coutume vaut ce qu'elle rapporte à tous : le bénéfice du peuple est la mesure du juste.",
+        "en": "A custom is worth what it yields for all: the benefit of the people is the measure of what is right."
+      }
+    },
+    {
+      "axisId": "PARTIALITY",
+      "thesis": {
+        "fr": "Aimer les siens plus que les autres est la source des désordres : il faut se soucier de chacun comme des siens.",
+        "en": "Loving one's own more than others is the source of disorder: one must care for everyone as for one's own."
+      }
+    },
+    {
+      "axisId": "VIOLENCE",
+      "thesis": { "fr": "L'agression est un crime, la défense un devoir.", "en": "Aggression is a crime, defence a duty." }
+    }
+  ],
+  "identity": {
+    "wikidata": "Q720866",
+    "wikipedia": { "fr": "https://fr.wikipedia.org/wiki/Mo%C3%AFsme", "en": "https://en.wikipedia.org/wiki/Mohism" }
+  },
+  "updatedAt": "2026-10-09T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

@@ -11,6 +11,7 @@
   "birth": 1738,
   "death": 1794,
   "nationality": { "fr": "Italien", "en": "Italian" },
+  "language": "ita",
   "movements": ["enlightenment"],
   "updatedAt": "2026-06-25T00:00:00.000Z",
   "validation": { "method": "NOT_VALIDATED" }

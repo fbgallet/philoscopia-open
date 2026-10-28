@@ -18,6 +18,26 @@ Empereur romain de 161 à 180 et dernier des « bons empereurs » de la dynastie
 
 ## Positions
 
+### [Cercle moral](../axes/moral-circle.md)
+
+*positionné · inférable · mineure*
+
+Anthropocentrisme 100%
+
+Marc Aurèle fonde la communauté morale et politique universelle sur la raison commune aux hommes : si l'intelligence nous est commune, la loi l'est aussi, et le monde est comme une cité. Il distingue nettement les relations avec les êtres raisonnables, qui relèvent de la vie sociale, de l'usage des animaux et des choses, auquel il recommande seulement grandeur d'âme et libéralité. Cette douceur prescrite ne fait pas de la sensibilité animale le fondement d'une valeur morale.
+
+*Sources : Pensées, IV, 4 · Pensées, VI, 23*
+
+### [Nature du réel](../axes/reality-nature.md)
+
+*positionné · inférable · mineure*
+
+Matérialisme 100%
+
+Marc Aurèle se comprend comme « chair, souffle et principe directeur », sans faire de ces dimensions des substances indépendantes. Dans la psychologie stoïcienne classique, le [principe directeur](../glossary/hegemonikon.md) relève lui aussi du souffle corporel : c'est une reconstruction doctrinale, que le passage n'énonce pas. Il se représente le cosmos comme un vivant unique, doté d'une seule substance et d'une seule âme, conformément à la physique corporelle du stoïcisme. Le [logos](../glossary/logos.md) ordonnateur n'est pas une substance spirituelle séparée : il distingue ce corporalisme de l'atomisme sans le changer en idéalisme ou en dualisme.
+
+*Sources : Pensées, II, 2 ; IV, 40 · Pensées, XII, 30 · Diogène Laërce, Vies et doctrines des philosophes illustres, VII, 156-159*
+
 ### [Intériorité](../axes/interiority.md)
 
 *positionné · explicite dans les textes · majeure*

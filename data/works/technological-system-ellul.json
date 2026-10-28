@@ -1,0 +1,11 @@
+{
+  "id": "technological-system-ellul",
+  "title": { "fr": "Le Système technicien", "en": "The Technological System" },
+  "author": { "slug": "ellul", "name": { "fr": "Jacques Ellul", "en": "Jacques Ellul" } },
+  "year": 1977,
+  "presentation": {
+    "fr": "<ph id='ellul'>Ellul</ph> y montre que les techniques, reliées par l'informatique, forment désormais un système, le <c id='technological-system'>système technicien</c>, devenu le milieu même de l'homme à la place de la nature, et qui s'accroît selon sa propre logique.",
+    "en": "<ph id='ellul'>Ellul</ph> shows there that techniques, linked by computing, now form a system, the <c id='technological-system'>technological system</c>, which has become humanity's very milieu in place of nature, and which grows according to its own logic."
+  },
+  "updatedAt": "2026-10-11T00:00:00.000Z"
+}

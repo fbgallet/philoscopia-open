@@ -16,7 +16,7 @@
 
 **⇒** So the moral circle extends to all life: not that all lives are worth the same in every circumstance, but that none is mere material, and that destroying a life always calls for a reason.
 
-**Challenged by** : [A good, but for whom?](../arguments/biocentrism-no-interests-objection.md)
+**Challenged by** : [The antibiotic](../arguments/biocentrism-antibiotic-objection.md) · [A good, but for whom?](../arguments/biocentrism-no-interests-objection.md)
 
 **Bears on the problems** : [Reverence for life](../axes/moral-circle.md) · [The criterion of moral status](../axes/moral-circle.md)
 

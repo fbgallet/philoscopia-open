@@ -1,0 +1,22 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "nishida",
+  "stub": true,
+  "name": { "fr": "Nishida", "en": "Nishida" },
+  "fullName": { "fr": "Nishida Kitarō", "en": "Nishida Kitarō" },
+  "summary": {
+    "fr": "Fondateur de l'<mv id='kyoto-school'>école de Kyoto</mv>, penseur de l'<c id='pure-experience'>expérience pure</c> et du « lieu » du néant absolu, entre zen et philosophie occidentale.",
+    "en": "Founder of the <mv id='kyoto-school'>Kyoto School</mv>, thinker of <c id='pure-experience'>pure experience</c> and of the \"place\" of absolute nothingness, between Zen and Western philosophy."
+  },
+  "birth": 1870,
+  "death": 1945,
+  "nationality": { "fr": "Japonais", "en": "Japanese" },
+  "language": "jpn",
+  "movements": [
+    "kyoto-school"
+  ],
+  "updatedAt": "2026-10-09T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

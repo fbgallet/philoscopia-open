@@ -46,6 +46,8 @@ L'être humain n'occupe aucune position privilégiée dans la nature : il est un
 
 > « Au lieu de cette philosophie spéculative qu'on enseigne dans les écoles, on en peut trouver une pratique […] et ainsi nous rendre comme maîtres et possesseurs de la nature. » — [Descartes](../philosophers/descartes.md), Discours de la méthode, VI
 
+> « L'homme n'est pas le maître de l'étant. L'homme est le berger de l'être. » — [Heidegger](../philosophers/heidegger.md), Lettre sur l'humanisme (1946)
+
 > « L'homme prend modèle sur la terre, la terre sur le ciel, le ciel sur le Dao, et le Dao sur lui-même. » — [Laozi](../philosophers/laozi.md), Dao De Jing, ch. 25
 
 > « On ne commande à la nature qu'en lui obéissant. » — [Bacon](../philosophers/bacon.md), Novum Organum, livre I, aphorisme 3

@@ -1,0 +1,27 @@
+{
+  "id": "pure-experience",
+  "term": {
+    "fr": "Expérience pure",
+    "en": "Pure experience"
+  },
+  "aliases": {
+    "fr": [
+      "junsui keiken"
+    ],
+    "en": [
+      "junsui keiken"
+    ]
+  },
+  "definition": {
+    "fr": "Dans l'<w>Essai sur le bien</w> de 1911, <ph id='nishida'>Nishida</ph> appelle « expérience pure » (junsui keiken) l'expérience immédiate avant sa division réflexive en un sujet qui connaît et un objet connu. Entendre un son avant de penser « j'entends un son » en donne une illustration. Il reprend notamment une expression de <ph id='william-james'>William James</ph>, mais lui donne une portée métaphysique propre : le sujet et l'objet se différencient au sein de cette expérience fondamentale. L'ouvrage est rétrospectivement considéré comme un texte fondateur de l'<mv id='kyoto-school'>école de Kyoto</mv>, qui se constituera plus tard.",
+    "en": "In his 1911 <w>An Inquiry into the Good</w>, <ph id='nishida'>Nishida</ph> calls \"pure experience\" (junsui keiken) immediate experience before its reflective division into a knowing subject and a known object. Hearing a sound before thinking \"I hear a sound\" illustrates it. He takes over, notably, an expression of <ph id='william-james'>William James</ph>, but gives it a metaphysical scope of his own: subject and object become differentiated within this fundamental experience. The book is retrospectively regarded as a founding text of the <mv id='kyoto-school'>Kyoto School</mv>, which took shape later."
+  },
+  "relatedAxes": [
+    "REALITY_NATURE"
+  ],
+  "relatedTerms": [
+    "absolute-nothingness",
+    "basho"
+  ],
+  "updatedAt": "2026-10-10T00:00:00.000Z"
+}

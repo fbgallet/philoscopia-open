@@ -1,0 +1,33 @@
+{
+  "id": "apoha",
+  "term": {
+    "fr": "Apoha (exclusion)",
+    "en": "Apoha (exclusion)"
+  },
+  "aliases": {
+    "fr": [
+      "apoha"
+    ],
+    "en": [
+      "apoha"
+    ]
+  },
+  "definition": {
+    "fr": "Chez les logiciens bouddhistes <ph>Dignāga</ph> et <ph>Dharmakīrti</ph>, l'apoha explique la signification des mots et des concepts par l'exclusion de ce qui est autre. Le concept de « vache » délimite ainsi son domaine en excluant les non-vaches, plutôt qu'en saisissant une essence universelle réellement présente dans chaque animal. Cette théorie entend rendre compte des classifications sans admettre d'<c id='realism-of-universals'>universaux réels</c>. Le <mv id='nyaya'>Nyāya</mv> lui oppose notamment l'idée que les universaux existent et peuvent être perçus.",
+    "en": "For the Buddhist logicians <ph>Dignāga</ph> and <ph>Dharmakīrti</ph>, apoha explains the meaning of words and concepts by the exclusion of what is other. The concept \"cow\" thus marks out its domain by excluding non-cows, rather than by grasping a universal essence really present in each animal. The theory aims to account for classification without admitting <c id='realism-of-universals'>real universals</c>. <mv id='nyaya'>Nyāya</mv> counters it notably with the view that universals exist and can be perceived."
+  },
+  "relatedAxes": [
+    "UNIVERSALS",
+    "MEANING"
+  ],
+  "relatedTerms": [
+    "realism-of-universals"
+  ],
+  "positions": [
+    {
+      "axisId": "UNIVERSALS",
+      "poleId": "NOMINALISM"
+    }
+  ],
+  "updatedAt": "2026-10-10T00:00:00.000Z"
+}

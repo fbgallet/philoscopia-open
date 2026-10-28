@@ -267,6 +267,7 @@ Evil is not a positive reality that God would have produced, but a privation, a 
 ## Influenced by
 
 - **[Descartes](../philosophers/descartes.md)** (reinterprets) : [Leibniz](../philosophers/leibniz.md) starts from the Cartesian problems of substance and mechanism, but contests [Descartes](../philosophers/descartes.md)'s physics of extension to ground a dynamics of monads, points of force without parts.
+- **[Neo-Confucianism](../movements/neo-confucianism.md)** (reinterprets) : [Leibniz](../philosophers/leibniz.md) read [Zhu Xi](../philosophers/zhu-xi.md)'s [li](../glossary/li-principle.md) through the treatises of the missionaries Longobardo and Sainte-Marie, who saw materialism in it, and recognized in it instead a natural theology close to his own, proof in his eyes that reason can reach God without revelation.
 
 ## Influence on
 

@@ -14,7 +14,7 @@ Hope gives the strength to hold on and to act when all seems lost, but it can bl
 
 To hope is not to indulge in illusions: it is a condition of action and progress. Hope directs our efforts toward what is not yet, sustains moral commitment, and opens the future as a field of possibility.
 
-*[Kant](../philosophers/kant.md) · Bloch*
+*[Kant](../philosophers/kant.md) · [Bloch](../philosophers/bloch.md)*
 
 ### Lucidity without hope
 

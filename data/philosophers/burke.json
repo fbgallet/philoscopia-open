@@ -14,6 +14,7 @@
   "nationality": { "fr": "Anglo-Irlandais", "en": "Anglo-Irish" },
   "birth": 1729,
   "death": 1797,
+  "language": "eng",
   "movements": [],
   "updatedAt": "2026-06-21T00:00:00.000Z",
   "validation": { "method": "NOT_VALIDATED" }

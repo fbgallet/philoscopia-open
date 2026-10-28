@@ -37,10 +37,38 @@
     "fr": "Italien",
     "en": "Italian"
   },
+  "language": "lat",
   "movements": [
     "aristotelianism"
   ],
   "entries": [
+    {
+      "axisId": "HUMAN_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.5
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Thomas ordonne les préceptes de la <c id='natural-law'>loi naturelle</c> selon les inclinations que l'homme partage avec toutes les substances (se conserver), avec les animaux (s'unir, élever ses enfants) et qui lui sont propres comme être raisonnable (connaître le vrai sur Dieu, vivre en société). Cette structure suppose une nature humaine commune qui oriente l'action, sans déterminer uniformément toutes les conduites ni toutes les institutions. Les lois humaines dérivent de la loi naturelle soit par conclusion, soit par détermination de règles générales, ce qui laisse place à une diversité légitime des arrangements sociaux.",
+          "en": "Aquinas orders the precepts of <c id='natural-law'>natural law</c> according to the inclinations humans share with all substances (self-preservation), with other animals (sexual union, rearing offspring), and those proper to them as rational beings (knowing the truth about God, living in society). This structure presupposes a common human nature that orients action, without prescribing a single pattern for all behaviour and institutions. Human laws derive from natural law either as conclusions or as determinations of general rules, which leaves room for a legitimate diversity of social arrangements."
+        },
+        "references": [
+          {
+            "fr": "Somme théologique, I-II, q. 94, a. 2",
+            "en": "Summa Theologiae, I-II, q. 94, a. 2"
+          },
+          {
+            "fr": "Somme théologique, I-II, q. 95, a. 2",
+            "en": "Summa Theologiae, I-II, q. 95, a. 2"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
     {
       "axisId": "VIOLENCE",
       "status": "POSITIONED",
@@ -1038,7 +1066,7 @@
       "en": "https://en.wikipedia.org/wiki/Thomas_Aquinas"
     }
   },
-  "updatedAt": "2026-07-19T00:00:00.000Z",
+  "updatedAt": "2026-10-11T00:00:00.000Z",
   "validation": {
     "method": "NOT_VALIDATED"
   }

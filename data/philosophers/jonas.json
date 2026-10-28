@@ -1,16 +1,380 @@
 {
   "kind": "PHILOSOPHER",
-  "stub": true,
   "id": "jonas",
   "name": { "fr": "Jonas", "en": "Jonas" },
+  "fullName": { "fr": "Hans Jonas", "en": "Hans Jonas" },
+  "tagline": {
+    "fr": "Remonter de l'organisme vivant jusqu'à l'éthique : lire dans le moindre <c id='metabolism'>métabolisme</c> une liberté et une fin, pour fonder sur l'être un devoir envers une humanité qui n'existe pas encore.",
+    "en": "Climbing from the living organism up to ethics: reading in the smallest <c id='metabolism'>metabolism</c> a freedom and an end, so as to ground in being itself a duty toward a humanity that does not yet exist."
+  },
+  "aliases": {
+    "fr": ["jonassien", "jonassienne"],
+    "en": ["Jonasian"]
+  },
   "summary": {
-    "fr": "Philosophe allemand : penseur de la responsabilité envers les générations futures, il fonde une éthique de la vie qui oppose à la toute-puissance technique la valeur du donné naturel.",
-    "en": "German philosopher: a thinker of responsibility toward future generations, he founds an ethics of life that sets the worth of the natural given against technological omnipotence."
+    "fr": "Né à Mönchengladbach dans une famille juive, élève de <ph id='husserl'>Husserl</ph> et de <ph id='heidegger'>Heidegger</ph>, il consacre sa thèse à la <c>gnose</c>, sous la direction de ce dernier et auprès du théologien <per>Rudolf Bultmann</per> : elle donne <w>Gnosis und spätantiker Geist</w> (1934), puis la synthèse anglaise <w id='gnostic-religion-jonas'>The Gnostic Religion</w> (1958). Exilé dès 1933, il combat dans la Brigade juive de l'armée britannique, apprend après la guerre l'assassinat de sa mère à Auschwitz, puis enseigne au Canada et, à partir de 1955, à la New School for Social Research de New York. Il rompt avec son maître sur la question de la nature : <w id='phenomenon-of-life-jonas'>The Phenomenon of Life</w> (1966, <w>Le Phénomène de la vie</w>) fonde une philosophie de l'organisme, et <w id='imperative-of-responsibility-jonas'>Le Principe responsabilité</w> (1979), écrit en allemand, en tire une éthique pour la civilisation technologique, devenue une référence des débats sur l'<mv id='environmental-ethics'>écologie</mv>, la bioéthique et le <c>principe de précaution</c>. <w id='concept-of-god-after-auschwitz-jonas'>Le Concept de Dieu après Auschwitz</w> (conférence de 1984) prolonge cette pensée sur le terrain théologique.",
+    "en": "Born in Mönchengladbach into a Jewish family, a pupil of <ph id='husserl'>Husserl</ph> and <ph id='heidegger'>Heidegger</ph>, he devoted his dissertation to <c>Gnosticism</c>, under the latter's supervision and alongside the theologian <per>Rudolf Bultmann</per>: it led to <w>Gnosis und spätantiker Geist</w> (1934), then to the English synthesis <w id='gnostic-religion-jonas'>The Gnostic Religion</w> (1958). In exile from 1933, he fought in the Jewish Brigade of the British army, learned after the war that his mother had been murdered at Auschwitz, then taught in Canada and, from 1955, at the New School for Social Research in New York. He broke with his teacher over the question of nature: <w id='phenomenon-of-life-jonas'>The Phenomenon of Life</w> (1966) founds a philosophy of the organism, and <w id='imperative-of-responsibility-jonas'>The Imperative of Responsibility</w> (1979), written in German, draws from it an ethics for technological civilization that became a reference in debates on <mv id='environmental-ethics'>ecology</mv>, bioethics and the <c>precautionary principle</c>. <w id='concept-of-god-after-auschwitz-jonas'>The Concept of God after Auschwitz</w> (a 1984 lecture) extends this thinking into theology."
   },
   "nationality": { "fr": "Allemand", "en": "German" },
   "birth": 1903,
   "death": 1993,
+  "language": "deu",
+  "otherLanguages": ["eng"],
   "movements": ["environmental-ethics"],
-  "updatedAt": "2026-07-03T00:00:00.000Z",
+  "entries": [
+    {
+      "axisId": "FUTURE_GENERATIONS",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -1 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "L'éthique traditionnelle, observe <ph id='jonas'>Jonas</ph>, était une éthique du prochain et du présent : ses impératifs valaient entre contemporains, pour des actes aux effets proches. La technique moderne <pb>change la nature de l'agir</pb> : ses effets sont cumulatifs, irréversibles et planétaires. D'où un nouvel impératif, qui reformule celui de <ph id='kant'>Kant</ph> en exigeant que nos actes restent compatibles avec la permanence d'une vie authentiquement humaine sur terre. Les générations futures ne peuvent aujourd'hui faire valoir leurs intérêts ni entrer dans une relation de réciprocité ; la responsabilité repose donc sur la <c>vulnérabilité</c> de ce qui dépend de nous, sur le modèle de celle des parents envers le nouveau-né. Le pôle reprend presque mot pour mot sa formule.",
+          "en": "Traditional ethics, <ph id='jonas'>Jonas</ph> observes, was an ethics of the neighbour and the present: its imperatives held between contemporaries, for acts with near effects. Modern technology <pb>changes the nature of action</pb>: its effects are cumulative, irreversible and planetary. Hence a new imperative, reformulating <ph id='kant'>Kant</ph>'s, which requires our acts to remain compatible with the permanence of genuine human life on Earth. Future generations cannot today assert their interests or enter into a relation of reciprocity; responsibility therefore rests on the <c>vulnerability</c> of what depends on us, on the model of parents toward a newborn. The pole takes up his formula almost word for word."
+        },
+        "references": [
+          { "fr": "Le Principe responsabilité, ch. I-II", "en": "The Imperative of Responsibility, ch. I-II" },
+          { "fr": "Le Principe responsabilité, ch. IV (le nourrisson, archétype de la responsabilité)", "en": "The Imperative of Responsibility, ch. IV (the newborn as archetype of responsibility)" }
+        ],
+        "quoteId": "agis-de-facon-que-les-effets-jonas",
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "MORAL_SCOPE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [1, 0, 0] },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Contre le dogme moderne selon lequel <pb>aucun devoir ne se tire d'un être</pb>, <ph id='jonas'>Jonas</ph> veut fonder l'éthique en métaphysique, en trois pas. La <c>finalité</c> est réelle dans le vivant ; dans la finalité, l'être affirme sa préférence pour lui-même contre le néant, ce qui fait de la vie une valeur en soi ; et ce qui a de la valeur en soi réclame d'être, ce qui oblige quiconque peut agir sur lui. Le bien n'est pas une préférence humaine, et l'impératif qui en découle vaut indépendamment des cultures. Jonas admet que ce fondement est une thèse métaphysique et non une démonstration : c'est le prix, selon lui, d'une éthique qui ne cède pas au <c>nihilisme</c>.",
+          "en": "Against the modern dogma that <pb>no ought can be derived from an is</pb>, <ph id='jonas'>Jonas</ph> seeks to ground ethics in metaphysics, in three steps. <c>Purposiveness</c> is real in living beings; in purposiveness, being affirms its preference for itself against nothingness, which makes life a value in itself; and what has value in itself demands to be, which places an obligation on whoever can act upon it. The good is not a human preference, and the imperative that follows holds regardless of cultures. Jonas grants that this grounding is a metaphysical thesis rather than a proof: that, in his view, is the price of an ethics that does not give in to <c>nihilism</c>."
+        },
+        "references": [
+          { "fr": "Le Principe responsabilité, ch. II-IV", "en": "The Imperative of Responsibility, ch. II-IV" },
+          { "fr": "Le Phénomène de la vie, « Gnose, existentialisme et nihilisme »", "en": "The Phenomenon of Life, \"Gnosticism, Existentialism, and Nihilism\"" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "CAUSALITY",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0, 1, 0] },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Contre une science moderne qui a banni les causes finales par décision de méthode, <ph id='jonas'>Jonas</ph> soutient que la finalité est réelle dans la nature, et d'abord dans le vivant. Il interprète le <c id='metabolism'>métabolisme</c> comme une finalité immanente : l'organisme maintient son identité de forme en renouvelant sans cesse sa matière, et il a ainsi un intérêt pour son propre être. Notre expérience, où des fins meuvent effectivement le corps, interdit de tenir la finalité pour une illusion. Il ne restaure ni la force vitale du <ax id='CAUSALITY' pole='VITALISM'>vitalisme</ax>, ni une téléologie cosmique de dessein.",
+          "en": "Against a modern science that banished final causes by methodological decision, <ph id='jonas'>Jonas</ph> argues that purposiveness is real in nature, and first of all in living beings. He interprets <c id='metabolism'>metabolism</c> as an immanent purposiveness: the organism maintains its identity of form by ceaselessly renewing its matter, and thereby has an interest in its own being. Our experience, in which ends really move the body, forbids treating purposiveness as an illusion. He restores neither the life-force of <ax id='CAUSALITY' pole='VITALISM'>vitalism</ax> nor a cosmic teleology of design."
+        },
+        "references": [
+          { "fr": "Le Principe responsabilité, ch. III (« Des fins et de leur place dans l'être »)", "en": "The Imperative of Responsibility, ch. III (\"On Ends and Their Status in Reality\")" },
+          { "fr": "Le Phénomène de la vie (1966)", "en": "The Phenomenon of Life (1966)" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "TECHNOLOGY",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": 0.65 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "<ph id='jonas'>Jonas</ph> part d'un constat : l'agir humain a changé de nature. Ses effets sont cumulatifs, irréversibles, planétaires, et la technique moderne est devenue une entreprise sans terme qui pousse l'<c>idéal baconien</c> de domination jusqu'au point où il menace. Il récuse sa neutralité sans prêcher aucun retour en arrière. Sa réponse est méthodologique : une <c id='heuristics-of-fear'>heuristique de la peur</c>, où le mal que nous pouvons nous représenter nous instruit sur le bien à préserver, et une règle de décision qui donne la priorité au pronostic de malheur sur le pronostic de salut dès que <stk>l'existence même de l'humanité</stk> est en jeu. Valeur nettement critique, sans l'extrême d'un refus.",
+          "en": "<ph id='jonas'>Jonas</ph> starts from an observation: human action has changed its nature. Its effects are cumulative, irreversible, planetary, and modern technology has become an endless enterprise that pushes the <c>Baconian ideal</c> of mastery to the point where it threatens. He rejects its neutrality without preaching any return to the past. His answer is methodological: a <c id='heuristics-of-fear'>heuristics of fear</c>, in which the evil we can imagine teaches us about the good to preserve, and a decision rule that gives the prophecy of doom priority over the prophecy of bliss whenever <stk>the very existence of humanity</stk> is at stake. A clearly critical value, short of the extreme of refusal."
+        },
+        "references": [
+          { "fr": "Le Principe responsabilité, préface, ch. I-II", "en": "The Imperative of Responsibility, preface, ch. I-II" },
+          { "fr": "Le Principe responsabilité, ch. V (l'idéal baconien)", "en": "The Imperative of Responsibility, ch. V (the Baconian ideal)" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "HUMAN_PLACE_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0, 1, 0] },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "<ph id='jonas'>Jonas</ph> pose expressément la question que l'éthique ancienne ne pouvait se poser : la <c>biosphère</c>, devenue vulnérable à notre action, est-elle désormais confiée à notre garde ? Sa réponse fait de l'homme le gardien, non le propriétaire, de la nature : la puissance qui la menace est la seule qui puisse la préserver. Cette garde ne fait pas de lui un vivant parmi d'autres, puisqu'il est le seul être capable de responsabilité et que l'impératif premier reste qu'il y ait une humanité. Le pôle du gardiennage est, pour une large part, sa position même.",
+          "en": "<ph id='jonas'>Jonas</ph> explicitly raises the question that ancient ethics could not raise: has the <c>biosphere</c>, now vulnerable to our action, been entrusted to our keeping? His answer makes the human being the guardian, not the owner, of nature: the power that threatens it is the only one that can preserve it. This guardianship does not make the human one living being among others, since it is the only being capable of responsibility and the first imperative remains that there be a humanity. The stewardship pole is, to a large extent, his very position."
+        },
+        "references": [
+          { "fr": "Le Principe responsabilité, ch. I", "en": "The Imperative of Responsibility, ch. I" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "MORAL_CIRCLE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0, 0, 1, 0] },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "<ph id='jonas'>Jonas</ph> juge « au moins pas dénué de sens » de demander si l'état de la nature extra-humaine a un droit moral sur nous, « non seulement pour notre bien, mais pour son propre bien ». Sa réponse ne passe pas par la souffrance, mais par la <c>finalité</c> : dans tout vivant qui poursuit sa fin, l'être dit oui à lui-même, et ce oui est un bien en soi. C'est un fondement biocentrique, non pathocentrique. L'homme garde une priorité, celle du seul sujet de responsabilité, mais <dif>elle ne lui réserve pas la valeur propre</dif>.",
+          "en": "<ph id='jonas'>Jonas</ph> finds it \"at least not senseless\" to ask whether the condition of extra-human nature has a moral claim on us, \"not only for our sake but for its own\". His answer goes not through suffering but through <c>purposiveness</c>: in every living being that pursues its end, being says yes to itself, and that yes is a good in itself. It is a biocentric grounding, not a pathocentric one. The human keeps a priority, that of the sole subject of responsibility, but <dif>it does not reserve intrinsic value to humans</dif>."
+        },
+        "references": [
+          { "fr": "Le Principe responsabilité, ch. I", "en": "The Imperative of Responsibility, ch. I" },
+          { "fr": "Le Principe responsabilité, ch. III-IV", "en": "The Imperative of Responsibility, ch. III-IV" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "HUMAN_ENHANCEMENT",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": 0.85 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Avec les biotechnologies appliquées à l'homme, le pouvoir technique ne s'exerce plus sur des objets mais <stk>sur son propre auteur</stk>. <ph id='jonas'>Jonas</ph> s'oppose au <c>clonage</c> humain au nom d'un « droit à l'ignorance » : il redoute que le clone soit enfermé dans l'attente sociale de reproduire une vie déjà connue, sans supposer que l'identité génétique détermine un destin. Il récuse le projet d'abolir la mort ou de prolonger indéfiniment la vie : la <c>mortalité</c> est le prix de la vie et la condition de son renouvellement par la naissance.",
+          "en": "With biotechnologies applied to human beings, technological power is no longer exercised on objects but <stk>on its own author</stk>. <ph id='jonas'>Jonas</ph> opposes human <c>cloning</c> in the name of a \"right to ignorance\": he fears the clone would be trapped in the social expectation of reproducing a life already known, without assuming that genetic identity determines a destiny. He rejects the project of abolishing death or prolonging life indefinitely: <c>mortality</c> is the price of life and the condition of its renewal through birth."
+        },
+        "references": [
+          { "fr": "Le Principe responsabilité, ch. I", "en": "The Imperative of Responsibility, ch. I" },
+          { "fr": "« Laßt uns einen Menschen klonieren », in Technik, Medizin und Ethik (1985)", "en": "\"Laßt uns einen Menschen klonieren\", in Technik, Medizin und Ethik (1985)" },
+          { "fr": "« The Burden and Blessing of Mortality » (1992)", "en": "\"The Burden and Blessing of Mortality\" (1992)" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "MORAL_SOURCE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0, 1, 0, 0] },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "<ph id='jonas'>Jonas</ph> distingue deux côtés de l'éthique : un côté objectif, le fondement de l'obligation, qu'il cherche dans l'être même et non dans la volonté de Dieu, dont il refuse de faire dépendre une éthique destinée à tous ; et un côté subjectif, le <c>sentiment de responsabilité</c>, qui motive la volonté sans fonder l'obligation. Le rapprochement avec la loi de la raison tient à la découverte rationnelle d'une exigence universelle ; mais <dif>le fondement est ontologique, non une loi formelle que la raison se donnerait</dif>, et c'est contre <ph id='kant'>Kant</ph> qu'il fait naître le sentiment de l'objet, du bien qui réclame d'être.",
+          "en": "<ph id='jonas'>Jonas</ph> distinguishes two sides of ethics: an objective side, the ground of obligation, which he seeks in being itself and not in the will of God, on which he refuses to make an ethics meant for all depend; and a subjective side, the <c>feeling of responsibility</c>, which moves the will without grounding the obligation. The kinship with the law of reason lies in the rational discovery of a universal demand; but <dif>the ground is ontological, not a formal law that reason would give itself</dif>, and it is against <ph id='kant'>Kant</ph> that he has the feeling arise from the object, from the good that demands to be."
+        },
+        "references": [
+          { "fr": "Le Principe responsabilité, ch. II, IV", "en": "The Imperative of Responsibility, ch. II, IV" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "EMOTIONS",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": 0.5 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "<ph id='jonas'>Jonas</ph> donne à un affect un rôle cognitif : dans l'<c id='heuristics-of-fear'>heuristique de la peur</c>, nous apprenons ce qu'il faut préserver en nous représentant ce que nous craignons de perdre, car nous savons bien plus tôt ce que nous ne voulons pas que ce que nous voulons. Cette peur n'est pas une panique mais un devoir, cultivé par l'imagination des effets lointains ; et le <c>sentiment de responsabilité</c> est la condition pour que l'obligation devienne motif d'agir. Le jugement reste rationnel, mais le sentiment n'en est plus l'ennemi.",
+          "en": "<ph id='jonas'>Jonas</ph> gives an affect a cognitive role: in the <c id='heuristics-of-fear'>heuristics of fear</c>, we learn what must be preserved by picturing what we fear to lose, for we know much sooner what we do not want than what we want. This fear is not panic but a duty, cultivated by imagining distant effects; and the <c>feeling of responsibility</c> is the condition for obligation to become a motive for action. Judgment remains rational, but feeling is no longer its enemy."
+        },
+        "references": [
+          { "fr": "Le Principe responsabilité, ch. II, IV", "en": "The Imperative of Responsibility, ch. II, IV" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "PROBLEM_OF_EVIL",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0, 1, 0, 0] },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Après Auschwitz, où sa mère fut assassinée, <ph id='jonas'>Jonas</ph> juge qu'on ne peut plus tenir ensemble la toute-puissance, la bonté et l'intelligibilité de Dieu. Il renonce à la <c>toute-puissance</c> : dans un « mythe » qu'il présente comme une hypothèse, Dieu s'est dépouillé de sa puissance en créant le monde pour le laisser être ; il souffre avec lui et ne pouvait intervenir, et c'est désormais à l'homme de l'aider.",
+          "en": "After Auschwitz, where his mother was murdered, <ph id='jonas'>Jonas</ph> judges that God's omnipotence, goodness and intelligibility can no longer be held together. He gives up <c>omnipotence</c>: in a \"myth\" he presents as a hypothesis, God divested himself of his power in creating the world so as to let it be; he suffers with it and could not intervene, and it is now up to human beings to help him."
+        },
+        "references": [
+          { "fr": "Le Concept de Dieu après Auschwitz (conférence 1984, publ. 1987)", "en": "The Concept of God after Auschwitz (lecture 1984, publ. 1987)" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "GOD_EXISTENCE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.5 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Attaché à la tradition juive, <ph id='jonas'>Jonas</ph> refuse pourtant de fonder sa philosophie sur la foi : <w id='imperative-of-responsibility-jonas'>Le Principe responsabilité</w> doit valoir pour tous. Lorsqu'il parle de Dieu, c'est sous la forme d'une spéculation théologique qu'il ne présente pas comme une démonstration. Théisme, donc, tenu à distance de l'argumentation éthique.",
+          "en": "Attached to the Jewish tradition, <ph id='jonas'>Jonas</ph> nonetheless refuses to ground his philosophy in faith: <w id='imperative-of-responsibility-jonas'>The Imperative of Responsibility</w> must hold for everyone. When he speaks of God, it is in the form of a theological speculation he does not present as a proof. Theism, then, kept at a distance from the ethical argument."
+        },
+        "references": [
+          { "fr": "Le Concept de Dieu après Auschwitz (conférence 1984, publ. 1987)", "en": "The Concept of God after Auschwitz (lecture 1984, publ. 1987)" },
+          { "fr": "Le Principe responsabilité, ch. II", "en": "The Imperative of Responsibility, ch. II" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "ESSENCE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.5 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "L'impératif de <ph id='jonas'>Jonas</ph> interdit de mettre en jeu non seulement l'existence mais l'essence de l'homme : il suppose une <c>idée de l'homme</c> à préserver. Dans « Gnose, existentialisme et nihilisme », il lit l'<c id='existentialism'>existentialisme</c> de son maître comme une rupture moderne entre l'homme et la nature, parente du dualisme gnostique : un homme sans nature n'a plus de norme. Cette idée inclut la capacité de responsabilité, sans s'y réduire : elle concerne aussi les conditions d'une existence humaine qui ne serait pas entièrement fabriquée.",
+          "en": "<ph id='jonas'>Jonas</ph>'s imperative forbids staking not only the existence but the essence of man: it presupposes an <c>idea of man</c> to be preserved. In \"Gnosticism, Existentialism, and Nihilism\", he reads his teacher's <c id='existentialism'>existentialism</c> as a modern rupture between man and nature, akin to Gnostic dualism: a human being without a nature no longer has a norm. This idea includes the capacity for responsibility without being reduced to it: it also concerns the conditions of a human existence that would not be wholly manufactured."
+        },
+        "references": [
+          { "fr": "Le Principe responsabilité, ch. I-II", "en": "The Imperative of Responsibility, ch. I-II" },
+          { "fr": "Le Phénomène de la vie, « Gnose, existentialisme et nihilisme »", "en": "The Phenomenon of Life, \"Gnosticism, Existentialism, and Nihilism\"" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "MACHINE_MIND",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": 0.8 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Dans « Cybernetics and Purpose: A Critique » (1953), <ph id='jonas'>Jonas</ph> conteste que les machines à rétroaction aient des buts : la <c>cybernétique</c> confond le comportement orienté vers une fin, observé du dehors, avec la poursuite d'une fin par un être à qui quelque chose importe. Une torpille à tête chercheuse n'a besoin de rien ; seul un être qui peut cesser d'être et lutte pour persister a des fins. L'inférence vers la machine pensante est solide, mais reste une inférence.",
+          "en": "In \"Cybernetics and Purpose: A Critique\" (1953), <ph id='jonas'>Jonas</ph> disputes that feedback machines have goals: <c>cybernetics</c> confuses goal-directed behaviour, observed from outside, with the pursuit of an end by a being to whom something matters. A target-seeking torpedo needs nothing; only a being that can cease to be and struggles to persist has ends. The inference to the thinking machine is solid, but remains an inference."
+        },
+        "references": [
+          { "fr": "Le Phénomène de la vie, « Cybernetics and Purpose: A Critique » (1953)", "en": "The Phenomenon of Life, \"Cybernetics and Purpose: A Critique\" (1953)" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "CONSCIOUSNESS_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0, 0, 1, 0, 0] },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "<ph id='jonas'>Jonas</ph> veut dépasser l'alternative du matérialisme et de l'idéalisme, qu'il tient pour les deux débris d'un dualisme brisé, par une ontologie de l'<c>unité psychophysique</c> : intériorité et extériorité sont deux faces de l'organisme, et l'esprit n'est pas un ingrédient étranger à la matière organisée. Contre l'<c id='epiphenomenalism'>épiphénoménisme</c>, il soutient que cette intériorité agit réellement. <dif>Le rapprochement avec un monisme à double aspect est une reconstruction</dif> : l'expérience de l'organisme est le point de départ de son interprétation de l'intériorité.",
+          "en": "<ph id='jonas'>Jonas</ph> seeks to overcome the alternative between materialism and idealism, which he regards as the two fragments of a shattered dualism, through an ontology of <c>psychophysical unity</c>: inwardness and outwardness are two faces of the organism, and mind is not an ingredient foreign to organized matter. Against <c id='epiphenomenalism'>epiphenomenalism</c>, he argues that this inwardness really acts. <dif>The kinship with dual-aspect monism is a reconstruction</dif>: the experience of the organism is the starting point of his interpretation of inwardness."
+        },
+        "references": [
+          { "fr": "Le Phénomène de la vie, introduction", "en": "The Phenomenon of Life, introduction" },
+          { "fr": "Puissance ou impuissance de la subjectivité ? (1981)", "en": "Macht oder Ohnmacht der Subjektivität? (1981)" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "REDUCTION_EMERGENCE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": 0.7 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "<ph id='jonas'>Jonas</ph> renverse l'ordre de l'explication réductionniste : le supérieur éclaire l'inférieur, et le tout organique, qui conserve sa forme en changeant sa matière, n'est pas la somme de ses constituants. Il se distingue d'un <c>émergentisme</c> pur : l'intériorité n'apparaît pas d'un coup au sommet, elle se différencie par degrés depuis le premier vivant.",
+          "en": "<ph id='jonas'>Jonas</ph> reverses the order of reductionist explanation: the higher illuminates the lower, and the organic whole, which keeps its form while changing its matter, is not the sum of its constituents. He differs from a pure <c>emergentism</c>: inwardness does not appear all at once at the top, it differentiates by degrees from the first living being onward."
+        },
+        "references": [
+          { "fr": "Le Phénomène de la vie (1966)", "en": "The Phenomenon of Life (1966)" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "POLITICAL_IDEAL",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": 0.5 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "<w id='imperative-of-responsibility-jonas'>Le Principe responsabilité</w> se conclut par une critique de l'<c>utopie</c>, visant le marxisme et <ph id='bloch'>Ernst Bloch</ph>, auteur du <w id='principle-of-hope-bloch'>Principe espérance</w> : l'idéal d'un homme enfin accompli par l'abondance technique est dangereux, car il justifie la croissance illimitée de la puissance, et faux, car l'homme authentique a toujours déjà existé, dans ses grandeurs et ses misères. <ph id='jonas'>Jonas</ph> oppose à l'utopie une politique de la préservation, tout en maintenant un impératif non négociable.",
+          "en": "<w id='imperative-of-responsibility-jonas'>The Imperative of Responsibility</w> ends with a critique of <c>utopia</c>, aimed at Marxism and at <ph id='bloch'>Ernst Bloch</ph>, author of <w id='principle-of-hope-bloch'>The Principle of Hope</w>: the ideal of a humanity at last fulfilled by technological abundance is dangerous, since it justifies the unlimited growth of power, and false, since authentic man has always already existed, in his greatness and his misery. <ph id='jonas'>Jonas</ph> sets against utopia a politics of preservation, while keeping a non-negotiable imperative."
+        },
+        "references": [
+          { "fr": "Le Principe responsabilité, ch. V-VI", "en": "The Imperative of Responsibility, ch. V-VI" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "SCIENCE_PLACE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": 0.5 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "<ph id='jonas'>Jonas</ph> respecte la science, dont la biologie nourrit sa philosophie, mais conteste qu'elle soit le seul savoir légitime : l'éthique exige une métaphysique, et le <c>tabou</c> moderne qui la frappe est un préjugé, non un résultat. La science, qui a banni de la nature les fins et les valeurs par décision de méthode, ne peut ni fonder ni réfuter le bien.",
+          "en": "<ph id='jonas'>Jonas</ph> respects science, whose biology nourishes his philosophy, but disputes that it is the only legitimate knowledge: ethics requires a metaphysics, and the modern <c>taboo</c> against it is a prejudice, not a result. Science, which banished ends and values from nature by methodological decision, can neither ground nor refute the good."
+        },
+        "references": [
+          { "fr": "Le Principe responsabilité, ch. II", "en": "The Imperative of Responsibility, ch. II" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "REALITY_NATURE",
+      "status": "REJECTS_ALTERNATIVE",
+      "note": {
+        "fr": "Jonas récuse explicitement les trois options : matérialisme et idéalisme sont pour lui les deux moitiés d'un dualisme cartésien éclaté, et il cherche une ontologie qui les dépasse, à partir de l'organisme (Le Phénomène de la vie, introduction).",
+        "en": "Jonas explicitly rejects all three options: materialism and idealism are for him the two halves of a shattered Cartesian dualism, and he seeks an ontology that goes beyond them, starting from the organism (The Phenomenon of Life, introduction)."
+      }
+    }
+  ],
+  "structuring": [
+    {
+      "axisId": "FUTURE_GENERATIONS",
+      "thesis": {
+        "fr": "La puissance technique étend notre responsabilité à des hommes qui n'existent pas encore et ne peuvent rien réclamer : le premier impératif est qu'il y ait une humanité, et jamais son existence ne doit être mise en jeu.",
+        "en": "Technological power extends our responsibility to people who do not yet exist and can claim nothing: the first imperative is that there be a humanity, and its existence must never be put at stake."
+      }
+    },
+    {
+      "axisId": "MORAL_SCOPE",
+      "thesis": {
+        "fr": "Le devoir se fonde dans l'être : là où un vivant poursuit sa fin, l'être se préfère au néant, et ce qui a une valeur en soi réclame d'exister, que nous le voulions ou non.",
+        "en": "Duty is grounded in being: wherever a living thing pursues its end, being prefers itself to nothingness, and what has value in itself demands to exist, whether we will it or not."
+      }
+    },
+    {
+      "axisId": "CAUSALITY",
+      "thesis": {
+        "fr": "La finalité n'est pas une projection de l'esprit sur une nature muette : dès le <c id='metabolism'>métabolisme</c>, l'organisme poursuit sa propre fin, et l'esprit humain prolonge cette intériorité au lieu d'y faire exception.",
+        "en": "Purposiveness is not a projection of the mind onto a mute nature: from <c id='metabolism'>metabolism</c> onward, the organism pursues its own end, and the human mind extends this inwardness instead of being an exception to it."
+      }
+    },
+    {
+      "axisId": "TECHNOLOGY",
+      "thesis": {
+        "fr": "Notre agir a changé de nature : ses effets sont devenus cumulatifs, irréversibles et planétaires, et quand nous ne savons plus les prévoir, le pronostic de malheur doit l'emporter sur le pronostic de salut.",
+        "en": "Our action has changed its nature: its effects have become cumulative, irreversible and planetary, and when we can no longer foresee them, the prophecy of doom must prevail over the prophecy of bliss."
+      }
+    },
+    {
+      "axisId": "HUMAN_PLACE_NATURE",
+      "thesis": {
+        "fr": "L'homme n'est ni le maître de la nature ni un vivant parmi d'autres : seul être capable de responsabilité, il devient le gardien d'une nature que sa puissance a rendue vulnérable.",
+        "en": "The human being is neither the master of nature nor one living thing among others: as the only being capable of responsibility, it becomes the guardian of a nature its power has made vulnerable."
+      }
+    }
+  ],
+  "identity": {
+    "wikidata": "Q57255",
+    "wikipedia": {
+      "fr": "https://fr.wikipedia.org/wiki/Hans_Jonas",
+      "en": "https://en.wikipedia.org/wiki/Hans_Jonas"
+    }
+  },
+  "updatedAt": "2026-10-11T00:00:00.000Z",
   "validation": { "method": "NOT_VALIDATED" }
 }

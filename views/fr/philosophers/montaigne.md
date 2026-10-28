@@ -18,6 +18,26 @@ Moraliste et magistrat français de la Renaissance, né au château de Montaigne
 
 ## Positions
 
+### [Place de l'homme dans la nature](../axes/human-place-nature.md)
+
+*positionné · inférable · majeure*
+
+Membre parmi d'autres 80% · Gardiennage 20%
+
+« La présomption est notre maladie naturelle et originelle. » Dans l'« Apologie », Montaigne attaque l'orgueil par lequel l'homme s'attribue un rang supérieur et distribue à son gré leurs facultés aux autres animaux : ses comparaisons avec les bêtes mettent en défaut les preuves de notre exception, plutôt qu'elles n'établissent une zoologie. Dans « De la cruauté », il reconnaît des obligations envers les autres créatures, tout en distinguant la justice due aux hommes de « la grâce et la bénignité » dues aux bêtes : « il y a quelque commerce entre elles et nous, et quelque obligation mutuelle ». Ce décentrement le rapproche du « membre parmi d'autres », sans établir d'égalité morale de tous les vivants.
+
+*Sources : Essais, II, 12 (« Apologie de Raymond Sebond ») · Essais, II, 11 (« De la cruauté »)*
+
+### [Rapport à la technique](../axes/technology.md)
+
+*positionné · inférable · mineure*
+
+Techno-critique 60% · Techno-optimisme 40%
+
+Dans « Des cannibales », Montaigne récuse la prétention de l'art à surpasser la nature : « ce n'est pas raison que l'art gagne le point d'honneur sur notre grande et puissante mère Nature », et nos artifices abâtardissent ce qu'ils prétendent améliorer. Dans « Des coches », il reconnaît l'industrie et le jugement des peuples du Nouveau Monde, contre la prétention européenne à une supériorité globale : les armes et les chevaux ont servi à « tant de villes rasées, tant de nations exterminées… pour la négociation des perles et du poivre ». Cette critique de la présomption et de l'usage le place un peu au-delà de l'instrumentalisme, sans condamnation générale des techniques.
+
+*Sources : Essais, I, 31 (« Des cannibales ») · Essais, III, 6 (« Des coches »)*
+
 ### [Rapport à la certitude](../axes/certainty.md)
 
 *positionné · explicite dans les textes · majeure*

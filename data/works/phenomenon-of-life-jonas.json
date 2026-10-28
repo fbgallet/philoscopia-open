@@ -1,0 +1,12 @@
+{
+  "id": "phenomenon-of-life-jonas",
+  "title": { "fr": "Le Phénomène de la vie", "en": "The Phenomenon of Life" },
+  "originalTitle": "The Phenomenon of Life: Toward a Philosophical Biology",
+  "author": { "slug": "jonas", "name": { "fr": "Hans Jonas", "en": "Hans Jonas" } },
+  "year": 1966,
+  "presentation": {
+    "fr": "Recueil d'essais publié en anglais en 1966 (version allemande en 1973), où <ph id='jonas'>Jonas</ph> élabore une « biologie philosophique » : il lit dans le <c id='metabolism'>métabolisme</c> une première liberté et une finalité, conteste la cybernétique et voit dans l'existentialisme un nouveau dualisme, parent de la gnose antique.",
+    "en": "A collection of essays published in English in 1966 (German version in 1973), in which <ph id='jonas'>Jonas</ph> works out a \"philosophical biology\": he reads in <c id='metabolism'>metabolism</c> a first freedom and purposiveness, challenges cybernetics and sees in existentialism a new dualism, akin to ancient Gnosticism."
+  },
+  "updatedAt": "2026-10-11T00:00:00.000Z"
+}

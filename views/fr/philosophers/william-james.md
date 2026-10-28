@@ -17,6 +17,7 @@ Philosophe et psychologue américain, figure du pragmatisme : il mesure la véri
 ## Influence sur
 
 - **[John Dewey](../philosophers/dewey.md)** (prolonge) : [Dewey](../philosophers/dewey.md) prolonge le [pragmatisme](../movements/pragmatism.md) de [James](../philosophers/william-james.md), l'accent sur l'expérience et les conséquences des idées, en l'orientant vers la logique de l'enquête, l'éducation et la démocratie.
+- **[Nishida](../philosophers/nishida.md)** (réinterprète) : L'[expérience pure](../glossary/pure-experience.md) de [Nishida](../philosophers/nishida.md) part de l'empirisme radical de [William James](../philosophers/william-james.md), qu'il cite dès ses premières pages, mais il en fait le principe unique d'où procèdent sujet et objet, dans une perspective nourrie par le zen.
 
 ---
 

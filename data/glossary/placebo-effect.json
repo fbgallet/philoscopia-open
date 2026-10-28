@@ -1,0 +1,27 @@
+{
+  "id": "placebo-effect",
+  "term": {
+    "fr": "Effet placebo",
+    "en": "Placebo effect"
+  },
+  "aliases": {
+    "fr": [
+      "placebo"
+    ],
+    "en": [
+      "placebo"
+    ]
+  },
+  "definition": {
+    "fr": "L'effet placebo désigne l'amélioration que produit un traitement sans principe actif, par l'attente, le rituel du soin, la relation avec celui qui soigne. Il est réel, surtout sur la douleur, l'anxiété ou la fatigue, mais il ne fait pas reculer une tumeur ou une infection. C'est pourquoi un remède n'est jugé efficace que s'il fait mieux qu'un placebo, dans des essais où ni le patient ni le médecin ne savent qui reçoit quoi.",
+    "en": "The placebo effect is the improvement produced by a treatment with no active ingredient, through expectation, the ritual of care, the relationship with the caregiver. It is real, especially for pain, anxiety or fatigue, but it does not shrink a tumour or cure an infection. That is why a remedy is judged effective only if it does better than a placebo, in trials where neither patient nor doctor knows who receives what."
+  },
+  "relatedAxes": [
+    "SCIENTIFIC_METHOD"
+  ],
+  "relatedTerms": [
+    "regression-to-the-mean",
+    "pseudo-science"
+  ],
+  "updatedAt": "2026-10-29T00:00:00.000Z"
+}

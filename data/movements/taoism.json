@@ -17,8 +17,12 @@
     "fr": "Tradition née dans la Chine des Royaumes combattants (Ve-IIIe siècle avant notre ère), une époque de guerres et d'effondrement de l'ordre qui poussait chaque école à proposer un remède au désordre. Le taoïsme dit philosophique se constitue autour de deux textes : le <w>Dao De Jing (Tao Te King)</w>, recueil aphoristique attribué à <ph>Laozi</ph> (Lao-tseu), figure peut-être légendaire, et le <w>Zhuangzi</w> (Tchouang-tseu), suite de récits, paraboles et dialogues d'une grande liberté d'invention. Là où le <mv id='confucianism'>confucianisme</mv> de <ph id='confucius'>Confucius</ph> répondait à la crise par les rites, l'étude et le devoir social, le taoïsme cherche le salut dans le retrait, le naturel et la critique de l'artifice. Recueilli plus tard avec le <w>Liezi</w>, ce courant nourrira à partir des Han un taoïsme religieux, avec ses divinités, ses techniques de longue vie et ses recherches d'immortalité, distinct de la veine philosophique première. Sa sensibilité a profondément imprégné la poésie, la peinture et la médecine chinoises, le chan (l'ancêtre du zen) en Asie, et nourrit aujourd'hui en Occident un imaginaire de la simplicité et de l'accord avec la nature.",
     "en": "A tradition born in the China of the Warring States (5th-3rd century BCE), an age of war and the collapse of order that pressed each school to offer a cure for the disorder. So-called philosophical Taoism forms around two texts: the <w>Dao De Jing (Tao Te Ching)</w>, an aphoristic collection ascribed to <ph>Laozi</ph> (Lao Tzu), a perhaps legendary figure, and the <w>Zhuangzi</w> (Chuang Tzu), a sequence of tales, parables and dialogues of great inventive freedom. Where the <mv id='confucianism'>Confucianism</mv> of <ph id='confucius'>Confucius</ph> answered the crisis with ritual, study and social duty, Taoism seeks deliverance in withdrawal, naturalness and the critique of artifice. Gathered later alongside the <w>Liezi</w>, this current would feed, from the Han onward, a religious Taoism with its deities, its longevity techniques and its quest for immortality, distinct from the original philosophical vein. Its sensibility deeply shaped Chinese poetry, painting and medicine, the Chan school (the ancestor of Zen) across Asia, and today nourishes in the West an imaginary of simplicity and accord with nature."
   },
+  "area": "EAST_ASIA",
   "period": {
-    "from": -400
+    "from": -500,
+    "to": 312,
+    "approx": true,
+    "afterlife": "LIVING"
   },
   "keyFigures": [
     {

@@ -14,6 +14,7 @@
   "nationality": { "fr": "Russe", "en": "Russian" },
   "birth": 1821,
   "death": 1881,
+  "language": "rus",
   "movements": [],
   "updatedAt": "2026-07-13T00:00:00.000Z",
   "validation": { "method": "NOT_VALIDATED" }

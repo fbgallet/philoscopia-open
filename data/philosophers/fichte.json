@@ -12,6 +12,7 @@
   "nationality": { "fr": "Allemand", "en": "German" },
   "birth": 1762,
   "death": 1814,
+  "language": "deu",
   "movements": ["german-idealism"],
   "updatedAt": "2026-07-03T00:00:00.000Z",
   "validation": { "method": "NOT_VALIDATED" }

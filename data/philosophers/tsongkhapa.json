@@ -1,0 +1,30 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "tsongkhapa",
+  "stub": true,
+  "name": { "fr": "Tsongkhapa", "en": "Tsongkhapa" },
+  "fullName": { "fr": "Tsongkhapa Lobsang Drakpa", "en": "Tsongkhapa Lobsang Drakpa" },
+  "aliases": {
+    "fr": [
+      "Tsong-kha-pa"
+    ],
+    "en": [
+      "Tsong-kha-pa"
+    ]
+  },
+  "summary": {
+    "fr": "Réformateur tibétain, fondateur de l'école Gelugpa, qui fait de la <mv id='madhyamaka'>Madhyamaka</mv> le sommet du cursus monastique.",
+    "en": "Tibetan reformer, founder of the Gelug school, who made <mv id='madhyamaka'>Madhyamaka</mv> the summit of the monastic curriculum."
+  },
+  "birth": 1357,
+  "death": 1419,
+  "nationality": { "fr": "Tibétain", "en": "Tibetan" },
+  "language": "bod",
+  "movements": [
+    "madhyamaka"
+  ],
+  "updatedAt": "2026-10-09T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

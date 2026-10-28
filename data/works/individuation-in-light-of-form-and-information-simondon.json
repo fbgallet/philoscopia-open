@@ -1,0 +1,11 @@
+{
+  "id": "individuation-in-light-of-form-and-information-simondon",
+  "title": { "fr": "L'Individuation à la lumière des notions de forme et d'information", "en": "Individuation in Light of Notions of Form and Information" },
+  "author": { "slug": "simondon", "name": { "fr": "Gilbert Simondon", "en": "Gilbert Simondon" } },
+  "year": 2005,
+  "presentation": {
+    "fr": "Thèse principale soutenue en 1958, publiée d'abord en deux volumes partiels (<w>L'Individu et sa genèse physico-biologique</w>, 1964 ; <w>L'Individuation psychique et collective</w>, 1989, l'année de la mort de l'auteur), puis intégralement en 2005. <ph id='simondon'>Simondon</ph> y critique le substantialisme et le schème hylémorphique, et pense l'individu à partir de l'<c id='individuation'>individuation</c> : d'un être <c id='preindividual'>préindividuel</c> et <c id='metastability'>métastable</c> naissent l'individu physique, le vivant, le psychique et le <c id='transindividual'>transindividuel</c>.",
+    "en": "The principal thesis, defended in 1958, first published in two partial volumes (<w>L'Individu et sa genèse physico-biologique</w>, 1964; <w>L'Individuation psychique et collective</w>, 1989, the year of the author's death), then in full in 2005. <ph id='simondon'>Simondon</ph> criticizes substantialism and the hylomorphic schema, and thinks the individual from <c id='individuation'>individuation</c>: from a <c id='preindividual'>preindividual</c> and <c id='metastability'>metastable</c> being arise the physical individual, the living, the psychic and the <c id='transindividual'>transindividual</c>."
+  },
+  "updatedAt": "2026-10-11T00:00:00.000Z"
+}

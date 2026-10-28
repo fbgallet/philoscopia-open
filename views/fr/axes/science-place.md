@@ -40,10 +40,13 @@ La science est notre connaissance la plus rigoureuse, mais elle procède par con
 ## Arguments
 
 - *Scientisme* · pour : [L'argument de la réussite](../arguments/scientism-self-correction.md)
+- *Scientisme* · contre : [Croire la science sur parole](../arguments/scientism-faith-in-science-objection.md)
 - *Scientisme* · contre : [La branche sciée](../arguments/scientism-self-refutation-objection.md)
 - *Pluralisme épistémique* · pour : [Contre la méthode](../arguments/pluralism-against-method.md)
+- *Pluralisme épistémique* · contre : [Au chevet du malade](../arguments/pluralism-bedside-objection.md)
 - *Pluralisme épistémique* · contre : [Si tout se vaut, rien ne se sait](../arguments/pluralism-no-demarcation-objection.md)
 - *Rationalisme critique* · pour : [Conjectures et réfutations](../arguments/critical-rationalism-conjectures.md)
+- *Rationalisme critique* · contre : [Le critère d'après coup](../arguments/critical-rationalism-hindsight-objection.md)
 - *Rationalisme critique* · contre : [Aucune réfutation n'est pure](../arguments/critical-rationalism-holism-objection.md)
 
 ## Relations de fondation
@@ -53,6 +56,8 @@ La science est notre connaissance la plus rigoureuse, mais elle procède par con
 - *[Place de la science](../axes/science-place.md) : Scientisme* fonde *[Rapport à la technique](../axes/technology.md) : Techno-optimisme* : Si la science est la forme la plus haute du savoir, appelée à résoudre les problèmes humains, alors la technique qui en découle est le grand levier du progrès. Le scientisme fonde le techno-optimisme : de Bacon à [Comte](../philosophers/comte.md), on attend du savoir appliqué qu'il recule le besoin et la souffrance, et l'on tient ses revers pour des défis appelant plus de technique encore.
 
 ## Citations
+
+> « La science ne pense pas. » — [Heidegger](../philosophers/heidegger.md), Qu'appelle-t-on penser ?, cours 1951-1952
 
 > « Le vêtement d'idées des sciences mathématiques fait prendre pour l'être vrai ce qui n'est qu'une méthode. » — [Husserl](../philosophers/husserl.md), La Crise des sciences européennes, §9
 

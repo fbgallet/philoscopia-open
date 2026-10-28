@@ -14,6 +14,8 @@
   "nationality": { "fr": "Anglais", "en": "English" },
   "birth": 1588,
   "death": 1679,
+  "language": "eng",
+  "otherLanguages": ["lat"],
   "movements": [],
   "updatedAt": "2026-06-21T00:00:00.000Z",
   "validation": { "method": "NOT_VALIDATED" }

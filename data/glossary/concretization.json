@@ -1,0 +1,12 @@
+{
+  "id": "concretization",
+  "term": { "fr": "Concrétisation", "en": "Concretization" },
+  "definition": {
+    "fr": "Chez <ph id='simondon'>Simondon</ph>, le processus par lequel un objet technique évolue d'un état abstrait, où chaque pièce remplit une seule fonction et où les éléments se gênent, vers un état concret, où chaque structure remplit plusieurs fonctions et où les éléments deviennent solidaires. Dans le moteur thermique, les ailettes de la culasse, d'abord ajoutées pour le refroidissement, finissent aussi par la renforcer mécaniquement : une même structure remplit deux fonctions. Ce n'est pas un simple gain de rendement : c'est une cohérence interne croissante, qui rapproche l'objet technique du mode d'existence de l'objet naturel sans l'y confondre.",
+    "en": "In <ph id='simondon'>Simondon</ph>, the process by which a technical object evolves from an abstract state, in which each part fulfils a single function and the elements hinder one another, toward a concrete state, in which each structure fulfils several functions and the elements become interdependent. In the combustion engine, the fins on the cylinder head, first added for cooling, come also to reinforce it mechanically: one structure fulfils two functions. It is not a mere gain in efficiency but a growing internal coherence, which brings the technical object closer to the mode of existence of the natural object without merging with it."
+  },
+  "relatedAxes": ["TECHNOLOGY"],
+  "relatedTerms": ["associated-milieu"],
+  "figure": { "slug": "simondon", "name": { "fr": "Gilbert Simondon", "en": "Gilbert Simondon" } },
+  "updatedAt": "2026-10-11T00:00:00.000Z"
+}

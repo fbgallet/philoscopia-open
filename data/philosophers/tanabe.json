@@ -1,0 +1,22 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "tanabe",
+  "stub": true,
+  "name": { "fr": "Tanabe", "en": "Tanabe" },
+  "fullName": { "fr": "Tanabe Hajime", "en": "Tanabe Hajime" },
+  "summary": {
+    "fr": "Successeur et critique de <ph id='nishida'>Nishida</ph> à l'<mv id='kyoto-school'>école de Kyoto</mv>, auteur d'une « philosophie comme métanoétique » écrite au sortir de la guerre.",
+    "en": "Successor and critic of <ph id='nishida'>Nishida</ph> at the <mv id='kyoto-school'>Kyoto School</mv>, author of a \"philosophy as metanoetics\" written at the end of the war."
+  },
+  "birth": 1885,
+  "death": 1962,
+  "nationality": { "fr": "Japonais", "en": "Japanese" },
+  "language": "jpn",
+  "movements": [
+    "kyoto-school"
+  ],
+  "updatedAt": "2026-10-09T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

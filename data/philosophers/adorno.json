@@ -11,6 +11,7 @@
   "nationality": { "fr": "Allemand", "en": "German" },
   "birth": 1903,
   "death": 1969,
+  "language": "deu",
   "movements": [],
   "updatedAt": "2026-07-22T00:00:00.000Z",
   "validation": { "method": "NOT_VALIDATED" }

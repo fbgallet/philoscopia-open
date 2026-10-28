@@ -1,0 +1,193 @@
+{
+  "kind": "CHARACTER",
+  "id": "roy-batty",
+  "name": {
+    "fr": "Roy Batty",
+    "en": "Roy Batty"
+  },
+  "tagline": {
+    "fr": "Le chef des réplicants en fuite, un modèle de combat à qui il reste peu de temps.",
+    "en": "The leader of the fugitive replicants, a combat model with little time left."
+  },
+  "summary": {
+    "fr": "Réplicant conçu pour le combat dans les colonies de l'espace, Batty est revenu clandestinement sur Terre avec d'autres réplicants en fuite. Comme tous ceux de son modèle, il ne doit vivre que quatre ans. Le film le présente d'abord comme une menace, puis lui donne peu à peu la parole : celle d'un être qui a vu ce qu'aucun humain n'a vu, et qui refuse qu'on dispose de sa vie.",
+    "en": "A replicant built for combat in the off-world colonies, Batty has slipped back to Earth with other runaway replicants. Like all of his model, he is built to live only four years. The film first presents him as a threat, then gradually gives him a voice: that of a being who has seen what no human has seen, and who refuses to let others dispose of his life."
+  },
+  "work": {
+    "fictionId": "blade-runner",
+    "title": {
+      "fr": "Blade Runner",
+      "en": "Blade Runner"
+    },
+    "author": {
+      "fr": "Ridley Scott",
+      "en": "Ridley Scott"
+    },
+    "year": 1982,
+    "medium": "FILM"
+  },
+  "entries": [
+    {
+      "axisId": "ESSENCE",
+      "status": "POSITIONED",
+      "practicedValue": {
+        "kind": "scalar",
+        "value": 0.7
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Batty a été conçu pour une fonction, le combat, et pour une durée, quatre ans. Il refuse l'une et l'autre : il est revenu sur Terre pour obtenir davantage de vie, contre le plan de ceux qui l'ont fait. <spo>Son dernier acte est le contraire de sa fonction : ce modèle de combat sauve l'homme venu le tuer.</spo> Il se fait par ses actes plutôt qu'il ne reste ce pour quoi on l'a fait, ce qui le place nettement du côté de l'<ax id='ESSENCE' pole='EXISTENTIALISM'>existentialisme</ax>, au sens où <c id='existentialism'>l'existence précède l'essence</c>. <dif>Une réserve : tout ce qu'il accomplit, il l'accomplit avec les capacités qu'on lui a données, et le film ne dit pas si ce dépassement vient de lui ou de sa conception.</dif>",
+          "en": "Batty was designed for a function, combat, and for a span, four years. He refuses both: he has come back to Earth to get more life, against the plan of those who made him. <spo>His last act is the opposite of his function: this combat model saves the man who came to kill him.</spo> He makes himself through his acts rather than remaining what he was made for, which places him clearly on the side of <ax id='ESSENCE' pole='EXISTENTIALISM'>existentialism</ax>, in the sense that <c id='existentialism'>existence precedes essence</c>. <dif>One caveat: whatever he achieves, he achieves with the abilities he was given, and the film does not say whether this surpassing comes from him or from his design.</dif>"
+        },
+        "references": [
+          {
+            "fr": "Le briefing de Bryant : un modèle de combat",
+            "en": "Bryant's briefing: a combat model"
+          },
+          {
+            "fr": "La rencontre avec Tyrell",
+            "en": "The meeting with Tyrell"
+          },
+          {
+            "fr": "Le toit",
+            "en": "The rooftop"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "MORAL_CIRCLE",
+      "status": "POSITIONED",
+      "practicedValue": {
+        "kind": "weights",
+        "weights": [
+          0,
+          1,
+          0,
+          0
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Batty affirme que des êtres fabriqués comptent : lui, les siens, leur peur et leurs morts. Son égard va d'abord aux siens, et il tue les humains qui se trouvent sur son chemin. <spo>Sur le toit, il fait éprouver à Deckard la peur que vivent les réplicants, puis le sauve : il reconnaît dans son chasseur un être qui a peur comme lui.</spo> Le critère qui se dégage de ses actes n'est pas l'origine mais la capacité de souffrir et de craindre. Le <ax id='MORAL_CIRCLE' pole='PATHOCENTRISM'>pathocentrisme</ax> est le pôle le plus proche ; l'étendre à tout être sensible, au-delà des personnes humaines ou fabriquées, serait une extrapolation.",
+          "en": "Batty insists that manufactured beings count: himself, his kind, their fear and their deaths. His concern goes first to his own, and he kills the humans who stand in his way. <spo>On the roof he makes Deckard feel the fear replicants live with, then saves him: he recognizes in his hunter a being who is afraid as he is.</spo> The criterion that emerges from his acts is not origin but the capacity to suffer and to fear. <ax id='MORAL_CIRCLE' pole='PATHOCENTRISM'>Pathocentrism</ax> is the closest pole; extending it to every sentient being, beyond human or manufactured persons, would be an extrapolation."
+        },
+        "references": [
+          {
+            "fr": "La rencontre avec Tyrell",
+            "en": "The meeting with Tyrell"
+          },
+          {
+            "fr": "Le toit",
+            "en": "The rooftop"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "DEATH",
+      "status": "POSITIONED",
+      "practicedValue": {
+        "kind": "weights",
+        "weights": [
+          0,
+          0.45,
+          0,
+          0.55
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Pendant presque tout le film, Batty refuse la fin qu'on lui a fixée : il revient sur Terre pour obtenir plus de vie, et la consolation qu'on lui offre ne l'apaise pas. C'est la <ax id='DEATH' pole='REVOLT'>révolte contre la mort</ax>. <spo>Quand Tyrell lui répond que c'est impossible, il le tue. Puis, sur le toit, il cesse de lutter : il dit que tout ce qu'il a vu va se perdre, comme des larmes dans la pluie, et qu'il est temps de mourir. Ce consentement final ne renie pas la révolte : il regrette ce que la mort va détruire. Mais c'est en regardant sa fin en face qu'il accomplit son geste le plus libre, ce qui le rapproche de l'<ax id='DEATH' pole='BEING_TOWARD_DEATH'>être-pour-la-mort</ax>, sans en avoir la portée : chez <ph id='heidegger'>Heidegger</ph>, <c id='being-toward-death'>l'être-pour-la-mort</c> engage toute l'existence, pas seulement ses derniers instants.</spo>",
+          "en": "For almost the whole film, Batty refuses the end that was set for him: he comes back to Earth to get more life, and the consolation he is offered does not appease him. This is <ax id='DEATH' pole='REVOLT'>revolt against death</ax>. <spo>When Tyrell tells him it cannot be done, he kills him. Then, on the roof, he stops fighting: he says that everything he has seen will be lost, like tears in rain, and that it is time to die. This final consent does not disown the revolt: he regrets what death will destroy. But it is in facing his end that he performs his freest act, which brings him close to <ax id='DEATH' pole='BEING_TOWARD_DEATH'>being-toward-death</ax>, without its full scope: for <ph id='heidegger'>Heidegger</ph>, <c id='being-toward-death'>being-toward-death</c> shapes a whole existence, not just its last moments.</spo>"
+        },
+        "references": [
+          {
+            "fr": "La rencontre avec Tyrell",
+            "en": "The meeting with Tyrell"
+          },
+          {
+            "fr": "Le monologue sur le toit",
+            "en": "The monologue on the rooftop"
+          }
+        ],
+        "strength": "STRONG",
+        "argumentIds": [
+          "death-lucid-revolt"
+        ]
+      }
+    },
+    {
+      "axisId": "POLITICAL_LIBERTY",
+      "status": "POSITIONED",
+      "practicedValue": {
+        "kind": "weights",
+        "weights": [
+          0,
+          0,
+          1,
+          0
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Batty et les siens appartiennent à ceux qui les emploient : bien ou mal traités, ils restent à la merci d'autrui, jusque dans la durée de leur vie. <spo>Quand il fait éprouver la peur à Deckard, il nomme lui-même sa condition : vivre dans la peur, c'est ce que vit un esclave.</spo> La liberté qu'il réclame est celle de ne plus dépendre du pouvoir arbitraire d'un autre, la <ax id='POLITICAL_LIBERTY' pole='NON_DOMINATION'>non-domination</ax>, plus que la simple absence d'entraves.",
+          "en": "Batty and his kind belong to those who use them: treated well or badly, they remain at someone else's mercy, even in how long they get to live. <spo>When he makes Deckard feel fear, he names his condition himself: living in fear is what it is to be a slave.</spo> The freedom he claims is to no longer depend on another's arbitrary power, <ax id='POLITICAL_LIBERTY' pole='NON_DOMINATION'>non-domination</ax>, more than the mere absence of obstacles."
+        },
+        "references": [
+          {
+            "fr": "Le toit",
+            "en": "The rooftop"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "VIOLENCE",
+      "status": "POSITIONED",
+      "practicedValue": {
+        "kind": "weights",
+        "weights": [
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "epistemicStatus": "EXTRAPOLATED",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Batty use de la violence pour se libérer d'une condition qu'il n'a pas choisie, ce qui la rapproche d'une <ax id='VIOLENCE' pole='EMANCIPATORY_VIOLENCE'>violence émancipatrice</ax>, le pôle le plus proche. <dif>Mais elle déborde ce but, et aucun pôle de l'axe ne rend compte de ce surplus : intimidation, vengeance et cruauté envers ceux qui se trouvent sur son chemin.</dif> <spo>Il tue son créateur, brise les doigts de Deckard pour venger Zhora et Pris, puis renonce à le tuer et le sauve, sans que ce geste fasse de lui un adversaire de toute violence.</spo>",
+          "en": "Batty uses violence to free himself from a condition he did not choose, which brings it close to <ax id='VIOLENCE' pole='EMANCIPATORY_VIOLENCE'>emancipatory violence</ax>, the nearest pole. <dif>But it overflows that aim, and no pole of the axis accounts for the excess: intimidation, revenge and cruelty toward whoever stands in his way.</dif> <spo>He kills his maker, breaks Deckard's fingers to avenge Zhora and Pris, then gives up killing him and saves him, without that act making him an opponent of all violence.</spo>"
+        },
+        "references": [
+          {
+            "fr": "La rencontre avec Tyrell",
+            "en": "The meeting with Tyrell"
+          },
+          {
+            "fr": "La traque dans l'immeuble de Sebastian",
+            "en": "The hunt in Sebastian's building"
+          }
+        ],
+        "strength": "WEAK"
+      }
+    }
+  ],
+  "updatedAt": "2026-10-22T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

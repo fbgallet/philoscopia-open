@@ -1,0 +1,31 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "al-ghazali",
+  "stub": true,
+  "name": { "fr": "al-Ghazālī", "en": "al-Ghazālī" },
+  "fullName": { "fr": "Abū Ḥāmid al-Ghazālī", "en": "Abū Ḥāmid al-Ghazālī" },
+  "aliases": {
+    "fr": [
+      "Algazel"
+    ],
+    "en": [
+      "Algazel"
+    ]
+  },
+  "summary": {
+    "fr": "Théologien et mystique, auteur de <w>L'Incohérence des philosophes</w>, la critique la plus célèbre de la <mv id='falsafa'>falsafa</mv>, et d'un récit de sa propre crise de doute.",
+    "en": "Theologian and mystic, author of <w>The Incoherence of the Philosophers</w>, the most famous critique of <mv id='falsafa'>falsafa</mv>, and of an account of his own crisis of doubt."
+  },
+  "birth": 1058,
+  "death": 1111,
+  "nationality": { "fr": "Persan", "en": "Persian" },
+  "language": "ara",
+  "otherLanguages": ["fas"],
+  "movements": [
+    "kalam"
+  ],
+  "updatedAt": "2026-10-09T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

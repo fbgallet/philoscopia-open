@@ -6,11 +6,12 @@
   "mode": "REACTS_AGAINST",
   "strength": "MEDIUM",
   "note": {
-    "fr": "Élève de <ph id='heidegger'>Heidegger</ph>, <ph id='jonas'>Jonas</ph> rompt avec son existentialisme indifférent à la nature pour fonder une ontologie du <c>vivant</c> et une éthique de la <c>responsabilité</c> envers les générations futures.",
-    "en": "A pupil of <ph id='heidegger'>Heidegger</ph>, <ph id='jonas'>Jonas</ph> breaks with his existentialism, indifferent to nature, to found an ontology of the <c>living</c> and an ethics of <c>responsibility</c> toward future generations."
+    "fr": "Élève de <ph id='heidegger'>Heidegger</ph>, <ph id='jonas'>Jonas</ph> rompt avec son existentialisme indifférent à la nature pour fonder une ontologie du <c>vivant</c> et une éthique de la <c id='responsibility-principle'>responsabilité</c> envers les générations futures. Dans « Gnose, existentialisme et nihilisme », il rapproche l'existence jetée dans un monde sans normes du dualisme gnostique ; dans « Heidegger et la théologie » (1964), il conteste l'usage théologique de la pensée tardive de son maître, après avoir vécu son engagement de 1933 comme une trahison.",
+    "en": "A pupil of <ph id='heidegger'>Heidegger</ph>, <ph id='jonas'>Jonas</ph> breaks with his existentialism, indifferent to nature, to found an ontology of the <c>living</c> and an ethics of <c id='responsibility-principle'>responsibility</c> toward future generations. In \"Gnosticism, Existentialism, and Nihilism\" he likens existence thrown into a normless world to Gnostic dualism; in \"Heidegger and Theology\" (1964) he contests the theological use of his teacher's late thought, having experienced his 1933 commitment as a betrayal."
   },
   "sources": [
+    { "fr": "Jonas, « Heidegger et la théologie » (1964)", "en": "Jonas, \"Heidegger and Theology\" (1964)" },
     { "fr": "Jonas, Le Principe responsabilité (1979)", "en": "Jonas, The Imperative of Responsibility (1979)" }
   ],
-  "updatedAt": "2026-06-24T00:00:00.000Z"
+  "updatedAt": "2026-10-11T00:00:00.000Z"
 }

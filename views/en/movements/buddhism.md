@@ -2,7 +2,7 @@
 
 # Buddhism
 
-*500 BCE – ?*
+*c. 450 BCE – c. 1419, living tradition*
 
 Buddhism arises from the awakening of Siddhārtha Gautama, the Buddha, around the fifth century BCE in the Ganges plain, and from the community of practitioners, the monastic community (saṅgha), that he gathered around him. The tradition is carried by the Three Jewels, the Buddha, his teaching (the Dharma), and the saṅgha, and by a vast canon of discourses first recited and later written down. Addressing one underlying problem, the [unsatisfactoriness (dukkha)](../glossary/dukkha.md) that pervades every existence bound to the cycle of rebirth, the teaching spread across Asia and branched into great vehicles: the Theravāda of the South, the Mahāyāna of China, Korea, and Japan, and the Tibetan Vajrayāna. It was deepened by [Nāgārjuna](../philosophers/nagarjuna.md), thinker of emptiness, and Dōgen, master of Zen, while keeping a shared doctrinal and practical core.
 
@@ -226,8 +226,11 @@ A being itself subject to becoming and suffering cannot be the source of salvati
 
 ## Influence on
 
+- **[Pyrrho](../philosophers/pyrrho.md)** (reinterprets) : [Pyrrho](../philosophers/pyrrho.md) accompanied Alexander to India and met "gymnosophists" there. A kinship between his suspension of judgment and Indian thought, even [Buddhism](../movements/buddhism.md), is defended by some historians and disputed by others: the link remains a hypothesis.
 - **[Schopenhauer](../philosophers/schopenhauer.md)** (reinterprets) : [Schopenhauer](../philosophers/schopenhauer.md) finds in [Buddhism](../movements/buddhism.md) an Eastern confirmation of his thought: the centrality of suffering, detachment, and the denial of the will to live as a path of deliverance.
 - **[Vedānta (Advaita)](../movements/vedanta.md)** (reinterprets) : [Advaita Vedānta](../movements/vedanta.md) is forged in a close debate with [Buddhism](../movements/buddhism.md): [Gauḍapāda](../philosophers/gaudapada.md) and then [Śaṅkara](../philosophers/shankara.md) take up the dialectical tools of emptiness and the two truths, only to recast them in the non-dualism of the Upaniṣads, where the absolute is not void but Brahman. So close was the proximity that rivals called Śaṅkara a “crypto-Buddhist”.
+- **[Neo-Confucianism](../movements/neo-confucianism.md)** (reacts against) : [Neo-Confucianism](../movements/neo-confucianism.md) defined itself against [Buddhism](../movements/buddhism.md), accused of taking the world as empty and of fleeing family and political duties. Yet it borrowed Buddhism's questions about mind, nature and meditation, to which it gave Confucian answers.
+- **[Nyāya](../movements/nyaya.md)** (reacts against) : For a thousand years [Nyāya](../movements/nyaya.md) engaged in a sustained controversy with the logicians of [Buddhism](../movements/buddhism.md), Dignāga and Dharmakīrti: against no-self it defends a substantial self; against the theory of [exclusion](../glossary/apoha.md) ([apoha](../glossary/apoha.md)), real universals; against the momentariness of things, their duration.
 
 ---
 

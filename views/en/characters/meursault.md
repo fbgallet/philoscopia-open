@@ -81,7 +81,7 @@ His conduct is never governed by rational deliberation but by bodily states: fat
 
 **Practiced** : Freeing ourselves from the fear 60% · Living in view of one's death 40%
 
-<spo>In his cell, Meursault tames his death: since everyone is condemned, dying at thirty or at seventy matters little, and he dismisses any afterlife, wishing only for a life in which he could remember this one. This lucid confrontation with execution, far from breaking him, makes him open to the happiness of having lived.</spo>
+(Spoilers : In his cell, Meursault tames his death: since everyone is condemned, dying at thirty or at seventy matters little, and he dismisses any afterlife, wishing only for a life in which he could remember this one. This lucid confrontation with execution, far from breaking him, makes him open to the happiness of having lived.)
 
 *Sources : Part II, chapter 5*
 

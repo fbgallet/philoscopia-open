@@ -1,0 +1,23 @@
+{
+  "id": "proportionality-bias",
+  "term": {
+    "fr": "Biais de proportionnalité",
+    "en": "Proportionality bias"
+  },
+  "aliases": {
+    "fr": [],
+    "en": []
+  },
+  "definition": {
+    "fr": "Le biais de proportionnalité est la tendance à supposer qu'un événement de grande ampleur doit avoir une cause de même ampleur. Qu'un président soit tué par un tireur isolé, ou une princesse dans un accident de la route, paraît trop petit pour l'événement : on cherche une cause à sa mesure.",
+    "en": "Proportionality bias is the tendency to assume that an event of great magnitude must have a cause of equal magnitude. That a president should be killed by a lone gunman, or a princess in a road accident, seems too small for the event: we look for a cause to match it."
+  },
+  "relatedAxes": [
+    "TRUTH_VALUE"
+  ],
+  "relatedTerms": [
+    "confirmation-bias",
+    "intentionality-bias"
+  ],
+  "updatedAt": "2026-10-28T00:00:00.000Z"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "skandha",
+  "term": {
+    "fr": "Skandha (agrégats)",
+    "en": "Skandha (aggregates)"
+  },
+  "aliases": {
+    "fr": [
+      "skandhas",
+      "cinq agrégats"
+    ],
+    "en": [
+      "skandhas",
+      "five aggregates"
+    ]
+  },
+  "definition": {
+    "fr": "Les cinq agrégats par lesquels le bouddhisme analyse l'expérience d'une personne sont la forme matérielle, les sensations, les perceptions, les formations mentales et la conscience. Aucun ne doit être identifié à un soi permanent, et leur réunion ne constitue pas davantage un tel soi : c'est l'enseignement du <c id='anatta'>non-soi</c>. Une personne peut néanmoins être désignée conventionnellement en dépendance de ces agrégats. La <mv id='madhyamaka'>Madhyamaka</mv> refuse aussi de leur attribuer une <c id='svabhava'>nature propre</c> et indépendante.",
+    "en": "The five aggregates through which Buddhism analyses a person's experience are material form, sensations, perceptions, mental formations and consciousness. None of them is to be identified with a permanent self, and their combination does not make up such a self either: this is the teaching of <c id='anatta'>non-self</c>. A person can nonetheless be conventionally designated in dependence on these aggregates. <mv id='madhyamaka'>Madhyamaka</mv> also refuses to ascribe to them an independent <c id='svabhava'>intrinsic nature</c>."
+  },
+  "relatedAxes": [
+    "SELF_NATURE"
+  ],
+  "relatedTerms": [
+    "anatta",
+    "svabhava"
+  ],
+  "positions": [
+    {
+      "axisId": "SELF_NATURE",
+      "poleId": "BUNDLE_THEORY"
+    }
+  ],
+  "updatedAt": "2026-10-10T00:00:00.000Z"
+}

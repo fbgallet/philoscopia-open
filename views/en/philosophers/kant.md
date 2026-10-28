@@ -18,6 +18,56 @@ German Enlightenment philosopher, a professor at Königsberg he never left, a pi
 
 ## Positions
 
+### [Humanity's place in nature](../axes/human-place-nature.md)
+
+*positioned · inferable · minor*
+
+Mastery 80% · Stewardship 20%
+
+In Kant's teleology, the human being can be regarded as the "ultimate end" of nature, because human beings set themselves ends and use other beings as means; culture develops this capacity to pursue ends in general, but does not by itself make them morally good. Only the human being as subject of the moral law is a final end, dependent on no further end. Kant also condemns the wanton destruction of natural beauty, but as a violation of a duty to oneself: it weakens the disposition to love something independently of any use, a disposition that prepares the way for morality, and breaches no duty owed to nature itself.
+
+*Sources : Critique of the Power of Judgment, §83-84 · Metaphysics of Morals, Doctrine of Virtue, §17 (AA VI, 443)*
+
+### [Relation to technology](../axes/technology.md)
+
+*positioned · inferable · minor*
+
+Techno-optimism 60% · Techno-criticism 40%
+
+In Kant's account of history, "unsocial sociability" drives the development of human talents and skills: without this antagonism, human beings would have remained as good-natured as the sheep they tend. Kant sees this as genuine but morally incomplete progress: "We are cultivated to a high degree by art and science. We are civilised to the point of excess in all kinds of social courtesies and proprieties. But we are still a long way from the point where we could consider ourselves morally mature." Skill supplies means for all kinds of ends; it says nothing of their worth.
+
+*Sources : Idea for a Universal History with a Cosmopolitan Purpose (1784), fourth and seventh propositions (tr. H. B. Nisbet, Kant: Political Writings) · Groundwork of the Metaphysics of Morals, II (imperatives of skill)*
+
+### [Status of emotions](../axes/emotions.md)
+
+*positioned · inferable · major*
+
+The primacy of reason 85% · The primacy of feeling 15%
+
+Kant refuses to ground moral obligation in the inclinations, because these depend on our particular affective constitution and cannot legislate for every rational being: against the **moral sense** theorists, notably Hutcheson, he insists that the law must hold independently of our inclinations. The example of the benefactor whose sympathy has dried up isolates duty as the motive, without forbidding sympathy from accompanying a good action. **Respect** is the exception to any simple opposition of reason and feeling: it is the felt effect of the moral law on a finite being. Kant also distinguishes the affects, which interrupt reflection for a moment, from the passions, which establish the lasting dominance of inclination over reason.
+
+*Sources : Groundwork of the Metaphysics of Morals, I (AA IV, 397-401); II (AA IV, 442-443) · Critique of Practical Reason, Analytic, ch. III · Anthropology from a Pragmatic Point of View, §73-74 and §80*
+
+### [The source of morality](../axes/moral-source.md)
+
+*positioned · explicit in the texts · major*
+
+The law of reason 100%
+
+Morality rests neither on God's will nor on feeling, but on the **autonomy** of practical reason, which gives itself its own law. Any ground other than reason's self-legislation, whether happiness, perfection or a divine command, would make morality **heteronomous**: one would obey for the sake of something other than duty. God is postulated only to make possible, in the highest good, the union of virtue with proportionate happiness, never to ground moral obligation.
+
+*Sources : Groundwork of the Metaphysics of Morals, II (autonomy and heteronomy) · Critique of Practical Reason, Dialectic*
+
+### [Distributive justice](../axes/distributive-justice.md)
+
+*positioned · inferable · minor*
+
+Libertarianism 55% · Egalitarianism 45%
+
+Kant refuses to let a government impose its conception of happiness on citizens: a paternalistic power would be "the greatest despotism". Yet he does not reduce the state to protecting holdings acquired outside any public condition, since mine and thine become conclusive only in the civil state. He thus authorises taxing the propertied to support those who cannot provide for themselves, for the sake of the people's own preservation. This is redistribution as relief: it aims neither at equal fortunes nor at offsetting inequalities of birth and talent.
+
+*Sources : Doctrine of Right, §41-49 and General Remark C · On the Common Saying: That May Be Correct in Theory, II*
+
 ### [The meaning of suffering](../axes/suffering-meaning.md)
 
 *positioned · inferable · minor*
@@ -382,6 +432,7 @@ Dare to know: leaving the minority for which one is oneself responsible requires
 
 - **[German Idealism](../movements/german-idealism.md)** (reinterprets) : German Idealism is born from [Kant](../philosophers/kant.md) and against him: it takes up his transcendental turn, the subject that constitutes experience, but refuses the unknowable thing in itself at which Kant halted reason. [Hegel](../philosophers/hegel.md) treats that limit as an inconsistency and transforms criticism into absolute idealism, in which reason reaches the totality of the real; he contests the fixity of the Kantian oppositions, appearance and thing in itself, by integrating them into the dialectical movement of Spirit. Kant, for his part, had explicitly disowned this overcoming.
 - **[Hegel](../philosophers/hegel.md)** (continues) : [Hegel](../philosophers/hegel.md) inherits from [Kant](../philosophers/kant.md) the unity of the subject and the antinomies of reason, but reproaches him with the unknowable thing-in-itself, a residue of dualism, and the merely subjective status of the categories: what Kant took for the limits of reason, Hegel makes the dialectical motor of the real itself.
+- **[Jonas](../philosophers/jonas.md)** (reinterprets) : [Jonas](../philosophers/jonas.md) reformulates [Kant](../philosophers/kant.md)'s [categorical imperative](../glossary/categorical-imperative.md) for the technological age: no longer the consistency of the maxim, but the compatibility of the effects of action with the permanence of humanity. He also contests its ground, a formal law of reason, and its horizon, limited to contemporaries.
 - **[Charles Sanders Peirce](../philosophers/peirce.md)** (reinterprets) : [Peirce](../philosophers/peirce.md) reads [Kant](../philosophers/kant.md) closely and works through him at length: he recasts the table of categories and the architectonic of the first *[Critique](../works/critique-of-pure-reason-kant.md)* into his own triad (Firstness, Secondness, Thirdness) and his realism about universals. Kant remains the philosopher from whom he thinks, even where he corrects him.
 - **[Rawls](../philosophers/rawls.md)** (continues) : [Rawls](../philosophers/rawls.md) claims a political revival of [Kant](../philosophers/kant.md)'s moral constructivism: the original position and the veil of ignorance recast the Kantian demand to treat each person as an end and to ground universalisable principles.
 - **[Romanticism](../movements/romanticism.md)** (reinterprets) : [Kant](../philosophers/kant.md)'s third Critique arms Romanticism: his theory of [genius](../glossary/genie.md), to whom « nature gives the rule to art », his analysis of the [sublime](../glossary/sublime.md) and his productive imagination become the bedrock of Romantic aesthetics. Romanticism also extends the momentum of post-Kantian idealism, while overstepping the limit Kant set to reason: it claims to reach, through art and intuition, the very absolute Kant declared unknowable.

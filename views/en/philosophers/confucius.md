@@ -18,6 +18,16 @@ An itinerant master of Spring-and-Autumn China (sixth to fifth century BCE), bor
 
 ## Positions
 
+### [Moral circle](../axes/moral-circle.md)
+
+*positioned · inferable · minor*
+
+Anthropocentrism 90% · Pathocentrism 10%
+
+When the stables burned, the Master asked whether anyone was hurt, and did not ask about the horses: on the traditional reading, care for persons comes before all else. The Analects locate [ren](../glossary/ren.md) primarily in human relationships: the disciple Youzi names filial piety and respect for one's elders as the root of its practice. That priority does not rule out restraint toward animals: the Master fished with a line, not a net, and did not shoot at roosting birds.
+
+*Sources : Analects, X (the stable fire; numbering varies across editions) · Analects, I, 2; VII, 27*
+
 ### [The meaning of suffering](../axes/suffering-meaning.md)
 
 *positioned · explicit in the texts · minor*

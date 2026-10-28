@@ -17,6 +17,16 @@ An English jurist and reformer of the late Enlightenment, founder of classical [
 
 ## Positions
 
+### [Relation to authority](../axes/authority.md)
+
+*positioned · inferable · minor*
+
+Authority 75% · Anarchism 25%
+
+Bentham rejects allegedly pre-institutional "natural and imprescriptible rights" as "nonsense upon stilts": legal rights presuppose rules recognised and enforced by a political authority. Yet that authority is legitimate only in proportion to its utility, and obedience ceases to be justified once its harms outweigh those of resistance. His programme of codification and reform aims to make power accountable and useful, not to abolish coercive institutions.
+
+*Sources : A Fragment on Government (1776), ch. I · Anarchical Fallacies (written c. 1795; French adaptation by Dumont 1816; English text 1843)*
+
 ### [The meaning of suffering](../axes/suffering-meaning.md)
 
 *positioned · explicit in the texts · minor*

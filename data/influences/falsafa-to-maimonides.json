@@ -1,0 +1,17 @@
+{
+  "id": "falsafa-to-maimonides",
+  "from": { "kind": "MOVEMENT", "slug": "falsafa" },
+  "to": { "kind": "PHILOSOPHER", "slug": "maimonides" },
+  "directness": "ATTESTED",
+  "mode": "CONTINUES",
+  "strength": "STRONG",
+  "note": {
+    "fr": "<ph id='maimonides'>Maïmonide</ph> pense dans le cadre de la <mv id='falsafa'>falsafa</mv> : il recommande <ph id='al-farabi'>al-Fārābī</ph> avant tout autre auteur et reprend sa conception du prophète comme philosophe doué d'une imagination parfaite.",
+    "en": "<ph id='maimonides'>Maimonides</ph> thinks within the framework of <mv id='falsafa'>falsafa</mv>: he recommends <ph id='al-farabi'>al-Fārābī</ph> above every other author and takes up his conception of the prophet as a philosopher endowed with a perfect imagination."
+  },
+  "sources": [
+    { "fr": "Maïmonide, Lettre à Samuel ibn Tibbon", "en": "Maimonides, Letter to Samuel ibn Tibbon" },
+    { "fr": "Maïmonide, Guide des égarés, II, 36-38", "en": "Maimonides, Guide of the Perplexed, II.36-38" }
+  ],
+  "updatedAt": "2026-10-09T00:00:00.000Z"
+}

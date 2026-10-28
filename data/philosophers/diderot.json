@@ -12,6 +12,7 @@
   "birth": 1713,
   "death": 1784,
   "nationality": { "fr": "Français", "en": "French" },
+  "language": "fra",
   "movements": ["enlightenment"],
   "updatedAt": "2026-06-25T00:00:00.000Z",
   "validation": { "method": "NOT_VALIDATED" }

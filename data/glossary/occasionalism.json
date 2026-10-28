@@ -1,0 +1,27 @@
+{
+  "id": "occasionalism",
+  "term": {
+    "fr": "Occasionnalisme",
+    "en": "Occasionalism"
+  },
+  "aliases": {
+    "fr": [
+      "occasionnaliste",
+      "causes occasionnelles"
+    ],
+    "en": [
+      "occasionalist",
+      "occasional causes"
+    ]
+  },
+  "definition": {
+    "fr": "L'occasionnalisme soutient que les choses créées n'ont pas de pouvoir causal autonome : Dieu produit l'effet à l'occasion de ce que nous appelons sa cause. Dans une importante tradition <mv>ashʿarite</mv>, ce n'est donc pas le feu qui brûle le coton, mais Dieu qui crée la combustion lors de leur contact. <ph id='al-ghazali'>Al-Ghazālī</ph> critique la nécessité du lien causal, mais l'interprétation de sa position comme un occasionnalisme strict reste <dif>discutée</dif>. Une doctrine occasionnaliste se développe aussi chez <ph>Malebranche</ph> au XVIIe siècle, tandis que le rapprochement avec <ph id='hume'>Hume</ph> porte sur la critique de la nécessité causale, non sur une théologie commune.",
+    "en": "Occasionalism holds that created things have no autonomous causal power: God produces the effect on the occasion of what we call its cause. In an important <mv>Ashʿarite</mv> tradition, then, it is not fire that burns cotton, but God who creates the burning when the two meet. <ph id='al-ghazali'>Al-Ghazālī</ph> criticizes the necessity of the causal link, but reading his position as strict occasionalism remains <dif>debated</dif>. An occasionalist doctrine also develops in <ph>Malebranche</ph> in the seventeenth century, while the comparison with <ph id='hume'>Hume</ph> bears on the critique of causal necessity, not on any shared theology."
+  },
+  "relatedAxes": [
+    "CAUSALITY",
+    "TRANSCENDENCE"
+  ],
+  "relatedTerms": [],
+  "updatedAt": "2026-10-10T00:00:00.000Z"
+}

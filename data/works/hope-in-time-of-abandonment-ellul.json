@@ -1,0 +1,11 @@
+{
+  "id": "hope-in-time-of-abandonment-ellul",
+  "title": { "fr": "L'Espérance oubliée", "en": "Hope in Time of Abandonment" },
+  "author": { "slug": "ellul", "name": { "fr": "Jacques Ellul", "en": "Jacques Ellul" } },
+  "year": 1972,
+  "presentation": {
+    "fr": "Essai théologique où <ph id='ellul'>Ellul</ph> décrit un temps où Dieu semble se taire et oppose à l'espoir, confiance que les choses s'arrangeront, l'<c>espérance</c>, qui naît quand il n'y a plus d'espoir et se traduit en action.",
+    "en": "A theological essay in which <ph id='ellul'>Ellul</ph> describes a time when God seems silent, and sets against optimism, the confidence that things will work out, <c>hope</c>, which arises when there is nothing left to expect and translates into action."
+  },
+  "updatedAt": "2026-10-11T00:00:00.000Z"
+}

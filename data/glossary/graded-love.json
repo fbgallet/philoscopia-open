@@ -1,0 +1,33 @@
+{
+  "id": "graded-love",
+  "term": {
+    "fr": "Amour gradué",
+    "en": "Graded love"
+  },
+  "aliases": {
+    "fr": [
+      "amour différencié"
+    ],
+    "en": [
+      "love with distinctions"
+    ]
+  },
+  "definition": {
+    "fr": "Dans la tradition <mv id='confucianism'>confucéenne</mv>, l'idée que l'affection et les devoirs s'étendent par cercles, des proches vers les lointains : on doit plus à ses parents qu'aux étrangers, sans que ceux-ci soient exclus. <ph id='mencius'>Mencius</ph> la défend contre le <c id='jian-ai'>souci de tous</c> prôné par <ph id='mozi'>Mozi</ph> : aimer tout le monde de la même façon reviendrait à ne plus honorer son père. Les débats contemporains sur la <ax id='PARTIALITY'>partialité en morale</ax> en gardent l'écho.",
+    "en": "In the <mv id='confucianism'>Confucian</mv> tradition, the idea that affection and duties extend in circles, from those near to those far: we owe more to our parents than to strangers, without strangers being excluded. <ph id='mencius'>Mencius</ph> defends it against the <c id='jian-ai'>care for all</c> preached by <ph id='mozi'>Mozi</ph>: loving everyone in the same way would mean no longer honouring one's father. Contemporary debates on <ax id='PARTIALITY'>partiality in ethics</ax> still echo it."
+  },
+  "relatedAxes": [
+    "PARTIALITY"
+  ],
+  "relatedTerms": [
+    "jian-ai",
+    "ren"
+  ],
+  "positions": [
+    {
+      "axisId": "PARTIALITY",
+      "poleId": "PARTIALISM"
+    }
+  ],
+  "updatedAt": "2026-10-10T00:00:00.000Z"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "epistemic-dependence",
+  "term": {
+    "fr": "Dépendance épistémique",
+    "en": "Epistemic dependence"
+  },
+  "aliases": {
+    "fr": [
+      "témoignage",
+      "confiance épistémique"
+    ],
+    "en": [
+      "testimony",
+      "epistemic trust"
+    ]
+  },
+  "definition": {
+    "fr": "La dépendance épistémique désigne le fait que l'essentiel de ce que nous savons nous vient du témoignage d'autrui, que nous ne pouvons pas vérifier nous-mêmes : manuels, experts, instruments, proches. Le philosophe John Hardwig (1985) a montré qu'elle n'est pas une faiblesse, mais la condition d'un savoir trop vaste pour un seul esprit. La question n'est donc pas de s'en affranchir, mais de savoir à qui se fier, et pourquoi.",
+    "en": "Epistemic dependence is the fact that most of what we know comes to us through other people's testimony, which we cannot check ourselves: textbooks, experts, instruments, people close to us. The philosopher John Hardwig (1985) showed that it is not a weakness but the condition of a knowledge too vast for a single mind. The question is therefore not how to escape it, but whom to trust, and why."
+  },
+  "relatedAxes": [
+    "EPISTEMIC_JUSTIFICATION"
+  ],
+  "relatedTerms": [
+    "conspiracism"
+  ],
+  "positions": [
+    {
+      "axisId": "EPISTEMIC_JUSTIFICATION",
+      "poleId": "RELIABILISM"
+    }
+  ],
+  "updatedAt": "2026-10-28T00:00:00.000Z"
+}

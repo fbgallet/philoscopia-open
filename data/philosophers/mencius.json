@@ -20,6 +20,8 @@
     "fr": "Chinois",
     "en": "Chinese"
   },
+  "datesApprox": true,
+  "language": "lzh",
   "movements": [
     "confucianism"
   ],

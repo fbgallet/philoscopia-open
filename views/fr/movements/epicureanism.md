@@ -2,7 +2,7 @@
 
 # Épicurisme
 
-*307 av. J.-C. – 200*
+*307 av. J.-C. – 200, tradition vivante*
 
 École fondée à Athènes par [Épicure](../philosophers/epicurus.md) vers 307 avant notre ère, qui enseignait dans le jardin attenant à sa maison, d'où le nom de « Jardin » donné à la communauté, ouverte, fait rare pour l'époque, aux femmes et aux esclaves. Épicure répond à l'angoisse de son siècle, troublé par les guerres et la peur des dieux et de la mort : il bâtit une thérapeutique du bonheur qui adosse l'éthique à une physique, l'atomisme repris de Démocrite. Ses traités étant presque tous perdus, la doctrine se lit surtout dans trois lettres résumées (dont la *[Lettre à Ménécée](../works/letter-to-menoeceus-epicurus.md)*), les *[Maximes capitales](../works/principal-doctrines-epicurus.md)* et, au premier siècle avant notre ère, le grand poème de Lucrèce, *[De la nature des choses](../works/on-the-nature-of-things-lucretius.md)*, qui transmit l'école à Rome. Longtemps caricaturé en apologie de la débauche, l'épicurisme fut redécouvert à la Renaissance et nourrit la tradition du matérialisme moderne, de Gassendi à Marx.
 

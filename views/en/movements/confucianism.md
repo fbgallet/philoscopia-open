@@ -2,7 +2,7 @@
 
 # Confucianism
 
-*500 BCE – ?*
+*c. 500 BCE – c. 104 BCE, living tradition*
 
 A tradition born from the Analects (Lunyu) of [Confucius](../philosophers/confucius.md) (Kongzi) in the China in crisis of the Spring and Autumn period, and anchored in the ancient Classics (the Odes, the Documents, the Rites). In the age of the Warring States two heirs carried it in opposite directions: Mencius held human nature to be spontaneously good, endowed with sprouts of virtue that one need only cultivate, while Xunzi judged it bad and entrusted the rites (li 禮) and education with the task of straightening it. Sidelined and then rehabilitated under the Han, the school became the imperial orthodoxy and the matter of the mandarin examinations, which for centuries recruited officials on their mastery of the Classics. The Neo-Confucianism of the Song era added to it a metaphysics of li (principle) and qi (vital energy). Spread across all of East Asia, in Korea, Japan and Vietnam, this thought answers one constant question: how to remake social and political order through the moral transformation of persons rather than by force.
 
@@ -216,6 +216,9 @@ Governing by law and punishment yields at best subjects who avoid the penalty wi
 
 ## Influence on
 
+- **[The Enlightenment](../movements/enlightenment.md)** (reinterprets) : Translated into Latin by the Jesuits, Confucius became for Wolff, Voltaire and Quesnay the model of an ethics and a government founded on reason without revelation: a weapon of the [Enlightenment](../movements/enlightenment.md) against the authority of the Church.
+- **[Neo-Confucianism](../movements/neo-confucianism.md)** (reinterprets) : [Neo-Confucianism](../movements/neo-confucianism.md) refounded [Confucianism](../movements/confucianism.md) around the Four Books, the Mencius among them, and a line of transmission of the Way (daotong) that leaps over the centuries to the Cheng brothers; the classics received a metaphysical reading they did not have before.
+- **[Mohism](../movements/mohism.md)** (reacts against) : [Mohism](../movements/mohism.md) arose against [Confucianism](../movements/confucianism.md): against its costly rites, court music, long mourning periods and above all its graded love, it set the criterion of common benefit and impartial concern for all.
 - **[Taoism](../movements/taoism.md)** (reacts against) : [Taoism](../movements/taoism.md) partly defines itself against [Confucianism](../movements/confucianism.md): where the latter grounds order in ritual and social virtue, the Zhuangzi mocks propriety and sets against it spontaneity and non-action.
 
 ---

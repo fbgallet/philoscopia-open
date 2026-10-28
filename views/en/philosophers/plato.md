@@ -18,6 +18,26 @@ An Athenian born into an aristocratic family, a disciple of Socrates whose execu
 
 ## Positions
 
+### [Relation to authority](../axes/authority.md)
+
+*positioned · explicit in the texts · major*
+
+Authority 95% · Anarchism 5%
+
+In the Republic, power must go to the philosophers because knowledge of the Good, not the contest of opinions and desires, is what alone can order the city justly. The critique of democracy shows how liberty without measure paves the way for tyranny. The Laws likewise defend the need for a common authority, but place rulers under the law and combine coercion with persuasion, notably through preludes that explain and justify legal requirements.
+
+*Sources : Republic, V, 473c-e; VIII, 562a-564a · Laws, IV, 715c-d and 719e-723d*
+
+### [Explaining nature](../axes/causality.md)
+
+*positioned · explicit in the texts · major*
+
+Finalism 85% · Mechanism 15%
+
+In the Phaedo, Socrates faults Anaxagoras for promising an explanation through [Mind](../glossary/nous.md) without showing why the order of things is the best. His bones and sinews make his presence in prison possible, but do not explain his decision to stay: that would confuse the cause with that without which the cause could not be a cause. The Timaeus develops a cosmology in which intelligence orders the world for the good, while material processes supply **auxiliary causes** and the constraints of necessity.
+
+*Sources : Phaedo, 97b-99c and 99d-102a · Timaeus, 29d-30c, 46c-e and 48a*
+
 ### [Being and becoming](../axes/being-becoming.md)
 
 *positioned · explicit in the texts · major*

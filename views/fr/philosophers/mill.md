@@ -18,6 +18,26 @@ Figure majeure du libéralisme britannique et héritier de l'[utilitarisme](../m
 
 ## Positions
 
+### [Place de l'homme dans la nature](../axes/human-place-nature.md)
+
+*positionné · inférable · mineure*
+
+Maîtrise 55% · Gardiennage 45%
+
+Dans « La Nature », Mill récuse l'idée que l'ordre naturel fournisse une norme morale : l'action utile consiste précisément à en corriger le cours spontané, et la nature commet chaque jour ce que nous punirions chez les hommes. Il ne fait pourtant pas de la transformation productive une fin sans limites : cultiver toute terre susceptible de nourrir les hommes, labourer chaque friche fleurie ou pâture naturelle, exterminer les oiseaux et quadrupèdes non domestiqués comme concurrents pour la nourriture, ce serait sacrifier la beauté et la solitude nécessaires à l'épanouissement humain. Sa défense de l'« état stationnaire » associe ainsi amélioration de la nature et préservation d'espaces sauvages, sans poser d'égalité morale entre toutes les formes de vie.
+
+*Sources : Trois essais sur la religion, « La Nature » (posthume, 1874) · Principes d'économie politique, IV, ch. 6, §2*
+
+### [Rapport à la technique](../axes/technology.md)
+
+*positionné · inférable · mineure*
+
+Techno-optimisme 55% · Techno-critique 45%
+
+Mill attend beaucoup du progrès des arts industriels, mais il doute qu'il ait encore servi ceux qui travaillent : « il est douteux que toutes les inventions mécaniques faites jusqu'ici aient allégé la peine quotidienne d'un seul être humain ». Elles ont permis à une population plus nombreuse de mener la même vie de labeur, à davantage de manufacturiers de faire fortune, et aux classes moyennes de jouir d'un confort accru. Leur bénéfice dépend donc des institutions, de la répartition et des fins : avec des institutions justes et une croissance démographique guidée par la prévoyance, les inventions pourraient enfin produire leur effet légitime, abréger le travail.
+
+*Sources : Principes d'économie politique, IV, ch. 6, §2*
+
 ### [Sens de la souffrance](../axes/suffering-meaning.md)
 
 *positionné · explicite dans les textes · mineure*

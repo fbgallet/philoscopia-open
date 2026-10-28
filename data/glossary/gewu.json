@@ -1,0 +1,28 @@
+{
+  "id": "gewu",
+  "term": {
+    "fr": "Gewu (investigation des choses)",
+    "en": "Gewu (investigation of things)"
+  },
+  "aliases": {
+    "fr": [
+      "investigation des choses"
+    ],
+    "en": [
+      "investigation of things"
+    ]
+  },
+  "definition": {
+    "fr": "Le géwù (格物), expression de la <w>Grande Étude</w> diversement interprétée, désigne chez <ph id='zhu-xi'>Zhu Xi</ph> l'investigation des choses et des affaires afin d'en comprendre le <c id='li-principle'>principe</c>. Par une étude attentive et cumulative, cette compréhension doit parvenir à une pénétration d'ensemble. <ph id='wang-yangming'>Wang Yangming</ph> rapporte l'échec d'une tentative de jeunesse consistant à investiguer des bambous, épisode qu'il relit à la lumière de sa doctrine ultérieure. Il réinterprète alors le gewu comme une rectification morale des affaires auxquelles l'esprit s'applique, plutôt que comme la recherche d'un principe extérieur à celui-ci.",
+    "en": "Géwù (格物), a phrase from the <w>Great Learning</w> read in diverse ways, means for <ph id='zhu-xi'>Zhu Xi</ph> the investigation of things and affairs in order to understand their <c id='li-principle'>principle</c>. Through careful, cumulative study, this understanding is meant to reach an all-embracing insight. <ph id='wang-yangming'>Wang Yangming</ph> recounts a failed attempt in his youth to investigate bamboo, an episode he rereads in the light of his later doctrine. He then reinterprets gewu as a moral rectification of the affairs the mind applies itself to, rather than as a search for a principle outside it."
+  },
+  "relatedAxes": [
+    "METAPHILOSOPHY",
+    "KNOWLEDGE_SOURCE"
+  ],
+  "relatedTerms": [
+    "li-principle",
+    "liangzhi"
+  ],
+  "updatedAt": "2026-10-10T00:00:00.000Z"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "mode-of-existence-of-technical-objects-simondon",
+  "title": { "fr": "Du mode d'existence des objets techniques", "en": "On the Mode of Existence of Technical Objects" },
+  "author": { "slug": "simondon", "name": { "fr": "Gilbert Simondon", "en": "Gilbert Simondon" } },
+  "year": 1958,
+  "presentation": {
+    "fr": "Thèse complémentaire soutenue et publiée en 1958. Contre une culture qui méconnaît les machines, <ph id='simondon'>Simondon</ph> décrit la genèse des objets techniques, leur <c id='concretization'>concrétisation</c> et leur <c id='associated-milieu'>milieu associé</c>, puis la relation de l'homme aux machines, qu'il veut d'organisateur et d'interprète plutôt que de maître ou d'esclave.",
+    "en": "The complementary thesis defended and published in 1958. Against a culture that misunderstands machines, <ph id='simondon'>Simondon</ph> describes the genesis of technical objects, their <c id='concretization'>concretization</c> and their <c id='associated-milieu'>associated milieu</c>, then the human relation to machines, which he wants to be that of an organizer and interpreter rather than a master or a slave."
+  },
+  "updatedAt": "2026-10-11T00:00:00.000Z"
+}

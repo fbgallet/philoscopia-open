@@ -18,6 +18,16 @@ Born at the castle of Roccasecca in the kingdom of Sicily, Thomas entered while 
 
 ## Positions
 
+### [Nature and culture](../axes/human-nature.md)
+
+*positioned · inferable · minor*
+
+Naturalism 75% · Culturalism 25%
+
+Aquinas orders the precepts of [natural law](../glossary/natural-law.md) according to the inclinations humans share with all substances (self-preservation), with other animals (sexual union, rearing offspring), and those proper to them as rational beings (knowing the truth about God, living in society). This structure presupposes a common human nature that orients action, without prescribing a single pattern for all behaviour and institutions. Human laws derive from natural law either as conclusions or as determinations of general rules, which leaves room for a legitimate diversity of social arrangements.
+
+*Sources : Summa Theologiae, I-II, q. 94, a. 2 · Summa Theologiae, I-II, q. 95, a. 2*
+
 ### [Violence](../axes/violence.md)
 
 *positioned · explicit in the texts · minor*

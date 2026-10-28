@@ -1,0 +1,17 @@
+{
+  "kind": "PHILOSOPHER",
+  "stub": true,
+  "id": "canguilhem",
+  "name": { "fr": "Canguilhem", "en": "Canguilhem" },
+  "summary": {
+    "fr": "Philosophe et médecin français : historien des sciences de la vie, il distingue le normal du pathologique et pense le vivant comme créateur de ses propres normes.",
+    "en": "French philosopher and physician: a historian of the life sciences, he distinguished the normal from the pathological and conceived the living being as the creator of its own norms."
+  },
+  "nationality": { "fr": "Français", "en": "French" },
+  "birth": 1904,
+  "death": 1995,
+  "language": "fra",
+  "movements": [],
+  "updatedAt": "2026-10-11T00:00:00.000Z",
+  "validation": { "method": "NOT_VALIDATED" }
+}

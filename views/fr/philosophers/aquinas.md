@@ -18,6 +18,16 @@ Né au château de Roccasecca dans le royaume de Sicile, Thomas entre tout jeune
 
 ## Positions
 
+### [Nature et culture](../axes/human-nature.md)
+
+*positionné · inférable · mineure*
+
+Naturalisme 75% · Culturalisme 25%
+
+Thomas ordonne les préceptes de la [loi naturelle](../glossary/natural-law.md) selon les inclinations que l'homme partage avec toutes les substances (se conserver), avec les animaux (s'unir, élever ses enfants) et qui lui sont propres comme être raisonnable (connaître le vrai sur Dieu, vivre en société). Cette structure suppose une nature humaine commune qui oriente l'action, sans déterminer uniformément toutes les conduites ni toutes les institutions. Les lois humaines dérivent de la loi naturelle soit par conclusion, soit par détermination de règles générales, ce qui laisse place à une diversité légitime des arrangements sociaux.
+
+*Sources : Somme théologique, I-II, q. 94, a. 2 · Somme théologique, I-II, q. 95, a. 2*
+
 ### [La violence](../axes/violence.md)
 
 *positionné · explicite dans les textes · mineure*

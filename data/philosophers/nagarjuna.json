@@ -27,7 +27,10 @@
     "fr": "Indien",
     "en": "Indian"
   },
+  "datesApprox": true,
+  "language": "san",
   "movements": [
+    "madhyamaka",
     "buddhism"
   ],
   "entries": [

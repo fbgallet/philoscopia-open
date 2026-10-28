@@ -395,6 +395,15 @@
       ],
       "additionalProperties": false
     },
+    "area": {
+      "type": "string",
+      "enum": [
+        "EAST_ASIA",
+        "SOUTH_ASIA",
+        "ISLAMIC_WORLD",
+        "WEST"
+      ]
+    },
     "period": {
       "type": "object",
       "properties": {
@@ -407,6 +416,93 @@
           "type": "integer",
           "minimum": -9007199254740991,
           "maximum": 9007199254740991
+        },
+        "approx": {
+          "type": "boolean",
+          "const": true
+        },
+        "afterlife": {
+          "type": "string",
+          "enum": [
+            "LIVING",
+            "HISTORICAL"
+          ]
+        },
+        "phases": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "object",
+                "properties": {
+                  "fr": {
+                    "type": "string",
+                    "minLength": 1
+                  },
+                  "en": {
+                    "type": "string",
+                    "minLength": 1
+                  }
+                },
+                "required": [
+                  "fr",
+                  "en"
+                ],
+                "additionalProperties": false
+              },
+              "from": {
+                "type": "integer",
+                "minimum": -9007199254740991,
+                "maximum": 9007199254740991
+              },
+              "to": {
+                "type": "integer",
+                "minimum": -9007199254740991,
+                "maximum": 9007199254740991
+              },
+              "keyFigures": {
+                "type": "array",
+                "items": {
+                  "type": "object",
+                  "properties": {
+                    "slug": {
+                      "type": "string",
+                      "pattern": "^[a-z0-9][a-z0-9-]*$"
+                    },
+                    "name": {
+                      "type": "object",
+                      "properties": {
+                        "fr": {
+                          "type": "string",
+                          "minLength": 1
+                        },
+                        "en": {
+                          "type": "string",
+                          "minLength": 1
+                        }
+                      },
+                      "required": [
+                        "fr",
+                        "en"
+                      ],
+                      "additionalProperties": false
+                    }
+                  },
+                  "required": [
+                    "slug",
+                    "name"
+                  ],
+                  "additionalProperties": false
+                }
+              }
+            },
+            "required": [
+              "name",
+              "from"
+            ],
+            "additionalProperties": false
+          }
         }
       },
       "additionalProperties": false
@@ -455,6 +551,7 @@
     "entries",
     "updatedAt",
     "validation",
+    "area",
     "keyFigures"
   ],
   "additionalProperties": false

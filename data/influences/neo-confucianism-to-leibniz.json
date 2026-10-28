@@ -1,0 +1,19 @@
+{
+  "id": "neo-confucianism-to-leibniz",
+  "from": { "kind": "MOVEMENT", "slug": "neo-confucianism" },
+  "to": { "kind": "PHILOSOPHER", "slug": "leibniz" },
+  "directness": "ATTESTED",
+  "mode": "REINTERPRETS",
+  "strength": "MEDIUM",
+  "note": {
+    "fr": "<ph id='leibniz'>Leibniz</ph> lit le <c id='li-principle'>li</c> de <ph id='zhu-xi'>Zhu Xi</ph> à travers les traités des missionnaires Longobardo et Sainte-Marie, qui y voyaient un matérialisme, et y reconnaît au contraire une théologie naturelle proche de la sienne, preuve à ses yeux que la raison peut atteindre Dieu sans révélation.",
+    "en": "<ph id='leibniz'>Leibniz</ph> read <ph id='zhu-xi'>Zhu Xi</ph>'s <c id='li-principle'>li</c> through the treatises of the missionaries Longobardo and Sainte-Marie, who saw materialism in it, and recognized in it instead a natural theology close to his own, proof in his eyes that reason can reach God without revelation."
+  },
+  "sources": [
+    {
+      "fr": "Leibniz, Discours sur la théologie naturelle des Chinois (1716)",
+      "en": "Leibniz, Discourse on the Natural Theology of the Chinese (1716)"
+    }
+  ],
+  "updatedAt": "2026-10-09T00:00:00.000Z"
+}

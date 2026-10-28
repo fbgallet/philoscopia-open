@@ -11,6 +11,7 @@
   "nationality": { "fr": "Anglais", "en": "English" },
   "birth": 1873,
   "death": 1958,
+  "language": "eng",
   "movements": ["analytic-philosophy"],
   "updatedAt": "2026-07-25T00:00:00.000Z",
   "validation": { "method": "NOT_VALIDATED" }

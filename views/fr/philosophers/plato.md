@@ -18,6 +18,26 @@ Athénien né dans une famille aristocratique, disciple de Socrate dont la conda
 
 ## Positions
 
+### [Rapport à l'autorité](../axes/authority.md)
+
+*positionné · explicite dans les textes · majeure*
+
+Autorité 95% · Anarchisme 5%
+
+Dans la République, le pouvoir doit revenir aux philosophes parce que la connaissance du Bien, et non la compétition des opinions et des désirs, permet seule d'ordonner justement la cité. La critique de la démocratie montre comment une liberté sans mesure prépare la tyrannie. Les Lois maintiennent la nécessité d'une autorité commune, mais placent les gouvernants sous la loi et associent la contrainte à la persuasion, notamment par des préambules qui expliquent et justifient les prescriptions légales.
+
+*Sources : République, V, 473c-e ; VIII, 562a-564a · Lois, IV, 715c-d et 719e-723d*
+
+### [Explication de la nature](../axes/causality.md)
+
+*positionné · explicite dans les textes · majeure*
+
+Finalisme 85% · Mécanisme 15%
+
+Dans le Phédon, Socrate reproche à Anaxagore d'avoir promis une explication par l'[Intellect](../glossary/nous.md) sans montrer pourquoi l'ordre des choses est le meilleur. Ses os et ses tendons rendent possible sa présence en prison, mais n'expliquent pas sa décision d'y rester : c'est confondre la cause avec ce sans quoi la cause ne serait pas cause. Le Timée développe une cosmologie où l'intelligence ordonne le monde en vue du bien, tandis que les processus matériels fournissent des **causes auxiliaires** et les contraintes de la nécessité.
+
+*Sources : Phédon, 97b-99c et 99d-102a · Timée, 29d-30c, 46c-e et 48a*
+
 ### [L'être et le devenir](../axes/being-becoming.md)
 
 *positionné · explicite dans les textes · majeure*

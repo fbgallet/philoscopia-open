@@ -16,7 +16,7 @@
 
 **⇒** So every sentient being enters the moral circle, and where interests are comparable, an equal suffering weighs equally, whether human or animal.
 
-**Challenged by** : [Sentience, an arbitrary boundary?](../arguments/pathocentrism-reverence-objection.md)
+**Challenged by** : [Sentience, an arbitrary boundary?](../arguments/pathocentrism-reverence-objection.md) · [The fox and the rabbit](../arguments/pathocentrism-predation-objection.md)
 
 **Bears on the problems** : [The criterion of moral status](../axes/moral-circle.md) · [The privilege of the species](../axes/moral-circle.md) · [Welfare or rights](../axes/moral-circle.md)
 

@@ -1,0 +1,11 @@
+{
+  "id": "technological-bluff-ellul",
+  "title": { "fr": "Le Bluff technologique", "en": "The Technological Bluff" },
+  "author": { "slug": "ellul", "name": { "fr": "Jacques Ellul", "en": "Jacques Ellul" } },
+  "year": 1988,
+  "presentation": {
+    "fr": "Dernier volet de la trilogie d'<ph id='ellul'>Ellul</ph> : il y dénonce le discours qui entoure la technique, publicité, promesses et prospective, et qui en masque les coûts, les risques et l'imprévisibilité.",
+    "en": "The last part of <ph id='ellul'>Ellul</ph>'s trilogy: he denounces the discourse that surrounds technology, advertising, promises and forecasting, which masks its costs, its risks and its unpredictability."
+  },
+  "updatedAt": "2026-10-11T00:00:00.000Z"
+}

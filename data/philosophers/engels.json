@@ -16,6 +16,8 @@
     "fr": "Allemand",
     "en": "German"
   },
+  "language": "deu",
+  "otherLanguages": ["eng"],
   "movements": [
     "marxism"
   ],

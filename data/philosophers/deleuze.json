@@ -1,0 +1,17 @@
+{
+  "kind": "PHILOSOPHER",
+  "stub": true,
+  "id": "deleuze",
+  "name": { "fr": "Deleuze", "en": "Deleuze" },
+  "summary": {
+    "fr": "Philosophe français : penseur de la différence et du devenir, il construit une philosophie des multiplicités, avec Félix Guattari, contre la pensée de l'identité et de la représentation.",
+    "en": "French philosopher: a thinker of difference and becoming, he built, with Félix Guattari, a philosophy of multiplicities against the thought of identity and representation."
+  },
+  "nationality": { "fr": "Français", "en": "French" },
+  "birth": 1925,
+  "death": 1995,
+  "language": "fra",
+  "movements": [],
+  "updatedAt": "2026-10-11T00:00:00.000Z",
+  "validation": { "method": "NOT_VALIDATED" }
+}

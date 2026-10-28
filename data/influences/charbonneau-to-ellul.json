@@ -1,0 +1,16 @@
+{
+  "id": "charbonneau-to-ellul",
+  "from": { "kind": "PHILOSOPHER", "slug": "charbonneau" },
+  "to": { "kind": "PHILOSOPHER", "slug": "ellul" },
+  "directness": "ATTESTED",
+  "mode": "CONTINUES",
+  "strength": "STRONG",
+  "note": {
+    "fr": "Amis depuis leur jeunesse bordelaise, <ph id='charbonneau'>Charbonneau</ph> et <ph id='ellul'>Ellul</ph> rédigent ensemble en 1935 des « Directives pour un manifeste personnaliste » qui dénoncent déjà l'emprise de la technique. L'élaboration est commune ; Ellul reconnaît devoir à son ami l'intuition de la technique comme fait social total et le sentiment de la nature.",
+    "en": "Friends since their youth in Bordeaux, <ph id='charbonneau'>Charbonneau</ph> and <ph id='ellul'>Ellul</ph> co-wrote in 1935 \"Directives for a Personalist Manifesto\", which already denounced the grip of technology. The elaboration was shared; Ellul acknowledged owing his friend the insight of technology as a total social fact and the feeling for nature."
+  },
+  "sources": [
+    { "fr": "Charbonneau et Ellul, Directives pour un manifeste personnaliste (1935)", "en": "Charbonneau and Ellul, Directives for a Personalist Manifesto (1935)" }
+  ],
+  "updatedAt": "2026-10-11T00:00:00.000Z"
+}

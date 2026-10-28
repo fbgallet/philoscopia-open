@@ -34,6 +34,8 @@ Our obligations are owed first to the people who exist here and now: their needs
 
 ## Quotations
 
+> “Act so that the effects of your action are compatible with the permanence of genuine human life on Earth.” — [Jonas](../philosophers/jonas.md), The Imperative of Responsibility, ch. I
+
 > “Remember your humanity, and forget the rest.” — [Russell](../philosophers/russell.md), Russell-Einstein Manifesto (1955), closing appeal
 
 ## Related axes

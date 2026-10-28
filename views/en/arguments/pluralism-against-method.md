@@ -16,7 +16,7 @@
 
 **⇒** So science is one powerful form of knowledge among others, not the measure of all: to disqualify art, lived experience, or traditional knowledge in advance is a dogmatism, not a result.
 
-**Challenged by** : [If all are equal, nothing is known](../arguments/pluralism-no-demarcation-objection.md)
+**Challenged by** : [If all are equal, nothing is known](../arguments/pluralism-no-demarcation-objection.md) · [At the bedside](../arguments/pluralism-bedside-objection.md)
 
 **Bears on the problems** : [The remainder, after science](../axes/science-place.md) · [Explaining, or understanding?](../axes/science-place.md) · [Does art tell the truth?](../axes/science-place.md) · [What only lived experience gives](../axes/science-place.md)
 

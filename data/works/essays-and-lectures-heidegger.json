@@ -1,0 +1,12 @@
+{
+  "id": "essays-and-lectures-heidegger",
+  "title": { "fr": "Essais et conférences", "en": "Lectures and Essays" },
+  "originalTitle": "Vorträge und Aufsätze",
+  "author": { "slug": "heidegger", "name": { "fr": "Martin Heidegger", "en": "Martin Heidegger" } },
+  "year": 1954,
+  "presentation": {
+    "fr": "Recueil de conférences des années 1936-1953, où figurent notamment <w id='question-concerning-technology-heidegger'>La Question de la technique</w>, <w id='building-dwelling-thinking-heidegger'>Bâtir habiter penser</w> et les notes du « Dépassement de la métaphysique » : le principal accès à la pensée tardive de <ph id='heidegger'>Heidegger</ph> sur la technique et l'habiter.",
+    "en": "A collection of lectures from 1936-1953, including <w id='question-concerning-technology-heidegger'>The Question Concerning Technology</w>, <w id='building-dwelling-thinking-heidegger'>Building Dwelling Thinking</w> and the notes of \"Overcoming Metaphysics\": the main access to <ph id='heidegger'>Heidegger</ph>'s late thinking on technology and dwelling."
+  },
+  "updatedAt": "2026-10-11T00:00:00.000Z"
+}

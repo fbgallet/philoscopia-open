@@ -1,0 +1,19 @@
+{
+  "id": "confucianism-to-neo-confucianism",
+  "from": { "kind": "MOVEMENT", "slug": "confucianism" },
+  "to": { "kind": "MOVEMENT", "slug": "neo-confucianism" },
+  "directness": "ATTESTED",
+  "mode": "REINTERPRETS",
+  "strength": "STRONG",
+  "note": {
+    "fr": "Le <mv id='neo-confucianism'>néoconfucianisme</mv> refonde le <mv id='confucianism'>confucianisme</mv> autour des <w>Quatre Livres</w>, dont le <w>Mencius</w>, et d'une lignée de transmission de la Voie (<c>daotong</c>) qui saute les siècles jusqu'aux frères Cheng ; les classiques y reçoivent une lecture métaphysique qu'ils n'avaient pas.",
+    "en": "<mv id='neo-confucianism'>Neo-Confucianism</mv> refounded <mv id='confucianism'>Confucianism</mv> around the <w>Four Books</w>, the <w>Mencius</w> among them, and a line of transmission of the Way (<c>daotong</c>) that leaps over the centuries to the Cheng brothers; the classics received a metaphysical reading they did not have before."
+  },
+  "sources": [
+    {
+      "fr": "Zhu Xi, Sishu zhangju jizhu",
+      "en": "Zhu Xi, Collected Commentaries on the Four Books (Sishu zhangju jizhu)"
+    }
+  ],
+  "updatedAt": "2026-10-09T00:00:00.000Z"
+}

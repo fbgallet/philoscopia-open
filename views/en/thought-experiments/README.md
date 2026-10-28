@@ -13,6 +13,7 @@
 - [Sisyphus and his rock](sisyphus-rock.md) (Albert Camus)
 - [The black swan](the-black-swan.md) (Popper)
 - [The Chinese Room](chinese-room.md) (Searle)
+- [The collective afterlife](collective-afterlife.md) (Samuel Scheffler)
 - [The dream and the evil demon](dream-argument.md) (Descartes)
 - [The Drowning Child](drowning-child.md) (Singer)
 - [The endless life](endless-life.md) (Bernard Williams)
@@ -33,6 +34,7 @@
 - [To each their customs?](funeral-customs.md) (Herodotus)
 - [What is it like to be a bat?](what-is-it-like-to-be-a-bat.md) (Thomas Nagel)
 - [Wilt Chamberlain: Liberty against Equality](wilt-chamberlain.md) (Nozick)
+- [Your portrait](your-portrait.md) (Bertram Forer)
 
 ---
 

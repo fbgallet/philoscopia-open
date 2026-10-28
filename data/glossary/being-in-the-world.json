@@ -1,0 +1,13 @@
+{
+  "id": "being-in-the-world",
+  "term": { "fr": "Être-au-monde", "en": "Being-in-the-world" },
+  "aliases": { "fr": ["être-dans-le-monde"] },
+  "definition": {
+    "fr": "Structure fondamentale du <c id='dasein'>Dasein</c> selon <ph id='heidegger'>Heidegger</ph> : l'existence n'est pas un sujet enfermé en lui-même qui chercherait ensuite à rejoindre un monde extérieur, elle est d'emblée auprès des choses, prise dans un réseau d'usages, de renvois et de préoccupations. Le marteau se comprend en martelant, avant toute théorie. Cette notion récuse le partage cartésien du sujet et de l'objet, dont elle fait une abstraction tardive. <ph id='merleau-ponty'>Merleau-Ponty</ph> la reprendra en lui donnant un ancrage corporel.",
+    "en": "The basic structure of <c id='dasein'>Dasein</c> according to <ph id='heidegger'>Heidegger</ph>: existence is not a subject shut up in itself that would then try to reach an outer world; it is from the outset alongside things, caught up in a web of uses, references and concerns. The hammer is understood in hammering, before any theory. The notion rejects the Cartesian split between subject and object, which it treats as a late abstraction. <ph id='merleau-ponty'>Merleau-Ponty</ph> takes it up again, giving it a bodily anchoring."
+  },
+  "relatedAxes": ["REALITY_NATURE", "EMBODIMENT"],
+  "relatedTerms": ["dasein", "sorge", "intentionality"],
+  "figure": { "slug": "heidegger", "name": { "fr": "Martin Heidegger", "en": "Martin Heidegger" } },
+  "updatedAt": "2026-10-11T00:00:00.000Z"
+}

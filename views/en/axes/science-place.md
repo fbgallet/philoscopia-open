@@ -40,10 +40,13 @@ Science is our most rigorous knowledge, yet it proceeds by conjectures forever e
 ## Arguments
 
 - *Scientism* · for : [The argument from success](../arguments/scientism-self-correction.md)
+- *Scientism* · against : [Taking science on trust](../arguments/scientism-faith-in-science-objection.md)
 - *Scientism* · against : [Sawing off the branch](../arguments/scientism-self-refutation-objection.md)
 - *Epistemic pluralism* · for : [Against method](../arguments/pluralism-against-method.md)
+- *Epistemic pluralism* · against : [At the bedside](../arguments/pluralism-bedside-objection.md)
 - *Epistemic pluralism* · against : [If all are equal, nothing is known](../arguments/pluralism-no-demarcation-objection.md)
 - *Critical rationalism* · for : [Conjectures and refutations](../arguments/critical-rationalism-conjectures.md)
+- *Critical rationalism* · against : [The criterion of hindsight](../arguments/critical-rationalism-hindsight-objection.md)
 - *Critical rationalism* · against : [No refutation is clean](../arguments/critical-rationalism-holism-objection.md)
 
 ## Grounding relations
@@ -53,6 +56,8 @@ Science is our most rigorous knowledge, yet it proceeds by conjectures forever e
 - *[Place of science](../axes/science-place.md) : Scientism* grounds *[Relation to technology](../axes/technology.md) : Techno-optimism* : If science is the highest form of knowledge, destined to solve human problems, then the technology that flows from it is the great lever of progress. Scientism grounds techno-optimism: from Bacon to [Comte](../philosophers/comte.md), applied knowledge is expected to push back need and suffering, and its setbacks are taken as challenges calling for yet more technology.
 
 ## Quotations
+
+> “Science does not think.” — [Heidegger](../philosophers/heidegger.md), What Is Called Thinking?, lectures 1951-1952
 
 > “The garment of ideas of the mathematical sciences makes us take for true being what is only a method.” — [Husserl](../philosophers/husserl.md), The Crisis of the European Sciences, §9
 

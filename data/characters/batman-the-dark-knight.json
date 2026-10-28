@@ -1,0 +1,156 @@
+{
+  "kind": "CHARACTER",
+  "id": "batman-the-dark-knight",
+  "name": {
+    "fr": "Batman (Bruce Wayne)",
+    "en": "Batman (Bruce Wayne)"
+  },
+  "tagline": {
+    "fr": "Le justicier qui s'interdit de tuer, et qui se demande ce qu'une ville peut supporter de savoir.",
+    "en": "The vigilante who will not let himself kill, and wonders what a city can bear to know."
+  },
+  "summary": {
+    "fr": "Dans le film de Christopher Nolan, Bruce Wayne est un milliardaire qui joue la frivolité le jour et combat la mafia de Gotham la nuit, sous le masque de Batman. Il espère que le procureur Harvey Dent rendra un jour son rôle inutile. Face au Joker, qui veut prouver que la morale des gens n'est qu'un vernis, il tient à une seule règle, ne pas tuer, et s'autorise presque tout le reste. Le film le suit dans les choix que cette règle lui laisse, jusqu'à la question de ce qu'il doit dire à la ville.",
+    "en": "In Christopher Nolan's film, Bruce Wayne is a billionaire who plays at frivolity by day and fights Gotham's mob by night, behind Batman's mask. He hopes that district attorney Harvey Dent will one day make his role unnecessary. Facing the Joker, who wants to prove that people's morality is only a veneer, he holds to a single rule, do not kill, and allows himself almost everything else. The film follows him through the choices that rule leaves him, up to the question of what he must tell the city."
+  },
+  "work": {
+    "fictionId": "the-dark-knight",
+    "title": {
+      "fr": "The Dark Knight : Le Chevalier noir",
+      "en": "The Dark Knight"
+    },
+    "author": {
+      "fr": "Christopher Nolan",
+      "en": "Christopher Nolan"
+    },
+    "year": 2008,
+    "medium": "FILM"
+  },
+  "entries": [
+    {
+      "axisId": "HUMAN_VISION",
+      "status": "POSITIONED",
+      "practicedValue": {
+        "kind": "scalar",
+        "value": -0.4
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Batman veut croire que la ville peut se passer de lui : il mise sur Harvey Dent pour la relever par la loi. <spo>Face au Joker, il parie que les passagers des ferries ne se tueront pas, et lui répond que la ville vient de montrer qu'elle est pleine de gens prêts à croire au bien.</spo> Cette confiance n'est pas naïve : il sait la ville corrompue et agit comme si elle pouvait mal tourner.",
+          "en": "Batman wants to believe the city can do without him: he bets on Harvey Dent to lift it up through the law. <spo>Facing the Joker, he bets that the ferry passengers will not kill each other, and answers him that the city has just shown it is full of people ready to believe in good.</spo> This trust is not naive: he knows the city is corrupt and acts as though it could go wrong."
+        },
+        "references": [
+          {
+            "fr": "Les conversations avec Alfred sur Harvey Dent",
+            "en": "His conversations with Alfred about Harvey Dent"
+          },
+          {
+            "fr": "Les ferries",
+            "en": "The ferries"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "TRUTH_VALUE",
+      "status": "POSITIONED",
+      "practicedValue": {
+        "kind": "scalar",
+        "value": 0.6
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Il vit d'un mensonge : le milliardaire frivole couvre le justicier. Après l'ultimatum du Joker, il décide pourtant de se livrer, pour faire cesser les meurtres plutôt que par principe de vérité. <spo>À la fin, il choisit de porter les crimes de Dent pour que la ville garde foi en lui : parfois, dit-il, la vérité ne suffit pas.</spo> Ses actes le placent du côté des <ax id='TRUTH_VALUE' pole='VITAL_ILLUSION'>illusions vitales</ax>, pour la ville comme pour lui-même : le justicier n'existe que par un secret.",
+          "en": "He lives on a lie: the frivolous billionaire covers for the vigilante. After the Joker's ultimatum, he nonetheless decides to turn himself in, to stop the killings rather than on a principle of truth. <spo>In the end, he chooses to bear Dent's crimes so that the city keeps faith in him: sometimes, he says, the truth isn't good enough.</spo> His acts place him on the side of <ax id='TRUTH_VALUE' pole='VITAL_ILLUSION'>vital illusions</ax>, for the city as for himself: the vigilante exists only through a secret."
+        },
+        "references": [
+          {
+            "fr": "L'ultimatum du Joker",
+            "en": "The Joker's ultimatum"
+          },
+          {
+            "fr": "La fin",
+            "en": "The ending"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "ETHICS_FOUNDATION",
+      "status": "POSITIONED",
+      "practicedValue": {
+        "kind": "weights",
+        "weights": [
+          0.5,
+          0.5,
+          0,
+          0
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Batman n'a qu'une règle, ne pas tuer, et le Joker la connaît : tout son jeu consiste à la lui faire briser. <spo>Batman rattrape même le Joker qui tombe. La mort de Dent, qu'il plaque pour sauver le fils de Gordon, complique ce tableau sans le démentir : il accepte un risque mortel pour sauver un enfant, il ne cherche pas à tuer.</spo> Ses autres moyens se jugent à l'effet attendu : il enlève un comptable de la mafia à Hong Kong, frappe le Joker en salle d'interrogatoire, fait écouter tous les téléphones de la ville, une seule nuit. Il tient donc un <c id='deontologism'>interdit absolu</c> au milieu d'une pratique largement <c id='consequentialism'>conséquentialiste</c>.",
+          "en": "Batman has only one rule, do not kill, and the Joker knows it: his whole game is to make him break it. <spo>Batman even catches the falling Joker. Dent's death, when Batman tackles him to save Gordon's son, complicates the picture without refuting it: he accepts a deadly risk to save a child, he does not seek to kill.</spo> His other means are judged by their expected effect: he abducts a mob accountant from Hong Kong, beats the Joker in the interrogation room, has every phone in the city tapped, for one night. He thus holds an <c id='deontologism'>absolute prohibition</c> in the middle of a largely <c id='consequentialism'>consequentialist</c> practice."
+        },
+        "references": [
+          {
+            "fr": "L'enlèvement de Lau à Hong Kong",
+            "en": "Lau's abduction in Hong Kong"
+          },
+          {
+            "fr": "L'interrogatoire du Joker",
+            "en": "The Joker's interrogation"
+          },
+          {
+            "fr": "Le sonar",
+            "en": "The sonar"
+          },
+          {
+            "fr": "La confrontation finale avec Dent",
+            "en": "The final confrontation with Dent"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "SINCERITY",
+      "status": "POSITIONED",
+      "practicedValue": {
+        "kind": "scalar",
+        "value": 0.6
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Sa double vie repose sur un mensonge permanent, à la ville comme à presque tous ceux qu'il fréquente ; seuls quelques proches (Alfred, Rachel, Lucius Fox) savent qui il est, et un employé de son entreprise qui le découvre menace de le révéler. <spo>Son dernier choix étend ce mensonge à tout Gotham, pour son bien.</spo>",
+          "en": "His double life rests on a constant lie, to the city and to almost everyone he deals with; only a few close to him (Alfred, Rachel, Lucius Fox) know who he is, and an employee of his company who finds out threatens to reveal it. <spo>His last choice extends this lie to all of Gotham, for its own good.</spo>"
+        },
+        "references": [
+          {
+            "fr": "La double vie de Bruce Wayne",
+            "en": "Bruce Wayne's double life"
+          },
+          {
+            "fr": "La fin",
+            "en": "The ending"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    }
+  ],
+  "updatedAt": "2026-10-21T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

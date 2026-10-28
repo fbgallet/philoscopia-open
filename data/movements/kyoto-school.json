@@ -1,0 +1,119 @@
+{
+  "kind": "MOVEMENT",
+  "id": "kyoto-school",
+  "name": { "fr": "École de Kyoto", "en": "Kyoto School" },
+  "tagline": {
+    "fr": "Penser l'expérience bouddhique avec Hegel et Heidegger : chercher l'ultime non dans un être suprême, mais dans un <c id='absolute-nothingness'>néant absolu</c> où toute chose trouve son lieu.",
+    "en": "Thinking Buddhist experience with Hegel and Heidegger: seeking the ultimate not in a supreme being but in an <c id='absolute-nothingness'>absolute nothingness</c> where everything finds its place."
+  },
+  "aliases": {
+    "fr": [
+      "école de Kyōto"
+    ],
+    "en": [
+      "Kyōto School"
+    ]
+  },
+  "summary": {
+    "fr": "L'école de Kyoto est le premier grand courant de philosophie japonaise moderne, né autour de <ph id='nishida'>Nishida Kitarō</ph> à l'université de Kyoto avec <w>Essai sur le bien</w> (1911). Ses penseurs ont en commun de reprendre des ressources du <mv>bouddhisme zen</mv> et de la <mv id='madhyamaka'>Madhyamaka</mv> dans la langue de la philosophie occidentale, de <ph id='william-james'>William James</ph> à <ph id='hegel'>Hegel</ph> et <ph id='heidegger'>Heidegger</ph>, mais chacun les articule à sa façon : Nishida pense le « lieu » du <c id='absolute-nothingness'>néant absolu</c>, <ph id='tanabe'>Tanabe Hajime</ph> le critique au nom d'une dialectique de la conversion, <ph id='nishitani'>Nishitani Keiji</ph> en fait la voie qui traverse le <c>nihilisme</c> vers la <c id='sunyata'>vacuité</c>. L'école ouvre un dialogue durable avec la théologie chrétienne et la phénoménologie, que prolonge <ph>Ueda Shizuteru</ph> jusqu'à sa mort en 2019, borne retenue ici. <dif>Les écrits de guerre de certains membres, notamment Tanabe et Nishitani, et leur rapport au nationalisme des années 1940 restent débattus.</dif>",
+    "en": "The Kyoto School is the first great movement of modern Japanese philosophy, born around <ph id='nishida'>Nishida Kitarō</ph> at Kyoto University with <w>An Inquiry into the Good</w> (1911). Its thinkers share the project of taking up resources from <mv>Zen Buddhism</mv> and <mv id='madhyamaka'>Madhyamaka</mv> in the language of Western philosophy, from <ph id='william-james'>William James</ph> to <ph id='hegel'>Hegel</ph> and <ph id='heidegger'>Heidegger</ph>, but each articulates them differently: Nishida thinks the \"place\" of <c id='absolute-nothingness'>absolute nothingness</c>, <ph id='tanabe'>Tanabe Hajime</ph> criticizes it in the name of a dialectic of conversion, <ph id='nishitani'>Nishitani Keiji</ph> makes it the path that passes through <c>nihilism</c> to <c id='sunyata'>emptiness</c>. The school opened a lasting dialogue with Christian theology and phenomenology, carried on by <ph>Ueda Shizuteru</ph> until his death in 2019, the bound recorded here. <dif>The wartime writings of some members, notably Tanabe and Nishitani, and their relation to the nationalism of the 1940s remain debated.</dif>"
+  },
+  "area": "EAST_ASIA",
+  "period": {
+    "from": 1911,
+    "to": 2019,
+    "afterlife": "LIVING"
+  },
+  "keyFigures": [
+    {
+      "slug": "nishida",
+      "name": { "fr": "Nishida Kitarō", "en": "Nishida Kitarō" }
+    },
+    {
+      "slug": "tanabe",
+      "name": { "fr": "Tanabe Hajime", "en": "Tanabe Hajime" }
+    },
+    {
+      "slug": "nishitani",
+      "name": { "fr": "Nishitani Keiji", "en": "Nishitani Keiji" }
+    }
+  ],
+  "entries": [
+    {
+      "axisId": "GOD_EXISTENCE",
+      "status": "CONTEXTUALIST",
+      "note": {
+        "fr": "Le <c id='absolute-nothingness'>néant absolu</c> n'est ni un Dieu personnel ni une négation de Dieu : c'est le lieu où toute chose, Dieu compris, se trouve située. D'où un dialogue avec la mystique chrétienne (<ph>Maître Eckhart</ph>) et la théologie de la <c>kénose</c> qui échappe à l'alternative du théisme et de l'athéisme.",
+        "en": "<c id='absolute-nothingness'>Absolute nothingness</c> is neither a personal God nor a negation of God: it is the place in which all things, God included, are situated. Hence a dialogue with Christian mysticism (<ph>Meister Eckhart</ph>) and the theology of <c>kenosis</c> that escapes the alternative between theism and atheism."
+      }
+    },
+    {
+      "axisId": "REALITY_NATURE",
+      "status": "REJECTS_ALTERNATIVE",
+      "note": {
+        "fr": "L'<c id='pure-experience'>expérience pure</c> de <ph id='nishida'>Nishida</ph> est antérieure à la séparation du sujet et de l'objet : ni l'esprit ni la matière n'en sont le fond, ce qui récuse l'alternative du matérialisme et de l'idéalisme.",
+        "en": "<ph id='nishida'>Nishida</ph>'s <c id='pure-experience'>pure experience</c> precedes the split between subject and object: neither mind nor matter is its ground, which rejects the alternative between materialism and idealism."
+      }
+    },
+    {
+      "axisId": "METAPHILOSOPHY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.6,
+          0,
+          0.4,
+          0
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "La philosophie de <ph id='nishida'>Nishida</ph> se veut systématique et démonstrative, mais elle part de l'expérience vécue et vise un éveil à soi. Chez <ph id='nishitani'>Nishitani</ph>, elle a pour tâche de traverser le <c>nihilisme</c> jusqu'au <c>champ de la vacuité</c>, où il est surmonté.",
+          "en": "<ph id='nishida'>Nishida</ph>'s philosophy aims to be systematic and demonstrative, but it starts from lived experience and seeks a self-awakening. For <ph id='nishitani'>Nishitani</ph>, its task is to pass through <c>nihilism</c> to the <c>field of emptiness</c>, where it is overcome."
+        },
+        "references": [
+          { "fr": "Nishida, Essai sur le bien", "en": "Nishida, An Inquiry into the Good" },
+          { "fr": "Nishitani, Shūkyō to wa nanika (1961)", "en": "Nishitani, Religion and Nothingness (1961)" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "TRANSCENDENCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.3
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Pour Nishida, l'absolu ne se trouve pas au-dessus du monde : on le rencontre en descendant au fond de soi, là où le moi renonce à se poser comme un sujet souverain, d'où la formule d'une <c>transcendance dans l'immanence</c>. L'absolu reste radicalement autre, mais il n'est pas ailleurs. <dif>L'axe n'en saisit qu'une approximation</dif> : la valeur modérée, du côté de l'<c id='immanence'>immanence</c>, traduit ce refus de placer l'absolu hors du monde sans en faire une simple partie.",
+          "en": "For Nishida, the absolute is not found above the world: one meets it by descending to the depths of oneself, where the self gives up positing itself as a sovereign subject, hence the formula of a <c>transcendence within immanence</c>. The absolute remains radically other, yet it is not elsewhere. <dif>The axis can only approximate this</dif>: the moderate value, on the side of <c id='immanence'>immanence</c>, reflects this refusal to place the absolute outside the world without making it a mere part of it."
+        },
+        "references": [
+          {
+            "fr": "Nishida, Bashoteki ronri to shūkyōteki sekaikan (1945)",
+            "en": "Nishida, The Logic of the Place of Nothingness and the Religious Worldview (1945)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    }
+  ],
+  "identity": {
+    "wikidata": "Q1068751",
+    "wikipedia": {
+      "fr": "https://fr.wikipedia.org/wiki/%C3%89cole_de_Kyoto",
+      "en": "https://en.wikipedia.org/wiki/Kyoto_School"
+    }
+  },
+  "updatedAt": "2026-10-09T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

@@ -20,6 +20,8 @@
     "fr": "Américaine d'origine allemande",
     "en": "German-born American"
   },
+  "language": "eng",
+  "otherLanguages": ["deu"],
   "movements": [],
   "updatedAt": "2026-06-28T00:00:00.000Z",
   "validation": {

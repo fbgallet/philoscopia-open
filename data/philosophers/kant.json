@@ -34,8 +34,158 @@
     "fr": "Prussien",
     "en": "Prussian"
   },
+  "language": "deu",
+  "otherLanguages": ["lat"],
   "movements": [],
   "entries": [
+    {
+      "axisId": "HUMAN_PLACE_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.8,
+          0.2,
+          0
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Dans la téléologie kantienne, l'homme peut être regardé comme la « fin dernière » de la nature, parce qu'il se propose des fins et se sert des autres êtres comme de moyens ; la culture développe cette aptitude à poursuivre des fins en général, sans suffire à le moraliser. Seul l'homme comme sujet de la loi morale est un but final, qui ne dépend d'aucune autre fin. Kant condamne aussi la destruction gratuite des beautés de la nature, mais comme un manquement envers soi-même : elle affaiblit la disposition à aimer quelque chose sans intérêt, qui prépare la moralité, et ne viole aucun devoir envers la nature.",
+          "en": "In Kant's teleology, the human being can be regarded as the \"ultimate end\" of nature, because human beings set themselves ends and use other beings as means; culture develops this capacity to pursue ends in general, but does not by itself make them morally good. Only the human being as subject of the moral law is a final end, dependent on no further end. Kant also condemns the wanton destruction of natural beauty, but as a violation of a duty to oneself: it weakens the disposition to love something independently of any use, a disposition that prepares the way for morality, and breaches no duty owed to nature itself."
+        },
+        "references": [
+          {
+            "fr": "Critique de la faculté de juger, §83-84",
+            "en": "Critique of the Power of Judgment, §83-84"
+          },
+          {
+            "fr": "Métaphysique des mœurs, Doctrine de la vertu, §17 (AA VI, 443)",
+            "en": "Metaphysics of Morals, Doctrine of Virtue, §17 (AA VI, 443)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "TECHNOLOGY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.2
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "L'histoire est le lieu où l'insociable sociabilité des hommes développe leurs talents et leur habileté : sans elle, ils seraient restés aussi doux que les moutons qu'ils font paître. Kant y voit un progrès réel mais ambigu : « nous sommes cultivés à un haut degré par l'art et la science, nous sommes civilisés jusqu'à en être accablés… mais il s'en faut encore de beaucoup que nous puissions nous tenir pour déjà moralisés ». L'habileté fournit des moyens pour toutes sortes de fins ; elle ne dit rien de leur valeur.",
+          "en": "In Kant's account of history, \"unsocial sociability\" drives the development of human talents and skills: without this antagonism, human beings would have remained as good-natured as the sheep they tend. Kant sees this as genuine but morally incomplete progress: \"We are cultivated to a high degree by art and science. We are civilised to the point of excess in all kinds of social courtesies and proprieties. But we are still a long way from the point where we could consider ourselves morally mature.\" Skill supplies means for all kinds of ends; it says nothing of their worth."
+        },
+        "references": [
+          {
+            "fr": "Idée d'une histoire universelle au point de vue cosmopolitique (1784), 4e et 7e propositions",
+            "en": "Idea for a Universal History with a Cosmopolitan Purpose (1784), fourth and seventh propositions (tr. H. B. Nisbet, Kant: Political Writings)"
+          },
+          {
+            "fr": "Fondements de la métaphysique des mœurs, II (impératifs de l'habileté)",
+            "en": "Groundwork of the Metaphysics of Morals, II (imperatives of skill)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "EMOTIONS",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.7
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Kant refuse de fonder l'obligation morale sur les inclinations, parce qu'elles dépendent d'une constitution sensible particulière et ne peuvent légiférer pour tout être raisonnable : contre les théoriciens du <kw>sens moral</kw>, <per>Hutcheson</per> en tête, la loi doit valoir indépendamment de nos penchants. L'exemple du bienfaiteur devenu insensible isole le devoir comme mobile, sans interdire que la sympathie accompagne une action bonne. Le <kw>respect</kw> fait exception à l'opposition simple entre raison et sentiment : il est l'effet sensible de la loi morale sur un être fini. Kant distingue enfin les affects, qui interrompent un moment la réflexion, des passions, qui installent une domination durable de l'inclination sur la raison.",
+          "en": "Kant refuses to ground moral obligation in the inclinations, because these depend on our particular affective constitution and cannot legislate for every rational being: against the <kw>moral sense</kw> theorists, notably <per>Hutcheson</per>, he insists that the law must hold independently of our inclinations. The example of the benefactor whose sympathy has dried up isolates duty as the motive, without forbidding sympathy from accompanying a good action. <kw>Respect</kw> is the exception to any simple opposition of reason and feeling: it is the felt effect of the moral law on a finite being. Kant also distinguishes the affects, which interrupt reflection for a moment, from the passions, which establish the lasting dominance of inclination over reason."
+        },
+        "references": [
+          {
+            "fr": "Fondements de la métaphysique des mœurs, I (AA IV, 397-401) ; II (AA IV, 442-443)",
+            "en": "Groundwork of the Metaphysics of Morals, I (AA IV, 397-401); II (AA IV, 442-443)"
+          },
+          {
+            "fr": "Critique de la raison pratique, Analytique, ch. III",
+            "en": "Critique of Practical Reason, Analytic, ch. III"
+          },
+          {
+            "fr": "Anthropologie du point de vue pragmatique, §73-74 et §80",
+            "en": "Anthropology from a Pragmatic Point of View, §73-74 and §80"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "MORAL_SOURCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0,
+          1,
+          0,
+          0
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "La morale ne se fonde ni sur la volonté de Dieu ni sur le sentiment, mais sur l'<kw>autonomie</kw> de la raison pratique, qui se donne à elle-même sa loi. Tout fondement autre que l'autolégislation de la raison, qu'il s'agisse du bonheur, de la perfection ou d'un commandement divin, rendrait la morale <kw>hétéronome</kw> : on obéirait pour autre chose que le devoir. Dieu n'est postulé que pour rendre possible, dans le souverain bien, l'union de la vertu et d'un bonheur proportionné, jamais pour fonder l'obligation.",
+          "en": "Morality rests neither on God's will nor on feeling, but on the <kw>autonomy</kw> of practical reason, which gives itself its own law. Any ground other than reason's self-legislation, whether happiness, perfection or a divine command, would make morality <kw>heteronomous</kw>: one would obey for the sake of something other than duty. God is postulated only to make possible, in the highest good, the union of virtue with proportionate happiness, never to ground moral obligation."
+        },
+        "references": [
+          {
+            "fr": "Fondements de la métaphysique des mœurs, II (autonomie et hétéronomie)",
+            "en": "Groundwork of the Metaphysics of Morals, II (autonomy and heteronomy)"
+          },
+          {
+            "fr": "Critique de la raison pratique, Dialectique",
+            "en": "Critique of Practical Reason, Dialectic"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "DISTRIBUTIVE_JUSTICE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.1
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Kant refuse qu'un gouvernement impose aux citoyens sa conception du bonheur : un pouvoir paternaliste serait « le plus grand despotisme ». Mais il ne réduit pas l'État à protéger des possessions acquises hors de toute condition publique, puisque le mien et le tien ne deviennent définitifs que dans l'état civil. Il autorise ainsi l'imposition des possédants pour entretenir ceux qui ne peuvent subvenir à leurs besoins, au nom de la conservation du peuple lui-même. Cette redistribution d'assistance ne vise ni l'égalité des fortunes ni la compensation des inégalités de naissance et de talents.",
+          "en": "Kant refuses to let a government impose its conception of happiness on citizens: a paternalistic power would be \"the greatest despotism\". Yet he does not reduce the state to protecting holdings acquired outside any public condition, since mine and thine become conclusive only in the civil state. He thus authorises taxing the propertied to support those who cannot provide for themselves, for the sake of the people's own preservation. This is redistribution as relief: it aims neither at equal fortunes nor at offsetting inequalities of birth and talent."
+        },
+        "references": [
+          {
+            "fr": "Doctrine du droit, §41-49 et Remarque générale C",
+            "en": "Doctrine of Right, §41-49 and General Remark C"
+          },
+          {
+            "fr": "Théorie et pratique, II",
+            "en": "On the Common Saying: That May Be Correct in Theory, II"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
     {
       "axisId": "SUFFERING_MEANING",
       "status": "POSITIONED",
@@ -1001,7 +1151,7 @@
       "en": "https://en.wikipedia.org/wiki/Immanuel_Kant"
     }
   },
-  "updatedAt": "2026-07-19T00:00:00.000Z",
+  "updatedAt": "2026-10-11T00:00:00.000Z",
   "validation": {
     "method": "NOT_VALIDATED"
   }

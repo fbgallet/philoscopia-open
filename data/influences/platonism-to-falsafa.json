@@ -1,0 +1,23 @@
+{
+  "id": "platonism-to-falsafa",
+  "from": { "kind": "MOVEMENT", "slug": "platonism" },
+  "to": { "kind": "MOVEMENT", "slug": "falsafa" },
+  "directness": "ATTESTED",
+  "mode": "SYNTHESIZES",
+  "strength": "STRONG",
+  "note": {
+    "fr": "La <mv id='falsafa'>falsafa</mv> lit Aristote à travers <ph id='plotinus'>Plotin</ph> et Proclus, dont des paraphrases arabes circulent sous le nom d'Aristote, la <w>Théologie d'Aristote</w> et le <w>Livre des causes</w>. La doctrine néoplatonicienne de l'<c id='emanation'>émanation</c> y fusionne avec la métaphysique aristotélicienne pour donner la cosmologie des intellects d'al-Fārābī et d'Avicenne.",
+    "en": "<mv id='falsafa'>Falsafa</mv> read Aristotle through <ph id='plotinus'>Plotinus</ph> and Proclus, whose Arabic paraphrases circulated under Aristotle's name: the <w>Theology of Aristotle</w> and the <w>Book of Causes</w>. The Neoplatonic doctrine of <c id='emanation'>emanation</c> fused there with Aristotelian metaphysics to yield the cosmology of intellects of al-Fārābī and Avicenna."
+  },
+  "sources": [
+    {
+      "fr": "Théologie dite d'Aristote (paraphrase des Ennéades IV-VI)",
+      "en": "The so-called Theology of Aristotle (paraphrase of Enneads IV-VI)"
+    },
+    {
+      "fr": "Livre des causes (d'après Proclus, Éléments de théologie)",
+      "en": "Book of Causes (after Proclus, Elements of Theology)"
+    }
+  ],
+  "updatedAt": "2026-10-09T00:00:00.000Z"
+}

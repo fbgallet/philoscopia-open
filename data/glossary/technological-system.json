@@ -1,0 +1,14 @@
+{
+  "id": "technological-system",
+  "term": { "fr": "Système technicien", "en": "Technological system" },
+  "aliases": { "fr": ["la technique autonome"], "en": ["technological society"] },
+  "definition": {
+    "fr": "Notion de <ph id='ellul'>Jacques Ellul</ph> : la technique n'est pas un ensemble d'outils, mais l'ensemble des méthodes qui recherchent l'efficacité maximale dans tous les domaines. Reliées entre elles, notamment par l'informatique, les techniques forment un système devenu le milieu de l'homme à la place de la nature. Ce système est dit <kw>autonome</kw> en un sens précis : il s'accroît selon sa propre logique d'efficacité, et les institutions politiques, économiques et morales tendent à s'y conformer plus qu'à le diriger. Ellul n'en conclut pas que toute résistance est vaine, mais qu'elle commence par désacraliser la technique.",
+    "en": "A notion of <ph id='ellul'>Jacques Ellul</ph>'s: technique is not a set of tools but the ensemble of methods pursuing maximal efficiency in every field. Linked together, notably by computing, techniques form a system that has become humanity's milieu in place of nature. The system is called <kw>autonomous</kw> in a precise sense: it grows according to its own logic of efficiency, and political, economic and moral institutions tend to conform to it more than they steer it. Ellul does not conclude that all resistance is futile, but that it begins by desacralizing technique."
+  },
+  "relatedAxes": ["TECHNOLOGY", "HUMAN_PLACE_NATURE"],
+  "relatedTerms": ["gestell"],
+  "figure": { "slug": "ellul", "name": { "fr": "Jacques Ellul", "en": "Jacques Ellul" } },
+  "positions": [{ "axisId": "TECHNOLOGY", "poleId": "TECHNO_CRITICISM" }],
+  "updatedAt": "2026-10-11T00:00:00.000Z"
+}

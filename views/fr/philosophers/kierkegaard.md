@@ -14,6 +14,8 @@ Philosophe danois, précurseur de l'existentialisme : il fait de la foi un saut 
 
 ## Influence sur
 
+- **[Ellul](../philosophers/ellul.md)** (prolonge) : [Ellul](../philosophers/ellul.md) tient [Kierkegaard](../philosophers/kierkegaard.md) pour l'un de ses maîtres : il lui doit la pensée dialectique, le primat de l'individu devant Dieu contre la masse et la méfiance envers une chrétienté installée.
+- **[Heidegger](../philosophers/heidegger.md)** (réinterprète) : [Heidegger](../philosophers/heidegger.md) reprend de [Kierkegaard](../philosophers/kierkegaard.md) l'angoisse, l'instant et l'existence comme tâche, en les détachant de leur horizon chrétien : les notes d'*[Être et temps](../works/being-and-time-heidegger.md)* reconnaissent la dette tout en jugeant l'analyse kierkegaardienne restée « existentielle » plutôt qu'ontologique.
 - **[Sartre](../philosophers/sartre.md)** (prolonge) : [Sartre](../philosophers/sartre.md) reprend de [Kierkegaard](../philosophers/kierkegaard.md) les thèmes de l'angoisse, du choix et de la singularité existentielle, en les sécularisant : l'existence précède l'essence, sans le saut de la foi qui les couronnait.
 - **[Camus](../philosophers/camus.md)** (réagit contre) : Dans Le Mythe de Sisyphe, [Camus](../philosophers/camus.md) qualifie de « suicide philosophique » le saut de la foi de [Kierkegaard](../philosophers/kierkegaard.md) : l'absurde se définit contre cette échappée religieuse, comme exigence de lucidité sans consolation.
 

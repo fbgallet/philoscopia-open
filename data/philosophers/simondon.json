@@ -1,0 +1,113 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "simondon",
+  "name": { "fr": "Simondon", "en": "Simondon" },
+  "fullName": { "fr": "Gilbert Simondon", "en": "Gilbert Simondon" },
+  "tagline": {
+    "fr": "Penser chaque être à partir de sa genèse plutôt que d'une essence donnée, et étendre cette exigence aux machines, que la culture refoule ou mythifie faute de les comprendre.",
+    "en": "Thinking every being from its genesis rather than from a given essence, and extending that demand to machines, which culture represses or mythologizes for want of understanding them."
+  },
+  "aliases": {
+    "fr": ["simondonien", "simondonienne"],
+    "en": ["Simondonian"]
+  },
+  "summary": {
+    "fr": "Normalien, agrégé de philosophie, il enseigne au lycée Descartes de Tours, où il installe un atelier de technologie, puis à l'université de Poitiers et à Paris (Sorbonne, puis Paris-V), où son enseignement relève aussi de la psychologie. En 1958, il soutient deux thèses. La principale, sur l'<c id='individuation'>individuation</c>, paraît d'abord en deux volumes partiels (<w>L'Individu et sa genèse physico-biologique</w>, 1964 ; <w>L'Individuation psychique et collective</w>, 1989, l'année de sa mort), puis intégralement en 2005 sous le titre <w id='individuation-in-light-of-form-and-information-simondon'>L'Individuation à la lumière des notions de forme et d'information</w>. La complémentaire paraît dès 1958 : <w id='mode-of-existence-of-technical-objects-simondon'>Du mode d'existence des objets techniques</w>. L'édition de 1964 est dédiée à la mémoire de <ph id='merleau-ponty'>Merleau-Ponty</ph> ; <ph id='deleuze'>Deleuze</ph> en rend compte dès 1966, puis la mobilise dans <w>Différence et répétition</w> (1968). Longtemps lue dans un cercle restreint, l'œuvre connaît une réception élargie à partir des années 1980-1990, à laquelle contribue notamment <ph id='stiegler'>Bernard Stiegler</ph>.",
+    "en": "A graduate of the École normale supérieure and agrégé in philosophy, he taught at the Lycée Descartes in Tours, where he set up a technology workshop, then at the University of Poitiers and in Paris (the Sorbonne, then Paris V), where he also taught psychology. In 1958 he defended two theses. The principal one, on <c id='individuation'>individuation</c>, first appeared in two partial volumes (<w>L'Individu et sa genèse physico-biologique</w>, 1964; <w>L'Individuation psychique et collective</w>, 1989, the year of his death), then in full in 2005 under the title <w id='individuation-in-light-of-form-and-information-simondon'>Individuation in Light of Notions of Form and Information</w>. The complementary one was published in 1958: <w id='mode-of-existence-of-technical-objects-simondon'>On the Mode of Existence of Technical Objects</w>. The 1964 edition is dedicated to the memory of <ph id='merleau-ponty'>Merleau-Ponty</ph>; <ph id='deleuze'>Deleuze</ph> reviewed it as early as 1966, then drew on it in <w>Difference and Repetition</w> (1968). Long confined to a narrow readership, the work found a wider reception from the 1980s-1990s, to which <ph id='stiegler'>Bernard Stiegler</ph> notably contributed."
+  },
+  "nationality": { "fr": "Français", "en": "French" },
+  "birth": 1924,
+  "death": 1989,
+  "language": "fra",
+  "movements": [],
+  "entries": [
+    {
+      "axisId": "TECHNOLOGY",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.2 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "L'introduction de <w id='mode-of-existence-of-technical-objects-simondon'>Du mode d'existence des objets techniques</w> part d'un diagnostic : la <pb>culture s'est constituée en système de défense contre les techniques</pb>, qu'elle réduit à de purs ustensiles ou mythifie en robots menaçants. Pour <ph id='simondon'>Simondon</ph>, la plus forte cause d'<c id='alienation'>aliénation</c> n'est pas la machine elle-même, mais la méconnaissance de sa nature et de son essence. Il récuse donc l'instrumentalisme autant que la technophobie : l'objet technique a sa propre <c>technicité</c> et sa propre genèse, la <c id='concretization'>concrétisation</c>, par laquelle ses éléments deviennent solidaires. Il voit dans le développement technique une possibilité majeure de transformation de la condition humaine, à une condition : que la <stk>culture intègre la connaissance des machines</stk>, et que l'homme en devienne l'organisateur et l'interprète, ni maître ni esclave. Favorable mais conditionnelle, cette position se place légèrement du côté du techno-optimisme : la confiance porte sur ce que la technique rend possible, non sur la puissance qu'elle confère.",
+          "en": "The introduction to <w id='mode-of-existence-of-technical-objects-simondon'>On the Mode of Existence of Technical Objects</w> starts from a diagnosis: <pb>culture has set itself up as a system of defence against technics</pb>, which it either reduces to mere utensils or mythologizes as menacing robots. For <ph id='simondon'>Simondon</ph>, the strongest cause of <c id='alienation'>alienation</c> is not the machine itself but the misunderstanding of its nature and essence. He therefore rejects instrumentalism as much as technophobia: the technical object has its own <c>technicity</c> and its own genesis, <c id='concretization'>concretization</c>, through which its elements become interdependent. He sees in technical development a major possibility for transforming the human condition, on one condition: that <stk>culture take in the knowledge of machines</stk>, and that the human become their organizer and interpreter, neither master nor slave. Favourable but conditional, this stance sits slightly on the techno-optimist side: the confidence bears on what technics makes possible, not on the power it confers."
+        },
+        "references": [
+          { "fr": "Du mode d'existence des objets techniques (1958), introduction et Ire partie", "en": "On the Mode of Existence of Technical Objects (1958), introduction and part I" },
+          { "fr": "« Culture et technique » (1965), repris dans Sur la technique (2014)", "en": "\"Culture and Technics\" (1965), reprinted in Sur la technique (2014)" }
+        ],
+        "quoteId": "la-plus-forte-cause-d-alienation-simondon",
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "HUMAN_PLACE_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0.15, 0.3, 0.55] },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "<ph id='simondon'>Simondon</ph> n'a pas écrit d'éthique de la nature ; sa position se déduit de son ontologie. Rien n'y existe comme un individu achevé posé face à un monde : tout être s'<c id='individuation'>individue</c> au sein d'un milieu avec lequel il forme un système. L'homme ne fait pas exception, puisque son individuation psychique et collective prolonge l'individuation vitale. La technique obéit à la même logique. L'objet technique concret forme avec son milieu un couplage, le <c id='associated-milieu'>milieu associé</c>, à la fois technique et géographique : la turbine Guimbal est entraînée par l'eau du fleuve, qui la refroidit en même temps. Cette vision systémique ne supprime pas l'action transformatrice, puisque l'homme agit sur le milieu qu'il exploite et aménage, mais elle en fait une part mineure : Simondon dénonce le <pb>schème du maître et de l'esclave appliqué aux machines</pb>. D'où un partage où domine l'appartenance à un réseau, avec une part de gardiennage et une part mineure de maîtrise. L'appartenance traduit l'insertion de l'homme dans un réseau d'interdépendances, non une doctrine de la valeur propre des vivants, qu'il ne développe pas. La part de gardiennage traduit le rôle singulier qu'il garde, celui d'organisateur et d'interprète des ensembles techniques, qui doit en comprendre et en régler les relations : une responsabilité de compréhension plus qu'une éthique de préservation. La position est une reconstruction : elle tire d'une ontologie de l'individuation une place de l'homme que Simondon ne formule pas en termes moraux.",
+          "en": "<ph id='simondon'>Simondon</ph> wrote no ethics of nature; his position follows from his ontology. Nothing in it exists as a finished individual set over against a world: every being <c id='individuation'>individuates</c> within a milieu with which it forms a system. The human is no exception, since its psychic and collective individuation extends vital individuation. Technics follows the same logic. The concrete technical object forms a coupling with its milieu, the <c id='associated-milieu'>associated milieu</c>, at once technical and geographical: the Guimbal turbine is driven by the river water, which cools it at the same time. This systemic view does not abolish transformative action, since the human acts on the milieu it exploits and develops, but it makes it a minor share: Simondon denounces the <pb>master-and-slave schema applied to machines</pb>. Hence a split in which membership of a network dominates, with a share of stewardship and a minor share of mastery. Membership renders the human's insertion into a web of interdependencies, not a doctrine of the intrinsic value of living beings, which he does not develop. The share of stewardship renders the singular role the human keeps, that of organizer and interpreter of technical ensembles, who must understand and regulate their relations: a responsibility of understanding more than an ethics of preservation. The position is a reconstruction: it draws from an ontology of individuation a place for the human that Simondon does not formulate in moral terms."
+        },
+        "references": [
+          { "fr": "Du mode d'existence des objets techniques (1958), introduction et Ire partie (le milieu associé, la turbine Guimbal)", "en": "On the Mode of Existence of Technical Objects (1958), introduction and part I (the associated milieu, the Guimbal turbine)" },
+          { "fr": "L'Individuation à la lumière des notions de forme et d'information (thèse 1958, publ. 2005), introduction", "en": "Individuation in Light of Notions of Form and Information (thesis 1958, publ. 2005), introduction" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "REDUCTION_EMERGENCE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": 0.6 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Pour <ph id='simondon'>Simondon</ph>, décomposer un individu en éléments déjà constitués ne suffit pas à expliquer sa formation. L'<c id='individuation'>individuation</c> produit une structure en résolvant les tensions d'un système chargé de potentiels, un système <c id='metastability'>métastable</c>, et la <c>relation</c> y a elle-même une réalité : elle n'est pas un lien ajouté entre des termes donnés d'avance. Le cristal qui se forme dans une solution sursaturée en est le paradigme physique. Cette démarche le rapproche du pôle émergentiste, sans lui prêter une doctrine générale des propriétés imprévisibles : son vocabulaire propre est celui de l'opération et de la <c id='transduction'>transduction</c>, propagation d'une structure de proche en proche.",
+          "en": "For <ph id='simondon'>Simondon</ph>, breaking an individual down into already constituted elements is not enough to explain how it forms. <c id='individuation'>Individuation</c> produces a structure by resolving the tensions of a system charged with potentials, a <c id='metastability'>metastable</c> system, and <c>relation</c> itself has reality there: it is not a link added between terms given in advance. The crystal forming in a supersaturated solution is its physical paradigm. This approach brings him close to the emergentist pole, without ascribing to him a general doctrine of unpredictable properties: his own vocabulary is that of operation and <c id='transduction'>transduction</c>, the step-by-step spread of a structure."
+        },
+        "references": [
+          { "fr": "L'Individuation à la lumière des notions de forme et d'information (thèse 1958, publ. 2005), introduction et Ire partie", "en": "Individuation in Light of Notions of Form and Information (thesis 1958, publ. 2005), introduction and part I" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "WORK_MEANING",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0.25, 0.75, 0] },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "<ph id='simondon'>Simondon</ph> reprend l'analyse marxienne de l'<c id='alienation'>aliénation</c> du travailleur pour la creuser. Elle ne tient pas seulement à la propriété des moyens de production, mais à un rapport incomplet à la machine, que l'ouvrier sert sans en comprendre ni le fonctionnement ni l'organisation d'ensemble. Il refuse d'ailleurs de penser la <c>technicité</c> à partir du travail : c'est l'<c>activité technique</c>, faite d'invention et de réglage, qui relie l'homme à la machine, et le travail industriel n'en est qu'une forme appauvrie. Le diagnostic d'aliénation porte donc sur le travail industriel de son temps, non sur toute activité ; l'activité technique, elle, peut accomplir l'homme, d'où un poids secondaire sur l'accomplissement.",
+          "en": "<ph id='simondon'>Simondon</ph> takes up the Marxian analysis of the worker's <c id='alienation'>alienation</c> and digs deeper. It does not stem only from ownership of the means of production, but from an incomplete relation to the machine, which the worker serves without understanding either its functioning or its overall organization. He refuses, moreover, to conceive <c>technicity</c> in terms of labour: it is <c>technical activity</c>, made of invention and regulation, that links the human to the machine, and industrial labour is only an impoverished form of it. The diagnosis of alienation thus bears on the industrial labour of his time, not on every activity; technical activity itself can fulfil the human, hence a secondary weight on fulfilment."
+        },
+        "references": [
+          { "fr": "Du mode d'existence des objets techniques (1958), IIe partie et conclusion", "en": "On the Mode of Existence of Technical Objects (1958), part II and conclusion" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "BEING_BECOMING",
+      "status": "REJECTS_ALTERNATIVE",
+      "note": {
+        "fr": "<ph id='simondon'>Simondon</ph> récuse l'opposition entre un être constitué, qui demeurerait, et un devenir qui lui arriverait du dehors. Il critique le <c>schème hylémorphique</c> hérité d'<ph id='aristotle'>Aristote</ph>, qui explique l'individu par une forme et une matière présupposées : pris sur le modèle du moulage d'une brique, ce schème oublie l'opération qui les met en relation (L'Individuation…, introduction et Ire partie). L'<c id='individuation'>individuation</c> explique à la fois la formation des individus, leur stabilité relative et leurs transformations : le devenir est une dimension de l'être, non ce qui l'abolit.",
+        "en": "<ph id='simondon'>Simondon</ph> rejects the opposition between a constituted being that would endure and a becoming that would befall it from outside. He criticizes the <c>hylomorphic schema</c> inherited from <ph id='aristotle'>Aristotle</ph>, which explains the individual by a presupposed form and matter: modelled on the moulding of a brick, this schema forgets the operation that brings them into relation (Individuation…, introduction and part I). <c id='individuation'>Individuation</c> explains at once the formation of individuals, their relative stability and their transformations: becoming is a dimension of being, not what abolishes it."
+      }
+    }
+  ],
+  "identity": {
+    "wikidata": "Q1345582",
+    "wikipedia": {
+      "fr": "https://fr.wikipedia.org/wiki/Gilbert_Simondon",
+      "en": "https://en.wikipedia.org/wiki/Gilbert_Simondon"
+    }
+  },
+  "updatedAt": "2026-10-11T00:00:00.000Z",
+  "validation": { "method": "NOT_VALIDATED" }
+}

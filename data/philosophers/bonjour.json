@@ -1,0 +1,26 @@
+{
+  "kind": "PHILOSOPHER",
+  "stub": true,
+  "id": "bonjour",
+  "name": {
+    "fr": "Laurence BonJour",
+    "en": "Laurence BonJour"
+  },
+  "summary": {
+    "fr": "Philosophe américain de la connaissance : d'abord défenseur du cohérentisme, il est l'auteur du célèbre cas du voyant fiable (1980) contre le fiabilisme.",
+    "en": "American epistemologist: first a defender of coherentism, he devised the famous case of the reliable clairvoyant (1980) against reliabilism."
+  },
+  "nationality": {
+    "fr": "Américain",
+    "en": "American"
+  },
+  "birth": 1943,
+  "language": "eng",
+  "movements": [
+    "analytic-philosophy"
+  ],
+  "updatedAt": "2026-10-28T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

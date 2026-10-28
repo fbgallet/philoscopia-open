@@ -1,0 +1,33 @@
+{
+  "id": "vyapti",
+  "term": {
+    "fr": "Vyāpti (concomitance invariable)",
+    "en": "Vyāpti (invariable concomitance)"
+  },
+  "aliases": {
+    "fr": [
+      "vyapti",
+      "concomitance invariable",
+      "upādhi",
+      "tarka"
+    ],
+    "en": [
+      "vyapti",
+      "invariable concomitance",
+      "upādhi",
+      "tarka"
+    ]
+  },
+  "definition": {
+    "fr": "Dans la logique indienne, la vyāpti est une relation invariable qui autorise l'inférence : partout où il y a de la fumée, il y a du feu, sans que l'inverse soit nécessairement vrai. Le <mv id='nyaya'>Nyāya</mv> cherche à l'établir par l'examen de cas pertinents, notamment la présence du feu avec la fumée et l'absence de fumée là où le feu manque. Il faut aussi écarter les conditions restrictives, appelées upādhi, et recourir au raisonnement hypothétique, tarka. Cette recherche rencontre des difficultés comparables à celles du <pb>problème de l'induction</pb>, sans se confondre avec lui.",
+    "en": "In Indian logic, vyāpti is an invariable relation that licenses inference: wherever there is smoke there is fire, without the converse being necessarily true. <mv id='nyaya'>Nyāya</mv> seeks to establish it by examining relevant cases, notably fire present with smoke and smoke absent where fire is lacking. One must also rule out restricting conditions, called upādhi, and resort to hypothetical reasoning, tarka. This inquiry meets difficulties comparable to those of the <pb>problem of induction</pb>, without being the same problem."
+  },
+  "relatedAxes": [
+    "KNOWLEDGE_SOURCE",
+    "SCIENTIFIC_METHOD"
+  ],
+  "relatedTerms": [
+    "pramana"
+  ],
+  "updatedAt": "2026-10-10T00:00:00.000Z"
+}

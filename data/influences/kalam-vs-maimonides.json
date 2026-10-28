@@ -1,0 +1,16 @@
+{
+  "id": "kalam-vs-maimonides",
+  "from": { "kind": "MOVEMENT", "slug": "kalam" },
+  "to": { "kind": "PHILOSOPHER", "slug": "maimonides" },
+  "directness": "ATTESTED",
+  "mode": "REACTS_AGAINST",
+  "strength": "STRONG",
+  "note": {
+    "fr": "<ph id='maimonides'>Maïmonide</ph> expose puis réfute les prémisses des théologiens du <mv id='kalam'>kalām</mv> (atomisme, recréation continue du monde, possibilité de tout ce qui est imaginable), qu'il juge fondées sur l'imagination et non sur la nature des choses.",
+    "en": "<ph id='maimonides'>Maimonides</ph> sets out and then refutes the premises of the <mv id='kalam'>kalām</mv> theologians (atomism, the continuous re-creation of the world, the possibility of everything imaginable), which he judges to rest on imagination rather than on the nature of things."
+  },
+  "sources": [
+    { "fr": "Maïmonide, Guide des égarés, I, 71-76", "en": "Maimonides, Guide of the Perplexed, I.71-76" }
+  ],
+  "updatedAt": "2026-10-09T00:00:00.000Z"
+}

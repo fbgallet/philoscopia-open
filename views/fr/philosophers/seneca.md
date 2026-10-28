@@ -18,6 +18,16 @@ Figure majeure du [stoïcisme](../movements/stoicism.md) impérial, né à Cordo
 
 ## Positions
 
+### [Cercle moral](../axes/moral-circle.md)
+
+*positionné · inférable · mineure*
+
+Anthropocentrisme 100%
+
+Sénèque distingue les mouvements des animaux des passions proprement humaines, qui supposent l'assentiment de la raison : l'animal n'a ni colère ni vertu au sens propre. Il rapporte pourtant les raisons que lui enseigna Sotion pour s'abstenir de viande, dont la crainte d'habituer l'homme à la cruauté, et dit avoir suivi ce régime un an avant de l'abandonner sur le conseil de son père, dans un climat de suspicion envers les cultes étrangers. Ce témoignage atteste une réflexion morale sur l'alimentation, non une doctrine faisant de la sensibilité animale le fondement d'un statut moral.
+
+*Sources : De la colère, I, 3 · Lettres à Lucilius, 108, 17-22*
+
 ### [Essence et existence](../axes/essence.md)
 
 *positionné · inférable · mineure*

@@ -1,0 +1,13 @@
+{
+  "id": "gelassenheit",
+  "term": { "fr": "Sérénité (Gelassenheit)", "en": "Releasement (Gelassenheit)" },
+  "aliases": { "fr": ["Gelassenheit", "égalité d'âme"], "en": ["Gelassenheit"] },
+  "definition": {
+    "fr": "Mot de la mystique rhénane (Maître Eckhart), où il désigne le détachement par lequel l'âme se laisse à Dieu, que <ph id='heidegger'>Heidegger</ph> reprend en 1955 en le transformant. La Gelassenheit n'est plus un abandon religieux, mais une attitude de non-vouloir envers la technique : dire à la fois « oui » à l'usage des objets techniques et « non » à leur prétention de régner sur notre être, et rester ouvert au sens qui s'y dérobe. Les traductions françaises hésitent entre « sérénité », « égalité d'âme » et « délaissement ».",
+    "en": "A word from Rhineland mysticism (Meister Eckhart), where it names the detachment by which the soul lets itself go to God, taken up and transformed by <ph id='heidegger'>Heidegger</ph> in 1955. Gelassenheit is no longer a religious surrender but an attitude of non-willing toward technology: saying both \"yes\" to the use of technical objects and \"no\" to their claim to rule over our being, while remaining open to the meaning that withdraws in them. English renderings include \"releasement\" and \"composure\"."
+  },
+  "relatedAxes": ["TECHNOLOGY", "ATTENTION"],
+  "relatedTerms": ["gestell"],
+  "figure": { "slug": "heidegger", "name": { "fr": "Martin Heidegger", "en": "Martin Heidegger" } },
+  "updatedAt": "2026-10-11T00:00:00.000Z"
+}

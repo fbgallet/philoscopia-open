@@ -32,6 +32,8 @@
     "fr": "Anglais",
     "en": "English"
   },
+  "language": "eng",
+  "otherLanguages": ["lat"],
   "movements": [
     "empiricism"
   ],

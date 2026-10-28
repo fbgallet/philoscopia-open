@@ -11,6 +11,7 @@
   "nationality": { "fr": "Français", "en": "French" },
   "birth": 1623,
   "death": 1662,
+  "language": "fra",
   "movements": [],
   "updatedAt": "2026-06-21T00:00:00.000Z",
   "validation": { "method": "NOT_VALIDATED" }

@@ -1,0 +1,16 @@
+{
+  "id": "simondon-to-stiegler",
+  "from": { "kind": "PHILOSOPHER", "slug": "simondon" },
+  "to": { "kind": "PHILOSOPHER", "slug": "stiegler" },
+  "directness": "ATTESTED",
+  "mode": "REINTERPRETS",
+  "strength": "STRONG",
+  "note": {
+    "fr": "<ph id='stiegler'>Stiegler</ph> fait de <ph id='simondon'>Simondon</ph> l'une de ses sources principales : dans <w>La Technique et le Temps</w>, il reprend la genèse des objets techniques et l'individuation psychique et collective, pour soutenir que l'homme s'individue avec ses supports techniques, qui sont aussi sa mémoire.",
+    "en": "<ph id='stiegler'>Stiegler</ph> makes <ph id='simondon'>Simondon</ph> one of his main sources: in <w>Technics and Time</w>, he takes up the genesis of technical objects and psychic and collective individuation, to argue that the human individuates itself with its technical supports, which are also its memory."
+  },
+  "sources": [
+    { "fr": "Stiegler, La Technique et le Temps, t. 1 (1994)", "en": "Stiegler, Technics and Time, vol. 1 (1994)" }
+  ],
+  "updatedAt": "2026-10-11T00:00:00.000Z"
+}

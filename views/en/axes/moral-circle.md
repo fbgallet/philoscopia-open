@@ -49,13 +49,17 @@ Moral worth attaches to ecological wholes themselves: species, ecosystems, the b
 ## Arguments
 
 - *Anthropocentrism* · for : [The dignity of the person](../arguments/anthropocentrism-dignity.md)
+- *Anthropocentrism* · against : [Grief for the animal](../arguments/anthropocentrism-grief-objection.md)
 - *Anthropocentrism* · against : [The argument from marginal cases](../arguments/anthropocentrism-marginal-cases-objection.md)
 - *Pathocentrism* · for : ['Can they suffer?'](../arguments/pathocentrism-can-they-suffer.md)
+- *Pathocentrism* · against : [The fox and the rabbit](../arguments/pathocentrism-predation-objection.md)
 - *Pathocentrism* · against : [Sentience, an arbitrary boundary?](../arguments/pathocentrism-reverence-objection.md)
 - *Biocentrism* · for : [Reverence for life](../arguments/biocentrism-reverence-for-life.md)
+- *Biocentrism* · against : [The antibiotic](../arguments/biocentrism-antibiotic-objection.md)
 - *Biocentrism* · against : [A good, but for whom?](../arguments/biocentrism-no-interests-objection.md)
 - *Ecocentrism* · for : [The land ethic](../arguments/ecocentrism-land-ethic.md)
 - *Ecocentrism* · against : [The whole against the individual](../arguments/ecocentrism-environmental-fascism-objection.md)
+- *Ecocentrism* · against : [The return of the wolf](../arguments/ecocentrism-returning-wolf-objection.md)
 
 ## Grounding relations
 

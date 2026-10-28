@@ -1,0 +1,16 @@
+{
+  "id": "kierkegaard-to-ellul",
+  "from": { "kind": "PHILOSOPHER", "slug": "kierkegaard" },
+  "to": { "kind": "PHILOSOPHER", "slug": "ellul" },
+  "directness": "ATTESTED",
+  "mode": "CONTINUES",
+  "strength": "MEDIUM",
+  "note": {
+    "fr": "<ph id='ellul'>Ellul</ph> tient <ph id='kierkegaard'>Kierkegaard</ph> pour l'un de ses maîtres : il lui doit la pensée dialectique, le primat de l'individu devant Dieu contre la masse et la méfiance envers une chrétienté installée.",
+    "en": "<ph id='ellul'>Ellul</ph> counted <ph id='kierkegaard'>Kierkegaard</ph> among his masters: he owes him dialectical thinking, the primacy of the individual before God against the crowd, and distrust of an established Christendom."
+  },
+  "sources": [
+    { "fr": "Ellul, À temps et à contretemps, entretiens avec Madeleine Garrigou-Lagrange (1981)", "en": "Ellul, In Season, Out of Season, interviews with Madeleine Garrigou-Lagrange (1981)" }
+  ],
+  "updatedAt": "2026-10-11T00:00:00.000Z"
+}

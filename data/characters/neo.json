@@ -1,0 +1,155 @@
+{
+  "kind": "CHARACTER",
+  "id": "neo",
+  "name": {
+    "fr": "Neo",
+    "en": "Neo"
+  },
+  "tagline": {
+    "fr": "Un homme qui préfère un réel hostile à un monde confortable, et refuse que quiconque, machine ou prophète, écrive sa vie à sa place.",
+    "en": "A man who prefers a hostile reality to a comfortable world, and refuses to let anyone, machine or prophet, write his life for him."
+  },
+  "summary": {
+    "fr": "Thomas Anderson, programmeur le jour et pirate informatique la nuit sous le nom de Neo, sent depuis longtemps que quelque chose cloche dans le monde. Quand Morpheus lui révèle que ce monde est une simulation, il choisit de s'en réveiller sans savoir ce qu'il y perdra. Personnage de l'apprentissage, il passe du soupçon à la vision : il apprend que les règles de la simulation ne sont que des règles.",
+    "en": "Thomas Anderson, a programmer by day and a hacker by night under the name Neo, has long sensed that something is wrong with the world. When Morpheus reveals that this world is a simulation, he chooses to wake up from it without knowing what he will lose. A character of apprenticeship, he moves from suspicion to sight: he learns that the simulation's rules are only rules."
+  },
+  "work": {
+    "fictionId": "the-matrix",
+    "title": {
+      "fr": "Matrix",
+      "en": "The Matrix"
+    },
+    "author": {
+      "fr": "Lana et Lilly Wachowski",
+      "en": "Lana and Lilly Wachowski"
+    },
+    "year": 1999,
+    "medium": "FILM"
+  },
+  "entries": [
+    {
+      "axisId": "TRUTH_VALUE",
+      "status": "POSITIONED",
+      "practicedValue": {
+        "kind": "scalar",
+        "value": -0.85
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Neo choisit la pilule rouge à l'aveugle, sur la seule promesse de la vérité, et ne revient pas sur ce choix quand le réel se révèle un désert, même s'il vomit en apprenant, à bord du Nebuchadnezzar, ce qu'est devenu le monde. Sa quête précède d'ailleurs la révélation : pirate, il cherchait déjà ce qu'est la Matrice.",
+          "en": "Neo takes the red pill blind, on the sole promise of the truth, and does not go back on that choice when reality turns out to be a desert, even though he throws up aboard the Nebuchadnezzar on learning what has become of the world. His search in fact comes before the revelation: as a hacker, he was already looking for what the Matrix is."
+        },
+        "references": [
+          {
+            "fr": "La scène des deux pilules",
+            "en": "The two pills scene"
+          },
+          {
+            "fr": "Le programme de chargement : le désert du réel",
+            "en": "The loading program: the desert of the real"
+          },
+          {
+            "fr": "Le malaise de Neo à bord du Nebuchadnezzar",
+            "en": "Neo's collapse aboard the Nebuchadnezzar"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "FREEDOM",
+      "status": "POSITIONED",
+      "practicedValue": {
+        "kind": "scalar",
+        "value": -0.7
+      },
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.8
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "À Morpheus qui lui demande s'il croit au destin, Neo répond que non, parce qu'il n'aime pas l'idée de ne pas être maître de sa vie. Ses actes suivent ses mots : <spo>quand l'Oracle semble lui refuser le rôle d'Élu et lui annonce qu'il devra choisir entre sa vie et celle de Morpheus, il retourne chercher Morpheus, et ce choix fait de lui l'Élu qu'on lui disait ne pas être</spo>.",
+          "en": "When Morpheus asks him whether he believes in fate, Neo says no, because he does not like the idea that he is not in control of his life. His actions follow his words: <spo>when the Oracle seems to deny him the role of the One and tells him he will have to choose between his life and Morpheus's, he goes back for Morpheus, and that choice makes him the One he was told he was not</spo>."
+        },
+        "references": [
+          {
+            "fr": "La première rencontre avec Morpheus",
+            "en": "The first meeting with Morpheus"
+          },
+          {
+            "fr": "La visite à l'Oracle",
+            "en": "The visit to the Oracle"
+          },
+          {
+            "fr": "La décision de sauver Morpheus",
+            "en": "The decision to rescue Morpheus"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "AUTHORITY",
+      "status": "POSITIONED",
+      "practicedValue": {
+        "kind": "scalar",
+        "value": 0.4
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Son patron lui reproche son <q>problème avec l'autorité</q> et sa conviction que les règles ne valent pas pour lui. <spo>Le film finit sur sa promesse de montrer aux humains un monde sans règles ni contrôles, sans frontières</spo> : une révolte contre la domination plus qu'un anarchisme pensé, sans qu'aucun ordre de remplacement soit envisagé.",
+          "en": "His boss reproaches him for his <q>problem with authority</q> and his belief that the rules do not apply to him. <spo>The film ends on his promise to show people a world without rules and controls, without borders</spo>: a revolt against domination rather than a worked-out anarchism, with no alternative order in view."
+        },
+        "references": [
+          {
+            "fr": "La scène du bureau, chez Metacortex",
+            "en": "The office scene at Metacortex"
+          },
+          {
+            "fr": "L'appel téléphonique final",
+            "en": "The final phone call"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "CONTROL_SCOPE",
+      "status": "POSITIONED",
+      "practicedValue": {
+        "kind": "scalar",
+        "value": 0.6
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Son entraînement est un apprentissage de la maîtrise : Morpheus lui enseigne que certaines règles de la simulation se plient et que d'autres se brisent, et l'enfant à la cuillère, chez l'Oracle, lui montre que c'est soi qu'on plie, non la cuillère. Leçon intérieure, mais qui se traduit en pouvoir sur le monde : Neo ne se contente pas de discerner ce qui dépend de lui, il en repousse la limite.",
+          "en": "His training is an apprenticeship in mastery: Morpheus teaches him that some of the simulation's rules can be bent and others broken, and the spoon boy at the Oracle's shows him that it is oneself that bends, not the spoon. An inner lesson, but one that turns into power over the world: Neo does not merely discern what depends on him, he pushes back its limit."
+        },
+        "references": [
+          {
+            "fr": "Le combat d'entraînement avec Morpheus",
+            "en": "The sparring session with Morpheus"
+          },
+          {
+            "fr": "La visite à l'Oracle : l'enfant à la cuillère",
+            "en": "The visit to the Oracle: the spoon boy"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    }
+  ],
+  "updatedAt": "2026-10-20T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

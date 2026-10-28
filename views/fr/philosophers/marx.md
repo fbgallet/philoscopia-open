@@ -18,6 +18,16 @@ Philosophe et économiste allemand du XIXe siècle, formé à l'école de [Hegel
 
 ## Positions
 
+### [Place de l'homme dans la nature](../axes/human-place-nature.md)
+
+*positionné · explicite dans les textes · majeure*
+
+Maîtrise 60% · Gardiennage 40%
+
+Chez Marx, le travail transforme la nature tout en développant les capacités humaines : la nature est le « corps inorganique » de l'homme, et cette activité reste un échange matériel dont il dépend. La maîtrise collective de cet échange ne donne pourtant aucun droit de propriété absolu sur la terre : même une société entière n'en est que l'usufruitière, et doit la léguer améliorée aux générations suivantes. La critique de l'agriculture capitaliste montre ainsi que le développement productif devient destructeur lorsqu'il épuise à la fois le travailleur et le sol.
+
+*Sources : Manuscrits de 1844, premier manuscrit, « Le travail aliéné » · Le Capital, I, « Machinisme et grande industrie », §10 · Le Capital, III, ch. 46*
+
 ### [La violence](../axes/violence.md)
 
 *positionné · explicite dans les textes · mineure*
@@ -438,6 +448,7 @@ La religion est à ses yeux un bonheur illusoire qui console d'une misère réel
 
 ## Influence sur
 
+- **[Ellul](../philosophers/ellul.md)** (réinterprète) : Lecteur de [Marx](../philosophers/marx.md) dès sa jeunesse et longtemps enseignant de sa pensée, [Ellul](../philosophers/ellul.md) en garde la méthode, chercher le facteur déterminant d'une société, mais le déplace : au XXe siècle, ce n'est plus le capital, c'est la technique.
 - **[Friedrich Engels](../philosophers/engels.md)** (prolonge) : [Engels](../philosophers/engels.md) élabore avec [Marx](../philosophers/marx.md), puis après lui, la critique de l'économie politique et la conception matérialiste de l'histoire, dont il assure la formulation systématique et la diffusion.
 - **[Antonio Gramsci](../philosophers/gramsci.md)** (réinterprète) : [Gramsci](../philosophers/gramsci.md) relit [Marx](../philosophers/marx.md) en déplaçant l'analyse de l'infrastructure vers la culture : le concept d'hégémonie explique comment une classe domine par le consentement et la société civile, pas seulement par la force.
 

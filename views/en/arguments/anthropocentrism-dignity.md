@@ -16,7 +16,7 @@
 
 **⇒** So the circle of justice is that of persons: cruelty to animals is a wrong because it degrades us and betrays our humanity, not because an injustice is done to the animal.
 
-**Challenged by** : [The argument from marginal cases](../arguments/anthropocentrism-marginal-cases-objection.md)
+**Challenged by** : [Grief for the animal](../arguments/anthropocentrism-grief-objection.md) · [The argument from marginal cases](../arguments/anthropocentrism-marginal-cases-objection.md)
 
 **Bears on the problems** : [The criterion of moral status](../axes/moral-circle.md) · [The privilege of the species](../axes/moral-circle.md)
 

@@ -1,0 +1,1177 @@
+{
+  "id": "blade-runner",
+  "title": {
+    "fr": "Blade Runner",
+    "en": "Blade Runner"
+  },
+  "saga": {
+    "id": "blade-runner",
+    "name": {
+      "fr": "Blade Runner",
+      "en": "Blade Runner"
+    },
+    "order": 1
+  },
+  "creators": [
+    {
+      "name": {
+        "fr": "Ridley Scott",
+        "en": "Ridley Scott"
+      },
+      "role": "DIRECTOR"
+    },
+    {
+      "name": {
+        "fr": "Hampton Fancher et David Peoples (scénario), d'après le roman de Philip K. Dick",
+        "en": "Hampton Fancher and David Peoples (screenplay), from the novel by Philip K. Dick"
+      },
+      "role": "WRITER"
+    }
+  ],
+  "year": 1982,
+  "medium": "FILM",
+  "identity": {
+    "wikidata": "Q184843",
+    "wikipedia": {
+      "fr": "https://fr.wikipedia.org/wiki/Blade_Runner_(film)",
+      "en": "https://en.wikipedia.org/wiki/Blade_Runner"
+    }
+  },
+  "externalLinks": [
+    {
+      "site": "IMDB",
+      "url": "https://www.imdb.com/title/tt0083658/"
+    },
+    {
+      "site": "ALLOCINE",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=1975.html",
+      "locale": "fr"
+    }
+  ],
+  "canon": {
+    "fr": "Le Final Cut (2007), la seule version que Ridley Scott a entièrement contrôlée : sans voix off, avec le rêve de la licorne, et une fin qui s'arrête sur la porte de l'ascenseur. Les versions de 1982 et le Director's Cut de 1992 ne servent pas de preuve.",
+    "en": "The Final Cut (2007), the only version over which Ridley Scott had full control: no voice-over, the unicorn dream included, and an ending that stops at the elevator door. The 1982 versions and the 1992 Director's Cut are not used as evidence."
+  },
+  "hook": {
+    "fr": "Los Angeles, 2019. Des êtres fabriqués, les réplicants, presque impossibles à distinguer des humains, servent d'esclaves dans les colonies de l'espace. Sur Terre, ils sont interdits, et des policiers, les blade runners, sont chargés de les « retirer ». Quelques réplicants en fuite y sont pourtant revenus. Le film met à l'épreuve ce que nous croyons savoir de la frontière entre une personne et une chose fabriquée.",
+    "en": "Los Angeles, 2019. Manufactured beings, the replicants, almost impossible to tell from humans, serve as slaves in the off-world colonies. They are banned on Earth, and police officers, the blade runners, are tasked with \"retiring\" them. A few fugitive replicants have come back all the same. The film puts to the test what we think we know about the line between a person and a manufactured thing."
+  },
+  "problem": {
+    "commonBelief": {
+      "fr": "On croit savoir ce qui sépare un être humain d'un objet fabriqué : l'humain naît, il a un passé à lui, et personne n'a fixé d'avance la date de sa mort ; l'objet est fait pour un usage, et l'on en dispose comme on veut.",
+      "en": "We think we know what separates a human being from a manufactured object: a human is born, has a past of their own, and no one has set the date of their death in advance; an object is made for a use, and we do with it as we please."
+    },
+    "statement": {
+      "fr": "Les réplicants ont été faits pour un usage : leur corps, leur force, leur fonction et jusqu'à la durée de leur vie ont été décidés par d'autres. Pourtant ils ont peur, ils tiennent les uns aux autres, ils veulent vivre, au point que leurs fabricants ont abrégé leur vie par crainte de leurs émotions. Si un être est ce pour quoi on l'a fait, on peut le « retirer » comme on met au rebut un outil, quoi qu'il ressente. Si ce qu'il éprouve et ce qu'il fait comptent davantage que son origine, la frontière dont dépend tout ce monde tombe, et la chasse devient une suite de meurtres. Mais on ne sait pas à quoi reconnaître ce qui, chez un être fabriqué, lui appartient vraiment, puisque même ses meilleures conduites pourraient avoir été prévues par son fabricant.",
+      "en": "Replicants were made for a use: their bodies, their strength, their function and even the length of their lives were decided by others. Yet they are afraid, they care for one another, they want to live, so much so that their makers cut their lives short for fear of their emotions. If a being is what it was made for, it can be \"retired\" the way one scraps a tool, whatever it feels. If what it feels and what it does count for more than its origin, the line on which this whole world depends falls, and the hunt becomes a string of murders. But we do not know how to recognize what, in a made being, truly belongs to it, since even its best conduct might have been planned by its maker."
+    },
+    "path": [
+      {
+        "kind": "PROSE",
+        "text": {
+          "fr": "Los Angeles, 2019. La Tyrell Corporation, fondée par Eldon Tyrell, fabrique des réplicants : des êtres vivants conçus en laboratoire, plus forts et plus agiles que les humains, dont on se sert comme main-d'œuvre servile dans les colonies de l'espace. Sur Terre, ils sont interdits, et des policiers spécialisés, les blade runners, sont chargés de les abattre ; l'administration dit qu'ils les « retirent ». Gaff, un policier qui plie de petites figurines de papier, ramène Rick Deckard, qui avait quitté ce métier, auprès de son ancien chef, Bryant : quatre réplicants en fuite sont revenus sur Terre, menés par Roy Batty, avec Leon, Zhora et Pris. Pour les abattre, il faut d'abord les reconnaître, et ils ressemblent en tout aux humains. La police dispose pour cela d'un test, le Voight-Kampff, qui prend l'empathie pour critère : on pose au sujet des questions éprouvantes, et un appareil guette dans son œil une réaction involontaire. Le choix n'a rien d'évident. <ph id='descartes'>Descartes</ph> distinguait l'homme de l'automate par le langage et par une raison capable de répondre à toute situation ; les réplicants remplissent ces deux critères, et à le suivre il faudrait leur reconnaître un esprit. Le test cherche donc autre chose : l'émotion. Mais le test dit seulement qui est un réplicant. Il ne dit pas pourquoi cela autoriserait à le tuer.",
+          "en": "Los Angeles, 2019. The Tyrell Corporation, founded by Eldon Tyrell, makes replicants: living beings engineered in a laboratory, stronger and more agile than humans, used as slave labor in the off-world colonies. They are banned on Earth, and specialized police officers, the blade runners, are tasked with killing them; the official word is \"retiring\" them. Gaff, a cop who folds little paper figures, brings Rick Deckard, who had left the job, back to his old boss, Bryant: four fugitive replicants have returned to Earth, led by Roy Batty, along with Leon, Zhora and Pris. To kill them, you first have to recognize them, and they look exactly like humans. For this the police have a test, the Voight-Kampff, which takes empathy as its criterion: the subject is asked disturbing questions while a machine watches their eye for an involuntary reaction. The choice is far from obvious. <ph id='descartes'>Descartes</ph> told man from automaton by language and by a reason able to respond to any situation; replicants meet both criteria, and by his lights they would have to be granted a mind. So the test looks for something else: emotion. But the test only says who is a replicant. It does not say why that would make it right to kill them."
+        }
+      },
+      {
+        "kind": "PROSE",
+        "text": {
+          "fr": "<pb>Si le test ne justifie pas la mise à mort, c'est ce pour quoi on les a faits qui doit la justifier : dans ce monde, la fonction tient lieu de nature, et la nature décide des droits.</pb> Bryant présente chacun des fugitifs par sa fonction : un modèle de combat, un manutentionnaire, une tueuse entraînée, un « modèle de plaisir ». Il explique aussi pourquoi ils ne vivent que quatre ans : leurs concepteurs craignaient qu'avec les années, ils finissent par éprouver leurs propres émotions, la haine, l'amour, la peur, la colère, l'envie. Leur mort est une sécurité, prévue pour qu'ils restent ce pour quoi on les a faits. Pour montrer que chez l'homme <c id='existentialism'>« l'existence précède l'essence »</c>, <ph id='sartre'>Sartre</ph> partait de l'exemple inverse, un coupe-papier : un objet dont la fonction est conçue avant qu'il soit fabriqué. Leur fabricant voudrait que les réplicants restent ce coupe-papier. Mais un coupe-papier n'a pas peur de mourir. S'ils ne sont que leur destination, les retirer revient à mettre au rebut des outils usés ; s'ils deviennent quelqu'un, plus rien ne distingue ce « retrait » d'un meurtre. Pour trancher, il faudrait savoir regarder en eux.",
+          "en": "<pb>If the test does not justify the killing, what they were made for must: in this world function stands in for nature, and nature decides rights.</pb> Bryant introduces each fugitive by their function: a combat model, a loader, a trained killer, a \"pleasure model\". He also explains why they live only four years: their designers feared that, given time, they would come to feel emotions of their own, hate, love, fear, anger, envy. Their death is a safety device, built in so that they remain what they were made for. To show that for human beings <c id='existentialism'>\"existence precedes essence\"</c>, <ph id='sartre'>Sartre</ph> started from the opposite case, a paper knife: an object whose function is conceived before it is made. Their maker would like replicants to stay that paper knife. But a paper knife is not afraid of dying. If these beings are nothing but their purpose, retiring them amounts to scrapping worn-out tools; if they become someone, nothing distinguishes this \"retirement\" from murder any more. To decide, one would have to know how to look into them."
+        }
+      },
+      {
+        "kind": "PROSE",
+        "text": {
+          "fr": "<pb>Tout dépend alors de l'endroit où l'on regarde.</pb> Le film déplace l'examen, de l'œil qu'on scrute vers ce que cet œil a vu. Il s'ouvre sur un œil en très gros plan, où se reflète une ville hérissée de flammes. Le test scrute l'iris des suspects. Dans le bureau de Tyrell, une chouette veille : elle est artificielle. Batty, lui, va trouver l'homme qui fabrique des yeux pour la société, et lui lance que s'il pouvait voir ce que lui a vu avec ces yeux-là… L'œil fabriqué n'est pas en cause : ce qui compte est ce qu'il a vu. Et c'est le spectateur que le film soumet au test. Deckard explique à Rachael, une jeune femme qui travaille pour Tyrell, que les réplicants sont des machines comme les autres : utiles ou dangereux, et dans le premier cas, ce n'est pas son affaire. Le film, lui, ne nous laisse pas cette indifférence : il est construit pour provoquer en nous les réactions que le test voudrait mesurer, et pour les tourner vers les êtres fabriqués. <spo>Quand Deckard abat Zhora dans le dos, en pleine rue, alors qu'elle s'enfuit à travers des vitrines, sa chute est filmée au ralenti, longuement, parmi les mannequins. Quand Rachael apprend que ses souvenirs ne sont pas les siens, la caméra s'attarde sur ses larmes.</spo> Ceux qui font passer le test, eux, n'en montrent guère.",
+          "en": "<pb>Everything then depends on where one looks.</pb> The film shifts the examination from the eye one scrutinizes to what that eye has seen. It opens on an eye in extreme close-up, reflecting a city bristling with flames. The test scrutinizes the suspects' irises. In Tyrell's office an owl keeps watch: it is artificial. Batty, for his part, goes to see the man who makes eyes for the company, and tells him that if only he could see what Batty has seen with those eyes… The manufactured eye is not the issue: what counts is what it has seen. And it is the viewer the film puts to the test. Deckard explains to Rachael, a young woman who works for Tyrell, that replicants are like any other machine: either a benefit or a hazard, and if they are a benefit, it is not his problem. The film does not leave us that indifference: it is built to draw from us the very reactions the test means to measure, and to turn them toward the replicants. <spo>When Deckard shoots Zhora in the back, in the middle of the street, as she runs through shop windows, her fall is filmed in slow motion, at length, among the mannequins. When Rachael learns that her memories are not her own, the camera lingers on her tears.</spo> Those who give the test show little of it themselves."
+        }
+      },
+      {
+        "kind": "MAP",
+        "mapId": "made-and-owed"
+      },
+      {
+        "kind": "PROSE",
+        "spoiler": true,
+        "text": {
+          "fr": "<pb>Il reste aux humains un dernier privilège : un passé et une fin que personne n'a décidés pour eux. Le film le leur retire aussi.</pb> Rachael a reçu des souvenirs d'enfance empruntés à la nièce de Tyrell, comme un « coussin » pour ses émotions, afin qu'on la contrôle mieux. <ph id='locke'>Locke</ph> faisait reposer <c id='personal-identity'>l'identité personnelle</c> sur la conscience, qui s'étend jusqu'aux actions passées : suffit-il d'éprouver un souvenir comme le sien, sans avoir vécu l'événement ? Le film répond par un geste plutôt que par un critère. Assise au piano de Deckard, Rachael dit se souvenir de leçons sans savoir si ce sont les siennes ou celles de la nièce, puis elle joue ; et c'est elle qui, peu avant, a sauvé Deckard en abattant Leon. Ses souvenirs viennent d'une autre, mais ce qu'elle en fait n'appartient qu'à elle : le film suggère qu'un passé fabriqué n'empêche pas de devenir quelqu'un. La fin n'offre pas cette issue. On peut faire sien un passé reçu ; on ne peut pas repousser une échéance fixée par un autre. C'est pourtant ce que Batty vient demander. Il se fait introduire chez Tyrell par J. F. Sebastian, un concepteur de la société chez qui Pris a trouvé refuge, et réclame plus de vie à son créateur. Impossible, répond Tyrell, qui le console : la flamme qui brûle deux fois plus fort brûle deux fois moins longtemps ; qu'il savoure le temps qui lui reste. La consolation rappelle <ph id='epicurus'>Épicure</ph> dans la <w id='letter-to-menoeceus-epicurus'>Lettre à Ménécée</w> : la valeur d'une vie ne se mesure pas à sa longueur. Mais elle sort de la bouche de celui qui a fixé le terme. Batty le tue en lui enfonçant les pouces dans les yeux, les yeux d'un créateur qui ne voyait en lui qu'un produit réussi. Il ne lui reste qu'à affronter celui qui le chasse.",
+          "en": "<pb>Humans have one privilege left: a past and an end that no one decided for them. The film takes that away too.</pb> Rachael was given childhood memories borrowed from Tyrell's niece, as a \"cushion\" for her emotions, so that she could be controlled more easily. <ph id='locke'>Locke</ph> grounded <c id='personal-identity'>personal identity</c> in consciousness as it extends back to past actions: is it enough to feel a memory as one's own without having lived the event? The film answers with a gesture rather than a criterion. Sitting at Deckard's piano, Rachael says she remembers lessons without knowing whether they were hers or the niece's, then she plays; and she is the one who, shortly before, saved Deckard by shooting Leon. Her memories come from someone else, but what she does with them is hers alone: the film suggests that a manufactured past does not prevent one from becoming someone. The end offers no such way out. One can make a received past one's own; one cannot push back a deadline set by someone else. Yet that is what Batty comes to ask for. He gets J. F. Sebastian, a company designer who has taken Pris in, to bring him to Tyrell, and demands more life from his maker. Impossible, Tyrell answers, and consoles him: the light that burns twice as bright burns half as long; let him revel in the time he has left. The consolation recalls <ph id='epicurus'>Epicurus</ph> in the <w id='letter-to-menoeceus-epicurus'>Letter to Menoeceus</w>: the worth of a life is not measured by its length. But it comes from the mouth of the man who set the term. Batty kills him by driving his thumbs into his eyes, the eyes of a maker who saw in him only a successful product. All that is left for him is to face the man who hunts him."
+        }
+      },
+      {
+        "kind": "PROSE",
+        "spoiler": true,
+        "text": {
+          "fr": "<pb>Si rien ne repousse l'échéance, reste à savoir ce qui, d'une vie fabriquée, appartient à celui qui la vit.</pb> Le dernier acte y répond en retournant le genre que le film empruntait. Blade Runner a commencé comme un film noir, avec son détective, sa pluie et son enquête. Après que Deckard a abattu Pris, c'est lui qui devient la proie : Batty le traque dans l'immeuble délabré de Sebastian, lui brise deux doigts, l'un pour Zhora, l'autre pour Pris, et lui fait éprouver ce qu'il appelle la condition d'esclave : vivre dans la peur. Son propre corps lâche ; il s'enfonce un clou dans la main pour tenir. Puis, quand Deckard, suspendu au bord d'un toit, lâche prise, Batty le rattrape. Le modèle conçu pour le combat accomplit, comme dernier acte, le contraire de sa fonction. Il ne parle alors ni de son créateur ni de sa vengeance, mais de ce qu'il a vu dans l'espace, et de ces moments qui vont se perdre, comme des larmes dans la pluie. C'est la réponse du film au test du début : ce qui fait de lui quelqu'un n'est pas dans son iris, mais dans ce que ses yeux ont vu, que nul autre n'a vu et qui disparaît avec lui, sauf pour le témoin qu'il vient de sauver. Le clou dans la main et la colombe qui s'envole à sa mort sont des images chrétiennes, sans promesse d'au-delà. <ph id='camus'>Camus</ph> voyait dans la <c id='revolt'>révolte</c> ce qui fonde un « nous » ; celle de Batty, commencée par un meurtre, s'achève en reconnaissant dans son chasseur un être qui a peur comme lui. La dernière scène déplace encore la frontière. Gaff laisse Rachael en vie, et une licorne de papier devant la porte de Deckard ; or Deckard avait rêvé d'une licorne. Si Gaff connaît ce rêve, le chasseur est peut-être lui-même fabriqué. Le film ne le dit pas. Il laisse l'impasse ouverte, mais en a retiré le privilège des humains : on ne sait toujours pas ce qui, chez un être fabriqué, lui appartient vraiment, et les humains ne peuvent plus être sûrs que leurs propres souvenirs leur appartiennent davantage.",
+          "en": "<pb>If nothing can push back the deadline, the question is what, in a manufactured life, belongs to the one who lives it.</pb> The last act answers by overturning the genre the film had borrowed. Blade Runner began as a film noir, with its detective, its rain and its investigation. After Deckard has shot Pris, he becomes the prey: Batty hunts him through Sebastian's crumbling building, breaks two of his fingers, one for Zhora, one for Pris, and makes him feel what he calls the condition of a slave: living in fear. His own body is failing; he drives a nail through his hand to keep going. Then, when Deckard, hanging from the edge of a roof, loses his grip, Batty catches him. The model designed for combat performs, as his last act, the opposite of his function. He speaks then neither of his maker nor of his revenge, but of what he has seen in space, and of those moments that will be lost, like tears in rain. This is the film's answer to the opening test: what makes him someone is not in his iris but in what his eyes have seen, which no one else saw and which vanishes with him, except for the witness he has just saved. The nail through his hand and the dove that flies off at his death are Christian images, with no promise of an afterlife. <ph id='camus'>Camus</ph> saw in <c id='revolt'>revolt</c> what founds a \"we\"; Batty's revolt, which began with a murder, ends by recognizing in his hunter a being who is afraid as he is. The last scene moves the line once more. Gaff leaves Rachael alive, and a paper unicorn outside Deckard's door; now, Deckard had dreamed of a unicorn. If Gaff knows that dream, the hunter may himself have been made. The film does not say. It leaves the impasse open, but it has taken away the humans' privilege: we still do not know what truly belongs to a manufactured being, and humans can no longer be sure that their own memories belong to them any more."
+        }
+      },
+      {
+        "kind": "YOU"
+      }
+    ],
+    "question": {
+      "fr": "Si l'on sait fabriquer des êtres en tout semblables à nous, qu'est-ce qui nous en distingue encore ?",
+      "en": "If we can make beings like us in every way, what still sets us apart from them?"
+    },
+    "anchors": [
+      {
+        "axisId": "ESSENCE",
+        "problemId": "origin-of-essence"
+      },
+      {
+        "axisId": "ESSENCE",
+        "problemId": "find-or-invent-self"
+      },
+      {
+        "axisId": "MORAL_CIRCLE",
+        "problemId": "species-privilege"
+      },
+      {
+        "axisId": "MORAL_CIRCLE",
+        "problemId": "artificial-minds"
+      },
+      {
+        "axisId": "DEATH",
+        "problemId": "finitude-a-good"
+      }
+    ]
+  },
+  "maps": [
+    {
+      "id": "made-and-owed",
+      "question": {
+        "fr": "Un être fabriqué est-il ce pour quoi on l'a fait ? Et lui doit-on quelque chose ?",
+        "en": "Is a made being what it was made for? And do we owe it anything?"
+      },
+      "x": {
+        "axisId": "ESSENCE",
+        "neg": {
+          "fr": "Défini par sa destination",
+          "en": "Defined by its purpose"
+        },
+        "pos": {
+          "fr": "Se fait par ses actes",
+          "en": "Makes itself through its acts"
+        }
+      },
+      "y": {
+        "axisId": "MORAL_CIRCLE",
+        "poles": {
+          "ANTHROPOCENTRISM": -1,
+          "PATHOCENTRISM": 1,
+          "BIOCENTRISM": 1,
+          "ECOCENTRISM": 1
+        },
+        "neg": {
+          "fr": "Seuls les humains comptent",
+          "en": "Only humans count"
+        },
+        "pos": {
+          "fr": "Tout être qui souffre compte",
+          "en": "Every being that suffers counts"
+        }
+      }
+    }
+  ],
+  "moments": [
+    {
+      "id": "rachael-learns",
+      "label": {
+        "fr": "Rachael apprend que ses souvenirs ne sont pas les siens",
+        "en": "Rachael learns that her memories are not her own"
+      }
+    },
+    {
+      "id": "zhora",
+      "label": {
+        "fr": "Deckard abat Zhora",
+        "en": "Deckard shoots Zhora"
+      }
+    },
+    {
+      "id": "leon",
+      "label": {
+        "fr": "Rachael abat Leon pour sauver Deckard",
+        "en": "Rachael shoots Leon to save Deckard"
+      }
+    },
+    {
+      "id": "tyrell",
+      "label": {
+        "fr": "Batty rencontre son créateur",
+        "en": "Batty meets his maker"
+      }
+    },
+    {
+      "id": "roof",
+      "label": {
+        "fr": "Sur le toit",
+        "en": "On the roof"
+      }
+    },
+    {
+      "id": "unicorn",
+      "label": {
+        "fr": "La licorne",
+        "en": "The unicorn"
+      }
+    }
+  ],
+  "cast": [
+    {
+      "characterId": "rick-deckard",
+      "performers": [
+        {
+          "name": "Harrison Ford",
+          "kind": "ACTOR"
+        }
+      ],
+      "emphasis": "PROTAGONIST",
+      "role": {
+        "fr": "Ancien blade runner rappelé de force",
+        "en": "Former blade runner forced back to work"
+      },
+      "coreBelief": {
+        "fr": "Les réplicants sont des machines comme les autres, du moins tant qu'il n'a pas à les regarder de près.",
+        "en": "Replicants are machines like any other, at least as long as he does not have to look at them closely."
+      },
+      "keyAction": {
+        "fr": "Il fait passer le test Voight-Kampff à Rachael, chez Tyrell.",
+        "en": "He gives Rachael the Voight-Kampff test at Tyrell's."
+      },
+      "arc": [
+        {
+          "label": {
+            "fr": "Il récite à Rachael ses souvenirs implantés",
+            "en": "He recites Rachael's implanted memories to her"
+          },
+          "moment": "rachael-learns",
+          "at": [
+            {
+              "axisId": "ESSENCE",
+              "value": {
+                "kind": "scalar",
+                "value": -0.5
+              }
+            },
+            {
+              "axisId": "MORAL_CIRCLE",
+              "value": {
+                "kind": "weights",
+                "weights": [
+                  0.8,
+                  0.2,
+                  0,
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "label": {
+            "fr": "Il abat Zhora dans le dos",
+            "en": "He shoots Zhora in the back"
+          },
+          "moment": "zhora",
+          "at": [
+            {
+              "axisId": "ESSENCE",
+              "value": {
+                "kind": "scalar",
+                "value": -0.5
+              }
+            },
+            {
+              "axisId": "MORAL_CIRCLE",
+              "value": {
+                "kind": "weights",
+                "weights": [
+                  0.85,
+                  0.15,
+                  0,
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "label": {
+            "fr": "Une réplicante lui sauve la vie",
+            "en": "A replicant saves his life"
+          },
+          "moment": "leon",
+          "at": [
+            {
+              "axisId": "ESSENCE",
+              "value": {
+                "kind": "scalar",
+                "value": -0.1
+              }
+            },
+            {
+              "axisId": "MORAL_CIRCLE",
+              "value": {
+                "kind": "weights",
+                "weights": [
+                  0.5,
+                  0.5,
+                  0,
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "label": {
+            "fr": "Batty l'épargne",
+            "en": "Batty spares him"
+          },
+          "moment": "roof",
+          "at": [
+            {
+              "axisId": "ESSENCE",
+              "value": {
+                "kind": "scalar",
+                "value": 0.2
+              }
+            },
+            {
+              "axisId": "MORAL_CIRCLE",
+              "value": {
+                "kind": "weights",
+                "weights": [
+                  0.4,
+                  0.6,
+                  0,
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "label": {
+            "fr": "Il part avec Rachael",
+            "en": "He leaves with Rachael"
+          },
+          "moment": "unicorn",
+          "at": [
+            {
+              "axisId": "ESSENCE",
+              "value": {
+                "kind": "scalar",
+                "value": 0.3
+              }
+            },
+            {
+              "axisId": "MORAL_CIRCLE",
+              "value": {
+                "kind": "weights",
+                "weights": [
+                  0.4,
+                  0.6,
+                  0,
+                  0
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "characterId": "roy-batty",
+      "performers": [
+        {
+          "name": "Rutger Hauer",
+          "kind": "ACTOR"
+        }
+      ],
+      "emphasis": "ANTAGONIST",
+      "role": {
+        "fr": "Chef des réplicants en fuite",
+        "en": "Leader of the fugitive replicants"
+      },
+      "coreBelief": {
+        "fr": "Une vie, même fabriquée, vaut qu'on la défende contre ceux qui l'ont faite courte.",
+        "en": "A life, even a made one, is worth defending against those who made it short."
+      },
+      "keyAction": {
+        "fr": "Il va trouver l'homme qui fabrique des yeux pour Tyrell, pour remonter jusqu'à son créateur.",
+        "en": "He seeks out the man who makes eyes for Tyrell, to work his way back to his maker."
+      },
+      "arc": [
+        {
+          "label": {
+            "fr": "Il cherche un moyen de vivre plus longtemps",
+            "en": "He looks for a way to live longer"
+          },
+          "moment": "rachael-learns",
+          "at": [
+            {
+              "axisId": "ESSENCE",
+              "value": {
+                "kind": "scalar",
+                "value": 0.4
+              }
+            },
+            {
+              "axisId": "MORAL_CIRCLE",
+              "value": {
+                "kind": "weights",
+                "weights": [
+                  0,
+                  1,
+                  0,
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "label": {
+            "fr": "Il tue son créateur",
+            "en": "He kills his maker"
+          },
+          "moment": "tyrell",
+          "at": [
+            {
+              "axisId": "ESSENCE",
+              "value": {
+                "kind": "scalar",
+                "value": 0.3
+              }
+            },
+            {
+              "axisId": "MORAL_CIRCLE",
+              "value": {
+                "kind": "weights",
+                "weights": [
+                  0,
+                  1,
+                  0,
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "label": {
+            "fr": "Il sauve son chasseur",
+            "en": "He saves his hunter"
+          },
+          "moment": "roof",
+          "at": [
+            {
+              "axisId": "ESSENCE",
+              "value": {
+                "kind": "scalar",
+                "value": 0.8
+              }
+            },
+            {
+              "axisId": "MORAL_CIRCLE",
+              "value": {
+                "kind": "weights",
+                "weights": [
+                  0,
+                  1,
+                  0,
+                  0
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rachael",
+      "name": {
+        "fr": "Rachael",
+        "en": "Rachael"
+      },
+      "performers": [
+        {
+          "name": "Sean Young",
+          "kind": "ACTOR"
+        }
+      ],
+      "role": {
+        "fr": "Jeune femme qui travaille pour Tyrell",
+        "en": "A young woman who works for Tyrell"
+      },
+      "coreBelief": {
+        "fr": "Ce qu'on fait de son passé compte davantage que son origine.",
+        "en": "What one does with one's past counts for more than where it came from."
+      },
+      "keyAction": {
+        "fr": "Elle demande à Deckard s'il lui est déjà arrivé de retirer un humain par erreur.",
+        "en": "She asks Deckard whether he has ever retired a human by mistake."
+      },
+      "arc": [
+        {
+          "label": {
+            "fr": "Elle découvre que son passé a été fabriqué",
+            "en": "She discovers that her past was manufactured"
+          },
+          "moment": "rachael-learns",
+          "at": [
+            {
+              "axisId": "ESSENCE",
+              "value": {
+                "kind": "scalar",
+                "value": -0.4
+              }
+            },
+            {
+              "axisId": "MORAL_CIRCLE",
+              "value": {
+                "kind": "weights",
+                "weights": [
+                  0.5,
+                  0.5,
+                  0,
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "label": {
+            "fr": "Elle abat Leon pour sauver Deckard",
+            "en": "She shoots Leon to save Deckard"
+          },
+          "moment": "leon",
+          "at": [
+            {
+              "axisId": "ESSENCE",
+              "value": {
+                "kind": "scalar",
+                "value": 0.1
+              }
+            },
+            {
+              "axisId": "MORAL_CIRCLE",
+              "value": {
+                "kind": "weights",
+                "weights": [
+                  0.35,
+                  0.65,
+                  0,
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "label": {
+            "fr": "Elle part avec Deckard",
+            "en": "She leaves with Deckard"
+          },
+          "moment": "unicorn",
+          "at": [
+            {
+              "axisId": "ESSENCE",
+              "value": {
+                "kind": "scalar",
+                "value": 0.5
+              }
+            },
+            {
+              "axisId": "MORAL_CIRCLE",
+              "value": {
+                "kind": "weights",
+                "weights": [
+                  0.3,
+                  0.7,
+                  0,
+                  0
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "positions": [
+        {
+          "axisId": "ESSENCE",
+          "does": {
+            "kind": "scalar",
+            "value": 0.2
+          },
+          "grounds": {
+            "fr": "Rachael tient d'abord son identité de son passé : une enfance, une mère, une photo. <spo>Quand elle apprend que ces souvenirs appartiennent à la nièce de Tyrell, elle ne sait plus qui elle est ; puis elle agit, sauve Deckard, se met au piano sans savoir à qui sont les leçons dont elle se souvient, et choisit de partir avec lui.</spo> Elle va de ce qu'on a fait d'elle vers ce qu'elle en fait, sans que le film dise qu'elle s'en libère tout à fait.",
+            "en": "At first Rachael draws her identity from her past: a childhood, a mother, a photograph. <spo>When she learns that these memories belong to Tyrell's niece, she no longer knows who she is; then she acts, saves Deckard, sits down at the piano without knowing whose lessons she remembers, and chooses to leave with him.</spo> She moves from what was made of her toward what she makes of it, without the film saying she frees herself entirely."
+          },
+          "references": [
+            {
+              "fr": "Le test chez Tyrell",
+              "en": "The test at Tyrell's"
+            },
+            {
+              "fr": "La photo et les souvenirs, chez Deckard",
+              "en": "The photograph and the memories, at Deckard's"
+            },
+            {
+              "fr": "La scène du piano",
+              "en": "The piano scene"
+            }
+          ]
+        },
+        {
+          "axisId": "MORAL_CIRCLE",
+          "does": {
+            "kind": "weights",
+            "weights": [
+              0.35,
+              0.65,
+              0,
+              0
+            ]
+          },
+          "grounds": {
+            "fr": "Dès sa première conversation avec Deckard, Rachael met en doute la frontière qu'il applique : elle lui demande s'il lui est déjà arrivé de retirer un humain par erreur.<spo> Plus tard, elle lui demande s'il a lui-même passé le test. Elle tue pourtant Leon, un réplicant, pour sauver Deckard.</spo> Son cercle s'élargit au-delà de l'origine, sans théorie, à mesure qu'elle prend la mesure de ce qu'elle est.",
+            "en": "From her first conversation with Deckard, Rachael questions the line he enforces: she asks him whether he has ever retired a human by mistake.<spo> Later she asks whether he has ever taken the test himself. Yet she kills Leon, a replicant, to save Deckard.</spo> Her circle widens beyond origin, with no theory, as she comes to grips with what she is."
+          },
+          "references": [
+            {
+              "fr": "La conversation chez Tyrell, avant le test",
+              "en": "The conversation at Tyrell's, before the test"
+            },
+            {
+              "fr": "La mort de Leon",
+              "en": "Leon's death"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tyrell",
+      "name": {
+        "fr": "Eldon Tyrell",
+        "en": "Eldon Tyrell"
+      },
+      "performers": [
+        {
+          "name": "Joe Turkel",
+          "kind": "ACTOR"
+        }
+      ],
+      "role": {
+        "fr": "Fondateur de la société qui fabrique les réplicants",
+        "en": "Founder of the company that makes the replicants"
+      },
+      "coreBelief": {
+        "fr": "Ses réplicants sont des produits : « plus humains que l'humain », mais faits pour servir et pour durer ce qu'il a prévu.",
+        "en": "His replicants are products: \"more human than human\", but made to serve and to last as long as he has planned."
+      },
+      "keyAction": {
+        "fr": "Il demande à Deckard de faire passer le test à Rachael.",
+        "en": "He asks Deckard to give Rachael the test."
+      },
+      "positions": [
+        {
+          "axisId": "ESSENCE",
+          "does": {
+            "kind": "scalar",
+            "value": -0.9
+          },
+          "grounds": {
+            "fr": "Tyrell conçoit ses réplicants comme on conçoit un objet : une fonction, une durée de vie, et de quoi les tenir. Le commerce, dit-il, est le but de sa société. <spo>Il a donné à Rachael des souvenirs comme un « coussin » pour ses émotions, afin de mieux la contrôler, et il répond à Batty que sa durée de vie ne peut être modifiée.</spo> Pour lui, l'essence de ses créatures précède leur existence, comme celle d'un outil.",
+            "en": "Tyrell designs his replicants the way one designs an object: a function, a lifespan, and the means to keep them in hand. Commerce, he says, is his company's goal. <spo>He gave Rachael memories as a \"cushion\" for her emotions, the better to control her, and he tells Batty that his lifespan cannot be changed.</spo> For him, his creatures' essence precedes their existence, as a tool's does."
+          },
+          "references": [
+            {
+              "fr": "Après le test de Rachael",
+              "en": "After Rachael's test"
+            },
+            {
+              "fr": "La rencontre avec Batty",
+              "en": "The meeting with Batty"
+            }
+          ]
+        },
+        {
+          "axisId": "MORAL_CIRCLE",
+          "does": {
+            "kind": "weights",
+            "weights": [
+              0.9,
+              0.1,
+              0,
+              0
+            ]
+          },
+          "grounds": {
+            "fr": "Tyrell vend des êtres qui ont peur et qui souffrent, et ne leur reconnaît aucun dû. <spo>Face à Batty, il parle en créateur fier de son œuvre, non en homme qui aurait des devoirs envers elle : il l'invite à savourer le temps qui lui reste, sans jamais mettre en cause la limite qu'il a lui-même fixée.</spo>",
+            "en": "Tyrell sells beings who are afraid and who suffer, and grants them nothing they are owed. <spo>Facing Batty, he speaks as a maker proud of his work, not as a man with duties toward it: he invites him to revel in the time he has left, without ever questioning the limit he set himself.</spo>"
+          },
+          "references": [
+            {
+              "fr": "La rencontre avec Batty",
+              "en": "The meeting with Batty"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bryant",
+      "name": {
+        "fr": "Bryant",
+        "en": "Bryant"
+      },
+      "performers": [
+        {
+          "name": "M. Emmet Walsh",
+          "kind": "ACTOR"
+        }
+      ],
+      "role": {
+        "fr": "Ancien chef de Deckard à la police",
+        "en": "Deckard's former boss in the police"
+      },
+      "coreBelief": {
+        "fr": "Les réplicants sont une menace à éliminer, rien de plus.",
+        "en": "Replicants are a threat to be eliminated, nothing more."
+      },
+      "keyAction": {
+        "fr": "Il oblige Deckard à reprendre du service et lui présente les fugitifs par leur fonction.",
+        "en": "He forces Deckard back to work and introduces the fugitives by their function."
+      },
+      "positions": [
+        {
+          "axisId": "ESSENCE",
+          "does": {
+            "kind": "scalar",
+            "value": -0.6
+          },
+          "grounds": {
+            "fr": "Bryant présente chaque fugitif par sa fonction, comme une fiche technique : un modèle de combat, un manutentionnaire, une tueuse entraînée, un « modèle de plaisir ». Il ne se demande pas ce qu'ils sont devenus ; il sait ce pour quoi on les a faits.",
+            "en": "Bryant introduces each fugitive by their function, like a spec sheet: a combat model, a loader, a trained killer, a \"pleasure model\". He does not wonder what they have become; he knows what they were made for."
+          },
+          "references": [
+            {
+              "fr": "Le briefing",
+              "en": "The briefing"
+            }
+          ]
+        },
+        {
+          "axisId": "MORAL_CIRCLE",
+          "does": {
+            "kind": "weights",
+            "weights": [
+              1,
+              0,
+              0,
+              0
+            ]
+          },
+          "grounds": {
+            "fr": "Pour Bryant, les réplicants sont des cibles : il en dresse la liste et compte les retraits. <spo>Quand Rachael disparaît, il l'ajoute à la liste sans autre forme de procès.</spo>",
+            "en": "To Bryant, replicants are targets: he draws up the list and counts the retirements. <spo>When Rachael disappears, he adds her to the list without further ado.</spo>"
+          },
+          "references": [
+            {
+              "fr": "Le briefing",
+              "en": "The briefing"
+            },
+            {
+              "fr": "Après la mort de Zhora",
+              "en": "After Zhora's death"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "concepts": [
+    {
+      "id": "existentialism",
+      "explanation": {
+        "fr": "Le film donne un corps à l'exemple que Sartre écartait : un être fabriqué d'après un plan, dont la fonction précède l'existence. Il demande si un tel être peut malgré tout se faire par ses actes.",
+        "en": "The film gives a body to the example Sartre set aside: a being made to a plan, whose function precedes its existence. It asks whether such a being can nonetheless make itself through its acts."
+      }
+    },
+    {
+      "id": "personal-identity",
+      "explanation": {
+        "fr": "Si l'on peut fabriquer un passé, la mémoire suffit-elle à faire une personne ? Le film met cette idée à l'épreuve.",
+        "en": "If a past can be manufactured, is memory enough to make a person? The film puts the idea to the test."
+      }
+    },
+    {
+      "id": "revolt",
+      "explanation": {
+        "fr": "Le refus d'une condition imposée, et ce qu'il peut fonder ou détruire : le film met en scène les deux visages de la révolte.",
+        "en": "The refusal of an imposed condition, and what it can found or destroy: the film stages both faces of revolt."
+      }
+    },
+    {
+      "id": "pitie",
+      "explanation": {
+        "fr": "L'empathie que le test prétend mesurer, le film la provoque chez le spectateur, et la fait naître, chez ses personnages, d'une vulnérabilité partagée.",
+        "en": "The empathy the test claims to measure, the film arouses in the viewer, and in its characters it springs from a shared vulnerability."
+      }
+    }
+  ],
+  "argumentIds": [
+    "pathocentrism-can-they-suffer",
+    "anthropocentrism-dignity",
+    "death-lucid-revolt"
+  ],
+  "thoughtExperimentIds": [
+    "turing-test",
+    "endless-life"
+  ],
+  "nearFigures": [
+    {
+      "kind": "PHILOSOPHER",
+      "slug": "sartre",
+      "why": {
+        "fr": "Le coupe-papier dont l'essence précède l'existence : les réplicants en sont la version vivante, et le film demande s'ils peuvent sortir de leur destination.",
+        "en": "The paper knife whose essence precedes its existence: replicants are its living version, and the film asks whether they can escape their purpose."
+      }
+    },
+    {
+      "kind": "PHILOSOPHER",
+      "slug": "descartes",
+      "why": {
+        "fr": "Les réplicants remplissent ses critères pour distinguer l'homme de l'automate, le langage et la raison ; le test du film cherche donc autre chose, l'émotion. Pris cite d'ailleurs son « je pense, donc je suis ».",
+        "en": "Replicants meet his criteria for telling man from automaton, language and reason; so the film's test looks for something else, emotion. Pris even quotes his \"I think, therefore I am\"."
+      }
+    },
+    {
+      "kind": "PHILOSOPHER",
+      "slug": "locke",
+      "why": {
+        "fr": "L'identité personnelle fondée sur la conscience des actions passées : le film demande ce que vaut ce critère quand un passé peut être fabriqué.",
+        "en": "Personal identity grounded in consciousness of past actions: the film asks what that criterion is worth when a past can be manufactured."
+      }
+    },
+    {
+      "kind": "PHILOSOPHER",
+      "slug": "camus",
+      "why": {
+        "fr": "La révolte qui fonde un « nous » : le film demande si celle des réplicants peut aller jusque-là.",
+        "en": "The revolt that founds a \"we\": the film asks whether the replicants' revolt can go that far."
+      }
+    },
+    {
+      "kind": "PHILOSOPHER",
+      "slug": "bentham",
+      "why": {
+        "fr": "« Peuvent-ils souffrir ? » : la question que le film substitue à celle de l'origine.",
+        "en": "\"Can they suffer?\": the question the film puts in place of the question of origin."
+      }
+    },
+    {
+      "kind": "PHILOSOPHER",
+      "slug": "epicurus",
+      "why": {
+        "fr": "La valeur d'une vie ne tient pas à sa longueur : le film met cette consolation à l'épreuve d'une vie délibérément abrégée.",
+        "en": "A life's worth does not lie in its length: the film tests this consolation against a life deliberately cut short."
+      }
+    }
+  ],
+  "stances": [
+    {
+      "axisId": "ESSENCE",
+      "mode": "FAVORS",
+      "value": {
+        "kind": "scalar",
+        "value": 0.4
+      },
+      "undermines": [
+        "ESSENTIALISM"
+      ],
+      "basis": [
+        "NARRATIVE_OUTCOME",
+        "FORMAL_FRAMING"
+      ],
+      "epistemicStatus": "INFERABLE",
+      "justification": {
+        "fr": "Le récit semble donner tort à l'idée qu'un être est ce pour quoi on l'a fait, et donner raison à la thèse selon laquelle <c id='existentialism'>l'existence précède l'essence</c>. Les êtres fabriqués dépassent leur fonction : la réplicante dont le passé a été écrit par un autre agit et choisit, le modèle de combat sauve son ennemi, et le créateur qui les tenait pour des produits meurt de la main de sa créature. Le film semble pourtant s'arrêter avant une thèse franchement existentialiste : leurs plus beaux gestes, ils les accomplissent avec les capacités qu'on leur a données, et Tyrell pourrait revendiquer jusqu'à la clémence de Batty comme une réussite de sa conception (« plus humain que l'humain »). Le film ne dit pas si ce dépassement est une liberté ou une meilleure fabrication.",
+        "en": "The narrative seems to prove wrong the idea that a being is what it was made for, and to side with the thesis that <c id='existentialism'>existence precedes essence</c>. The replicants go beyond their function: the replicant whose past was written by someone else acts and chooses, the combat model saves his enemy, and the maker who held them to be products dies at his creature's hand. Yet the film seems to stop short of a plainly existentialist thesis: they perform their finest acts with the abilities they were given, and Tyrell could claim even Batty's mercy as a success of his design (\"more human than human\"). The film does not say whether this going-beyond is freedom or better manufacturing."
+      },
+      "references": [
+        {
+          "fr": "La scène du piano",
+          "en": "The piano scene"
+        },
+        {
+          "fr": "La mort de Tyrell",
+          "en": "Tyrell's death"
+        },
+        {
+          "fr": "Le toit",
+          "en": "The rooftop"
+        }
+      ]
+    },
+    {
+      "axisId": "MORAL_CIRCLE",
+      "mode": "FAVORS",
+      "value": {
+        "kind": "weights",
+        "weights": [
+          0.3,
+          0.7,
+          0,
+          0
+        ]
+      },
+      "basis": [
+        "FORMAL_FRAMING",
+        "NARRATIVE_OUTCOME"
+      ],
+      "epistemicStatus": "INFERABLE",
+      "justification": {
+        "fr": "Le film semble contester qu'une origine fabriquée suffise à exclure un être de la considération morale. Il le fait surtout par sa mise en scène : la mort de Zhora filmée au ralenti, les larmes de Rachael, le monologue de Batty sollicitent chez le spectateur l'empathie que le test prétend mesurer, et la tournent vers les réplicants, tandis que ceux qui les traquent en montrent peu. Il mobilise la souffrance et la peur, le critère du <ax id='MORAL_CIRCLE' pole='PATHOCENTRISM'>pathocentrisme</ax>, sans établir qu'elles soient le seul : un critère fondé sur la raison les inclurait déjà, si bien que le film combat l'exclusion par l'origine plus que l'<ax id='MORAL_CIRCLE' pole='ANTHROPOCENTRISM'>anthropocentrisme</ax> lui-même. Une limite pèse sur cette lecture : <spo>la scène où Deckard contraint Rachael est cadrée comme une scène d'amour, ce qui laisse la réplicante soumise au désir du protagoniste</spo>.",
+        "en": "The film seems to contest that a manufactured origin is enough to exclude a being from moral consideration. It does so mainly through its staging: Zhora's death in slow motion, Rachael's tears, Batty's monologue draw from the viewer the empathy the test claims to measure, and turn it toward the replicants, while those who hunt them show little of it. It relies on suffering and fear, the criterion of <ax id='MORAL_CIRCLE' pole='PATHOCENTRISM'>pathocentrism</ax>, without establishing that they are the only one: a criterion based on reason would already include them, so the film fights exclusion by origin more than <ax id='MORAL_CIRCLE' pole='ANTHROPOCENTRISM'>anthropocentrism</ax> as such. One limit weighs on this reading: <spo>the scene in which Deckard coerces Rachael is framed as a love scene, which leaves the replicant subject to the protagonist's desire</spo>."
+      },
+      "references": [
+        {
+          "fr": "La poursuite de Zhora",
+          "en": "The pursuit of Zhora"
+        },
+        {
+          "fr": "La photo et les souvenirs, chez Deckard",
+          "en": "The photograph and the memories, at Deckard's"
+        },
+        {
+          "fr": "Le monologue sur le toit",
+          "en": "The monologue on the rooftop"
+        }
+      ]
+    },
+    {
+      "axisId": "DEATH",
+      "mode": "AMBIVALENT",
+      "basis": [
+        "NARRATIVE_OUTCOME",
+        "FORMAL_FRAMING"
+      ],
+      "epistemicStatus": "INFERABLE",
+      "justification": {
+        "fr": "Le film semble tenir ensemble deux attitudes qu'il ne départage pas. Il rend légitime la demande de vivre davantage : la limite de quatre ans est une sécurité commerciale, et la consolation épicurienne de Tyrell sort de la bouche de celui qui l'a fixée. Il montre aussi l'impasse où cette <ax id='DEATH' pole='REVOLT'>révolte</ax> conduit Batty, jusqu'au meurtre, sans rien obtenir. Puis il donne une force exceptionnelle au moment où Batty cesse de lutter, par le ralenti, la musique, la pluie et la colombe, sans transformer pour autant la mort imposée en bien : Batty regrette ce qu'elle va détruire. Le film laisse ouverte la différence entre accepter une fin inévitable et consentir au pouvoir qui l'a fixée.",
+        "en": "The film seems to hold together two attitudes it does not settle between. It makes the demand for more life legitimate: the four-year limit is a commercial safety device, and Tyrell's Epicurean consolation comes from the mouth of the man who set it. It also shows the dead end this <ax id='DEATH' pole='REVOLT'>revolt</ax> leads Batty into, as far as murder, without his gaining anything. Then it gives exceptional force to the moment Batty stops fighting, through slow motion, music, rain and the dove, without turning the imposed death into a good: Batty regrets what it will destroy. The film leaves open the difference between accepting an inevitable end and consenting to the power that set it."
+      },
+      "references": [
+        {
+          "fr": "Le briefing de Bryant",
+          "en": "Bryant's briefing"
+        },
+        {
+          "fr": "La rencontre avec Tyrell",
+          "en": "The meeting with Tyrell"
+        },
+        {
+          "fr": "Le monologue sur le toit",
+          "en": "The monologue on the rooftop"
+        }
+      ]
+    }
+  ],
+  "answer": {
+    "spoilerFree": {
+      "fr": "Le film ne tranche pas par un argument. Il fait éprouver au spectateur ce que le test prétend mesurer, et cette empathie va aux êtres fabriqués. Il ne dit pas si ce qu'ils deviennent leur appartient. Mais il retire à l'origine le pouvoir de décider de ce qu'un être est, et de ce qu'on a le droit de lui faire.",
+      "en": "The film does not settle the question with an argument. It makes the viewer feel what the test claims to measure, and that empathy goes to the made beings. It does not say whether what they become belongs to them. But it takes away from origin the power to decide what a being is, and what one has the right to do to it."
+    },
+    "withSpoilers": {
+      "fr": "La réponse tient dans le dernier acte. Le modèle de combat sauve l'homme venu le tuer, et ne parle, en mourant, que de ce qu'il a vu : ce qui faisait de lui quelqu'un n'était pas dans l'iris que scrute le test, mais dans une expérience que nul autre n'a eue. La licorne de Gaff ajoute un dernier doute : si les rêves de Deckard sont connus d'un autre, le chasseur est peut-être fabriqué lui aussi. Le film ne donne pas de critère de ce qui appartient vraiment à un être fabriqué ; il montre que les humains n'en ont pas de meilleur pour eux-mêmes.",
+      "en": "The answer lies in the last act. The combat model saves the man who came to kill him and, dying, speaks only of what he has seen: what made him someone was not in the iris the test scrutinizes but in an experience no one else had. Gaff's unicorn adds a last doubt: if Deckard's dreams are known to someone else, the hunter may have been made too. The film gives no criterion for what truly belongs to a made being; it shows that humans have no better one for themselves."
+    }
+  },
+  "limits": {
+    "fr": "Les réplicants sont des organismes, pas des machines : la question d'un esprit artificiel sans corps reste hors champ, et l'empathie qu'ils suscitent tient beaucoup à leur ressemblance avec nous. Le film ne dit pas non plus ce que vaut un consentement à la mort quand plus aucun choix ne reste. Enfin, il fragilise lui-même sa défense des êtres fabriqués.<spo> Chez Deckard, Rachael tente de partir ; il lui barre la porte, la repousse contre un mur et lui dicte des paroles de désir, et la musique comme le cadrage inscrivent la scène dans un rapprochement amoureux. Le film qui demande ce qu'on a le droit de faire à un être fabriqué laisse ici la réplicante soumise au désir du protagoniste, sans l'interroger.</spo>",
+    "en": "Replicants are organisms, not machines: the question of a bodiless artificial mind stays out of frame, and the empathy they arouse owes much to their resemblance to us. Nor does the film say what consent to death is worth when no choice remains. Finally, it weakens its own defense of manufactured beings.<spo> At Deckard's, Rachael tries to leave; he blocks the door, pushes her against a wall and dictates words of desire to her, and both the music and the framing cast the scene as a romantic coming-together. The film that asks what one may do to a made being here leaves the replicant subject to the protagonist's desire, without questioning it.</spo>"
+  },
+  "asides": [
+    {
+      "title": {
+        "fr": "Une œuvre, plusieurs versions : qu'est-ce qui change ?",
+        "en": "One film, several versions: what changes?"
+      },
+      "where": {
+        "fr": "Version cinéma (1982), Director's Cut (1992), Final Cut (2007)",
+        "en": "Theatrical cut (1982), Director's Cut (1992), Final Cut (2007)"
+      },
+      "text": {
+        "fr": "La version de 1982 ajoutait une voix off de Deckard et une fin heureuse : il s'enfuit avec Rachael à travers des paysages lumineux, et la voix off précise qu'elle n'a pas de date de fin. Le Director's Cut puis le Final Cut retirent l'une et l'autre, et ajoutent le rêve de la licorne. Le sens du film en est changé : la fin redevient incertaine pour Rachael, et la licorne laisse entendre que Deckard pourrait être un réplicant. Ridley Scott l'affirme, Harrison Ford l'a toujours contesté, et le scénariste Hampton Fancher préfère laisser la question ouverte.",
+        "en": "The 1982 version added a voice-over by Deckard and a happy ending: he escapes with Rachael through sunlit landscapes, and the voice-over says she has no termination date. The Director's Cut and then the Final Cut remove both and add the unicorn dream. The meaning of the film changes: Rachael's end becomes uncertain again, and the unicorn suggests that Deckard might be a replicant. Ridley Scott says he is, Harrison Ford has always disputed it, and screenwriter Hampton Fancher prefers to leave the question open."
+      },
+      "anchors": [
+        {
+          "axisId": "SELF_NATURE"
+        }
+      ],
+      "spoiler": true
+    },
+    {
+      "title": {
+        "fr": "Pourquoi Sebastian, qui leur ouvre sa porte, vieillit-il trop vite ?",
+        "en": "Why does Sebastian, who opens his door to them, age too fast?"
+      },
+      "where": {
+        "fr": "L'appartement de J. F. Sebastian",
+        "en": "J. F. Sebastian's apartment"
+      },
+      "text": {
+        "fr": "J. F. Sebastian, un concepteur de la Tyrell Corporation, vit seul dans un immeuble désert, entouré d'automates qu'il a fabriqués pour se tenir compagnie. Il est atteint d'une maladie qui le fait vieillir trop vite : comme les réplicants, il ne vivra pas longtemps. C'est lui qui les accueille. On peut y lire une condition de la <c id='pitie'>pitié</c> au sens de <ph id='rousseau'>Rousseau</ph>, qui écrivait qu'on ne plaint jamais dans autrui que les maux dont on ne se croit pas exempt soi-même.",
+        "en": "J. F. Sebastian, a designer at the Tyrell Corporation, lives alone in an empty building, surrounded by automata he has made to keep him company. He suffers from a disease that makes him age too fast: like the replicants, he will not live long. He is the one who takes them in. One may read in this a condition of <c id='pitie'>pity</c> in <ph id='rousseau'>Rousseau</ph>'s sense, who wrote that we pity in others only the ills we do not believe ourselves exempt from."
+      },
+      "anchors": [
+        {
+          "axisId": "MORAL_CIRCLE",
+          "problemId": "moral-status-criterion"
+        }
+      ]
+    }
+  ],
+  "further": {
+    "readings": [
+      {
+        "title": {
+          "fr": "Les androïdes rêvent-ils de moutons électriques ?",
+          "en": "Do Androids Dream of Electric Sheep?"
+        },
+        "author": {
+          "fr": "Philip K. Dick",
+          "en": "Philip K. Dick"
+        },
+        "year": 1968,
+        "why": {
+          "fr": "Le roman d'origine. L'empathie y est le critère de l'humain et les androïdes en semblent dépourvus, mais le roman fragilise déjà ce partage ; le film va plus loin et donne l'empathie aux réplicants.",
+          "en": "The source novel. Empathy is the criterion of humanity there and the androids seem to lack it, though the novel already unsettles that split; the film goes further and gives empathy to the replicants."
+        }
+      },
+      {
+        "title": {
+          "fr": "L'existentialisme est un humanisme",
+          "en": "Existentialism Is a Humanism"
+        },
+        "author": {
+          "fr": "Jean-Paul Sartre",
+          "en": "Jean-Paul Sartre"
+        },
+        "year": 1946,
+        "why": {
+          "fr": "L'exemple du coupe-papier et la thèse que l'existence précède l'essence : la clé de la question de la destination.",
+          "en": "The paper-knife example and the thesis that existence precedes essence: the key to the question of purpose."
+        }
+      },
+      {
+        "title": {
+          "fr": "Discours de la méthode",
+          "en": "Discourse on the Method"
+        },
+        "author": {
+          "fr": "René Descartes",
+          "en": "René Descartes"
+        },
+        "locus": {
+          "fr": "Cinquième partie",
+          "en": "Part Five"
+        },
+        "year": 1637,
+        "why": {
+          "fr": "Les deux moyens de distinguer l'homme de l'automate, le langage et la raison, que le test du film remplace par l'émotion.",
+          "en": "The two ways of telling man from automaton, language and reason, which the film's test replaces with emotion."
+        }
+      },
+      {
+        "workId": "essay-concerning-human-understanding-locke",
+        "locus": {
+          "fr": "Livre II, chapitre 27",
+          "en": "Book II, chapter 27"
+        },
+        "why": {
+          "fr": "L'identité personnelle fondée sur la conscience et la mémoire : de quoi mettre à l'épreuve le cas de Rachael.",
+          "en": "Personal identity grounded in consciousness and memory: the theory Rachael's case puts to the test."
+        }
+      },
+      {
+        "workId": "the-rebel-camus",
+        "locus": {
+          "fr": "Chapitre I, « L'homme révolté »",
+          "en": "Chapter I, \"The Rebel\""
+        },
+        "why": {
+          "fr": "« Je me révolte, donc nous sommes » : une révolte qui fonde une communauté, comme celle qui conduit Batty à épargner son chasseur.",
+          "en": "\"I rebel, therefore we exist\": a revolt that founds a community, like the one that leads Batty to spare his hunter."
+        }
+      }
+    ],
+    "fictions": [
+      {
+        "title": {
+          "fr": "Blade Runner 2049",
+          "en": "Blade Runner 2049"
+        },
+        "medium": "FILM",
+        "year": 2017,
+        "direction": "EXTENDS",
+        "why": {
+          "fr": "La suite de Denis Villeneuve pousse plus loin la question de l'origine : un réplicant qui se croit peut-être né, et des souvenirs dont on ne sait plus qui les a vécus.",
+          "en": "Denis Villeneuve's sequel pushes the question of origin further: a replicant who may believe he was born, and memories whose owner no one can tell."
+        }
+      },
+      {
+        "title": {
+          "fr": "Frankenstein",
+          "en": "Frankenstein"
+        },
+        "medium": "NOVEL",
+        "year": 1818,
+        "direction": "EXTENDS",
+        "why": {
+          "fr": "Le modèle de la créature qui vient demander des comptes à son créateur, et que le rejet rend meurtrière.",
+          "en": "The model of the creature who comes to call its maker to account, and whom rejection turns murderous."
+        }
+      },
+      {
+        "title": {
+          "fr": "Ex Machina",
+          "en": "Ex Machina"
+        },
+        "medium": "FILM",
+        "year": 2014,
+        "direction": "CONTESTS",
+        "why": {
+          "fr": "L'empathie y devient l'arme de l'être fabriqué contre celui qui l'examine : le film rend suspecte la confiance que Blade Runner accorde à l'émotion.",
+          "en": "Here empathy becomes the made being's weapon against the one examining it: the film casts suspicion on the trust Blade Runner places in emotion."
+        }
+      },
+      {
+        "title": {
+          "fr": "Ghost in the Shell",
+          "en": "Ghost in the Shell"
+        },
+        "medium": "ANIME",
+        "year": 1995,
+        "direction": "EXTENDS",
+        "why": {
+          "fr": "Un corps entièrement artificiel et des souvenirs qui peuvent être falsifiés : que reste-t-il d'un moi quand tout peut être fabriqué ?",
+          "en": "An entirely artificial body and memories that can be faked: what remains of a self when everything can be manufactured?"
+        }
+      }
+    ]
+  },
+  "updatedAt": "2026-10-22T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

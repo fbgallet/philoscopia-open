@@ -1,0 +1,12 @@
+{
+  "id": "technik-medizin-und-ethik-jonas",
+  "title": { "fr": "Technik, Medizin und Ethik", "en": "Technik, Medizin und Ethik" },
+  "originalTitle": "Technik, Medizin und Ethik. Zur Praxis des Prinzips Verantwortung",
+  "author": { "slug": "jonas", "name": { "fr": "Hans Jonas", "en": "Hans Jonas" } },
+  "year": 1985,
+  "presentation": {
+    "fr": "Recueil où <ph id='jonas'>Jonas</ph> applique le <w id='imperative-of-responsibility-jonas'>Principe responsabilité</w> à la médecine et aux biotechnologies : expérimentation humaine, définition de la mort, droit de mourir, génie génétique et clonage, contre lequel il invoque un « droit à l'ignorance ».",
+    "en": "A collection in which <ph id='jonas'>Jonas</ph> applies <w id='imperative-of-responsibility-jonas'>The Imperative of Responsibility</w> to medicine and biotechnology: human experimentation, the definition of death, the right to die, genetic engineering and cloning, against which he invokes a \"right to ignorance\"."
+  },
+  "updatedAt": "2026-10-11T00:00:00.000Z"
+}

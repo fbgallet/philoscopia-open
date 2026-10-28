@@ -1,0 +1,27 @@
+{
+  "kind": "PHILOSOPHER",
+  "stub": true,
+  "id": "sellars",
+  "name": {
+    "fr": "Wilfrid Sellars",
+    "en": "Wilfrid Sellars"
+  },
+  "summary": {
+    "fr": "Philosophe américain : sa critique du « mythe du donné » (1956) conteste qu'une expérience brute puisse servir de fondement au savoir.",
+    "en": "American philosopher: his critique of the \"myth of the given\" (1956) denies that raw experience can serve as a foundation for knowledge."
+  },
+  "nationality": {
+    "fr": "Américain",
+    "en": "American"
+  },
+  "birth": 1912,
+  "death": 1989,
+  "language": "eng",
+  "movements": [
+    "analytic-philosophy"
+  ],
+  "updatedAt": "2026-10-28T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

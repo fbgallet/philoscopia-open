@@ -27,10 +27,38 @@
     "fr": "Anglais",
     "en": "English"
   },
+  "language": "eng",
   "movements": [
     "utilitarianism"
   ],
   "entries": [
+    {
+      "axisId": "AUTHORITY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.5
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Bentham rejette les droits « naturels et imprescriptibles » censés précéder les institutions, ces « absurdités montées sur échasses » : les droits juridiques supposent des règles reconnues et garanties par une autorité politique. Cette autorité n'est pourtant légitime qu'à proportion de son utilité, et l'obéissance cesse d'être justifiée quand ses maux dépassent ceux de la résistance. Son programme de codification et de réforme vise à rendre le pouvoir contrôlable et utile, non à supprimer toute institution coercitive.",
+          "en": "Bentham rejects allegedly pre-institutional \"natural and imprescriptible rights\" as \"nonsense upon stilts\": legal rights presuppose rules recognised and enforced by a political authority. Yet that authority is legitimate only in proportion to its utility, and obedience ceases to be justified once its harms outweigh those of resistance. His programme of codification and reform aims to make power accountable and useful, not to abolish coercive institutions."
+        },
+        "references": [
+          {
+            "fr": "Fragment sur le gouvernement (1776), ch. I",
+            "en": "A Fragment on Government (1776), ch. I"
+          },
+          {
+            "fr": "Sophismes anarchiques (rédigés vers 1795, publiés en français par Dumont en 1816)",
+            "en": "Anarchical Fallacies (written c. 1795; French adaptation by Dumont 1816; English text 1843)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
     {
       "axisId": "SUFFERING_MEANING",
       "status": "POSITIONED",
@@ -810,7 +838,7 @@
       "en": "https://en.wikipedia.org/wiki/Jeremy_Bentham"
     }
   },
-  "updatedAt": "2026-06-24T00:00:00.000Z",
+  "updatedAt": "2026-10-11T00:00:00.000Z",
   "validation": {
     "method": "NOT_VALIDATED"
   }

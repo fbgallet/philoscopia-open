@@ -1,0 +1,29 @@
+{
+  "id": "dirty-hands",
+  "term": {
+    "fr": "Mains sales",
+    "en": "Dirty hands"
+  },
+  "aliases": {
+    "fr": [
+      "problème des mains sales",
+      "les mains sales"
+    ],
+    "en": [
+      "problem of dirty hands"
+    ]
+  },
+  "definition": {
+    "fr": "Le problème des mains sales tient son nom de la pièce de <ph id='sartre'>Sartre</ph>, <w>Les Mains sales</w> (1948), et sa formulation la plus discutée de <ph id='walzer'>Walzer</ph> (1973), dans une lignée qui remonte à <ph id='machiavelli'>Machiavel</ph> et à <ph id='weber'>Weber</ph>. Un responsable politique peut se trouver dans une situation où bien agir exige un acte qu'il juge lui-même mauvais : mentir, faire pression, torturer pour sauver des vies. Pour un <c id='consequentialism'>conséquentialiste</c> classique, un acte qui était le meilleur ne peut pas être aussi une faute, même s'il est permis de regretter le mal causé. Walzer soutient au contraire que l'acte peut être justifié et rester moralement condamnable : celui qui l'a commis en garde la culpabilité et doit en répondre. La question met en tension l'<ax id='ETHICS_FOUNDATION'>éthique</ax> des conséquences et celle des interdits (<c id='deontologism'>déontologisme</c>).",
+    "en": "The problem of dirty hands takes its name from <ph id='sartre'>Sartre</ph>'s play <w>Dirty Hands</w> (1948), and its most debated formulation from <ph id='walzer'>Walzer</ph> (1973), in a line that goes back to <ph id='machiavelli'>Machiavelli</ph> and <ph id='weber'>Weber</ph>. A political leader may face a situation in which acting well requires an act they themselves judge wrong: lying, coercing, torturing to save lives. For a classical <c id='consequentialism'>consequentialist</c>, an act that was the best one cannot also be a wrong, though one may regret the harm it caused. Walzer argues instead that the act can be justified and still be morally wrong: whoever did it remains guilty and must answer for it. The question sets an <ax id='ETHICS_FOUNDATION'>ethics</ax> of consequences against an ethics of prohibitions (<c id='deontologism'>deontology</c>)."
+  },
+  "relatedAxes": [
+    "ETHICS_FOUNDATION"
+  ],
+  "relatedTerms": [
+    "consequentialism",
+    "deontologism",
+    "political-realism"
+  ],
+  "updatedAt": "2026-10-21T00:00:00.000Z"
+}

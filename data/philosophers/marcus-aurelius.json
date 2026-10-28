@@ -22,10 +22,79 @@
     "fr": "Romain",
     "en": "Roman"
   },
+  "language": "grc",
+  "otherLanguages": ["lat"],
   "movements": [
     "stoicism"
   ],
   "entries": [
+    {
+      "axisId": "MORAL_CIRCLE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          1,
+          0,
+          0,
+          0
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Marc Aurèle fonde la communauté morale et politique universelle sur la raison commune aux hommes : si l'intelligence nous est commune, la loi l'est aussi, et le monde est comme une cité. Il distingue nettement les relations avec les êtres raisonnables, qui relèvent de la vie sociale, de l'usage des animaux et des choses, auquel il recommande seulement grandeur d'âme et libéralité. Cette douceur prescrite ne fait pas de la sensibilité animale le fondement d'une valeur morale.",
+          "en": "Marcus Aurelius grounds the universal moral and political community in the reason humans share: if intelligence is common to us, so is law, and the world is like a city. He sharply distinguishes relations with rational beings, which belong to social life, from the use of animals and things, for which he asks only magnanimity and liberality. This prescribed gentleness does not make animal sentience the ground of moral worth."
+        },
+        "references": [
+          {
+            "fr": "Pensées, IV, 4",
+            "en": "Meditations, IV, 4"
+          },
+          {
+            "fr": "Pensées, VI, 23",
+            "en": "Meditations, VI, 23"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "REALITY_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          1,
+          0,
+          0
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Marc Aurèle se comprend comme « chair, souffle et principe directeur », sans faire de ces dimensions des substances indépendantes. Dans la psychologie stoïcienne classique, le <c id='hegemonikon'>principe directeur</c> relève lui aussi du souffle corporel : c'est une reconstruction doctrinale, que le passage n'énonce pas. Il se représente le cosmos comme un vivant unique, doté d'une seule substance et d'une seule âme, conformément à la physique corporelle du stoïcisme. Le <c id='logos'>logos</c> ordonnateur n'est pas une substance spirituelle séparée : il distingue ce corporalisme de l'atomisme sans le changer en idéalisme ou en dualisme.",
+          "en": "Marcus Aurelius understands himself as \"flesh, breath and ruling part\", without making these into independent substances. In classical Stoic psychology, the <c id='hegemonikon'>ruling part</c> also belongs to the corporeal breath: a doctrinal reconstruction, which the passage itself does not state. He pictures the cosmos as a single living being, with one substance and one soul, in keeping with Stoic corporealist physics. The ordering <c id='logos'>logos</c> is no separate spiritual substance: it sets this corporealism apart from atomism without turning it into idealism or dualism."
+        },
+        "references": [
+          {
+            "fr": "Pensées, II, 2 ; IV, 40",
+            "en": "Meditations, II, 2; IV, 40"
+          },
+          {
+            "fr": "Pensées, XII, 30",
+            "en": "Meditations, XII, 30"
+          },
+          {
+            "fr": "Diogène Laërce, Vies et doctrines des philosophes illustres, VII, 156-159",
+            "en": "Diogenes Laertius, Lives of the Eminent Philosophers, VII, 156-159"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
     {
       "axisId": "INTERIORITY",
       "status": "POSITIONED",
@@ -776,7 +845,7 @@
       "en": "https://en.wikipedia.org/wiki/Marcus_Aurelius"
     }
   },
-  "updatedAt": "2026-06-24T00:00:00.000Z",
+  "updatedAt": "2026-10-11T00:00:00.000Z",
   "validation": {
     "method": "NOT_VALIDATED"
   }

@@ -2,7 +2,7 @@
 
 # Taoism
 
-*400 BCE – ?*
+*c. 500 BCE – c. 312, living tradition*
 
 A tradition born in the China of the Warring States (5th-3rd century BCE), an age of war and the collapse of order that pressed each school to offer a cure for the disorder. So-called philosophical Taoism forms around two texts: the Dao De Jing (Tao Te Ching), an aphoristic collection ascribed to Laozi (Lao Tzu), a perhaps legendary figure, and the Zhuangzi (Chuang Tzu), a sequence of tales, parables and dialogues of great inventive freedom. Where the [Confucianism](../movements/confucianism.md) of [Confucius](../philosophers/confucius.md) answered the crisis with ritual, study and social duty, Taoism seeks deliverance in withdrawal, naturalness and the critique of artifice. Gathered later alongside the Liezi, this current would feed, from the Han onward, a religious Taoism with its deities, its longevity techniques and its quest for immortality, distinct from the original philosophical vein. Its sensibility deeply shaped Chinese poetry, painting and medicine, the Chan school (the ancestor of Zen) across Asia, and today nourishes in the West an imaginary of simplicity and accord with nature.
 
@@ -251,6 +251,7 @@ The Taoist universe is fundamentally benign and trustworthy for whoever attunes 
 ## Influence on
 
 - **[Buddhism](../movements/buddhism.md)** (synthesizes) : Entering China, [Buddhism](../movements/buddhism.md) blends with the [Taoist](../movements/taoism.md) sensibility: first translated through the vocabulary of the dao and wu wei, it gives rise to Chan, the ancestor of Zen, where Indian meditation weds the naturalness and spontaneity dear to [Zhuangzi](../philosophers/zhuangzi.md). The filiation is rarely claimed as such, yet the Chan school bears its imprint.
+- **[Neo-Confucianism](../movements/neo-confucianism.md)** (reinterprets) : The Diagram of the Supreme Ultimate of Zhou Dunyi, which came out of [Taoist](../movements/taoism.md) circles, became the cosmology of [Neo-Confucianism](../movements/neo-confucianism.md): the "Ultimateless" and yin-yang were put in the service of a Confucian ethics. The diagram's Taoist origin, reported by tradition, was held against Zhu Xi by his opponents.
 
 ---
 

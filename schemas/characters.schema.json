@@ -402,6 +402,10 @@
           "type": "string",
           "pattern": "^[a-z0-9][a-z0-9-]*$"
         },
+        "fictionId": {
+          "type": "string",
+          "pattern": "^[a-z0-9][a-z0-9-]*$"
+        },
         "title": {
           "type": "object",
           "properties": {
@@ -446,11 +450,16 @@
         "medium": {
           "type": "string",
           "enum": [
-            "NOVEL",
-            "PLAY",
             "FILM",
             "SERIES",
+            "NOVEL",
+            "SHORT_STORY",
+            "PLAY",
             "MYTH",
+            "MANGA",
+            "ANIME",
+            "COMIC",
+            "VIDEO_GAME",
             "OTHER"
           ]
         }

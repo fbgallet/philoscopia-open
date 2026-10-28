@@ -1,0 +1,16 @@
+{
+  "id": "bloch-vs-jonas",
+  "from": { "kind": "PHILOSOPHER", "slug": "bloch" },
+  "to": { "kind": "PHILOSOPHER", "slug": "jonas" },
+  "directness": "ATTESTED",
+  "mode": "REACTS_AGAINST",
+  "strength": "MEDIUM",
+  "note": {
+    "fr": "Le titre même du <w id='imperative-of-responsibility-jonas'>Principe responsabilité</w> répond au <w id='principle-of-hope-bloch'>Principe espérance</w> de <ph id='bloch'>Bloch</ph>, et ses derniers chapitres en font la critique : <ph id='jonas'>Jonas</ph> oppose à l'utopie d'un homme accompli par l'abondance technique une éthique de la préservation.",
+    "en": "The very title of <w id='imperative-of-responsibility-jonas'>The Imperative of Responsibility</w> (Das Prinzip Verantwortung) answers <ph id='bloch'>Bloch</ph>'s <w id='principle-of-hope-bloch'>Principle of Hope</w>, and its last chapters criticize it: <ph id='jonas'>Jonas</ph> sets an ethics of preservation against the utopia of a humanity fulfilled by technological abundance."
+  },
+  "sources": [
+    { "fr": "Jonas, Le Principe responsabilité (1979), ch. V-VI", "en": "Jonas, The Imperative of Responsibility (1979), ch. V-VI" }
+  ],
+  "updatedAt": "2026-10-11T00:00:00.000Z"
+}

@@ -13,9 +13,37 @@
     "fr": "Grand système post-kantien qui, de <ph id='fichte'>Fichte</ph> à <ph id='hegel'>Hegel</ph> en passant par <ph id='schelling'>Schelling</ph>, radicalise le tournant critique de <ph id='kant'>Kant</ph> tout en franchissant la limite qu'il avait posée : là où Kant déclarait la <c>chose en soi</c> inconnaissable, l'idéalisme allemand tient que la raison, déployée en <c>système</c>, peut rejoindre l'<c>absolu</c>. Le réel n'est plus matière opaque mais <ax id='REALITY_NATURE' pole='IDEALISM'>Esprit</ax> ou sujet qui se pose lui-même et se comprend au terme d'un mouvement <c>dialectique</c>. Chez Hegel, ce déploiement devient histoire : l'Esprit se réalise dans le temps comme progrès de la conscience de la liberté. Porté par la Révolution française et l'élan du <mv id='romanticism'>romantisme</mv>, le courant s'éteint avec la mort de Hegel en 1831, aussitôt renversé par <ph id='marx'>Marx</ph>, qui le remet « sur ses pieds », et par <ph id='kierkegaard'>Kierkegaard</ph>, qui lui oppose l'existant singulier.",
     "en": "A grand post-Kantian system which, from <ph id='fichte'>Fichte</ph> through <ph id='schelling'>Schelling</ph> to <ph id='hegel'>Hegel</ph>, radicalizes <ph id='kant'>Kant</ph>'s critical turn while crossing the limit he had set: where Kant declared the <c>thing in itself</c> unknowable, German Idealism holds that reason, unfolded into a <c>system</c>, can reach the <c>absolute</c> itself. The real is no longer opaque matter but <ax id='REALITY_NATURE' pole='IDEALISM'>Spirit</ax>, or a subject that posits itself and comes to understand itself at the end of a <c>dialectical</c> movement. In Hegel this unfolding becomes history: Spirit realizes itself in time as the progress of the consciousness of freedom. Carried by the French Revolution and the momentum of <mv id='romanticism'>Romanticism</mv>, the current dies out with Hegel's death in 1831, at once overturned by <ph id='marx'>Marx</ph>, who sets it \"back on its feet\", and by <ph id='kierkegaard'>Kierkegaard</ph>, who sets the singular existing individual against it."
   },
+  "area": "WEST",
   "period": {
     "from": 1781,
-    "to": 1831
+    "to": 1831,
+    "afterlife": "HISTORICAL",
+    "phases": [
+      {
+        "name": {
+          "fr": "Idéalisme britannique",
+          "en": "British idealism"
+        },
+        "from": 1865,
+        "to": 1924,
+        "keyFigures": [
+          {
+            "slug": "green",
+            "name": {
+              "fr": "T. H. Green",
+              "en": "T. H. Green"
+            }
+          },
+          {
+            "slug": "bradley",
+            "name": {
+              "fr": "Bradley",
+              "en": "Bradley"
+            }
+          }
+        ]
+      }
+    ]
   },
   "keyFigures": [
     {

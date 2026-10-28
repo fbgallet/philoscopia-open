@@ -27,10 +27,44 @@
     "fr": "Chinois",
     "en": "Chinese"
   },
+  "language": "lzh",
+  "oral": true,
   "movements": [
     "confucianism"
   ],
   "entries": [
+    {
+      "axisId": "MORAL_CIRCLE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.9,
+          0.1,
+          0,
+          0
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Les écuries ayant brûlé, le maître demanda si quelqu'un était blessé, sans s'enquérir des chevaux : selon la lecture traditionnelle, la sollicitude pour les personnes passe avant tout le reste. Les Entretiens situent d'abord le <c id='ren'>ren</c> dans les relations humaines : le disciple Youzi présente la piété filiale et le respect des aînés comme la racine de sa pratique. Cette priorité n'exclut pas une retenue envers les bêtes : le maître pêchait à la ligne et non au filet, et ne tirait pas sur les oiseaux au repos.",
+          "en": "When the stables burned, the Master asked whether anyone was hurt, and did not ask about the horses: on the traditional reading, care for persons comes before all else. The Analects locate <c id='ren'>ren</c> primarily in human relationships: the disciple Youzi names filial piety and respect for one's elders as the root of its practice. That priority does not rule out restraint toward animals: the Master fished with a line, not a net, and did not shoot at roosting birds."
+        },
+        "references": [
+          {
+            "fr": "Entretiens, X (l'incendie des écuries ; numérotation variable selon les éditions)",
+            "en": "Analects, X (the stable fire; numbering varies across editions)"
+          },
+          {
+            "fr": "Entretiens, I, 2 ; VII, 27",
+            "en": "Analects, I, 2; VII, 27"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
     {
       "axisId": "SUFFERING_MEANING",
       "status": "POSITIONED",
@@ -943,7 +977,7 @@
       "en": "https://en.wikipedia.org/wiki/Confucius"
     }
   },
-  "updatedAt": "2026-06-24T00:00:00.000Z",
+  "updatedAt": "2026-10-11T00:00:00.000Z",
   "validation": {
     "method": "NOT_VALIDATED"
   }

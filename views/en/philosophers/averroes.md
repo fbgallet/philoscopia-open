@@ -2,7 +2,7 @@
 
 # Averroes
 
-*1126 – 1198 · Andalusian · [Aristotelianism](../movements/aristotelianism.md)*
+*1126 – 1198 · Andalusian · [Falsafa](../movements/falsafa.md), [Aristotelianism](../movements/aristotelianism.md)*
 
 Andalusian philosopher and physician, the great commentator on [Aristotle](../philosophers/aristotle.md), whose work carried [Aristotelianism](../movements/aristotelianism.md) to the Latin West.
 
@@ -10,6 +10,7 @@ Andalusian philosopher and physician, the great commentator on [Aristotle](../ph
 
 ## Influenced by
 
+- **[al-Ghazālī](../philosophers/al-ghazali.md)** (reacts against) : [Averroes](../philosophers/averroes.md) answers [al-Ghazālī](../philosophers/al-ghazali.md) point by point: to deny natural causality is to deny science itself, since to know a thing is to know its causes.
 - **[Aristotle](../philosophers/aristotle.md)** (reinterprets) : [Averroes](../philosophers/averroes.md), "the Commentator", makes [Aristotle](../philosophers/aristotle.md) the axis of his philosophy and writes great commentaries aimed at recovering the authentic doctrine, against Neoplatonising readings.
 
 ## Influence on

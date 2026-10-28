@@ -27,10 +27,44 @@
     "fr": "Romain",
     "en": "Roman"
   },
+  "datesApprox": true,
+  "language": "lat",
   "movements": [
     "stoicism"
   ],
   "entries": [
+    {
+      "axisId": "MORAL_CIRCLE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          1,
+          0,
+          0,
+          0
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Sénèque distingue les mouvements des animaux des passions proprement humaines, qui supposent l'assentiment de la raison : l'animal n'a ni colère ni vertu au sens propre. Il rapporte pourtant les raisons que lui enseigna Sotion pour s'abstenir de viande, dont la crainte d'habituer l'homme à la cruauté, et dit avoir suivi ce régime un an avant de l'abandonner sur le conseil de son père, dans un climat de suspicion envers les cultes étrangers. Ce témoignage atteste une réflexion morale sur l'alimentation, non une doctrine faisant de la sensibilité animale le fondement d'un statut moral.",
+          "en": "Seneca distinguishes the impulses of animals from passions proper to humans, which require reason's assent: an animal has neither anger nor virtue in the strict sense. Yet he reports the reasons Sotion taught him for abstaining from meat, among them the fear of habituating humans to cruelty, and says he kept that diet for a year before dropping it on his father's advice, amid suspicion of foreign cults. The account shows moral reflection on diet, not a doctrine making animal sentience the ground of moral standing."
+        },
+        "references": [
+          {
+            "fr": "De la colère, I, 3",
+            "en": "On Anger, I, 3"
+          },
+          {
+            "fr": "Lettres à Lucilius, 108, 17-22",
+            "en": "Letters to Lucilius, 108, 17-22"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
     {
       "axisId": "ESSENCE",
       "status": "POSITIONED",
@@ -906,7 +940,7 @@
       "en": "https://en.wikipedia.org/wiki/Seneca_the_Younger"
     }
   },
-  "updatedAt": "2026-06-24T00:00:00.000Z",
+  "updatedAt": "2026-10-11T00:00:00.000Z",
   "validation": {
     "method": "NOT_VALIDATED"
   }

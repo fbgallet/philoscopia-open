@@ -144,6 +144,11 @@
 - “I that is We, and We that is I.” — Phenomenology of Spirit, ch. IV (self-consciousness)
 - “Everything turns on grasping and expressing the true not only as substance, but equally as subject.” — Phenomenology of Spirit, Preface
 
+### [Heidegger](../philosophers/heidegger.md)
+
+- “Man is not the lord of beings. Man is the shepherd of Being.” — Letter on Humanism (1946)
+- “Science does not think.” — What Is Called Thinking?, lectures 1951-1952
+
 ### Homer
 
 - “Endure, my heart; you have borne worse before this.” — Odyssey, XX, 18
@@ -167,6 +172,10 @@
 ### James
 
 - “The true, to put it very briefly, is only the expedient in the way of our thinking.” — Pragmatism, lecture VI
+
+### [Jonas](../philosophers/jonas.md)
+
+- “Act so that the effects of your action are compatible with the permanence of genuine human life on Earth.” — The Imperative of Responsibility, ch. I
 
 ### Kalama Sutta
 
@@ -424,6 +433,10 @@
 
 - “To every argument an equal argument is opposed.” — Outlines of Pyrrhonism, I, 12
 - “Tranquillity followed the suspension of judgment as a shadow follows its body.” — Outlines of Pyrrhonism, I, 29
+
+### [Simondon](../philosophers/simondon.md)
+
+- “The strongest cause of alienation in the contemporary world resides in this misunderstanding of the machine, which is not an alienation caused by the machine, but by the non-knowledge of its nature and its essence.” — On the Mode of Existence of Technical Objects, introduction
 
 ### [Socrates](../philosophers/socrates.md)
 

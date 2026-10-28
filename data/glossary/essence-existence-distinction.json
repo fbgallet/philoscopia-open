@@ -1,0 +1,26 @@
+{
+  "id": "essence-existence-distinction",
+  "term": {
+    "fr": "Distinction de l'essence et de l'existence",
+    "en": "Distinction between essence and existence"
+  },
+  "definition": {
+    "fr": "Chez <ph id='avicenna'>Avicenne</ph>, l'essence d'un être possible, ce qu'il est, ne suffit pas à expliquer qu'il existe : on peut comprendre ce qu'est un triangle sans établir qu'un triangle déterminé existe. Son existence dépend donc d'une cause, sans que son essence soit une chose déjà existante à laquelle l'existence viendrait s'ajouter. Cette distinction joue un rôle majeur dans la métaphysique avicennienne. Reçue et transformée par <ph id='aquinas'>Thomas d'Aquin</ph>, qui en tire sa doctrine de l'<c id='esse'>esse</c>, elle devient l'un des piliers de la métaphysique scolastique.",
+    "en": "For <ph id='avicenna'>Avicenna</ph>, the essence of a possible being, what it is, is not enough to explain that it exists: one can understand what a triangle is without establishing that any given triangle exists. Its existence therefore depends on a cause, without its essence being an already existing thing to which existence would be added. This distinction plays a major role in Avicennian metaphysics. Received and transformed by <ph id='aquinas'>Thomas Aquinas</ph>, who draws from it his doctrine of <c id='esse'>esse</c>, it became one of the pillars of scholastic metaphysics."
+  },
+  "relatedAxes": [
+    "GOD_EXISTENCE"
+  ],
+  "relatedTerms": [
+    "necessary-existent",
+    "esse"
+  ],
+  "figure": {
+    "slug": "avicenna",
+    "name": {
+      "fr": "Avicenne",
+      "en": "Avicenna"
+    }
+  },
+  "updatedAt": "2026-10-10T00:00:00.000Z"
+}

@@ -32,11 +32,66 @@
     "fr": "Anglais",
     "en": "English"
   },
+  "language": "eng",
   "movements": [
     "utilitarianism",
     "liberalism"
   ],
   "entries": [
+    {
+      "axisId": "HUMAN_PLACE_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.55,
+          0.45,
+          0
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Dans « La Nature », Mill récuse l'idée que l'ordre naturel fournisse une norme morale : l'action utile consiste précisément à en corriger le cours spontané, et la nature commet chaque jour ce que nous punirions chez les hommes. Il ne fait pourtant pas de la transformation productive une fin sans limites : cultiver toute terre susceptible de nourrir les hommes, labourer chaque friche fleurie ou pâture naturelle, exterminer les oiseaux et quadrupèdes non domestiqués comme concurrents pour la nourriture, ce serait sacrifier la beauté et la solitude nécessaires à l'épanouissement humain. Sa défense de l'« état stationnaire » associe ainsi amélioration de la nature et préservation d'espaces sauvages, sans poser d'égalité morale entre toutes les formes de vie.",
+          "en": "In \"Nature\", Mill rejects the idea that the natural order supplies a moral standard: useful action consists precisely in correcting its spontaneous course, and nature daily commits what we would punish in human beings. Yet he does not make productive transformation an end without limits: cultivating every piece of land capable of growing food, ploughing up every flowery waste or natural pasture, and exterminating non-domesticated birds and quadrupeds as rivals for food would sacrifice the beauty and solitude that human flourishing needs. His defence of the \"stationary state\" thus combines the improvement of nature with the preservation of wild places, without positing moral equality among all forms of life."
+        },
+        "references": [
+          {
+            "fr": "Trois essais sur la religion, « La Nature » (posthume, 1874)",
+            "en": "Three Essays on Religion, \"Nature\" (posthumous, 1874)"
+          },
+          {
+            "fr": "Principes d'économie politique, IV, ch. 6, §2",
+            "en": "Principles of Political Economy, IV, ch. 6, §2"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "TECHNOLOGY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.1
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Mill attend beaucoup du progrès des arts industriels, mais il doute qu'il ait encore servi ceux qui travaillent : « il est douteux que toutes les inventions mécaniques faites jusqu'ici aient allégé la peine quotidienne d'un seul être humain ». Elles ont permis à une population plus nombreuse de mener la même vie de labeur, à davantage de manufacturiers de faire fortune, et aux classes moyennes de jouir d'un confort accru. Leur bénéfice dépend donc des institutions, de la répartition et des fins : avec des institutions justes et une croissance démographique guidée par la prévoyance, les inventions pourraient enfin produire leur effet légitime, abréger le travail.",
+          "en": "Mill expects much from the progress of the industrial arts, but doubts that it has yet served those who work: \"it is questionable if all the mechanical inventions yet made have lightened the day's toil of any human being\". They have enabled a larger population to live the same life of drudgery, allowed more manufacturers to make fortunes, and increased the comforts of the middle classes. Their benefit therefore depends on institutions, distribution and ends: with just institutions and population growth guided by foresight, inventions could at last have their legitimate effect, that of abridging labour."
+        },
+        "references": [
+          {
+            "fr": "Principes d'économie politique, IV, ch. 6, §2",
+            "en": "Principles of Political Economy, IV, ch. 6, §2"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
     {
       "axisId": "SUFFERING_MEANING",
       "status": "POSITIONED",
@@ -982,7 +1037,7 @@
       "en": "https://en.wikipedia.org/wiki/John_Stuart_Mill"
     }
   },
-  "updatedAt": "2026-07-19T00:00:00.000Z",
+  "updatedAt": "2026-10-11T00:00:00.000Z",
   "validation": {
     "method": "NOT_VALIDATED"
   }

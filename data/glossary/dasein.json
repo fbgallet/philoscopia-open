@@ -1,0 +1,12 @@
+{
+  "id": "dasein",
+  "term": { "fr": "Dasein", "en": "Dasein" },
+  "definition": {
+    "fr": "Mot allemand courant qui signifie « existence » (littéralement « être-là »), auquel <ph id='heidegger'>Heidegger</ph> donne un emploi technique : il désigne l'étant que nous sommes nous-mêmes, celui pour qui, dans son être, il y va de cet être. Le terme évite à dessein « homme », « sujet » ou « conscience », trop chargés de la métaphysique qu'il veut défaire : le Dasein n'est pas une chose pourvue de propriétés, mais une manière d'exister, toujours déjà jetée dans un monde et ouverte à la question de l'être. La plupart des traducteurs français le laissent en allemand.",
+    "en": "An ordinary German word meaning \"existence\" (literally \"being-there\"), to which <ph id='heidegger'>Heidegger</ph> gives a technical use: it names the being that we ourselves are, the one for whom, in its being, that very being is at issue. The term deliberately avoids \"man\", \"subject\" or \"consciousness\", too laden with the metaphysics he wants to undo: Dasein is not a thing endowed with properties, but a way of existing, always already thrown into a world and open to the question of being. Most translators leave it in German."
+  },
+  "relatedAxes": ["ESSENCE", "DEATH"],
+  "relatedTerms": ["being-in-the-world", "sorge", "being-toward-death", "das-man"],
+  "figure": { "slug": "heidegger", "name": { "fr": "Martin Heidegger", "en": "Martin Heidegger" } },
+  "updatedAt": "2026-10-11T00:00:00.000Z"
+}

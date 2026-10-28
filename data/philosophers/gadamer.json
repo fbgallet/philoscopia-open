@@ -1,0 +1,17 @@
+{
+  "kind": "PHILOSOPHER",
+  "stub": true,
+  "id": "gadamer",
+  "name": { "fr": "Gadamer", "en": "Gadamer" },
+  "summary": {
+    "fr": "Philosophe allemand, élève de Heidegger : son herméneutique philosophique fait de la compréhension un dialogue avec la tradition, où nos préjugés sont la condition même de l'interprétation.",
+    "en": "German philosopher, a pupil of Heidegger: his philosophical hermeneutics makes understanding a dialogue with tradition, in which our prejudices are the very condition of interpretation."
+  },
+  "nationality": { "fr": "Allemand", "en": "German" },
+  "birth": 1900,
+  "death": 2002,
+  "language": "deu",
+  "movements": ["phenomenology"],
+  "updatedAt": "2026-10-11T00:00:00.000Z",
+  "validation": { "method": "NOT_VALIDATED" }
+}

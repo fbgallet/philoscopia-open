@@ -1,0 +1,13 @@
+{
+  "id": "heuristics-of-fear",
+  "term": { "fr": "Heuristique de la peur", "en": "Heuristics of fear" },
+  "definition": {
+    "fr": "Méthode proposée par <ph id='jonas'>Jonas</ph> pour orienter l'action quand la technique produit des effets lointains que nous ne savons pas prévoir. Nous savons plus tôt ce que nous ne voulons pas que ce que nous voulons : se représenter la menace qui pèse sur l'humanité ou la nature nous apprend ce qui mérite d'être préservé. Cette peur n'est pas une panique qui paralyse, mais un devoir de connaissance, cultivé par l'imagination ; elle s'accompagne d'une règle de décision qui donne la priorité au pronostic de malheur sur le pronostic de salut quand l'enjeu est irréversible. Elle a nourri le <c>principe de précaution</c>.",
+    "en": "A method proposed by <ph id='jonas'>Jonas</ph> for guiding action when technology produces distant effects we cannot predict. We know sooner what we do not want than what we want: picturing the threat hanging over humanity or nature teaches us what deserves to be preserved. This fear is not a paralysing panic but a duty of knowledge, cultivated by the imagination; it comes with a decision rule that gives priority to the prophecy of doom over the prophecy of bliss when the stake is irreversible. It fed into the <c>precautionary principle</c>."
+  },
+  "relatedAxes": ["TECHNOLOGY", "FUTURE_GENERATIONS", "EMOTIONS"],
+  "relatedTerms": ["responsibility-principle"],
+  "figure": { "slug": "jonas", "name": { "fr": "Hans Jonas", "en": "Hans Jonas" } },
+  "positions": [{ "axisId": "TECHNOLOGY", "poleId": "TECHNO_CRITICISM" }],
+  "updatedAt": "2026-10-11T00:00:00.000Z"
+}

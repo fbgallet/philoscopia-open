@@ -1,0 +1,17 @@
+{
+  "id": "marx-to-ellul",
+  "from": { "kind": "PHILOSOPHER", "slug": "marx" },
+  "to": { "kind": "PHILOSOPHER", "slug": "ellul" },
+  "directness": "ATTESTED",
+  "mode": "REINTERPRETS",
+  "strength": "MEDIUM",
+  "note": {
+    "fr": "Lecteur de <ph id='marx'>Marx</ph> dès sa jeunesse et longtemps enseignant de sa pensée, <ph id='ellul'>Ellul</ph> en garde la méthode, chercher le facteur déterminant d'une société, mais le déplace : au XXe siècle, ce n'est plus le capital, c'est la technique.",
+    "en": "A reader of <ph id='marx'>Marx</ph> from his youth and for many years a teacher of his thought, <ph id='ellul'>Ellul</ph> keeps his method, looking for the determining factor of a society, but shifts it: in the twentieth century, it is no longer capital, it is technique."
+  },
+  "sources": [
+    { "fr": "Ellul, À temps et à contretemps (1981)", "en": "Ellul, In Season, Out of Season (1981)" },
+    { "fr": "Ellul, La Pensée marxiste (cours, publ. 2003)", "en": "Ellul, La Pensée marxiste (lectures at Sciences Po Bordeaux, publ. 2003)" }
+  ],
+  "updatedAt": "2026-10-11T00:00:00.000Z"
+}

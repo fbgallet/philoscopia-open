@@ -1,0 +1,27 @@
+{
+  "kind": "PHILOSOPHER",
+  "stub": true,
+  "id": "armstrong",
+  "name": {
+    "fr": "David Armstrong",
+    "en": "David Armstrong"
+  },
+  "summary": {
+    "fr": "Philosophe australien : il compare le savoir à un thermomètre fiable (1973), préfigurant le fiabilisme.",
+    "en": "Australian philosopher: he compared knowledge to a reliable thermometer (1973), anticipating reliabilism."
+  },
+  "nationality": {
+    "fr": "Australien",
+    "en": "Australian"
+  },
+  "birth": 1926,
+  "death": 2014,
+  "language": "eng",
+  "movements": [
+    "analytic-philosophy"
+  ],
+  "updatedAt": "2026-10-28T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

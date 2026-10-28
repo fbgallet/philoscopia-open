@@ -1,0 +1,17 @@
+{
+  "kind": "PHILOSOPHER",
+  "stub": true,
+  "id": "stiegler",
+  "name": { "fr": "Stiegler", "en": "Stiegler" },
+  "summary": {
+    "fr": "Philosophe français de la technique : pour lui, l'homme s'invente avec ses prothèses techniques, qui sont aussi sa mémoire, et le numérique en fait un enjeu politique majeur.",
+    "en": "French philosopher of technology: for him, the human invents itself with its technical prostheses, which are also its memory, and digital technology makes this a major political stake."
+  },
+  "nationality": { "fr": "Français", "en": "French" },
+  "birth": 1952,
+  "death": 2020,
+  "language": "fra",
+  "movements": [],
+  "updatedAt": "2026-10-11T00:00:00.000Z",
+  "validation": { "method": "NOT_VALIDATED" }
+}

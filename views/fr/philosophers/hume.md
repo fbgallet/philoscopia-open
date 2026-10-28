@@ -18,6 +18,26 @@ Philosophe, historien et essayiste écossais, figure majeure des Lumières d'Éd
 
 ## Positions
 
+### [La source de la morale](../axes/moral-source.md)
+
+*positionné · inférable · majeure*
+
+Le sentiment moral 85% · Une convention tacite 15%
+
+« La morale est plus proprement sentie que jugée » : la raison, qui compare des idées ou établit des faits, ne peut à elle seule produire les distinctions morales. Celles-ci reposent sur des sentiments d'approbation et de désapprobation, que la **sympathie** élargit et que l'adoption d'un point de vue général corrige de leur partialité ; la raison éclaire les faits, les relations et les conséquences pertinents, sans produire à elle seule l'approbation ou la désapprobation. Les règles de justice et de propriété naissent bien d'une **convention** d'intérêt mutuel, sans contrat ni promesse originaires, mais cette origine ne remplace pas le fondement sentimental de leur approbation morale.
+
+*Sources : Traité de la nature humaine, III, I, 1-2 ; III, II, 2 ; III, III, 1 · Enquête sur les principes de la morale, appendice I*
+
+### [Cercle moral](../axes/moral-circle.md)
+
+*positionné · inférable · mineure*
+
+Anthropocentrisme 60% · Pathocentrisme 40%
+
+Hume reconnaît aux animaux des capacités d'apprentissage et de raisonnement par l'expérience, et leur accorde les égards que prescrivent les « lois de l'humanité ». Il distingue pourtant ces devoirs de douceur des obligations de justice : imaginant des créatures raisonnables mais entièrement incapables de nous résister, il leur accorde les égards de l'humanité sans les placer sous la protection de la justice. C'est leur incapacité à nous contraindre, et non une absence de sensibilité, qui explique cette exclusion. La bienveillance dépasse donc l'espèce humaine sans aller jusqu'à une égale considération de tous les êtres sensibles.
+
+*Sources : Traité de la nature humaine, I, III, 16 · Enquête sur les principes de la morale, III, 1*
+
 ### [Sens de la souffrance](../axes/suffering-meaning.md)
 
 *positionné · explicite dans les textes · mineure*

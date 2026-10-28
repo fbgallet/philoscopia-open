@@ -27,8 +27,130 @@
     "fr": "Anglais",
     "en": "English"
   },
+  "language": "eng",
   "movements": ["empiricism", "liberalism"],
   "entries": [
+    {
+      "axisId": "HUMAN_PLACE_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          1,
+          0,
+          0
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Dieu a donné la terre aux hommes pour leur subsistance et leur commodité, « à l'usage des industrieux et des raisonnables », et Locke justifie son appropriation par le travail, qui en multiplie la valeur économique : une terre laissée inculte ne rapporte presque rien. Son argument privilégie donc l'amélioration productive de la nature, non sa conservation pour elle-même. Les restrictions initiales protègent les autres hommes, en interdisant de laisser se perdre ce qu'on s'approprie et en exigeant d'en laisser « assez, et d'aussi bonne qualité » ; l'introduction de la monnaie permet ensuite des possessions inégales qui dépassent les besoins immédiats.",
+          "en": "God gave the earth to men for their support and convenience, \"to the use of the industrious and rational\", and Locke justifies its appropriation by labour, which multiplies its economic value: land left uncultivated yields next to nothing. His argument thus favours the productive improvement of nature, not its preservation for its own sake. The initial limits protect other people, by forbidding one to let appropriated goods spoil and by requiring that \"enough, and as good\" be left for others; the introduction of money then allows unequal holdings beyond immediate needs."
+        },
+        "references": [
+          {
+            "fr": "Second traité du gouvernement civil, ch. V, §26-37",
+            "en": "Second Treatise of Government, ch. V, §26-37"
+          },
+          {
+            "fr": "Second traité du gouvernement civil, ch. V, §40-43 et §46-50",
+            "en": "Second Treatise of Government, ch. V, §40-43 and §46-50"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "TECHNOLOGY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.5
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Notre connaissance de la nature ne pénètre pas les essences réelles, mais elle suffit à ce qui nous importe : la conduite de la vie et les commodités qu'on peut tirer des choses. Locke voit dans les arts utiles, fondés sur l'expérience et l'histoire naturelle, le vrai profit de la philosophie naturelle. Il oppose le roi d'un vaste territoire en Amérique, plus mal nourri, logé et vêtu qu'un journalier anglais, pour montrer ce que le travail et ses améliorations ajoutent à la terre.",
+          "en": "Our knowledge of nature does not reach real essences, but it is enough for what matters to us: the conduct of life and the conveniences we can draw from things. Locke sees in the useful arts, grounded in experience and natural history, the true benefit of natural philosophy. To show what labour and improvement add to the land, he contrasts the king of a large territory in America with an English day-labourer, who is better fed, housed and clothed."
+        },
+        "references": [
+          {
+            "fr": "Essai sur l'entendement humain, IV, 12, §10-12",
+            "en": "An Essay Concerning Human Understanding, IV, 12, §10-12"
+          },
+          {
+            "fr": "Second traité du gouvernement civil, ch. V, §41",
+            "en": "Second Treatise of Government, ch. V, §41"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "MORAL_CIRCLE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          1,
+          0,
+          0,
+          0
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Locke condamne la cruauté envers les animaux parce que l'habitude de les faire souffrir endurcit les enfants et prépare leur brutalité envers les hommes. Cette interdiction s'inscrit dans une conception où les animaux sont donnés à l'usage humain, dans les limites de la loi naturelle. Le motif explicitement donné est donc indirect : préserver la compassion humaine, plutôt que fonder l'interdiction sur une valeur propre reconnue à l'animal.",
+          "en": "Locke condemns cruelty to animals because tormenting them can harden children and make them more likely to be cruel to other people. The prohibition belongs to a view in which animals are given for human use, within the limits of natural law. The reason explicitly given is therefore indirect: it aims to preserve human compassion rather than grounding the prohibition in any recognised worth of the animal itself."
+        },
+        "references": [
+          {
+            "fr": "Quelques pensées sur l'éducation, §116",
+            "en": "Some Thoughts Concerning Education, §116"
+          },
+          {
+            "fr": "Second traité du gouvernement civil, §26",
+            "en": "Second Treatise of Government, §26"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "CAUSALITY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.9,
+          0.1,
+          0
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Locke privilégie l'<kw>hypothèse corpusculaire</kw> de <per>Boyle</per> pour rendre intelligible la production des qualités sensibles par la figure, la taille et le mouvement de parties imperceptibles. Mais notre ignorance de la constitution réelle des corps empêche d'en faire une explication démontrée et complète de toutes leurs puissances. Sa théologie rapporte la nature à un créateur intelligent sans fournir pour autant une théorie des causes finales des phénomènes particuliers.",
+          "en": "Locke favours <per>Boyle</per>'s <kw>corpuscular hypothesis</kw> to make intelligible how sensible qualities arise from the shape, size and motion of imperceptible parts. But our ignorance of the real constitution of bodies prevents it from being a demonstrated and complete account of all their powers. His theology attributes nature to an intelligent creator, but offers no theory of final causes for particular natural phenomena."
+        },
+        "references": [
+          {
+            "fr": "Essai sur l'entendement humain, II, 8",
+            "en": "An Essay Concerning Human Understanding, II, 8"
+          },
+          {
+            "fr": "Essai sur l'entendement humain, IV, 3 (§6 et §16) ; IV, 10",
+            "en": "An Essay Concerning Human Understanding, IV, 3 (§6 and §16); IV, 10"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
     {
       "axisId": "SUFFERING_MEANING",
       "status": "POSITIONED",
@@ -675,14 +797,6 @@
       }
     },
     {
-      "axisId": "TECHNOLOGY",
-      "status": "NOT_APPLICABLE",
-      "note": {
-        "fr": "Locke ne développe pas de position sur la technique comme thème philosophique distinct ; l'axe relève de débats postérieurs.",
-        "en": "Locke develops no position on technology as a distinct philosophical theme; the axis belongs to later debates."
-      }
-    },
-    {
       "axisId": "RIGHTS_NATURE",
       "status": "POSITIONED",
       "declaredValue": {
@@ -782,7 +896,7 @@
       "en": "https://en.wikipedia.org/wiki/John_Locke"
     }
   },
-  "updatedAt": "2026-07-03T00:00:00.000Z",
+  "updatedAt": "2026-10-11T00:00:00.000Z",
   "validation": {
     "method": "NOT_VALIDATED"
   }

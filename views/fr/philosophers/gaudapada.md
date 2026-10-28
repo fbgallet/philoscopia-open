@@ -2,7 +2,7 @@
 
 # Gauḍapāda
 
-*Indien · [Vedānta (Advaita)](../movements/vedanta.md)*
+*640 – 690 · Indien · [Vedānta (Advaita)](../movements/vedanta.md)*
 
 Penseur de l'Advaita [Vedānta](../movements/vedanta.md), prédécesseur de [Śaṅkara](../philosophers/shankara.md), dont la Kārikā systématisa la non-dualité.
 

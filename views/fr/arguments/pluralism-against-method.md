@@ -16,7 +16,7 @@
 
 **⇒** Donc la science est une forme puissante de savoir parmi d'autres, non la mesure de toutes : disqualifier d'avance l'art, l'expérience vécue ou les savoirs traditionnels est un dogmatisme, non un résultat.
 
-**Contesté par** : [Si tout se vaut, rien ne se sait](../arguments/pluralism-no-demarcation-objection.md)
+**Contesté par** : [Si tout se vaut, rien ne se sait](../arguments/pluralism-no-demarcation-objection.md) · [Au chevet du malade](../arguments/pluralism-bedside-objection.md)
 
 **Porte sur les problèmes** : [Le reste, après la science](../axes/science-place.md) · [Expliquer, ou comprendre ?](../axes/science-place.md) · [L'art dit-il le vrai ?](../axes/science-place.md) · [Ce que seule l'expérience vécue donne](../axes/science-place.md)
 

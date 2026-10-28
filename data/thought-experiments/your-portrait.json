@@ -1,0 +1,107 @@
+{
+  "id": "your-portrait",
+  "title": {
+    "fr": "Votre portrait",
+    "en": "Your portrait"
+  },
+  "description": {
+    "fr": "À partir de vos réponses sur Philoscopia, voici le portrait que nous avons établi de vous : « Vous avez un grand besoin d'être apprécié et admiré, et pourtant vous êtes souvent critique envers vous-même. Vous avez des capacités que vous n'avez pas encore exploitées. Discipliné en apparence, vous êtes parfois inquiet au fond de vous. Vous aimez une certaine variété et supportez mal les contraintes. Vous tenez à penser par vous-même et n'acceptez pas sans preuve les affirmations des autres. Vous êtes tantôt sociable, tantôt réservé. »",
+    "en": "Based on your answers on Philoscopia, here is the portrait we have drawn of you: \"You have a great need to be liked and admired, and yet you are often critical of yourself. You have abilities you have not yet put to use. Disciplined on the outside, you are sometimes anxious deep down. You like a certain variety and chafe at restrictions. You pride yourself on thinking for yourself and do not accept others' claims without proof. You are sometimes sociable, sometimes reserved.\""
+  },
+  "source": {
+    "author": {
+      "fr": "Bertram Forer",
+      "en": "Bertram Forer"
+    },
+    "work": {
+      "fr": "« The fallacy of personal validation »",
+      "en": "\"The fallacy of personal validation\""
+    },
+    "year": 1949
+  },
+  "question": {
+    "fr": "De 0 à 5, à quel point ce portrait vous ressemble-t-il ?",
+    "en": "From 0 to 5, how well does this portrait describe you?"
+  },
+  "axisIds": [
+    "SCIENTIFIC_METHOD"
+  ],
+  "options": [
+    {
+      "id": "very-accurate",
+      "label": {
+        "fr": "4 ou 5 : c'est tout à fait moi.",
+        "en": "4 or 5: that's me exactly."
+      },
+      "hints": [
+        {
+          "axisId": "SCIENTIFIC_METHOD",
+          "value": {
+            "kind": "weights",
+            "weights": [
+              1,
+              0,
+              0
+            ]
+          },
+          "weight": 0.3
+        }
+      ],
+      "discussion": {
+        "fr": "Ce portrait, tout le monde l'a reçu, quelles que soient ses réponses : c'est l'expérience menée par Bertram Forer en 1948 avec des phrases tirées d'horoscopes. Ses étudiants l'ont jugé juste à 4,3 sur 5 en moyenne : des phrases assez vagues pour convenir à tous semblent écrites pour chacun. C'est l'<c id='barnum-effect'>effet Barnum</c>.",
+        "en": "Everyone received this portrait, whatever their answers: this is the experiment Bertram Forer ran in 1948 with sentences taken from horoscopes. His students rated it 4.3 out of 5 on average: sentences vague enough to fit everyone seem written for each. This is the <c id='barnum-effect'>Barnum effect</c>."
+      }
+    },
+    {
+      "id": "partly",
+      "label": {
+        "fr": "2 ou 3 : en partie.",
+        "en": "2 or 3: partly."
+      },
+      "hints": [
+        {
+          "axisId": "SCIENTIFIC_METHOD",
+          "value": {
+            "kind": "weights",
+            "weights": [
+              0.5,
+              0.5,
+              0
+            ]
+          },
+          "weight": 0.2
+        }
+      ],
+      "discussion": {
+        "fr": "Ce portrait, tout le monde l'a reçu, quelles que soient ses réponses : c'est l'expérience menée par Bertram Forer en 1948 avec des phrases tirées d'horoscopes. Vous y avez reconnu quelque chose, comme presque tous ceux qui l'ont lu : c'est la force de l'<c id='barnum-effect'>effet Barnum</c>.",
+        "en": "Everyone received this portrait, whatever their answers: this is the experiment Bertram Forer ran in 1948 with sentences taken from horoscopes. You recognized something of yourself in it, as almost everyone who read it did: that is the strength of the <c id='barnum-effect'>Barnum effect</c>."
+      }
+    },
+    {
+      "id": "not-me",
+      "label": {
+        "fr": "0 ou 1 : ça ne me ressemble pas.",
+        "en": "0 or 1: that's not me."
+      },
+      "hints": [
+        {
+          "axisId": "SCIENTIFIC_METHOD",
+          "value": {
+            "kind": "weights",
+            "weights": [
+              0,
+              1,
+              0
+            ]
+          },
+          "weight": 0.2
+        }
+      ],
+      "discussion": {
+        "fr": "Ce portrait, tout le monde l'a reçu, quelles que soient ses réponses : c'est l'expérience menée par Bertram Forer en 1948 avec des phrases tirées d'horoscopes. Vous avez résisté à un portrait que la plupart jugent fidèle : sa généralité vous a sauté aux yeux. C'est l'<c id='barnum-effect'>effet Barnum</c> que vous avez déjoué.",
+        "en": "Everyone received this portrait, whatever their answers: this is the experiment Bertram Forer ran in 1948 with sentences taken from horoscopes. You resisted a portrait most people judge accurate: its generality struck you. You have foiled the <c id='barnum-effect'>Barnum effect</c>."
+      }
+    }
+  ],
+  "updatedAt": "2026-10-29T00:00:00.000Z"
+}

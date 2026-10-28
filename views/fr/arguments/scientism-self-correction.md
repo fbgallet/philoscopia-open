@@ -25,7 +25,7 @@
 
 *[Comte](../philosophers/comte.md), *[Cours de philosophie positive](../works/course-positive-philosophy-comte.md)**
 
-**Contesté par** : [La branche sciée](../arguments/scientism-self-refutation-objection.md)
+**Contesté par** : [Croire la science sur parole](../arguments/scientism-faith-in-science-objection.md) · [La branche sciée](../arguments/scientism-self-refutation-objection.md)
 
 **Porte sur les problèmes** : [Qu'est-ce qui fait une science ?](../axes/science-place.md) · [Expliquer, ou comprendre ?](../axes/science-place.md) · [Le vrai, ou l'utile ?](../axes/science-place.md)
 

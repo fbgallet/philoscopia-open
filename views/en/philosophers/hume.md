@@ -18,6 +18,26 @@ Scottish philosopher, historian and essayist, a leading figure of the Edinburgh 
 
 ## Positions
 
+### [The source of morality](../axes/moral-source.md)
+
+*positioned · inferable · major*
+
+Moral sentiment 85% · A tacit convention 15%
+
+"Morality is more properly felt than judg'd of": reason, which compares ideas or establishes facts, cannot by itself produce moral distinctions. These rest on sentiments of approval and disapproval, which **sympathy** extends and which the adoption of a general point of view corrects for partiality; reason clarifies the relevant facts, relations and consequences, without itself producing approval or disapproval. The rules of justice and property do arise from a **convention** of mutual interest, with no original contract or promise, but that origin does not replace the sentimental ground of their moral approval.
+
+*Sources : A Treatise of Human Nature, III, I, 1-2; III, II, 2; III, III, 1 · An Enquiry Concerning the Principles of Morals, Appendix I*
+
+### [Moral circle](../axes/moral-circle.md)
+
+*positioned · inferable · minor*
+
+Anthropocentrism 60% · Pathocentrism 40%
+
+Hume credits animals with learning and with reasoning from experience, and grants them the gentle treatment that the "laws of humanity" prescribe. Yet he separates these duties of humane treatment from the obligations of justice: imagining rational creatures entirely incapable of resisting us, he grants them humane treatment without placing them under the protection of justice. Their inability to constrain us, rather than any lack of sentience, explains that exclusion. Benevolence thus reaches beyond the human species without extending to equal consideration for all sentient beings.
+
+*Sources : A Treatise of Human Nature, I, III, 16 · An Enquiry Concerning the Principles of Morals, III, 1*
+
 ### [The meaning of suffering](../axes/suffering-meaning.md)
 
 *positioned · explicit in the texts · minor*

@@ -16,7 +16,7 @@
 
 **⇒** Donc la science n'est ni seule habilitée à tout dire, comme le veut le scientisme, ni un savoir parmi d'autres également valides, comme le veut le pluralisme : elle demeure le modèle de la connaissance rigoureuse, qui reconnaît ses limites sans céder son titre à ce qui ne s'expose pas au démenti.
 
-**Contesté par** : [Aucune réfutation n'est pure](../arguments/critical-rationalism-holism-objection.md)
+**Contesté par** : [Aucune réfutation n'est pure](../arguments/critical-rationalism-holism-objection.md) · [Le critère d'après coup](../arguments/critical-rationalism-hindsight-objection.md)
 
 **Porte sur les problèmes** : [Qu'est-ce qui fait une science ?](../axes/science-place.md) · [Le scientisme se réfute-t-il lui-même ?](../axes/science-place.md)
 

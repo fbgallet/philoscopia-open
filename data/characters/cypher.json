@@ -1,0 +1,147 @@
+{
+  "kind": "CHARACTER",
+  "id": "cypher",
+  "name": {
+    "fr": "Cypher",
+    "en": "Cypher"
+  },
+  "tagline": {
+    "fr": "Le libéré qui regrette : il sait que le plaisir qu'on lui offre est faux et le préfère quand même.",
+    "en": "The freed man who regrets it: he knows the pleasure on offer is fake and prefers it anyway."
+  },
+  "summary": {
+    "fr": "Membre de l'équipage de Morpheus, Cypher a pris la pilule rouge il y a des années et ne s'en remet pas. Personnage de la lucidité désenchantée, il ne se trompe pas sur l'illusion, il la regrette en connaissance de cause, et il incarne la tentation que le film doit affronter pour que le choix de Neo ait un prix.",
+    "en": "A member of Morpheus's crew, Cypher took the red pill years ago and has never got over it. A figure of disenchanted lucidity, he is not fooled by the illusion: he misses it knowingly, and embodies the temptation the film must face for Neo's choice to have a price."
+  },
+  "work": {
+    "fictionId": "the-matrix",
+    "title": {
+      "fr": "Matrix",
+      "en": "The Matrix"
+    },
+    "author": {
+      "fr": "Lana et Lilly Wachowski",
+      "en": "Lana and Lilly Wachowski"
+    },
+    "year": 1999,
+    "medium": "FILM"
+  },
+  "entries": [
+    {
+      "axisId": "TRUTH_VALUE",
+      "status": "POSITIONED",
+      "practicedValue": {
+        "kind": "scalar",
+        "value": 0.95
+      },
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.9
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "La nuit, Cypher se demande devant Neo pourquoi il n'a pas pris la pilule bleue. <spo>Attablé avec l'agent Smith devant un steak qu'il sait inexistant, il conclut que l'ignorance est un bonheur et négocie sa réinsertion, à condition de ne se souvenir de rien ; la Matrice, dira-t-il, peut être plus réelle que ce monde-ci.</spo> Le plaisir qu'il y trouve n'en est pas moins réel pour lui : c'est l'objet qui est simulé, pas la jouissance.",
+          "en": "One night, Cypher wonders aloud in front of Neo why he did not take the blue pill. <spo>Sitting with Agent Smith over a steak he knows does not exist, he concludes that ignorance is bliss and bargains to be put back in, provided he remembers nothing; the Matrix, he will say, can be more real than this world.</spo> The pleasure he finds there is no less real to him: it is the object that is simulated, not the enjoyment."
+        },
+        "references": [
+          {
+            "fr": "La conversation nocturne avec Neo sur le vaisseau",
+            "en": "The night conversation with Neo on the ship"
+          },
+          {
+            "fr": "Le dîner avec l'agent Smith",
+            "en": "The dinner with Agent Smith"
+          },
+          {
+            "fr": "La trahison à bord du Nebuchadnezzar",
+            "en": "The betrayal aboard the Nebuchadnezzar"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "FREEDOM",
+      "status": "POSITIONED",
+      "practicedValue": {
+        "kind": "scalar",
+        "value": -0.4
+      },
+      "epistemicStatus": "EXTRAPOLATED",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Cypher ne croit pas à la prophétie et agit comme si l'issue dépendait de lui seul. <spo>Au moment de trahir, il lance que si Neo est l'Élu, il faudrait un miracle pour l'arrêter.</spo> Refuser une prophétie n'établit pas pour autant une thèse sur le libre arbitre, et il se présente en victime, trompé par Morpheus : la position est extrapolée.",
+          "en": "Cypher does not believe in the prophecy and acts as if the outcome depended on him alone. <spo>As he betrays them, he says that if Neo is the One, it would take a miracle to stop him.</spo> Rejecting a prophecy does not, however, amount to a view on free will, and he casts himself as a victim, deceived by Morpheus: the position is extrapolated."
+        },
+        "references": [
+          {
+            "fr": "La trahison à bord du Nebuchadnezzar",
+            "en": "The betrayal aboard the Nebuchadnezzar"
+          }
+        ],
+        "strength": "WEAK"
+      }
+    },
+    {
+      "axisId": "SOVEREIGN_GOOD",
+      "status": "POSITIONED",
+      "practicedValue": {
+        "kind": "weights",
+        "weights": [
+          0.85,
+          0.15,
+          0
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Ce que Cypher regrette, c'est le confort perdu. <spo>Il demande à renaître riche et important, acteur par exemple : une vie de jouissances garanties, même si leurs objets ne sont pas réels.</spo> C'est l'homme qui se brancherait sur la <te id='experience-machine'>machine à expériences</te>.",
+          "en": "What Cypher misses is the comfort he lost. <spo>He asks to be reborn rich and important, an actor perhaps: a life of guaranteed pleasures, even if their objects are not real.</spo> He is the man who would plug into the <te id='experience-machine'>experience machine</te>."
+        },
+        "references": [
+          {
+            "fr": "La conversation nocturne avec Neo sur le vaisseau",
+            "en": "The night conversation with Neo on the ship"
+          },
+          {
+            "fr": "Le dîner avec l'agent Smith",
+            "en": "The dinner with Agent Smith"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "SELF_INTEREST",
+      "status": "POSITIONED",
+      "practicedValue": {
+        "kind": "scalar",
+        "value": -0.95
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "<spo>Pour obtenir sa réinsertion, il livre Morpheus aux agents et tue plusieurs membres de l'équipage.</spo> Son intérêt propre passe avant la vie de ceux avec qui il a vécu.",
+          "en": "<spo>To be put back in, he hands Morpheus over to the agents and kills several members of the crew.</spo> His own interest comes before the lives of those he lived with."
+        },
+        "references": [
+          {
+            "fr": "La trahison à bord du Nebuchadnezzar",
+            "en": "The betrayal aboard the Nebuchadnezzar"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    }
+  ],
+  "updatedAt": "2026-10-20T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

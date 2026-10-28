@@ -13,9 +13,11 @@
     "fr": "Mouvement artistique, littéraire et philosophique né en Allemagne et en Angleterre au tournant du XIXe siècle, le romantisme est la grande réaction contre les <mv id='enlightenment'>Lumières</mv>. À la raison universelle, au mécanisme et au culte du progrès, il oppose les droits du sentiment, de l'<c id='imagination-creatrice'>imagination</c> et du <c id='genie'>génie</c>, le mystère d'une nature vivante et le <c id='volksgeist'>génie singulier de chaque peuple</c> comme de chaque individu. Annoncé par la sensibilité de <ph id='rousseau'>Rousseau</ph> et par le Sturm und Drang, porté par <ph id='herder'>Herder</ph>, <ph id='schelling'>Schelling</ph>, <ph id='novalis'>Novalis</ph> et <ph id='schiller'>Schiller</ph> en Allemagne, <ph id='coleridge'>Coleridge</ph> et <ph>Wordsworth</ph> en Angleterre, il refuse de réduire le réel à ce que la raison calcule. Forme culturelle des « anti-Lumières », il a nourri aussi bien les nationalismes que les avant-gardes, et reste la source de notre idée moderne de l'art comme création et expression.",
     "en": "An artistic, literary and philosophical movement born in Germany and England at the turn of the nineteenth century, Romanticism is the great reaction against the <mv id='enlightenment'>Enlightenment</mv>. To universal reason, mechanism and the cult of progress it opposes the claims of feeling, <c id='imagination-creatrice'>imagination</c> and <c id='genie'>genius</c>, the mystery of a living nature, and the <c id='volksgeist'>singular genius of each people</c> and each individual. Heralded by the sensibility of <ph id='rousseau'>Rousseau</ph> and by the Sturm und Drang, carried by <ph id='herder'>Herder</ph>, <ph id='schelling'>Schelling</ph>, <ph id='novalis'>Novalis</ph> and <ph id='schiller'>Schiller</ph> in Germany, <ph id='coleridge'>Coleridge</ph> and <ph>Wordsworth</ph> in England, it refuses to reduce reality to what reason can calculate. The cultural form of the « Counter-Enlightenment », it fed nationalisms as much as avant-gardes, and remains the source of our modern idea of art as creation and expression."
   },
+  "area": "WEST",
   "period": {
     "from": 1795,
-    "to": 1850
+    "to": 1850,
+    "afterlife": "HISTORICAL"
   },
   "keyFigures": [
     {

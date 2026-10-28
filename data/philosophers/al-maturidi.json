@@ -1,0 +1,33 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "al-maturidi",
+  "stub": true,
+  "name": { "fr": "al-Māturīdī", "en": "al-Māturīdī" },
+  "fullName": { "fr": "Abū Manṣūr al-Māturīdī", "en": "Abū Manṣūr al-Māturīdī" },
+  "aliases": {
+    "fr": [
+      "māturīdite",
+      "māturīdites"
+    ],
+    "en": [
+      "Māturīdite",
+      "Māturīdites"
+    ]
+  },
+  "summary": {
+    "fr": "Théologien de Samarcande, fondateur de l'école māturīdite, l'autre grande théologie sunnite du <mv id='kalam'>kalām</mv> à côté de l'ashʿarisme.",
+    "en": "A theologian from Samarkand, founder of the Māturīdite school, the other great Sunni theology of <mv id='kalam'>kalām</mv> alongside Ashʿarism."
+  },
+  "birth": 853,
+  "death": 944,
+  "nationality": { "fr": "Né en Asie centrale", "en": "Central Asian" },
+  "datesApprox": true,
+  "language": "ara",
+  "movements": [
+    "kalam"
+  ],
+  "updatedAt": "2026-10-09T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

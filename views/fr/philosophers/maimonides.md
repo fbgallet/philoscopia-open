@@ -11,6 +11,8 @@ Philosophe et rabbin juif du monde arabo-andalou, auteur du « Guide des égaré
 ## Influencé par
 
 - **[Aristote](../philosophers/aristotle.md)** (réinterprète) : Le Guide des égarés de [Maïmonide](../philosophers/maimonides.md) entreprend d'accorder la physique et la métaphysique d'[Aristote](../philosophers/aristotle.md) avec la Torah, quitte à en limiter la portée sur la création du monde.
+- **[Falsafa](../movements/falsafa.md)** (prolonge) : [Maïmonide](../philosophers/maimonides.md) pense dans le cadre de la [falsafa](../movements/falsafa.md) : il recommande [al-Fārābī](../philosophers/al-farabi.md) avant tout autre auteur et reprend sa conception du prophète comme philosophe doué d'une imagination parfaite.
+- **[Kalām](../movements/kalam.md)** (réagit contre) : [Maïmonide](../philosophers/maimonides.md) expose puis réfute les prémisses des théologiens du [kalām](../movements/kalam.md) (atomisme, recréation continue du monde, possibilité de tout ce qui est imaginable), qu'il juge fondées sur l'imagination et non sur la nature des choses.
 
 ## Influence sur
 

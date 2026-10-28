@@ -1,0 +1,12 @@
+{
+  "id": "what-is-metaphysics-heidegger",
+  "title": { "fr": "Qu'est-ce que la métaphysique ?", "en": "What Is Metaphysics?" },
+  "originalTitle": "Was ist Metaphysik?",
+  "author": { "slug": "heidegger", "name": { "fr": "Martin Heidegger", "en": "Martin Heidegger" } },
+  "year": 1929,
+  "presentation": {
+    "fr": "Leçon inaugurale prononcée à Fribourg en 1929, où <ph id='heidegger'>Heidegger</ph> interroge le <c>néant</c> que la science écarte de son champ : l'<c>angoisse</c> le révèle et, avec lui, l'étant en totalité. Il y ajoute une postface (1943) et une introduction (1949).",
+    "en": "The inaugural lecture given at Freiburg in 1929, in which <ph id='heidegger'>Heidegger</ph> questions the <c>nothing</c> that science excludes from its field: <c>anxiety</c> reveals it and, with it, beings as a whole. He added a postscript (1943) and an introduction (1949)."
+  },
+  "updatedAt": "2026-10-11T00:00:00.000Z"
+}

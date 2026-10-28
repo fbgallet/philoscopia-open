@@ -1,0 +1,44 @@
+{
+  "id": "necessary-existent",
+  "term": {
+    "fr": "Nécessaire Existant (wājib al-wujūd)",
+    "en": "Necessary Existent (wājib al-wujūd)"
+  },
+  "aliases": {
+    "fr": [
+      "wājib al-wujūd",
+      "nécessaire par soi",
+      "Existant nécessaire par soi"
+    ],
+    "en": [
+      "wājib al-wujūd",
+      "necessary in itself",
+      "Necessary Existent through itself"
+    ]
+  },
+  "definition": {
+    "fr": "Chez <ph id='avicenna'>Avicenne</ph>, le Nécessaire Existant par soi est ce qui ne peut pas ne pas exister et ne dépend d'aucune cause. Les autres êtres sont <c id='essence-existence-distinction'>possibles par soi</c> : leur essence n'exige pas leur existence, même si celle-ci devient nécessaire par la cause qui les fait exister. Avicenne montre que les êtres possibles dépendent en dernière analyse d'un nécessaire par soi, sans supposer que le monde ait commencé dans le temps. Cette argumentation a profondément influencé la <c id='scholasticism'>scolastique</c> latine, qui l'a reçue et transformée.",
+    "en": "For <ph id='avicenna'>Avicenna</ph>, the Necessary Existent in itself is what cannot not exist and depends on no cause. All other beings are <c id='essence-existence-distinction'>possible in themselves</c>: their essence does not require their existence, even though that existence becomes necessary through the cause that makes them exist. Avicenna shows that possible beings depend, in the last analysis, on something necessary in itself, without assuming that the world began in time. This line of argument deeply influenced Latin <c id='scholasticism'>scholasticism</c>, which received and transformed it."
+  },
+  "relatedAxes": [
+    "GOD_EXISTENCE"
+  ],
+  "relatedTerms": [
+    "essence-existence-distinction",
+    "esse"
+  ],
+  "figure": {
+    "slug": "avicenna",
+    "name": {
+      "fr": "Avicenne",
+      "en": "Avicenna"
+    }
+  },
+  "positions": [
+    {
+      "axisId": "GOD_EXISTENCE",
+      "poleId": "THEISM"
+    }
+  ],
+  "updatedAt": "2026-10-10T00:00:00.000Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "falsafa-vs-al-ghazali",
+  "from": { "kind": "MOVEMENT", "slug": "falsafa" },
+  "to": { "kind": "PHILOSOPHER", "slug": "al-ghazali" },
+  "directness": "ATTESTED",
+  "mode": "REACTS_AGAINST",
+  "strength": "STRONG",
+  "note": {
+    "fr": "<ph id='al-ghazali'>Al-Ghazālī</ph> réfute vingt thèses des philosophes de la <mv id='falsafa'>falsafa</mv>, notamment l'éternité du monde et la nécessité du lien causal, et en déclare trois incompatibles avec l'islam : l'éternité du monde, la connaissance divine limitée aux universaux et la négation de la résurrection des corps.",
+    "en": "<ph id='al-ghazali'>Al-Ghazālī</ph> refutes twenty theses of the <mv id='falsafa'>falsafa</mv> philosophers, notably the eternity of the world and the necessity of the causal link, and declares three of them incompatible with Islam: the eternity of the world, divine knowledge restricted to universals and the denial of bodily resurrection."
+  },
+  "sources": [
+    {
+      "fr": "al-Ghazālī, L'Incohérence des philosophes",
+      "en": "al-Ghazālī, The Incoherence of the Philosophers"
+    }
+  ],
+  "updatedAt": "2026-10-09T00:00:00.000Z"
+}

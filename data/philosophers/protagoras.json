@@ -16,6 +16,8 @@
     "fr": "Grec (Abdère)",
     "en": "Greek (Abdera)"
   },
+  "datesApprox": true,
+  "language": "grc",
   "movements": [],
   "updatedAt": "2026-07-20T00:00:00.000Z",
   "validation": {

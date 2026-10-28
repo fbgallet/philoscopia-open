@@ -1,0 +1,1528 @@
+{
+  "id": "children-of-men",
+  "title": {
+    "fr": "Les Fils de l'homme",
+    "en": "Children of Men"
+  },
+  "originalTitle": "Children of Men",
+  "creators": [
+    {
+      "name": {
+        "fr": "Alfonso Cuarón",
+        "en": "Alfonso Cuarón"
+      },
+      "role": "DIRECTOR"
+    },
+    {
+      "name": {
+        "fr": "Alfonso Cuarón, Timothy J. Sexton, David Arata, Mark Fergus et Hawk Ostby",
+        "en": "Alfonso Cuarón, Timothy J. Sexton, David Arata, Mark Fergus and Hawk Ostby"
+      },
+      "role": "WRITER"
+    }
+  ],
+  "year": 2006,
+  "medium": "FILM",
+  "identity": {
+    "wikidata": "Q221090",
+    "wikipedia": {
+      "fr": "https://fr.wikipedia.org/wiki/Les_Fils_de_l%27homme_(film)",
+      "en": "https://en.wikipedia.org/wiki/Children_of_Men"
+    }
+  },
+  "externalLinks": [
+    {
+      "site": "IMDB",
+      "url": "https://www.imdb.com/title/tt0206634/"
+    },
+    {
+      "site": "ALLOCINE",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=60792.html",
+      "locale": "fr"
+    }
+  ],
+  "canon": {
+    "fr": "Le film de 2006 seul. Le roman de P. D. James (1992), dont il s'inspire librement (la stérilité y est masculine, l'intrigue et les personnages diffèrent), n'est pas pris en compte.",
+    "en": "The 2006 film only. P. D. James's novel (1992), which it adapts freely (infertility there is male, the plot and characters differ), is left aside."
+  },
+  "hook": {
+    "fr": "2027 : depuis dix-huit ans, aucun enfant n'est né sur Terre. Dans une Grande-Bretagne barricadée contre les réfugiés, Theo, un fonctionnaire revenu de tout, accepte pour de l'argent d'aider Kee, une jeune réfugiée, à quitter le pays. Que reste-t-il de nos raisons d'agir quand l'humanité n'a plus d'avenir, et que doit-on à une inconnue qu'on a accepté d'aider contre paiement ?",
+    "en": "2027: no child has been born on Earth for eighteen years. In a Britain barricaded against refugees, Theo, a jaded civil servant, agrees for money to help Kee, a young refugee, get out of the country. What is left of our reasons to act when humanity has no future, and what do we owe a stranger we were paid to help?"
+  },
+  "problem": {
+    "commonBelief": {
+      "fr": "On croit d'ordinaire que nos raisons de vivre nous appartiennent : notre bonheur, nos proches, nos projets. Que l'humanité disparaisse après nous ne devrait rien changer à ce qui compte pour nous.",
+      "en": "We usually assume that our reasons for living are our own: our happiness, the people close to us, our projects. Whether humanity disappears after us should change nothing about what matters to us."
+    },
+    "statement": {
+      "fr": "Le film noue deux questions. La première : beaucoup de ce que nous faisons (bâtir, enseigner, conserver) suppose qu'il y aura quelqu'un après nous. Quand plus aucun enfant ne naît, qu'est-ce qui garde sa raison d'être, et peut-on encore espérer sans raison de le faire ? La seconde surgit dès qu'un espoir réapparaît : faut-il d'abord protéger les personnes qui portent cet espoir, ou peut-on les exposer au nom de ce qu'elles représentent pour tous ? Espérer ne suffit pas à choisir entre les deux : on peut espérer en prenant soin d'une personne ou en servant une cause, et le film montre l'une et l'autre.",
+      "en": "The film ties two questions together. The first: much of what we do (building, teaching, preserving) assumes there will be someone after us. When no more children are born, what still has a point, and can one still hope without any reason to? The second arises as soon as a hope reappears: must one first protect the people who carry this hope, or may one expose them in the name of what they mean to everyone? Hoping does not settle the choice: one can hope by caring for a person or by serving a cause, and the film shows both."
+    },
+    "path": [
+      {
+        "kind": "PROSE",
+        "text": {
+          "fr": "Le film part d'une hypothèse simple : depuis dix-huit ans, plus aucun enfant ne naît. Il en tire deux questions, qui guident tout ce qui suit. La première porte sur le sens de nos actes, et sur nos raisons de continuer, quand l'humanité n'a plus d'avenir. La seconde porte sur ce qu'on s'autorise à faire aux personnes au nom d'une cause, fût-elle celle de l'avenir.",
+          "en": "The film starts from a simple hypothesis: for eighteen years, no child has been born. From this it draws two questions that guide everything that follows. The first concerns the meaning of what we do, and our reasons to keep going, when humanity has no future. The second concerns what we allow ourselves to do to people in the name of a cause, even the cause of the future."
+        }
+      },
+      {
+        "kind": "PROSE",
+        "text": {
+          "fr": "<pb>Première question : si personne ne doit venir après nous, ce que nous faisons garde-t-il un sens, et pourquoi continuer ?</pb> Le film le montre d'abord par son décor : pas de paysage d'apocalypse, mais des rues sales, des réfugiés parqués dans des cages, des publicités d'État pour un kit de suicide, le Quietus. Le philosophe <ph>Samuel Scheffler</ph> part de la même hypothèse, qu'il emprunte au roman de P. D. James, pour avancer une idée surprenante : beaucoup de ce qui compte pour nous (chercher, construire, transmettre) suppose, sans que nous le sachions, que d'autres vivront après nous. Retirez cette survie de l'humanité, que Scheffler appelle l'<te id='collective-afterlife'>après-vie collective</te>, et nous perdrions le goût de nous consacrer à ces activités, même si notre propre vie n'était pas raccourcie d'un jour. <ph id='arendt'>Hannah Arendt</ph> dit autre chose, mais dans le même sens : parce que nous naissons, nous pouvons commencer du neuf, c'est la <c id='natality'>natalité</c>. Dans le monde du film, où plus personne ne naît, cette capacité de commencer semble s'éteindre aussi chez les vivants.",
+          "en": "<pb>First question: if no one is to come after us, does what we do still have meaning, and why keep going?</pb> The film shows it first through its setting: no apocalyptic landscape, but filthy streets, refugees held in cages, state advertisements for a suicide kit called Quietus. The philosopher <ph>Samuel Scheffler</ph> starts from the same hypothesis, borrowed from P. D. James's novel, to make a surprising claim: much of what matters to us (inquiring, building, handing things on) assumes, without our knowing it, that others will live after us. Take away this survival of humanity, which Scheffler calls the <te id='collective-afterlife'>collective afterlife</te>, and we would lose the heart to devote ourselves to those activities, even if our own lives were not shortened by a single day. <ph id='arendt'>Hannah Arendt</ph> says something different but points the same way: because we are born, we can begin something new; this is <c id='natality'>natality</c>. In the film's world, where no one is born any more, this capacity to begin seems to die out in the living too."
+        }
+      },
+      {
+        "kind": "PROSE",
+        "text": {
+          "fr": "Une scène montre ce que devient cette idée chez ceux qui gouvernent. Theo, le personnage que suit le film, rend visite à son cousin Nigel, un ministre. Nigel a mis à l'abri dans une « Arche des Arts » le <w>Guernica</w> de Picasso et le <w>David</w> de Michel-Ange. Theo lui demande ce qui le fait tenir ; Nigel répond qu'il n'y pense pas, tout simplement. L'arche de Noé sauvait des vivants pour le monde d'après ; celle-ci sauve des œuvres pour un monde d'après dont Nigel évite de se demander s'il viendra. Il conserve sans se demander pour qui. Theo, lui, n'attend plus rien : ancien militant, il confie à un ami que même si l'on trouvait un remède, ce serait trop tard.",
+          "en": "One scene shows what becomes of this idea among those who govern. Theo, the character the film follows, visits his cousin Nigel, a government minister. Nigel has sheltered Picasso's <w>Guernica</w> and Michelangelo's <w>David</w> in an \"Ark of the Arts\". Theo asks him what keeps him going; Nigel answers that he simply doesn't think about it. Noah's ark saved living creatures for the world to come; this one saves artworks for a world to come that Nigel would rather not wonder about. He preserves without asking for whom. Theo expects nothing anymore: a former activist, he tells a friend that even if a cure were found, it would be too late."
+        }
+      },
+      {
+        "kind": "PROSE",
+        "text": {
+          "fr": "Pourtant, quand son ex-femme Julian, qui dirige un groupe clandestin de défense des réfugiés, les Poissons (<i>Fishes</i>), lui demande d'aider une jeune réfugiée, Kee, à quitter le pays, il accepte, pour de l'argent. Puis il continue, étape après étape, bien au-delà de ce qu'il avait promis. Le film ne lui prête ni discours ni conversion : il le suit de près, caméra à l'épaule, et nous laisse constater qu'il agit comme quelqu'un qui espère, sans jamais le dire. Première réponse du film : on peut continuer d'agir sans croire à l'avenir. Mais Kee compte pour d'autres que Theo : elle devient vite l'enjeu de camps qui s'opposent.",
+          "en": "Yet when his ex-wife Julian, who leads an underground group defending refugees, the Fishes, asks him to help a young refugee, Kee, leave the country, he agrees, for money. Then he keeps going, step after step, far beyond what he had promised. The film gives him neither speech nor conversion: it follows him closely, with a handheld camera, and lets us see that he acts like someone who hopes, without ever saying so. The film's first answer: one can keep acting without believing in the future. But Kee matters to others than Theo: she soon finds herself caught between opposing camps."
+        }
+      },
+      {
+        "kind": "PROSE",
+        "text": {
+          "fr": "<pb>Seconde question : peut-on servir une cause en se servant des personnes ?</pb> Le film la pose d'abord à travers l'État. Pour maintenir l'ordre dans un pays qui se croit le dernier debout, le régime réduit les réfugiés à un problème de sécurité : on les enferme, on les trie, on les expulse. Theo lui-même commence par traiter Kee comme une affaire payée. <ph id='kant'>Kant</ph> en a donné la règle : ne jamais traiter une personne comme un simple moyen, même pour une fin juste (c'est l'une des formules de l'<c id='categorical-imperative'>impératif catégorique</c>). Le mot « simple » compte : être payé pour aider quelqu'un n'interdit pas de l'aider pour lui-même, et c'est ce que Theo découvre en chemin. Face à ceux qui calculent, comme Syd, un policier corrompu qui fait payer chacun de ses services, le film place des personnages qui protègent sans calculer : Jasper, un vieil ami de Theo caché dans les bois, Miriam, qui accompagne Kee, et Marichka, une réfugiée qui ouvre sa porte à Theo et à Kee.",
+          "en": "<pb>Second question: can one serve a cause by using people?</pb> The film first raises it through the state. To keep order in a country that believes itself the last one standing, the regime reduces refugees to a security problem: they are locked up, sorted, deported. Theo himself starts by treating Kee as a paid job. <ph id='kant'>Kant</ph> gave the rule: never treat a person merely as a means, even for a just end (one of the formulas of the <c id='categorical-imperative'>categorical imperative</c>). The word \"merely\" matters: being paid to help someone does not rule out helping them for their own sake, and that is what Theo discovers along the way. Against those who calculate, such as Syd, a corrupt policeman who charges for every favor, the film sets characters who protect without calculating: Jasper, an old friend of Theo's hidden in the woods, Miriam, who accompanies Kee, and Marichka, a refugee who opens her door to Theo and Kee."
+        }
+      },
+      {
+        "kind": "PROSE",
+        "text": {
+          "fr": "Kee est enceinte, la première femme depuis dix-huit ans. Elle le révèle à Theo dans l'étable de la ferme où les Poissons se cachent, au milieu des bêtes, dans une scène qui rappelle la Nativité. Cette nuit-là, Theo entend ses compagnons : ils veulent garder l'enfant pour en faire le symbole de leur soulèvement, plutôt que de le confier au Renouveau planétaire (<i>Human Project</i>), une communauté de chercheurs dont personne ne sait si elle existe. Il apprend aussi que Luke, l'un d'eux, a organisé l'embuscade où Julian a été tuée, parce qu'elle refusait ce plan. Theo s'enfuit avec Kee. L'enfant à naître est devenu un enjeu : une personne à protéger pour les uns, un drapeau pour les autres.",
+          "en": "Kee is pregnant, the first woman in eighteen years. She tells Theo in the barn of the farm where the Fishes are hiding, among the animals, in a scene that recalls the Nativity. That night, Theo overhears his companions: they want to keep the child as the symbol of their uprising, rather than hand it over to the Human Project, a community of scientists no one can be sure exists. He also learns that Luke, one of them, arranged the ambush in which Julian was killed, because she refused this plan. Theo flees with Kee. The unborn child is now caught in the struggle: a person to protect for some, a flag for others."
+        },
+        "spoiler": true
+      },
+      {
+        "kind": "MAP",
+        "mapId": "person-or-cause",
+        "caption": {
+          "fr": "Première carte : espérer ou non, protéger les personnes ou s'en servir. Theo y figure deux fois : ce qu'il dit, ce qu'il fait. La plupart des personnages sont en haut, du côté des personnes ; ce qui les distingue, c'est ce qu'ils attendent de l'avenir.",
+          "en": "First map: to hope or not, to protect people or to use them. Theo appears twice: what he says, what he does. Most characters are at the top, on the side of people; what sets them apart is what they expect from the future."
+        }
+      },
+      {
+        "kind": "PROSE",
+        "text": {
+          "fr": "Le film pose la seconde question dans sa forme la plus brutale : la violence. Recourir à la force pour une cause, c'est accepter que des personnes en paient le prix. La violence de l'État est manifeste : des cages dans les rues, des rafles, des camps où l'on frappe et cagoule les détenus, dans des images qui rappellent Abou Ghraib. Face à elle, les Poissons ont pris les armes : l'État les traite en terroristes, eux se disent les défenseurs des réfugiés. Leur raisonnement rappelle celui de <ph id='fanon'>Frantz Fanon</ph> : quand l'ordre lui-même est une violence, la contre-violence peut sembler la seule réponse. À l'inverse, <ph id='jonas'>Hans Jonas</ph> mettait en garde contre l'espérance érigée en programme : il reprochait à l'<c>utopie</c> du philosophe <ph id='bloch'>Ernst Bloch</ph> d'être prête à sacrifier les vivants au monde qu'elle promet. Le film ne condamne pas le combat des Poissons contre l'oppression, mais il refuse de rendre leur violence glorieuse : les combats sont filmés en longs plans presque continus, caméra collée à Theo, sans vue d'ensemble ni héros. On y voit surtout ce que la guerre coûte à ceux qui se trouvent au milieu.",
+          "en": "The film puts the second question in its most brutal form: violence. To use force for a cause is to accept that people will pay the price. The state's violence is plain: cages in the streets, round-ups, camps where detainees are beaten and hooded, in images that recall Abu Ghraib. Against it, the Fishes have taken up arms: the state treats them as terrorists; they call themselves the refugees' defenders. Their reasoning recalls <ph id='fanon'>Frantz Fanon</ph>'s: when the order itself is violence, counter-violence can seem the only answer. <ph id='jonas'>Hans Jonas</ph>, by contrast, warned against hope turned into a program: he reproached the <c>utopia</c> of the philosopher <ph id='bloch'>Ernst Bloch</ph> for being ready to sacrifice the living to the world it promises. The film does not condemn the Fishes' fight against oppression, but it refuses to make their violence glorious: the fighting is shot in long, almost continuous takes, the camera glued to Theo, with no overview and no heroes. What we mostly see is what war costs those caught in the middle."
+        }
+      },
+      {
+        "kind": "MAP",
+        "mapId": "hope-and-force",
+        "caption": {
+          "fr": "Seconde carte : espérer ou non, recourir à la force ou la refuser. Les personnages s'y écartent davantage, sur des positions surtout tirées de leurs gestes.",
+          "en": "Second map: to hope or not, to use force or refuse it. The characters spread out more here, on positions drawn mostly from their actions."
+        }
+      },
+      {
+        "kind": "PROSE",
+        "text": {
+          "fr": "Une scène réunit les deux questions. Dans un immeuble assiégé du camp de réfugiés de Bexhill, Kee descend l'escalier avec son nouveau-né, Theo à ses côtés. Sur leur passage, les tirs cessent : des soldats baissent leurs armes, certains se signent. Puis un coup de feu, et la bataille reprend. Ce qui arrête les combattants, c'est autant ce que cet enfant représente que l'enfant lui-même : le premier depuis dix-huit ans, la preuve qu'un avenir reste possible. Ils s'inclinent devant un symbole, puis retournent à leur guerre : respecter ce qu'une personne signifie n'est pas encore la protéger pour elle-même.",
+          "en": "One scene brings the two questions together. In a besieged building in the Bexhill refugee camp, Kee walks down the stairs with her newborn, Theo at her side. As they pass, the shooting stops: soldiers lower their weapons, some cross themselves. Then a shot, and the battle resumes. What stops the fighters is as much what this child stands for as the child itself: the first in eighteen years, the proof that a future is still possible. They bow to a symbol, then go back to their war: respecting what a person signifies is not yet protecting her for her own sake."
+        },
+        "spoiler": true
+      },
+      {
+        "kind": "PROSE",
+        "text": {
+          "fr": "Les deux questions se rejoignent dans les gestes. Nigel conserve sans se demander pour qui ; Theo, qui n'attend plus rien, conduit pourtant Kee bien plus loin que son marché ne l'exigeait. Autour d'eux, l'État range les réfugiés parmi les risques, Syd fait payer, les Poissons prennent les armes ; Jasper, Miriam et Marichka protègent sans compter. D'où la question qui traverse le film : faut-il croire à un avenir pour agir, et peut-on le servir sans lui sacrifier les vivants ?",
+          "en": "The two questions meet in what people do. Nigel preserves without asking for whom; Theo, who expects nothing anymore, nevertheless takes Kee far beyond what his bargain required. Around them, the state files refugees under security risks, Syd charges for his favors, the Fishes take up arms; Jasper, Miriam and Marichka protect without counting the cost. Hence the question that runs through the film: must one believe in a future in order to act, and can one serve it without sacrificing the living to it?"
+        }
+      },
+      {
+        "kind": "YOU"
+      }
+    ],
+    "question": {
+      "fr": "Quand l'humanité n'a plus d'avenir, pour qui vaut-il encore la peine de se battre ?",
+      "en": "When humanity has no future left, who is still worth fighting for?"
+    },
+    "anchors": [
+      {
+        "axisId": "HOPE"
+      },
+      {
+        "axisId": "ETHICS_FOUNDATION",
+        "problemId": "consequences-or-the-forbidden-act"
+      },
+      {
+        "axisId": "VIOLENCE"
+      },
+      {
+        "axisId": "LIFE_MEANING",
+        "problemId": "meaning-and-permanence"
+      },
+      {
+        "axisId": "TIME_ORIENTATION",
+        "problemId": "building-for-those-after"
+      },
+      {
+        "axisId": "DEATH",
+        "problemId": "symbolic-immortality"
+      }
+    ]
+  },
+  "maps": [
+    {
+      "id": "person-or-cause",
+      "question": {
+        "fr": "Espérer un avenir ? Et pour lui, protéger les personnes ou s'en servir ?",
+        "en": "Hope for a future? And for its sake, protect people or make use of them?"
+      },
+      "x": {
+        "axisId": "HOPE",
+        "sign": -1,
+        "neg": {
+          "fr": "Ne rien attendre",
+          "en": "Expect nothing"
+        },
+        "pos": {
+          "fr": "Espérer un avenir",
+          "en": "Hope for a future"
+        }
+      },
+      "y": {
+        "axisId": "ETHICS_FOUNDATION",
+        "poles": {
+          "CONSEQUENTIALISM": -1,
+          "DEONTOLOGISM": 0.7,
+          "VIRTUE_ETHICS": 0.3,
+          "CARE_ETHICS": 1
+        },
+        "neg": {
+          "fr": "Seul le résultat compte",
+          "en": "Only the outcome counts"
+        },
+        "pos": {
+          "fr": "La personne compte d'abord",
+          "en": "The person comes first"
+        }
+      },
+      "quadrants": {
+        "topRight": {
+          "fr": "Protéger et espérer",
+          "en": "Protect and hope"
+        },
+        "bottomRight": {
+          "fr": "Tout pour la cause",
+          "en": "Everything for the cause"
+        },
+        "topLeft": {
+          "fr": "Prendre soin sans y croire",
+          "en": "Care without believing"
+        },
+        "bottomLeft": {
+          "fr": "Tout se monnaie",
+          "en": "Everything has a price"
+        }
+      }
+    },
+    {
+      "id": "hope-and-force",
+      "question": {
+        "fr": "Espérer un avenir ? Et pour l'obtenir, recourir à la force ?",
+        "en": "Hope for a future? And to get there, resort to force?"
+      },
+      "x": {
+        "axisId": "HOPE",
+        "sign": -1,
+        "neg": {
+          "fr": "Ne rien attendre",
+          "en": "Expect nothing"
+        },
+        "pos": {
+          "fr": "Espérer un avenir",
+          "en": "Hope for a future"
+        }
+      },
+      "y": {
+        "axisId": "VIOLENCE",
+        "poles": {
+          "PACIFISM": 1,
+          "JUST_WAR": 0,
+          "INSTRUMENTAL_VIOLENCE": -0.8,
+          "EMANCIPATORY_VIOLENCE": -1
+        },
+        "neg": {
+          "fr": "Recourir à la force",
+          "en": "Resort to force"
+        },
+        "pos": {
+          "fr": "Refuser la force",
+          "en": "Refuse force"
+        }
+      },
+      "quadrants": {
+        "topRight": {
+          "fr": "Espérer sans armes",
+          "en": "Hope without weapons"
+        },
+        "bottomRight": {
+          "fr": "Forcer l'avenir",
+          "en": "Force the future"
+        },
+        "topLeft": {
+          "fr": "Tenir sans y croire",
+          "en": "Hold on without believing"
+        },
+        "bottomLeft": {
+          "fr": "Gérer la fin par la force",
+          "en": "Manage the end by force"
+        }
+      }
+    }
+  ],
+  "moments": [
+    {
+      "id": "diego",
+      "label": {
+        "fr": "La mort du plus jeune être humain du monde",
+        "en": "The death of the youngest person in the world"
+      }
+    },
+    {
+      "id": "ambush",
+      "label": {
+        "fr": "L'embuscade sur la route",
+        "en": "The ambush on the road"
+      }
+    },
+    {
+      "id": "the-farm",
+      "label": {
+        "fr": "À la ferme : Theo surprend le plan des Poissons",
+        "en": "At the farm: Theo overhears the Fishes' plan"
+      }
+    },
+    {
+      "id": "the-birth",
+      "label": {
+        "fr": "La naissance à Bexhill",
+        "en": "The birth at Bexhill"
+      }
+    },
+    {
+      "id": "ceasefire",
+      "label": {
+        "fr": "Le cessez-le-feu dans l'escalier",
+        "en": "The ceasefire on the stairs"
+      }
+    },
+    {
+      "id": "the-boat",
+      "label": {
+        "fr": "La barque dans le brouillard",
+        "en": "The rowboat in the fog"
+      }
+    }
+  ],
+  "cast": [
+    {
+      "characterId": "theo-faron",
+      "performers": [
+        {
+          "name": "Clive Owen",
+          "kind": "ACTOR"
+        }
+      ],
+      "emphasis": "PROTAGONIST",
+      "role": {
+        "fr": "Ancien militant devenu fonctionnaire désabusé",
+        "en": "Former activist turned disillusioned civil servant"
+      },
+      "coreBelief": {
+        "fr": "Il dit que même un remède arriverait trop tard, et agit comme si rien n'était perdu.",
+        "en": "He says that even a cure would come too late, and acts as though there were still something to save."
+      },
+      "keyAction": {
+        "fr": "Il obtient de son cousin les papiers de transit, puis accompagne Kee bien au-delà de ce qu'il avait accepté.",
+        "en": "He gets the transit papers from his cousin, then stays with Kee far beyond what he had agreed to."
+      },
+      "arc": [
+        {
+          "label": {
+            "fr": "L'indifférent qui monnaye son aide",
+            "en": "The indifferent man who sells his help"
+          },
+          "moment": "diego",
+          "at": [
+            {
+              "axisId": "HOPE",
+              "value": {
+                "kind": "scalar",
+                "value": 0.8
+              }
+            },
+            {
+              "axisId": "ETHICS_FOUNDATION",
+              "value": {
+                "kind": "weights",
+                "weights": [
+                  0.5,
+                  0.2,
+                  0.1,
+                  0.2
+                ]
+              }
+            },
+            {
+              "axisId": "VIOLENCE",
+              "value": {
+                "kind": "weights",
+                "weights": [
+                  0.4,
+                  0.6,
+                  0,
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "label": {
+            "fr": "Il fuit avec Kee plutôt que de la laisser aux Poissons",
+            "en": "He flees with Kee rather than leave her to the Fishes"
+          },
+          "moment": "the-farm",
+          "at": [
+            {
+              "axisId": "HOPE",
+              "value": {
+                "kind": "scalar",
+                "value": 0.4
+              }
+            },
+            {
+              "axisId": "ETHICS_FOUNDATION",
+              "value": {
+                "kind": "weights",
+                "weights": [
+                  0.1,
+                  0.2,
+                  0.1,
+                  0.6
+                ]
+              }
+            },
+            {
+              "axisId": "VIOLENCE",
+              "value": {
+                "kind": "weights",
+                "weights": [
+                  0.4,
+                  0.6,
+                  0,
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "label": {
+            "fr": "Il aide Kee à mettre son enfant au monde, puis le défend contre Syd",
+            "en": "He helps Kee give birth, then defends the child against Syd"
+          },
+          "moment": "the-birth",
+          "at": [
+            {
+              "axisId": "HOPE",
+              "value": {
+                "kind": "scalar",
+                "value": -0.2
+              }
+            },
+            {
+              "axisId": "ETHICS_FOUNDATION",
+              "value": {
+                "kind": "weights",
+                "weights": [
+                  0,
+                  0.2,
+                  0.1,
+                  0.7
+                ]
+              }
+            },
+            {
+              "axisId": "VIOLENCE",
+              "value": {
+                "kind": "weights",
+                "weights": [
+                  0.35,
+                  0.65,
+                  0,
+                  0
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "label": {
+            "fr": "Blessé, il rame vers un bateau que rien ne garantit",
+            "en": "Wounded, he rows toward a ship that may never come"
+          },
+          "moment": "the-boat",
+          "at": [
+            {
+              "axisId": "HOPE",
+              "value": {
+                "kind": "scalar",
+                "value": -0.35
+              }
+            },
+            {
+              "axisId": "ETHICS_FOUNDATION",
+              "value": {
+                "kind": "weights",
+                "weights": [
+                  0,
+                  0.15,
+                  0.05,
+                  0.8
+                ]
+              }
+            },
+            {
+              "axisId": "VIOLENCE",
+              "value": {
+                "kind": "weights",
+                "weights": [
+                  0.4,
+                  0.6,
+                  0,
+                  0
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kee",
+      "name": {
+        "fr": "Kee",
+        "en": "Kee"
+      },
+      "performers": [
+        {
+          "name": "Clare-Hope Ashitey",
+          "kind": "ACTOR"
+        }
+      ],
+      "role": {
+        "fr": "Jeune réfugiée protégée par les Poissons",
+        "en": "Young refugee protected by the Fishes"
+      },
+      "coreBelief": {
+        "fr": "Elle ne veut être l'instrument de personne, et choisit avec soin à qui se fier.",
+        "en": "She wants to be no one's instrument, and chooses carefully whom to trust."
+      },
+      "keyAction": {
+        "fr": "Dans une étable, elle confie son secret à Theo.",
+        "en": "In a barn, she shares her secret with Theo."
+      },
+      "positions": [
+        {
+          "axisId": "HOPE",
+          "does": {
+            "kind": "scalar",
+            "value": -0.4
+          },
+          "grounds": {
+            "fr": "Kee ne parle pas de l'avenir de l'humanité. <spo>Elle se bat pour que son enfant naisse et vive.</spo> Elle accepte de partir vers le Renouveau planétaire sans savoir s'il existe, <spo>et garde l'enfant au milieu d'une guerre</spo>. C'est un espoir pratique, tourné vers une vie précise plutôt que vers un monde sauvé.",
+            "en": "Kee does not talk about humanity's future. <spo>She fights for her child to be born and to live.</spo> She agrees to set out for the Human Project without knowing whether it exists, <spo>and keeps the child safe in the middle of a war</spo>. Hers is a practical hope, turned toward one particular life rather than toward a saved world."
+          },
+          "references": [
+            {
+              "fr": "L'étable de la ferme",
+              "en": "The barn at the farm"
+            },
+            {
+              "fr": "La barque et le <i>Tomorrow</i>",
+              "en": "The rowboat and the <i>Tomorrow</i>"
+            }
+          ]
+        },
+        {
+          "axisId": "ETHICS_FOUNDATION",
+          "does": {
+            "kind": "weights",
+            "weights": [
+              0,
+              0.1,
+              0.05,
+              0.85
+            ]
+          },
+          "grounds": {
+            "fr": "<spo>Tout ce que fait Kee vise la sécurité de l'enfant.</spo> Rien ne montre qu'elle se pense comme un symbole, et elle se méfie de ceux qui voudraient en faire un : <spo>quand les Poissons veulent la garder pour leur cause, elle fuit avec Theo</spo>. Sa morale est celle du soin d'une personne concrète, non celle d'une cause.",
+            "en": "<spo>Everything Kee does aims at the child's safety.</spo> Nothing suggests she thinks of herself as a symbol, and she distrusts those who would make her one: <spo>when the Fishes want to keep her for their cause, she flees with Theo</spo>. Her morality is the care of a concrete person, not the service of a cause."
+          },
+          "references": [
+            {
+              "fr": "L'étable de la ferme",
+              "en": "The barn at the farm"
+            },
+            {
+              "fr": "La ferme des Poissons : la réunion surprise par Theo",
+              "en": "The Fishes' farm: the meeting Theo overhears"
+            }
+          ]
+        },
+        {
+          "axisId": "VIOLENCE",
+          "does": {
+            "kind": "weights",
+            "weights": [
+              0.7,
+              0.3,
+              0,
+              0
+            ]
+          },
+          "grounds": {
+            "fr": "Kee ne prend jamais les armes et ne s'exprime pas sur la violence. Elle la subit de tous côtés, celle de l'État comme celle des insurgés, et réagit toujours en fuyant ou en se cachant, jamais en ripostant. La force n'est pas son recours.",
+            "en": "Kee never takes up arms and says nothing about violence. She suffers it from every side, the state's as well as the insurgents', and always responds by fleeing or hiding, never by striking back. Force is not her recourse."
+          },
+          "references": [
+            {
+              "fr": "L'embuscade sur la route",
+              "en": "The ambush on the road"
+            },
+            {
+              "fr": "La bataille de Bexhill et l'immeuble assiégé",
+              "en": "The battle of Bexhill and the besieged building"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "julian",
+      "name": {
+        "fr": "Julian Taylor",
+        "en": "Julian Taylor"
+      },
+      "performers": [
+        {
+          "name": "Julianne Moore",
+          "kind": "ACTOR"
+        }
+      ],
+      "role": {
+        "fr": "Ex-femme de Theo, à la tête des Poissons",
+        "en": "Theo's ex-wife, leader of the Fishes"
+      },
+      "coreBelief": {
+        "fr": "On peut encore agir pour l'avenir, à condition de mettre à l'abri ceux qui le portent.",
+        "en": "One can still act for the future, provided one keeps safe those who carry it."
+      },
+      "keyAction": {
+        "fr": "Elle fait enlever Theo pour obtenir de lui des papiers de transit.",
+        "en": "She has Theo kidnapped to get transit papers from him."
+      },
+      "positions": [
+        {
+          "axisId": "HOPE",
+          "does": {
+            "kind": "scalar",
+            "value": -0.7
+          },
+          "grounds": {
+            "fr": "Julian n'a pas renoncé : elle organise, recrute, prend des risques, et mise sur le Renouveau planétaire alors que personne ne peut garantir qu'il existe. Face à l'ironie de Theo, elle incarne un espoir militant, qui fait de l'avenir une tâche.",
+            "en": "Julian has not given up: she organizes, recruits, takes risks, and stakes everything on the Human Project although no one can guarantee it exists. Facing Theo's irony, she embodies a militant hope that turns the future into a task."
+          },
+          "references": [
+            {
+              "fr": "L'enlèvement de Theo par les Poissons",
+              "en": "Theo's kidnapping by the Fishes"
+            },
+            {
+              "fr": "L'embuscade sur la route",
+              "en": "The ambush on the road"
+            }
+          ]
+        },
+        {
+          "axisId": "ETHICS_FOUNDATION",
+          "does": {
+            "kind": "weights",
+            "weights": [
+              0.4,
+              0.4,
+              0,
+              0.2
+            ]
+          },
+          "grounds": {
+            "fr": "Julian est prête à des moyens durs pour la cause : elle fait enlever Theo pour obtenir ce qu'elle veut. Mais elle veut mettre Kee à l'abri plutôt que l'exposer, <spo>et c'est précisément ce refus de faire de l'enfant un instrument politique qui oppose sa ligne à celle de Luke</spo>. Elle se tient entre le calcul de la cause et le respect de la personne.",
+            "en": "Julian is ready to use hard means for the cause: she has Theo kidnapped to get what she wants. But she wants to put Kee in safety rather than expose her, <spo>and it is precisely this refusal to make the child a political instrument that sets her line against Luke's</spo>. She stands between the calculus of the cause and respect for the person."
+          },
+          "references": [
+            {
+              "fr": "L'enlèvement de Theo par les Poissons",
+              "en": "Theo's kidnapping by the Fishes"
+            },
+            {
+              "fr": "La ferme des Poissons : la réunion surprise par Theo",
+              "en": "The Fishes' farm: the meeting Theo overhears"
+            }
+          ]
+        },
+        {
+          "axisId": "VIOLENCE",
+          "does": {
+            "kind": "weights",
+            "weights": [
+              0.35,
+              0.4,
+              0,
+              0.25
+            ]
+          },
+          "grounds": {
+            "fr": "Julian dirige un groupe armé et recourt à la contrainte (l'enlèvement de Theo). Elle n'est donc pas non violente. Mais elle représente la ligne la plus modérée des Poissons, <spo>celle que d'autres membres jugent trop pacifique et qu'ils éliminent avec elle</spo>.",
+            "en": "Julian leads an armed group and resorts to coercion (Theo's kidnapping). She is therefore not non-violent. But she stands for the most moderate line among the Fishes, <spo>the one other members judge too peaceful and eliminate along with her</spo>."
+          },
+          "references": [
+            {
+              "fr": "L'enlèvement de Theo par les Poissons",
+              "en": "Theo's kidnapping by the Fishes"
+            },
+            {
+              "fr": "La ferme des Poissons : la réunion surprise par Theo",
+              "en": "The Fishes' farm: the meeting Theo overhears"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "luke",
+      "name": {
+        "fr": "Luke",
+        "en": "Luke"
+      },
+      "performers": [
+        {
+          "name": "Chiwetel Ejiofor",
+          "kind": "ACTOR"
+        }
+      ],
+      "role": {
+        "fr": "Militant des Poissons, proche de Julian",
+        "en": "Fishes activist, close to Julian"
+      },
+      "coreBelief": {
+        "fr": "L'avenir se gagnera par le soulèvement, et l'enfant doit en être le drapeau.",
+        "en": "The future will be won by the uprising, and the child must be its flag."
+      },
+      "keyAction": {
+        "fr": "Il organise l'embuscade qui coûte la vie à Julian.",
+        "en": "He sets up the ambush that costs Julian her life."
+      },
+      "spoiler": true,
+      "positions": [
+        {
+          "axisId": "HOPE",
+          "does": {
+            "kind": "scalar",
+            "value": -0.7
+          },
+          "grounds": {
+            "fr": "Luke ne désespère pas : il attend un soulèvement des réfugiés et prépare les moyens de le provoquer. Son espoir porte sur une société à venir, et c'est cet espoir qui lui sert à justifier le reste.",
+            "en": "Luke does not despair: he expects an uprising of the refugees and prepares the means to bring it about. His hope bears on a society to come, and it is this hope he uses to justify everything else."
+          },
+          "references": [
+            {
+              "fr": "La ferme des Poissons : la réunion surprise par Theo",
+              "en": "The Fishes' farm: the meeting Theo overhears"
+            },
+            {
+              "fr": "La bataille de Bexhill et l'immeuble assiégé",
+              "en": "The battle of Bexhill and the besieged building"
+            }
+          ]
+        },
+        {
+          "axisId": "ETHICS_FOUNDATION",
+          "does": {
+            "kind": "weights",
+            "weights": [
+              0.9,
+              0,
+              0.1,
+              0
+            ]
+          },
+          "grounds": {
+            "fr": "<spo>À la ferme, Luke veut garder l'enfant pour en faire le symbole du soulèvement, plutôt que de le confier au Renouveau planétaire ; il a fait tuer Julian, qui s'y opposait.</spo> Seule compte l'issue espérée pour la cause : c'est le conséquentialisme à son point de rupture, celui que <ph id='kant'>Kant</ph> écarte en interdisant de traiter une personne comme un simple moyen. Le film lui prête pourtant une colère fondée : les réfugiés qu'il défend sont parqués et humiliés.",
+            "en": "<spo>At the farm, Luke wants to keep the child as the symbol of the uprising rather than hand it over to the Human Project; he had Julian, who opposed this, killed.</spo> Only the outcome hoped for the cause counts: consequentialism at its breaking point, the one <ph id='kant'>Kant</ph> rules out by forbidding us to treat a person as a mere means. Yet the film grants him a well-founded anger: the refugees he defends are herded and humiliated."
+          },
+          "references": [
+            {
+              "fr": "La ferme des Poissons : la réunion surprise par Theo",
+              "en": "The Fishes' farm: the meeting Theo overhears"
+            },
+            {
+              "fr": "L'embuscade sur la route",
+              "en": "The ambush on the road"
+            }
+          ]
+        },
+        {
+          "axisId": "VIOLENCE",
+          "does": {
+            "kind": "weights",
+            "weights": [
+              0,
+              0,
+              0.3,
+              0.7
+            ]
+          },
+          "grounds": {
+            "fr": "Luke tient la violence pour le moyen de l'émancipation des réfugiés. <spo>Il la retourne aussi contre les siens et contre les témoins : l'embuscade où meurt Julian, l'exécution de Jasper.</spo> La force libératrice qu'il invoque devient une force de prise de pouvoir.",
+            "en": "Luke holds violence to be the means of the refugees' emancipation. <spo>He also turns it against his own side and against witnesses: the ambush in which Julian dies, Jasper's execution.</spo> The liberating force he invokes becomes a force for seizing power."
+          },
+          "references": [
+            {
+              "fr": "L'embuscade sur la route",
+              "en": "The ambush on the road"
+            },
+            {
+              "fr": "L'arrivée des Poissons chez Jasper",
+              "en": "The Fishes' arrival at Jasper's house"
+            },
+            {
+              "fr": "La bataille de Bexhill et l'immeuble assiégé",
+              "en": "The battle of Bexhill and the besieged building"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jasper",
+      "name": {
+        "fr": "Jasper Palmer",
+        "en": "Jasper Palmer"
+      },
+      "performers": [
+        {
+          "name": "Michael Caine",
+          "kind": "ACTOR"
+        }
+      ],
+      "role": {
+        "fr": "Ami de Theo, ancien caricaturiste caché dans les bois",
+        "en": "Theo's friend, a former cartoonist hidden in the woods"
+      },
+      "coreBelief": {
+        "fr": "Rien ne dit que tout arrive pour une raison, et cela n'empêche ni de rire ni de tout donner.",
+        "en": "Nothing says that everything happens for a reason, and that is no reason not to laugh, or to give everything."
+      },
+      "keyAction": {
+        "fr": "Il cache Theo et Kee dans sa maison des bois et prépare leur fuite.",
+        "en": "He hides Theo and Kee in his house in the woods and plans their escape."
+      },
+      "positions": [
+        {
+          "axisId": "HOPE",
+          "does": {
+            "kind": "scalar",
+            "value": -0.15
+          },
+          "grounds": {
+            "fr": "Jasper doute qu'un sens soit caché dans ce qui arrive : il parle de la vie comme d'une bataille entre la foi et le hasard, et ne prétend pas savoir laquelle l'emporte. Il n'est pas pour autant sans espoir. Il organise la fuite de Kee vers le Renouveau planétaire et <spo>reste en arrière pour retarder ceux qui la poursuivent</spo>. Il agit pour un avenir sur lequel il ne se fait pas d'illusion.",
+            "en": "Jasper doubts that any meaning lies hidden in what happens: he talks about life as a battle between faith and chance, and does not claim to know which wins. He is not hopeless for all that. He organizes Kee's escape toward the Human Project and <spo>stays behind to hold up her pursuers</spo>. He acts for a future he has no illusions about."
+          },
+          "references": [
+            {
+              "fr": "La maison de Jasper dans les bois",
+              "en": "Jasper's house in the woods"
+            },
+            {
+              "fr": "L'arrivée des Poissons chez Jasper",
+              "en": "The Fishes' arrival at Jasper's house"
+            }
+          ]
+        },
+        {
+          "axisId": "ETHICS_FOUNDATION",
+          "does": {
+            "kind": "weights",
+            "weights": [
+              0,
+              0.1,
+              0.3,
+              0.6
+            ]
+          },
+          "grounds": {
+            "fr": "Jasper prend soin : de Janice, à qui il parle sans qu'elle réponde, puis de Kee et de Theo, qu'il cache et conseille. Sa générosité ressemble moins à l'application d'un principe qu'à une manière d'être, faite de tendresse et de fidélité.",
+            "en": "Jasper takes care: of Janice, whom he talks to though she never answers, then of Kee and Theo, whom he hides and advises. His generosity looks less like applying a principle than like a way of being, made of tenderness and loyalty."
+          },
+          "references": [
+            {
+              "fr": "La maison de Jasper dans les bois",
+              "en": "Jasper's house in the woods"
+            }
+          ]
+        },
+        {
+          "axisId": "VIOLENCE",
+          "does": {
+            "kind": "weights",
+            "weights": [
+              0.8,
+              0.2,
+              0,
+              0
+            ]
+          },
+          "grounds": {
+            "fr": "Vieux contestataire, Jasper a combattu le régime par le dessin, non par les armes. <spo>Face aux Poissons venus le menacer, il ne se défend pas par la force : il les retarde et les nargue jusqu'au bout.</spo>",
+            "en": "An old dissenter, Jasper fought the regime with his drawings, not with weapons. <spo>Facing the Fishes who have come to threaten him, he does not defend himself by force: he stalls them and taunts them to the end.</spo>"
+          },
+          "references": [
+            {
+              "fr": "La maison de Jasper dans les bois",
+              "en": "Jasper's house in the woods"
+            },
+            {
+              "fr": "L'arrivée des Poissons chez Jasper",
+              "en": "The Fishes' arrival at Jasper's house"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "miriam",
+      "name": {
+        "fr": "Miriam",
+        "en": "Miriam"
+      },
+      "performers": [
+        {
+          "name": "Pam Ferris",
+          "kind": "ACTOR"
+        }
+      ],
+      "role": {
+        "fr": "Membre des Poissons, qui accompagne Kee",
+        "en": "Member of the Fishes who accompanies Kee"
+      },
+      "coreBelief": {
+        "fr": "Il faut croire assez pour accompagner les autres, même sans savoir où mène la route.",
+        "en": "One must believe enough to walk alongside others, even without knowing where the road leads."
+      },
+      "keyAction": {
+        "fr": "Elle accompagne Kee dans sa fuite et veille sur elle.",
+        "en": "She goes with Kee as she flees and watches over her."
+      },
+      "positions": [
+        {
+          "axisId": "HOPE",
+          "does": {
+            "kind": "scalar",
+            "value": -0.8
+          },
+          "grounds": {
+            "fr": "Miriam a connu le silence des cours de récréation et le désespoir qui a suivi. <spo>Ancienne sage-femme, c'est elle qui accueille le plus simplement la grossesse de Kee comme un recommencement.</spo> Elle accompagne la jeune femme sans savoir où la mène la route, avec une confiance qui tient de la foi plus que du calcul.",
+            "en": "Miriam lived through the silence of the playgrounds and the despair that followed. <spo>A former midwife, she is the one who most simply welcomes Kee's pregnancy as a new beginning.</spo> She accompanies the young woman without knowing where the road leads, with a trust closer to faith than to calculation."
+          },
+          "references": [
+            {
+              "fr": "L'étable de la ferme",
+              "en": "The barn at the farm"
+            },
+            {
+              "fr": "Le bus vers Bexhill",
+              "en": "The bus to Bexhill"
+            }
+          ]
+        },
+        {
+          "axisId": "ETHICS_FOUNDATION",
+          "does": {
+            "kind": "weights",
+            "weights": [
+              0,
+              0.1,
+              0.2,
+              0.7
+            ]
+          },
+          "grounds": {
+            "fr": "Sa vocation est le soin : rassurer, accompagner, <spo>préparer une naissance</spo>. <spo>Dans le bus, quand Kee risque d'être découverte, elle attire sur elle l'attention des soldats et se fait emmener, sans qu'on la revoie.</spo>",
+            "en": "Her vocation is care: reassuring, accompanying, <spo>preparing a birth</spo>. <spo>On the bus, when Kee is at risk of being discovered, she draws the soldiers' attention to herself and is taken away, never to be seen again.</spo>"
+          },
+          "references": [
+            {
+              "fr": "Le bus vers Bexhill",
+              "en": "The bus to Bexhill"
+            }
+          ]
+        },
+        {
+          "axisId": "VIOLENCE",
+          "does": {
+            "kind": "weights",
+            "weights": [
+              0.6,
+              0.4,
+              0,
+              0
+            ]
+          },
+          "grounds": {
+            "fr": "Miriam ne prend jamais les armes ; quand elle protège Kee, c'est par la ruse et en s'exposant elle-même. La position est inférée de cette conduite : rien dans le film n'en fait une doctrine.",
+            "en": "Miriam never takes up arms; when she protects Kee, it is by cunning and by exposing herself. The position is inferred from this conduct: nothing in the film turns it into a doctrine."
+          },
+          "references": [
+            {
+              "fr": "Le bus vers Bexhill",
+              "en": "The bus to Bexhill"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "syd",
+      "name": {
+        "fr": "Syd",
+        "en": "Syd"
+      },
+      "performers": [
+        {
+          "name": "Peter Mullan",
+          "kind": "ACTOR"
+        }
+      ],
+      "role": {
+        "fr": "Policier corrompu, client de Jasper",
+        "en": "Corrupt policeman, one of Jasper's customers"
+      },
+      "coreBelief": {
+        "fr": "Dans un monde qui s'éteint, chacun se sert.",
+        "en": "In a world that is dying out, everyone helps himself."
+      },
+      "keyAction": {
+        "fr": "Contre paiement, il fait entrer le groupe dans le camp de réfugiés.",
+        "en": "For payment, he gets the group into the refugee camp."
+      },
+      "positions": [
+        {
+          "axisId": "HOPE",
+          "does": {
+            "kind": "scalar",
+            "value": 0.3
+          },
+          "grounds": {
+            "fr": "Syd ne parie pas sur l'avenir : il tire parti du présent, au jour le jour. Ce n'est pas une position réfléchie sur l'espoir, plutôt l'absence de la question ; la position est extrapolée de sa conduite.",
+            "en": "Syd places no bet on the future: he makes the most of the present, day by day. It is not a considered position on hope, rather the question never arising; the position is extrapolated from his conduct."
+          },
+          "references": [
+            {
+              "fr": "L'arrivée au camp de Bexhill",
+              "en": "The arrival at the Bexhill camp"
+            }
+          ]
+        },
+        {
+          "axisId": "ETHICS_FOUNDATION",
+          "does": {
+            "kind": "weights",
+            "weights": [
+              0.8,
+              0.1,
+              0.1,
+              0
+            ]
+          },
+          "grounds": {
+            "fr": "Syd juge chaque chose à ce qu'elle rapporte. Ce n'est pas une doctrine du plus grand bien mais un calcul pour soi ; sans autre principe, il s'en remet à l'idée que la fin justifie le moyen, <spo>jusqu'à monnayer une mère et son nouveau-né</spo>.",
+            "en": "Syd judges everything by what it brings in. It is not a doctrine of the greatest good but a calculation for himself; lacking any other principle, he falls back on the idea that the end justifies the means, <spo>to the point of selling a mother and her newborn</spo>."
+          },
+          "references": [
+            {
+              "fr": "La confrontation avec Syd",
+              "en": "The confrontation with Syd"
+            }
+          ]
+        },
+        {
+          "axisId": "VIOLENCE",
+          "does": {
+            "kind": "weights",
+            "weights": [
+              0.1,
+              0.2,
+              0.7,
+              0
+            ]
+          },
+          "grounds": {
+            "fr": "Syd exerce sans état d'âme la violence ordinaire du camp : il bouscule, menace, humilie les réfugiés. Pour lui, la force est l'instrument de l'ordre, et le sien.",
+            "en": "Syd exercises the camp's ordinary violence without qualms: he shoves, threatens, humiliates the refugees. For him, force is the instrument of order, and of his own interests."
+          },
+          "references": [
+            {
+              "fr": "L'arrivée au camp de Bexhill",
+              "en": "The arrival at the Bexhill camp"
+            },
+            {
+              "fr": "La confrontation avec Syd",
+              "en": "The confrontation with Syd"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "marichka",
+      "name": {
+        "fr": "Marichka",
+        "en": "Marichka"
+      },
+      "performers": [
+        {
+          "name": "Oana Pellea",
+          "kind": "ACTOR"
+        }
+      ],
+      "role": {
+        "fr": "Réfugiée rom du camp de Bexhill",
+        "en": "Romani refugee in the Bexhill camp"
+      },
+      "coreBelief": {
+        "fr": "On ouvre sa porte à qui est en danger, sans demander qui il est ni ce qu'il défend.",
+        "en": "You open your door to whoever is in danger, without asking who they are or what they stand for."
+      },
+      "keyAction": {
+        "fr": "Elle cache Kee et Theo dans sa chambre, au cœur du camp.",
+        "en": "She hides Kee and Theo in her room, in the heart of the camp."
+      },
+      "positions": [
+        {
+          "axisId": "HOPE",
+          "does": {
+            "kind": "scalar",
+            "value": -0.2
+          },
+          "grounds": {
+            "fr": "Marichka n'exprime aucune attente sur l'avenir. <spo>Elle aide Kee à partir mais refuse de monter dans la barque, et reste au camp.</spo> Son geste ne parie pas sur un monde sauvé ; il répond à ce qui se présente. La position est extrapolée.",
+            "en": "Marichka voices no expectation about the future. <spo>She helps Kee leave but refuses to get into the rowboat, and stays in the camp.</spo> Her gesture does not bet on a saved world; it answers what is in front of her. The position is extrapolated."
+          },
+          "references": [
+            {
+              "fr": "La barque et le <i>Tomorrow</i>",
+              "en": "The rowboat and the <i>Tomorrow</i>"
+            }
+          ]
+        },
+        {
+          "axisId": "ETHICS_FOUNDATION",
+          "does": {
+            "kind": "weights",
+            "weights": [
+              0,
+              0.05,
+              0.1,
+              0.85
+            ]
+          },
+          "grounds": {
+            "fr": "Marichka accueille Theo et Kee dans sa chambre et les aide sans rien demander ni rien savoir de leur cause. <spo>Elle les guide ensuite jusqu'à la barque.</spo> C'est le soin offert à des inconnus pour ce qu'ils sont, des personnes en danger.",
+            "en": "Marichka takes Theo and Kee into her room and helps them without asking anything or knowing anything of their cause. <spo>She then guides them to the rowboat.</spo> This is care offered to strangers for what they are, people in danger."
+          },
+          "references": [
+            {
+              "fr": "La chambre de Marichka",
+              "en": "Marichka's room"
+            },
+            {
+              "fr": "La barque et le <i>Tomorrow</i>",
+              "en": "The rowboat and the <i>Tomorrow</i>"
+            }
+          ]
+        },
+        {
+          "axisId": "VIOLENCE",
+          "does": {
+            "kind": "weights",
+            "weights": [
+              0.4,
+              0.6,
+              0,
+              0
+            ]
+          },
+          "grounds": {
+            "fr": "Marichka ne prend part à aucun combat, <spo>mais elle se jette dans la lutte contre Syd quand il menace de livrer la mère et l'enfant</spo>. La force, chez elle, ne sert qu'à défendre.",
+            "en": "Marichka takes part in no fighting, <spo>but she throws herself into the struggle against Syd when he threatens to hand over the mother and child</spo>. For her, force serves only to defend."
+          },
+          "references": [
+            {
+              "fr": "La confrontation avec Syd",
+              "en": "The confrontation with Syd"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "concepts": [
+    {
+      "id": "natality",
+      "explanation": {
+        "fr": "Le film imagine un monde privé de natalité au sens propre, et pousse l'idée d'Arendt à son extrémité : sans naissances, la capacité de commencer, qu'elle ne réduisait pas au fait biologique, semble s'éteindre aussi chez les vivants. <spo>L'arrivée d'un enfant y retrouve le poids d'un miracle.</spo>",
+        "en": "The film imagines a world deprived of natality in the literal sense, and pushes Arendt's idea to its limit: without births, the capacity to begin, which she did not reduce to a biological fact, seems to die out in the living too. <spo>A child's arrival there regains the weight of a miracle.</spo>"
+      }
+    },
+    {
+      "id": "responsibility-principle",
+      "explanation": {
+        "fr": "Jonas fait du nouveau-né l'archétype de toute responsabilité : un être dont la fragilité oblige, et dont l'avenir dépend de nous ; c'est sur ce modèle qu'il étend notre responsabilité à l'humanité à venir. <spo>Theo agit selon ce modèle, pour une vie présente et vulnérable.</spo>",
+        "en": "Jonas makes the newborn the archetype of all responsibility: a being whose fragility binds us and whose future depends on us; on this model he extends our responsibility to the humanity to come. <spo>Theo acts on this model, for a vulnerable life that is present.</spo>"
+      }
+    },
+    {
+      "id": "categorical-imperative",
+      "explanation": {
+        "fr": "L'interdit kantien de traiter une personne comme un simple moyen, même pour une fin juste, est au cœur de la seconde question. <spo>Le film en donne un cas limite : un enfant que tous veulent servir, et dont certains voudraient se servir.</spo>",
+        "en": "Kant's prohibition on treating a person merely as a means, even for a just end, lies at the heart of the second question. <spo>The film offers a limit case: a child everyone wants to serve, and some would like to make use of.</spo>"
+      }
+    },
+    {
+      "id": "the-absurd",
+      "explanation": {
+        "fr": "Agir sans promesse que cela mène quelque part : c'est la situation de Theo, et celle du docteur Rieux de Camus. Le film pose la question de savoir si l'on peut appeler cela de l'espoir.",
+        "en": "Acting without any promise that it leads anywhere: this is Theo's situation, and that of Camus's Doctor Rieux. The film asks whether one can call this hope."
+      }
+    }
+  ],
+  "argumentIds": [
+    "deontologism-humanity-as-end",
+    "consequentialism-only-results-matter",
+    "care-ethics-concrete-relations",
+    "absurdism-lucid-revolt",
+    "project-future-not-ours"
+  ],
+  "thoughtExperimentIds": ["collective-afterlife"],
+  "nearFigures": [
+    {
+      "kind": "PHILOSOPHER",
+      "slug": "arendt",
+      "why": {
+        "fr": "Sa pensée de la natalité fait de chaque naissance un commencement, et de l'enfant le signe d'un espoir pour le monde : c'est exactement ce dont le film imagine la disparition.",
+        "en": "Her thinking of natality makes every birth a beginning, and the child the sign of hope for the world: exactly what the film imagines vanishing."
+      }
+    },
+    {
+      "kind": "PHILOSOPHER",
+      "slug": "jonas",
+      "why": {
+        "fr": "La responsabilité née de la fragilité de ce qui dépend de nous, et la critique d'une espérance utopique prête à sacrifier le présent : les deux pôles du film.",
+        "en": "Responsibility born of the fragility of what depends on us, and the critique of a utopian hope ready to sacrifice the present: the film's two poles."
+      }
+    },
+    {
+      "kind": "PHILOSOPHER",
+      "slug": "ellul",
+      "why": {
+        "fr": "Il a pensé l'espérance au temps de l'abandon, quand rien ne permet plus d'espérer, et interrogé la violence d'un point de vue chrétien, sans la justifier. Son espérance reste toutefois théologique, ce que le film ne dit pas.",
+        "en": "He thought about hope in a time of abandonment, when nothing allows one to hope any longer, and examined violence from a Christian standpoint, without justifying it. His hope, however, remains theological, which the film does not claim."
+      }
+    },
+    {
+      "kind": "PHILOSOPHER",
+      "slug": "camus",
+      "why": {
+        "fr": "Le docteur Rieux de « La Peste » soigne sans attendre de salut ni de justification : une figure proche de Theo, qui agit sans croire à l'issue.",
+        "en": "Doctor Rieux in \"The Plague\" heals without expecting salvation or justification: a figure close to Theo, who acts without believing in the outcome."
+      }
+    },
+    {
+      "kind": "PHILOSOPHER",
+      "slug": "kant",
+      "why": {
+        "fr": "L'interdit de traiter une personne comme un simple moyen sépare ceux qui protègent les personnes de ceux qui veulent s'en servir.",
+        "en": "The prohibition on treating a person as a mere means separates those who protect people from those who want to use them."
+      }
+    }
+  ],
+  "stances": [
+    {
+      "axisId": "HOPE",
+      "mode": "FAVORS",
+      "value": {
+        "kind": "scalar",
+        "value": -0.3
+      },
+      "basis": ["NARRATIVE_OUTCOME", "FORMAL_FRAMING"],
+      "epistemicStatus": "INFERABLE",
+      "justification": {
+        "fr": "Le récit semble donner raison à un espoir qui agit sans garantie, plutôt qu'à une espérance confiante. L'enfant naît et survit, Theo conduit Kee jusqu'au rendez-vous, et le <i>Tomorrow</i> sort du brouillard, sans que l'on sache ce qu'il porte ni où il mène ; sur l'écran noir final, on entend des voix d'enfants. C'est un espoir sans optimisme, compatible avec le principe espérance tel que l'axe le définit (une condition de l'action, non une prévision favorable), d'où une position modérée sur la carte. Celui qui protégerait l'enfant sans rien attendre de l'avenir, comme Theo au début, se placerait de l'autre côté : l'axe ne nomme pas cette attitude. Ce que le film discrédite, c'est l'anesthésie (le Quietus, le « je n'y pense pas » de Nigel), qui n'est pas la lucidité sans espoir : Jasper, qui doute que tout arrive pour une raison, est l'un de ses personnages les plus attachants.",
+        "en": "The narrative seems to vindicate a hope that acts without guarantee, rather than a confident one. The child is born and survives, Theo takes Kee to the meeting point, and the <i>Tomorrow</i> emerges from the fog without our knowing what it carries or where it leads; over the final black screen, children's voices can be heard. It is hope without optimism, compatible with the principle of hope as the axis defines it (a condition of action, not a favorable forecast), hence a moderate position on the map. A reader who would protect the child while expecting nothing of the future, like Theo at the start, would land on the other side: the axis has no name for this attitude. What the film discredits is anaesthesia (Quietus, Nigel's \"I just don't think about it\"), which is not lucidity without hope: Jasper, who doubts that everything happens for a reason, is one of its most endearing characters."
+      },
+      "references": [
+        {
+          "fr": "Les publicités pour le Quietus ; la visite à l'Arche des Arts",
+          "en": "The Quietus advertisements; the visit to the Ark of the Arts"
+        },
+        {
+          "fr": "La barque et l'arrivée du <i>Tomorrow</i>",
+          "en": "The rowboat and the arrival of the <i>Tomorrow</i>"
+        },
+        {
+          "fr": "Les voix d'enfants sur l'écran noir final",
+          "en": "The children's voices over the final black screen"
+        }
+      ]
+    },
+    {
+      "axisId": "ETHICS_FOUNDATION",
+      "mode": "FAVORS",
+      "value": {
+        "kind": "weights",
+        "weights": [
+          0,
+          0.3,
+          0.1,
+          0.6
+        ]
+      },
+      "basis": ["NARRATIVE_OUTCOME", "FORMAL_FRAMING"],
+      "epistemicStatus": "INFERABLE",
+      "justification": {
+        "fr": "Le récit donne raison à ceux qui protègent l'enfant contre ceux qui voudraient s'en servir. Ce qu'il discrédite n'est pas le <c id='consequentialism'>conséquentialisme</c> en général (un conséquentialiste pourrait choisir de protéger Kee), mais la version qui fait des personnes les instruments d'une cause. Le projet de Luke, faire du nouveau-né le symbole du soulèvement, passe par le meurtre de Julian et se perd dans le massacre ; l'enfant survit grâce à une chaîne de gestes de soin (Miriam, Jasper, Marichka, Theo), que la mise en scène suit de près. Limite : la démonstration est facilitée. Le conséquentialisme est incarné par un homme qui fait tuer une alliée et enlève la mère et l'enfant, même si le film lui prête une colère fondée (les réfugiés parqués et humiliés) ; une version plus défendable, révéler l'enfant au monde avec l'accord de Kee pour sauver des milliers de réfugiés, n'est jamais mise à l'épreuve. Et le film critique l'appropriation politique de l'enfant tout en mobilisant lui-même fortement sa puissance symbolique. Sur la carte, l'œuvre se place près de Theo : sur ce point, le récit et son protagoniste vont dans le même sens.",
+        "en": "The narrative sides with those who protect the child against those who would use it. What it discredits is not <c id='consequentialism'>consequentialism</c> in general (a consequentialist could choose to protect Kee), but the version that turns people into instruments of a cause. Luke's plan, making the newborn the symbol of the uprising, goes through Julian's murder and is lost in the massacre; the child survives thanks to a chain of acts of care (Miriam, Jasper, Marichka, Theo), which the camera follows closely. Limit: the demonstration is made easy. Consequentialism is embodied by a man who has an ally killed and abducts the mother and child, even though the film grants him a well-founded anger (refugees herded and humiliated); a more defensible version, revealing the child to the world with Kee's consent to save thousands of refugees, is never put to the test. And the film criticizes the political appropriation of the child while itself drawing heavily on its symbolic power. On the map, the work sits close to Theo: on this point, the narrative and its protagonist go the same way."
+      },
+      "references": [
+        {
+          "fr": "La réunion de la ferme surprise par Theo",
+          "en": "The farm meeting Theo overhears"
+        },
+        {
+          "fr": "Le bus vers Bexhill ; la chambre de Marichka",
+          "en": "The bus to Bexhill; Marichka's room"
+        },
+        {
+          "fr": "L'immeuble assiégé et le cessez-le-feu",
+          "en": "The besieged building and the ceasefire"
+        }
+      ]
+    },
+    {
+      "axisId": "VIOLENCE",
+      "mode": "EXPOSES",
+      "basis": ["NARRATIVE_OUTCOME", "FORMAL_FRAMING"],
+      "epistemicStatus": "INFERABLE",
+      "justification": {
+        "fr": "Le récit montre la violence de l'État (les cages, les expulsions, le bombardement du camp) et celle des insurgés, sans trancher la question de sa légitimité. Les combats sont filmés en longs plans en apparence continus, sans aucune gloire, et le cessez-le-feu fait voir ce que la guerre interrompt ; mais le film ne se demande pas si la révolte des réfugiés contre les camps serait juste. Il la filme à travers le chaos que Theo traverse, et ce point de vue, celui d'un homme qui ne combat pas, ne permet pas de conclure au pacifisme.",
+        "en": "The narrative shows the state's violence (the cages, the deportations, the bombing of the camp) and the insurgents', without settling the question of its legitimacy. The fighting is filmed in long, apparently continuous takes, with no glory, and the ceasefire shows what war interrupts; but the film does not ask whether the refugees' revolt against the camps would be just. It films it through the chaos Theo crosses, and that point of view, a man who does not fight, does not warrant inferring pacifism."
+      },
+      "references": [
+        {
+          "fr": "L'embuscade sur la route",
+          "en": "The ambush on the road"
+        },
+        {
+          "fr": "La bataille de Bexhill",
+          "en": "The battle of Bexhill"
+        },
+        {
+          "fr": "Le cessez-le-feu dans l'escalier",
+          "en": "The ceasefire on the stairs"
+        }
+      ]
+    },
+    {
+      "axisId": "TIME_ORIENTATION",
+      "mode": "EXPOSES",
+      "basis": ["FORMAL_FRAMING"],
+      "epistemicStatus": "INFERABLE",
+      "spoilerFree": true,
+      "justification": {
+        "fr": "Le film pose le problème de l'après-vie collective sans le résoudre. Il montre un monde où l'absence d'avenir défait le présent (lassitude, Quietus, chefs-d'œuvre conservés pour personne), ce qui va dans le sens de Scheffler ; mais il ne dit pas si nos raisons d'agir dépendent vraiment de ceux qui viendront, ou seulement notre envie de continuer. La question que Theo pose à Nigel reste esquivée.",
+        "en": "The film poses the problem of the collective afterlife without resolving it. It shows a world in which the absence of a future undoes the present (weariness, Quietus, masterpieces preserved for no one), which supports Scheffler; but it does not say whether our reasons to act really depend on those who will come, or only our will to keep going. The question Theo puts to Nigel is sidestepped."
+      },
+      "references": [
+        {
+          "fr": "L'ouverture et les rues de Londres",
+          "en": "The opening and the streets of London"
+        },
+        {
+          "fr": "La visite à l'Arche des Arts",
+          "en": "The visit to the Ark of the Arts"
+        }
+      ]
+    }
+  ],
+  "answer": {
+    "spoilerFree": {
+      "fr": "Le film répond moins par des idées que par des gestes. À la première question, il oppose Theo : un homme qui ne croit plus à l'avenir et qui continue pourtant d'agir, à chaque étape où il pourrait renoncer. À la seconde, il oppose des gestes de soin : protéger quelqu'un sans demander à quoi il servira. La caméra reste presque toujours avec Theo : nous n'en savons guère plus que lui, et rien ne dit si tout est perdu ou sauvé. L'espoir que le film laisse debout n'est donc pas un pari sur l'issue, mais le choix d'agir pour quelqu'un, sans garantie.",
+      "en": "The film answers less with ideas than with gestures. Its answer to the first question is Theo: a man who no longer believes in the future and yet keeps acting, at every point where he could give up. Its answer to the second is acts of care: protecting someone without asking what they will be used for. The camera stays almost always with Theo: we know little more than he does, and nothing tells us whether all is lost or saved. The hope the film leaves standing is therefore not a bet on the outcome, but the choice to act for someone, with no guarantee."
+    },
+    "withSpoilers": {
+      "fr": "La fin rassemble les deux questions. Blessé, Theo installe Kee et sa fille dans la barque où Marichka les a conduits, puis rame vers une bouée où un bateau doit les attendre. Kee lui dit qu'elle appellera l'enfant Dylan, du nom du fils que Theo et Julian ont perdu, et Theo en est visiblement touché : ce qui se transmet ici est une mémoire, plus qu'un projet. Le bateau sort du brouillard ; il s'appelle le <i>Tomorrow</i>. Le nom est presque trop clair : demain arrive, mais Theo, semble-t-il, meurt avant d'y monter. La scène met en image ce que décrit Scheffler, agir pour un lendemain qu'on ne verra pas, sans dire si ce lendemain est ce qui donne leur sens à nos actes. Le bateau est bien venu, mais le film ne dit pas où il va, ni ce que le Renouveau planétaire fera de l'enfant. Quant à la seconde question, Luke, qui voulait faire de l'enfant le drapeau de son soulèvement, est mort dans l'assaut : l'enfant a été sauvé par des gestes de soin. L'écran devient noir, on entend des voix d'enfants, puis le générique se clôt sur trois mots : « Shantih shantih shantih ». Miriam les avait chantés sur le corps de Julian ; ce sont les derniers mots de <w>La Terre vaine</w>, le poème d'un monde stérile, que T. S. Eliot emprunte aux Upanishad, où ils disent la paix. Le film finit sur un vœu, non sur une promesse.",
+      "en": "The ending brings the two questions together. Wounded, Theo settles Kee and her daughter into the rowboat Marichka has led them to, then rows toward a buoy where a ship is supposed to meet them. Kee tells him she will name the child Dylan, after the son Theo and Julian lost, and Theo is visibly moved: what is handed on here is a memory more than a project. The ship emerges from the fog; it is called the <i>Tomorrow</i>. The name is almost too plain: tomorrow arrives, but Theo, it seems, dies before he can board it. The scene makes visible what Scheffler describes, acting for a tomorrow we will not see, without saying whether that tomorrow is what gives our acts their meaning. The ship has indeed come, but the film does not say where it is headed, nor what the Human Project will do with the child. As for the second question, Luke, who wanted to make the child the flag of his uprising, died in the assault: the child was saved by acts of care. The screen goes black, children's voices are heard, and the credits close on three words: \"Shantih shantih shantih\". Miriam had chanted them over Julian's body; they are the last words of T. S. Eliot's <w>The Waste Land</w>, a poem of a sterile world, which borrows them from the Upanishads, where they mean peace. The film ends on a wish, not a promise."
+    }
+  },
+  "limits": {
+    "fr": "Le film laisse hors champ le cas le plus difficile : espérer sans aucun signe. Il esquive aussi la question posée à Nigel. <spo>Son espoir repose sur une naissance exceptionnelle, dont la cause reste inexpliquée, et le film critique l'appropriation politique de l'enfant tout en mobilisant fortement sa puissance symbolique (l'étable, les signes de croix pendant le cessez-le-feu).</spo> Enfin, Kee et les réfugiés ont peu de prise sur le récit : ils en sont l'enjeu plus que les sujets.",
+    "en": "The film leaves out the hardest case: hoping without any sign. It also sidesteps the question put to Nigel. <spo>Its hope rests on an exceptional birth whose cause remains unexplained, and it criticizes the political appropriation of the child while drawing heavily on its symbolic power (the barn, the signs of the cross during the ceasefire).</spo> Finally, Kee and the refugees have little hold on the story: they are its stake more than its subjects."
+  },
+  "further": {
+    "readings": [
+      {
+        "title": {
+          "fr": "Death and the Afterlife",
+          "en": "Death and the Afterlife"
+        },
+        "author": {
+          "fr": "Samuel Scheffler",
+          "en": "Samuel Scheffler"
+        },
+        "locus": {
+          "fr": "Conférences 1 et 2",
+          "en": "Lectures 1 and 2"
+        },
+        "year": 2013,
+        "why": {
+          "fr": "L'origine philosophique du problème : Scheffler y emprunte au roman de P. D. James le scénario d'une humanité stérile pour montrer que beaucoup de nos valeurs dépendent de la survie de l'espèce.",
+          "en": "The philosophical source of the problem: Scheffler borrows from P. D. James's novel the scenario of a sterile humanity to show that many of our values depend on the species surviving."
+        }
+      },
+      {
+        "title": {
+          "fr": "Condition de l'homme moderne",
+          "en": "The Human Condition"
+        },
+        "author": {
+          "fr": "Hannah Arendt",
+          "en": "Hannah Arendt"
+        },
+        "locus": {
+          "fr": "Chapitre V, « L'action », dernières pages",
+          "en": "Chapter V, \"Action\", final pages"
+        },
+        "year": 1958,
+        "why": {
+          "fr": "La natalité comme capacité de commencer, et la naissance comme « miracle qui sauve le monde » : ce que le film imagine perdu.",
+          "en": "Natality as the capacity to begin, and birth as \"the miracle that saves the world\": what the film imagines lost."
+        }
+      },
+      {
+        "workId": "imperative-of-responsibility-jonas",
+        "locus": {
+          "fr": "Chapitre IV (le nouveau-né) et la critique de l'utopie",
+          "en": "Chapter IV (the newborn) and the critique of utopia"
+        },
+        "why": {
+          "fr": "Le nouveau-né comme archétype de la responsabilité, et la critique d'une espérance qui sacrifierait le présent à l'avenir.",
+          "en": "The newborn as the archetype of responsibility, and the critique of a hope that would sacrifice the present to the future."
+        }
+      },
+      {
+        "workId": "hope-in-time-of-abandonment-ellul",
+        "why": {
+          "fr": "Une espérance qui naît quand toute raison d'espérer a disparu, pensée dans un cadre théologique que le film laisse à l'arrière-plan.",
+          "en": "A hope that is born when every reason to hope has gone, thought out in a theological framework the film leaves in the background."
+        }
+      },
+      {
+        "title": {
+          "fr": "Hope without Optimism",
+          "en": "Hope without Optimism"
+        },
+        "author": {
+          "fr": "Terry Eagleton",
+          "en": "Terry Eagleton"
+        },
+        "year": 2015,
+        "why": {
+          "fr": "La distinction entre espérer et prévoir une issue favorable, qui éclaire l'espoir sans assurance du film.",
+          "en": "The distinction between hoping and forecasting a favorable outcome, which illuminates the film's hope without assurance."
+        }
+      }
+    ],
+    "fictions": [
+      {
+        "title": {
+          "fr": "La Route",
+          "en": "The Road"
+        },
+        "medium": "NOVEL",
+        "year": 2006,
+        "direction": "EXTENDS",
+        "why": {
+          "fr": "Un père et son fils traversent un monde dévasté en « portant le feu » : l'espoir y tient dans le soin d'un enfant, sans promesse sur l'issue.",
+          "en": "A father and his son cross a devastated world \"carrying the fire\": hope there lies in caring for a child, with no promise about the outcome."
+        }
+      },
+      {
+        "title": {
+          "fr": "Melancholia",
+          "en": "Melancholia"
+        },
+        "medium": "FILM",
+        "year": 2011,
+        "direction": "CONTESTS",
+        "why": {
+          "fr": "Face à la fin du monde, le film de Lars von Trier oppose à l'espoir une lucidité sans consolation.",
+          "en": "Facing the end of the world, Lars von Trier's film sets against hope a lucidity without consolation."
+        }
+      },
+      {
+        "title": {
+          "fr": "La Servante écarlate",
+          "en": "The Handmaid's Tale"
+        },
+        "medium": "NOVEL",
+        "year": 1985,
+        "direction": "EXTENDS",
+        "why": {
+          "fr": "Dans un monde où les naissances se raréfient, un régime confisque la fécondité des femmes : l'autre versant du risque de faire de l'enfant un instrument.",
+          "en": "In a world where births are becoming rare, a regime seizes women's fertility: the other side of the danger of making the child an instrument."
+        }
+      },
+      {
+        "title": {
+          "fr": "Les Fils de l'homme (roman de P. D. James)",
+          "en": "The Children of Men (novel by P. D. James)"
+        },
+        "medium": "NOVEL",
+        "year": 1992,
+        "direction": "EXTENDS",
+        "why": {
+          "fr": "Le roman source, plus ouvertement religieux et centré sur la tentation du pouvoir, prolonge autrement la question de ce qu'une humanité sans descendance fait de ses valeurs.",
+          "en": "The source novel, more openly religious and centered on the temptation of power, extends in another way the question of what a humanity without descendants does with its values."
+        }
+      }
+    ]
+  },
+  "updatedAt": "2026-10-20T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

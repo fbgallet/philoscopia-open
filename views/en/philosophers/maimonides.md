@@ -11,6 +11,8 @@ Jewish philosopher and rabbi of the Arab-Andalusian world, author of "The Guide 
 ## Influenced by
 
 - **[Aristotle](../philosophers/aristotle.md)** (reinterprets) : [Maimonides](../philosophers/maimonides.md)'s Guide for the Perplexed sets out to reconcile [Aristotle](../philosophers/aristotle.md)'s physics and metaphysics with the Torah, even at the cost of limiting his reach on the creation of the world.
+- **[Falsafa](../movements/falsafa.md)** (continues) : [Maimonides](../philosophers/maimonides.md) thinks within the framework of [falsafa](../movements/falsafa.md): he recommends [al-Fārābī](../philosophers/al-farabi.md) above every other author and takes up his conception of the prophet as a philosopher endowed with a perfect imagination.
+- **[Kalām](../movements/kalam.md)** (reacts against) : [Maimonides](../philosophers/maimonides.md) sets out and then refutes the premises of the [kalām](../movements/kalam.md) theologians (atomism, the continuous re-creation of the world, the possibility of everything imaginable), which he judges to rest on imagination rather than on the nature of things.
 
 ## Influence on
 

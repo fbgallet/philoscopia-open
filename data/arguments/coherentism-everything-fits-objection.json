@@ -1,0 +1,124 @@
+{
+  "id": "coherentism-everything-fits-objection",
+  "kind": "OBJECTS",
+  "position": {
+    "axisId": "EPISTEMIC_JUSTIFICATION",
+    "poleId": "COHERENTISM"
+  },
+  "name": {
+    "fr": "Rien n'arrive par hasard",
+    "en": "Nothing happens by chance"
+  },
+  "attacks": "POSITION",
+  "claim": {
+    "fr": "Une théorie du complot est un modèle de cohérence : tout s'y emboîte, et chaque démenti y devient une preuve de plus.",
+    "en": "A conspiracy theory is a model of coherence: everything fits, and every denial becomes one more proof."
+  },
+  "summary": {
+    "fr": "Le récit complotiste relie tout, ne laisse rien au hasard et absorbe toute objection. Si la cohérence suffisait à justifier, la théorie qui explique tout l'emporterait, c'est-à-dire celle que rien ne peut réfuter.",
+    "en": "The conspiracy story connects everything, leaves nothing to chance and absorbs every objection. If coherence were enough to justify, the theory that explains everything would win, that is, the one nothing can refute."
+  },
+  "development": [
+    {
+      "fr": "Le cohérentisme juge une croyance à sa place dans un ensemble qui se tient.",
+      "en": "Coherentism judges a belief by its place in a whole that holds together."
+    },
+    {
+      "fr": "Or le récit complotiste est l'ensemble le plus cohérent qui soit : il relie des faits épars, ne laisse rien au hasard et absorbe toute objection. Un démenti officiel prouve qu'on cache quelque chose ; l'absence de preuve, que la dissimulation a réussi.",
+      "en": "Yet the conspiracy story is the most coherent whole there is: it links scattered facts, leaves nothing to chance and absorbs every objection. An official denial proves something is being hidden; the absence of evidence, that the cover-up has succeeded."
+    },
+    {
+      "fr": "Le monde réel, lui, est plein de hasards, de coïncidences et de pièces qui ne s'emboîtent pas : un récit trop cohérent devrait éveiller le soupçon, au lieu de l'emporter.",
+      "en": "The real world, by contrast, is full of chance, coincidences and pieces that do not fit: a story that is too coherent should arouse suspicion instead of winning out."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc la cohérence ne peut pas suffire à justifier une croyance : poussée à son terme, elle donne raison à la théorie qui explique tout, c'est-à-dire à celle que rien ne pourrait réfuter, une théorie <c id='unfalsifiability'>infalsifiable</c>.",
+    "en": "So coherence cannot be enough to justify a belief: pushed to its limit, it vindicates the theory that explains everything, that is, the one nothing could refute, an <c id='unfalsifiability'>unfalsifiable</c> theory."
+  },
+  "difficulty": 1,
+  "responses": [
+    {
+      "id": "revise",
+      "label": {
+        "fr": "La cohérence ne suffit pas : il faut des faits établis indépendamment, par des méthodes éprouvées.",
+        "en": "Coherence is not enough: there must be facts established independently, by proven methods."
+      },
+      "hints": [
+        {
+          "axisId": "EPISTEMIC_JUSTIFICATION",
+          "value": {
+            "kind": "weights",
+            "weights": [
+              0.4,
+              0.25,
+              0.35
+            ]
+          },
+          "weight": 1
+        }
+      ],
+      "discussion": {
+        "fr": "Vous cherchez hors de la cohérence un garde-fou : des faits établis, ou des méthodes fiables.",
+        "en": "You look beyond coherence for a safeguard: established facts, or reliable methods."
+      }
+    },
+    {
+      "id": "qualify",
+      "label": {
+        "fr": "La cohérence vaut si elle intègre aussi les faits gênants : le complot n'est cohérent qu'en écartant ce qui le dérange.",
+        "en": "Coherence counts if it also takes in the awkward facts: the conspiracy is coherent only by setting aside what bothers it."
+      },
+      "hints": [
+        {
+          "axisId": "EPISTEMIC_JUSTIFICATION",
+          "value": {
+            "kind": "weights",
+            "weights": [
+              0.1,
+              0.65,
+              0.25
+            ]
+          },
+          "weight": 1
+        }
+      ],
+      "discussion": {
+        "fr": "Vous distinguez la vraie cohérence, qui intègre tout, de la cohérence de façade, qui trie.",
+        "en": "You distinguish true coherence, which takes everything in, from surface coherence, which picks and chooses."
+      }
+    },
+    {
+      "id": "refute",
+      "label": {
+        "fr": "La théorie du complot n'est pas cohérente : elle suppose des milliers de complices silencieux, ce qui contredit tout ce que nous savons des humains et des institutions.",
+        "en": "The conspiracy theory is not coherent: it requires thousands of silent accomplices, which contradicts everything we know about people and institutions."
+      },
+      "hints": [
+        {
+          "axisId": "EPISTEMIC_JUSTIFICATION",
+          "value": {
+            "kind": "weights",
+            "weights": [
+              0.05,
+              0.85,
+              0.1
+            ]
+          },
+          "weight": 0.5
+        }
+      ],
+      "discussion": {
+        "fr": "Vous retournez l'objection : jugé à l'aune de tout ce que nous savons, le complot est le récit le moins cohérent.",
+        "en": "You turn the objection around: judged against everything we know, the conspiracy is the least coherent story."
+      }
+    }
+  ],
+  "targets": [
+    "coherentism-neurath-boat"
+  ],
+  "problems": [
+    "coherent-but-false"
+  ],
+  "updatedAt": "2026-10-28T00:00:00.000Z"
+}

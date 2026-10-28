@@ -5,6 +5,7 @@
 - [« Je suis comme ça »](its-my-nature.md) (Sartre)
 - [Chacun ses coutumes ?](funeral-customs.md) (Hérodote)
 - [L'anneau de Gygès](ring-of-gyges.md) (Platon)
+- [L'après-vie collective](collective-afterlife.md) (Samuel Scheffler)
 - [L'enfant qui se noie](drowning-child.md) (Singer)
 - [L'esclave du bon maître](the-kind-master.md) (Philip Pettit, d'après la tradition républicaine)
 - [L'éternel retour](the-eternal-return.md) (Nietzsche)
@@ -32,6 +33,7 @@
 - [Punir un innocent pour sauver la paix ?](scapegoat-punishment.md) (H. J. McCloskey)
 - [Quel effet cela fait-il d'être une chauve-souris ?](what-is-it-like-to-be-a-bat.md) (Thomas Nagel)
 - [Sauver un proche plutôt qu'un inconnu](williams-rescue.md) (Bernard Williams)
+- [Votre portrait](your-portrait.md) (Bertram Forer)
 - [Wilt Chamberlain, la liberté contre l'égalité](wilt-chamberlain.md) (Nozick)
 
 ---

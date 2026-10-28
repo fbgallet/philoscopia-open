@@ -144,6 +144,11 @@
 - « Moi qui est nous, et nous qui est moi. » — Phénoménologie de l'esprit, ch. IV (l'autoconscience)
 - « Tout dépend de ceci : saisir et exprimer le vrai non comme substance, mais tout autant comme sujet. » — Phénoménologie de l'esprit, Préface
 
+### [Heidegger](../philosophers/heidegger.md)
+
+- « L'homme n'est pas le maître de l'étant. L'homme est le berger de l'être. » — Lettre sur l'humanisme (1946)
+- « La science ne pense pas. » — Qu'appelle-t-on penser ?, cours 1951-1952
+
 ### Homère
 
 - « Endure, mon cœur : tu as déjà supporté pire. » — Odyssée, XX, 18
@@ -167,6 +172,10 @@
 ### James
 
 - « Le vrai, pour le dire très brièvement, n'est que ce qui nous réussit dans l'ordre de la pensée. » — Le Pragmatisme, leçon VI
+
+### [Jonas](../philosophers/jonas.md)
+
+- « Agis de façon que les effets de ton action soient compatibles avec la permanence d'une vie authentiquement humaine sur terre. » — Le Principe responsabilité, ch. I
 
 ### Kalama Sutta
 
@@ -433,6 +442,10 @@
 
 - « À tout argument s'oppose un argument égal. » — Esquisses pyrrhoniennes, I, 12
 - « La tranquillité suivit la suspension du jugement comme l'ombre suit le corps. » — Esquisses pyrrhoniennes, I, 29
+
+### [Simondon](../philosophers/simondon.md)
+
+- « La plus forte cause d'aliénation dans le monde contemporain réside dans cette méconnaissance de la machine, qui n'est pas une aliénation causée par la machine, mais par la non-connaissance de sa nature et de son essence. » — Du mode d'existence des objets techniques, introduction
 
 ### [Socrate](../philosophers/socrates.md)
 

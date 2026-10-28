@@ -1,0 +1,27 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "akshapada-gautama",
+  "stub": true,
+  "name": { "fr": "Akṣapāda Gautama", "en": "Akṣapāda Gautama" },
+  "aliases": {
+    "fr": [
+      "Gotama"
+    ],
+    "en": [
+      "Gotama"
+    ]
+  },
+  "summary": {
+    "fr": "Auteur traditionnel des <w>Nyāya-sūtra</w>, texte fondateur du <mv id='nyaya'>Nyāya</mv> et de la logique indienne ; ses dates sont inconnues.",
+    "en": "The traditional author of the <w>Nyāya-sūtra</w>, the founding text of <mv id='nyaya'>Nyāya</mv> and of Indian logic; his dates are unknown."
+  },
+  "nationality": { "fr": "Indien", "en": "Indian" },
+  "language": "san",
+  "movements": [
+    "nyaya"
+  ],
+  "updatedAt": "2026-10-09T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

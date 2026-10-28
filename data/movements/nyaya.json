@@ -1,0 +1,226 @@
+{
+  "kind": "MOVEMENT",
+  "id": "nyaya",
+  "name": { "fr": "Nyāya", "en": "Nyāya" },
+  "tagline": {
+    "fr": "Une philosophie qui veut d'abord savoir comment l'on sait : la logique et le débat érigés en voie de libération.",
+    "en": "A philosophy that first wants to know how we know: logic and debate raised into a path to liberation."
+  },
+  "aliases": {
+    "fr": [
+      "naiyāyika",
+      "naiyāyikas"
+    ],
+    "en": [
+      "Naiyāyika",
+      "Naiyāyikas"
+    ]
+  },
+  "summary": {
+    "fr": "Le Nyāya (« règle », « raisonnement ») est l'un des six systèmes orthodoxes de la philosophie indienne, fondé sur les <w>Nyāya-sūtra</w> attribués à <ph id='akshapada-gautama'>Akṣapāda Gautama</ph> (vers le IIe siècle). École de la logique et de la théorie de la connaissance, il recense les <c id='pramana'>moyens de connaissance valide</c> (<c id='pramana'>pramāṇa</c>), codifie l'inférence et les règles de la controverse, et défend un réalisme robuste contre les bouddhistes et les sceptiques. Ses grands commentateurs, de <ph>Vātsyāyana</ph> à <ph id='udayana'>Udayana</ph>, mènent pendant un millénaire une controverse serrée avec la <mv id='madhyamaka'>Madhyamaka</mv> et l'<mv>épistémologie bouddhique</mv>, et le Nyāya finit par fusionner avec l'école sœur du <mv>Vaiśeṣika</mv>. Au XIVe siècle, <ph id='gangesa'>Gaṅgeśa</ph> fonde le « nouveau Nyāya » (Navya-Nyāya), dont le langage technique d'une précision extrême devient la langue commune de la scolastique indienne ; la période retenue court jusqu'aux derniers grands maîtres de cette école, au XVIIe siècle. Le Nyāya intéresse aujourd'hui la philosophie analytique pour sa logique et son épistémologie.",
+    "en": "Nyāya (\"rule\", \"reasoning\") is one of the six orthodox systems of Indian philosophy, founded on the <w>Nyāya-sūtra</w> attributed to <ph id='akshapada-gautama'>Akṣapāda Gautama</ph> (around the second century). A school of logic and theory of knowledge, it lists the <c id='pramana'>means of valid knowledge</c> (<c id='pramana'>pramāṇa</c>), codifies inference and the rules of debate, and defends a robust realism against Buddhists and sceptics. Its great commentators, from <ph>Vātsyāyana</ph> to <ph id='udayana'>Udayana</ph>, engaged for a thousand years in a sustained, closely argued controversy with <mv id='madhyamaka'>Madhyamaka</mv> and <mv>Buddhist epistemology</mv>, and Nyāya eventually merged with its sister school, <mv>Vaiśeṣika</mv>. In the fourteenth century <ph id='gangesa'>Gaṅgeśa</ph> founded \"new Nyāya\" (Navya-Nyāya), whose extremely precise technical language became the common idiom of Indian scholasticism; the period recorded here runs to that school's last great masters in the seventeenth century. Nyāya draws the interest of analytic philosophy today for its logic and epistemology."
+  },
+  "area": "SOUTH_ASIA",
+  "period": {
+    "from": 150,
+    "to": 1650,
+    "approx": true,
+    "afterlife": "LIVING"
+  },
+  "keyFigures": [
+    {
+      "slug": "akshapada-gautama",
+      "name": { "fr": "Akṣapāda Gautama", "en": "Akṣapāda Gautama" }
+    },
+    {
+      "slug": "udayana",
+      "name": { "fr": "Udayana", "en": "Udayana" }
+    },
+    {
+      "slug": "gangesa",
+      "name": { "fr": "Gaṅgeśa", "en": "Gaṅgeśa" }
+    }
+  ],
+  "entries": [
+    {
+      "axisId": "CERTAINTY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.3
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "<pb>Contre <ph id='nagarjuna'>Nāgārjuna</ph>, qui demande ce qui valide les <c id='pramana'>moyens de connaissance</c> eux-mêmes</pb>, le Nyāya répond qu'un moyen de connaissance n'a pas à être validé d'avance pour opérer : comme la lampe montre les objets sans qu'il faille une autre lampe pour la voir, il produit d'abord une connaissance, et sa fiabilité peut être vérifiée ensuite par un autre moyen, sans régression à l'infini. Le Nyāya distingue ainsi la production d'une connaissance, sa validité, qui tient à ce qu'elle saisit l'objet tel qu'il est, et la reconnaissance de cette validité, qui n'est pas évidente par soi (<c id='paratah-pramanya'>validité extrinsèque</c>, <c id='paratah-pramanya'>parataḥ prāmāṇya</c>) : on l'établit après coup, notamment au succès de l'action qu'elle guide. D'où un <c>réalisme</c> anti-sceptique qui admet pourtant l'erreur et la correction.",
+          "en": "<pb>Against <ph id='nagarjuna'>Nāgārjuna</ph>, who asks what validates the <c id='pramana'>means of knowledge</c> themselves</pb>, Nyāya replies that a means of knowledge need not be validated in advance in order to work: just as a lamp shows objects without requiring another lamp to be seen, it first produces a cognition, and its reliability can then be checked by another means, without infinite regress. Nyāya thus distinguishes the production of a cognition, its validity, which consists in grasping the object as it is, and the recognition of that validity, which is not self-evident (<c id='paratah-pramanya'>extrinsic validity</c>, <c id='paratah-pramanya'>parataḥ prāmāṇya</c>): it is established after the fact, notably by the success of the action it guides. Hence an anti-sceptical <c>realism</c> that nonetheless allows for error and correction."
+        },
+        "references": [
+          {
+            "fr": "Nyāya-sūtra, II, 1, 8-20, avec le commentaire de Vātsyāyana",
+            "en": "Nyāya-sūtra, II.1.8-20, with Vātsyāyana's commentary"
+          },
+          {
+            "fr": "Gaṅgeśa, Tattvacintāmaṇi, livre I (section sur la validité)",
+            "en": "Gaṅgeśa, Tattvacintāmaṇi, book I (section on validity)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "SELF_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          1,
+          0,
+          0,
+          0
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Contre la doctrine bouddhique du non-soi, le Nyāya soutient que le <c id='atman'>soi</c> (<c id='atman'>ātman</c>) est une substance permanente, distincte du corps et des états mentaux. L'argument principal est celui de la <c>reconnaissance</c> : <arg>celui qui désire ce qu'il a vu hier doit être le même sujet que celui qui l'a vu, sans quoi mémoire et désir seraient inexplicables</arg>. <ph id='udayana'>Udayana</ph> consacre un traité entier à réfuter les bouddhistes sur ce point.",
+          "en": "Against the Buddhist doctrine of no-self, Nyāya holds that the <c id='atman'>self</c> (<c id='atman'>ātman</c>) is a permanent substance, distinct from the body and from mental states. The main argument is from <c>recognition</c>: <arg>whoever desires what they saw yesterday must be the same subject who saw it, otherwise memory and desire would be inexplicable</arg>. <ph id='udayana'>Udayana</ph> devoted a whole treatise to refuting the Buddhists on this point."
+        },
+        "references": [
+          { "fr": "Nyāya-sūtra, I, 1, 10 et III, 1", "en": "Nyāya-sūtra, I.1.10 and III.1" },
+          {
+            "fr": "Udayana, Ātmatattvaviveka",
+            "en": "Udayana, Ātmatattvaviveka (Discernment of the Reality of the Self)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "UNIVERSALS",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.9
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Quand nous voyons une vache, nous percevons aussi la « vachéité » (<c>gotva</c>), un <c id='realism-of-universals'>universel</c> réel, éternel, présent dans chacun de ses individus. Le Nyāya s'oppose ainsi à la théorie bouddhique de l'<c id='apoha'>exclusion</c> (<c id='apoha'>apoha</c>), selon laquelle le mot « vache » désigne seulement ce qui n'est pas non-vache : pour lui, les universaux sont perçus, non construits.",
+          "en": "When we see a cow, we also perceive \"cowness\" (<c>gotva</c>), a real, eternal <c id='realism-of-universals'>universal</c> present in each of its individuals. Nyāya thereby opposes the Buddhist theory of <c id='apoha'>exclusion</c> (<c id='apoha'>apoha</c>), on which the word \"cow\" designates only what is not non-cow: for Nyāya, universals are perceived, not constructed."
+        },
+        "references": [
+          { "fr": "Nyāya-sūtra, II, 2, 58-69", "en": "Nyāya-sūtra, II.2.58-69" },
+          { "fr": "Uddyotakara, Nyāyavārttika", "en": "Uddyotakara, Nyāyavārttika" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "KNOWLEDGE_SOURCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.5
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "La <c>perception</c> est le moyen de connaissance premier, dont dépendent les autres. L'<c>inférence</c> repose sur la <c id='vyapti'>concomitance invariable</c> (<c id='vyapti'>vyāpti</c> : la fumée toujours accompagnée de feu). Le Nyāya ne la tire pas d'une simple énumération de cas : il exige l'observation de la présence et de l'absence conjointes, l'élimination des <c id='vyapti'>conditions adventices</c> (<c id='vyapti'>upādhi</c>) qui pourraient fausser le lien, et le secours d'un raisonnement hypothétique (<c id='vyapti'>tarka</c>). C'est une connaissance qui part de l'expérience, et non de vérités innées.",
+          "en": "<c>Perception</c> is the primary means of knowledge, on which the others depend. <c>Inference</c> rests on <c id='vyapti'>invariable concomitance</c> (<c id='vyapti'>vyāpti</c>: smoke always accompanied by fire). Nyāya does not derive it from a mere enumeration of cases: it requires observing joint presence and joint absence, ruling out the <c id='vyapti'>limiting conditions</c> (<c id='vyapti'>upādhi</c>) that could vitiate the link, and the help of hypothetical reasoning (<c id='vyapti'>tarka</c>). It is a knowledge that starts from experience, not from innate truths."
+        },
+        "references": [
+          { "fr": "Nyāya-sūtra, I, 1, 3-5", "en": "Nyāya-sūtra, I.1.3-5" },
+          {
+            "fr": "Gaṅgeśa, Tattvacintāmaṇi, livre II (inférence)",
+            "en": "Gaṅgeśa, Tattvacintāmaṇi, book II (inference)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "TRUTH_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.75,
+          0,
+          0.25
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Une connaissance est vraie quand elle saisit une chose telle qu'elle est : elle attribue à l'objet une propriété que l'objet possède réellement. La correspondance définit le vrai ; le succès de l'action ne sert qu'à le reconnaître, d'où la part, mineure, du pragmatisme.",
+          "en": "A cognition is true when it grasps a thing as it is: it ascribes to the object a property the object really has. Correspondence defines truth; the success of action serves only to recognize it, hence the minor share of pragmatism."
+        },
+        "references": [
+          {
+            "fr": "Gaṅgeśa, Tattvacintāmaṇi, livre I (section sur la validité)",
+            "en": "Gaṅgeśa, Tattvacintāmaṇi, book I (section on validity)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "GOD_EXISTENCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.8
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Discret dans les <w>Nyāya-sūtra</w>, le théisme devient une doctrine développée du Nyāya tardif et de la tradition <mv>Nyāya-Vaiśeṣika</mv>, qui en fait l'école théiste par excellence de la philosophie indienne : <ph id='udayana'>Udayana</ph> cherche à établir l'existence d'un <c>Seigneur</c> (<c>Īśvara</c>), artisan intelligent du monde, contre les <mv>mīmāṃsakas</mv> et les bouddhistes qui le nient. <arg>L'argument central est celui de l'effet : la terre, étant un produit, suppose un agent qui la produit.</arg> D'où une valeur théiste nette, mais en deçà de l'extrême.",
+          "en": "Muted in the <w>Nyāya-sūtra</w>, theism became a developed doctrine of later Nyāya and of the <mv>Nyāya-Vaiśeṣika</mv> tradition, which made it the theistic school par excellence of Indian philosophy: <ph id='udayana'>Udayana</ph> seeks to establish the existence of a <c>Lord</c> (<c>Īśvara</c>), the intelligent maker of the world, against the <mv>Mīmāṃsakas</mv> and Buddhists who deny it. <arg>The central argument is from effects: the earth, being a product, presupposes an agent who produces it.</arg> Hence a clearly theistic value, though short of the extreme."
+        },
+        "references": [
+          { "fr": "Nyāya-sūtra, IV, 1, 19-21", "en": "Nyāya-sūtra, IV.1.19-21" },
+          { "fr": "Udayana, Nyāyakusumāñjali, V, 1", "en": "Udayana, Nyāyakusumāñjali, V.1" }
+        ],
+        "strength": "STRONG"
+      }
+    }
+  ],
+  "structuring": [
+    {
+      "axisId": "CERTAINTY",
+      "thesis": {
+        "fr": "Nous savons, même si nous ne savons pas toujours que nous savons : la validité d'une connaissance se reconnaît à ses fruits.",
+        "en": "We know, even if we do not always know that we know: the validity of a cognition is recognized by its fruits."
+      }
+    },
+    {
+      "axisId": "SELF_NATURE",
+      "thesis": {
+        "fr": "Le soi n'est pas un flux d'états : sans un sujet qui demeure, on ne pourrait ni se souvenir ni désirer.",
+        "en": "The self is not a flux of states: without an abiding subject, one could neither remember nor desire."
+      }
+    },
+    {
+      "axisId": "UNIVERSALS",
+      "thesis": {
+        "fr": "Les universaux se voient : percevoir une vache, c'est aussi percevoir ce qui la fait vache.",
+        "en": "Universals are seen: to perceive a cow is also to perceive what makes it a cow."
+      }
+    }
+  ],
+  "identity": {
+    "wikidata": "Q595650",
+    "wikipedia": { "fr": "https://fr.wikipedia.org/wiki/Ny%C3%A2ya", "en": "https://en.wikipedia.org/wiki/Nyaya" }
+  },
+  "updatedAt": "2026-10-09T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

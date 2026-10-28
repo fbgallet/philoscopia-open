@@ -1,0 +1,145 @@
+{
+  "id": "foundationalism-myth-of-given-objection",
+  "kind": "OBJECTS",
+  "position": {
+    "axisId": "EPISTEMIC_JUSTIFICATION",
+    "poleId": "FOUNDATIONALISM"
+  },
+  "name": {
+    "fr": "Le mythe du donné",
+    "en": "The myth of the given"
+  },
+  "attacks": "REASONING",
+  "claim": {
+    "fr": "Même « je vois un arbre » suppose des concepts, un apprentissage, d'autres croyances : aucune croyance ne se justifie toute seule.",
+    "en": "Even \"I see a tree\" presupposes concepts, learning, other beliefs: no belief justifies itself on its own."
+  },
+  "summary": {
+    "fr": "La perception la plus simple engage déjà des concepts ; et la pure sensation, qui n'en engage pas, n'affirme rien. Les prétendues fondations dépendent d'autres croyances, ou ne justifient rien.",
+    "en": "The simplest perception already involves concepts; and pure sensation, which involves none, asserts nothing. The supposed foundations depend on other beliefs, or justify nothing."
+  },
+  "development": [
+    {
+      "fr": "Le fondationnalisme cherche des croyances de base, justifiées sans l'appui d'aucune autre.",
+      "en": "Foundationalism looks for basic beliefs, justified without the support of any other."
+    },
+    {
+      "fr": "Mais voir « un arbre », c'est déjà reconnaître, classer, interpréter : la perception la plus simple engage des concepts et tout un savoir acquis. <ph id='sellars'>Wilfrid Sellars</ph> a appelé « mythe du donné » l'idée d'une expérience brute qui fournirait d'elle-même sa justification.",
+      "en": "But to see \"a tree\" is already to recognize, classify, interpret: the simplest perception involves concepts and a whole body of acquired knowledge. <ph id='sellars'>Wilfrid Sellars</ph> called the idea of a raw experience that would supply its own justification \"the myth of the given.\""
+    },
+    {
+      "fr": "Si l'on descend plus bas, vers la pure sensation, on trouve bien un donné, mais il n'affirme rien, et ce qui n'affirme rien ne peut rien justifier.",
+      "en": "If we go further down, to pure sensation, we do find something given, but it asserts nothing, and what asserts nothing can justify nothing."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc les fondations sont elles aussi prises dans un réseau : ou bien elles disent quelque chose et dépendent d'autres croyances, ou bien elles ne dépendent de rien et ne disent rien.",
+    "en": "So the foundations are caught in a web too: either they say something and depend on other beliefs, or they depend on nothing and say nothing."
+  },
+  "difficulty": 2,
+  "source": {
+    "author": {
+      "fr": "Sellars",
+      "en": "Sellars"
+    },
+    "figures": [
+      {
+        "name": {
+          "fr": "Sellars",
+          "en": "Sellars"
+        },
+        "kind": "PHILOSOPHER",
+        "slug": "sellars"
+      }
+    ],
+    "work": {
+      "fr": "Empirisme et philosophie de l'esprit",
+      "en": "Empiricism and the Philosophy of Mind"
+    },
+    "year": 1956
+  },
+  "responses": [
+    {
+      "id": "revise",
+      "label": {
+        "fr": "C'est juste : aucune croyance ne tient seule, chacune s'appuie sur les autres.",
+        "en": "Fair enough: no belief stands alone, each leans on the others."
+      },
+      "hints": [
+        {
+          "axisId": "EPISTEMIC_JUSTIFICATION",
+          "value": {
+            "kind": "weights",
+            "weights": [
+              0.15,
+              0.75,
+              0.1
+            ]
+          },
+          "weight": 2
+        }
+      ],
+      "discussion": {
+        "fr": "Vous passez au cohérentisme : la justification est un réseau, non un édifice sur un socle.",
+        "en": "You move to coherentism: justification is a web, not a building on a base."
+      }
+    },
+    {
+      "id": "qualify",
+      "label": {
+        "fr": "Les croyances de base ne sont pas infaillibles, mais elles gardent une priorité : on ne les révise qu'à la lumière d'autres perceptions.",
+        "en": "Basic beliefs are not infallible, but they keep a priority: they are revised only in the light of other perceptions."
+      },
+      "hints": [
+        {
+          "axisId": "EPISTEMIC_JUSTIFICATION",
+          "value": {
+            "kind": "weights",
+            "weights": [
+              0.6,
+              0.25,
+              0.15
+            ]
+          },
+          "weight": 1
+        }
+      ],
+      "discussion": {
+        "fr": "Un fondationnalisme modeste : des fondations révisables, mais des fondations tout de même.",
+        "en": "A modest foundationalism: revisable foundations, but foundations all the same."
+      }
+    },
+    {
+      "id": "refute",
+      "label": {
+        "fr": "Quand j'ai mal, je n'ai besoin d'aucune théorie pour le savoir : certaines expériences se justifient par elles-mêmes.",
+        "en": "When I am in pain, I need no theory to know it: some experiences justify themselves."
+      },
+      "hints": [
+        {
+          "axisId": "EPISTEMIC_JUSTIFICATION",
+          "value": {
+            "kind": "weights",
+            "weights": [
+              0.85,
+              0.1,
+              0.05
+            ]
+          },
+          "weight": 0.5
+        }
+      ],
+      "discussion": {
+        "fr": "Vous tenez qu'il existe un accès immédiat à certains états, qui n'a besoin d'aucun concept pour être sûr.",
+        "en": "You hold that there is immediate access to some states, which needs no concept to be certain."
+      }
+    }
+  ],
+  "targets": [
+    "foundationalism-regress"
+  ],
+  "problems": [
+    "self-justifying-belief"
+  ],
+  "updatedAt": "2026-10-28T00:00:00.000Z"
+}

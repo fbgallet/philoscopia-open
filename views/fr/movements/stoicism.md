@@ -2,7 +2,7 @@
 
 # Stoïcisme
 
-*300 av. J.-C. – 180*
+*300 av. J.-C. – 180, tradition vivante*
 
 École fondée à Athènes par Zénon de Citium vers 300 avant notre ère, qui enseignait sous le « Portique peint » (stoa poikilè) dont elle tire son nom. Système complet de logique, de physique et d'éthique, le stoïcisme fut porté par Chrysippe puis, à Rome, par Sénèque, Épictète et l'empereur Marc Aurèle. Sa morale de la sagesse et de la maîtrise de soi a profondément marqué le christianisme, [Spinoza](../philosophers/spinoza.md), [Kant](../philosophers/kant.md) et jusqu'aux courants contemporains de développement personnel.
 

@@ -1,0 +1,30 @@
+{
+  "id": "prapancopasama",
+  "term": {
+    "fr": "Prapañcopaśama (apaisement des élaborations conceptuelles)",
+    "en": "Prapañcopaśama (stilling of conceptual proliferation)"
+  },
+  "aliases": {
+    "fr": [
+      "prapañca",
+      "prapanca"
+    ],
+    "en": [
+      "prapañca",
+      "prapanca"
+    ]
+  },
+  "definition": {
+    "fr": "Chez <ph id='nagarjuna'>Nāgārjuna</ph>, le prapañcopaśama désigne l'apaisement des élaborations conceptuelles par lesquelles nous attribuons aux choses une <c id='svabhava'>nature propre</c> et indépendante. Les vers d'hommage des <w>Stances du milieu par excellence</w> associent cet apaisement à la <c id='pratityasamutpada'>coproduction conditionnée</c> enseignée par le Bouddha. Il ne s'agit pas de remplacer une essence supposée par une nouvelle réalité absolue, ni d'abolir tout langage conventionnel. Ce thème prolonge un héritage bouddhique antérieur à Nāgārjuna.",
+    "en": "For <ph id='nagarjuna'>Nāgārjuna</ph>, prapañcopaśama is the stilling of the conceptual proliferation through which we ascribe to things an independent <c id='svabhava'>intrinsic nature</c>. The verses of homage of the <w>Fundamental Verses on the Middle Way</w> link this stilling to the <c id='pratityasamutpada'>dependent origination</c> taught by the Buddha. The point is neither to replace a supposed essence with a new absolute reality, nor to abolish all conventional language. The theme carries on a Buddhist heritage older than Nāgārjuna."
+  },
+  "relatedAxes": [
+    "METAPHILOSOPHY"
+  ],
+  "relatedTerms": [
+    "sunyata",
+    "two-truths",
+    "svabhava"
+  ],
+  "updatedAt": "2026-10-10T00:00:00.000Z"
+}

@@ -18,6 +18,26 @@ Born at Stagira in Macedon, Aristotle joined [Plato](../philosophers/plato.md)'s
 
 ## Positions
 
+### [Relation to authority](../axes/authority.md)
+
+*positioned · explicit in the texts · major*
+
+Authority 80% · Anarchism 20%
+
+The city is natural because it fulfils the human capacities for speech, deliberation and the good life: whoever by nature had no need of it would be "a beast or a god". Aristotle prefers the rule of law, "intelligence without appetite", to the passions of an individual, without ruling out magistrates able to judge particular cases. Among free and equal citizens, authority means ruling and being ruled in turn; and for most cities the best practicable regime blends democratic and oligarchic elements, resting on a large middle class.
+
+*Sources : Politics, I, 2 (1253a) · Politics, III, 16 (1287a) · Politics, IV, 8-11*
+
+### [Nature and culture](../axes/human-nature.md)
+
+*positioned · explicit in the texts · minor*
+
+Naturalism 75% · Culturalism 25%
+
+Man is by nature a political animal endowed with [logos](../glossary/logos.md), and his ends are inscribed in that nature. But virtue is not given: it arises from habit, which forms a kind of second nature, and it is the city, through laws and education, that shapes character. This is a naturalism, then, in which human nature needs habituation and education to reach its fulfilment.
+
+*Sources : Politics, I, 2 · Nicomachean Ethics, II, 1*
+
 ### [Being and becoming](../axes/being-becoming.md)
 
 *positioned · explicit in the texts · major*
@@ -377,6 +397,7 @@ The desire to know is not an instrument of happiness: it is constitutive of our 
 - **[Avicenna](../philosophers/avicenna.md)** (reinterprets) : [Avicenna](../philosophers/avicenna.md) recasts [Aristotle](../philosophers/aristotle.md)'s metaphysics by Neoplatonising it: the distinction of essence and existence, the necessary being, the hierarchy of intellects.
 - **[Boethius](../philosophers/boethius.md)** (transmits) : [Boethius](../philosophers/boethius.md) set himself the task of translating and commenting on [Aristotle](../philosophers/aristotle.md)'s Organon: he thereby became the only logical Aristotle known to the early Latin Middle Ages.
 - **[Hegel](../philosophers/hegel.md)** (continues) : [Hegel](../philosophers/hegel.md) holds [Aristotle](../philosophers/aristotle.md) to be one of the most speculative of thinkers: he takes from him actuality (energeia), immanent end, and the universal that exists only in its individuals, against the abstract universal, and closes his Encyclopedia with a citation from the Metaphysics, thought thinking itself.
+- **[Heidegger](../philosophers/heidegger.md)** (reinterprets) : [Heidegger](../philosophers/heidegger.md)'s lecture courses of the 1920s are to a large extent readings of [Aristotle](../philosophers/aristotle.md): he rereads phronesis as an understanding of existence in its situation and ousia as presence, materials that *[Being and Time](../works/being-and-time-heidegger.md)* transforms into the analytic of [Dasein](../glossary/dasein.md).
 - **[Maimonides](../philosophers/maimonides.md)** (reinterprets) : [Maimonides](../philosophers/maimonides.md)'s Guide for the Perplexed sets out to reconcile [Aristotle](../philosophers/aristotle.md)'s physics and metaphysics with the Torah, even at the cost of limiting his reach on the creation of the world.
 - **[Martha Nussbaum](../philosophers/nussbaum.md)** (continues) : [Nussbaum](../philosophers/nussbaum.md) renews the ethics of [Aristotle](../philosophers/aristotle.md): the human good is the flourishing of capacities proper to our nature. From it she draws the capabilities approach, a list of the real freedoms a just society must guarantee to each person.
 - **[Plotinus](../philosophers/plotinus.md)** (reinterprets) : [Plotinus](../philosophers/plotinus.md) absorbs major pieces of [Aristotle](../philosophers/aristotle.md) into his Neoplatonism, foremost the Intellect as thought thinking itself, while rejecting the categories as applied to the intelligible.

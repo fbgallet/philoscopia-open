@@ -18,6 +18,26 @@ French Renaissance moralist and magistrate, born at the château de Montaigne in
 
 ## Positions
 
+### [Humanity's place in nature](../axes/human-place-nature.md)
+
+*positioned · inferable · major*
+
+Member among others 80% · Stewardship 20%
+
+"Presumption is our natural and original malady." In the "Apology", Montaigne attacks the pride that leads human beings to claim a superior rank and arbitrarily assign capacities to other animals: his comparisons with animals challenge the supposed proofs of human exceptionalism rather than offering an account of animal life. In "Of Cruelty", he acknowledges obligations towards other creatures, while distinguishing the justice owed to human beings from the benevolence and kindness owed to animals, and describes a relationship of mutual obligation between them and us. This decentring brings him close to "a member among others", without establishing the moral equality of all living things.
+
+*Sources : Essays, II, 12 ("Apology for Raymond Sebond") · Essays, II, 11 ("Of Cruelty")*
+
+### [Relation to technology](../axes/technology.md)
+
+*positioned · inferable · minor*
+
+Techno-criticism 60% · Techno-optimism 40%
+
+In "Of Cannibals", Montaigne rejects the claim that human artifice surpasses nature, our great and powerful mother: our interventions, he argues, debase what they claim to improve. In "Of Coaches", he credits the peoples of the New World with industry and judgement, challenging Europe's claim to overall superiority: weapons and horses helped bring about the devastation he laments, "so many cities razed, so many nations exterminated… for the traffic in pearls and pepper". This critique of presumption and use places him a little beyond instrumentalism, without any general condemnation of the arts.
+
+*Sources : Essays, I, 31 ("Of Cannibals") · Essays, III, 6 ("Of Coaches")*
+
 ### [Relation to certainty](../axes/certainty.md)
 
 *positioned · explicit in the texts · major*

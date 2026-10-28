@@ -11,6 +11,8 @@
   "nationality": { "fr": "Austro-britannique", "en": "Austrian-British" },
   "birth": 1899,
   "death": 1992,
+  "language": "eng",
+  "otherLanguages": ["deu"],
   "movements": [],
   "updatedAt": "2026-07-24T00:00:00.000Z",
   "validation": { "method": "NOT_VALIDATED" }

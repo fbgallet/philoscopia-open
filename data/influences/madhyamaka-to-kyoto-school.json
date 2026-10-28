@@ -1,0 +1,16 @@
+{
+  "id": "madhyamaka-to-kyoto-school",
+  "from": { "kind": "MOVEMENT", "slug": "madhyamaka" },
+  "to": { "kind": "MOVEMENT", "slug": "kyoto-school" },
+  "directness": "ATTESTED",
+  "mode": "REINTERPRETS",
+  "strength": "STRONG",
+  "note": {
+    "fr": "<ph id='nishitani'>Nishitani</ph> fait de la <c id='sunyata'>vacuité</c> de la <mv id='madhyamaka'>Madhyamaka</mv> le « champ » où le nihilisme occidental, diagnostiqué par Nietzsche et Heidegger, est traversé et surmonté : une notion bouddhique devient la réponse à une crise de la modernité européenne.",
+    "en": "<ph id='nishitani'>Nishitani</ph> makes the <c id='sunyata'>emptiness</c> of <mv id='madhyamaka'>Madhyamaka</mv> the \"field\" where Western nihilism, as diagnosed by Nietzsche and Heidegger, is passed through and overcome: a Buddhist notion becomes the answer to a crisis of European modernity."
+  },
+  "sources": [
+    { "fr": "Nishitani, Shūkyō to wa nanika, ch. 4", "en": "Nishitani, Religion and Nothingness, ch. 4" }
+  ],
+  "updatedAt": "2026-10-09T00:00:00.000Z"
+}

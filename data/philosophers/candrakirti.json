@@ -1,0 +1,30 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "candrakirti",
+  "stub": true,
+  "name": { "fr": "Candrakīrti", "en": "Candrakīrti" },
+  "aliases": {
+    "fr": [
+      "Chandrakirti"
+    ],
+    "en": [
+      "Chandrakirti"
+    ]
+  },
+  "summary": {
+    "fr": "Commentateur de <ph id='nagarjuna'>Nāgārjuna</ph>, référence de la lecture « prāsaṅgika » de la <mv id='madhyamaka'>Madhyamaka</mv>, qui procède par réduction à l'absurde sans thèse propre.",
+    "en": "Commentator on <ph id='nagarjuna'>Nāgārjuna</ph>, the reference for the \"Prāsaṅgika\" reading of <mv id='madhyamaka'>Madhyamaka</mv>, which proceeds by reductio without a thesis of its own."
+  },
+  "birth": 600,
+  "death": 650,
+  "nationality": { "fr": "Indien", "en": "Indian" },
+  "datesApprox": true,
+  "language": "san",
+  "movements": [
+    "madhyamaka"
+  ],
+  "updatedAt": "2026-10-09T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

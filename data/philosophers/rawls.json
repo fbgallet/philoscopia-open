@@ -11,6 +11,7 @@
   "nationality": { "fr": "Américain", "en": "American" },
   "birth": 1921,
   "death": 2002,
+  "language": "eng",
   "movements": ["liberalism"],
   "updatedAt": "2026-07-03T00:00:00.000Z",
   "validation": { "method": "NOT_VALIDATED" }

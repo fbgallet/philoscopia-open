@@ -1,0 +1,11 @@
+{
+  "id": "technological-society-ellul",
+  "title": { "fr": "La Technique ou l'Enjeu du siècle", "en": "The Technological Society" },
+  "author": { "slug": "ellul", "name": { "fr": "Jacques Ellul", "en": "Jacques Ellul" } },
+  "year": 1954,
+  "presentation": {
+    "fr": "Le premier volet de la trilogie d'<ph id='ellul'>Ellul</ph> sur la technique, passé presque inaperçu en France et révélé par sa traduction américaine (1964). La technique y est définie comme la recherche de l'efficacité maximale dans tous les domaines, et décrite comme autonome, auto-accroissante et universelle.",
+    "en": "The first part of <ph id='ellul'>Ellul</ph>'s trilogy on technique, almost unnoticed in France and made known by its American translation (1964). Technique is defined there as the pursuit of maximal efficiency in every field, and described as autonomous, self-augmenting and universal."
+  },
+  "updatedAt": "2026-10-11T00:00:00.000Z"
+}

@@ -18,6 +18,16 @@ Maître itinérant de la Chine des Printemps et Automnes (VIe-Ve siècle avant n
 
 ## Positions
 
+### [Cercle moral](../axes/moral-circle.md)
+
+*positionné · inférable · mineure*
+
+Anthropocentrisme 90% · Pathocentrisme 10%
+
+Les écuries ayant brûlé, le maître demanda si quelqu'un était blessé, sans s'enquérir des chevaux : selon la lecture traditionnelle, la sollicitude pour les personnes passe avant tout le reste. Les Entretiens situent d'abord le [ren](../glossary/ren.md) dans les relations humaines : le disciple Youzi présente la piété filiale et le respect des aînés comme la racine de sa pratique. Cette priorité n'exclut pas une retenue envers les bêtes : le maître pêchait à la ligne et non au filet, et ne tirait pas sur les oiseaux au repos.
+
+*Sources : Entretiens, X (l'incendie des écuries ; numérotation variable selon les éditions) · Entretiens, I, 2 ; VII, 27*
+
 ### [Sens de la souffrance](../axes/suffering-meaning.md)
 
 *positionné · explicite dans les textes · mineure*

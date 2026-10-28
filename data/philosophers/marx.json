@@ -36,10 +36,46 @@
     "fr": "Allemand",
     "en": "German"
   },
+  "language": "deu",
   "movements": [
     "marxism"
   ],
   "entries": [
+    {
+      "axisId": "HUMAN_PLACE_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.6,
+          0.4,
+          0
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Chez Marx, le travail transforme la nature tout en développant les capacités humaines : la nature est le « corps inorganique » de l'homme, et cette activité reste un échange matériel dont il dépend. La maîtrise collective de cet échange ne donne pourtant aucun droit de propriété absolu sur la terre : même une société entière n'en est que l'usufruitière, et doit la léguer améliorée aux générations suivantes. La critique de l'agriculture capitaliste montre ainsi que le développement productif devient destructeur lorsqu'il épuise à la fois le travailleur et le sol.",
+          "en": "For Marx, labour transforms nature while developing human capacities: nature is man's \"inorganic body\", and this activity remains a material exchange on which he depends. Collective mastery of that exchange confers no absolute right of ownership over the earth, however: even a whole society is only its usufructuary, and must hand it down improved to the generations that follow. His critique of capitalist agriculture thus shows that productive development turns destructive when it exhausts worker and soil alike."
+        },
+        "references": [
+          {
+            "fr": "Manuscrits de 1844, premier manuscrit, « Le travail aliéné »",
+            "en": "Economic and Philosophic Manuscripts of 1844, first manuscript, \"Estranged Labour\""
+          },
+          {
+            "fr": "Le Capital, I, « Machinisme et grande industrie », §10",
+            "en": "Capital, I, \"Machinery and Modern Industry\", §10"
+          },
+          {
+            "fr": "Le Capital, III, ch. 46",
+            "en": "Capital, III, ch. 46"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
     {
       "axisId": "VIOLENCE",
       "status": "POSITIONED",
@@ -1135,7 +1171,7 @@
       "en": "https://en.wikipedia.org/wiki/Karl_Marx"
     }
   },
-  "updatedAt": "2026-07-19T00:00:00.000Z",
+  "updatedAt": "2026-10-11T00:00:00.000Z",
   "validation": {
     "method": "NOT_VALIDATED"
   }

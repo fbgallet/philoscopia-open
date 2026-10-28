@@ -16,7 +16,7 @@
 
 **⇒** So science is neither the only thing entitled to say everything, as scientism would have it, nor one knowledge among others equally valid, as pluralism would have it: it remains the model of rigorous knowledge, one that acknowledges its limits without ceding its title to what does not expose itself to disproof.
 
-**Challenged by** : [No refutation is clean](../arguments/critical-rationalism-holism-objection.md)
+**Challenged by** : [No refutation is clean](../arguments/critical-rationalism-holism-objection.md) · [The criterion of hindsight](../arguments/critical-rationalism-hindsight-objection.md)
 
 **Bears on the problems** : [What makes something a science?](../axes/science-place.md) · [Does scientism refute itself?](../axes/science-place.md)
 

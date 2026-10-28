@@ -20,6 +20,9 @@
     "fr": "Andalou",
     "en": "Andalusian"
   },
+  "area": "ISLAMIC_WORLD",
+  "language": "ara",
+  "otherLanguages": ["heb"],
   "movements": [],
   "updatedAt": "2026-06-28T00:00:00.000Z",
   "validation": {

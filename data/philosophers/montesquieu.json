@@ -11,6 +11,7 @@
   "birth": 1689,
   "death": 1755,
   "nationality": { "fr": "Français", "en": "French" },
+  "language": "fra",
   "movements": ["enlightenment", "liberalism"],
   "updatedAt": "2026-07-03T00:00:00.000Z",
   "validation": { "method": "NOT_VALIDATED" }

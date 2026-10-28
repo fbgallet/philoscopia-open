@@ -1,0 +1,27 @@
+{
+  "kind": "PHILOSOPHER",
+  "stub": true,
+  "id": "quine",
+  "name": {
+    "fr": "Willard Van Orman Quine",
+    "en": "Willard Van Orman Quine"
+  },
+  "summary": {
+    "fr": "Philosophe et logicien américain : pour lui, nos croyances forment un réseau qui affronte l'expérience comme un tout, et aucune n'est à l'abri d'une révision.",
+    "en": "American philosopher and logician: for him, our beliefs form a web that faces experience as a whole, and none is immune to revision."
+  },
+  "nationality": {
+    "fr": "Américain",
+    "en": "American"
+  },
+  "birth": 1908,
+  "death": 2000,
+  "language": "eng",
+  "movements": [
+    "analytic-philosophy"
+  ],
+  "updatedAt": "2026-10-28T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

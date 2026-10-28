@@ -28,10 +28,69 @@
     "fr": "Grec",
     "en": "Greek"
   },
+  "language": "grc",
   "movements": [
     "platonism"
   ],
   "entries": [
+    {
+      "axisId": "AUTHORITY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.9
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Dans la République, le pouvoir doit revenir aux philosophes parce que la connaissance du Bien, et non la compétition des opinions et des désirs, permet seule d'ordonner justement la cité. La critique de la démocratie montre comment une liberté sans mesure prépare la tyrannie. Les Lois maintiennent la nécessité d'une autorité commune, mais placent les gouvernants sous la loi et associent la contrainte à la persuasion, notamment par des préambules qui expliquent et justifient les prescriptions légales.",
+          "en": "In the Republic, power must go to the philosophers because knowledge of the Good, not the contest of opinions and desires, is what alone can order the city justly. The critique of democracy shows how liberty without measure paves the way for tyranny. The Laws likewise defend the need for a common authority, but place rulers under the law and combine coercion with persuasion, notably through preludes that explain and justify legal requirements."
+        },
+        "references": [
+          {
+            "fr": "République, V, 473c-e ; VIII, 562a-564a",
+            "en": "Republic, V, 473c-e; VIII, 562a-564a"
+          },
+          {
+            "fr": "Lois, IV, 715c-d et 719e-723d",
+            "en": "Laws, IV, 715c-d and 719e-723d"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "CAUSALITY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.15,
+          0.85,
+          0
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Dans le Phédon, Socrate reproche à <ph>Anaxagore</ph> d'avoir promis une explication par l'<c id='nous'>Intellect</c> sans montrer pourquoi l'ordre des choses est le meilleur. Ses os et ses tendons rendent possible sa présence en prison, mais n'expliquent pas sa décision d'y rester : c'est confondre la cause avec ce sans quoi la cause ne serait pas cause. Le Timée développe une cosmologie où l'intelligence ordonne le monde en vue du bien, tandis que les processus matériels fournissent des <kw>causes auxiliaires</kw> et les contraintes de la nécessité.",
+          "en": "In the Phaedo, Socrates faults <ph>Anaxagoras</ph> for promising an explanation through <c id='nous'>Mind</c> without showing why the order of things is the best. His bones and sinews make his presence in prison possible, but do not explain his decision to stay: that would confuse the cause with that without which the cause could not be a cause. The Timaeus develops a cosmology in which intelligence orders the world for the good, while material processes supply <kw>auxiliary causes</kw> and the constraints of necessity."
+        },
+        "references": [
+          {
+            "fr": "Phédon, 97b-99c et 99d-102a",
+            "en": "Phaedo, 97b-99c and 99d-102a"
+          },
+          {
+            "fr": "Timée, 29d-30c, 46c-e et 48a",
+            "en": "Timaeus, 29d-30c, 46c-e and 48a"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
     {
       "axisId": "BEING_BECOMING",
       "status": "POSITIONED",
@@ -1062,7 +1121,7 @@
       "en": "https://en.wikipedia.org/wiki/Plato"
     }
   },
-  "updatedAt": "2026-07-19T00:00:00.000Z",
+  "updatedAt": "2026-10-11T00:00:00.000Z",
   "validation": {
     "method": "NOT_VALIDATED"
   }

@@ -1,0 +1,34 @@
+{
+  "id": "speciesism",
+  "term": {
+    "fr": "Spécisme",
+    "en": "Speciesism"
+  },
+  "aliases": {
+    "fr": [
+      "spéciste",
+      "antispécisme"
+    ],
+    "en": [
+      "speciesist",
+      "antispeciesism"
+    ]
+  },
+  "definition": {
+    "fr": "Le spécisme est le fait d'accorder moins de poids aux intérêts d'un être pour la seule raison qu'il n'appartient pas à notre espèce. Le terme a été forgé par <ph id='ryder'>Richard Ryder</ph> en 1970 et popularisé par <ph id='singer'>Peter Singer</ph>, qui le compare au racisme : une discrimination fondée sur un trait moralement non pertinent. <obj>Ses défenseurs répondent que l'appartenance à l'humanité n'est pas un simple trait biologique, mais l'entrée dans une communauté de personnes.</obj>",
+    "en": "Speciesism is giving less weight to a being's interests for the sole reason that it does not belong to our species. The term was coined by <ph id='ryder'>Richard Ryder</ph> in 1970 and popularized by <ph id='singer'>Peter Singer</ph>, who compares it to racism: a discrimination based on a morally irrelevant trait. <obj>Its defenders reply that belonging to humanity is not a mere biological trait but membership in a community of persons.</obj>"
+  },
+  "relatedAxes": [
+    "MORAL_CIRCLE"
+  ],
+  "relatedTerms": [
+    "sentience"
+  ],
+  "positions": [
+    {
+      "axisId": "MORAL_CIRCLE",
+      "poleId": "PATHOCENTRISM"
+    }
+  ],
+  "updatedAt": "2026-10-11T00:00:00.000Z"
+}

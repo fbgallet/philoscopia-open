@@ -14,6 +14,10 @@
     "fr": "Chinois",
     "en": "Chinese"
   },
+  "birth": -450,
+  "death": -375,
+  "datesApprox": true,
+  "language": "lzh",
   "movements": [
     "taoism"
   ],

@@ -1,0 +1,112 @@
+{
+  "id": "critical-rationalism-hindsight-objection",
+  "kind": "OBJECTS",
+  "position": {
+    "axisId": "SCIENCE_PLACE",
+    "median": true
+  },
+  "name": {
+    "fr": "Le critère d'après coup",
+    "en": "The criterion of hindsight"
+  },
+  "attacks": "POSITION",
+  "claim": {
+    "fr": "Le critère de réfutabilité permet de dire après coup qui avait raison, rarement sur le moment.",
+    "en": "The criterion of falsifiability lets us say in hindsight who was right, rarely at the time."
+  },
+  "summary": {
+    "fr": "La médecine savante a longtemps honoré des erreurs et moqué des vérités : la frontière entre science et charlatanisme ne se voit souvent qu'avec le recul, et tout guérisseur peut se dire incompris.",
+    "en": "Learned medicine long honoured errors and mocked truths: the line between science and quackery is often visible only in hindsight, and any healer can claim to be misunderstood."
+  },
+  "development": [
+    {
+      "fr": "Le rationalisme critique distingue la science de ce qui n'en est pas : est scientifique ce qui s'expose au démenti et se corrige.",
+      "en": "Critical rationalism distinguishes science from what is not science: what exposes itself to refutation and corrects itself is scientific."
+    },
+    {
+      "fr": "Mais pendant des siècles, la médecine savante a pratiqué la saignée. En 1847, Ignace Semmelweis montrait qu'en se désinfectant les mains au chlore, les médecins faisaient chuter la mortalité des accouchées ; une grande partie de ses pairs l'a ignoré ou contesté. En 1949, la leucotomie préfrontale, ancêtre de la lobotomie, valait le prix Nobel à Egas Moniz.",
+      "en": "But for centuries, learned medicine practised bloodletting. In 1847, Ignaz Semmelweis showed that when doctors disinfected their hands with chlorine, deaths among women in childbirth fell; many of his peers ignored or disputed him. In 1949, prefrontal leucotomy, the forerunner of lobotomy, earned Egas Moniz the Nobel Prize."
+    },
+    {
+      "fr": "Ces théories étaient pourtant testables, et certaines avaient même été mises à l'épreuve : sur le moment, la frontière entre science et charlatanisme n'était pas là où nous la voyons aujourd'hui. Aussi le guérisseur d'aujourd'hui se présente-t-il volontiers en Semmelweis incompris : qui peut lui dire, sur le moment, qu'il ne l'est pas ?",
+      "en": "Yet these theories were testable, and some had even been tested: at the time, the line between science and quackery was not where we see it today. So today's healer readily presents himself as a misunderstood Semmelweis: who can tell him, at the time, that he is not one?"
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc la réfutabilité dit quelles théories peuvent être mises à l'épreuve, non lesquelles l'ont réellement été, ni lesquelles sont vraies : le critère de Popper ne suffit pas, à lui seul, à trancher les querelles du présent.",
+    "en": "So falsifiability tells us which theories can be put to the test, not which have actually been tested, nor which are true: on its own, Popper's criterion is not enough to settle the quarrels of the present."
+  },
+  "difficulty": 1,
+  "responses": [
+    {
+      "id": "revise",
+      "label": {
+        "fr": "C'est vrai : la frontière bouge, et ce qu'on rejette aujourd'hui sera peut-être reconnu demain ; il faut rester ouvert à d'autres approches.",
+        "en": "True: the line moves, and what is rejected today may be recognized tomorrow; we must stay open to other approaches."
+      },
+      "hints": [
+        {
+          "axisId": "SCIENCE_PLACE",
+          "value": {
+            "kind": "scalar",
+            "value": 0.6
+          },
+          "weight": 1
+        }
+      ],
+      "discussion": {
+        "fr": "Vous penchez vers le pluralisme : la frontière du savoir est trop mouvante pour qu'on écarte d'avance les autres voies.",
+        "en": "You lean toward pluralism: the frontier of knowledge moves too much to rule out other paths in advance."
+      }
+    },
+    {
+      "id": "qualify",
+      "label": {
+        "fr": "La science s'est trompée, mais elle a fini par corriger ces erreurs, par des preuves bien plus que par des intuitions : c'est ce qui la distingue.",
+        "en": "Science was wrong, but it eventually corrected these errors, far more through evidence than through intuitions: that is what sets it apart."
+      },
+      "hints": [
+        {
+          "axisId": "SCIENCE_PLACE",
+          "value": {
+            "kind": "scalar",
+            "value": -0.5
+          },
+          "weight": 1
+        }
+      ],
+      "discussion": {
+        "fr": "Vous voyez dans la correction des erreurs la preuve de la supériorité de la science : vous penchez vers le scientisme.",
+        "en": "You see in the correction of errors the proof of science's superiority: you lean toward scientism."
+      }
+    },
+    {
+      "id": "refute",
+      "label": {
+        "fr": "Semmelweis l'a emporté par des chiffres, non par sa conviction : le guérisseur qui se dit incompris peut faire de même, en s'exposant aux mêmes épreuves.",
+        "en": "Semmelweis won through figures, not through conviction: the healer who claims to be misunderstood can do the same, by submitting to the same tests."
+      },
+      "hints": [
+        {
+          "axisId": "SCIENCE_PLACE",
+          "value": {
+            "kind": "scalar",
+            "value": 0
+          },
+          "weight": 1
+        }
+      ],
+      "discussion": {
+        "fr": "Vous tenez la ligne de Popper : être incompris ne prouve rien, s'exposer à l'épreuve prouve quelque chose.",
+        "en": "You hold Popper's line: being misunderstood proves nothing; submitting to the test proves something."
+      }
+    }
+  ],
+  "targets": [
+    "critical-rationalism-conjectures"
+  ],
+  "problems": [
+    "what-makes-it-science"
+  ],
+  "updatedAt": "2026-10-29T00:00:00.000Z"
+}

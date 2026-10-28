@@ -1,0 +1,26 @@
+{
+  "id": "dhawq",
+  "term": {
+    "fr": "Dhawq (goût, connaissance vécue)",
+    "en": "Dhawq (taste, lived knowledge)"
+  },
+  "aliases": {
+    "fr": [
+      "dhawq"
+    ],
+    "en": [
+      "dhawq"
+    ]
+  },
+  "definition": {
+    "fr": "Littéralement « goût », le dhawq désigne, chez <ph id='al-ghazali'>al-Ghazālī</ph> et dans le soufisme, une connaissance acquise en éprouvant directement un état spirituel. Savoir définir l'ivresse n'est pas être ivre : de même, décrire une expérience religieuse n'est pas la vivre. Pour la connaissance vécue des réalités spirituelles, al-Ghazālī souligne ce que cette expérience apporte au-delà du discours et de la démonstration. Cela ne signifie pas qu'il renonce à la raison ni qu'il remplace toute connaissance rationnelle par l'expérience mystique.",
+    "en": "Literally \"taste\", dhawq means, in <ph id='al-ghazali'>al-Ghazālī</ph> and in Sufism, a knowledge gained by directly undergoing a spiritual state. Being able to define drunkenness is not being drunk: likewise, describing a religious experience is not living it. For the lived knowledge of spiritual realities, al-Ghazālī stresses what such experience brings beyond discourse and demonstration. This does not mean that he gives up reason, nor that he replaces all rational knowledge with mystical experience."
+  },
+  "relatedAxes": [
+    "FAITH_REASON"
+  ],
+  "relatedTerms": [
+    "burhan"
+  ],
+  "updatedAt": "2026-10-10T00:00:00.000Z"
+}

@@ -10,6 +10,8 @@
   "nationality": { "fr": "Franco-allemand", "en": "Franco-German" },
   "birth": 1875,
   "death": 1965,
+  "language": "deu",
+  "otherLanguages": ["fra"],
   "movements": ["environmental-ethics"],
   "updatedAt": "2026-07-03T00:00:00.000Z",
   "validation": { "method": "NOT_VALIDATED" }

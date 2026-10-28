@@ -150,6 +150,10 @@ To decide between mechanism, finalism and vitalism presupposes knowing the hidde
 
 An anachronistic question: nothing in what is transmitted to us of Pyrrho allows positioning him on machine thought without hazardous extrapolation.
 
+## Influenced by
+
+- **[Buddhism](../movements/buddhism.md)** (reinterprets) : [Pyrrho](../philosophers/pyrrho.md) accompanied Alexander to India and met "gymnosophists" there. A kinship between his suspension of judgment and Indian thought, even [Buddhism](../movements/buddhism.md), is defended by some historians and disputed by others: the link remains a hypothesis.
+
 ## Influence on
 
 - **[Sextus Empiricus](../philosophers/sextus-empiricus.md)** (transmits) : [Sextus Empiricus](../philosophers/sextus-empiricus.md) codifies, centuries later, the tradition stemming from [Pyrrho](../philosophers/pyrrho.md): suspension of judgement and the balanced opposition of arguments, of which his writings are the chief surviving source.

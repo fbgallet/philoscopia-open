@@ -196,6 +196,7 @@ La connaissance commence par une purge : les idoles, de la tribu, de la caverne,
 
 - **[Les Lumières](../movements/enlightenment.md)** (prolonge) : [Bacon](../philosophers/bacon.md) lègue aux Lumières le programme d'un savoir fondé sur l'expérience et tourné vers l'utilité, « savoir, c'est pouvoir ». [Diderot](../philosophers/diderot.md) et [d'Alembert](../philosophers/d-alembert.md) le saluent comme l'inspirateur de l'Encyclopédie, dont le Discours préliminaire dresse sa généalogie des sciences.
 - **[Transhumanisme](../movements/transhumanism.md)** (prolonge) : Le transhumanisme prolonge le programme de [Bacon](../philosophers/bacon.md) : faire de la connaissance un pouvoir effectif sur la nature, par la science expérimentale, pour soulager la condition humaine. Il en radicalise la promesse en étendant ce commandement de la nature au corps et à l'esprit humains eux-mêmes.
+- **[Jonas](../philosophers/jonas.md)** (réagit contre) : [Jonas](../philosophers/jonas.md) réagit contre l'idéal baconien d'un savoir orienté vers la maîtrise de la nature pour le bien de l'humanité : réalisé au-delà de toute attente, il devient la menace que l'éthique doit contenir. Sa critique vise ce programme, non l'ensemble de la philosophie de [Bacon](../philosophers/bacon.md).
 
 ---
 

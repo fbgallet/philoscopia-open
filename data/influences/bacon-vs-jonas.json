@@ -1,0 +1,16 @@
+{
+  "id": "bacon-vs-jonas",
+  "from": { "kind": "PHILOSOPHER", "slug": "bacon" },
+  "to": { "kind": "PHILOSOPHER", "slug": "jonas" },
+  "directness": "ATTESTED",
+  "mode": "REACTS_AGAINST",
+  "strength": "MEDIUM",
+  "note": {
+    "fr": "<ph id='jonas'>Jonas</ph> réagit contre l'<c>idéal baconien</c> d'un savoir orienté vers la maîtrise de la nature pour le bien de l'humanité : réalisé au-delà de toute attente, il devient la menace que l'éthique doit contenir. Sa critique vise ce programme, non l'ensemble de la philosophie de <ph id='bacon'>Bacon</ph>.",
+    "en": "<ph id='jonas'>Jonas</ph> reacts against the <c>Baconian ideal</c> of knowledge aimed at mastering nature for the good of humanity: fulfilled beyond all expectation, it becomes the threat that ethics must contain. His critique targets that programme, not <ph id='bacon'>Bacon</ph>'s philosophy as a whole."
+  },
+  "sources": [
+    { "fr": "Jonas, Le Principe responsabilité (1979), ch. V", "en": "Jonas, The Imperative of Responsibility (1979), ch. V" }
+  ],
+  "updatedAt": "2026-10-11T00:00:00.000Z"
+}

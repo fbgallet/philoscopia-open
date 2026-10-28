@@ -1,0 +1,19 @@
+{
+  "id": "buddhism-vs-neo-confucianism",
+  "from": { "kind": "MOVEMENT", "slug": "buddhism" },
+  "to": { "kind": "MOVEMENT", "slug": "neo-confucianism" },
+  "directness": "ATTESTED",
+  "mode": "REACTS_AGAINST",
+  "strength": "STRONG",
+  "note": {
+    "fr": "Le <mv id='neo-confucianism'>néoconfucianisme</mv> se définit contre le <mv id='buddhism'>bouddhisme</mv>, accusé de tenir le monde pour vide et de fuir les devoirs familiaux et politiques. Il lui emprunte pourtant ses questions sur l'esprit, la nature et la méditation, auxquelles il donne des réponses confucéennes.",
+    "en": "<mv id='neo-confucianism'>Neo-Confucianism</mv> defined itself against <mv id='buddhism'>Buddhism</mv>, accused of taking the world as empty and of fleeing family and political duties. Yet it borrowed Buddhism's questions about mind, nature and meditation, to which it gave Confucian answers."
+  },
+  "sources": [
+    {
+      "fr": "Zhu Xi et Lü Zuqian, Jinsilu, XIII",
+      "en": "Zhu Xi and Lü Zuqian, Reflections on Things at Hand (Jinsilu), XIII"
+    }
+  ],
+  "updatedAt": "2026-10-09T00:00:00.000Z"
+}

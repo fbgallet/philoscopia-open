@@ -80,6 +80,18 @@
 - [The doctrine of sufficiency](sufficientarianism-enough.md) (for « Sufficientarianism »)
 - [Equality of relations, not just of the basket](sufficientarianism-relational-objection.md) (against « Sufficientarianism »)
 
+## [Justification of belief](../axes/epistemic-justification.md)
+
+- [Nothing happens by chance](coherentism-everything-fits-objection.md) (against « Coherentism »)
+- [Coherent, but cut off from reality](coherentism-isolation-objection.md) (against « Coherentism »)
+- [Neurath's boat](coherentism-neurath-boat.md) (for « Coherentism »)
+- [The myth of the given](foundationalism-myth-of-given-objection.md) (against « Foundationalism »)
+- [Doing your own research](foundationalism-own-research-objection.md) (against « Foundationalism »)
+- [The regress of reasons](foundationalism-regress.md) (for « Foundationalism »)
+- [The unwitting clairvoyant](reliabilism-clairvoyant-objection.md) (against « Reliabilism »)
+- [When reliable sources fail](reliabilism-failing-sources-objection.md) (against « Reliabilism »)
+- [The thermometer](reliabilism-thermometer.md) (for « Reliabilism »)
+
 ## [Criterion of right action](../axes/ethics-foundation.md)
 
 - [What impartiality presupposes](care-ethics-concrete-relations.md) (for « Ethics of care »)
@@ -169,12 +181,16 @@
 ## [Moral circle](../axes/moral-circle.md)
 
 - [The dignity of the person](anthropocentrism-dignity.md) (for « Anthropocentrism »)
+- [Grief for the animal](anthropocentrism-grief-objection.md) (against « Anthropocentrism »)
 - [The argument from marginal cases](anthropocentrism-marginal-cases-objection.md) (against « Anthropocentrism »)
+- [The antibiotic](biocentrism-antibiotic-objection.md) (against « Biocentrism »)
 - [A good, but for whom?](biocentrism-no-interests-objection.md) (against « Biocentrism »)
 - [Reverence for life](biocentrism-reverence-for-life.md) (for « Biocentrism »)
 - [The whole against the individual](ecocentrism-environmental-fascism-objection.md) (against « Ecocentrism »)
 - [The land ethic](ecocentrism-land-ethic.md) (for « Ecocentrism »)
+- [The return of the wolf](ecocentrism-returning-wolf-objection.md) (against « Ecocentrism »)
 - ['Can they suffer?'](pathocentrism-can-they-suffer.md) (for « Pathocentrism »)
+- [The fox and the rabbit](pathocentrism-predation-objection.md) (against « Pathocentrism »)
 - [Sentience, an arbitrary boundary?](pathocentrism-reverence-objection.md) (against « Pathocentrism »)
 
 ## [Moral demandingness](../axes/moral-demand.md)
@@ -210,9 +226,12 @@
 ## [Place of science](../axes/science-place.md)
 
 - [Conjectures and refutations](critical-rationalism-conjectures.md) (for « Critical rationalism »)
+- [The criterion of hindsight](critical-rationalism-hindsight-objection.md) (against « Critical rationalism »)
 - [No refutation is clean](critical-rationalism-holism-objection.md) (against « Critical rationalism »)
 - [Against method](pluralism-against-method.md) (for « Epistemic pluralism »)
+- [At the bedside](pluralism-bedside-objection.md) (against « Epistemic pluralism »)
 - [If all are equal, nothing is known](pluralism-no-demarcation-objection.md) (against « Epistemic pluralism »)
+- [Taking science on trust](scientism-faith-in-science-objection.md) (against « Scientism »)
 - [The argument from success](scientism-self-correction.md) (for « Scientism »)
 - [Sawing off the branch](scientism-self-refutation-objection.md) (against « Scientism »)
 

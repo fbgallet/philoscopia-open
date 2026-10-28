@@ -1,0 +1,9 @@
+{
+  "id": "l-homme-est-le-berger-de-l-etre-heidegger",
+  "text": { "fr": "L'homme n'est pas le maître de l'étant. L'homme est le berger de l'être.", "en": "Man is not the lord of beings. Man is the shepherd of Being." },
+  "author": { "name": { "fr": "Heidegger", "en": "Heidegger" }, "kind": "PHILOSOPHER", "slug": "heidegger" },
+  "work": "letter-on-humanism-heidegger",
+  "source": { "fr": "Lettre sur l'humanisme (1946)", "en": "Letter on Humanism (1946)" },
+  "anchors": [{ "axisId": "HUMAN_PLACE_NATURE", "poleId": "STEWARDSHIP" }],
+  "updatedAt": "2026-10-11T00:00:00.000Z"
+}

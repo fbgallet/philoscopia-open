@@ -1,0 +1,12 @@
+{
+  "id": "gelassenheit-heidegger",
+  "title": { "fr": "Sérénité", "en": "Discourse on Thinking" },
+  "originalTitle": "Gelassenheit",
+  "author": { "slug": "heidegger", "name": { "fr": "Martin Heidegger", "en": "Martin Heidegger" } },
+  "year": 1959,
+  "presentation": {
+    "fr": "Volume réunissant un discours prononcé en 1955 à Messkirch, sa ville natale, et un dialogue composé à partir de notes de 1944-1945. <ph id='heidegger'>Heidegger</ph> y oppose à la pensée calculante une pensée méditante, et propose envers les objets techniques un « oui et non » simultané, la <c id='gelassenheit'>sérénité</c>.",
+    "en": "A volume bringing together a speech given in 1955 at Messkirch, his home town, and a dialogue composed from notes of 1944-1945. <ph id='heidegger'>Heidegger</ph> there sets meditative thinking against calculative thinking, and proposes toward technical objects a simultaneous \"yes and no\", <c id='gelassenheit'>releasement</c>."
+  },
+  "updatedAt": "2026-10-11T00:00:00.000Z"
+}

@@ -1,0 +1,112 @@
+{
+  "id": "pluralism-bedside-objection",
+  "kind": "OBJECTS",
+  "position": {
+    "axisId": "SCIENCE_PLACE",
+    "poleId": "EPISTEMIC_PLURALISM"
+  },
+  "name": {
+    "fr": "Au chevet du malade",
+    "en": "At the bedside"
+  },
+  "attacks": "POSITION",
+  "claim": {
+    "fr": "Que tous les savoirs se vaillent, on peut le soutenir dans un débat ; au chevet d'un malade, ce relativisme se paie en vies.",
+    "en": "That all forms of knowledge are equal can be argued in a debate; at a patient's bedside, this relativism is paid for in lives."
+  },
+  "summary": {
+    "fr": "En médecine, les « autres savoirs » peuvent être mesurés, et les patients qui leur confient leur cancer ont un risque de décès plus élevé. Le pluralisme doit pouvoir dire où il s'arrête : là où une affirmation porte sur des faits mesurables.",
+    "en": "In medicine, \"other forms of knowledge\" can be measured, and patients who entrust their cancer to them face a higher risk of death. Pluralism must be able to say where it stops: where a claim is about measurable facts."
+  },
+  "development": [
+    {
+      "fr": "Le pluralisme refuse à la science le monopole du savoir : la tradition, l'expérience vécue, d'autres médecines auraient leur part de vérité.",
+      "en": "Pluralism denies science a monopoly on knowledge: tradition, lived experience, other medicines would have their share of truth."
+    },
+    {
+      "fr": "Or en médecine, ces « autres savoirs » peuvent être mesurés. Une étude américaine publiée en 2018 dans le Journal of the National Cancer Institute a comparé des patients atteints de cancers non métastatiques : ceux qui avaient choisi des médecines alternatives à la place des traitements présentaient un risque de décès environ deux fois et demie plus élevé. C'est une étude d'observation, qui ne prouve pas à elle seule la cause, mais l'écart est massif.",
+      "en": "Yet in medicine these \"other forms of knowledge\" can be measured. An American study published in 2018 in the Journal of the National Cancer Institute compared patients with non-metastatic cancers: those who had chosen alternative medicine instead of treatment had a risk of death about two and a half times higher. It is an observational study, which cannot by itself prove the cause, but the gap is massive."
+    },
+    {
+      "fr": "Ce n'est pas l'idée qu'il existe d'autres façons de comprendre le monde qui est en cause, c'est son glissement : de « la science ne sait pas tout » à « mon énergéticien sait autre chose », puis à « je n'ai pas besoin de ma chimiothérapie ».",
+      "en": "What is at issue is not the idea that there are other ways of understanding the world, but its slide: from \"science doesn't know everything\" to \"my energy healer knows something else\", then to \"I don't need my chemotherapy.\""
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc le pluralisme doit pouvoir dire où il s'arrête : là où une affirmation porte sur des faits mesurables, comme guérir un cancer, aucune « autre voie » ne peut se soustraire à la mesure.",
+    "en": "So pluralism must be able to say where it stops: where a claim concerns measurable facts, such as curing a cancer, no \"other path\" can escape measurement."
+  },
+  "difficulty": 1,
+  "responses": [
+    {
+      "id": "revise",
+      "label": {
+        "fr": "C'est juste : sur ce qui se mesure, ce sont les meilleures preuves disponibles, toujours révisables, qui doivent trancher ; la pluralité vaut pour le sens, non pour les faits.",
+        "en": "Fair enough: on what can be measured, it is the best available evidence, always revisable, that must decide; plurality holds for meaning, not for facts."
+      },
+      "hints": [
+        {
+          "axisId": "SCIENCE_PLACE",
+          "value": {
+            "kind": "scalar",
+            "value": 0
+          },
+          "weight": 1
+        }
+      ],
+      "discussion": {
+        "fr": "Vous rejoignez le rationalisme critique : plusieurs voies pour le sens, une seule épreuve pour les faits.",
+        "en": "You join critical rationalism: several paths for meaning, a single test for facts."
+      }
+    },
+    {
+      "id": "qualify",
+      "label": {
+        "fr": "Les pratiques complémentaires peuvent avoir leur place à côté des traitements, si elles sont sûres et n'interfèrent pas avec eux, jamais à leur place : elles accompagnent la personne, elles ne soignent pas la tumeur.",
+        "en": "Complementary practices can have their place alongside treatment, if they are safe and do not interfere with it, never instead of it: they support the person, they do not treat the tumour."
+      },
+      "hints": [
+        {
+          "axisId": "SCIENCE_PLACE",
+          "value": {
+            "kind": "scalar",
+            "value": 0.6
+          },
+          "weight": 1
+        }
+      ],
+      "discussion": {
+        "fr": "Vous gardez une pluralité des soins, mais vous la bornez : à côté, jamais à la place.",
+        "en": "You keep a plurality of care, but you limit it: alongside, never instead."
+      }
+    },
+    {
+      "id": "refute",
+      "label": {
+        "fr": "Cette étude mesure ce que la science sait mesurer ; elle ne dit rien de ce que ces patients cherchaient, ni de ce que la médecine leur refusait : du temps, de l'écoute, du sens.",
+        "en": "This study measures what science knows how to measure; it says nothing about what these patients were looking for, or what medicine denied them: time, listening, meaning."
+      },
+      "hints": [
+        {
+          "axisId": "SCIENCE_PLACE",
+          "value": {
+            "kind": "scalar",
+            "value": 1
+          },
+          "weight": 0.5
+        }
+      ],
+      "discussion": {
+        "fr": "Vous déplacez la question : si tant de malades se tournent ailleurs, c'est aussi que la médecine laisse sans réponse une part de ce qu'ils vivent, la peur, la solitude, le besoin d'être écouté. Reste qu'on peut chercher ailleurs cette écoute sans lui confier sa guérison.",
+        "en": "You shift the question: if so many patients turn elsewhere, it is also because medicine leaves part of what they live through unanswered, fear, loneliness, the need to be heard. Still, one can seek that listening elsewhere without entrusting one's cure to it."
+      }
+    }
+  ],
+  "targets": [
+    "pluralism-against-method"
+  ],
+  "problems": [
+    "what-makes-it-science"
+  ],
+  "updatedAt": "2026-10-29T00:00:00.000Z"
+}

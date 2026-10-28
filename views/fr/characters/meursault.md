@@ -81,7 +81,7 @@ Sa conduite n'est jamais gouvernée par la délibération rationnelle mais par l
 
 **Pratiquée** : Se libérer de la crainte 60% · Vivre en vue de sa mort 40%
 
-<spo>Dans sa cellule, Meursault apprivoise sa mort : puisque tout le monde est condamné, mourir à trente ans ou à soixante-dix importe peu, et il écarte tout au-delà, ne souhaitant qu'une vie où il pourrait se souvenir de celle-ci. Cette confrontation lucide avec l'exécution, loin de le briser, le rend disponible au bonheur d'avoir vécu.</spo>
+(Spoilers : Dans sa cellule, Meursault apprivoise sa mort : puisque tout le monde est condamné, mourir à trente ans ou à soixante-dix importe peu, et il écarte tout au-delà, ne souhaitant qu'une vie où il pourrait se souvenir de celle-ci. Cette confrontation lucide avec l'exécution, loin de le briser, le rend disponible au bonheur d'avoir vécu.)
 
 *Sources : Partie II, chapitre 5*
 

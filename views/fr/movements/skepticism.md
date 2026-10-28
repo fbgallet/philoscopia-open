@@ -2,7 +2,7 @@
 
 # Scepticisme
 
-*365 av. J.-C. – 200*
+*365 av. J.-C. – 210, tradition vivante*
 
 Le scepticisme antique remonte à Pyrrhon d'Élis (IVe siècle avant notre ère), figure quasi légendaire qui n'écrivit rien et dont l'imperturbabilité, dit-on, ne fléchissait devant aucun danger. Deux courants se distinguent : le scepticisme académique, né quand Arcésilas puis Carnéade tournèrent l'Académie de [Platon](../philosophers/plato.md) contre le [dogmatisme](../glossary/dogmatism.md) des stoïciens, et le scepticisme pyrrhonien, plus radical, que Sextus Empiricus codifie vers 200 dans ses Esquisses pyrrhoniennes, notre principale source. Le problème qu'affronte l'école est celui du critère : comment trancher entre des doctrines rivales qui toutes se prétendent vraies ? Longtemps marginale, cette tradition resurgit à la Renaissance avec la redécouverte de Sextus : elle nourrit le doute de Montaigne, le doute méthodique de [Descartes](../philosophers/descartes.md) qui cherche à le surmonter, et plus tard l'empirisme de [Hume](../philosophers/hume.md).
 

@@ -20,7 +20,7 @@ Le savoir repose sur des croyances de base, immédiatement certaines, qui n'ont 
 
 Aucune croyance n'est justifiée toute seule : elle l'est par sa place dans un ensemble cohérent, où chacune se soutient des autres. Une idée tient si elle s'accorde sans contradiction avec tout le réseau de notre expérience, sans fondation ultime.
 
-*Quine · Davidson*
+*[Quine](../philosophers/quine.md) · Davidson*
 
 ### Fiabilisme
 
@@ -38,6 +38,18 @@ Une croyance est justifiée si elle est produite par un processus fiable, la per
 - **Vrai par chance** : La définition classique tient le savoir pour une croyance à la fois vraie et justifiée. Or on peut croire une chose pour de bonnes raisons, et qu'elle soit vraie, sans savoir pour autant : l'horloge arrêtée qu'on regarde juste à l'heure qu'elle indique encore, le rocher qu'on prend de loin pour un mouton alors qu'un vrai broute derrière. La croyance est vraie et justifiée, mais elle tombe juste par accident. Faut-il alors redéfinir ce qu'est le savoir, ou durcir ce qu'on est en droit d'exiger d'une justification, jusqu'à ce qu'elle relie la croyance au vrai autrement que par chance ?
 - **A-t-on le droit de croire ?** : Au-delà de ce qui rend une croyance justifiée, est-il permis de croire sans preuve suffisante, ou est-ce une faute, envers soi comme envers les autres ? La question de la garantie prolonge celle du devoir de croire.
 - **L'ère de la post-vérité** : Toute la question de la justification suppose qu'il y ait un vrai à atteindre. Mais quand les « faits alternatifs » et l'indifférence au vrai s'installent, est-ce la vérité elle-même qui vacille, ou seulement notre honnêteté à la chercher ?
+
+## Arguments
+
+- *Fondationnalisme* · pour : [La régression des raisons](../arguments/foundationalism-regress.md)
+- *Fondationnalisme* · contre : [Le mythe du donné](../arguments/foundationalism-myth-of-given-objection.md)
+- *Fondationnalisme* · contre : [Faire ses propres recherches](../arguments/foundationalism-own-research-objection.md)
+- *Cohérentisme* · pour : [Le bateau de Neurath](../arguments/coherentism-neurath-boat.md)
+- *Cohérentisme* · contre : [Rien n'arrive par hasard](../arguments/coherentism-everything-fits-objection.md)
+- *Cohérentisme* · contre : [Cohérent, mais coupé du réel](../arguments/coherentism-isolation-objection.md)
+- *Fiabilisme* · pour : [Le thermomètre](../arguments/reliabilism-thermometer.md)
+- *Fiabilisme* · contre : [Le voyant qui s'ignore](../arguments/reliabilism-clairvoyant-objection.md)
+- *Fiabilisme* · contre : [Quand les sources fiables faillissent](../arguments/reliabilism-failing-sources-objection.md)
 
 ## Relations de fondation
 

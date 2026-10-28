@@ -1,0 +1,19 @@
+{
+  "id": "taoism-to-neo-confucianism",
+  "from": { "kind": "MOVEMENT", "slug": "taoism" },
+  "to": { "kind": "MOVEMENT", "slug": "neo-confucianism" },
+  "directness": "INDIRECT",
+  "mode": "REINTERPRETS",
+  "strength": "MEDIUM",
+  "note": {
+    "fr": "Le <w>Diagramme du Faîte suprême</w> de <ph>Zhou Dunyi</ph>, issu des milieux <mv id='taoism'>taoïstes</mv>, devient la cosmologie du <mv id='neo-confucianism'>néoconfucianisme</mv> : le « sans-faîte » et le yin-yang y sont mis au service d'une morale confucéenne. L'origine taoïste du diagramme, attestée par la tradition, fut d'ailleurs reprochée à Zhu Xi par ses adversaires.",
+    "en": "The <w>Diagram of the Supreme Ultimate</w> of <ph>Zhou Dunyi</ph>, which came out of <mv id='taoism'>Taoist</mv> circles, became the cosmology of <mv id='neo-confucianism'>Neo-Confucianism</mv>: the \"Ultimateless\" and yin-yang were put in the service of a Confucian ethics. The diagram's Taoist origin, reported by tradition, was held against Zhu Xi by his opponents."
+  },
+  "sources": [
+    {
+      "fr": "Zhou Dunyi, Taijitu shuo",
+      "en": "Zhou Dunyi, Explanation of the Diagram of the Supreme Ultimate (Taijitu shuo)"
+    }
+  ],
+  "updatedAt": "2026-10-09T00:00:00.000Z"
+}

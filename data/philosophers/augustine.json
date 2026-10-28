@@ -14,6 +14,7 @@
   "nationality": { "fr": "Romain d'Afrique", "en": "Roman African" },
   "birth": 354,
   "death": 430,
+  "language": "lat",
   "movements": [
     "platonism"
   ],

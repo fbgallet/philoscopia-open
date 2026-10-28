@@ -2,7 +2,7 @@
 
 # Avicenna
 
-*980 – 1037 · Persian · [Aristotelianism](../movements/aristotelianism.md)*
+*980 – 1037 · Persian · [Falsafa](../movements/falsafa.md), [Aristotelianism](../movements/aristotelianism.md)*
 
 Persian philosopher and physician of the Islamic Golden Age, the foremost interpreter of Aristotle in the Islamic world; his distinction between essence and existence and his proof of the necessary being deeply shaped Latin Scholasticism, Aquinas included.
 

@@ -14,6 +14,7 @@
   "nationality": { "fr": "Allemand", "en": "German" },
   "birth": 1759,
   "death": 1805,
+  "language": "deu",
   "movements": ["romanticism"],
   "updatedAt": "2026-06-26T00:00:00.000Z",
   "validation": { "method": "NOT_VALIDATED" }

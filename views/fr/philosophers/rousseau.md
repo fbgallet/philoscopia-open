@@ -18,6 +18,26 @@ Né à Genève en 1712, autodidacte devenu l'un des plus grands écrivains du si
 
 ## Positions
 
+### [Rapport à l'autorité](../axes/authority.md)
+
+*positionné · inférable · majeure*
+
+Autorité 68% · Anarchisme 33%
+
+Rousseau refuse que la force ou le modèle paternel fondent une autorité politique légitime : celle-ci doit procéder d'un pacte entre associés. Le citoyen obéit alors à une loi dont il est collectivement l'auteur, plutôt qu'à une volonté particulière. Cette autonomie n'abolit pas la contrainte, puisque le corps politique peut forcer un associé à respecter le pacte : celui qui refuse d'obéir à la [volonté générale](../glossary/volonte-generale.md) « sera forcé d'être libre ». La souveraineté reste toutefois bornée par la généralité de son objet et par les engagements qui constituent l'association.
+
+*Sources : Du contrat social, I, 2-4 et 6-7 · Du contrat social, II, 1-4*
+
+### [Cercle moral](../axes/moral-circle.md)
+
+*positionné · inférable · mineure*
+
+Pathocentrisme 60% · Anthropocentrisme 40%
+
+Rousseau distingue la capacité de connaître la loi naturelle de celle d'en recevoir la protection : les bêtes n'ont pas la première, mais, sensibles comme nous, elles « doivent participer au droit naturel ». Si nous devons ne pas faire de mal à autrui, c'est moins parce qu'il est raisonnable que parce qu'il est sensible. Le devoir de ne pas maltraiter inutilement les animaux procède ainsi de la [pitié](../glossary/pitie.md), non de leur part à la raison : une extension directe de la considération morale, qui dépasse l'anthropocentrisme strict sans établir d'égalité entre intérêts humains et animaux.
+
+*Sources : Discours sur l'origine de l'inégalité, Préface · Émile, II*
+
 ### [Sens de la souffrance](../axes/suffering-meaning.md)
 
 *positionné · inférable · mineure*

@@ -1,0 +1,12 @@
+{
+  "id": "origin-of-the-work-of-art-heidegger",
+  "title": { "fr": "L'Origine de l'œuvre d'art", "en": "The Origin of the Work of Art" },
+  "originalTitle": "Der Ursprung des Kunstwerkes",
+  "author": { "slug": "heidegger", "name": { "fr": "Martin Heidegger", "en": "Martin Heidegger" } },
+  "year": 1950,
+  "presentation": {
+    "fr": "Conférences rédigées en 1935-1936 et publiées en 1950 dans <w>Chemins qui ne mènent nulle part</w>. Contre l'esthétique, <ph id='heidegger'>Heidegger</ph> fait de l'œuvre une « mise en œuvre de la vérité » : un temple grec, une paire de souliers peinte par Van Gogh ouvrent un monde et font apparaître la terre.",
+    "en": "Lectures written in 1935-1936 and published in 1950 in <w>Off the Beaten Track</w>. Against aesthetics, <ph id='heidegger'>Heidegger</ph> makes the work a \"setting-into-work of truth\": a Greek temple, a pair of shoes painted by Van Gogh open up a world and let the earth appear."
+  },
+  "updatedAt": "2026-10-11T00:00:00.000Z"
+}

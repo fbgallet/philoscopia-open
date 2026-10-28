@@ -46,6 +46,8 @@ Human beings hold no privileged position in nature: they are one living being am
 
 > “Instead of that speculative philosophy taught in the schools, we may find a practical one […] and thus render ourselves, as it were, masters and possessors of nature.” — [Descartes](../philosophers/descartes.md), Discourse on Method, VI
 
+> “Man is not the lord of beings. Man is the shepherd of Being.” — [Heidegger](../philosophers/heidegger.md), Letter on Humanism (1946)
+
 > “The human models himself on the earth, the earth on heaven, heaven on the Dao, and the Dao on itself.” — [Laozi](../philosophers/laozi.md), Dao De Jing, ch. 25
 
 > “Nature, to be commanded, must be obeyed.” — [Bacon](../philosophers/bacon.md), Novum Organum, Book I, aphorism 3

@@ -1,0 +1,28 @@
+{
+  "id": "ren",
+  "term": {
+    "fr": "Ren (humanité, bienveillance)",
+    "en": "Ren (humaneness, benevolence)"
+  },
+  "aliases": {
+    "fr": [
+      "jen"
+    ],
+    "en": [
+      "jen"
+    ]
+  },
+  "definition": {
+    "fr": "Le rén (仁), souvent traduit par « humanité » ou « bienveillance », est une vertu centrale du <mv id='confucianism'>confucianisme</mv>, qui engage la qualité morale des relations avec autrui. Chez <ph id='confucius'>Confucius</ph>, il se cultive notamment dans les relations familiales et s'accomplit à travers une pratique juste des rites. Son extension dépasse les seuls proches, sans effacer les différences de responsabilité envers chacun. Certains néoconfucéens, notamment Cheng Hao et <ph id='wang-yangming'>Wang Yangming</ph>, le décrivent comme la capacité de former « un seul corps » avec les êtres du monde.",
+    "en": "Rén (仁), often translated as \"humaneness\" or \"benevolence\", is a central virtue of <mv id='confucianism'>Confucianism</mv>, engaging the moral quality of our relations with others. For <ph id='confucius'>Confucius</ph>, it is cultivated notably in family relations and fulfilled through a right practice of the rites. Its reach goes beyond those closest to us, without erasing the differences of responsibility towards each. Some Neo-Confucians, notably Cheng Hao and <ph id='wang-yangming'>Wang Yangming</ph>, describe it as the capacity to form \"one body\" with the beings of the world."
+  },
+  "relatedAxes": [
+    "ETHICS_FOUNDATION",
+    "PARTIALITY"
+  ],
+  "relatedTerms": [
+    "graded-love",
+    "li-principle"
+  ],
+  "updatedAt": "2026-10-10T00:00:00.000Z"
+}

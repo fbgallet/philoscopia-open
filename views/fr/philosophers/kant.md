@@ -18,6 +18,56 @@ Philosophe allemand des Lumières, professeur à Königsberg dont il ne sortit j
 
 ## Positions
 
+### [Place de l'homme dans la nature](../axes/human-place-nature.md)
+
+*positionné · inférable · mineure*
+
+Maîtrise 80% · Gardiennage 20%
+
+Dans la téléologie kantienne, l'homme peut être regardé comme la « fin dernière » de la nature, parce qu'il se propose des fins et se sert des autres êtres comme de moyens ; la culture développe cette aptitude à poursuivre des fins en général, sans suffire à le moraliser. Seul l'homme comme sujet de la loi morale est un but final, qui ne dépend d'aucune autre fin. Kant condamne aussi la destruction gratuite des beautés de la nature, mais comme un manquement envers soi-même : elle affaiblit la disposition à aimer quelque chose sans intérêt, qui prépare la moralité, et ne viole aucun devoir envers la nature.
+
+*Sources : Critique de la faculté de juger, §83-84 · Métaphysique des mœurs, Doctrine de la vertu, §17 (AA VI, 443)*
+
+### [Rapport à la technique](../axes/technology.md)
+
+*positionné · inférable · mineure*
+
+Techno-optimisme 60% · Techno-critique 40%
+
+L'histoire est le lieu où l'insociable sociabilité des hommes développe leurs talents et leur habileté : sans elle, ils seraient restés aussi doux que les moutons qu'ils font paître. Kant y voit un progrès réel mais ambigu : « nous sommes cultivés à un haut degré par l'art et la science, nous sommes civilisés jusqu'à en être accablés… mais il s'en faut encore de beaucoup que nous puissions nous tenir pour déjà moralisés ». L'habileté fournit des moyens pour toutes sortes de fins ; elle ne dit rien de leur valeur.
+
+*Sources : Idée d'une histoire universelle au point de vue cosmopolitique (1784), 4e et 7e propositions · Fondements de la métaphysique des mœurs, II (impératifs de l'habileté)*
+
+### [Statut des émotions](../axes/emotions.md)
+
+*positionné · inférable · majeure*
+
+Primauté de la raison 85% · Le primat du sentiment 15%
+
+Kant refuse de fonder l'obligation morale sur les inclinations, parce qu'elles dépendent d'une constitution sensible particulière et ne peuvent légiférer pour tout être raisonnable : contre les théoriciens du **sens moral**, Hutcheson en tête, la loi doit valoir indépendamment de nos penchants. L'exemple du bienfaiteur devenu insensible isole le devoir comme mobile, sans interdire que la sympathie accompagne une action bonne. Le **respect** fait exception à l'opposition simple entre raison et sentiment : il est l'effet sensible de la loi morale sur un être fini. Kant distingue enfin les affects, qui interrompent un moment la réflexion, des passions, qui installent une domination durable de l'inclination sur la raison.
+
+*Sources : Fondements de la métaphysique des mœurs, I (AA IV, 397-401) ; II (AA IV, 442-443) · Critique de la raison pratique, Analytique, ch. III · Anthropologie du point de vue pragmatique, §73-74 et §80*
+
+### [La source de la morale](../axes/moral-source.md)
+
+*positionné · explicite dans les textes · majeure*
+
+La loi de la raison 100%
+
+La morale ne se fonde ni sur la volonté de Dieu ni sur le sentiment, mais sur l'**autonomie** de la raison pratique, qui se donne à elle-même sa loi. Tout fondement autre que l'autolégislation de la raison, qu'il s'agisse du bonheur, de la perfection ou d'un commandement divin, rendrait la morale **hétéronome** : on obéirait pour autre chose que le devoir. Dieu n'est postulé que pour rendre possible, dans le souverain bien, l'union de la vertu et d'un bonheur proportionné, jamais pour fonder l'obligation.
+
+*Sources : Fondements de la métaphysique des mœurs, II (autonomie et hétéronomie) · Critique de la raison pratique, Dialectique*
+
+### [Justice distributive](../axes/distributive-justice.md)
+
+*positionné · inférable · mineure*
+
+Libertarianisme 55% · Égalitarisme 45%
+
+Kant refuse qu'un gouvernement impose aux citoyens sa conception du bonheur : un pouvoir paternaliste serait « le plus grand despotisme ». Mais il ne réduit pas l'État à protéger des possessions acquises hors de toute condition publique, puisque le mien et le tien ne deviennent définitifs que dans l'état civil. Il autorise ainsi l'imposition des possédants pour entretenir ceux qui ne peuvent subvenir à leurs besoins, au nom de la conservation du peuple lui-même. Cette redistribution d'assistance ne vise ni l'égalité des fortunes ni la compensation des inégalités de naissance et de talents.
+
+*Sources : Doctrine du droit, §41-49 et Remarque générale C · Théorie et pratique, II*
+
 ### [Sens de la souffrance](../axes/suffering-meaning.md)
 
 *positionné · inférable · mineure*
@@ -382,6 +432,7 @@ Oser savoir : sortir de la minorité dont on est soi-même responsable exige de 
 
 - **[Idéalisme allemand](../movements/german-idealism.md)** (réinterprète) : L'idéalisme allemand naît de [Kant](../philosophers/kant.md) et contre lui : il reprend son tournant transcendantal, le sujet qui constitue l'expérience, mais refuse la chose en soi inconnaissable où Kant arrêtait la raison. [Hegel](../philosophers/hegel.md) tient cette limite pour une inconséquence et transforme le criticisme en idéalisme absolu, où la raison rejoint la totalité du réel ; il conteste la fixité des oppositions kantiennes, phénomène et chose en soi, en les intégrant au mouvement dialectique de l'Esprit. Kant, lui, avait explicitement récusé ce dépassement.
 - **[Hegel](../philosophers/hegel.md)** (prolonge) : [Hegel](../philosophers/hegel.md) hérite de [Kant](../philosophers/kant.md) l'unité du sujet et les antinomies de la raison, mais lui reproche la chose en soi inconnaissable, reste de dualisme, et le caractère seulement subjectif des catégories : ce que Kant tenait pour les limites de la raison, Hegel en fait le moteur dialectique du réel lui-même.
+- **[Jonas](../philosophers/jonas.md)** (réinterprète) : [Jonas](../philosophers/jonas.md) reformule l'[impératif catégorique](../glossary/categorical-imperative.md) de [Kant](../philosophers/kant.md) pour l'âge technique : non plus la cohérence de la maxime, mais la compatibilité des effets de l'action avec la permanence de l'humanité. Il en conteste aussi le fondement, une loi formelle de la raison, et l'horizon, limité aux contemporains.
 - **[Charles Sanders Peirce](../philosophers/peirce.md)** (réinterprète) : [Peirce](../philosophers/peirce.md) lit [Kant](../philosophers/kant.md) de près et le retravaille beaucoup : il refond la table des catégories et l'architectonique de la première *[Critique](../works/critique-of-pure-reason-kant.md)* dans sa propre triade (priméité, secondéité, tiercéité) et dans son réalisme des universaux. Kant reste le philosophe à partir duquel il pense, même là où il le corrige.
 - **[Rawls](../philosophers/rawls.md)** (prolonge) : [Rawls](../philosophers/rawls.md) revendique une reprise politique du constructivisme moral de [Kant](../philosophers/kant.md) : la position originelle et le voile d'ignorance reformulent l'exigence kantienne de traiter chacun comme une fin et de fonder des principes universalisables.
 - **[Le romantisme](../movements/romanticism.md)** (réinterprète) : La troisième Critique de [Kant](../philosophers/kant.md) arme le romantisme : sa théorie du [génie](../glossary/genie.md), à qui « la nature donne ses règles à l'art », son analyse du [sublime](../glossary/sublime.md) et son imagination productrice deviennent le socle de l'esthétique romantique. Le romantisme prolonge aussi l'élan de l'idéalisme post-kantien, tout en franchissant la limite que Kant imposait à la raison : il prétend rejoindre par l'art et l'intuition cet absolu que Kant déclarait inconnaissable.

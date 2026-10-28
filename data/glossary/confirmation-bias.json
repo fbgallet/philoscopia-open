@@ -1,0 +1,28 @@
+{
+  "id": "confirmation-bias",
+  "term": {
+    "fr": "Biais de confirmation",
+    "en": "Confirmation bias"
+  },
+  "aliases": {
+    "fr": [
+      "raisonnement motivé"
+    ],
+    "en": [
+      "motivated reasoning"
+    ]
+  },
+  "definition": {
+    "fr": "Le biais de confirmation est la tendance à chercher, retenir et interpréter les informations qui confirment ce que l'on croit déjà, et à négliger celles qui le contredisent. Étudié depuis les expériences de Peter Wason dans les années 1960, il touche tout le monde, et d'abord sur les sujets qui nous tiennent à cœur.",
+    "en": "Confirmation bias is the tendency to seek out, remember and interpret information that confirms what we already believe, and to neglect what contradicts it. Studied since Peter Wason's experiments in the 1960s, it affects everyone, and above all on the subjects we care most about."
+  },
+  "relatedAxes": [
+    "BELIEF_ETHICS",
+    "EPISTEMIC_JUSTIFICATION"
+  ],
+  "relatedTerms": [
+    "intentionality-bias",
+    "proportionality-bias"
+  ],
+  "updatedAt": "2026-10-28T00:00:00.000Z"
+}

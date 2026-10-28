@@ -16,7 +16,7 @@
 
 **⇒** So the human is not the master of nature but a [member of the biotic community](../axes/human-place-nature.md): the ultimate good is the health of that whole, of which every being, humans included, is but a part.
 
-**Challenged by** : [The whole against the individual](../arguments/ecocentrism-environmental-fascism-objection.md)
+**Challenged by** : [The whole against the individual](../arguments/ecocentrism-environmental-fascism-objection.md) · [The return of the wolf](../arguments/ecocentrism-returning-wolf-objection.md)
 
 **Bears on the problems** : [The individual or the whole](../axes/moral-circle.md) · [The criterion of moral status](../axes/moral-circle.md)
 

@@ -1,0 +1,25 @@
+{
+  "id": "burhan",
+  "term": {
+    "fr": "Burhān (démonstration)",
+    "en": "Burhān (demonstration)"
+  },
+  "aliases": {
+    "fr": [
+      "burhan"
+    ],
+    "en": [
+      "burhan"
+    ]
+  },
+  "definition": {
+    "fr": "Dans la <mv id='falsafa'>falsafa</mv>, le burhān est le raisonnement qui part de prémisses certaines et conclut nécessairement, sur le modèle des <w>Seconds Analytiques</w> d'<ph id='aristotle'>Aristote</ph>. Les philosophes y voient la forme la plus haute de la connaissance, au-dessus de la dialectique, qui part d'opinions admises, et de la rhétorique, qui persuade. <ph id='averroes'>Averroès</ph> en fait le critère d'interprétation des textes religieux : là où la démonstration contredit le sens apparent, le texte doit être lu de façon figurée, par ceux qui en ont la compétence. Il ne s'agit pas d'opposer deux vérités, mais de lire le texte à la hauteur de la démonstration.",
+    "en": "In <mv id='falsafa'>falsafa</mv>, burhān is reasoning that starts from certain premises and concludes necessarily, on the model of <ph id='aristotle'>Aristotle</ph>'s <w>Posterior Analytics</w>. The philosophers see it as the highest form of knowledge, above dialectic, which starts from accepted opinions, and rhetoric, which persuades. <ph id='averroes'>Averroes</ph> makes it the criterion for interpreting religious texts: where demonstration contradicts the apparent sense, the text must be read figuratively, by those competent to do so. The point is not to set two truths against each other, but to read the text at the level of demonstration."
+  },
+  "relatedAxes": [
+    "FAITH_REASON",
+    "CERTAINTY"
+  ],
+  "relatedTerms": [],
+  "updatedAt": "2026-10-10T00:00:00.000Z"
+}

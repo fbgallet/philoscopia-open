@@ -1,22 +1,292 @@
 {
   "kind": "PHILOSOPHER",
-  "stub": true,
   "id": "heidegger",
   "name": { "fr": "Heidegger", "en": "Heidegger" },
+  "fullName": { "fr": "Martin Heidegger", "en": "Martin Heidegger" },
+  "tagline": {
+    "fr": "Reprendre la question du sens de l'être, que la métaphysique aurait selon lui oubliée, à partir de l'existence quotidienne qui la comprend déjà sans la penser.",
+    "en": "Taking up again the question of the meaning of being, which metaphysics had in his view forgotten, starting from everyday existence, which already understands it without thinking it."
+  },
   "aliases": {
     "fr": ["heideggérien", "heideggérienne"],
     "en": ["Heideggerian"]
   },
   "summary": {
-    "fr": "Philosophe allemand de l'être : il pense l'existence humaine comme un être-pour-la-mort et voit dans la technique moderne un arraisonnement du monde qui en voile le sens.",
-    "en": "German philosopher of being: he conceives human existence as a being-toward-death and sees in modern technology an enframing of the world that veils its meaning."
+    "fr": "Élève puis successeur de <ph id='husserl'>Husserl</ph> à Fribourg, il infléchit la <mv id='phenomenology'>phénoménologie</mv> en une interrogation sur le sens de l'être, menée à partir de l'existence humaine qu'il nomme <c id='dasein'>Dasein</c>. <w id='being-and-time-heidegger'>Être et temps</w> (1927), resté inachevé, renouvelle la philosophie du XXe siècle ; à partir des années 1930, le « tournant » le conduit vers l'histoire de l'être, la poésie de <per>Hölderlin</per> et, après la guerre, vers une méditation sur la technique (<w id='question-concerning-technology-heidegger'>La Question de la technique</w>, conférence de 1953). Membre du parti nazi de 1933 à 1945, recteur de l'université de Fribourg en 1933-1934, il est interdit d'enseignement après la guerre dans le cadre de la dénazification et ne retrouve la possibilité d'enseigner qu'en 1951. La publication, à partir de 2014, des <w id='black-notebooks-heidegger'>Cahiers noirs</w>, où figurent des passages antisémites, a relancé le <dif>débat sur les liens entre sa pensée et cet engagement</dif>. Son influence traverse <ph id='sartre'>Sartre</ph>, <ph id='arendt'>Arendt</ph>, <ph id='levinas'>Levinas</ph>, <ph id='merleau-ponty'>Merleau-Ponty</ph>, l'herméneutique de <ph id='gadamer'>Gadamer</ph>, la déconstruction de <ph id='derrida'>Derrida</ph> et l'<mv id='kyoto-school'>école de Kyoto</mv>, comme la critique de ses propres élèves, <ph id='jonas'>Jonas</ph> et <ph id='anders'>Anders</ph>.",
+    "en": "A pupil and then the successor of <ph id='husserl'>Husserl</ph> at Freiburg, he turned <mv id='phenomenology'>phenomenology</mv> into an inquiry into the meaning of being, conducted through the analysis of human existence, which he calls <c id='dasein'>Dasein</c>. <w id='being-and-time-heidegger'>Being and Time</w> (1927), left unfinished, renewed twentieth-century philosophy; from the 1930s the \"turn\" led him toward the history of being, the poetry of <per>Hölderlin</per> and, after the war, toward a meditation on technology (<w id='question-concerning-technology-heidegger'>The Question Concerning Technology</w>, a 1953 lecture). A member of the Nazi party from 1933 to 1945 and rector of the University of Freiburg in 1933-1934, he was barred from teaching after the war as part of denazification and could teach again only in 1951. The publication from 2014 of the <w id='black-notebooks-heidegger'>Black Notebooks</w>, which contain antisemitic passages, reopened the <dif>debate over the links between his thought and that commitment</dif>. His influence runs through <ph id='sartre'>Sartre</ph>, <ph id='arendt'>Arendt</ph>, <ph id='levinas'>Levinas</ph>, <ph id='merleau-ponty'>Merleau-Ponty</ph>, the hermeneutics of <ph id='gadamer'>Gadamer</ph>, the deconstruction of <ph id='derrida'>Derrida</ph> and the <mv id='kyoto-school'>Kyoto School</mv>, as well as the criticism of his own pupils, <ph id='jonas'>Jonas</ph> and <ph id='anders'>Anders</ph>."
   },
   "nationality": { "fr": "Allemand", "en": "German" },
   "birth": 1889,
   "death": 1976,
+  "language": "deu",
   "movements": [
     "phenomenology"
   ],
-  "updatedAt": "2026-06-22T00:00:00.000Z",
+  "entries": [
+    {
+      "axisId": "DEATH",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0, 1, 0, 0] },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "La deuxième section d'<w id='being-and-time-heidegger'>Être et temps</w> s'ouvre sur un <pb>problème</pb> : comment saisir l'existence comme un tout, alors qu'elle n'est jamais achevée tant qu'elle dure ? L'analyse de l'<c id='being-toward-death'>être-pour-la-mort</c> y répond sans attendre une fin, comme on attendrait celle d'un objet. Tout tourne autour d'une phrase ordinaire : « on meurt ». Le « <c id='das-man'>on</c> » dit vrai, chacun mourra, mais il fait de la mort un fait qui concerne tout le monde et jamais moi. Or on peut mourir pour autrui, non lui retirer son propre mourir : la mort est la possibilité la plus propre, certaine et indéterminée quant à son moment. L'<c>angoisse</c> révèle ce que le bavardage tranquillise, et le <c>devancement</c> de cette possibilité, joint à la <c>résolution</c> qui répond à l'appel de la conscience, permet d'assumer ses choix comme les siens, à partir de leur finitude : c'est l'existence <c id='authenticity'>authentique</c>.",
+          "en": "Division Two of <w id='being-and-time-heidegger'>Being and Time</w> opens with a <pb>problem</pb>: how can existence be grasped as a whole, when it is never complete as long as it lasts? The analysis of <c id='being-toward-death'>being-toward-death</c> answers without waiting for an end, as one would wait for the end of an object. Everything turns on an ordinary phrase: \"one dies\". The \"<c id='das-man'>they</c>\" speaks truly, everyone will die, but it turns death into a fact that concerns everybody and never me. Yet one can die for another, not take away another's own dying: death is the ownmost possibility, certain and indefinite as to its moment. <c>Anxiety</c> reveals what idle talk tranquillizes, and <c>anticipation</c> of this possibility, joined to the <c>resoluteness</c> that answers the call of conscience, lets one own one's choices, in the light of their finitude: that is <c id='authenticity'>authentic</c> existence."
+        },
+        "references": [
+          { "fr": "Être et temps, §46-53", "en": "Being and Time, §46-53" },
+          { "fr": "Être et temps, §40 (l'angoisse)", "en": "Being and Time, §40 (anxiety)" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "TECHNOLOGY",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": 0.8 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "<ph id='heidegger'>Heidegger</ph> part de la définition courante, la technique comme moyen au service de fins humaines, pour la dire « exacte » mais non « vraie » : elle manque l'essence, ce qui récuse d'emblée l'instrumentalisme. La technique moderne est un mode de dévoilement qui ne fait plus éclore les choses, comme la <c>poièsis</c> artisanale, mais les « provoque » (herausfordern) : le Rhin est sommé de livrer son énergie à la centrale, la forêt sa cellulose, tout devient <c>fonds disponible</c> (Bestand), une réserve toujours prête à l'emploi. L'homme lui-même est requis par cette provocation et menacé de ne plus se comprendre qu'à partir de la disponibilité. Le rassemblement de toutes ces manières de sommer, l'<c id='gestell'>arraisonnement</c> (Gestell), est le <stk>danger suprême</stk>, car il risque de fermer tout autre rapport à l'être. Heidegger refuse pourtant de maudire les appareils : il cite <per>Hölderlin</per> (<q>là où il y a danger, croît aussi ce qui sauve</q>) et prône, dans le discours de 1955 repris dans <w id='gelassenheit-heidegger'>Sérénité</w>, un « oui et non » aux objets techniques : sa critique vise l'essence, non les instruments.",
+          "en": "<ph id='heidegger'>Heidegger</ph> starts from the current definition, technology as a means in the service of human ends, and calls it \"correct\" but not \"true\": it misses the essence, which rules out instrumentalism from the start. Modern technology is a mode of revealing that no longer lets things come forth, as craftsmanly <c>poiesis</c> did, but \"challenges\" them (herausfordern): the Rhine is ordered to deliver its energy to the power plant, the forest its cellulose, everything becomes <c>standing-reserve</c> (Bestand), a stock always on call. The human being is itself requisitioned by this challenging and threatened with understanding itself only in terms of availability. The gathering of all these ways of ordering, <c id='gestell'>enframing</c> (Gestell), is the <stk>supreme danger</stk>, for it risks closing off every other relation to being. Heidegger nonetheless refuses to curse the apparatus: he quotes <per>Hölderlin</per> (<q>where danger is, grows the saving power also</q>) and recommends, in the 1955 speech collected in <w id='gelassenheit-heidegger'>Discourse on Thinking</w>, a \"yes and no\" to technical objects: his critique targets the essence, not the instruments."
+        },
+        "references": [
+          { "fr": "La Question de la technique (conférence 1953, publ. 1954)", "en": "The Question Concerning Technology (lecture 1953, publ. 1954)" },
+          { "fr": "Sérénité (discours 1955, publ. 1959)", "en": "Discourse on Thinking (\"Memorial Address\", 1955, publ. 1959)" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "ART_PURPOSE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0, 1, 0] },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Dans <w id='origin-of-the-work-of-art-heidegger'>L'Origine de l'œuvre d'art</w>, l'œuvre n'est ni un objet d'agrément ni la copie d'une chose : elle est une « mise en œuvre de la vérité ». Heidegger interprète les souliers peints par <per>Van Gogh</per> comme donnant accès au monde d'une paysanne, <dif>lecture que l'historien de l'art <per>Meyer Schapiro</per> a contestée</dif> ; le temple grec, qui ne représente rien, ouvre un <c>monde</c> (l'horizon de sens d'un peuple historique) et fait apparaître la <c>terre</c> (ce qui se retire et porte ce monde). Contre l'<c>esthétique</c>, qui selon lui réduit l'art au vécu et au plaisir, l'art est un mode éminent de la <c id='aletheia'>vérité</c> comme dévoilement.",
+          "en": "In <w id='origin-of-the-work-of-art-heidegger'>The Origin of the Work of Art</w>, the work is neither an object of enjoyment nor the copy of a thing: it is a \"setting-into-work of truth\". Heidegger interprets the shoes painted by <per>Van Gogh</per> as giving access to the world of a peasant woman, <dif>a reading the art historian <per>Meyer Schapiro</per> contested</dif>; the Greek temple, which represents nothing, opens up a <c>world</c> (the horizon of meaning of a historical people) and lets the <c>earth</c> appear (what withdraws and bears that world). Against <c>aesthetics</c>, which in his view reduces art to lived experience and pleasure, art is an eminent mode of <c id='aletheia'>truth</c> as unconcealment."
+        },
+        "references": [
+          { "fr": "L'Origine de l'œuvre d'art (rédigée 1935-1936, publ. 1950)", "en": "The Origin of the Work of Art (written 1935-1936, publ. 1950)" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "SCIENCE_PLACE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": 0.7 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Dans <w id='age-of-the-world-picture-heidegger'>L'Époque des conceptions du monde</w>, la science moderne devient « recherche » : elle délimite son domaine en constituant les phénomènes comme objets selon un projet préalable, la nature comme ensemble calculable de mouvements. <w id='what-is-metaphysics-heidegger'>Qu'est-ce que la métaphysique ?</w> relève qu'elle ne veut rien savoir du <c>néant</c>, et <w id='what-is-called-thinking-heidegger'>Qu'appelle-t-on penser ?</w> qu'elle ne pense pas, au sens qu'il donne à ce mot : non par défaut, mais parce qu'elle ne détermine pas, par ses seuls procédés, les présupposés ontologiques qui constituent son domaine. Contre ce monopole, <w id='origin-of-the-work-of-art-heidegger'>L'Origine de l'œuvre d'art</w> et les commentaires de <per>Hölderlin</per> font de l'œuvre et de la parole poétique des voies d'accès à l'être. Cet élargissement ne vaut pas pour toute méthode ni pour tout savoir : il privilégie la pensée et la poésie.",
+          "en": "In <w id='age-of-the-world-picture-heidegger'>The Age of the World Picture</w>, modern science becomes \"research\": it marks out its domain by constituting phenomena as objects according to a prior projection, nature as a calculable ensemble of motions. <w id='what-is-metaphysics-heidegger'>What Is Metaphysics?</w> notes that it wants to know nothing of the <c>nothing</c>, and <w id='what-is-called-thinking-heidegger'>What Is Called Thinking?</w> that it does not think, in the sense he gives the word: not as a failing, but because it does not determine, by its own procedures alone, the ontological presuppositions that constitute its domain. Against this monopoly, <w id='origin-of-the-work-of-art-heidegger'>The Origin of the Work of Art</w> and the commentaries on <per>Hölderlin</per> make the work and poetic speech ways of access to being. This widening does not hold for every method or every kind of knowledge: it favours thinking and poetry."
+        },
+        "references": [
+          { "fr": "L'Époque des conceptions du monde (conférence 1938, publ. 1950)", "en": "The Age of the World Picture (lecture 1938, publ. 1950)" },
+          { "fr": "Qu'est-ce que la métaphysique ? (1929)", "en": "What Is Metaphysics? (1929)" },
+          { "fr": "Qu'appelle-t-on penser ? (cours 1951-1952, publ. 1954)", "en": "What Is Called Thinking? (lectures 1951-1952, publ. 1954)" }
+        ],
+        "quoteId": "la-science-ne-pense-pas-heidegger",
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "HUMAN_PLACE_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0, 1, 0] },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Dans <w id='building-dwelling-thinking-heidegger'>Bâtir habiter penser</w>, les mortels habitent en « sauvant » la terre, ce que <ph id='heidegger'>Heidegger</ph> précise : la laisser à son être propre, la ménager, non s'en rendre maître ni se l'assujettir, ce qui n'est qu'un pas vers l'exploitation sans limite. La <w id='letter-on-humanism-heidegger'>Lettre sur l'humanisme</w> lui retire de même le rang de maître de l'étant pour lui assigner une garde, celle de l'<c>être</c>. Cette garde n'est pas la responsabilité morale d'une gestion écologique : c'est un rapport de <c>laisser-être</c> opposé à la <c id='gestell'>sommation</c> technique, que les lectures écologiques de Heidegger ont reprise sous ce nom. Elle ne fait pas de l'homme un vivant parmi d'autres, puisqu'il maintient un <dif>abîme entre l'existence humaine et l'animal « pauvre en monde »</dif>.",
+          "en": "In <w id='building-dwelling-thinking-heidegger'>Building Dwelling Thinking</w>, mortals dwell by \"saving\" the earth, which <ph id='heidegger'>Heidegger</ph> spells out: to leave it to its own being, to spare it, not to master it or subjugate it, which is only one step from boundless exploitation. The <w id='letter-on-humanism-heidegger'>Letter on Humanism</w> likewise takes from the human being the rank of lord of beings and assigns it a guardianship, that of <c>being</c>. This guardianship is not the moral responsibility of ecological management: it is a relation of <c>letting-be</c> set against technological <c id='gestell'>challenging</c>, which ecological readings of Heidegger have taken up under that name. It does not make the human one living being among others, since he maintains an <dif>abyss between human existence and the animal, \"poor in world\"</dif>."
+        },
+        "references": [
+          { "fr": "Bâtir habiter penser (conférence 1951, publ. 1954)", "en": "Building Dwelling Thinking (lecture 1951, publ. 1954)" },
+          { "fr": "Lettre sur l'humanisme (écrite 1946, publ. 1947)", "en": "Letter on Humanism (written 1946, publ. 1947)" },
+          { "fr": "Les Concepts fondamentaux de la métaphysique (cours 1929-1930), §42-63", "en": "The Fundamental Concepts of Metaphysics (lectures 1929-1930), §42-63" }
+        ],
+        "quoteId": "l-homme-est-le-berger-de-l-etre-heidegger",
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "EMOTIONS",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": 0.5 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "La <c>disposition affective</c> (Befindlichkeit) n'est pas un trouble qui viendrait colorer après coup une connaissance neutre : elle a « toujours déjà ouvert l'<c id='being-in-the-world'>être-au-monde</c> comme un tout » (§29), cooriginaire de la compréhension. L'<c>angoisse</c> révèle le néant et la nudité de l'existence ; l'<c>ennui profond</c> fait paraître l'étant en totalité. La connaissance théorique présuppose elle aussi une ouverture affective du monde. Ce n'est pas une primauté du sentiment sur la raison, mais le refus de faire de l'affect un obstacle à la vérité.",
+          "en": "<c>Attunement</c> (Befindlichkeit) is not a disturbance that would colour a neutral cognition after the fact: it has \"always already disclosed <c id='being-in-the-world'>being-in-the-world</c> as a whole\" (§29), equiprimordial with understanding. <c>Anxiety</c> reveals the nothing and the bareness of existence; <c>profound boredom</c> discloses beings as a whole. Theoretical knowledge, too, presupposes an affective disclosure of the world. This is not a primacy of feeling over reason, but a refusal to treat affect as an obstacle to truth."
+        },
+        "references": [
+          { "fr": "Être et temps, §29-30, §40", "en": "Being and Time, §29-30, §40" },
+          { "fr": "Qu'est-ce que la métaphysique ? (1929)", "en": "What Is Metaphysics? (1929)" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "ATTENTION",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.8 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "L'analyse de la quotidienneté décrit le <c>bavardage</c>, la <c>curiosité</c> et l'équivoque comme les modes d'une <c>déchéance</c> où l'existence se disperse et se fuit elle-même (§35-38) ; cette agitation est une fuite devant la mort, que le « <c id='das-man'>on</c> » tranquillise (§51). En 1955, <ph id='heidegger'>Heidegger</ph> diagnostique une « fuite devant la pensée » : la <c>pensée calculante</c>, affairée, ne s'arrête jamais pour la <c>pensée méditante</c>, qui demande de séjourner auprès de ce qui est proche. Ce n'est pas une théorie du divertissement, mais sa réponse est de rassembler l'attention sur l'essentiel plutôt que de s'en distraire.",
+          "en": "The analysis of everydayness describes <c>idle talk</c>, <c>curiosity</c> and ambiguity as modes of a <c>falling</c> in which existence scatters and flees from itself (§35-38); this agitation is a flight in the face of death, which the \"<c id='das-man'>they</c>\" tranquillizes (§51). In 1955 <ph id='heidegger'>Heidegger</ph> diagnoses a \"flight from thinking\": busy <c>calculative thinking</c> never pauses for <c>meditative thinking</c>, which asks us to dwell on what is near. This is not a theory of diversion, but his answer is to gather one's attention on what matters rather than be distracted from it."
+        },
+        "references": [
+          { "fr": "Être et temps, §35-38, §51", "en": "Being and Time, §35-38, §51" },
+          { "fr": "Sérénité (discours 1955, publ. 1959)", "en": "Discourse on Thinking (\"Memorial Address\", 1955, publ. 1959)" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "ART_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": 0.5 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "<w id='origin-of-the-work-of-art-heidegger'>L'Origine de l'œuvre d'art</w> récuse l'idée que l'œuvre reproduise un étant particulier : le temple ne représente rien, il fait advenir un monde. Ce n'est pas pour autant l'invention du <c>génie</c> : <ph id='heidegger'>Heidegger</ph> décentre l'artiste au profit de l'œuvre, qui « institue » une vérité. La création, chez lui, est avènement plutôt que fabrication.",
+          "en": "<w id='origin-of-the-work-of-art-heidegger'>The Origin of the Work of Art</w> rejects the idea that the work reproduces a particular being: the temple represents nothing, it brings a world about. Yet this is not the invention of <c>genius</c>: <ph id='heidegger'>Heidegger</ph> decentres the artist in favour of the work, which \"founds\" a truth. Creation, for him, is an event of coming-to-pass rather than a making."
+        },
+        "references": [
+          { "fr": "L'Origine de l'œuvre d'art (rédigée 1935-1936, publ. 1950)", "en": "The Origin of the Work of Art (written 1935-1936, publ. 1950)" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "METAPHILOSOPHY",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [1, 0, 0, 0] },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "<ph id='heidegger'>Heidegger</ph> refuse d'assigner à la pensée une utilité : en 1966, il déclare que la philosophie ne pourra produire aucun effet immédiat qui change l'état présent du monde, et la <w id='letter-on-humanism-heidegger'>Lettre sur l'humanisme</w> affirme que la pensée « agit en tant qu'elle pense ». Penser, c'est répondre à l'appel de l'<c>être</c>, non transformer le monde ni soigner l'âme. C'est en ce sens qu'il se range du côté de la compréhension, avec une réserve : <dif>cette pensée n'est pas un savoir systématique de l'ordre des choses</dif>.",
+          "en": "<ph id='heidegger'>Heidegger</ph> refuses to assign thinking a use: in 1966 he declares that philosophy will not be able to bring about any immediate change in the present state of the world, and the <w id='letter-on-humanism-heidegger'>Letter on Humanism</w> states that thinking \"acts insofar as it thinks\". To think is to answer the call of <c>being</c>, not to transform the world or heal the soul. It is in this sense that he stands on the side of understanding, with one reservation: <dif>this thinking is not a systematic knowledge of the order of things</dif>."
+        },
+        "references": [
+          { "fr": "Lettre sur l'humanisme (écrite 1946, publ. 1947)", "en": "Letter on Humanism (written 1946, publ. 1947)" },
+          { "fr": "Entretien au Spiegel (1966, publ. 1976)", "en": "Der Spiegel interview (1966, publ. 1976)" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "AUTHORITY",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.5 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Position datée : le discours de rectorat (1933) inscrit l'université dans un ordre de conduite et de suite (<c>Führung</c>, <c>Gefolgschaft</c>) et la soumet aux trois « services » du travail, de la défense et du savoir. En 1966, <ph id='heidegger'>Heidegger</ph> se dit encore « pas convaincu » que la démocratie soit le régime adapté à l'âge technique. Il ne construit pas de philosophie de l'État : le politique reste chez lui subordonné à l'histoire de l'être.",
+          "en": "A dated position: the rectorial address (1933) places the university within an order of leading and following (<c>Führung</c>, <c>Gefolgschaft</c>) and subjects it to the three \"services\" of labour, defence and knowledge. In 1966 <ph id='heidegger'>Heidegger</ph> still says he is \"not convinced\" that democracy is the regime suited to the technological age. He builds no philosophy of the state: for him the political remains subordinate to the history of being."
+        },
+        "references": [
+          { "fr": "L'Auto-affirmation de l'université allemande (1933)", "en": "The Self-Assertion of the German University (1933)" },
+          { "fr": "Entretien au Spiegel (1966, publ. 1976)", "en": "Der Spiegel interview (1966, publ. 1976)" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "BELONGING",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.5 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "L'existence est <c>historiale</c> et se tient dans l'héritage d'un peuple : <w id='being-and-time-heidegger'>Être et temps</w> pense le destin commun d'une communauté (§74), et les textes des années 1930 lient la pensée au sol natal et à la langue allemande, qu'il tient, avec le grec, pour la plus apte à penser. Ces textes ne font aucune place au cosmopolitisme. Dans la <w id='letter-on-humanism-heidegger'>Lettre sur l'humanisme</w>, l'<c>absence de patrie</c> reçoit un sens lié à l'éloignement de l'être, qui ne se réduit pas à la perte d'un territoire national.",
+          "en": "Existence is <c>historical</c> and stands within the heritage of a people: <w id='being-and-time-heidegger'>Being and Time</w> thinks the shared destiny of a community (§74), and the texts of the 1930s bind thinking to the native soil and to the German language, which he holds, with Greek, to be the most fit for thinking. These texts leave no room for cosmopolitanism. In the <w id='letter-on-humanism-heidegger'>Letter on Humanism</w>, <c>homelessness</c> receives a sense tied to the remoteness of being, which is not reducible to the loss of a national territory."
+        },
+        "references": [
+          { "fr": "Être et temps, §74", "en": "Being and Time, §74" },
+          { "fr": "Pourquoi restons-nous en province ? (1934)", "en": "Why Do I Stay in the Provinces? (1934)" },
+          { "fr": "Introduction à la métaphysique (cours 1935, publ. 1953)", "en": "Introduction to Metaphysics (lectures 1935, publ. 1953)" },
+          { "fr": "Lettre sur l'humanisme (écrite 1946, publ. 1947)", "en": "Letter on Humanism (written 1946, publ. 1947)" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "ESSENCE",
+      "status": "REJECTS_ALTERNATIVE",
+      "note": {
+        "fr": "Au §9 d'Être et temps, « l'\"essence\" du Dasein réside dans son existence » ; mais la Lettre sur l'humanisme récuse la formule de Sartre, « l'existence précède l'essence », simple renversement qui reste selon lui prisonnier de la métaphysique. L'<c>ek-sistence</c>, le fait de se tenir hors de soi dans l'ouverture de l'être, n'est ni une essence donnée ni une auto-invention.",
+        "en": "In §9 of Being and Time, \"the 'essence' of Dasein lies in its existence\"; but the Letter on Humanism rejects Sartre's formula, \"existence precedes essence\", a mere reversal that in his view remains captive to metaphysics. <c>Ek-sistence</c>, standing out of oneself into the openness of being, is neither a given essence nor a self-invention."
+      }
+    },
+    {
+      "axisId": "REALITY_NATURE",
+      "status": "REJECTS_ALTERNATIVE",
+      "note": {
+        "fr": "Être et temps déconstruit le partage cartésien de la chose pensante et de la chose étendue (§19-21) et fait de la « réalité » un mode d'être parmi d'autres (§43) : matérialisme, idéalisme et dualisme partagent les présupposés qu'il conteste.",
+        "en": "Being and Time deconstructs the Cartesian split between thinking thing and extended thing (§19-21) and makes \"reality\" one mode of being among others (§43): materialism, idealism and dualism share the presuppositions he contests."
+      }
+    },
+    {
+      "axisId": "FREEDOM",
+      "status": "REJECTS_ALTERNATIVE",
+      "note": {
+        "fr": "La liberté n'est pas une propriété de la volonté, objet du débat entre libre arbitre et déterminisme : elle est d'abord « <c>laisser-être</c> » l'étant (De l'essence de la vérité, conférence 1930, publ. 1943) ; l'homme ne possède pas la liberté, c'est elle qui le possède.",
+        "en": "Freedom is not a property of the will, the object of the debate between free will and determinism: it is first \"<c>letting beings be</c>\" (On the Essence of Truth, lecture 1930, publ. 1943); man does not possess freedom, freedom possesses man."
+      }
+    }
+  ],
+  "structuring": [
+    {
+      "axisId": "DEATH",
+      "thesis": {
+        "fr": "La mort n'est pas un événement qui arrivera un jour parmi d'autres : elle est la possibilité la plus propre de chacun, et c'est en la devançant que l'existence s'arrache au « <c id='das-man'>on</c> meurt » anonyme pour devenir sienne.",
+        "en": "Death is not an event that will happen one day among others: it is each person's ownmost possibility, and it is by anticipating it that existence tears itself away from the anonymous \"<c id='das-man'>one</c> dies\" and becomes its own."
+      }
+    },
+    {
+      "axisId": "TECHNOLOGY",
+      "thesis": {
+        "fr": "Ce qui menace dans la technique n'est pas la machine mais un mode de dévoilement, l'<c id='gestell'>arraisonnement</c>, qui ne laisse plus rien paraître, l'homme compris, que comme un fonds disponible.",
+        "en": "What threatens in technology is not the machine but a mode of revealing, <c id='gestell'>enframing</c>, which lets nothing appear any longer, the human included, except as standing-reserve."
+      }
+    },
+    {
+      "axisId": "ART_PURPOSE",
+      "thesis": {
+        "fr": "L'œuvre d'art n'est ni un objet de plaisir ni une copie : elle ouvre un monde, et la vérité y advient de façon éminente, à côté de la pensée et de la parole poétique.",
+        "en": "The work of art is neither an object of pleasure nor a copy: it opens up a world, and truth happens in it in an eminent way, alongside thinking and poetic speech."
+      }
+    },
+    {
+      "axisId": "SCIENCE_PLACE",
+      "thesis": {
+        "fr": "La science ne saisit du réel que ce que son projet préalable lui permet d'objectiver : elle ne peut, par ses seuls moyens, interroger l'être de ce qu'elle étudie, et l'œuvre comme la parole poétique y donnent un accès plus originel.",
+        "en": "Science grasps of the real only what its prior projection allows it to objectify: by its own means alone it cannot question the being of what it studies, and the work of art and poetic speech give a more originary access to it."
+      }
+    }
+  ],
+  "identity": {
+    "wikidata": "Q48301",
+    "wikipedia": {
+      "fr": "https://fr.wikipedia.org/wiki/Martin_Heidegger",
+      "en": "https://en.wikipedia.org/wiki/Martin_Heidegger"
+    }
+  },
+  "updatedAt": "2026-10-11T00:00:00.000Z",
   "validation": { "method": "NOT_VALIDATED" }
 }

@@ -56,6 +56,8 @@ Technology is in itself neither blessing nor curse: it is a means, and everythin
 
 ## Quotations
 
+> “The strongest cause of alienation in the contemporary world resides in this misunderstanding of the machine, which is not an alienation caused by the machine, but by the non-knowledge of its nature and its essence.” — [Simondon](../philosophers/simondon.md), On the Mode of Existence of Technical Objects, introduction
+
 > “Human knowledge and human power meet in one, for where the cause is not known the effect cannot be produced.” — [Bacon](../philosophers/bacon.md), Novum Organum, I, §3
 
 > “Our souls have grown corrupt in proportion as our sciences and arts have advanced toward perfection.” — [Rousseau](../philosophers/rousseau.md), Discourse on the Sciences and Arts (1750)

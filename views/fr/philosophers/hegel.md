@@ -19,6 +19,36 @@ Sommet et point de bascule de l'[idéalisme allemand](../movements/german-ideali
 
 ## Positions
 
+### [Place de l'homme dans la nature](../axes/human-place-nature.md)
+
+*positionné · inférable · mineure*
+
+Maîtrise 100%
+
+Hegel comprend la nature comme l'Idée sous la forme de l'être-autre : non comme une réalité dépourvue de sens avant l'intervention humaine, mais comme une manifestation de la raison qui n'est pas encore libre. Dans le rapport pratique, il reconnaît à la personne le droit absolu de s'approprier les choses extérieures et d'y mettre sa volonté, la chose n'ayant pas de fin en elle-même. L'analyse du travail montre comment la conscience servile, en formant l'objet, acquiert un rapport nouveau à elle-même. Ces textes favorisent la maîtrise, et n'établissent aucune mission de conservation de la nature.
+
+*Sources : Encyclopédie des sciences philosophiques, §247-251 · Principes de la philosophie du droit, §44 · Phénoménologie de l'esprit, IV, A (« Domination et servitude »)*
+
+### [Rapport à la technique](../axes/technology.md)
+
+*positionné · inférable · mineure*
+
+Techno-optimisme 70% · Techno-critique 30%
+
+Dans la « Téléologie », l'outil manifeste la **ruse de la raison**, qui se sert des propriétés des choses pour réaliser ses fins : par sa permanence, « la charrue est plus honorable que ne le sont immédiatement les jouissances qu'elle procure ». Dans la société civile, la division du travail rend pourtant l'activité plus abstraite et mécanique, jusqu'à permettre que la machine remplace l'homme. La pauvreté relève de la dynamique contradictoire de cette société et de la répartition de ses richesses, non de la machine prise isolément : Hegel valorise la puissance rationnelle des moyens tout en analysant leurs conditions sociales.
+
+*Sources : Science de la logique, logique subjective, « La téléologie » · Principes de la philosophie du droit, §198 et §243-245*
+
+### [Justice distributive](../axes/distributive-justice.md)
+
+*positionné · inférable · mineure*
+
+Égalitarisme 50% · Libertarianisme 50%
+
+Hegel défend la propriété comme première réalisation extérieure de la personne, sans faire de l'égalité des possessions une exigence du droit abstrait : ce que chacun possède, et combien, relève de la contingence. Mais cette défense ne transforme pas toute répartition issue du marché en répartition juste : la société civile produit une pauvreté qui exclut ses membres de ses avantages et peut engendrer une **populace**, privée du sentiment du droit et de l'honneur. L'assistance publique et les corporations de métier doivent répondre à cette exclusion, même si les paragraphes sur le paupérisme avouent une difficulté que Hegel ne résout pas.
+
+*Sources : Principes de la philosophie du droit, §41, §49, §200 · Principes de la philosophie du droit, §230, §241-245, §252-256*
+
 ### [Nature du réel](../axes/reality-nature.md)
 
 *positionné · explicite dans les textes · majeure*

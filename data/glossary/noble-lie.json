@@ -1,0 +1,30 @@
+{
+  "id": "noble-lie",
+  "term": {
+    "fr": "Beau mensonge (mensonge noble)",
+    "en": "Noble lie"
+  },
+  "aliases": {
+    "fr": [
+      "mensonge noble",
+      "noble mensonge"
+    ],
+    "en": [
+      "noble falsehood",
+      "magnificent myth"
+    ]
+  },
+  "definition": {
+    "fr": "Dans la <w id='republic-plato'>République</w>, <ph id='plato'>Platon</ph> imagine une fable que les gouvernants feraient croire aux citoyens : tous seraient nés de la même terre, mais avec un métal différent dans l'âme (or, argent, fer ou bronze), qui fixerait leur place dans la cité, un enfant pouvant toutefois changer de rang si son métal diffère de celui de ses parents. Ce « beau mensonge » doit les faire aimer leur cité comme une mère et accepter leur rang ; Socrate souhaite même que les gouvernants finissent par y croire.  L'expression désigne depuis tout mensonge politique justifié par le bien commun : peut-on tromper un peuple pour qu'il reste uni ? La question oppose la <ax id='TRUTH_VALUE' pole='VITAL_ILLUSION'>valeur des illusions</ax> à la <ax id='TRUTH_VALUE' pole='PRIMACY_OF_TRUTH'>primauté de la vérité</ax>, et pose celle de qui a le droit d'en décider (<c id='paternalisme'>paternalisme</c>).",
+    "en": "In the <w id='republic-plato'>Republic</w>, <ph id='plato'>Plato</ph> imagines a fable the rulers would have the citizens believe: all are born of the same earth, but with a different metal in their soul (gold, silver, iron or bronze), which sets their place in the city, though a child may change rank if their metal differs from their parents'. This \"noble lie\" is meant to make them love their city as a mother and accept their rank; Socrates even hopes the rulers themselves will come to believe it.  The phrase has since come to mean any political lie justified by the common good: may a people be deceived so that it stays united? The question sets the <ax id='TRUTH_VALUE' pole='VITAL_ILLUSION'>value of illusions</ax> against the <ax id='TRUTH_VALUE' pole='PRIMACY_OF_TRUTH'>primacy of truth</ax>, and raises the question of who has the right to decide (<c id='paternalisme'>paternalism</c>)."
+  },
+  "relatedAxes": [
+    "TRUTH_VALUE",
+    "SINCERITY",
+    "WHO_DECIDES"
+  ],
+  "relatedTerms": [
+    "paternalisme"
+  ],
+  "updatedAt": "2026-10-21T00:00:00.000Z"
+}

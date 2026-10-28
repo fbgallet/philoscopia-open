@@ -49,13 +49,17 @@ La valeur morale s'attache aux ensembles écologiques eux-mêmes : espèces, éc
 ## Arguments
 
 - *Anthropocentrisme* · pour : [La dignité de la personne](../arguments/anthropocentrism-dignity.md)
+- *Anthropocentrisme* · contre : [Le chagrin pour l'animal](../arguments/anthropocentrism-grief-objection.md)
 - *Anthropocentrisme* · contre : [L'argument des cas marginaux](../arguments/anthropocentrism-marginal-cases-objection.md)
 - *Pathocentrisme* · pour : [« Peuvent-ils souffrir ? »](../arguments/pathocentrism-can-they-suffer.md)
+- *Pathocentrisme* · contre : [Le renard et le lapin](../arguments/pathocentrism-predation-objection.md)
 - *Pathocentrisme* · contre : [La sensibilité, une frontière arbitraire ?](../arguments/pathocentrism-reverence-objection.md)
 - *Biocentrisme* · pour : [Le respect de la vie](../arguments/biocentrism-reverence-for-life.md)
+- *Biocentrisme* · contre : [L'antibiotique](../arguments/biocentrism-antibiotic-objection.md)
 - *Biocentrisme* · contre : [Un bien, mais pour qui ?](../arguments/biocentrism-no-interests-objection.md)
 - *Écocentrisme* · pour : [L'éthique de la terre](../arguments/ecocentrism-land-ethic.md)
 - *Écocentrisme* · contre : [Le tout contre l'individu](../arguments/ecocentrism-environmental-fascism-objection.md)
+- *Écocentrisme* · contre : [Le retour du loup](../arguments/ecocentrism-returning-wolf-objection.md)
 
 ## Relations de fondation
 

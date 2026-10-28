@@ -1,0 +1,34 @@
+{
+  "id": "unity-of-knowing-and-acting",
+  "term": {
+    "fr": "Unité du savoir et de l'agir",
+    "en": "Unity of knowing and acting"
+  },
+  "aliases": {
+    "fr": [
+      "zhi xing he yi"
+    ],
+    "en": [
+      "zhi xing he yi",
+      "unity of knowledge and action"
+    ]
+  },
+  "definition": {
+    "fr": "Thèse de <ph id='wang-yangming'>Wang Yangming</ph> (zhī xíng hé yī, 知行合一) : savoir vraiment le bien, c'est déjà le faire. Celui qui dit connaître la piété filiale sans l'exercer ne la connaît pas encore, de même que voir une belle couleur et l'aimer ne font qu'un. La formule s'oppose à l'idée qu'on étudierait d'abord pour agir ensuite ; elle a fait de Wang une référence pour les réformateurs japonais du XIXe siècle.",
+    "en": "<ph id='wang-yangming'>Wang Yangming</ph>'s thesis (zhī xíng hé yī, 知行合一): truly to know the good is already to do it. Whoever claims to know filial piety without practising it does not yet know it, just as seeing a beautiful colour and loving it are one and the same act. The formula stands against the idea that one should first study and only then act; it made Wang a reference for nineteenth-century Japanese reformers."
+  },
+  "relatedAxes": [
+    "INTERIORITY"
+  ],
+  "relatedTerms": [
+    "liangzhi"
+  ],
+  "figure": {
+    "slug": "wang-yangming",
+    "name": {
+      "fr": "Wang Yangming",
+      "en": "Wang Yangming"
+    }
+  },
+  "updatedAt": "2026-10-10T00:00:00.000Z"
+}

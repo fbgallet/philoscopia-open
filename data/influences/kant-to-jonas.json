@@ -1,0 +1,16 @@
+{
+  "id": "kant-to-jonas",
+  "from": { "kind": "PHILOSOPHER", "slug": "kant" },
+  "to": { "kind": "PHILOSOPHER", "slug": "jonas" },
+  "directness": "ATTESTED",
+  "mode": "REINTERPRETS",
+  "strength": "MEDIUM",
+  "note": {
+    "fr": "<ph id='jonas'>Jonas</ph> reformule l'<c id='categorical-imperative'>impératif catégorique</c> de <ph id='kant'>Kant</ph> pour l'âge technique : non plus la cohérence de la maxime, mais la compatibilité des effets de l'action avec la permanence de l'humanité. Il en conteste aussi le fondement, une loi formelle de la raison, et l'horizon, limité aux contemporains.",
+    "en": "<ph id='jonas'>Jonas</ph> reformulates <ph id='kant'>Kant</ph>'s <c id='categorical-imperative'>categorical imperative</c> for the technological age: no longer the consistency of the maxim, but the compatibility of the effects of action with the permanence of humanity. He also contests its ground, a formal law of reason, and its horizon, limited to contemporaries."
+  },
+  "sources": [
+    { "fr": "Jonas, Le Principe responsabilité (1979), ch. I et IV", "en": "Jonas, The Imperative of Responsibility (1979), ch. I and IV" }
+  ],
+  "updatedAt": "2026-10-11T00:00:00.000Z"
+}

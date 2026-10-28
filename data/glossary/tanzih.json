@@ -1,0 +1,26 @@
+{
+  "id": "tanzih",
+  "term": {
+    "fr": "Tanzīh (transcendance de Dieu)",
+    "en": "Tanzīh (God's transcendence)"
+  },
+  "aliases": {
+    "fr": [
+      "tanzih"
+    ],
+    "en": [
+      "tanzih"
+    ]
+  },
+  "definition": {
+    "fr": "Dans la théologie islamique, le tanzīh consiste à affirmer que Dieu est exempt des limitations, des imperfections et des ressemblances propres aux créatures. Les <mv>muʿtazilites</mv> insistent notamment sur l'unité divine en refusant de poser des attributs éternels réellement distincts de l'essence, sans nier que Dieu soit savant ou puissant. Leurs adversaires peuvent leur reprocher de vider les attributs de leur réalité. Le terme s'oppose au tashbīh, l'assimilation de Dieu aux créatures.",
+    "en": "In Islamic theology, tanzīh means affirming that God is free of the limitations, imperfections and likenesses proper to creatures. The <mv>Muʿtazilites</mv> stress divine unity in particular, refusing to posit eternal attributes really distinct from the essence, without denying that God is knowing or powerful. Their opponents may reproach them for emptying the attributes of their reality. The term is opposed to tashbīh, the likening of God to creatures."
+  },
+  "relatedAxes": [
+    "TRANSCENDENCE"
+  ],
+  "relatedTerms": [
+    "immanence"
+  ],
+  "updatedAt": "2026-10-10T00:00:00.000Z"
+}

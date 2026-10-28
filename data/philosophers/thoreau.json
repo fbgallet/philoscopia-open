@@ -15,6 +15,7 @@
   "nationality": { "fr": "Américain", "en": "American" },
   "birth": 1817,
   "death": 1862,
+  "language": "eng",
   "movements": [],
   "updatedAt": "2026-07-18T00:00:00.000Z",
   "validation": { "method": "NOT_VALIDATED" }

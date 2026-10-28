@@ -1,0 +1,17 @@
+{
+  "id": "nyaya-vs-madhyamaka",
+  "from": { "kind": "MOVEMENT", "slug": "nyaya" },
+  "to": { "kind": "MOVEMENT", "slug": "madhyamaka" },
+  "directness": "ATTESTED",
+  "mode": "REACTS_AGAINST",
+  "strength": "STRONG",
+  "note": {
+    "fr": "<ph id='nagarjuna'>Nāgārjuna</ph> retourne contre le <mv id='nyaya'>Nyāya</mv> l'exigence de fondement : si les moyens de connaissance valident tout, qu'est-ce qui les valide eux-mêmes ? Il s'attaque aussi à la liste des catégories du débat que le Nyāya avait codifiée.",
+    "en": "<ph id='nagarjuna'>Nāgārjuna</ph> turns the demand for grounding back on <mv id='nyaya'>Nyāya</mv>: if the means of knowledge validate everything, what validates them? He also attacks the list of debate categories Nyāya had codified."
+  },
+  "sources": [
+    { "fr": "Nāgārjuna, Vigrahavyāvartanī", "en": "Nāgārjuna, Vigrahavyāvartanī (The Dispeller of Disputes)" },
+    { "fr": "Nāgārjuna, Vaidalyaprakaraṇa", "en": "Nāgārjuna, Vaidalyaprakaraṇa" }
+  ],
+  "updatedAt": "2026-10-09T00:00:00.000Z"
+}

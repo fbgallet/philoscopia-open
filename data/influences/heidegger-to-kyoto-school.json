@@ -1,0 +1,17 @@
+{
+  "id": "heidegger-to-kyoto-school",
+  "from": { "kind": "PHILOSOPHER", "slug": "heidegger" },
+  "to": { "kind": "MOVEMENT", "slug": "kyoto-school" },
+  "directness": "ATTESTED",
+  "mode": "REINTERPRETS",
+  "strength": "STRONG",
+  "note": {
+    "fr": "<ph id='tanabe'>Tanabe</ph>, <ph id='nishitani'>Nishitani</ph> et Kuki Shūzō étudient auprès de <ph id='heidegger'>Heidegger</ph> à Fribourg. L'<mv id='kyoto-school'>école de Kyoto</mv> reprend sa question du néant et sa lecture du nihilisme, pour les porter vers la vacuité bouddhique, là où Heidegger restait dans l'horizon de l'être.",
+    "en": "<ph id='tanabe'>Tanabe</ph>, <ph id='nishitani'>Nishitani</ph> and Kuki Shūzō studied with <ph id='heidegger'>Heidegger</ph> in Freiburg. The <mv id='kyoto-school'>Kyoto School</mv> took up his question of nothingness and his reading of nihilism and carried them toward Buddhist emptiness, where Heidegger remained within the horizon of being."
+  },
+  "sources": [
+    { "fr": "Nishitani, Shūkyō to wa nanika", "en": "Nishitani, Religion and Nothingness" },
+    { "fr": "Tanabe, Zangedō to shite no tetsugaku", "en": "Tanabe, Philosophy as Metanoetics" }
+  ],
+  "updatedAt": "2026-10-09T00:00:00.000Z"
+}

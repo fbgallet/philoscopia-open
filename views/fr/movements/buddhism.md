@@ -2,7 +2,7 @@
 
 # Bouddhisme
 
-*500 av. J.-C. – ?*
+*v. 450 av. J.-C. – v. 1419, tradition vivante*
 
 Le bouddhisme naît de l'éveil de Siddhārtha Gautama, le Bouddha, vers le Ve siècle avant notre ère dans la plaine du Gange, et de la communauté de pratiquants, la communauté monastique (saṅgha), qu'il rassemble autour de lui. La tradition se transmet par les Trois Joyaux, le Bouddha, sa doctrine (le Dharma) et le saṅgha, et par un vaste canon de discours d'abord récités puis fixés par écrit. Face à un problème de fond, l'[insatisfaction (dukkha)](../glossary/dukkha.md) qui traverse toute existence soumise au cycle des renaissances, l'enseignement s'est diffusé dans toute l'Asie et différencié en grands véhicules : le Theravāda du Sud, le Mahāyāna de Chine, de Corée et du Japon, le Vajrayāna tibétain. Il a été approfondi par [Nāgārjuna](../philosophers/nagarjuna.md), penseur de la vacuité, et Dōgen, maître du zen, tout en gardant un noyau doctrinal et pratique commun.
 
@@ -226,8 +226,11 @@ Un être lui-même soumis au devenir et à la souffrance ne saurait être la sou
 
 ## Influence sur
 
+- **[Pyrrhon](../philosophers/pyrrho.md)** (réinterprète) : [Pyrrhon](../philosophers/pyrrho.md) accompagna Alexandre en Inde et y rencontra des « gymnosophistes ». Une parenté entre sa suspension du jugement et la pensée indienne, voire le [bouddhisme](../movements/buddhism.md), est défendue par certains historiens et contestée par d'autres : le lien reste une hypothèse.
 - **[Schopenhauer](../philosophers/schopenhauer.md)** (réinterprète) : [Schopenhauer](../philosophers/schopenhauer.md) trouve dans le [bouddhisme](../movements/buddhism.md) une confirmation orientale de sa pensée : la centralité de la souffrance, le détachement et la négation du vouloir-vivre comme voie de délivrance.
 - **[Vedānta (Advaita)](../movements/vedanta.md)** (réinterprète) : L'[Advaita Vedānta](../movements/vedanta.md) se forge dans un débat serré avec le [bouddhisme](../movements/buddhism.md) : [Gauḍapāda](../philosophers/gaudapada.md) puis [Śaṅkara](../philosophers/shankara.md) reprennent les outils dialectiques de la vacuité et des deux vérités, mais pour les recouler dans le non-dualisme des Upaniṣad, où l'absolu n'est pas vide mais Brahman. La proximité fut telle que les rivaux traitèrent Śaṅkara de « bouddhiste masqué ».
+- **[Néoconfucianisme](../movements/neo-confucianism.md)** (réagit contre) : Le [néoconfucianisme](../movements/neo-confucianism.md) se définit contre le [bouddhisme](../movements/buddhism.md), accusé de tenir le monde pour vide et de fuir les devoirs familiaux et politiques. Il lui emprunte pourtant ses questions sur l'esprit, la nature et la méditation, auxquelles il donne des réponses confucéennes.
+- **[Nyāya](../movements/nyaya.md)** (réagit contre) : Le [Nyāya](../movements/nyaya.md) mène pendant un millénaire une controverse serrée avec les logiciens du [bouddhisme](../movements/buddhism.md), Dignāga et Dharmakīrti : contre le non-soi, il défend un soi substantiel ; contre la théorie de l'[exclusion](../glossary/apoha.md) ([apoha](../glossary/apoha.md)), des universaux réels ; contre l'instantanéité des choses, leur durée.
 
 ---
 

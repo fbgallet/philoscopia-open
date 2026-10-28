@@ -1,0 +1,12 @@
+{
+  "id": "being-and-time-heidegger",
+  "title": { "fr": "Être et temps", "en": "Being and Time" },
+  "originalTitle": "Sein und Zeit",
+  "author": { "slug": "heidegger", "name": { "fr": "Martin Heidegger", "en": "Martin Heidegger" } },
+  "year": 1927,
+  "presentation": {
+    "fr": "Le grand traité, resté inachevé, où <ph id='heidegger'>Heidegger</ph> repose la question du sens de l'être à partir de l'analyse de l'existence humaine, le <c id='dasein'>Dasein</c> : l'<c id='being-in-the-world'>être-au-monde</c>, le <c id='sorge'>souci</c>, le « <c id='das-man'>on</c> », l'<c id='being-toward-death'>être-pour-la-mort</c> et la temporalité. Seule la première partie a paru ; l'ouvrage a marqué toute la philosophie du XXe siècle.",
+    "en": "The great treatise, left unfinished, in which <ph id='heidegger'>Heidegger</ph> raises anew the question of the meaning of being through an analysis of human existence, <c id='dasein'>Dasein</c>: <c id='being-in-the-world'>being-in-the-world</c>, <c id='sorge'>care</c>, the \"<c id='das-man'>they</c>\", <c id='being-toward-death'>being-toward-death</c> and temporality. Only the first part appeared; the book marked the whole of twentieth-century philosophy."
+  },
+  "updatedAt": "2026-10-11T00:00:00.000Z"
+}

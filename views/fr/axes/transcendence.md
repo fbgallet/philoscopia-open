@@ -14,7 +14,7 @@ Si le sacré est ici, dans ce monde, la quête spirituelle se tourne vers la vie
 
 Il n'y a pas d'arrière-monde : ce qui mérite d'être appelé sacré ou divin réside dans ce monde-ci, dans la nature, la vie et ses puissances. Chercher le sens ailleurs, c'est déprécier la seule réalité qui soit.
 
-*[Spinoza](../philosophers/spinoza.md) · [Nietzsche](../philosophers/nietzsche.md) · Deleuze*
+*[Spinoza](../philosophers/spinoza.md) · [Nietzsche](../philosophers/nietzsche.md) · [Deleuze](../philosophers/deleuze.md)*
 
 ### Transcendance
 

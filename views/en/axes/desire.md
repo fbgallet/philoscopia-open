@@ -14,7 +14,7 @@ Desire is at once what sets us in motion and what torments us: to extinguish it 
 
 Desire is not a lack to be filled but a creative power to be affirmed and intensified. To restrain one's desires is to diminish oneself: the successful life says yes to what moves through it and carries it beyond itself.
 
-*[Nietzsche](../philosophers/nietzsche.md) · Deleuze*
+*[Nietzsche](../philosophers/nietzsche.md) · [Deleuze](../philosophers/deleuze.md)*
 
 ### Reasoned selection
 

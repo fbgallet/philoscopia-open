@@ -1,0 +1,31 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "al-kindi",
+  "stub": true,
+  "name": { "fr": "al-Kindī", "en": "al-Kindī" },
+  "fullName": { "fr": "Abū Yūsuf al-Kindī", "en": "Abū Yūsuf al-Kindī" },
+  "aliases": {
+    "fr": [
+      "Alkindus"
+    ],
+    "en": [
+      "Alkindus"
+    ]
+  },
+  "summary": {
+    "fr": "Premier philosophe de langue arabe, surnommé « le philosophe des Arabes » : il ouvre la <mv id='falsafa'>falsafa</mv> en adaptant Aristote et les néoplatoniciens à la pensée islamique.",
+    "en": "The first philosopher writing in Arabic, nicknamed \"the philosopher of the Arabs\": he opened <mv id='falsafa'>falsafa</mv> by adapting Aristotle and the Neoplatonists to Islamic thought."
+  },
+  "birth": 801,
+  "death": 873,
+  "nationality": { "fr": "Arabe", "en": "Arab" },
+  "datesApprox": true,
+  "language": "ara",
+  "movements": [
+    "falsafa"
+  ],
+  "updatedAt": "2026-10-09T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

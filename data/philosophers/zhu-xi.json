@@ -1,0 +1,31 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "zhu-xi",
+  "stub": true,
+  "name": { "fr": "Zhu Xi", "en": "Zhu Xi" },
+  "aliases": {
+    "fr": [
+      "Tchou Hi",
+      "Zhuzi"
+    ],
+    "en": [
+      "Chu Hsi",
+      "Zhuzi"
+    ]
+  },
+  "summary": {
+    "fr": "Grand synthétiseur du <mv id='neo-confucianism'>néoconfucianisme</mv>, dont les commentaires des Quatre Livres font autorité en Chine pendant sept siècles.",
+    "en": "The great synthesizer of <mv id='neo-confucianism'>Neo-Confucianism</mv>, whose commentaries on the Four Books held authority in China for seven centuries."
+  },
+  "birth": 1130,
+  "death": 1200,
+  "nationality": { "fr": "Chinois", "en": "Chinese" },
+  "language": "lzh",
+  "movements": [
+    "neo-confucianism"
+  ],
+  "updatedAt": "2026-10-09T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

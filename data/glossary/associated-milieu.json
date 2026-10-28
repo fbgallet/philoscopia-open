@@ -1,0 +1,13 @@
+{
+  "id": "associated-milieu",
+  "term": { "fr": "Milieu associé", "en": "Associated milieu" },
+  "aliases": { "fr": ["milieu techno-géographique"], "en": ["techno-geographical milieu"] },
+  "definition": {
+    "fr": "Chez <ph id='simondon'>Simondon</ph>, le milieu qu'un objet technique concret crée autour de lui et qui le conditionne en retour, à la fois technique et naturel. Dans la turbine Guimbal, l'eau du fleuve entraîne la turbine et refroidit en même temps l'alternateur, ce qui rend possible un dispositif qui n'aurait pas fonctionné hors de ce couplage. Ce n'est pas n'importe quel environnement : c'est un milieu que l'objet fait exister et dont son fonctionnement dépend.",
+    "en": "In <ph id='simondon'>Simondon</ph>, the milieu that a concrete technical object creates around itself and which conditions it in return, at once technical and natural. In the Guimbal turbine, the river water drives the turbine and at the same time cools the alternator, which makes possible a device that would not have worked outside this coupling. It is not just any environment: it is a milieu the object brings into existence and on which its functioning depends."
+  },
+  "relatedAxes": ["TECHNOLOGY", "HUMAN_PLACE_NATURE"],
+  "relatedTerms": ["concretization", "individuation"],
+  "figure": { "slug": "simondon", "name": { "fr": "Gilbert Simondon", "en": "Gilbert Simondon" } },
+  "updatedAt": "2026-10-11T00:00:00.000Z"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "sorge",
+  "term": { "fr": "Souci (Sorge)", "en": "Care (Sorge)" },
+  "aliases": { "fr": ["Sorge"], "en": ["Sorge"] },
+  "definition": {
+    "fr": "Chez <ph id='heidegger'>Heidegger</ph>, le souci n'est ni l'inquiétude psychologique ni la sollicitude morale : c'est le nom de l'être du <c id='dasein'>Dasein</c> pris comme un tout. Exister, c'est être toujours déjà en avant de soi (projeté vers ses possibilités), déjà dans un monde (jeté dans une situation qu'on n'a pas choisie) et auprès des choses dont on se préoccupe. Être et temps montre ensuite que le sens de cette structure est la temporalité. À distinguer du <c id='care-ethics'>care</c> des éthiques contemporaines, qui désigne le soin porté à autrui.",
+    "en": "In <ph id='heidegger'>Heidegger</ph>, care is neither psychological worry nor moral solicitude: it is the name of the being of <c id='dasein'>Dasein</c> taken as a whole. To exist is always already to be ahead of oneself (projected toward one's possibilities), already in a world (thrown into a situation one did not choose) and alongside the things one is concerned with. Being and Time then shows that the meaning of this structure is temporality. Not to be confused with the <c id='care-ethics'>care</c> of contemporary ethics, which means looking after others."
+  },
+  "relatedAxes": ["TIME_ORIENTATION"],
+  "relatedTerms": ["dasein", "being-in-the-world", "care-ethics"],
+  "figure": { "slug": "heidegger", "name": { "fr": "Martin Heidegger", "en": "Martin Heidegger" } },
+  "updatedAt": "2026-10-11T00:00:00.000Z"
+}

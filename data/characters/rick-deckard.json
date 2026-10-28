@@ -1,0 +1,143 @@
+{
+  "kind": "CHARACTER",
+  "id": "rick-deckard",
+  "name": {
+    "fr": "Rick Deckard",
+    "en": "Rick Deckard"
+  },
+  "tagline": {
+    "fr": "Le policier chargé de distinguer les humains des êtres qu'il doit abattre.",
+    "en": "The cop whose job is to tell humans apart from the beings he must kill."
+  },
+  "summary": {
+    "fr": "Ancien blade runner, Deckard est contraint par son ancien chef de reprendre du service pour traquer quatre réplicants revenus sur Terre. Il fait son travail sans état d'âme apparent : pour lui, les réplicants sont des machines comme les autres. Le film le suit d'enquête en enquête, et c'est par ce qu'il fait, plus que par ce qu'il dit, qu'on le voit perdre la certitude de savoir où passe la frontière.",
+    "en": "A former blade runner, Deckard is forced by his old boss to go back to work and hunt down four replicants who have returned to Earth. He does the job with no visible qualms: to him, replicants are machines like any other. The film follows him from one lead to the next, and it is through what he does, more than what he says, that we see him lose his certainty about where the line runs."
+  },
+  "work": {
+    "fictionId": "blade-runner",
+    "title": {
+      "fr": "Blade Runner",
+      "en": "Blade Runner"
+    },
+    "author": {
+      "fr": "Ridley Scott",
+      "en": "Ridley Scott"
+    },
+    "year": 1982,
+    "medium": "FILM"
+  },
+  "entries": [
+    {
+      "axisId": "ESSENCE",
+      "status": "POSITIONED",
+      "practicedValue": {
+        "kind": "scalar",
+        "value": 0.3
+      },
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.7
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Avant de faire passer le test à Rachael, Deckard explique que les réplicants sont des machines comme les autres : utiles ou dangereux, et dans le premier cas, ce n'est pas son affaire. Ses propos réduisent les réplicants à leur fonction : ce n'est pas une théorie de l'essence, mais c'est la logique de son métier, qui place ce qu'on est dans ce pour quoi on a été fait, du côté de l'<ax id='ESSENCE' pole='ESSENTIALISM'>essentialisme</ax>. <spo>Ses actes finissent par le démentir : il traite Rachael comme quelqu'un qui peut choisir sa vie, et non comme un produit à retirer, et part avec elle alors qu'elle figure sur la liste. Cette reconnaissance reste ambiguë, car il la contraint aussi.</spo> Ses idées sur les réplicants, il ne les formule plus ; sa position se lit dans ses gestes, ce qui justifie qu'elle reste modérée.",
+          "en": "Before he tests Rachael, Deckard explains that replicants are like any other machine: either a benefit or a hazard, and if they are a benefit, it is not his problem. His words reduce replicants to their function: not a theory of essence, but the logic of his trade, which locates what one is in what one was made for, on the side of <ax id='ESSENCE' pole='ESSENTIALISM'>essentialism</ax>. <spo>His acts end up contradicting him: he treats Rachael as someone who can choose her life rather than as a product to be retired, and leaves with her even though she is on the list. This recognition remains ambiguous, since he also coerces her.</spo> He never again states his views on replicants; his position shows in what he does, which is why it stays moderate."
+        },
+        "references": [
+          {
+            "fr": "La conversation avec Rachael chez Tyrell, avant le test",
+            "en": "The conversation with Rachael at Tyrell's, before the test"
+          },
+          {
+            "fr": "La dernière scène, la licorne et le départ (Final Cut)",
+            "en": "The final scene, the unicorn and the departure (Final Cut)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "MORAL_CIRCLE",
+      "status": "POSITIONED",
+      "practicedValue": {
+        "kind": "weights",
+        "weights": [
+          0.4,
+          0.6,
+          0,
+          0
+        ]
+      },
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.9,
+          0.1,
+          0,
+          0
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Au départ, Deckard tue sur ordre des êtres qui ont peur et qui souffrent, sans se demander ce qu'il leur doit : seuls les humains comptent, en pratique, dans son métier. <spo>Il abat Zhora dans le dos alors qu'elle s'enfuit. Puis Rachael lui sauve la vie, Batty l'épargne après lui avoir fait éprouver la peur des siens, et il finit par protéger une réplicante plutôt que de la retirer.</spo> Ses actes le font glisser vers le <ax id='MORAL_CIRCLE' pole='PATHOCENTRISM'>pathocentrisme</ax>, sans l'atteindre : son égard va d'abord à une réplicante particulière et à celui qui l'a épargné, non à tout être capable de souffrir. Ses propos du début, inférés ici plutôt qu'énoncés comme un principe, le plaçaient du côté opposé.",
+          "en": "At first Deckard kills, on orders, beings who are afraid and who suffer, without asking what he owes them: in practice, in his line of work, only humans count. <spo>He shoots Zhora in the back as she flees. Then Rachael saves his life, Batty spares him after making him feel the fear his kind live with, and he ends up protecting a replicant instead of retiring her.</spo> His acts move him toward <ax id='MORAL_CIRCLE' pole='PATHOCENTRISM'>pathocentrism</ax> without his reaching it: his concern goes first to one particular replicant and to the one who spared him, not to every being that can suffer. His early remarks, inferred here rather than stated as a principle, placed him on the opposite side."
+        },
+        "references": [
+          {
+            "fr": "La poursuite de Zhora",
+            "en": "The pursuit of Zhora"
+          },
+          {
+            "fr": "Le toit",
+            "en": "The rooftop"
+          },
+          {
+            "fr": "La dernière scène",
+            "en": "The final scene"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "VIOLENCE",
+      "status": "POSITIONED",
+      "practicedValue": {
+        "kind": "weights",
+        "weights": [
+          0,
+          0.3,
+          0.7,
+          0
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Deckard exerce la violence comme un outil de l'ordre public : il abat ceux que l'administration lui désigne, et le mot « retirer » sert à ne pas dire « tuer ». C'est la <ax id='VIOLENCE' pole='INSTRUMENTAL_VIOLENCE'>force comme instrument du politique</ax>, avec une part de justification défensive : les fugitifs ont tué, et ils l'attaquent. <spo>Zhora tente de l'étrangler avant de s'enfuir, mais il l'abat dans le dos pendant sa fuite, ce qui ôte à cette justification une bonne part de sa force.</spo>",
+          "en": "Deckard uses violence as a tool of public order: he kills whoever the administration points him to, and the word \"retire\" spares everyone from saying \"kill\". This is <ax id='VIOLENCE' pole='INSTRUMENTAL_VIOLENCE'>force as an instrument of politics</ax>, with a share of defensive justification: the fugitives have killed, and they attack him. <spo>Zhora tries to strangle him before running, but he shoots her in the back as she flees, which takes much of the force out of that justification.</spo>"
+        },
+        "references": [
+          {
+            "fr": "Le briefing chez Bryant",
+            "en": "The briefing in Bryant's office"
+          },
+          {
+            "fr": "La poursuite de Zhora",
+            "en": "The pursuit of Zhora"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    }
+  ],
+  "updatedAt": "2026-10-22T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

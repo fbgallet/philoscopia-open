@@ -1,0 +1,220 @@
+{
+  "kind": "MOVEMENT",
+  "id": "neo-confucianism",
+  "name": { "fr": "Néoconfucianisme", "en": "Neo-Confucianism" },
+  "tagline": {
+    "fr": "Répondre au bouddhisme sur son propre terrain : donner au confucianisme une métaphysique sans quitter le monde.",
+    "en": "Answering Buddhism on its own ground: giving Confucianism a metaphysics without leaving the world."
+  },
+  "aliases": {
+    "fr": [
+      "néoconfucéen",
+      "néoconfucéens",
+      "néo-confucianisme",
+      "néo-confucéen"
+    ],
+    "en": [
+      "Neo-Confucian",
+      "Neo-Confucians",
+      "Neoconfucianism"
+    ]
+  },
+  "summary": {
+    "fr": "Le néoconfucianisme est le grand renouveau de la pensée confucéenne sous les Song et les Ming (XIe-XVIe siècles). Face au <mv id='buddhism'>bouddhisme</mv> et au <mv id='taoism'>taoïsme</mv>, qui dominaient la réflexion métaphysique, des penseurs comme <ph>Zhou Dunyi</ph>, <ph>Zhang Zai</ph> et les frères Cheng dotent l'éthique <mv id='confucianism'>confucéenne</mv> d'une cosmologie, fondée sur le couple du <c id='li-principle'>principe</c> (<c id='li-principle'>li</c>) et du <c id='qi'>souffle</c> (<c id='qi'>qi</c>) ; ils polémiquent contre ces rivaux tout en leur empruntant questions et pratiques. <ph id='zhu-xi'>Zhu Xi</ph> en fait la synthèse et fixe le canon des <w>Quatre Livres</w>, qui sera la base des examens impériaux jusqu'en 1905. <ph>Lu Jiuyuan</ph>, puis <ph id='wang-yangming'>Wang Yangming</ph>, lui opposent une « école de l'esprit » centrée sur la <c id='liangzhi'>connaissance morale innée</c> (<c id='liangzhi'>liangzhi</c>). <dif>Ce débat traverse la tradition</dif>, qui connaît en Corée, avec Yi Hwang et Yi I, ses derniers grands rénovateurs retenus ici, gagne le Japon, est lue par <ph id='leibniz'>Leibniz</ph> et renaît au XXe siècle dans le « nouveau confucianisme ».",
+    "en": "Neo-Confucianism is the great renewal of Confucian thought under the Song and Ming dynasties (eleventh to sixteenth centuries). Facing <mv id='buddhism'>Buddhism</mv> and <mv id='taoism'>Taoism</mv>, which dominated metaphysical reflection, thinkers such as <ph>Zhou Dunyi</ph>, <ph>Zhang Zai</ph> and the Cheng brothers gave <mv id='confucianism'>Confucian</mv> ethics a cosmology founded on the pair of <c id='li-principle'>principle</c> (<c id='li-principle'>li</c>) and <c id='qi'>vital force</c> (<c id='qi'>qi</c>); they polemicized against these rivals while borrowing questions and practices from them. <ph id='zhu-xi'>Zhu Xi</ph> synthesized it and fixed the canon of the <w>Four Books</w>, which would form the basis of the imperial examinations until 1905. <ph>Lu Jiuyuan</ph> and later <ph id='wang-yangming'>Wang Yangming</ph> countered with a \"school of mind\" centred on <c id='liangzhi'>innate moral knowledge</c> (<c id='liangzhi'>liangzhi</c>). <dif>This debate runs through the tradition</dif>, which found in Korea, with Yi Hwang and Yi I, its last great renewers recorded here, spread to Japan, was read by <ph id='leibniz'>Leibniz</ph> and revived in the twentieth century as \"New Confucianism\"."
+  },
+  "area": "EAST_ASIA",
+  "period": {
+    "from": 1017,
+    "to": 1584,
+    "afterlife": "LIVING",
+    "phases": [
+      {
+        "name": { "fr": "Nouveau confucianisme", "en": "New Confucianism" },
+        "from": 1920,
+        "keyFigures": [
+          {
+            "slug": "xiong-shili",
+            "name": { "fr": "Xiong Shili", "en": "Xiong Shili" }
+          },
+          {
+            "slug": "mou-zongsan",
+            "name": { "fr": "Mou Zongsan", "en": "Mou Zongsan" }
+          }
+        ]
+      }
+    ]
+  },
+  "keyFigures": [
+    {
+      "slug": "zhu-xi",
+      "name": { "fr": "Zhu Xi", "en": "Zhu Xi" }
+    },
+    {
+      "slug": "wang-yangming",
+      "name": { "fr": "Wang Yangming", "en": "Wang Yangming" }
+    }
+  ],
+  "entries": [
+    {
+      "axisId": "TRANSCENDENCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.7
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Le <c id='li-principle'>principe</c> n'est pas dans un au-delà : il est présent tout entier en chaque chose, selon la doctrine qui tient le principe pour un et ses manifestations pour multiples (<c>li yi fen shu</c>). <pb>Contre le bouddhisme, accusé de tenir le monde pour illusoire et de fuir les relations humaines</pb>, les néoconfucéens affirment que la vérité ultime se trouve dans les devoirs des enfants, des parents et des sujets.",
+          "en": "<c id='li-principle'>Principle</c> does not lie in a beyond: it is wholly present in each thing, according to the doctrine that principle is one and its manifestations many (<c>li yi fen shu</c>). <pb>Against Buddhism, accused of taking the world as illusory and of fleeing human relations</pb>, the Neo-Confucians assert that ultimate truth lies in the duties of children, parents and subjects."
+        },
+        "references": [
+          {
+            "fr": "Zhu Xi et Lü Zuqian, Jinsilu, I et XIII",
+            "en": "Zhu Xi and Lü Zuqian, Reflections on Things at Hand (Jinsilu), I and XIII"
+          },
+          { "fr": "Zhang Zai, Ximing", "en": "Zhang Zai, The Western Inscription (Ximing)" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "HUMAN_VISION",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.7
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Dans la lignée de <ph id='mencius'>Mencius</ph>, la nature humaine est bonne, car elle n'est autre que le principe en nous. Le mal vient du souffle trouble qui l'obscurcit et des désirs égoïstes qui s'y greffent, d'où la nécessité de l'étude et de l'effort. <ph id='xunzi'>Xunzi</ph>, qui jugeait la nature mauvaise, est écarté de la transmission orthodoxe.",
+          "en": "In the line of <ph id='mencius'>Mencius</ph>, human nature is good, for it is nothing other than principle within us. Evil comes from the turbid vital force that obscures it and from the selfish desires grafted onto it, hence the need for study and effort. <ph id='xunzi'>Xunzi</ph>, who held human nature to be bad, was excluded from the orthodox transmission."
+        },
+        "references": [
+          { "fr": "Zhu Xi, Commentaire du Mencius, VI A", "en": "Zhu Xi, Commentary on the Mencius, 6A" },
+          { "fr": "Cheng Yi, dans le Jinsilu, I", "en": "Cheng Yi, in the Jinsilu, I" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "METAPHILOSOPHY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.2,
+          0,
+          0.8,
+          0
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Le but de l'étude est de devenir un <c id='the-sage'>sage</c>, et ce but est accessible à tous. <ph id='zhu-xi'>Zhu Xi</ph> y conduit par l'<c id='gewu'>investigation des choses</c> (<c id='gewu'>gewu</c>), la lecture méthodique des classiques et la <c>pratique de la quiétude</c> (<c>jingzuo</c>). <ph id='wang-yangming'>Wang Yangming</ph> y conduit par l'<c id='unity-of-knowing-and-acting'>unité du savoir et de l'agir</c> : savoir le bien sans le faire, c'est ne pas encore le savoir.",
+          "en": "The aim of study is to become a <c id='the-sage'>sage</c>, and that aim is open to all. <ph id='zhu-xi'>Zhu Xi</ph> leads there through the <c id='gewu'>investigation of things</c> (<c id='gewu'>gewu</c>), the methodical reading of the classics and the <c>practice of quiet sitting</c> (<c>jingzuo</c>). <ph id='wang-yangming'>Wang Yangming</ph> leads there through the <c id='unity-of-knowing-and-acting'>unity of knowing and acting</c>: to know the good without doing it is not yet to know it."
+        },
+        "references": [
+          {
+            "fr": "Zhu Xi, Zhuzi yulei, livres 7-14",
+            "en": "Zhu Xi, Classified Conversations (Zhuzi yulei), books 7-14"
+          },
+          {
+            "fr": "Wang Yangming, Chuanxilu, I, 5",
+            "en": "Wang Yangming, Instructions for Practical Living (Chuanxilu), I.5"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "DESIRE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.05,
+          0.6,
+          0.35
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "La maxime qui demande de préserver le <c id='li-principle'>principe céleste</c> (<c id='li-principle'>tianli</c>) et d'éteindre les <c>désirs humains</c> vise les désirs égoïstes, non les besoins naturels, qui relèvent eux-mêmes du principe. <dif>Elle fera reprocher au néoconfucianisme sa sévérité, notamment par <ph>Dai Zhen</ph> au XVIIIe siècle.</dif>",
+          "en": "The maxim calling for preserving <c id='li-principle'>heavenly principle</c> (<c id='li-principle'>tianli</c>) and extinguishing <c>human desires</c> targets selfish desires, not natural needs, which themselves belong to principle. <dif>It would earn Neo-Confucianism reproaches for its severity, notably from <ph>Dai Zhen</ph> in the eighteenth century.</dif>"
+        },
+        "references": [
+          { "fr": "Zhu Xi, Zhuzi yulei, livre 13", "en": "Zhu Xi, Zhuzi yulei, book 13" },
+          {
+            "fr": "Dai Zhen, Mengzi ziyi shuzheng",
+            "en": "Dai Zhen, Evidential Commentary on the Meanings of Terms in the Mencius"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "PARTIALITY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.7
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "L'<c id='ren'>humanité</c> (<c id='ren'>ren</c>) fait de l'homme de bien un seul corps avec le ciel, la terre et les dix mille êtres, mais elle s'exerce par degrés, des proches vers les lointains. Le néoconfucianisme maintient l'<c id='graded-love'>amour gradué</c> contre le souci impartial des <mv id='mohism'>mohistes</mv>.",
+          "en": "<c id='ren'>Humaneness</c> (<c id='ren'>ren</c>) makes the noble person one body with heaven, earth and the ten thousand things, but it is exercised by degrees, from those near to those far. Neo-Confucianism upholds <c id='graded-love'>graded love</c> against the impartial concern of the <mv id='mohism'>Mohists</mv>."
+        },
+        "references": [
+          { "fr": "Cheng Hao, Shiren pian", "en": "Cheng Hao, On Understanding Humaneness (Shiren pian)" },
+          { "fr": "Wang Yangming, Daxue wen", "en": "Wang Yangming, Inquiry on the Great Learning (Daxue wen)" }
+        ],
+        "strength": "STRONG"
+      }
+    }
+  ],
+  "structuring": [
+    {
+      "axisId": "TRANSCENDENCE",
+      "thesis": {
+        "fr": "Le principe ultime n'est pas hors du monde : il habite chaque chose et se vit dans les relations humaines.",
+        "en": "The ultimate principle is not outside the world: it dwells in each thing and is lived in human relations."
+      }
+    },
+    {
+      "axisId": "HUMAN_VISION",
+      "thesis": {
+        "fr": "La nature humaine est bonne : le mal n'est que l'obscurcissement d'un principe que chacun porte en soi.",
+        "en": "Human nature is good: evil is only the obscuring of a principle everyone carries within."
+      }
+    },
+    {
+      "axisId": "METAPHILOSOPHY",
+      "thesis": {
+        "fr": "Tout homme peut devenir un <c id='the-sage'>sage</c>, par l'étude et par une pratique où savoir et agir ne font qu'un.",
+        "en": "Anyone can become a <c id='the-sage'>sage</c>, through study and through a practice in which knowing and acting are one."
+      }
+    }
+  ],
+  "identity": {
+    "wikidata": "Q825754",
+    "wikipedia": {
+      "fr": "https://fr.wikipedia.org/wiki/N%C3%A9oconfucianisme",
+      "en": "https://en.wikipedia.org/wiki/Neo-Confucianism"
+    }
+  },
+  "updatedAt": "2026-10-09T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

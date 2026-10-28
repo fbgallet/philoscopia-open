@@ -1,0 +1,127 @@
+{
+  "id": "biocentrism-antibiotic-objection",
+  "kind": "OBJECTS",
+  "position": {
+    "axisId": "MORAL_CIRCLE",
+    "poleId": "BIOCENTRISM"
+  },
+  "name": {
+    "fr": "L'antibiotique",
+    "en": "The antibiotic"
+  },
+  "attacks": "POSITION",
+  "claim": {
+    "fr": "Vivre, c'est détruire des vies sans compter : si toute vie mérite le respect, ce respect ne guide plus aucun acte.",
+    "en": "To live is to destroy lives beyond counting: if every life deserves respect, that respect no longer guides any act."
+  },
+  "summary": {
+    "fr": "Nous détruisons des vies à chaque instant, ne serait-ce qu'en nous soignant. Un respect qui condamne chacun de nos gestes interdit de vivre ou devient une formule : il faudrait un critère plus étroit, comme la sensibilité.",
+    "en": "We destroy lives at every moment, if only by treating our illnesses. A respect that condemns our every gesture either forbids living or becomes an empty formula: a narrower criterion, such as sentience, would be needed."
+  },
+  "development": [
+    {
+      "fr": "Le biocentrisme accorde une valeur propre à tout vivant, sensible ou non : la plante, l'insecte, la bactérie.",
+      "en": "Biocentrism grants a value of its own to every living thing, sentient or not: the plant, the insect, the bacterium."
+    },
+    {
+      "fr": "Or chaque jour nous en détruisons par millions : pour soigner une infection, un antibiotique tue des milliards de bactéries ; en marchant, en cultivant, en bâtissant, nous écrasons, arrachons, déplaçons. Même un régime végétal se nourrit de vies. <ph id='schweitzer'>Schweitzer</ph>, médecin, savait qu'il lui fallait sacrifier des vies pour en sauver d'autres.",
+      "en": "Yet every day we destroy them by the million: to cure an infection, an antibiotic kills billions of bacteria; walking, farming, building, we crush, uproot, displace. Even a plant-based diet feeds on lives. <ph id='schweitzer'>Schweitzer</ph>, a doctor, knew he had to sacrifice some lives to save others."
+    },
+    {
+      "fr": "Un principe qui condamne chacun de nos gestes ne distingue plus rien : ou bien il interdit de vivre, ou bien on l'enfreint sans cesse, et il devient une simple formule.",
+      "en": "A principle that condemns our every gesture no longer tells anything apart: either it forbids living, or we break it constantly and it becomes a mere formula."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc le respect de toute vie, pris au sérieux, est paralysant ou vide : il faut un critère plus étroit, comme la <c id='sentience'>sensibilité</c>, pour que le respect guide vraiment nos choix.",
+    "en": "So respect for all life, taken seriously, is either paralysing or empty: a narrower criterion, such as <c id='sentience'>sentience</c>, is needed for respect to really guide our choices."
+  },
+  "difficulty": 1,
+  "responses": [
+    {
+      "id": "revise",
+      "label": {
+        "fr": "C'est vrai : on ne peut pas respecter chaque bactérie. Ce qui doit guider nos choix, c'est la capacité de souffrir.",
+        "en": "True: one cannot respect every bacterium. What should guide our choices is the capacity to suffer."
+      },
+      "hints": [
+        {
+          "axisId": "MORAL_CIRCLE",
+          "value": {
+            "kind": "weights",
+            "weights": [
+              0.05,
+              0.6,
+              0.3,
+              0.05
+            ]
+          },
+          "weight": 1
+        }
+      ],
+      "discussion": {
+        "fr": "Vous resserrez le cercle sur les êtres sensibles : moins large, il redevient praticable.",
+        "en": "You tighten the circle around sentient beings: narrower, it becomes workable again."
+      }
+    },
+    {
+      "id": "qualify",
+      "label": {
+        "fr": "Toutes les vies n'ont pas la même valeur, mais aucune n'est rien : détruire une vie demande une raison, et devoir choisir n'efface pas la perte.",
+        "en": "Not all lives have the same value, but none is nothing: destroying a life calls for a reason, and having to choose does not erase the loss."
+      },
+      "hints": [
+        {
+          "axisId": "MORAL_CIRCLE",
+          "value": {
+            "kind": "weights",
+            "weights": [
+              0.05,
+              0.2,
+              0.65,
+              0.1
+            ]
+          },
+          "weight": 1
+        }
+      ],
+      "discussion": {
+        "fr": "Vous gardez le respect de toute vie en admettant des degrés. <ph id='schweitzer'>Schweitzer</ph>, lui, refusait de hiérarchiser les vies, mais reconnaissait qu'il faut parfois sacrifier, sans jamais tenir la perte pour indifférente.",
+        "en": "You keep respect for all life while admitting degrees. <ph id='schweitzer'>Schweitzer</ph> himself refused to rank lives, but granted that sacrifice is sometimes necessary, without ever treating the loss as indifferent."
+      }
+    },
+    {
+      "id": "refute",
+      "label": {
+        "fr": "Le respect n'exige pas de ne rien détruire, mais de ne rien détruire sans nécessité : c'est ce qui distingue le médecin de celui qui arrache une fleur pour rien.",
+        "en": "Respect does not demand destroying nothing, but destroying nothing without need: that is what sets the doctor apart from the one who pulls up a flower for no reason."
+      },
+      "hints": [
+        {
+          "axisId": "MORAL_CIRCLE",
+          "value": {
+            "kind": "weights",
+            "weights": [
+              0,
+              0.1,
+              0.85,
+              0.05
+            ]
+          },
+          "weight": 0.5
+        }
+      ],
+      "discussion": {
+        "fr": "Vous faites du respect une règle de nécessité, non d'abstention : le principe ne paralyse pas, il oblige à justifier.",
+        "en": "You make respect a rule of necessity, not of abstention: the principle does not paralyse, it obliges us to justify."
+      }
+    }
+  ],
+  "targets": [
+    "biocentrism-reverence-for-life"
+  ],
+  "problems": [
+    "reverence-for-life"
+  ],
+  "updatedAt": "2026-10-11T00:00:00.000Z"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "indirect-duties",
+  "term": {
+    "fr": "Devoirs indirects",
+    "en": "Indirect duties"
+  },
+  "aliases": {
+    "fr": [
+      "devoir indirect"
+    ],
+    "en": [
+      "indirect duty"
+    ]
+  },
+  "definition": {
+    "fr": "Des devoirs indirects sont des devoirs que nous avons à l'égard d'un être sans les avoir envers lui. Pour <ph id='kant'>Kant</ph>, nous ne devons rien aux animaux en eux-mêmes, mais la cruauté envers eux est condamnable parce qu'elle endurcit le cœur et nous rend plus durs envers les hommes : le devoir porte, au fond, sur notre humanité.",
+    "en": "Indirect duties are duties we have regarding a being without having them toward it. For <ph id='kant'>Kant</ph>, we owe nothing to animals in themselves, but cruelty to them is wrong because it hardens the heart and makes us harsher toward people: the duty bears, at bottom, on our own humanity."
+  },
+  "relatedAxes": [
+    "MORAL_CIRCLE"
+  ],
+  "relatedTerms": [
+    "speciesism"
+  ],
+  "positions": [
+    {
+      "axisId": "MORAL_CIRCLE",
+      "poleId": "ANTHROPOCENTRISM"
+    }
+  ],
+  "updatedAt": "2026-10-11T00:00:00.000Z"
+}

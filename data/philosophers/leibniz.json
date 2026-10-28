@@ -27,6 +27,8 @@
     "fr": "Allemand",
     "en": "German"
   },
+  "language": "lat",
+  "otherLanguages": ["fra", "deu"],
   "movements": [
     "rationalism"
   ],

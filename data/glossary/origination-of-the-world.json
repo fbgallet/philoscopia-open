@@ -1,0 +1,29 @@
+{
+  "id": "origination-of-the-world",
+  "term": {
+    "fr": "Origination du monde (ḥudūth al-ʿālam)",
+    "en": "Origination of the world (ḥudūth al-ʿālam)"
+  },
+  "aliases": {
+    "fr": [
+      "ḥudūth al-ʿālam",
+      "argument cosmologique du kalām"
+    ],
+    "en": [
+      "ḥudūth al-ʿālam",
+      "kalām cosmological argument",
+      "kalam cosmological argument"
+    ]
+  },
+  "definition": {
+    "fr": "Dans le <mv id='kalam'>kalām</mv>, l'origination du monde désigne son commencement temporel et sert de point de départ à des arguments en faveur d'un créateur. Une démonstration médiévale soutient que les corps ne sont jamais sans accidents temporels, comme le mouvement et le repos, puis exclut une succession de tels accidents sans commencement. Elle s'oppose notamment aux doctrines d'un monde éternel défendues par <ph id='al-farabi'>al-Fārābī</ph>, <ph id='avicenna'>Avicenne</ph> et <ph id='averroes'>Averroès</ph>. Au XXe siècle, l'« argument cosmologique du kalām » en reprend le thème du commencement dans un cadre argumentatif renouvelé.",
+    "en": "In <mv id='kalam'>kalām</mv>, the origination of the world means its beginning in time, and serves as the starting point for arguments for a creator. One medieval demonstration holds that bodies are never without temporal accidents, such as motion and rest, and then rules out a beginningless succession of such accidents. It stands notably against the doctrines of an eternal world defended by <ph id='al-farabi'>al-Fārābī</ph>, <ph id='avicenna'>Avicenna</ph> and <ph id='averroes'>Averroes</ph>. In the twentieth century, the \"kalām cosmological argument\" took up its theme of a beginning in a renewed argumentative framework."
+  },
+  "relatedAxes": [
+    "GOD_EXISTENCE"
+  ],
+  "relatedTerms": [
+    "necessary-existent"
+  ],
+  "updatedAt": "2026-10-10T00:00:00.000Z"
+}

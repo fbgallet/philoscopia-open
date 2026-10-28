@@ -1,0 +1,192 @@
+{
+  "kind": "CHARACTER",
+  "id": "theo-faron",
+  "name": {
+    "fr": "Theo Faron",
+    "en": "Theo Faron"
+  },
+  "tagline": {
+    "fr": "Le désabusé qui continue d'avancer : même un remède, dit-il, viendrait trop tard, et il agit comme si rien n'était perdu.",
+    "en": "The disillusioned man who keeps walking: even a cure, he says, would come too late, and he acts as though there were still something to save."
+  },
+  "summary": {
+    "fr": "Ancien militant devenu fonctionnaire à Londres, Theo traverse un monde sans enfants avec un whisky et une ironie fatiguée. Son ex-femme Julian lui demande d'aider Kee, une jeune réfugiée, à quitter le pays. Il accepte d'abord pour de l'argent. Le film le suit pas à pas sans lui prêter de conversion ni de discours : c'est par ses gestes qu'il passe de l'indifférence au soin d'une personne.",
+    "en": "A former activist turned civil servant in London, Theo moves through a childless world with a whisky and a weary irony. His ex-wife Julian asks him to help Kee, a young refugee, get out of the country. He agrees at first for money. The film follows him step by step without lending him a conversion or a speech: it is through his gestures that he moves from indifference to caring for a person."
+  },
+  "work": {
+    "fictionId": "children-of-men",
+    "title": {
+      "fr": "Les Fils de l'homme",
+      "en": "Children of Men"
+    },
+    "author": {
+      "fr": "Alfonso Cuarón",
+      "en": "Alfonso Cuarón"
+    },
+    "year": 2006,
+    "medium": "FILM"
+  },
+  "entries": [
+    {
+      "axisId": "HOPE",
+      "status": "POSITIONED",
+      "practicedValue": {
+        "kind": "scalar",
+        "value": -0.35
+      },
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.7
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Au début, Theo affiche qu'il ne croit plus à rien : même si l'on trouvait un remède, dit-il en substance, il serait trop tard. Il ne prononce jamais de profession d'espoir. Mais il continue d'avancer avec Kee à chaque étape où il pourrait renoncer, <spo>jusqu'à ramer, blessé, vers le rendez-vous d'un bateau dont rien ne garantit qu'il viendra</spo>. Ce qu'il dit le place du côté de la <ax id='HOPE' pole='LUCIDITY_WITHOUT_HOPE'>lucidité sans espoir</ax> ; ce qu'il fait relève d'un espoir sans optimisme, qui agit sans certitude sur l'issue.",
+          "en": "At first Theo makes a show of believing in nothing: even if a cure were found, he says in substance, it would be too late. He never professes any hope. Yet he keeps going with Kee at every point where he could give up, <spo>until he rows, wounded, toward the meeting point of a ship that may never come</spo>. What he says places him on the side of <ax id='HOPE' pole='LUCIDITY_WITHOUT_HOPE'>lucidity without hope</ax>; what he does belongs to a hope without optimism, one that acts without certainty about the outcome."
+        },
+        "references": [
+          {
+            "fr": "L'ouverture : la mort de « bébé Diego » et l'attentat du café",
+            "en": "The opening: the death of \"Baby Diego\" and the café bombing"
+          },
+          {
+            "fr": "L'enlèvement de Theo par les Poissons",
+            "en": "Theo's kidnapping by the Fishes"
+          },
+          {
+            "fr": "La barque et le <i>Tomorrow</i>",
+            "en": "The rowboat and the <i>Tomorrow</i>"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "ETHICS_FOUNDATION",
+      "status": "POSITIONED",
+      "practicedValue": {
+        "kind": "weights",
+        "weights": [
+          0,
+          0.15,
+          0.05,
+          0.8
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Theo n'invoque ni principe ni calcul : il protège Kee<spo>, puis l'enfant,</spo> parce qu'elle est là et qu'elle dépend de lui. <spo>Quand il comprend que les Poissons veulent garder l'enfant pour leur cause, il fuit avec Kee plutôt que de laisser quiconque disposer d'elle.</spo> C'est l'attention concrète à une personne vulnérable de l'<c id='care-ethics'>éthique du care</c>, avec un refus de la traiter comme un simple moyen.",
+          "en": "Theo invokes neither principle nor calculation: he protects Kee<spo>, then the child,</spo> because she is there and depends on him. <spo>When he realizes the Fishes want to keep the child for their cause, he flees with Kee rather than let anyone dispose of her.</spo> This is the concrete attention to a vulnerable person of <c id='care-ethics'>care ethics</c>, together with a refusal to treat her as a mere means."
+        },
+        "references": [
+          {
+            "fr": "La ferme des Poissons : la réunion surprise par Theo",
+            "en": "The Fishes' farm: the meeting Theo overhears"
+          },
+          {
+            "fr": "La chambre de Marichka",
+            "en": "Marichka's room"
+          },
+          {
+            "fr": "La bataille de Bexhill et l'immeuble assiégé",
+            "en": "The battle of Bexhill and the besieged building"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "VIOLENCE",
+      "status": "POSITIONED",
+      "practicedValue": {
+        "kind": "weights",
+        "weights": [
+          0.4,
+          0.6,
+          0,
+          0
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Theo ne prend jamais part aux combats et traverse la guerre sans arme à feu. Mais il n'est pas pacifiste : <spo>pour sauver Kee et l'enfant, il frappe Syd et le met hors d'état de les livrer.</spo> Il refuse la force comme moyen d'une cause et ne l'admet que pour défendre une vie menacée, ce qui le rapproche de la guerre juste, avec une nette préférence pour l'évitement.",
+          "en": "Theo never takes part in the fighting and crosses the war without a gun. But he is no pacifist: <spo>to save Kee and the child, he strikes Syd and stops him from handing them over.</spo> He refuses force as the means of a cause and admits it only to defend a threatened life, which brings him close to just-war thinking, with a marked preference for avoiding combat."
+        },
+        "references": [
+          {
+            "fr": "L'embuscade sur la route",
+            "en": "The ambush on the road"
+          },
+          {
+            "fr": "La confrontation avec Syd",
+            "en": "The confrontation with Syd"
+          },
+          {
+            "fr": "La bataille de Bexhill et l'immeuble assiégé",
+            "en": "The battle of Bexhill and the besieged building"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "SELF_INTEREST",
+      "status": "POSITIONED",
+      "practicedValue": {
+        "kind": "scalar",
+        "value": 0.7
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Theo commence par monnayer son aide : il veut de l'argent pour les papiers de transit. Il finit par risquer sa vie pour une inconnue<spo> et son enfant, et par la donner</spo>. Le film fait de ce glissement de l'intérêt au don le mouvement même du personnage.",
+          "en": "Theo starts by putting a price on his help: he wants money for the transit papers. He ends up risking his life for a stranger<spo> and her child, and giving it</spo>. The film makes this slide from self-interest to self-giving the very movement of the character."
+        },
+        "references": [
+          {
+            "fr": "L'enlèvement de Theo par les Poissons",
+            "en": "Theo's kidnapping by the Fishes"
+          },
+          {
+            "fr": "La barque et le <i>Tomorrow</i>",
+            "en": "The rowboat and the <i>Tomorrow</i>"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "FUTURE_GENERATIONS",
+      "status": "POSITIONED",
+      "practicedValue": {
+        "kind": "scalar",
+        "value": -0.4
+      },
+      "epistemicStatus": "EXTRAPOLATED",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Theo agit pour une personne présente plus que pour les générations à venir, dont il ne parle jamais. <spo>Mais l'enfant qu'il protège est aussi, pour tous les autres personnages, l'avenir de l'espèce : en le conduisant jusqu'au bateau, il assume de fait une responsabilité envers ceux qui viendront, sans la formuler.</spo>",
+          "en": "Theo acts for a person who is present more than for generations to come, whom he never mentions. <spo>But the child he protects is also, for every other character, the future of the species: by taking it to the boat, he in fact shoulders a responsibility toward those who will come, without putting it into words.</spo>"
+        },
+        "references": [
+          {
+            "fr": "La barque et le <i>Tomorrow</i>",
+            "en": "The rowboat and the <i>Tomorrow</i>"
+          }
+        ],
+        "strength": "WEAK"
+      }
+    }
+  ],
+  "updatedAt": "2026-10-20T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

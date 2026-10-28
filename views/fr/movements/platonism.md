@@ -2,7 +2,7 @@
 
 # Platonisme
 
-*387 av. J.-C. – 529*
+*387 av. J.-C. – 529, tradition vivante*
 
 Tradition issue de l'Académie, l'école que [Platon](../philosophers/plato.md) fonda près d'Athènes vers 387 avant notre ère et qui se perpétua plusieurs siècles. Héritier de Socrate et adversaire des sophistes, Platon cherche, contre leur relativisme et le flux héraclitéen, un fondement stable au savoir et à la justice, qu'il déploie dans des dialogues, la *[République](../works/republic-plato.md)*, le *[Phédon](../works/phaedo-plato.md)*, le *[Banquet](../works/symposium-plato.md)*, où le raisonnement dialectique tient lieu de méthode. Après l'Académie ancienne, la tradition se renouvelle dans le néoplatonisme de Plotin au IIIe siècle, puis s'éteint avec la fermeture de l'école d'Athènes en 529. Reprise par Augustin et la patristique, elle a façonné durablement la métaphysique, la théologie et la mystique occidentales, et reste, selon le mot de Whitehead, l'horizon dont toute la philosophie postérieure serait une série de notes.
 
@@ -19,6 +19,16 @@ Tradition issue de l'Académie, l'école que [Platon](../philosophers/plato.md) 
 5. [Être ou avoir un corps](../axes/embodiment.md) : **L'âme immortelle, apparentée aux Idées, est le moi véritable ; le corps n'est qu'un tombeau dont il faut se délier pour contempler le vrai.**
 
 ## Positions
+
+### [Explication de la nature](../axes/causality.md)
+
+*positionné · inférable · majeure*
+
+Finalisme 90% · Mécanisme 10%
+
+Les traditions platoniciennes expliquent l'ordre de la nature par sa dépendance envers une réalité intelligible et supérieure, plutôt que par la seule rencontre des corps. Cette orientation prend des formes différentes : organisation démiurgique chez [Platon](../philosophers/plato.md), production liée à la contemplation chez [Plotin](../philosophers/plotinus.md), critique du mécanisme athée chez les platoniciens de Cambridge. Leur adversaire commun est moins la physique corpusculaire elle-même que sa prétention à expliquer seule l'ordre et l'activité de la nature.
+
+*Sources : Platon, Timée · Plotin, Ennéades, III, 2 et III, 8 · Cudworth, The True Intellectual System of the Universe (1678), ch. I et III, §37*
 
 ### [Sens de la souffrance](../axes/suffering-meaning.md)
 
@@ -279,6 +289,7 @@ Ce qui pense ne peut être de même nature que ce qui est pensé du dehors : l'�
 ## Influence sur
 
 - **[Boèce](../philosophers/boethius.md)** (réinterprète) : La Consolation de Philosophie de [Boèce](../philosophers/boethius.md) respire le [platonisme](../movements/platonism.md) tardif : remontée de l'âme vers le Bien, providence ordonnatrice, mal privé d'être, dans une prose qui christianise l'héritage sans le citer.
+- **[Falsafa](../movements/falsafa.md)** (synthétise) : La [falsafa](../movements/falsafa.md) lit Aristote à travers [Plotin](../philosophers/plotinus.md) et Proclus, dont des paraphrases arabes circulent sous le nom d'Aristote, la Théologie d'Aristote et le Livre des causes. La doctrine néoplatonicienne de l'[émanation](../glossary/emanation.md) y fusionne avec la métaphysique aristotélicienne pour donner la cosmologie des intellects d'al-Fārābī et d'Avicenne.
 - **[Scepticisme](../movements/skepticism.md)** (réinterprète) : Le [scepticisme](../movements/skepticism.md) académique naît à l'intérieur même de l'Académie de [Platon](../philosophers/plato.md) : [Arcésilas](../philosophers/arcesilaus.md), puis Carnéade, retournent la dialectique de l'école contre le [dogmatisme](../glossary/dogmatism.md), faisant de la suspension du jugement la vraie fidélité à la méthode socratique de l'examen. La recherche platonicienne du savoir se renverse ainsi en art de n'affirmer rien.
 - **[Nietzsche](../philosophers/nietzsche.md)** (réagit contre) : [Nietzsche](../philosophers/nietzsche.md) définit sa tâche comme un « renversement du platonisme » : contre le [platonisme](../movements/platonism.md) et son « monde vrai » qui dévalorise le sensible, il veut rendre à la terre et au corps leur innocence.
 

@@ -18,6 +18,26 @@ Born in Geneva in 1712, a self-taught man who became one of the greatest writers
 
 ## Positions
 
+### [Relation to authority](../axes/authority.md)
+
+*positioned · inferable · major*
+
+Authority 68% · Anarchism 33%
+
+Rousseau denies that force or the paternal model can ground legitimate political authority: it must proceed from a pact among associates. Citizens then obey laws of which they are collectively the authors, rather than the will of a particular individual. This autonomy does not abolish constraint, since the body politic may compel an associate to keep the pact: whoever refuses to obey the [general will](../glossary/volonte-generale.md) "shall be forced to be free". Sovereignty nonetheless remains bounded by the generality of its object and by the commitments that constitute the association.
+
+*Sources : The Social Contract, I, 2-4 and 6-7 · The Social Contract, II, 1-4*
+
+### [Moral circle](../axes/moral-circle.md)
+
+*positioned · inferable · minor*
+
+Pathocentrism 60% · Anthropocentrism 40%
+
+Rousseau separates the capacity to know natural law from the capacity to be protected by it: animals lack the first, but, sentient as we are, they "must partake of natural right". If we owe it to others not to harm them, it is less because they are rational than because they are sentient. The duty not to mistreat animals needlessly thus flows from [pity](../glossary/pitie.md), not from any share in reason: a direct extension of moral consideration that goes beyond strict anthropocentrism without establishing equality between human and animal interests.
+
+*Sources : Discourse on the Origin of Inequality, Preface · Emile, II*
+
 ### [The meaning of suffering](../axes/suffering-meaning.md)
 
 *positioned · inferable · minor*

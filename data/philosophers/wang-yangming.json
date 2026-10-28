@@ -1,0 +1,31 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "wang-yangming",
+  "stub": true,
+  "name": { "fr": "Wang Yangming", "en": "Wang Yangming" },
+  "fullName": { "fr": "Wang Shouren (Yangming)", "en": "Wang Shouren (Yangming)" },
+  "aliases": {
+    "fr": [
+      "Wang Shouren"
+    ],
+    "en": [
+      "Wang Shouren",
+      "Wang Yang-ming"
+    ]
+  },
+  "summary": {
+    "fr": "Lettré, homme d'État et général, chef de file de l'« école de l'esprit » du <mv id='neo-confucianism'>néoconfucianisme</mv>, penseur de l'unité du savoir et de l'agir.",
+    "en": "Scholar, statesman and general, leading figure of the \"school of mind\" within <mv id='neo-confucianism'>Neo-Confucianism</mv>, thinker of the unity of knowing and acting."
+  },
+  "birth": 1472,
+  "death": 1529,
+  "nationality": { "fr": "Chinois", "en": "Chinese" },
+  "language": "lzh",
+  "movements": [
+    "neo-confucianism"
+  ],
+  "updatedAt": "2026-10-09T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

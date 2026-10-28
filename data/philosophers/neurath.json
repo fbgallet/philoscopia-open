@@ -1,0 +1,27 @@
+{
+  "kind": "PHILOSOPHER",
+  "stub": true,
+  "id": "neurath",
+  "name": {
+    "fr": "Otto Neurath",
+    "en": "Otto Neurath"
+  },
+  "summary": {
+    "fr": "Philosophe et économiste autrichien du Cercle de Vienne : son image du bateau qu'on répare en pleine mer (1932) est devenue l'emblème du cohérentisme.",
+    "en": "Austrian philosopher and economist of the Vienna Circle: his image of the ship repaired at sea (1932) became the emblem of coherentism."
+  },
+  "nationality": {
+    "fr": "Autrichien",
+    "en": "Austrian"
+  },
+  "birth": 1882,
+  "death": 1945,
+  "language": "deu",
+  "movements": [
+    "analytic-philosophy"
+  ],
+  "updatedAt": "2026-10-28T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

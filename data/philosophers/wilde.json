@@ -15,6 +15,7 @@
   "nationality": { "fr": "Irlandais", "en": "Irish" },
   "birth": 1854,
   "death": 1900,
+  "language": "eng",
   "movements": [],
   "updatedAt": "2026-07-13T00:00:00.000Z",
   "validation": { "method": "NOT_VALIDATED" }

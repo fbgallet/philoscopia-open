@@ -16,7 +16,7 @@
 
 **⇒** Donc tout être sensible entre dans le cercle moral, et à intérêts comparables, une souffrance égale pèse d'un poids égal, qu'elle soit humaine ou animale.
 
-**Contesté par** : [La sensibilité, une frontière arbitraire ?](../arguments/pathocentrism-reverence-objection.md)
+**Contesté par** : [La sensibilité, une frontière arbitraire ?](../arguments/pathocentrism-reverence-objection.md) · [Le renard et le lapin](../arguments/pathocentrism-predation-objection.md)
 
 **Porte sur les problèmes** : [Le critère du statut moral](../axes/moral-circle.md) · [Le privilège de l'espèce](../axes/moral-circle.md) · [Bien-être ou droits](../axes/moral-circle.md)
 

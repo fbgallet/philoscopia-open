@@ -1,0 +1,124 @@
+{
+  "id": "foundationalism-own-research-objection",
+  "kind": "OBJECTS",
+  "position": {
+    "axisId": "EPISTEMIC_JUSTIFICATION",
+    "poleId": "FOUNDATIONALISM"
+  },
+  "name": {
+    "fr": "Faire ses propres recherches",
+    "en": "Doing your own research"
+  },
+  "attacks": "POSITION",
+  "claim": {
+    "fr": "Ne croire que ce qu'on a vérifié soi-même paraît rigoureux ; c'est impossible, et c'est souvent le premier pas vers le complotisme.",
+    "en": "Believing only what you have checked yourself sounds rigorous; it is impossible, and often the first step toward conspiracism."
+  },
+  "summary": {
+    "fr": "Presque tout ce que nous savons vient des autres. Qui prétend tout vérifier soi-même ne s'affranchit pas de cette dépendance : il remplace les sources éprouvées par des sources pires.",
+    "en": "Almost everything we know comes from others. Whoever claims to check everything themselves does not escape this dependence: they replace proven sources with worse ones."
+  },
+  "development": [
+    {
+      "fr": "Le fondationnalisme veut que tout savoir remonte à des croyances de base, justifiées par l'expérience ou l'évidence. Transposé dans la vie ordinaire, cet idéal prend souvent une forme plus rude : ne croire que ce qu'on a constaté soi-même.",
+      "en": "Foundationalism wants all knowledge to trace back to basic beliefs, justified by experience or self-evidence. Carried into ordinary life, this ideal often takes a cruder form: believing only what one has observed oneself."
+    },
+    {
+      "fr": "Or presque tout ce que nous savons, nous le tenons des autres : que la Terre tourne, que les microbes causent des maladies, et jusqu'à notre propre date de naissance. Personne ne peut tout vérifier : c'est la <c id='epistemic-dependence'>dépendance épistémique</c>, la condition de tout savoir humain.",
+      "en": "Yet almost everything we know we hold from others: that the Earth turns, that germs cause disease, even our own date of birth. No one can check everything: this is <c id='epistemic-dependence'>epistemic dependence</c>, the condition of all human knowledge."
+    },
+    {
+      "fr": "Celui qui « fait ses propres recherches » ne s'en affranchit pas : il remplace les sources éprouvées par celles qu'il a choisies, une vidéo, un forum, un inconnu qui « ose dire ». Refuser de dépendre conduit à dépendre plus mal.",
+      "en": "Whoever \"does their own research\" does not escape it: they replace proven sources with ones they have picked, a video, a forum, a stranger who \"dares to say it.\" Refusing to depend leads to depending worse."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc l'idéal de tout fonder sur ses propres évidences, transporté dans la vie ordinaire, ne fait pas des esprits libres, mais des esprits livrés à de pires sources.",
+    "en": "So the ideal of grounding everything on one's own evidence, carried into ordinary life, does not make free minds, but minds handed over to worse sources."
+  },
+  "difficulty": 1,
+  "responses": [
+    {
+      "id": "revise",
+      "label": {
+        "fr": "C'est vrai : savoir, c'est surtout savoir à qui se fier.",
+        "en": "True: knowing is mostly knowing whom to trust."
+      },
+      "hints": [
+        {
+          "axisId": "EPISTEMIC_JUSTIFICATION",
+          "value": {
+            "kind": "weights",
+            "weights": [
+              0.25,
+              0.1,
+              0.65
+            ]
+          },
+          "weight": 1
+        }
+      ],
+      "discussion": {
+        "fr": "Vous rejoignez le fiabilisme : ce qui compte est la fiabilité des sources, non la vérification personnelle.",
+        "en": "You join reliabilism: what counts is the reliability of sources, not personal checking."
+      }
+    },
+    {
+      "id": "qualify",
+      "label": {
+        "fr": "Je ne peux pas tout vérifier, mais je peux vérifier comment une affirmation a été établie, sur quelles observations.",
+        "en": "I cannot check everything, but I can check how a claim was established, on what observations."
+      },
+      "hints": [
+        {
+          "axisId": "EPISTEMIC_JUSTIFICATION",
+          "value": {
+            "kind": "weights",
+            "weights": [
+              0.6,
+              0.15,
+              0.25
+            ]
+          },
+          "weight": 1
+        }
+      ],
+      "discussion": {
+        "fr": "Vous déplacez l'exigence : non plus tout vérifier, mais savoir sur quoi repose ce qu'on vous affirme.",
+        "en": "You shift the demand: no longer checking everything, but knowing what a claim rests on."
+      }
+    },
+    {
+      "id": "refute",
+      "label": {
+        "fr": "Le complotiste ne vérifie rien, il croit d'autres gens : ce n'est pas l'exigence de preuves qui l'égare, c'est d'y avoir renoncé.",
+        "en": "The conspiracist checks nothing, he believes other people: it is not the demand for evidence that leads him astray, it is having given it up."
+      },
+      "hints": [
+        {
+          "axisId": "EPISTEMIC_JUSTIFICATION",
+          "value": {
+            "kind": "weights",
+            "weights": [
+              0.85,
+              0.1,
+              0.05
+            ]
+          },
+          "weight": 0.5
+        }
+      ],
+      "discussion": {
+        "fr": "Vous retournez l'objection : « faire ses recherches » n'est qu'une caricature de l'exigence de fondations.",
+        "en": "You turn the objection around: \"doing your research\" is only a caricature of the demand for foundations."
+      }
+    }
+  ],
+  "targets": [
+    "foundationalism-regress"
+  ],
+  "problems": [
+    "vetting-a-claim"
+  ],
+  "updatedAt": "2026-10-28T00:00:00.000Z"
+}

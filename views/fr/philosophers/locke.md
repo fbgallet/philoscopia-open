@@ -18,6 +18,46 @@ Médecin et philosophe anglais du Siècle des lumières naissant, tenu pour le p
 
 ## Positions
 
+### [Place de l'homme dans la nature](../axes/human-place-nature.md)
+
+*positionné · explicite dans les textes · mineure*
+
+Maîtrise 100%
+
+Dieu a donné la terre aux hommes pour leur subsistance et leur commodité, « à l'usage des industrieux et des raisonnables », et Locke justifie son appropriation par le travail, qui en multiplie la valeur économique : une terre laissée inculte ne rapporte presque rien. Son argument privilégie donc l'amélioration productive de la nature, non sa conservation pour elle-même. Les restrictions initiales protègent les autres hommes, en interdisant de laisser se perdre ce qu'on s'approprie et en exigeant d'en laisser « assez, et d'aussi bonne qualité » ; l'introduction de la monnaie permet ensuite des possessions inégales qui dépassent les besoins immédiats.
+
+*Sources : Second traité du gouvernement civil, ch. V, §26-37 · Second traité du gouvernement civil, ch. V, §40-43 et §46-50*
+
+### [Rapport à la technique](../axes/technology.md)
+
+*positionné · inférable · mineure*
+
+Techno-optimisme 75% · Techno-critique 25%
+
+Notre connaissance de la nature ne pénètre pas les essences réelles, mais elle suffit à ce qui nous importe : la conduite de la vie et les commodités qu'on peut tirer des choses. Locke voit dans les arts utiles, fondés sur l'expérience et l'histoire naturelle, le vrai profit de la philosophie naturelle. Il oppose le roi d'un vaste territoire en Amérique, plus mal nourri, logé et vêtu qu'un journalier anglais, pour montrer ce que le travail et ses améliorations ajoutent à la terre.
+
+*Sources : Essai sur l'entendement humain, IV, 12, §10-12 · Second traité du gouvernement civil, ch. V, §41*
+
+### [Cercle moral](../axes/moral-circle.md)
+
+*positionné · inférable · mineure*
+
+Anthropocentrisme 100%
+
+Locke condamne la cruauté envers les animaux parce que l'habitude de les faire souffrir endurcit les enfants et prépare leur brutalité envers les hommes. Cette interdiction s'inscrit dans une conception où les animaux sont donnés à l'usage humain, dans les limites de la loi naturelle. Le motif explicitement donné est donc indirect : préserver la compassion humaine, plutôt que fonder l'interdiction sur une valeur propre reconnue à l'animal.
+
+*Sources : Quelques pensées sur l'éducation, §116 · Second traité du gouvernement civil, §26*
+
+### [Explication de la nature](../axes/causality.md)
+
+*positionné · inférable · mineure*
+
+Mécanisme 90% · Finalisme 10%
+
+Locke privilégie l'**hypothèse corpusculaire** de Boyle pour rendre intelligible la production des qualités sensibles par la figure, la taille et le mouvement de parties imperceptibles. Mais notre ignorance de la constitution réelle des corps empêche d'en faire une explication démontrée et complète de toutes leurs puissances. Sa théologie rapporte la nature à un créateur intelligent sans fournir pour autant une théorie des causes finales des phénomènes particuliers.
+
+*Sources : Essai sur l'entendement humain, II, 8 · Essai sur l'entendement humain, IV, 3 (§6 et §16) ; IV, 10*
+
 ### [Sens de la souffrance](../axes/suffering-meaning.md)
 
 *positionné · inférable · mineure*
@@ -283,12 +323,6 @@ En justifiant le droit de résistance et la révocabilité du gouvernement, Lock
 *non applicable*
 
 Question anachronique : la comparaison de l'esprit à une machine calculante est postérieure de plusieurs siècles à Locke, qui ne la thématise pas.
-
-### [Rapport à la technique](../axes/technology.md)
-
-*non applicable*
-
-Locke ne développe pas de position sur la technique comme thème philosophique distinct ; l'axe relève de débats postérieurs.
 
 ### [Nature des droits](../axes/rights-nature.md)
 

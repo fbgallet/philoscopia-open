@@ -1,0 +1,17 @@
+{
+  "id": "aristotle-to-heidegger",
+  "from": { "kind": "PHILOSOPHER", "slug": "aristotle" },
+  "to": { "kind": "PHILOSOPHER", "slug": "heidegger" },
+  "directness": "ATTESTED",
+  "mode": "REINTERPRETS",
+  "strength": "STRONG",
+  "note": {
+    "fr": "Les cours de <ph id='heidegger'>Heidegger</ph> des années 1920 sont pour une large part des lectures d'<ph id='aristotle'>Aristote</ph> : il y relit la <c>phronèsis</c> comme une compréhension de l'existence en situation et l'<c>ousia</c> comme présence, matériaux qu'<w id='being-and-time-heidegger'>Être et temps</w> transforme en analytique du <c id='dasein'>Dasein</c>.",
+    "en": "<ph id='heidegger'>Heidegger</ph>'s lecture courses of the 1920s are to a large extent readings of <ph id='aristotle'>Aristotle</ph>: he rereads <c>phronesis</c> as an understanding of existence in its situation and <c>ousia</c> as presence, materials that <w id='being-and-time-heidegger'>Being and Time</w> transforms into the analytic of <c id='dasein'>Dasein</c>."
+  },
+  "sources": [
+    { "fr": "Heidegger, Interprétations phénoménologiques d'Aristote (1922)", "en": "Heidegger, Phenomenological Interpretations of Aristotle (1922)" },
+    { "fr": "Heidegger, Platon : Le Sophiste (cours 1924-1925)", "en": "Heidegger, Plato's Sophist (lectures 1924-1925)" }
+  ],
+  "updatedAt": "2026-10-11T00:00:00.000Z"
+}

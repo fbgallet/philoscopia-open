@@ -1,0 +1,17 @@
+{
+  "id": "buddhism-vs-nyaya",
+  "from": { "kind": "MOVEMENT", "slug": "buddhism" },
+  "to": { "kind": "MOVEMENT", "slug": "nyaya" },
+  "directness": "ATTESTED",
+  "mode": "REACTS_AGAINST",
+  "strength": "STRONG",
+  "note": {
+    "fr": "Le <mv id='nyaya'>Nyāya</mv> mène pendant un millénaire une controverse serrée avec les logiciens du <mv id='buddhism'>bouddhisme</mv>, Dignāga et Dharmakīrti : contre le non-soi, il défend un soi substantiel ; contre la théorie de l'<c id='apoha'>exclusion</c> (<c id='apoha'>apoha</c>), des universaux réels ; contre l'instantanéité des choses, leur durée.",
+    "en": "For a thousand years <mv id='nyaya'>Nyāya</mv> engaged in a sustained controversy with the logicians of <mv id='buddhism'>Buddhism</mv>, Dignāga and Dharmakīrti: against no-self it defends a substantial self; against the theory of <c id='apoha'>exclusion</c> (<c id='apoha'>apoha</c>), real universals; against the momentariness of things, their duration."
+  },
+  "sources": [
+    { "fr": "Uddyotakara, Nyāyavārttika", "en": "Uddyotakara, Nyāyavārttika" },
+    { "fr": "Udayana, Ātmatattvaviveka", "en": "Udayana, Ātmatattvaviveka" }
+  ],
+  "updatedAt": "2026-10-09T00:00:00.000Z"
+}

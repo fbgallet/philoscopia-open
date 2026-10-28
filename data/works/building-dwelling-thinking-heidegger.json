@@ -1,0 +1,12 @@
+{
+  "id": "building-dwelling-thinking-heidegger",
+  "title": { "fr": "Bâtir habiter penser", "en": "Building Dwelling Thinking" },
+  "originalTitle": "Bauen Wohnen Denken",
+  "author": { "slug": "heidegger", "name": { "fr": "Martin Heidegger", "en": "Martin Heidegger" } },
+  "year": 1954,
+  "presentation": {
+    "fr": "Conférence prononcée à Darmstadt en 1951, publiée en 1954 dans <w id='essays-and-lectures-heidegger'>Essais et conférences</w>. <ph id='heidegger'>Heidegger</ph> y pense l'habiter comme le trait fondamental de l'existence humaine : les mortels habitent en ménageant la terre, le ciel, les divins et leur propre mortalité, le <c>Quadriparti</c>.",
+    "en": "A lecture given in Darmstadt in 1951, published in 1954 in <w id='essays-and-lectures-heidegger'>Lectures and Essays</w>. <ph id='heidegger'>Heidegger</ph> there conceives dwelling as the basic trait of human existence: mortals dwell by sparing the earth, the sky, the divinities and their own mortality, the <c>fourfold</c>."
+  },
+  "updatedAt": "2026-10-11T00:00:00.000Z"
+}

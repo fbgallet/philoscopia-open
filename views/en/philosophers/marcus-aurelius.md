@@ -18,6 +18,26 @@ Roman emperor from 161 to 180 and the last of the « good emperors » of the Ant
 
 ## Positions
 
+### [Moral circle](../axes/moral-circle.md)
+
+*positioned · inferable · minor*
+
+Anthropocentrism 100%
+
+Marcus Aurelius grounds the universal moral and political community in the reason humans share: if intelligence is common to us, so is law, and the world is like a city. He sharply distinguishes relations with rational beings, which belong to social life, from the use of animals and things, for which he asks only magnanimity and liberality. This prescribed gentleness does not make animal sentience the ground of moral worth.
+
+*Sources : Meditations, IV, 4 · Meditations, VI, 23*
+
+### [Nature of reality](../axes/reality-nature.md)
+
+*positioned · inferable · minor*
+
+Materialism 100%
+
+Marcus Aurelius understands himself as "flesh, breath and ruling part", without making these into independent substances. In classical Stoic psychology, the [ruling part](../glossary/hegemonikon.md) also belongs to the corporeal breath: a doctrinal reconstruction, which the passage itself does not state. He pictures the cosmos as a single living being, with one substance and one soul, in keeping with Stoic corporealist physics. The ordering [logos](../glossary/logos.md) is no separate spiritual substance: it sets this corporealism apart from atomism without turning it into idealism or dualism.
+
+*Sources : Meditations, II, 2; IV, 40 · Meditations, XII, 30 · Diogenes Laertius, Lives of the Eminent Philosophers, VII, 156-159*
+
 ### [Interiority](../axes/interiority.md)
 
 *positioned · explicit in the texts · major*

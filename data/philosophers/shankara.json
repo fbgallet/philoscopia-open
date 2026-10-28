@@ -33,6 +33,8 @@
     "fr": "Indien",
     "en": "Indian"
   },
+  "datesApprox": true,
+  "language": "san",
   "movements": [
     "vedanta"
   ],

@@ -1,0 +1,30 @@
+{
+  "id": "li-principle",
+  "term": {
+    "fr": "Li (principe)",
+    "en": "Li (principle)"
+  },
+  "aliases": {
+    "fr": [
+      "tianli",
+      "principe céleste"
+    ],
+    "en": [
+      "tianli",
+      "heavenly principle"
+    ]
+  },
+  "definition": {
+    "fr": "Dans le <mv id='neo-confucianism'>néoconfucianisme</mv>, le li désigne la structure intelligible et normative des choses, ce qui permet de comprendre leur constitution et leur juste accomplissement. Pour <ph id='zhu-xi'>Zhu Xi</ph>, le principe est un mais ses manifestations sont différenciées, et il ne se rencontre dans les choses qu'en relation avec le <c id='qi'>qi</c>, le souffle qui les constitue concrètement. La culture de soi vise à laisser s'exprimer le principe céleste, tianli, plutôt qu'à le laisser obscurcir par les désirs égoïstes. Ce lǐ (理) ne doit être confondu ni avec les rites, lǐ (禮), ni avec le bénéfice cher aux mohistes, lì (利).",
+    "en": "In <mv id='neo-confucianism'>Neo-Confucianism</mv>, li is the intelligible and normative structure of things, what makes it possible to understand how they are constituted and how they are rightly fulfilled. For <ph id='zhu-xi'>Zhu Xi</ph>, principle is one but its manifestations are differentiated, and it is met in things only in relation to <c id='qi'>qi</c>, the vital force that makes them up concretely. Self-cultivation aims to let heavenly principle, tianli, express itself rather than be obscured by selfish desires. This lǐ (理) is to be confused neither with the rites, lǐ (禮), nor with the benefit dear to the Mohists, lì (利)."
+  },
+  "relatedAxes": [
+    "TRANSCENDENCE",
+    "DESIRE"
+  ],
+  "relatedTerms": [
+    "qi",
+    "gewu"
+  ],
+  "updatedAt": "2026-10-10T00:00:00.000Z"
+}

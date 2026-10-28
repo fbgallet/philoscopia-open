@@ -1,0 +1,69 @@
+{
+  "id": "coherentism-neurath-boat",
+  "kind": "SUPPORTS",
+  "position": {
+    "axisId": "EPISTEMIC_JUSTIFICATION",
+    "poleId": "COHERENTISM"
+  },
+  "name": {
+    "fr": "Le bateau de Neurath",
+    "en": "Neurath's boat"
+  },
+  "claim": {
+    "fr": "Nous réparons notre savoir comme des marins qui reconstruisent leur bateau en pleine mer, planche après planche, sans jamais pouvoir le mettre en cale sèche.",
+    "en": "We repair our knowledge like sailors rebuilding their ship on the open sea, plank by plank, never able to put it in dry dock."
+  },
+  "summary": {
+    "fr": "Aucune croyance ne vaut seule, et les prétendues fondations sont révisables : une croyance est justifiée par sa place dans un ensemble dont les parties se soutiennent.",
+    "en": "No belief counts on its own, and the supposed foundations can be revised: a belief is justified by its place in a whole whose parts support each other."
+  },
+  "development": [
+    {
+      "fr": "Aucune croyance ne se présente seule : une perception, un témoignage, une théorie ne valent qu'en s'accordant avec le reste de ce que nous savons. Une observation qui contredit tout le reste, on la soupçonne d'abord : illusion d'optique, erreur de mesure.",
+      "en": "No belief comes alone: a perception, a testimony, a theory count only by fitting with the rest of what we know. An observation that contradicts everything else is suspected first: an optical illusion, a measurement error."
+    },
+    {
+      "fr": "Les prétendues fondations sont elles-mêmes révisables : la perception se trompe, l'évidence d'hier tombe, et on les corrige en s'appuyant sur le reste du réseau.",
+      "en": "The supposed foundations are themselves revisable: perception errs, yesterday's evidence falls, and we correct them by leaning on the rest of the web."
+    },
+    {
+      "fr": "Ce qui justifie une croyance, c'est donc sa place dans un ensemble dont les parties se soutiennent, comme les planches d'un bateau, et non un socle posé hors de l'eau.",
+      "en": "What justifies a belief, then, is its place in a whole whose parts support one another, like the planks of a ship, not a base set out of the water."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc la justification est affaire de <kw>cohérence</kw> : une croyance tient par l'appui des autres, et le savoir progresse en se réparant de l'intérieur.",
+    "en": "So justification is a matter of <kw>coherence</kw>: a belief holds by the support of the others, and knowledge advances by repairing itself from within."
+  },
+  "difficulty": 2,
+  "source": {
+    "author": {
+      "fr": "Neurath, Quine",
+      "en": "Neurath, Quine"
+    },
+    "figures": [
+      {
+        "name": {
+          "fr": "Neurath",
+          "en": "Neurath"
+        },
+        "kind": "PHILOSOPHER",
+        "slug": "neurath"
+      },
+      {
+        "name": {
+          "fr": "Quine",
+          "en": "Quine"
+        },
+        "kind": "PHILOSOPHER",
+        "slug": "quine"
+      }
+    ],
+    "year": 1932
+  },
+  "test": "coherentism-isolation-objection",
+  "problems": [
+    "regress-of-reasons"
+  ],
+  "updatedAt": "2026-10-28T00:00:00.000Z"
+}

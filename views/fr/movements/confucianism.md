@@ -2,7 +2,7 @@
 
 # Confucianisme
 
-*500 av. J.-C. – ?*
+*v. 500 av. J.-C. – v. 104 av. J.-C., tradition vivante*
 
 Tradition née des Entretiens (Lunyu) de [Confucius](../philosophers/confucius.md) (Kongzi) dans la Chine en crise des Printemps et Automnes, et adossée aux Classiques anciens (les Odes, les Documents, les Rites). Au siècle des Royaumes combattants, deux héritiers la portent en sens opposés : Mencius tient la nature humaine pour spontanément bonne, dotée de germes de vertu qu'il suffit de cultiver, tandis que Xunzi la juge mauvaise et confie aux rites (li 禮) et à l'éducation le soin de la redresser. Écartée puis réhabilitée sous les Han, l'école devient l'orthodoxie impériale et la matière des concours mandarinaux, qui durant des siècles recrutent les fonctionnaires sur la maîtrise des Classiques. Le néo-confucianisme de l'époque Song lui adjoint une métaphysique du li (principe) et du qi (souffle). Diffusée dans toute l'Asie orientale, en Corée, au Japon et au Vietnam, cette pensée répond à une question constante : comment refaire l'ordre social et politique par la transformation morale des personnes plutôt que par la force.
 
@@ -216,6 +216,9 @@ Gouverner par la loi et le châtiment obtient au mieux des sujets qui évitent l
 
 ## Influence sur
 
+- **[Les Lumières](../movements/enlightenment.md)** (réinterprète) : Traduit en latin par les jésuites, Confucius devient pour Wolff, Voltaire et Quesnay le modèle d'une morale et d'un gouvernement fondés sur la raison sans révélation : une arme des [Lumières](../movements/enlightenment.md) contre l'autorité de l'Église.
+- **[Néoconfucianisme](../movements/neo-confucianism.md)** (réinterprète) : Le [néoconfucianisme](../movements/neo-confucianism.md) refonde le [confucianisme](../movements/confucianism.md) autour des Quatre Livres, dont le Mencius, et d'une lignée de transmission de la Voie (daotong) qui saute les siècles jusqu'aux frères Cheng ; les classiques y reçoivent une lecture métaphysique qu'ils n'avaient pas.
+- **[Mohisme](../movements/mohism.md)** (réagit contre) : Le [mohisme](../movements/mohism.md) naît contre le [confucianisme](../movements/confucianism.md) : contre ses rites coûteux, sa musique de cour, ses longs deuils et surtout son amour gradué, il oppose le critère du bénéfice commun et le souci impartial de tous.
 - **[Taoïsme](../movements/taoism.md)** (réagit contre) : Le [taoïsme](../movements/taoism.md) se définit en partie contre le [confucianisme](../movements/confucianism.md) : là où celui-ci fonde l'ordre sur le rite et la vertu sociale, le Zhuangzi raille les convenances et oppose le spontané et le non-agir.
 
 ---

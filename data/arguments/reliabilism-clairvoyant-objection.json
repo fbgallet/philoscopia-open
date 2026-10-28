@@ -1,0 +1,141 @@
+{
+  "id": "reliabilism-clairvoyant-objection",
+  "kind": "OBJECTS",
+  "position": {
+    "axisId": "EPISTEMIC_JUSTIFICATION",
+    "poleId": "RELIABILISM"
+  },
+  "name": {
+    "fr": "Le voyant qui s'ignore",
+    "en": "The unwitting clairvoyant"
+  },
+  "attacks": "REASONING",
+  "claim": {
+    "fr": "Un homme a, sans le savoir, un don de voyance parfaitement fiable ; un jour, sans aucune raison, il croit que le président est à New York, et il a raison. Sa croyance est-elle justifiée ?",
+    "en": "A man has, without knowing it, a perfectly reliable gift of clairvoyance; one day, for no reason at all, he believes the president is in New York, and he is right. Is his belief justified?"
+  },
+  "summary": {
+    "fr": "Le processus est fiable, mais celui qui croit n'a aucune raison de s'y fier : nous jugeons qu'il croit à la légère. La justification ne peut pas se réduire à un mécanisme.",
+    "en": "The process is reliable, but the believer has no reason to trust it: we judge that he believes lightly. Justification cannot be reduced to a mechanism."
+  },
+  "development": [
+    {
+      "fr": "Pour le fiabilisme, il suffit qu'une croyance vienne d'un processus fiable, même si celui qui la forme l'ignore.",
+      "en": "For reliabilism, it is enough that a belief comes from a reliable process, even if the one who forms it does not know so."
+    },
+    {
+      "fr": "L'exemple est de <ph id='bonjour'>Laurence BonJour</ph> : son voyant ne sait pas qu'il a ce don et n'a aucune raison, ni pour ni contre, de s'y fier ; il croit pourtant, et le processus est fiable.",
+      "en": "The example is <ph id='bonjour'>Laurence BonJour</ph>'s: his clairvoyant does not know he has the gift and has no reason, for or against, to trust it; yet he believes, and the process is reliable."
+    },
+    {
+      "fr": "Nous jugeons qu'il croit à la légère : la fiabilité d'un mécanisme qu'il ne peut pas apprécier ne rend pas sa croyance raisonnable.",
+      "en": "We judge that he believes lightly: the reliability of a mechanism he cannot assess does not make his belief reasonable."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc la justification ne peut pas se réduire à un mécanisme : celui qui croit doit aussi avoir accès à des raisons, ou du moins ne pas croire contre elles.",
+    "en": "So justification cannot be reduced to a mechanism: the believer must also have access to reasons, or at least not believe against them."
+  },
+  "difficulty": 2,
+  "source": {
+    "author": {
+      "fr": "BonJour",
+      "en": "BonJour"
+    },
+    "figures": [
+      {
+        "name": {
+          "fr": "BonJour",
+          "en": "BonJour"
+        },
+        "kind": "PHILOSOPHER",
+        "slug": "bonjour"
+      }
+    ],
+    "year": 1980
+  },
+  "responses": [
+    {
+      "id": "revise",
+      "label": {
+        "fr": "C'est juste : être justifié, c'est pouvoir rendre compte de ses raisons.",
+        "en": "Fair enough: being justified means being able to account for one's reasons."
+      },
+      "hints": [
+        {
+          "axisId": "EPISTEMIC_JUSTIFICATION",
+          "value": {
+            "kind": "weights",
+            "weights": [
+              0.45,
+              0.4,
+              0.15
+            ]
+          },
+          "weight": 2
+        }
+      ],
+      "discussion": {
+        "fr": "Vous rejoignez l'internalisme, que partagent fondationnalistes et cohérentistes : la justification passe par des raisons accessibles.",
+        "en": "You join internalism, shared by foundationalists and coherentists: justification goes through accessible reasons."
+      }
+    },
+    {
+      "id": "qualify",
+      "label": {
+        "fr": "La fiabilité compte, mais elle doit être connue : se fier à une source, c'est avoir des raisons de la croire fiable.",
+        "en": "Reliability matters, but it must be known: trusting a source means having reasons to believe it reliable."
+      },
+      "hints": [
+        {
+          "axisId": "EPISTEMIC_JUSTIFICATION",
+          "value": {
+            "kind": "weights",
+            "weights": [
+              0.15,
+              0.15,
+              0.7
+            ]
+          },
+          "weight": 1
+        }
+      ],
+      "discussion": {
+        "fr": "Un fiabilisme raisonné : la fiabilité fait la justification, à condition d'en avoir des indices.",
+        "en": "A reasoned reliabilism: reliability makes justification, provided one has some sign of it."
+      }
+    },
+    {
+      "id": "refute",
+      "label": {
+        "fr": "Si son don est réellement fiable, il sait vraiment : notre malaise vient de ce qu'aucun don réel n'est ainsi, non de ce que la fiabilité ne suffit pas.",
+        "en": "If his gift is really reliable, he really knows: our unease comes from the fact that no real gift is like that, not from reliability being insufficient."
+      },
+      "hints": [
+        {
+          "axisId": "EPISTEMIC_JUSTIFICATION",
+          "value": {
+            "kind": "weights",
+            "weights": [
+              0.05,
+              0.1,
+              0.85
+            ]
+          },
+          "weight": 0.5
+        }
+      ],
+      "discussion": {
+        "fr": "Vous tenez le fiabilisme jusqu'au bout : l'intuition contraire vient de notre méfiance envers la voyance, non d'un défaut de la théorie.",
+        "en": "You hold reliabilism to the end: the contrary intuition comes from our distrust of clairvoyance, not from a flaw in the theory."
+      }
+    }
+  ],
+  "targets": [
+    "reliabilism-thermometer"
+  ],
+  "problems": [
+    "justified-without-knowing-why"
+  ],
+  "updatedAt": "2026-10-28T00:00:00.000Z"
+}

@@ -18,6 +18,16 @@ A nineteenth-century German philosopher and economist, trained in the school of 
 
 ## Positions
 
+### [Humanity's place in nature](../axes/human-place-nature.md)
+
+*positioned · explicit in the texts · major*
+
+Mastery 60% · Stewardship 40%
+
+For Marx, labour transforms nature while developing human capacities: nature is man's "inorganic body", and this activity remains a material exchange on which he depends. Collective mastery of that exchange confers no absolute right of ownership over the earth, however: even a whole society is only its usufructuary, and must hand it down improved to the generations that follow. His critique of capitalist agriculture thus shows that productive development turns destructive when it exhausts worker and soil alike.
+
+*Sources : Economic and Philosophic Manuscripts of 1844, first manuscript, "Estranged Labour" · Capital, I, "Machinery and Modern Industry", §10 · Capital, III, ch. 46*
+
 ### [Violence](../axes/violence.md)
 
 *positioned · explicit in the texts · minor*
@@ -438,6 +448,7 @@ Religion is in his eyes an illusory happiness that consoles for a real misery: c
 
 ## Influence on
 
+- **[Ellul](../philosophers/ellul.md)** (reinterprets) : A reader of [Marx](../philosophers/marx.md) from his youth and for many years a teacher of his thought, [Ellul](../philosophers/ellul.md) keeps his method, looking for the determining factor of a society, but shifts it: in the twentieth century, it is no longer capital, it is technique.
 - **[Friedrich Engels](../philosophers/engels.md)** (continues) : [Engels](../philosophers/engels.md) works out with [Marx](../philosophers/marx.md), and after him, the critique of political economy and the materialist conception of history, whose systematic formulation and diffusion he secures.
 - **[Antonio Gramsci](../philosophers/gramsci.md)** (reinterprets) : [Gramsci](../philosophers/gramsci.md) rereads [Marx](../philosophers/marx.md) by shifting the analysis from the economic base toward culture: the concept of hegemony explains how a class rules through consent and civil society, not by force alone.
 

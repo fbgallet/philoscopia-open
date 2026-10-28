@@ -1,0 +1,961 @@
+{
+  "id": "the-matrix",
+  "title": {
+    "fr": "Matrix",
+    "en": "The Matrix"
+  },
+  "originalTitle": "The Matrix",
+  "creators": [
+    {
+      "name": {
+        "fr": "Lana et Lilly Wachowski",
+        "en": "Lana and Lilly Wachowski"
+      },
+      "shortName": {
+        "fr": "les Wachowski",
+        "en": "the Wachowskis"
+      },
+      "role": "DIRECTOR"
+    }
+  ],
+  "year": 1999,
+  "medium": "FILM",
+  "identity": {
+    "wikidata": "Q83495",
+    "wikipedia": {
+      "fr": "https://fr.wikipedia.org/wiki/Matrix_(film)",
+      "en": "https://en.wikipedia.org/wiki/The_Matrix"
+    }
+  },
+  "externalLinks": [
+    {
+      "site": "IMDB",
+      "url": "https://www.imdb.com/title/tt0133093/"
+    },
+    {
+      "site": "ALLOCINE",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=19776.html",
+      "locale": "fr"
+    }
+  ],
+  "canon": {
+    "fr": "Le premier film (1999) seul ; les suites, qui déplacent la question du choix, ne sont pas prises en compte.",
+    "en": "The first film (1999) only; the sequels, which shift the question of choice, are left aside."
+  },
+  "hook": {
+    "fr": "Un programmeur découvre que le monde où il vit est une simulation, et on lui propose de s'en réveiller. Sous le film d'action, Matrix pose deux questions qu'on croit réglées : voudrait-on vraiment savoir, si la vérité rendait la vie plus dure ? Et nos choix sont-ils à nous, si tout semble écrit d'avance ?",
+    "en": "A programmer discovers that the world he lives in is a simulation, and is offered the chance to wake up from it. Beneath the action film, The Matrix raises two questions we think are settled: would we really want to know, if the truth made life harder? And are our choices our own, if everything seems written in advance?"
+  },
+  "problem": {
+    "commonBelief": {
+      "fr": "On tient d'ordinaire pour acquis que le monde que l'on perçoit est réel et que, si l'on nous mentait sur l'essentiel, nous voudrions le savoir : la vérité vaudrait toujours mieux qu'une illusion, et nos choix seraient bien les nôtres.",
+      "en": "We usually take it for granted that the world we perceive is real and that, if we were lied to about what matters most, we would want to know: the truth would always be better than an illusion, and our choices would be our own."
+    },
+    "statement": {
+      "fr": "Matrix noue deux problèmes. Le premier porte sur la valeur de la vérité : vaut-elle par elle-même, ou seulement par ce qu'elle apporte ? Si une illusion rend heureux et qu'on ne peut pas la percer, on ne voit pas ce qu'on gagnerait à la quitter, et pourtant l'idée d'une vie heureuse mais fausse a quelque chose d'insupportable. Le second porte sur le choix : si l'avenir est prédit, programmé ou prophétisé, que reste-t-il de notre décision ? Le nœud tient au lien entre les deux. Choisir suppose de savoir ce que l'on fait, si bien qu'une vie dans l'illusion, même heureuse, ne serait plus tout à fait la nôtre ; mais si la vérité ne fait que révéler un destin déjà écrit, à quoi bon savoir ?",
+      "en": "The Matrix ties two problems together. The first concerns the value of truth: is it worth having for its own sake, or only for what it brings? If an illusion makes us happy and we cannot see through it, it is hard to see what we would gain by leaving it, and yet the idea of a happy but false life has something unbearable about it. The second concerns choice: if the future is predicted, programmed or prophesied, what is left of our decision? The knot lies in the link between the two. Choosing presupposes knowing what we are doing, so that a life inside an illusion, however happy, would no longer quite be ours; but if the truth only reveals a destiny already written, what is the point of knowing?"
+    },
+    "path": [
+      {
+        "kind": "PROSE",
+        "text": {
+          "fr": "<i>Matrix</i> part d'une hypothèse que la philosophie connaît depuis <ph id='descartes'>Descartes</ph> : et si tout ce que je perçois était fabriqué pour me tromper ? Le film en tire deux questions, qui guident tout ce qui suit. La première porte sur la vérité : voudrait-on savoir, si savoir rendait la vie plus dure ? La seconde porte sur la liberté : nos choix sont-ils les nôtres, si tout semble écrit d'avance ?",
+          "en": "<i>The Matrix</i> starts from a hypothesis philosophy has entertained since <ph id='descartes'>Descartes</ph>: what if everything I perceive were manufactured to deceive me? From this the film draws two questions that guide everything that follows. The first is about truth: would we want to know, if knowing made life harder? The second is about freedom: are our choices our own, if everything seems written in advance?"
+        }
+      },
+      {
+        "kind": "PROSE",
+        "text": {
+          "fr": "<pb>Première question : vaut-il mieux une vérité dure qu'une illusion heureuse ?</pb> Thomas Anderson, programmeur le jour et pirate informatique la nuit sous le nom de Neo, sent que quelque chose cloche dans le monde. Morpheus, un homme que les autorités traquent, lui révèle que ce monde est une simulation, la Matrice, produite par des machines pour tenir les humains endormis. C'est le <te id='dream-argument'>malin génie</te> de Descartes rendu concret : une puissance capable de fabriquer toutes nos sensations. Mais le film déplace la question. Descartes se demandait si l'on peut savoir ; <i>Matrix</i> demande si l'on veut savoir.",
+          "en": "<pb>First question: is a hard truth better than a happy illusion?</pb> Thomas Anderson, a programmer by day and a hacker by night under the name Neo, senses that something is wrong with the world. Morpheus, a man the authorities are hunting, reveals to him that this world is a simulation, the Matrix, produced by machines to keep humans asleep. It is Descartes's <te id='dream-argument'>evil demon</te> made concrete: a power able to manufacture all our sensations. But the film shifts the question. Descartes asked whether we can know; <i>The Matrix</i> asks whether we want to know."
+        }
+      },
+      {
+        "kind": "PROSE",
+        "text": {
+          "fr": "Morpheus tend deux pilules. La bleue : Neo se réveillera dans son lit et croira ce qu'il voudra. La rouge : il verra « jusqu'où va le terrier ». L'image vient d'<w>Alice au pays des merveilles</w>, que le film suit depuis le début : un message sur l'écran de Neo l'invitait déjà à « suivre le lapin blanc ». Morpheus ne promet rien d'autre que la vérité, et Neo la choisit sans savoir ce qu'elle lui coûtera. Le réel est un désert : des humains cultivés dans des cuves pour alimenter les machines, une nourriture sans goût, une guerre que les derniers humains libres peinent à tenir. Morpheus le dit avec les mots de <ph>Jean Baudrillard</ph>, « le désert du réel », et Neo cachait ses disques pirates dans un exemplaire évidé de son livre, <w>Simulacres et simulation</w>. Or ce livre décrit un monde où les <c id='simulacra'>simulacres</c> ont pris la place du réel, au point qu'il n'y a plus d'original stable auquel les comparer ; le film, lui, garde un réel derrière la simulation, et le montre hostile. C'est ce qui donne au choix son poids : Neo ne peut pas se dire que la vérité le rendra heureux.",
+          "en": "Morpheus holds out two pills. The blue one: Neo will wake up in his bed and believe whatever he wants. The red one: he will see \"how deep the rabbit hole goes\". The image comes from <w>Alice's Adventures in Wonderland</w>, which the film has been following from the start: a message on Neo's screen had already told him to \"follow the white rabbit\". Morpheus promises nothing but the truth, and Neo chooses it without knowing what it will cost him. The real is a desert: humans grown in pods to power the machines, tasteless food, a war the last free humans can barely sustain. Morpheus puts it in the words of <ph>Jean Baudrillard</ph>, \"the desert of the real\", and Neo had hidden his pirated disks in a hollowed-out copy of Baudrillard's <w>Simulacra and Simulation</w>. But that book describes a world where <c id='simulacra'>simulacra</c> have taken the place of the real, to the point that there is no stable original left to compare them with; the film keeps a real behind the simulation, and makes it hostile. That is what gives the choice its weight: Neo cannot tell himself that the truth will make him happy."
+        }
+      },
+      {
+        "kind": "PROSE",
+        "text": {
+          "fr": "Cypher, l'un des compagnons de Morpheus, incarne l'autre réponse. Libéré lui aussi, il se demande à voix haute pourquoi il n'a pas pris la pilule bleue. Il ne se trompe pas sur l'illusion : il la sait fausse et la regrette quand même. Il ressemble à celui que <ph id='nozick'>Nozick</ph> imagine devant sa <te id='experience-machine'>machine à expériences</te>, qui ferait vivre par simulation toutes les expériences désirées : si le plaisir est réel pour celui qui l'éprouve, qu'importe d'où il vient ? Pour Nozick, nous refuserions, parce que nous voulons faire les choses, et pas seulement avoir l'impression de les faire. Cypher, lui, accepterait. Et il n'est pas le seul à préférer l'illusion : Morpheus avertit Neo que la plupart de ceux qui vivent dans la Matrice ne sont pas prêts à être débranchés, et que beaucoup défendraient le système qui les tient.",
+          "en": "Cypher, one of Morpheus's companions, embodies the other answer. Freed as well, he wonders aloud why he didn't take the blue pill. He has no illusions about the illusion: he knows it is false and misses it all the same. He is like the person <ph id='nozick'>Nozick</ph> imagines facing his <te id='experience-machine'>experience machine</te>, which would let you live, by simulation, every experience you desire: if pleasure is real for the one who feels it, what does it matter where it comes from? For Nozick we would refuse, because we want to do things, not merely have the impression of doing them. Cypher would accept. And he is not alone in preferring the illusion: Morpheus warns Neo that most of the people inside the Matrix are not ready to be unplugged, and that many would fight to defend the system that holds them."
+        }
+      },
+      {
+        "kind": "PROSE",
+        "text": {
+          "fr": "Cypher met sa thèse en pratique. Dans la Matrice, il dîne avec l'agent Smith, l'un des programmes qui la gardent. Devant un steak qu'il sait inexistant, il déclare que l'ignorance est un bonheur et négocie son retour : être réinséré, sans souvenirs, dans une vie riche et importante. En échange, il livre Morpheus aux agents et tue plusieurs de ses compagnons. Le film condamne Cypher par ses actes, non par ses raisons : sa trahison le disqualifie, elle ne réfute pas son argument.",
+          "en": "Cypher puts his thesis into practice. Inside the Matrix he dines with Agent Smith, one of the programs that police it. Facing a steak he knows is not real, he says ignorance is bliss and bargains for his return: to be reinserted into a rich, important life with no memories. In exchange he hands Morpheus to the agents and kills several of his crewmates. The film condemns Cypher for his deeds, not his reasons: the betrayal disqualifies him; it does not refute his argument."
+        },
+        "spoiler": true
+      },
+      {
+        "kind": "PROSE",
+        "text": {
+          "fr": "<pb>Seconde question : nos choix sont-ils les nôtres, si tout est écrit d'avance ?</pb> Morpheus croit à une prophétie : un Élu, <i>the One</i> en version originale, viendra libérer les humains, et il pense l'avoir trouvé en Neo. Son nom semble même l'annoncer : <i>Neo</i> est l'anagramme de <i>One</i>, comme si son rôle était inscrit avant lui. Pourtant, quand Morpheus lui demande s'il croit au destin, Neo répond non : il n'aime pas l'idée de ne pas être maître de sa vie. Morpheus le conduit chez l'Oracle, une femme qui prédit l'avenir. Au-dessus de la porte de sa cuisine, une inscription latine, <i>Temet nosce</i>, « connais-toi toi-même », la devise de Delphes que <ph id='socrates'>Socrate</ph> avait faite sienne. L'Oracle ajoute qu'être l'Élu, c'est comme être amoureux : personne ne peut vous le dire, on le sait. Elle ne dira donc pas à Neo qui il est, elle lui renvoie la question.",
+          "en": "<pb>Second question: are our choices our own, if everything is written in advance?</pb> Morpheus believes in a prophecy: a chosen one, the One, will come to free humanity, and he thinks he has found him in Neo. Even the name seems to announce it: <i>Neo</i> is an anagram of <i>One</i>, as if his role were written before him. Yet when Morpheus asks whether he believes in fate, Neo says no: he does not like the idea of not being in control of his life. Morpheus takes him to the Oracle, a woman who foretells the future. Above her kitchen door is a Latin inscription, <i>Temet nosce</i>, \"know thyself\", the Delphic motto <ph id='socrates'>Socrates</ph> made his own. The Oracle adds that being the One is like being in love: no one can tell you, you just know. She will not tell Neo who he is; she sends the question back to him."
+        }
+      },
+      {
+        "kind": "PROSE",
+        "text": {
+          "fr": "Un détail de la visite met la prophétie à l'épreuve. L'Oracle dit à Neo de ne pas s'inquiéter pour un vase ; il se retourne, le heurte et le brise. Elle demande alors s'il l'aurait cassé si elle n'avait rien dit. La prédiction fait partie de ce qu'elle prédit, au point qu'on ne sait plus si elle annonce l'avenir ou si elle le produit. Pour l'agent Smith, un des programmes qui surveillent la Matrice et qui a interrogé Neo au début du film, rien de tel : les humains sont une maladie au comportement prévisible, et tout est joué d'avance. Entre le <c id='free-will'>libre arbitre</c> que revendique Neo et le destin qu'annonce Morpheus, le film cherche la place d'un choix qui soit vraiment le nôtre.",
+          "en": "One detail of the visit puts the prophecy to the test. The Oracle tells Neo not to worry about a vase; he turns, knocks it over and breaks it. She then asks whether he would have broken it if she had said nothing. The prediction is part of what it predicts, to the point that we can no longer tell whether she foretells the future or produces it. Agent Smith, one of the programs that watch over the Matrix and who interrogated Neo early in the film, sees none of this: for him humans are a disease with predictable behavior, and everything is settled in advance. Between the <c id='free-will'>free will</c> Neo claims and the destiny Morpheus announces, the film looks for room for a choice that would truly be ours."
+        }
+      },
+      {
+        "kind": "MAP",
+        "mapId": "truth-and-fate",
+        "caption": {
+          "fr": "La carte croise les deux questions : vouloir la vérité ou s'en tenir à l'illusion, décider de sa vie ou croire que tout est écrit. Morpheus y figure deux fois, pour ce qu'il dit et pour ce qu'il fait. L'Oracle reste au centre : elle ne dit pas tout et ne tranche ni pour le destin seul, ni pour le choix seul. Ici, « tout est écrit » désigne le destin en général : une prophétie annonce une issue sans dire par quelles causes, et l'axe n'a pas de pôle propre pour ce fatalisme.",
+          "en": "The map crosses the two questions: wanting the truth or holding on to the illusion, deciding one's life or believing everything is written. Morpheus appears twice, for what he says and for what he does. The Oracle stays at the center: she does not say everything, and sides neither with destiny alone nor with choice alone. Here \"everything is written\" means destiny in general: a prophecy announces an outcome without saying through which causes, and the axis has no pole of its own for that fatalism."
+        }
+      },
+      {
+        "kind": "PROSE",
+        "text": {
+          "fr": "Les deux questions se rejoignent, à condition de distinguer deux sens de la liberté. Le premier est métaphysique : nos choix sont-ils déterminés, ou écrits d'avance ? Le second est pratique : être libre, c'est savoir ce que l'on fait. En ce second sens, celui qui vit dans une illusion peut faire ce qu'il veut, mais il ne sait pas ce qu'il fait. C'est pourquoi Morpheus parle de la Matrice comme d'une prison pour l'esprit : la servitude dont il veut libérer Neo n'est pas une contrainte qu'on sent, c'est une ignorance. Le film glisse de l'un à l'autre : il montre que savoir donne du pouvoir (second sens) et le tient pour de la liberté, sans dire si cette liberté tiendrait face à une prophétie (premier sens). Sa réponse est donc plus fragile qu'elle n'en a l'air.",
+          "en": "The two questions meet, provided we distinguish two senses of freedom. The first is metaphysical: are our choices determined, or written in advance? The second is practical: to be free is to know what one is doing. In this second sense, someone living in an illusion can do as they please, but does not know what they are doing. That is why Morpheus calls the Matrix a prison for the mind: the servitude he wants to free Neo from is not a constraint one feels, it is ignorance. The film slides from one to the other: it shows that knowing gives power (second sense) and treats that as freedom, without saying whether such freedom would hold against a prophecy (first sense). Its answer is therefore more fragile than it looks."
+        }
+      },
+      {
+        "kind": "PROSE",
+        "text": {
+          "fr": "Hors du film, la question est plus discrète. Chacun a sa pilule bleue : ne pas ouvrir ses résultats d'analyses, ne pas chercher ce que pense vraiment un proche, garder une croyance qui nous tient debout. Et chacun dit parfois d'une rupture ou d'un échec que « c'était écrit ». Neo regarde sans savoir ce qu'il verra et refuse qu'on écrive sa vie à sa place ; Cypher, qui a regardé, aurait préféré ne pas voir. Entre eux, le film pose une seule question : faut-il connaître le réel pour être libre, même quand il rend la vie plus dure ?",
+          "en": "Outside the film, the question is quieter. Everyone has a blue pill: not opening the test results, not asking what a loved one really thinks, holding on to a belief that keeps us standing. And everyone sometimes says of a breakup or a failure that it was \"meant to be\". Neo looks without knowing what he will see, and refuses to let anyone write his life for him; Cypher, who looked, would rather not have seen. Between them, the film asks a single question: must we know the real to be free, even when it makes life harder?"
+        }
+      },
+      {
+        "kind": "YOU"
+      }
+    ],
+    "question": {
+      "fr": "Ne peut-on être libre qu'en regardant en face la dure réalité ?",
+      "en": "Can one be free only by facing harsh reality?"
+    },
+    "anchors": [
+      {
+        "axisId": "TRUTH_VALUE",
+        "problemId": "lucid-or-happy"
+      },
+      {
+        "axisId": "TRUTH_VALUE",
+        "problemId": "choosing-for-another"
+      },
+      {
+        "axisId": "SOVEREIGN_GOOD",
+        "problemId": "happiness-without-reality"
+      },
+      {
+        "axisId": "CERTAINTY",
+        "problemId": "world-or-appearances"
+      },
+      {
+        "axisId": "FREEDOM",
+        "problemId": "predestination-and-freedom"
+      },
+      {
+        "axisId": "FREEDOM",
+        "problemId": "determinism-or-fatalism"
+      }
+    ]
+  },
+  "maps": [
+    {
+      "id": "truth-and-fate",
+      "question": {
+        "fr": "Faut-il vouloir la vérité, et nos choix sont-ils écrits d'avance ?",
+        "en": "Should we want the truth, and are our choices written in advance?"
+      },
+      "x": {
+        "axisId": "TRUTH_VALUE",
+        "sign": -1,
+        "neg": {
+          "fr": "Vivre d'illusions",
+          "en": "Living on illusions"
+        },
+        "pos": {
+          "fr": "La vérité à tout prix",
+          "en": "Truth at any cost"
+        }
+      },
+      "y": {
+        "axisId": "FREEDOM",
+        "sign": -1,
+        "neg": {
+          "fr": "Tout est écrit",
+          "en": "Everything is written"
+        },
+        "pos": {
+          "fr": "Je décide de ma vie",
+          "en": "I decide my life"
+        }
+      },
+      "quadrants": {
+        "topRight": {
+          "fr": "S'éveiller pour choisir",
+          "en": "Waking up to choose"
+        },
+        "bottomRight": {
+          "fr": "La vérité au service d'un destin",
+          "en": "Truth in the service of a destiny"
+        },
+        "topLeft": {
+          "fr": "Choisir son illusion",
+          "en": "Choosing one's illusion"
+        },
+        "bottomLeft": {
+          "fr": "Garder l'illusion, invoquer la nécessité",
+          "en": "Keeping the illusion, invoking necessity"
+        }
+      }
+    }
+  ],
+  "moments": [
+    {
+      "id": "before-the-pill",
+      "label": {
+        "fr": "Avant : le choix de la pilule rouge",
+        "en": "Before: the choice of the red pill"
+      }
+    },
+    {
+      "id": "cypher-dinner",
+      "label": {
+        "fr": "Le dîner de Cypher avec l'agent Smith",
+        "en": "Cypher's dinner with Agent Smith"
+      }
+    },
+    {
+      "id": "the-rescue",
+      "label": {
+        "fr": "Après l'Oracle : Neo retourne chercher Morpheus",
+        "en": "After the Oracle: Neo goes back for Morpheus"
+      }
+    },
+    {
+      "id": "room-303",
+      "label": {
+        "fr": "Chambre 303 : Neo voit le code",
+        "en": "Room 303: Neo sees the code"
+      }
+    }
+  ],
+  "cast": [
+    {
+      "characterId": "neo",
+      "performers": [
+        {
+          "name": "Keanu Reeves"
+        }
+      ],
+      "emphasis": "PROTAGONIST",
+      "role": {
+        "fr": "Programmeur et pirate informatique, réveillé de la simulation",
+        "en": "Programmer and hacker, woken from the simulation"
+      },
+      "coreBelief": {
+        "fr": "On ne vit vraiment qu'en sachant où l'on est, et personne ne peut écrire ma vie à ma place.",
+        "en": "You only truly live by knowing where you are, and no one can write my life for me."
+      },
+      "keyAction": {
+        "fr": "Il avale la pilule rouge sans savoir ce qu'elle lui coûtera, sur la seule promesse de la vérité.",
+        "en": "He swallows the red pill without knowing what it will cost him, on the sole promise of the truth."
+      },
+      "arc": [
+        {
+          "label": {
+            "fr": "Avant la pilule rouge",
+            "en": "Before the red pill"
+          },
+          "moment": "before-the-pill",
+          "at": [
+            {
+              "axisId": "TRUTH_VALUE",
+              "value": {
+                "kind": "scalar",
+                "value": -0.5
+              }
+            },
+            {
+              "axisId": "FREEDOM",
+              "value": {
+                "kind": "scalar",
+                "value": -0.7
+              }
+            }
+          ]
+        },
+        {
+          "label": {
+            "fr": "Après l'Oracle : il retourne chercher Morpheus",
+            "en": "After the Oracle: he goes back for Morpheus"
+          },
+          "moment": "the-rescue",
+          "at": [
+            {
+              "axisId": "TRUTH_VALUE",
+              "value": {
+                "kind": "scalar",
+                "value": -0.85
+              }
+            },
+            {
+              "axisId": "FREEDOM",
+              "value": {
+                "kind": "scalar",
+                "value": -0.9
+              }
+            }
+          ]
+        },
+        {
+          "label": {
+            "fr": "Chambre 303 : son choix accomplit ce qui était annoncé",
+            "en": "Room 303: his choice fulfils what was foretold"
+          },
+          "moment": "room-303",
+          "at": [
+            {
+              "axisId": "TRUTH_VALUE",
+              "value": {
+                "kind": "scalar",
+                "value": -0.85
+              }
+            },
+            {
+              "axisId": "FREEDOM",
+              "value": {
+                "kind": "scalar",
+                "value": -0.4
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "morpheus",
+      "name": {
+        "fr": "Morpheus",
+        "en": "Morpheus"
+      },
+      "performers": [
+        {
+          "name": "Laurence Fishburne"
+        }
+      ],
+      "role": {
+        "fr": "Capitaine du Nebuchadnezzar, chef des humains libérés",
+        "en": "Captain of the Nebuchadnezzar, leader of the freed humans"
+      },
+      "coreBelief": {
+        "fr": "La vérité est due à tout esprit captif, et le destin se réalise par ceux qui y croient.",
+        "en": "The truth is owed to every captive mind, and destiny comes true through those who believe in it."
+      },
+      "keyAction": {
+        "fr": "Il présente les deux pilules en ne promettant rien d'autre que la vérité.",
+        "en": "He offers the two pills, promising nothing but the truth."
+      },
+      "positions": [
+        {
+          "axisId": "TRUTH_VALUE",
+          "does": {
+            "kind": "scalar",
+            "value": -1
+          },
+          "grounds": {
+            "fr": "Morpheus prévient que la seule chose qu'il offre est la vérité, rien de plus, et rappelle plus tard à Neo qu'il n'a jamais promis que ce serait facile. Il ne vend donc pas la vérité pour ses effets : il semble la tenir pour due à un esprit enfermé dans une prison qu'il ne peut ni sentir ni toucher. Mais il sait que la plupart des branchés ne sont pas prêts et défendront le système qui les enferme.",
+            "en": "Morpheus warns that all he is offering is the truth, nothing more, and later reminds Neo that he never said it would be easy. He is not selling the truth for its effects: he seems to hold it owed to a mind locked in a prison it can neither smell nor touch. But he knows that most of those plugged in are not ready and will defend the system that holds them."
+          },
+          "references": [
+            {
+              "fr": "La scène des deux pilules",
+              "en": "The two pills scene"
+            },
+            {
+              "fr": "Le programme d'entraînement",
+              "en": "The training program"
+            },
+            {
+              "fr": "La scène de la femme en rouge",
+              "en": "The woman in the red dress scene"
+            }
+          ]
+        },
+        {
+          "axisId": "FREEDOM",
+          "does": {
+            "kind": "scalar",
+            "value": 0.45
+          },
+          "says": {
+            "kind": "scalar",
+            "value": 0
+          },
+          "grounds": {
+            "fr": "En paroles, Morpheus laisse le choix à l'autre : il peut montrer la porte, c'est à Neo de la franchir, et quand Neo dit refuser le destin, il répond qu'il comprend exactement. En actes, il mise tout sur une prophétie que rien, pour l'instant, ne vérifie, et reconnaît en Neo l'Élu avant que celui-ci n'y croie. Sa foi relève du fatalisme plus que du déterminisme causal. <spo>Il tient tête à l'agent Smith pour que Neo s'échappe, et se fait capturer.</spo>",
+            "en": "In words, Morpheus leaves the choice to the other: he can show the door, it is Neo who has to walk through it, and when Neo says he rejects fate, he answers that he knows exactly what he means. In deeds, he stakes everything on a prophecy that nothing yet confirms, and recognizes Neo as the One before Neo believes it himself. His faith is closer to fatalism than to causal determinism. <spo>He stands up to Agent Smith so that Neo can escape, and is captured.</spo>"
+          },
+          "references": [
+            {
+              "fr": "La première rencontre avec Neo",
+              "en": "The first meeting with Neo"
+            },
+            {
+              "fr": "L'entraînement",
+              "en": "The training"
+            },
+            {
+              "fr": "L'embuscade après la visite à l'Oracle",
+              "en": "The ambush after the visit to the Oracle"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "trinity",
+      "name": {
+        "fr": "Trinity",
+        "en": "Trinity"
+      },
+      "performers": [
+        {
+          "name": "Carrie-Anne Moss"
+        }
+      ],
+      "role": {
+        "fr": "Seconde de Morpheus, celle qui guide Neo vers lui",
+        "en": "Morpheus's second-in-command, who guides Neo to him"
+      },
+      "coreBelief": {
+        "fr": "C'est la question qui nous pousse : une fois qu'on la porte, on ne peut plus vivre comme avant.",
+        "en": "It is the question that drives us: once you carry it, you can no longer live as before."
+      },
+      "keyAction": {
+        "fr": "Dans la voiture, elle retire de Neo le mouchard posé par les agents.",
+        "en": "In the car, she removes the bug the agents planted in Neo."
+      },
+      "positions": [
+        {
+          "axisId": "TRUTH_VALUE",
+          "does": {
+            "kind": "scalar",
+            "value": -0.8
+          },
+          "grounds": {
+            "fr": "Trinity dit à Neo que c'est la question qui les pousse, et qu'elle a cherché la réponse comme lui. Libérée, elle ne paraît pas regretter le monde qu'elle a quitté et retourne dans la simulation pour en arracher d'autres. Rien ne la montre tentée par le confort perdu, à la différence de Cypher.",
+            "en": "Trinity tells Neo that it is the question that drives them, and that she looked for the answer as he does. Freed, she does not seem to miss the world she left, and goes back into the simulation to pull others out. Nothing shows her tempted by the lost comfort, unlike Cypher."
+          },
+          "references": [
+            {
+              "fr": "La rencontre en boîte de nuit",
+              "en": "The meeting at the nightclub"
+            },
+            {
+              "fr": "La voiture où elle retire le mouchard de Neo",
+              "en": "The car where she removes Neo's bug"
+            }
+          ]
+        },
+        {
+          "axisId": "FREEDOM",
+          "does": {
+            "kind": "scalar",
+            "value": 0.3
+          },
+          "grounds": {
+            "fr": "<spo>L'Oracle lui a annoncé qu'elle aimerait l'Élu, et elle en tire à la fin la certitude que Neo ne peut pas être mort.</spo> Elle semble embrasser ce qui lui a été annoncé plutôt que le subir.",
+            "en": "<spo>The Oracle told her she would fall in love with the One, and at the end she draws from it the certainty that Neo cannot be dead.</spo> She seems to embrace what she was told rather than endure it."
+          },
+          "references": [
+            {
+              "fr": "À bord du Nebuchadnezzar, près du corps de Neo",
+              "en": "Aboard the Nebuchadnezzar, by Neo's body"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "characterId": "cypher",
+      "performers": [
+        {
+          "name": "Joe Pantoliano"
+        }
+      ],
+      "role": {
+        "fr": "Membre de l'équipage de Morpheus",
+        "en": "A member of Morpheus's crew"
+      },
+      "coreBelief": {
+        "fr": "Une illusion qui donne du plaisir vaut mieux qu'une vérité qui n'offre que le froid et la guerre.",
+        "en": "An illusion that gives pleasure is worth more than a truth that offers only cold and war."
+      },
+      "keyAction": {
+        "fr": "Une nuit, il confie à Neo qu'il regrette de ne pas avoir pris la pilule bleue.",
+        "en": "One night, he confides to Neo that he regrets not taking the blue pill."
+      },
+      "arc": [
+        {
+          "label": {
+            "fr": "Libéré des années avant Neo (position reconstituée)",
+            "en": "Freed years before Neo (reconstructed position)"
+          },
+          "moment": "before-the-pill",
+          "at": [
+            {
+              "axisId": "TRUTH_VALUE",
+              "value": {
+                "kind": "scalar",
+                "value": -0.4
+              }
+            },
+            {
+              "axisId": "FREEDOM",
+              "value": {
+                "kind": "scalar",
+                "value": -0.4
+              }
+            }
+          ]
+        },
+        {
+          "label": {
+            "fr": "Le dîner avec l'agent Smith",
+            "en": "The dinner with Agent Smith"
+          },
+          "moment": "cypher-dinner",
+          "at": [
+            {
+              "axisId": "TRUTH_VALUE",
+              "value": {
+                "kind": "scalar",
+                "value": 0.95
+              }
+            },
+            {
+              "axisId": "FREEDOM",
+              "value": {
+                "kind": "scalar",
+                "value": -0.4
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "agent-smith",
+      "name": {
+        "fr": "L'agent Smith",
+        "en": "Agent Smith"
+      },
+      "performers": [
+        {
+          "name": "Hugo Weaving"
+        }
+      ],
+      "emphasis": "ANTAGONIST",
+      "role": {
+        "fr": "Agent, programme chargé de garder la simulation",
+        "en": "Agent, a program tasked with guarding the simulation"
+      },
+      "coreBelief": {
+        "fr": "Les humains sont une maladie, et leur sort suit une nécessité que rien n'arrête.",
+        "en": "Humans are a disease, and their fate follows a necessity nothing can stop."
+      },
+      "keyAction": {
+        "fr": "Il interroge Neo en lui rappelant qu'il mène deux vies et que l'une d'elles n'a pas d'avenir.",
+        "en": "He interrogates Neo, reminding him that he leads two lives and that one of them has no future."
+      },
+      "positions": [
+        {
+          "axisId": "TRUTH_VALUE",
+          "does": {
+            "kind": "scalar",
+            "value": 0.4
+          },
+          "grounds": {
+            "fr": "Smith défend un dispositif qui maintient les humains dans l'illusion, et explique qu'il a fallu leur donner une réalité faite de misère pour qu'ils l'acceptent : l'illusion est pour lui un instrument de gestion, pas une vérité à révéler. <spo>Qu'il veuille lui-même sortir de ce <q>zoo</q> dit son dégoût de la simulation plus qu'un attachement au vrai.</spo>",
+            "en": "Smith defends a system that keeps humans in illusion, and explains that they had to be given a reality made of misery before they would accept it: illusion is for him a management tool, not a truth to reveal. <spo>That he himself wants out of this <q>zoo</q> speaks of his disgust with the simulation rather than of any attachment to truth.</spo>"
+          },
+          "references": [
+            {
+              "fr": "L'interrogatoire de Morpheus",
+              "en": "Morpheus's interrogation"
+            }
+          ]
+        },
+        {
+          "axisId": "FREEDOM",
+          "does": {
+            "kind": "scalar",
+            "value": 0.6
+          },
+          "grounds": {
+            "fr": "Smith ne voit dans les actes humains que le comportement prévisible d'une espèce qui se propage, et invoque l'inévitable comme une arme. <spo>Dans le métro, il annonce à Neo que ce qu'il entend est le bruit de l'inévitable.</spo> C'est une posture plus qu'une doctrine.",
+            "en": "Smith sees in human actions only the predictable behavior of a spreading species, and wields inevitability as a weapon. <spo>In the subway, he tells Neo that what he hears is the sound of inevitability.</spo> It is a posture more than a doctrine."
+          },
+          "references": [
+            {
+              "fr": "L'interrogatoire de Morpheus",
+              "en": "Morpheus's interrogation"
+            },
+            {
+              "fr": "Le combat dans le métro",
+              "en": "The subway fight"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "the-oracle",
+      "name": {
+        "fr": "L'Oracle",
+        "en": "The Oracle"
+      },
+      "performers": [
+        {
+          "name": "Gloria Foster"
+        }
+      ],
+      "role": {
+        "fr": "Une voyante qui reçoit les libérés dans sa cuisine",
+        "en": "A seer who receives the freed in her kitchen"
+      },
+      "coreBelief": {
+        "fr": "Prédire, c'est déjà agir sur ce que l'on prédit : la vérité se dose selon ce qu'elle permet de faire.",
+        "en": "To predict is already to act on what one predicts: truth is measured out according to what it makes possible."
+      },
+      "keyAction": {
+        "fr": "Elle avertit Neo de ne pas s'inquiéter pour le vase, qu'il heurte aussitôt en se retournant.",
+        "en": "She tells Neo not to worry about the vase, which he knocks over as he turns around."
+      },
+      "positions": [
+        {
+          "axisId": "TRUTH_VALUE",
+          "does": {
+            "kind": "scalar",
+            "value": 0
+          },
+          "grounds": {
+            "fr": "Le film ne la montre jamais mentir, mais elle choisit ce qu'elle dit et comment : elle laisse Neo conclure lui-même sur ce qu'il est et le renvoie à sa propre méfiance envers le destin. <spo>Morpheus lui dira qu'elle lui a dit exactement ce qu'il avait besoin d'entendre.</spo> La vérité semble valoir chez elle par la prise qu'elle donne autant que par son exactitude.",
+            "en": "The film never shows her lying, but she chooses what she says and how: she lets Neo draw his own conclusion about who he is, and sends him back to his own distrust of fate. <spo>Morpheus will tell him that she told him exactly what he needed to hear.</spo> For her, truth seems to matter for the grip it gives as much as for its accuracy."
+          },
+          "references": [
+            {
+              "fr": "La visite à l'Oracle",
+              "en": "The visit to the Oracle"
+            }
+          ]
+        },
+        {
+          "axisId": "FREEDOM",
+          "does": {
+            "kind": "scalar",
+            "value": 0
+          },
+          "grounds": {
+            "fr": "L'Oracle prévient Neo de ne pas s'inquiéter pour le vase, qu'il heurte aussitôt, puis lui demande s'il l'aurait cassé si elle n'avait rien dit : la prédiction fait partie des causes de ce qu'elle prédit. <spo>Elle lui annonce le dilemme qui l'attend, sa vie ou celle de Morpheus, sans lui dire ce qu'il choisira : prédiction et décision semblent tenir ensemble, sans que la scène tranche si ce choix est libre.</spo>",
+            "en": "The Oracle tells Neo not to worry about the vase, which he knocks over at once, then asks him whether he would have broken it if she had said nothing: the prediction is part of the causes of what it predicts. <spo>She tells him the dilemma that awaits him, his life or Morpheus's, without telling him what he will choose: prediction and decision seem to hold together, without the scene settling whether that choice is free.</spo>"
+          },
+          "references": [
+            {
+              "fr": "La visite à l'Oracle",
+              "en": "The visit to the Oracle"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "concepts": [
+    {
+      "id": "hyperbolic-doubt",
+      "explanation": {
+        "fr": "La Matrice donne un corps à l'hypothèse cartésienne du malin génie : un pouvoir capable de produire toutes nos perceptions. Le film en tire une conséquence que Descartes n'envisageait pas, sortir du doute non par la raison, mais par un réveil physique.",
+        "en": "The Matrix gives a body to the Cartesian hypothesis of the evil demon: a power able to produce all our perceptions. The film draws a consequence Descartes did not consider: leaving doubt behind not through reason, but through a physical awakening."
+      }
+    },
+    {
+      "id": "free-will",
+      "explanation": {
+        "fr": "Neo revendique le pouvoir de décider de sa vie contre toute prophétie : le film met cette revendication à l'épreuve d'un avenir que d'autres disent connaître.",
+        "en": "Neo claims the power to decide his life against any prophecy: the film tests that claim against a future others say they know."
+      }
+    },
+    {
+      "id": "compatibilism",
+      "explanation": {
+        "fr": "L'Oracle tient ensemble la prédiction et le choix : savoir ce que quelqu'un fera n'empêche pas que ce soit lui qui le fasse. Le film peut se lire comme une version narrative de cette idée, où le destin ne se réalise qu'à travers une décision.",
+        "en": "The Oracle holds prediction and choice together: knowing what someone will do does not stop it from being their own doing. The film can be read as a narrative version of this idea, in which destiny comes true only through a decision."
+      }
+    },
+    {
+      "id": "hedonism",
+      "explanation": {
+        "fr": "Cypher pousse l'hédonisme à sa limite : si seul compte le plaisir éprouvé, un plaisir dont l'objet est simulé en vaut un réel. Le film fait sentir ce que cette position a de cohérent et ce qu'elle laisse de côté.",
+        "en": "Cypher pushes hedonism to its limit: if only felt pleasure counts, a pleasure whose object is simulated is worth as much as a real one. The film makes us feel both what is coherent in this position and what it leaves out."
+      }
+    }
+  ],
+  "thoughtExperimentIds": ["dream-argument", "experience-machine"],
+  "nearFigures": [
+    {
+      "kind": "PHILOSOPHER",
+      "slug": "plato",
+      "why": {
+        "fr": "Le film reprend le schéma de l'allégorie de la caverne : des prisonniers prennent des ombres pour le réel, et les yeux du libéré souffrent d'abord de la lumière.",
+        "en": "The film takes up the pattern of the allegory of the cave: prisoners mistake shadows for the real, and the freed man's eyes first hurt in the light."
+      }
+    },
+    {
+      "kind": "PHILOSOPHER",
+      "slug": "descartes",
+      "why": {
+        "fr": "Le malin génie des Méditations préfigure la Matrice : un trompeur capable de produire toutes nos perceptions.",
+        "en": "The evil demon of the Meditations prefigures the Matrix: a deceiver able to produce all our perceptions."
+      }
+    },
+    {
+      "kind": "PHILOSOPHER",
+      "slug": "nozick",
+      "why": {
+        "fr": "Sa machine à expériences pose la question de Cypher : accepterait-on une vie de plaisirs simulés ? Pour Nozick, nous voulons faire des choses et être quelqu'un, pas seulement l'éprouver.",
+        "en": "His experience machine asks Cypher's question: would we accept a life of simulated pleasures? For Nozick, we want to do things and to be someone, not merely to feel as if we did."
+      }
+    },
+    {
+      "kind": "PHILOSOPHER",
+      "slug": "nietzsche",
+      "why": {
+        "fr": "Il conteste la réponse du film : la volonté de vérité à tout prix est elle-même à interroger, et certaines illusions sont des conditions de la vie.",
+        "en": "He challenges the film's answer: the will to truth at any cost must itself be questioned, and some illusions are conditions of life."
+      }
+    },
+    {
+      "kind": "PHILOSOPHER",
+      "slug": "spinoza",
+      "why": {
+        "fr": "Pour lui, la liberté ne consiste pas à échapper aux causes mais à les comprendre : c'est la lecture déterministe que le film combat, et une autre manière de lier liberté et connaissance.",
+        "en": "For him, freedom does not consist in escaping causes but in understanding them: this is the determinist reading the film fights, and another way of linking freedom and knowledge."
+      }
+    },
+    {
+      "kind": "MOVEMENT",
+      "slug": "stoicism",
+      "why": {
+        "fr": "Les stoïciens pensaient, comme l'Oracle, que le destin s'accomplit à travers nos choix : il conduit celui qui consent et traîne celui qui résiste.",
+        "en": "The Stoics held, like the Oracle, that destiny is fulfilled through our choices: it leads the willing and drags the unwilling."
+      }
+    }
+  ],
+  "stances": [
+    {
+      "axisId": "TRUTH_VALUE",
+      "mode": "FAVORS",
+      "value": {
+        "kind": "scalar",
+        "value": -0.3
+      },
+      "undermines": ["VITAL_ILLUSION"],
+      "basis": ["NARRATIVE_OUTCOME", "FORMAL_FRAMING"],
+      "epistemicStatus": "INFERABLE",
+      "justification": {
+        "fr": "Le récit semble donner raison à la vérité pour ce qu'elle permet, non pour le bonheur qu'elle apporte : le réel y est un désert, et pourtant seul celui qui sait que la Matrice est un ensemble de règles apprend à les plier. Il ne la tient donc pas pour une valeur absolue. Le plaidoyer de Cypher est entendu, puis échoue : sa trahison paraît le disqualifier et ne lui rapporte rien. Mais la démonstration est trop commode : l'illusion est fabriquée par des ennemis, et le seul à la défendre par des raisons est un traître. Le film éprouve la thèse de l'illusion vitale plus qu'il ne la réfute, et la version pure (une illusion choisie librement, qui ne nuit à personne) reste en dehors.",
+        "en": "The narrative seems to side with truth for what it makes possible, not for the happiness it brings: the real is a desert, and yet only someone who knows the Matrix is a set of rules learns to bend them. It does not, then, treat truth as an absolute value. Cypher's plea gets a hearing, then fails: his betrayal seems to disqualify him and gains him nothing. But the demonstration is too convenient: the illusion is manufactured by enemies, and the only one to defend it with reasons is a traitor. The film tests the thesis of the life-sustaining illusion more than it refutes it, and the pure version (an illusion freely chosen, which harms no one) is left out."
+      },
+      "references": [
+        {
+          "fr": "Les deux pilules",
+          "en": "The two pills"
+        },
+        {
+          "fr": "La conversation nocturne de Cypher",
+          "en": "Cypher's night conversation"
+        },
+        {
+          "fr": "Le dîner avec l'agent Smith",
+          "en": "The dinner with Agent Smith"
+        },
+        {
+          "fr": "L'entraînement de Neo",
+          "en": "Neo's training"
+        }
+      ]
+    },
+    {
+      "axisId": "FREEDOM",
+      "mode": "FAVORS",
+      "value": {
+        "kind": "scalar",
+        "value": -0.15
+      },
+      "undermines": ["DETERMINISM"],
+      "basis": ["NARRATIVE_OUTCOME", "VALORIZED_CHARACTER"],
+      "epistemicStatus": "INFERABLE",
+      "justification": {
+        "fr": "Le film ne semble donner raison ni au libre arbitre naïf ni au déterminisme : la prophétie se réalise, mais à travers une décision que Neo prend contre ce que l'Oracle lui a laissé entendre. Le destin n'y apparaît pas comme une chaîne de causes qui court-circuiterait le choix, plutôt comme ce qui s'accomplit par lui, ce qui rapproche le récit du compatibilisme. L'agent Smith, qui ne voit dans chaque issue qu'une nécessité, est celui que le récit paraît désavouer. La fin reste une promesse : le film n'établit pas que Neo aurait pu ne pas choisir, et le dispositif de la prophétie rend l'épreuve difficile à trancher.",
+        "en": "The film seems to side neither with naive free will nor with determinism: the prophecy comes true, but through a decision Neo makes against what the Oracle led him to believe. Destiny does not appear as a chain of causes that would bypass choice, but rather as what is fulfilled through it, which brings the narrative close to compatibilism. Agent Smith, who sees in every outcome only necessity, is the one the narrative seems to disown. The ending remains a promise: the film does not establish that Neo could have chosen otherwise, and the device of the prophecy makes the test hard to settle."
+      },
+      "references": [
+        {
+          "fr": "La visite à l'Oracle et le vase",
+          "en": "The visit to the Oracle and the vase"
+        },
+        {
+          "fr": "La décision de retourner chercher Morpheus",
+          "en": "The decision to go back for Morpheus"
+        },
+        {
+          "fr": "Le combat dans le métro",
+          "en": "The subway fight"
+        }
+      ]
+    },
+    {
+      "axisId": "SOVEREIGN_GOOD",
+      "mode": "EXPOSES",
+      "basis": ["NARRATIVE_OUTCOME"],
+      "epistemicStatus": "EXTRAPOLATED",
+      "justification": {
+        "fr": "Le film semble discréditer Cypher par ses actes bien plus que par ses raisons : il ne dit jamais en quoi une vie de plaisirs simulés serait moins bonne, il montre surtout ce qu'elle coûte aux autres. Il paraît poser la question du souverain bien (le plaisir éprouvé suffit-il ?) sans la trancher.",
+        "en": "The film seems to discredit Cypher through his deeds far more than through his reasons: it never says why a life of simulated pleasures would be worse, it mostly shows what it costs others. It appears to raise the question of the sovereign good (is felt pleasure enough?) without settling it."
+      },
+      "references": [
+        {
+          "fr": "Le dîner avec l'agent Smith",
+          "en": "The dinner with Agent Smith"
+        },
+        {
+          "fr": "La trahison à bord du Nebuchadnezzar",
+          "en": "The betrayal aboard the Nebuchadnezzar"
+        }
+      ]
+    }
+  ],
+  "answer": {
+    "spoilerFree": {
+      "fr": "Le film répond d'abord par sa construction : nous découvrons la Matrice en même temps que Neo, et nous ne pouvons pas prendre la pilule bleue, puisque le film continue. Mais il ne truque pas l'alternative. Il filme le réel dans des tons bleutés et sans éclat, tandis que la simulation baigne dans la teinte verte des écrans, et il laisse à Cypher le temps de plaider.\n\nLa réponse du film n'est pas que la vérité rend heureux. C'est que seule la vérité donne prise : dans la simulation, Neo subit des règles qu'il ne comprend pas ; quand Morpheus lui apprend que certaines se plient et d'autres se brisent, il se met à les plier. Les ralentis, où le temps semble s'arrêter autour de ceux qui ont compris ces règles, mettent cette maîtrise en image. C'est parce qu'on sait où l'on est qu'on peut agir. Quant à la prophétie, le film garde sa réponse pour la fin ; jusque-là, l'Oracle prédit, mais c'est Neo qui doit agir.",
+      "en": "The film answers first through its construction: we discover the Matrix at the same time as Neo, and we cannot take the blue pill, since the film goes on. But it does not rig the alternative. It films reality in dull bluish tones, while the simulation is bathed in the green tint of computer screens, and it gives Cypher time to make his case.\n\nThe film's answer is not that truth makes us happy. It is that only truth gives purchase: inside the simulation, Neo is subject to rules he does not understand; once Morpheus tells him that some can be bent and others broken, he starts bending them. The slow-motion shots, where time seems to stop around those who have understood the rules, picture this mastery. It is because we know where we are that we can act. As for the prophecy, the film keeps its answer for the end; until then, the Oracle predicts, but it is Neo who must act."
+    },
+    "withSpoilers": {
+      "fr": "La trahison de Cypher répond à la première question à sa manière : le film ne le condamne pas pour avoir préféré le plaisir, mais pour l'avoir payé de la vie des autres. Il avance pourtant une raison, dans la bouche de l'ennemi : l'agent Smith raconte à Morpheus captif que la première Matrice était un monde parfait, sans souffrance, que les humains ont rejeté. C'est une parole intéressée, et le film ne la vérifie pas.\n\nPour la seconde question, l'Oracle laisse entendre à Neo qu'il n'est pas l'Élu, et lui annonce qu'il devra choisir entre sa vie et celle de Morpheus. Quand Morpheus est capturé, Neo décide d'aller le chercher. Ce choix, contraire à ce qu'elle lui a laissé entendre sur son rôle, le met sur la voie de l'Élu que Morpheus attendait : Morpheus lui dira ensuite que l'Oracle lui a dit exactement ce qu'il avait besoin d'entendre. Elle mesure donc la vérité selon ce qu'elle permet de faire, et le destin ne s'accomplit qu'en étant choisi, ce qu'on peut lire comme une réponse proche du <c id='compatibilism'>compatibilisme</c>.\n\nLa fin noue les deux réponses. Abattu par l'agent Smith dans la Matrice, Neo revient à la vie quand Trinity, la seconde de Morpheus, penchée sur son corps dans le monde réel, lui dit qu'elle l'aime : l'Oracle lui avait prédit qu'elle aimerait l'Élu. Le film n'y montre aucun mécanisme : la prophétie s'accomplit par un amour, celui de Trinity, et par le choix de Neo. Neo se relève et voit enfin la Matrice telle qu'elle est, des lignes de code vert ; il arrête les balles d'un geste et défait Smith de l'intérieur. C'est la thèse du film mise en image : la vérité ne rend pas heureux, elle donne prise. Neo triomphe sans quitter la simulation : il ne la détruit pas, il cesse d'en être dupe.\n\nDans la dernière scène, Neo téléphone aux machines. Il leur annonce qu'il va montrer aux humains un monde sans elles, sans règles ni contrôles, et laisse aux machines le choix de la suite. Puis il raccroche et s'envole. Cette promesse va plus loin que ce que le film a montré, où Neo ne fait que plier les règles de la simulation ; elle ne dit pas non plus si les humains réveillés seront plus heureux, ni s'ils veulent l'être : Morpheus avait prévenu que beaucoup ne sont pas prêts à être débranchés.",
+      "en": "Cypher's betrayal answers the first question in its own way: the film does not condemn him for preferring pleasure, but for paying for it with other people's lives. It does offer a reason, though, in the enemy's mouth: Agent Smith tells the captive Morpheus that the first Matrix was a perfect world, free of suffering, which humans rejected. It is a self-interested claim, and the film never checks it.\n\nOn the second question, the Oracle leads Neo to believe he is not the One, and tells him he will have to choose between his life and Morpheus's. When Morpheus is captured, Neo decides to go back for him. That choice, against what she led him to believe about his role, puts him on the path of the One Morpheus was waiting for: Morpheus will later tell him that the Oracle told him exactly what he needed to hear. She measures out the truth according to what it makes possible, and destiny is fulfilled only by being chosen, which can be read as an answer close to <c id='compatibilism'>compatibilism</c>.\n\nThe ending ties the two answers together. Shot dead by Agent Smith inside the Matrix, Neo comes back to life when Trinity, Morpheus's second-in-command, bends over his body in the real world and tells him she loves him: the Oracle had told her she would fall in love with the One. The film shows no mechanism here: the prophecy is fulfilled through a love, Trinity's, and through Neo's choice. Neo gets up and at last sees the Matrix as it is, lines of green code; he stops bullets with a gesture and undoes Smith from within. This is the film's thesis made visible: truth does not make you happy, it gives you purchase. Neo triumphs without leaving the simulation: he does not destroy it; he stops being fooled by it.\n\nIn the last scene, Neo phones the machines. He tells them he is going to show humans a world without them, without rules or controls, and leaves it to the machines to decide where things go from there. Then he hangs up and flies off. That promise goes further than anything the film has shown, where Neo only bends the simulation's rules; nor does it say whether awakened humans will be happier, or whether they want to be: Morpheus had warned that many are not ready to be unplugged."
+    }
+  },
+  "limits": {
+    "fr": "Le film rend l'illusion facile à refuser : elle est fabriquée par des ennemis qui exploitent les humains, et le seul qui la défend est discrédité par ce qu'il fait plutôt que réfuté. <dif>Le cas difficile reste ouvert : une illusion choisie librement, qui ne nuit à personne</dif>, comme la machine de Nozick dans sa forme pure. Le film effleure aussi ceux qui ne veulent pas être libérés : <pb>a-t-on le droit de réveiller quelqu'un malgré lui ?</pb>",
+    "en": "The film makes the illusion easy to refuse: it is manufactured by enemies who exploit humans, and the only one who argues for it is discredited by what he does rather than refuted. <dif>The hard case remains open: an illusion freely chosen, which harms no one</dif>, like Nozick's machine in its pure form. The film also brushes against those who do not want to be freed: <pb>do we have the right to wake someone against their will?</pb>"
+  },
+  "further": {
+    "readings": [
+      {
+        "workId": "republic-plato",
+        "locus": {
+          "fr": "Livre VII, l'allégorie de la caverne",
+          "en": "Book VII, the allegory of the cave"
+        },
+        "why": {
+          "fr": "Le récit fondateur de la libération hors des apparences, avec ce que le film reprend (la douleur des yeux qui découvrent la lumière) et ce qu'il ne fait qu'effleurer (le retour difficile auprès des prisonniers, qui résistent à ceux qui veulent les libérer).",
+          "en": "The founding account of liberation from appearances, with what the film takes up (the pain of eyes discovering the light) and what it only touches on (the difficult return to the prisoners, who resist those who want to free them)."
+        }
+      },
+      {
+        "workId": "meditations-descartes",
+        "locus": {
+          "fr": "Première méditation",
+          "en": "First Meditation"
+        },
+        "why": {
+          "fr": "L'hypothèse du malin génie, et la question de ce qui résiste au doute quand tout ce que l'on perçoit pourrait être fabriqué.",
+          "en": "The evil demon hypothesis, and the question of what withstands doubt when everything we perceive could be manufactured."
+        }
+      },
+      {
+        "workId": "anarchy-state-and-utopia-nozick",
+        "locus": {
+          "fr": "Chapitre 3, la machine à expériences",
+          "en": "Chapter 3, the experience machine"
+        },
+        "why": {
+          "fr": "Trois raisons de refuser de se brancher, à confronter au plaidoyer de Cypher.",
+          "en": "Three reasons for refusing to plug in, to set against Cypher's plea."
+        }
+      },
+      {
+        "workId": "on-truth-and-lie-in-a-nonmoral-sense-nietzsche",
+        "why": {
+          "fr": "Le contrepoint : nos vérités sont des illusions dont on a oublié qu'elles en sont, et la volonté de vérité ne va pas de soi.",
+          "en": "The counterpoint: our truths are illusions we have forgotten are illusions, and the will to truth cannot be taken for granted."
+        }
+      },
+      {
+        "title": {
+          "fr": "Simulacres et simulation",
+          "en": "Simulacra and Simulation"
+        },
+        "author": {
+          "fr": "Jean Baudrillard",
+          "en": "Jean Baudrillard"
+        },
+        "year": 1981,
+        "why": {
+          "fr": "Le livre apparaît dans le film, évidé pour cacher des disquettes : la thèse d'un monde où les copies ont remplacé le réel.",
+          "en": "The book appears in the film, hollowed out to hide disks: the thesis of a world where copies have replaced the real."
+        }
+      }
+    ],
+    "fictions": [
+      {
+        "title": {
+          "fr": "The Truman Show",
+          "en": "The Truman Show"
+        },
+        "medium": "FILM",
+        "year": 1998,
+        "direction": "EXTENDS",
+        "why": {
+          "fr": "Un homme découvre que sa vie entière est une mise en scène, et doit choisir entre ce décor rassurant et un monde inconnu.",
+          "en": "A man discovers that his whole life is staged, and must choose between that reassuring set and an unknown world."
+        }
+      },
+      {
+        "title": {
+          "fr": "Le Canard sauvage",
+          "en": "The Wild Duck"
+        },
+        "medium": "PLAY",
+        "year": 1884,
+        "direction": "CONTESTS",
+        "why": {
+          "fr": "Un idéaliste impose la vérité à une famille qui vivait d'un mensonge, avec des conséquences tragiques : la pièce met en scène le « mensonge vital » que Matrix refuse.",
+          "en": "An idealist forces the truth on a family that lived on a lie, with tragic consequences: the play stages the “life-lie” that The Matrix rejects."
+        }
+      },
+      {
+        "title": {
+          "fr": "Minority Report",
+          "en": "Minority Report"
+        },
+        "medium": "FILM",
+        "year": 2002,
+        "direction": "EXTENDS",
+        "why": {
+          "fr": "Des voyants prédisent les crimes avant qu'ils soient commis : connaître l'avenir de quelqu'un lui ôte-t-il le pouvoir de choisir ?",
+          "en": "Seers predict crimes before they are committed: does knowing someone's future take away their power to choose?"
+        }
+      }
+    ]
+  },
+  "updatedAt": "2026-10-21T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

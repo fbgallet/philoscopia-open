@@ -1,0 +1,9 @@
+{
+  "id": "agis-de-facon-que-les-effets-jonas",
+  "text": { "fr": "Agis de façon que les effets de ton action soient compatibles avec la permanence d'une vie authentiquement humaine sur terre.", "en": "Act so that the effects of your action are compatible with the permanence of genuine human life on Earth." },
+  "author": { "name": { "fr": "Jonas", "en": "Jonas" }, "kind": "PHILOSOPHER", "slug": "jonas" },
+  "work": "imperative-of-responsibility-jonas",
+  "source": { "fr": "Le Principe responsabilité, ch. I", "en": "The Imperative of Responsibility, ch. I" },
+  "anchors": [{ "axisId": "FUTURE_GENERATIONS", "poleId": "RESPONSIBILITY_PRINCIPLE" }],
+  "updatedAt": "2026-10-11T00:00:00.000Z"
+}

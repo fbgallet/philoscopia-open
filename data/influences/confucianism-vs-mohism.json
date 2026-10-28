@@ -1,0 +1,16 @@
+{
+  "id": "confucianism-vs-mohism",
+  "from": { "kind": "MOVEMENT", "slug": "confucianism" },
+  "to": { "kind": "MOVEMENT", "slug": "mohism" },
+  "directness": "ATTESTED",
+  "mode": "REACTS_AGAINST",
+  "strength": "STRONG",
+  "note": {
+    "fr": "Le <mv id='mohism'>mohisme</mv> naît contre le <mv id='confucianism'>confucianisme</mv> : contre ses rites coûteux, sa musique de cour, ses longs deuils et surtout son amour gradué, il oppose le critère du bénéfice commun et le souci impartial de tous.",
+    "en": "<mv id='mohism'>Mohism</mv> arose against <mv id='confucianism'>Confucianism</mv>: against its costly rites, court music, long mourning periods and above all its graded love, it set the criterion of common benefit and impartial concern for all."
+  },
+  "sources": [
+    { "fr": "Mozi, ch. 39 (« Contre les confucéens »)", "en": "Mozi, ch. 39 (\"Against the Confucians\")" }
+  ],
+  "updatedAt": "2026-10-09T00:00:00.000Z"
+}

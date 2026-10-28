@@ -1,0 +1,27 @@
+{
+  "id": "barnum-effect",
+  "term": {
+    "fr": "Effet Barnum",
+    "en": "Barnum effect"
+  },
+  "aliases": {
+    "fr": [
+      "effet Forer"
+    ],
+    "en": [
+      "Forer effect"
+    ]
+  },
+  "definition": {
+    "fr": "L'effet Barnum, ou effet Forer, est la tendance à reconnaître comme une description précise de soi des énoncés assez vagues pour convenir à presque tout le monde. Le psychologue Bertram Forer l'a mis en évidence en 1948 avec un portrait tiré d'horoscopes, que ses étudiants ont tous jugé fidèle. Il explique en partie le succès des horoscopes, de la voyance et de certains tests de personnalité.",
+    "en": "The Barnum effect, or Forer effect, is the tendency to accept as an accurate description of oneself statements vague enough to fit almost anyone. The psychologist Bertram Forer demonstrated it in 1948 with a portrait drawn from horoscopes, which his students all judged accurate. It partly explains the success of horoscopes, fortune-telling and some personality tests."
+  },
+  "relatedAxes": [
+    "SCIENTIFIC_METHOD"
+  ],
+  "relatedTerms": [
+    "confirmation-bias",
+    "pseudo-science"
+  ],
+  "updatedAt": "2026-10-29T00:00:00.000Z"
+}

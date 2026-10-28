@@ -71,7 +71,7 @@ Ce qui la met en mouvement n'est pas un devoir abstrait envers tous les morts, m
 
 **Pratiquée** : Se préparer au passage 80% · Vivre en vue de sa mort 20%
 
-<spo>Antigone marche vers la mort en comptant y retrouver les siens : elle reposera chère à Polynice près de celui qui lui est cher, accueillie chez Hadès par son père, sa mère et son frère. Elle déclare que mourir avant l'heure est pour elle un gain, et son acceptation lucide du tombeau donne à sa mort la valeur d'un accomplissement choisi.</spo>
+(Spoilers : Antigone marche vers la mort en comptant y retrouver les siens : elle reposera chère à Polynice près de celui qui lui est cher, accueillie chez Hadès par son père, sa mère et son frère. Elle déclare que mourir avant l'heure est pour elle un gain, et son acceptation lucide du tombeau donne à sa mort la valeur d'un accomplissement choisi.)
 
 *Sources : Prologue · Deuxième épisode (v. 460-464)*
 

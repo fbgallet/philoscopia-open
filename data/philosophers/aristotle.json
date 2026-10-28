@@ -34,10 +34,69 @@
     "fr": "Grec",
     "en": "Greek"
   },
+  "language": "grc",
   "movements": [
     "aristotelianism"
   ],
   "entries": [
+    {
+      "axisId": "AUTHORITY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.6
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "La cité est naturelle parce qu'elle accomplit les capacités humaines de langage, de délibération et de vie bonne : celui qui, par nature, n'en aurait aucun besoin serait « une bête ou un dieu ». Aristote préfère le gouvernement de la loi, « intelligence sans désir », à celui des passions d'un individu, sans exclure des magistrats capables de juger les cas particuliers. Entre citoyens libres et égaux, l'autorité consiste à gouverner et être gouverné à tour de rôle ; et pour la plupart des cités, le meilleur régime praticable mêle des éléments démocratiques et oligarchiques, adossés à une classe moyenne nombreuse.",
+          "en": "The city is natural because it fulfils the human capacities for speech, deliberation and the good life: whoever by nature had no need of it would be \"a beast or a god\". Aristotle prefers the rule of law, \"intelligence without appetite\", to the passions of an individual, without ruling out magistrates able to judge particular cases. Among free and equal citizens, authority means ruling and being ruled in turn; and for most cities the best practicable regime blends democratic and oligarchic elements, resting on a large middle class."
+        },
+        "references": [
+          {
+            "fr": "Politique, I, 2 (1253a)",
+            "en": "Politics, I, 2 (1253a)"
+          },
+          {
+            "fr": "Politique, III, 16 (1287a)",
+            "en": "Politics, III, 16 (1287a)"
+          },
+          {
+            "fr": "Politique, IV, 8-11",
+            "en": "Politics, IV, 8-11"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "HUMAN_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.5
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "L'homme est par nature un animal politique et doué de <c id='logos'>logos</c>, et ses fins sont inscrites dans cette nature. Mais la vertu n'est pas donnée : elle naît de l'habitude, qui forme comme une seconde nature, et c'est la cité, par les lois et l'éducation, qui façonne le caractère. Naturalisme, donc, mais d'une nature qui a besoin de la culture pour s'accomplir.",
+          "en": "Man is by nature a political animal endowed with <c id='logos'>logos</c>, and his ends are inscribed in that nature. But virtue is not given: it arises from habit, which forms a kind of second nature, and it is the city, through laws and education, that shapes character. This is a naturalism, then, in which human nature needs habituation and education to reach its fulfilment."
+        },
+        "references": [
+          {
+            "fr": "Politique, I, 2",
+            "en": "Politics, I, 2"
+          },
+          {
+            "fr": "Éthique à Nicomaque, II, 1",
+            "en": "Nicomachean Ethics, II, 1"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
     {
       "axisId": "BEING_BECOMING",
       "status": "POSITIONED",
@@ -952,7 +1011,7 @@
       "en": "https://en.wikipedia.org/wiki/Aristotle"
     }
   },
-  "updatedAt": "2026-07-19T00:00:00.000Z",
+  "updatedAt": "2026-10-11T00:00:00.000Z",
   "validation": {
     "method": "NOT_VALIDATED"
   }

@@ -1,0 +1,124 @@
+{
+  "id": "coherentism-isolation-objection",
+  "kind": "OBJECTS",
+  "position": {
+    "axisId": "EPISTEMIC_JUSTIFICATION",
+    "poleId": "COHERENTISM"
+  },
+  "name": {
+    "fr": "Cohérent, mais coupé du réel",
+    "en": "Coherent, but cut off from reality"
+  },
+  "attacks": "POSITION",
+  "claim": {
+    "fr": "Un roman bien construit est parfaitement cohérent : la cohérence seule ne garantit aucun contact avec le monde.",
+    "en": "A well-built novel is perfectly coherent: coherence alone guarantees no contact with the world."
+  },
+  "summary": {
+    "fr": "On peut bâtir une infinité d'ensembles cohérents et incompatibles. Si la seule cohérence justifiait, rien ne permettrait de choisir entre eux : il faut un ancrage hors du réseau.",
+    "en": "One can build infinitely many coherent and mutually incompatible wholes. If coherence alone justified, nothing would let us choose between them: an anchor outside the web is needed."
+  },
+  "development": [
+    {
+      "fr": "Pour le cohérentisme, une croyance est justifiée par son accord avec l'ensemble.",
+      "en": "For coherentism, a belief is justified by its fit with the whole."
+    },
+    {
+      "fr": "Mais on peut construire une infinité d'ensembles cohérents et incompatibles entre eux : un roman, une mythologie, un délire bien organisé. Chacun tient parfaitement, et ils ne peuvent pas tous être vrais.",
+      "en": "But one can build infinitely many coherent wholes that are incompatible with one another: a novel, a mythology, a well-organized delusion. Each holds together perfectly, and they cannot all be true."
+    },
+    {
+      "fr": "Si la seule cohérence justifiait, rien ne permettrait de choisir entre eux : il faut que quelque chose hors du réseau le contraigne, l'expérience, l'observation, le monde lui-même.",
+      "en": "If coherence alone justified, nothing would let us choose between them: something outside the web must constrain it, experience, observation, the world itself."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc la cohérence est une condition, non une garantie : un savoir doit aussi être ancré dans ce qui ne dépend pas de lui.",
+    "en": "So coherence is a condition, not a guarantee: knowledge must also be anchored in what does not depend on it."
+  },
+  "difficulty": 2,
+  "responses": [
+    {
+      "id": "revise",
+      "label": {
+        "fr": "C'est juste : il faut un point d'appui dans l'expérience, que la cohérence ne remplace pas.",
+        "en": "Fair enough: there must be a footing in experience, which coherence cannot replace."
+      },
+      "hints": [
+        {
+          "axisId": "EPISTEMIC_JUSTIFICATION",
+          "value": {
+            "kind": "weights",
+            "weights": [
+              0.6,
+              0.3,
+              0.1
+            ]
+          },
+          "weight": 2
+        }
+      ],
+      "discussion": {
+        "fr": "Vous revenez à des fondations : l'expérience ancre le réseau, au lieu d'y être une croyance parmi d'autres.",
+        "en": "You come back to foundations: experience anchors the web, instead of being one belief among others."
+      }
+    },
+    {
+      "id": "qualify",
+      "label": {
+        "fr": "La cohérence doit inclure toutes nos observations : un ensemble qui intègre l'expérience disponible n'est pas un roman.",
+        "en": "Coherence must include all our observations: a whole that takes in the available experience is not a novel."
+      },
+      "hints": [
+        {
+          "axisId": "EPISTEMIC_JUSTIFICATION",
+          "value": {
+            "kind": "weights",
+            "weights": [
+              0.15,
+              0.6,
+              0.25
+            ]
+          },
+          "weight": 1
+        }
+      ],
+      "discussion": {
+        "fr": "Un cohérentisme exigeant : la cohérence vaut si elle englobe l'expérience, et non si elle s'en passe.",
+        "en": "A demanding coherentism: coherence counts if it takes in experience, not if it does without it."
+      }
+    },
+    {
+      "id": "refute",
+      "label": {
+        "fr": "Nous n'accédons jamais au monde hors de nos croyances : une observation ne compte qu'une fois intégrée au réseau.",
+        "en": "We never reach the world outside our beliefs: an observation counts only once it is part of the web."
+      },
+      "hints": [
+        {
+          "axisId": "EPISTEMIC_JUSTIFICATION",
+          "value": {
+            "kind": "weights",
+            "weights": [
+              0.05,
+              0.85,
+              0.1
+            ]
+          },
+          "weight": 0.5
+        }
+      ],
+      "discussion": {
+        "fr": "Vous tenez la ligne cohérentiste : il n'y a pas de point de vue hors du réseau d'où le comparer au monde.",
+        "en": "You hold the coherentist line: there is no standpoint outside the web from which to compare it with the world."
+      }
+    }
+  ],
+  "targets": [
+    "coherentism-neurath-boat"
+  ],
+  "problems": [
+    "coherent-but-false"
+  ],
+  "updatedAt": "2026-10-28T00:00:00.000Z"
+}

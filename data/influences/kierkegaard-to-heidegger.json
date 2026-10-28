@@ -1,0 +1,16 @@
+{
+  "id": "kierkegaard-to-heidegger",
+  "from": { "kind": "PHILOSOPHER", "slug": "kierkegaard" },
+  "to": { "kind": "PHILOSOPHER", "slug": "heidegger" },
+  "directness": "ATTESTED",
+  "mode": "REINTERPRETS",
+  "strength": "MEDIUM",
+  "note": {
+    "fr": "<ph id='heidegger'>Heidegger</ph> reprend de <ph id='kierkegaard'>Kierkegaard</ph> l'<c>angoisse</c>, l'instant et l'existence comme tâche, en les détachant de leur horizon chrétien : les notes d'<w id='being-and-time-heidegger'>Être et temps</w> reconnaissent la dette tout en jugeant l'analyse kierkegaardienne restée « existentielle » plutôt qu'ontologique.",
+    "en": "<ph id='heidegger'>Heidegger</ph> takes from <ph id='kierkegaard'>Kierkegaard</ph> <c>anxiety</c>, the moment and existence as a task, detaching them from their Christian horizon: the notes of <w id='being-and-time-heidegger'>Being and Time</w> acknowledge the debt while judging Kierkegaard's analysis to have remained \"existentiell\" rather than ontological."
+  },
+  "sources": [
+    { "fr": "Heidegger, Être et temps, §40 (note), §45 (note), §68 (note)", "en": "Heidegger, Being and Time, §40 (note), §45 (note), §68 (note)" }
+  ],
+  "updatedAt": "2026-10-11T00:00:00.000Z"
+}

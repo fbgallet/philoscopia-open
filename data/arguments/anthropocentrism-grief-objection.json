@@ -1,0 +1,127 @@
+{
+  "id": "anthropocentrism-grief-objection",
+  "kind": "OBJECTS",
+  "position": {
+    "axisId": "MORAL_CIRCLE",
+    "poleId": "ANTHROPOCENTRISM"
+  },
+  "name": {
+    "fr": "Le chagrin pour l'animal",
+    "en": "Grief for the animal"
+  },
+  "attacks": "POSITION",
+  "claim": {
+    "fr": "Quand votre chien souffre, c'est pour lui que vous avez mal, non pour votre propre humanité : nos devoirs envers les bêtes ne peuvent pas être seulement indirects.",
+    "en": "When your dog suffers, it is for the dog that you ache, not for your own humanity: our duties regarding animals cannot be merely indirect."
+  },
+  "summary": {
+    "fr": "L'anthropocentrisme ne reconnaît envers les bêtes que des devoirs indirects, fondés sur ce que la cruauté fait de nous. Mais notre pitié vise l'animal lui-même, et nous condamnons la cruauté secrète qui n'endurcit personne : c'est donc à l'animal que le tort est fait.",
+    "en": "Anthropocentrism grants only indirect duties regarding animals, grounded in what cruelty does to us. But our pity targets the animal itself, and we condemn secret cruelty that hardens no one: so the wrong is done to the animal."
+  },
+  "development": [
+    {
+      "fr": "Pour l'anthropocentrisme, nous n'avons envers les animaux que des <c id='indirect-duties'>devoirs indirects</c> : dans sa version la plus nette, celle de <ph id='kant'>Kant</ph>, la cruauté est condamnable parce que <q>« celui qui est cruel envers les bêtes s'endurcit aussi envers les hommes »</q>.",
+      "en": "For anthropocentrism, we have only <c id='indirect-duties'>indirect duties</c> regarding animals: in its clearest version, <ph id='kant'>Kant</ph>'s, cruelty is wrong because <q>\"he who is cruel to animals becomes hard also in his dealings with men.\"</q>"
+    },
+    {
+      "fr": "Mais voyez ce que nous éprouvons devant un chien blessé ou une bête maltraitée : ce n'est pas l'inquiétude pour notre caractère, c'est de la pitié pour elle. Et nous jugeons coupable celui qui torture un animal en secret, même s'il ne s'endurcit en rien.",
+      "en": "But look at what we feel before an injured dog or a mistreated animal: not concern for our own character, but pity for the creature. And we judge guilty whoever tortures an animal in secret, even if it hardens him in no way."
+    },
+    {
+      "fr": "Supposons une cruauté sans témoin, qui ne change en rien son auteur : si le tort ne tenait qu'à ses effets sur nous, elle serait innocente ; personne ne le croit. C'est donc bien à l'animal que le tort est fait.",
+      "en": "Suppose a cruelty without witness, which changes its author in no way: if the wrong lay only in its effects on us, it would be innocent; no one believes that. So it is indeed the animal that is wronged."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc l'animal qui souffre compte pour lui-même : le cercle moral ne peut s'arrêter aux personnes sans contredire nos jugements les plus sûrs.",
+    "en": "So the suffering animal counts for its own sake: the moral circle cannot stop at persons without contradicting our firmest judgments."
+  },
+  "difficulty": 1,
+  "responses": [
+    {
+      "id": "revise",
+      "label": {
+        "fr": "C'est vrai : c'est pour l'animal que j'ai mal, et c'est à lui que le tort est fait. Sa souffrance compte en elle-même.",
+        "en": "True: it is for the animal that I ache, and it is the animal that is wronged. Its suffering counts in itself."
+      },
+      "hints": [
+        {
+          "axisId": "MORAL_CIRCLE",
+          "value": {
+            "kind": "weights",
+            "weights": [
+              0.3,
+              0.6,
+              0.05,
+              0.05
+            ]
+          },
+          "weight": 1
+        }
+      ],
+      "discussion": {
+        "fr": "Vous faites entrer les êtres sensibles dans le cercle : c'est le pas qu'ont fait <ph id='bentham'>Bentham</ph> puis <ph id='singer'>Singer</ph>.",
+        "en": "You bring sentient beings into the circle: the step taken by <ph id='bentham'>Bentham</ph>, then <ph id='singer'>Singer</ph>."
+      }
+    },
+    {
+      "id": "qualify",
+      "label": {
+        "fr": "Cette pitié vise bien l'animal, mais elle ne fonde pas des droits : nous lui devons de ne pas le faire souffrir, non le respect dû à une personne.",
+        "en": "That pity does target the animal, but it grounds no rights: we owe it not to make it suffer, not the respect owed to a person."
+      },
+      "hints": [
+        {
+          "axisId": "MORAL_CIRCLE",
+          "value": {
+            "kind": "weights",
+            "weights": [
+              0.7,
+              0.25,
+              0.05,
+              0
+            ]
+          },
+          "weight": 1
+        }
+      ],
+      "discussion": {
+        "fr": "Vous gardez la hiérarchie, mais l'animal y gagne une place propre : des devoirs envers lui, sans l'égalité due aux personnes.",
+        "en": "You keep the hierarchy, but the animal gains a place of its own in it: duties toward it, without the equality owed to persons."
+      }
+    },
+    {
+      "id": "refute",
+      "label": {
+        "fr": "Un sentiment n'est pas un critère : on a aussi de la peine pour un objet aimé qu'on brise. La pitié dit quelque chose de nous, non du statut de l'animal.",
+        "en": "A feeling is not a criterion: we also grieve when a beloved object breaks. Pity says something about us, not about the animal's standing."
+      },
+      "hints": [
+        {
+          "axisId": "MORAL_CIRCLE",
+          "value": {
+            "kind": "weights",
+            "weights": [
+              0.9,
+              0.08,
+              0.02,
+              0
+            ]
+          },
+          "weight": 0.5
+        }
+      ],
+      "discussion": {
+        "fr": "Vous tenez la ligne kantienne : nos émotions témoignent de notre humanité, elles ne décident pas de qui a des droits.",
+        "en": "You hold the Kantian line: our emotions bear witness to our humanity, they do not decide who has rights."
+      }
+    }
+  ],
+  "targets": [
+    "anthropocentrism-dignity"
+  ],
+  "problems": [
+    "species-privilege"
+  ],
+  "updatedAt": "2026-10-11T00:00:00.000Z"
+}

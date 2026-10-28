@@ -1,0 +1,9 @@
+{
+  "id": "la-plus-forte-cause-d-alienation-simondon",
+  "text": { "fr": "La plus forte cause d'aliénation dans le monde contemporain réside dans cette méconnaissance de la machine, qui n'est pas une aliénation causée par la machine, mais par la non-connaissance de sa nature et de son essence.", "en": "The strongest cause of alienation in the contemporary world resides in this misunderstanding of the machine, which is not an alienation caused by the machine, but by the non-knowledge of its nature and its essence." },
+  "author": { "name": { "fr": "Simondon", "en": "Simondon" }, "kind": "PHILOSOPHER", "slug": "simondon" },
+  "work": "mode-of-existence-of-technical-objects-simondon",
+  "source": { "fr": "Du mode d'existence des objets techniques, introduction", "en": "On the Mode of Existence of Technical Objects, introduction" },
+  "anchors": [{ "axisId": "TECHNOLOGY" }],
+  "updatedAt": "2026-10-11T00:00:00.000Z"
+}

@@ -1,0 +1,22 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "nishitani",
+  "stub": true,
+  "name": { "fr": "Nishitani", "en": "Nishitani" },
+  "fullName": { "fr": "Nishitani Keiji", "en": "Nishitani Keiji" },
+  "summary": {
+    "fr": "Élève de <ph id='nishida'>Nishida</ph> et de <ph id='heidegger'>Heidegger</ph>, figure majeure de l'<mv id='kyoto-school'>école de Kyoto</mv>, penseur du dépassement du nihilisme par la vacuité.",
+    "en": "Student of <ph id='nishida'>Nishida</ph> and of <ph id='heidegger'>Heidegger</ph>, a major figure of the <mv id='kyoto-school'>Kyoto School</mv>, thinker of the overcoming of nihilism through emptiness."
+  },
+  "birth": 1900,
+  "death": 1990,
+  "nationality": { "fr": "Japonais", "en": "Japanese" },
+  "language": "jpn",
+  "movements": [
+    "kyoto-school"
+  ],
+  "updatedAt": "2026-10-09T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

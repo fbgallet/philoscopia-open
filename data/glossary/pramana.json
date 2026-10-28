@@ -1,0 +1,28 @@
+{
+  "id": "pramana",
+  "term": {
+    "fr": "Pramāṇa (moyen de connaissance valide)",
+    "en": "Pramāṇa (means of valid knowledge)"
+  },
+  "aliases": {
+    "fr": [
+      "pramana"
+    ],
+    "en": [
+      "pramana"
+    ]
+  },
+  "definition": {
+    "fr": "Dans les philosophies de l'Inde, un pramāṇa est un moyen de connaissance valide, dont la définition et les critères varient selon les écoles. Le <mv id='nyaya'>Nyāya</mv> classique en reconnaît quatre : perception, inférence, comparaison et témoignage digne de foi ; la tradition bouddhique de <ph>Dignāga</ph> et <ph>Dharmakīrti</ph> retient la perception et l'inférence. Leur nombre, leur portée et leur justification constituent un enjeu majeur des controverses indiennes. <ph id='nagarjuna'>Nāgārjuna</ph> critique leur établissement comme fondements indépendants, sans que cela impose de nier leur usage conventionnel.",
+    "en": "In the philosophies of India, a pramāṇa is a means of valid knowledge, whose definition and criteria vary between schools. Classical <mv id='nyaya'>Nyāya</mv> recognizes four: perception, inference, comparison and reliable testimony; the Buddhist tradition of <ph>Dignāga</ph> and <ph>Dharmakīrti</ph> keeps perception and inference. Their number, scope and justification are a central stake of Indian controversies. <ph id='nagarjuna'>Nāgārjuna</ph> criticizes establishing them as independent foundations, without this requiring a denial of their conventional use."
+  },
+  "relatedAxes": [
+    "KNOWLEDGE_SOURCE",
+    "CERTAINTY"
+  ],
+  "relatedTerms": [
+    "paratah-pramanya",
+    "vyapti"
+  ],
+  "updatedAt": "2026-10-10T00:00:00.000Z"
+}

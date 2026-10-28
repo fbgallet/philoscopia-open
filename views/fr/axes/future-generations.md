@@ -34,6 +34,8 @@ Nos obligations vont d'abord aux personnes qui existent ici et maintenant : leur
 
 ## Citations
 
+> « Agis de façon que les effets de ton action soient compatibles avec la permanence d'une vie authentiquement humaine sur terre. » — [Jonas](../philosophers/jonas.md), Le Principe responsabilité, ch. I
+
 > « Souvenez-vous de votre humanité, et oubliez le reste. » — [Russell](../philosophers/russell.md), Manifeste Russell-Einstein (1955), appel final
 
 ## Axes liés

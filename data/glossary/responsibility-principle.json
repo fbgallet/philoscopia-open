@@ -1,0 +1,14 @@
+{
+  "id": "responsibility-principle",
+  "term": { "fr": "Principe responsabilité", "en": "Imperative of responsibility" },
+  "aliases": { "fr": ["principe de responsabilité"], "en": ["principle of responsibility"] },
+  "definition": {
+    "fr": "Titre du livre de <ph id='jonas'>Jonas</ph> (1979) et nom de la doctrine qu'il y défend. Parce que la technique donne à nos actes des effets cumulatifs, irréversibles et planétaires, l'éthique doit s'étendre aux <ax id='FUTURE_GENERATIONS'>générations futures</ax>. Jonas reformule l'impératif de <ph id='kant'>Kant</ph> : « Agis de façon que les effets de ton action soient compatibles avec la permanence d'une vie authentiquement humaine sur terre. » Cette responsabilité ne repose pas sur la réciprocité, mais sur la vulnérabilité de ce qui dépend de nous, sur le modèle des parents envers le nouveau-né.",
+    "en": "The title of <ph id='jonas'>Jonas</ph>'s book (1979) and the name of the doctrine he defends in it. Because technology gives our acts cumulative, irreversible and planetary effects, ethics must extend to <ax id='FUTURE_GENERATIONS'>future generations</ax>. Jonas reformulates <ph id='kant'>Kant</ph>'s imperative: \"Act so that the effects of your action are compatible with the permanence of genuine human life on Earth.\" This responsibility rests not on reciprocity but on the vulnerability of what depends on us, on the model of parents toward a newborn."
+  },
+  "relatedAxes": ["FUTURE_GENERATIONS", "TECHNOLOGY", "HUMAN_PLACE_NATURE"],
+  "relatedTerms": ["heuristics-of-fear", "categorical-imperative"],
+  "figure": { "slug": "jonas", "name": { "fr": "Hans Jonas", "en": "Hans Jonas" } },
+  "positions": [{ "axisId": "FUTURE_GENERATIONS", "poleId": "RESPONSIBILITY_PRINCIPLE" }],
+  "updatedAt": "2026-10-11T00:00:00.000Z"
+}

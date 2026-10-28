@@ -33,6 +33,8 @@
     "fr": "Néerlandais",
     "en": "Dutch"
   },
+  "language": "lat",
+  "otherLanguages": ["nld"],
   "movements": [
     "rationalism"
   ],

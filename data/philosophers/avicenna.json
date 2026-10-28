@@ -20,7 +20,10 @@
     "fr": "Persan",
     "en": "Persian"
   },
+  "language": "ara",
+  "otherLanguages": ["fas"],
   "movements": [
+    "falsafa",
     "aristotelianism"
   ],
   "updatedAt": "2026-06-29T00:00:00.000Z",

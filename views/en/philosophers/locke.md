@@ -18,6 +18,46 @@ An English physician and philosopher of the dawning Enlightenment, regarded as t
 
 ## Positions
 
+### [Humanity's place in nature](../axes/human-place-nature.md)
+
+*positioned · explicit in the texts · minor*
+
+Mastery 100%
+
+God gave the earth to men for their support and convenience, "to the use of the industrious and rational", and Locke justifies its appropriation by labour, which multiplies its economic value: land left uncultivated yields next to nothing. His argument thus favours the productive improvement of nature, not its preservation for its own sake. The initial limits protect other people, by forbidding one to let appropriated goods spoil and by requiring that "enough, and as good" be left for others; the introduction of money then allows unequal holdings beyond immediate needs.
+
+*Sources : Second Treatise of Government, ch. V, §26-37 · Second Treatise of Government, ch. V, §40-43 and §46-50*
+
+### [Relation to technology](../axes/technology.md)
+
+*positioned · inferable · minor*
+
+Techno-optimism 75% · Techno-criticism 25%
+
+Our knowledge of nature does not reach real essences, but it is enough for what matters to us: the conduct of life and the conveniences we can draw from things. Locke sees in the useful arts, grounded in experience and natural history, the true benefit of natural philosophy. To show what labour and improvement add to the land, he contrasts the king of a large territory in America with an English day-labourer, who is better fed, housed and clothed.
+
+*Sources : An Essay Concerning Human Understanding, IV, 12, §10-12 · Second Treatise of Government, ch. V, §41*
+
+### [Moral circle](../axes/moral-circle.md)
+
+*positioned · inferable · minor*
+
+Anthropocentrism 100%
+
+Locke condemns cruelty to animals because tormenting them can harden children and make them more likely to be cruel to other people. The prohibition belongs to a view in which animals are given for human use, within the limits of natural law. The reason explicitly given is therefore indirect: it aims to preserve human compassion rather than grounding the prohibition in any recognised worth of the animal itself.
+
+*Sources : Some Thoughts Concerning Education, §116 · Second Treatise of Government, §26*
+
+### [Explaining nature](../axes/causality.md)
+
+*positioned · inferable · minor*
+
+Mechanism 90% · Finalism 10%
+
+Locke favours Boyle's **corpuscular hypothesis** to make intelligible how sensible qualities arise from the shape, size and motion of imperceptible parts. But our ignorance of the real constitution of bodies prevents it from being a demonstrated and complete account of all their powers. His theology attributes nature to an intelligent creator, but offers no theory of final causes for particular natural phenomena.
+
+*Sources : An Essay Concerning Human Understanding, II, 8 · An Essay Concerning Human Understanding, IV, 3 (§6 and §16); IV, 10*
+
 ### [The meaning of suffering](../axes/suffering-meaning.md)
 
 *positioned · inferable · minor*
@@ -283,12 +323,6 @@ By justifying the right of resistance and the revocability of government, Locke 
 *not applicable*
 
 Anachronistic question: comparing the mind to a computing machine postdates Locke by centuries, and he does not address it.
-
-### [Relation to technology](../axes/technology.md)
-
-*not applicable*
-
-Locke develops no position on technology as a distinct philosophical theme; the axis belongs to later debates.
 
 ### [Nature of rights](../axes/rights-nature.md)
 

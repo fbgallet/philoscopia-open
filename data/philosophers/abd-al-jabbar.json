@@ -1,0 +1,23 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "abd-al-jabbar",
+  "stub": true,
+  "name": { "fr": "ʿAbd al-Jabbār", "en": "ʿAbd al-Jabbār" },
+  "fullName": { "fr": "al-Qāḍī ʿAbd al-Jabbār", "en": "al-Qāḍī ʿAbd al-Jabbār" },
+  "summary": {
+    "fr": "Grand théologien muʿtazilite, auteur d'une somme sur la justice divine et la liberté humaine, sommet de la théologie rationaliste du <mv id='kalam'>kalām</mv>.",
+    "en": "A great Muʿtazilite theologian, author of a summa on divine justice and human freedom, the high point of the rationalist theology of <mv id='kalam'>kalām</mv>."
+  },
+  "birth": 935,
+  "death": 1025,
+  "nationality": { "fr": "Persan", "en": "Persian" },
+  "datesApprox": true,
+  "language": "ara",
+  "movements": [
+    "kalam"
+  ],
+  "updatedAt": "2026-10-09T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

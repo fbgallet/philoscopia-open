@@ -16,6 +16,8 @@
     "fr": "Japonais",
     "en": "Japanese"
   },
+  "language": "jpn",
+  "otherLanguages": ["lzh"],
   "movements": [
     "buddhism"
   ],

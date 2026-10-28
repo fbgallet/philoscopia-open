@@ -1,0 +1,1086 @@
+{
+  "id": "the-dark-knight",
+  "title": {
+    "fr": "The Dark Knight : Le Chevalier noir",
+    "en": "The Dark Knight"
+  },
+  "saga": {
+    "id": "dark-knight-trilogy",
+    "name": {
+      "fr": "La trilogie The Dark Knight",
+      "en": "The Dark Knight Trilogy"
+    },
+    "order": 2
+  },
+  "originalTitle": "The Dark Knight",
+  "creators": [
+    {
+      "name": {
+        "fr": "Christopher Nolan",
+        "en": "Christopher Nolan"
+      },
+      "role": "DIRECTOR"
+    },
+    {
+      "name": {
+        "fr": "Jonathan Nolan et Christopher Nolan (scénario), d'après une histoire de Christopher Nolan et David S. Goyer",
+        "en": "Jonathan Nolan and Christopher Nolan (screenplay), from a story by Christopher Nolan and David S. Goyer"
+      },
+      "role": "WRITER"
+    }
+  ],
+  "year": 2008,
+  "medium": "FILM",
+  "identity": {
+    "wikidata": "Q163872",
+    "wikipedia": {
+      "fr": "https://fr.wikipedia.org/wiki/The_Dark_Knight_:_Le_Chevalier_noir",
+      "en": "https://en.wikipedia.org/wiki/The_Dark_Knight"
+    }
+  },
+  "externalLinks": [
+    {
+      "site": "IMDB",
+      "url": "https://www.imdb.com/title/tt0468569/"
+    },
+    {
+      "site": "ALLOCINE",
+      "url": "https://www.allocine.fr/film/fichefilm_gen_cfilm=115362.html",
+      "locale": "fr"
+    }
+  ],
+  "canon": {
+    "fr": "Le film de 2008 seul ; ni Batman Begins ni The Dark Knight Rises ne servent de preuve.",
+    "en": "The 2008 film alone; neither Batman Begins nor The Dark Knight Rises is used as evidence."
+  },
+  "hook": {
+    "fr": "Un justicier masqué, un procureur intègre et un policier honnête sont sur le point de libérer Gotham de la mafia. Un criminel d'un genre nouveau change la partie : il ne veut ni le pouvoir ni la fortune, il veut prouver quelque chose sur les habitants de la ville. Le film met à l'épreuve deux choses qu'on croit aller ensemble : la confiance dans les gens, et la vérité qu'on leur doit.",
+    "en": "A masked vigilante, an upright prosecutor and an honest cop are about to free Gotham from the mob. A new kind of criminal changes the game: he wants neither power nor fortune, he wants to prove something about the city's people. The film puts to the test two things we assume go together: trust in people, and the truth we owe them."
+  },
+  "problem": {
+    "commonBelief": {
+      "fr": "On croit d'ordinaire que les gens honnêtes le sont pour de bon, et qu'une ville bien défendue n'a rien à cacher à ses habitants : la vérité sur ceux qui la gouvernent est due à tous.",
+      "en": "We usually assume that honest people are honest through and through, and that a well-defended city has nothing to hide from its inhabitants: the truth about those who govern it is owed to all."
+    },
+    "statement": {
+      "fr": "Une ville ne tient pas seulement par ses lois : elle tient aussi par la confiance qu'elle place en quelques personnes exemplaires, et par ce qu'elle sait d'elles. Lui dire toute la vérité sur ceux en qui elle croit, c'est risquer de ruiner cette confiance. Lui en cacher une part, c'est décider à sa place qu'elle ne la supporterait pas, donc douter d'elle au moment même où l'on prétend la protéger. Plus on croit les gens solides, moins on a de raison de leur mentir ; moins on est sûr d'eux, plus le mensonge paraît protecteur, et plus il les traite en mineurs. Le film installe cette impasse ; même l'issue qu'il choisit à la fin ne la fait pas disparaître.",
+      "en": "A city does not hold together through its laws alone: it also holds through the trust it places in a few exemplary people, and through what it knows about them. Telling it the whole truth about those it believes in risks ruining that trust. Hiding part of it means deciding on its behalf that it could not bear it, and so doubting it at the very moment one claims to protect it. The more solid we think people are, the less reason we have to lie to them; the less sure of them we are, the more protective the lie seems, and the more it treats them as minors. The film sets up this impasse; even the way out it chooses at the end does not make it go away."
+    },
+    "path": [
+      {
+        "kind": "PROSE",
+        "text": {
+          "fr": "Gotham est rongée par la mafia. Trois hommes pensent pouvoir la libérer : Batman, un justicier masqué, qui est le jour le milliardaire Bruce Wayne ; Harvey Dent, le nouveau procureur ; Jim Gordon, un policier honnête dans une police qui ne l'est pas. Arrive le Joker, un criminel qui ne cherche ni l'argent ni le pouvoir. On tient d'ordinaire ensemble deux convictions : les gens valent mieux qu'on ne le craint, et ceux qui les protègent leur doivent la vérité. Le film construit pas à pas une situation où l'on ne parvient plus à garder les deux, et où chaque issue coûte quelque chose qu'on tenait pour essentiel.",
+          "en": "Gotham is eaten away by the mob. Three men think they can free it: Batman, a masked vigilante who by day is the billionaire Bruce Wayne; Harvey Dent, the new district attorney; Jim Gordon, an honest cop in a police force that is not. Then comes the Joker, a criminal who wants neither money nor power. We usually hold two convictions together: people are better than we fear, and those who protect them owe them the truth. Step by step, the film builds a situation in which we can no longer keep both, and in which every way out costs something we took to be essential."
+        }
+      },
+      {
+        "kind": "PROSE",
+        "text": {
+          "fr": "<pb>Tout part d'un pari sur ce que valent les gens quand on les pousse dans leurs retranchements.</pb> Le Joker a une thèse et il la dit : la morale des gens « civilisés » ne tient que tant que tout va bien ; au premier coup dur, ils s'entre-dévoreront. Ses crimes sont des démonstrations. Il enferme ses victimes dans des choix truqués, puis lit leur réaction comme la preuve de ce qu'elles sont. Ces épreuves révèlent, d'après lui, la nature humaine. <ph id='hobbes'>Hobbes</ph> imaginait la vie sans pouvoir commun comme une guerre de chacun contre chacun (<c id='etat-de-nature'>état de nature</c>), non que les hommes soient méchants, mais parce que chacun y craint l'autre ; le Joker veut créer cet état en pleine ville, pour voir. Face à lui, Alfred, le majordome et confident de Bruce, raconte un souvenir de Birmanie : un bandit qui volait des pierres précieuses et les jetait. On ne pouvait ni l'acheter ni le raisonner. Certains hommes, conclut-il, veulent seulement voir le monde brûler. Si le Joker a raison, la bonté d'une ville ne tient qu'à ce qui la rassure. Gotham semble à moitié le croire : elle a placé son espoir dans un seul homme.",
+          "en": "<pb>It all starts from a wager on what people are worth once they are pushed to the wall.</pb> The Joker has a thesis and he states it: the morals of \"civilized\" people only hold while things go well; at the first real blow, they will eat each other. His crimes are demonstrations. He traps his victims in rigged choices, then reads their reactions as proof of what they are. These ordeals, in his view, reveal human nature. <ph id='hobbes'>Hobbes</ph> pictured life without a common power as a war of every man against every man (the <c id='etat-de-nature'>state of nature</c>), not because people are wicked, but because each has reason to fear the other; the Joker wants to create that state in the middle of a city, just to see. Against him, Alfred, Bruce's butler and confidant, tells a memory from Burma: a bandit who stole gemstones and threw them away. He could be neither bought nor reasoned with. Some men, Alfred concludes, just want to watch the world burn. If the Joker is right, a city's goodness rests only on what reassures it. Gotham seems half to believe it: it has placed its hope in a single man."
+        }
+      },
+      {
+        "kind": "PROSE",
+        "text": {
+          "fr": "Cet homme, c'est Harvey Dent. Gotham voit en lui la preuve qu'on peut nettoyer la ville à visage découvert et dans les règles, là où Batman agit masqué et dans l'ombre. Bruce Wayne lui-même compte sur lui pour pouvoir un jour raccrocher. Lors d'un dîner, Dent rappelle qu'en temps de crise, Rome confiait la cité à un seul homme ; Rachel Dawes, substitut du procureur et amie d'enfance de Bruce, lui répond que le dernier fut César, qui ne rendit jamais le pouvoir. Dent réplique par une phrase qui annonce la suite : on meurt en héros, ou l'on vit assez longtemps pour devenir le méchant. Le Joker, lui, cherche Dent dès ses premiers coups. Il a compris que pour atteindre une ville, il n'est pas nécessaire de corrompre la foule : il suffit de toucher celui en qui elle croit.",
+          "en": "That man is Harvey Dent. Gotham sees in him the proof that the city can be cleaned up in the open and by the rules, where Batman works masked and in the shadows. Bruce Wayne himself counts on him to be able, one day, to hang up the cape. At a dinner, Dent recalls that in times of crisis Rome entrusted the city to a single man; Rachel Dawes, an assistant district attorney and Bruce's childhood friend, answers that the last one was Caesar, who never gave the power back. Dent replies with a line that foreshadows what follows: you either die a hero, or you live long enough to see yourself become the villain. The Joker, for his part, goes after Dent from his very first moves. He has understood that to strike a city there is no need to corrupt the crowd: it is enough to reach the one it believes in."
+        }
+      },
+      {
+        "kind": "MAP",
+        "mapId": "trial-and-truth"
+      },
+      {
+        "kind": "PROSE",
+        "text": {
+          "fr": "<pb>Une ville qui vit d'un symbole doit aussi décider de ce qu'elle en saura.</pb> Le film pose cette difficulté avant même que quiconque ne tombe. Batman ment par profession : le jour, Bruce Wayne joue le milliardaire frivole pour que personne ne soupçonne ce qu'il fait la nuit. Quand le Joker menace de tuer chaque jour jusqu'à ce que Batman se démasque, Bruce décide de se livrer, pour arrêter les meurtres plutôt que par amour du vrai. <spo>Dent l'en empêche en se déclarant Batman devant la presse : le procureur à visage découvert ment à toute la ville pour piéger le Joker.</spo> Une vieille question revient alors : une cité tient-elle par la vérité, ou par ce qu'elle croit ? <ph id='plato'>Platon</ph> fait raconter aux citoyens de sa cité idéale un <c id='noble-lie'>beau mensonge</c> sur leurs origines, pour qu'ils l'aiment et y restent à leur place. Le Grand Inquisiteur de <ph id='dostoevsky'>Dostoïevski</ph> va plus loin : la liberté pèse trop lourd aux hommes, qui lui préfèrent le pain, le miracle et l'autorité ; quelques-uns la leur ôtent pour leur bien et gardent seuls la vérité. <ph id='arendt'>Arendt</ph> distingue le mensonge ponctuel, vieux comme la politique, du mensonge organisé qui détruit les faits communs, sans lesquels il n'y a plus de monde partagé. Le film laisse ces réponses en suspens, le temps de mettre la ville et son symbole à l'épreuve.",
+          "en": "<pb>A city that lives on a symbol must also decide what it will know about it.</pb> The film raises this difficulty before anyone has fallen. Batman lies for a living: by day, Bruce Wayne plays the frivolous billionaire so that no one suspects what he does at night. When the Joker threatens to kill someone every day until Batman unmasks, Bruce decides to turn himself in, to stop the killings rather than out of love for the truth. <spo>Dent stops him by declaring himself Batman before the press: the prosecutor who works without a mask lies to the whole city to trap the Joker.</spo> An old question then returns: does a city hold together through the truth, or through what it believes? <ph id='plato'>Plato</ph> has the citizens of his ideal city told a <c id='noble-lie'>noble lie</c> about their origins, so that they love it and keep to their place in it. <ph id='dostoevsky'>Dostoevsky</ph>'s Grand Inquisitor goes further: freedom weighs too heavily on human beings, who prefer bread, miracle and authority to it; a few take it from them for their own good and keep the truth to themselves. <ph id='arendt'>Arendt</ph> distinguishes the occasional lie, as old as politics, from organized lying, which destroys the shared facts without which there is no common world left. The film leaves these answers hanging while it puts the city and its symbol to the test."
+        }
+      },
+      {
+        "kind": "PROSE",
+        "spoiler": true,
+        "text": {
+          "fr": "Le symbole se brise en une nuit. Le Joker fait enlever Rachel et Dent, puis donne à Batman leurs deux adresses, inversées : Batman sauve Dent, Rachel meurt. Défiguré, endeuillé, Dent reçoit à l'hôpital la visite du Joker, qui lui vante le chaos comme la seule chose juste. Dent en tire sa propre loi : dans un monde cruel, la seule morale est le hasard. Sa pièce porte le signe de ce changement. Elle avait deux côtés identiques : Dent ne laissait rien au hasard. Noircie d'un côté par l'explosion, elle devient une vraie pièce, et lui un homme à deux visages, Double-Face, qui la laisse trancher entre la vie et la mort de ceux qu'il tient pour responsables. Le Joker y voit sa preuve : il suffit d'une poussée. Le film montre pourtant autre chose qu'une nature mauvaise qui se révèle : un homme brisé par le deuil, la souffrance et une manipulation ciblée. La chute de Dent dit ce que peuvent les circonstances, pas ce que valent les hommes. Reste à savoir si la foule ressemble à son héros.",
+          "en": "The symbol breaks in a single night. The Joker has Rachel and Dent abducted, then gives Batman their two addresses, swapped: Batman saves Dent, Rachel dies. Disfigured and grieving, Dent is visited in hospital by the Joker, who praises chaos to him as the only fair thing. Dent draws his own law from it: in a cruel world, the only morality is chance. His coin bears the mark of this change. It had two identical sides: Dent left nothing to chance. Scorched on one side by the blast, it becomes a real coin, and he a man with two faces, Two-Face, who lets it decide between life and death for those he holds responsible. The Joker sees this as his proof: all it takes is a little push. Yet what the film shows is not an evil nature coming to light: it is a man broken by grief, by pain and by a targeted manipulation. Dent's fall tells us what circumstances can do, not what human beings are worth. It remains to be seen whether the crowd resembles its hero."
+        }
+      },
+      {
+        "kind": "PROSE",
+        "spoiler": true,
+        "text": {
+          "fr": "Le Joker la met à l'épreuve sur deux ferries : l'un transporte des civils, l'autre des détenus. Chacun peut faire sauter l'autre ; si personne ne le fait avant minuit, le Joker les fera sauter tous les deux. Sur le ferry des civils, on vote : une large majorité veut appuyer sur le bouton. Mais l'homme qui prend le détonateur n'ose pas. Sur l'autre ferry, un détenu le prend des mains du gardien et le jette par la fenêtre. Le film ne dit donc pas que les gens sont bons : il montre une foule prête à tuer, et deux hommes qui refusent de le faire. C'est la <ax id='HUMAN_VISION'>plasticité morale</ax> plutôt qu'une bonté naturelle : les gens peuvent céder, mais la pression ne décide pas à leur place. Et c'est un détenu, celui que la ville croyait le pire, qui refuse. Pendant ce temps, Batman empêche le Joker de faire sauter les bateaux lui-même : il ne choisit pas pour les passagers, il leur laisse leur choix. Le Joker perd ainsi son pari sur la foule, et gagne celui qu'il avait fait sur le héros. Gotham a tenu ; son symbole, non.",
+          "en": "The Joker tests it on two ferries: one carries civilians, the other prisoners. Each can blow up the other; if no one does so before midnight, the Joker will blow up both. On the civilians' ferry, they vote: a large majority wants to press the button. But the man who takes the detonator cannot bring himself to do it. On the other ferry, a prisoner takes it from the warden's hands and throws it out of the window. So the film does not say that people are good: it shows a crowd ready to kill, and two men who refuse to do it. This is <ax id='HUMAN_VISION'>moral plasticity</ax> rather than natural goodness: people can give way, but pressure does not decide for them. And it is a prisoner, the man the city took for the worst, who refuses. Meanwhile, Batman prevents the Joker from blowing up the boats himself: he does not choose for the passengers, he leaves them their choice. The Joker thus loses his wager on the crowd, and wins the one he had made on the hero. Gotham has held; its symbol has not."
+        }
+      },
+      {
+        "kind": "PROSE",
+        "spoiler": true,
+        "text": {
+          "fr": "C'est là que les deux convictions du début se séparent. Dent est mort après avoir tué plusieurs personnes. Si la ville l'apprend, craint Gordon, elle perdra tout espoir, et les poursuites que Dent a menées contre la mafia risquent de s'effondrer. Batman propose de porter ces crimes à sa place, et Gordon accepte : parfois, dit Batman, la vérité ne suffit pas, et les gens méritent que leur foi soit récompensée. Au même moment, Alfred brûle la lettre que Rachel lui avait confiée pour Bruce, où elle disait choisir Harvey : le même geste, en petit, pour un seul homme. La phrase de Dent au dîner se réalise alors à double sens. Dent, le héros, a vécu assez longtemps pour devenir le méchant ; Batman accepte de passer pour le méchant afin que Dent reste un héros. Le titre prend ainsi son sens : le « chevalier noir » prend la faute pour que le « chevalier blanc » reste blanc. Mais l'issue garde un prix. Décider pour toute une ville de ce qu'elle peut savoir, c'est la traiter en mineure : c'est le pari du <c id='paternalisme'>paternalisme</c>. Dent incarnait une justice sans masque ; on ne sauve son image qu'avec un masque et un mensonge. Et les ferries viennent de montrer des gens plus solides qu'on ne le craignait : peut-être auraient-ils supporté la vérité. Personne ne le saura, car le récit s'arrête là. La musique et l'éloge de Gordon font de ce mensonge un sacrifice héroïque, sans montrer ce qu'il coûtera ensuite à la ville.",
+          "en": "This is where the two convictions we started with part ways. Dent is dead, after killing several people. If the city learns this, Gordon fears, it will lose all hope, and the cases Dent brought against the mob may collapse. Batman offers to take these crimes upon himself, and Gordon agrees: sometimes, Batman says, the truth isn't good enough, and people deserve to have their faith rewarded. At the same moment, Alfred burns the letter Rachel had left with him for Bruce, in which she said she was choosing Harvey: the same gesture, on a small scale, for a single man. Dent's line at the dinner then comes true both ways. Dent, the hero, lived long enough to become the villain; Batman agrees to pass for the villain so that Dent stays a hero. The title thus takes on its meaning: the \"dark knight\" takes the blame so that the \"white knight\" stays white. But this way out still has a price. Deciding for a whole city what it may know means treating it as a minor: that is the wager of <c id='paternalisme'>paternalism</c>. Dent stood for a justice without a mask; his image can be saved only with a mask and a lie. And the ferries have just shown people stronger than anyone feared: perhaps they could have borne the truth. No one will ever know, because the story ends there. The music and Gordon's eulogy turn the lie into a heroic sacrifice, without showing what it will later cost the city."
+        }
+      },
+      {
+        "kind": "YOU"
+      }
+    ],
+    "question": {
+      "fr": "Mentir aux gens pour les protéger, est-ce encore croire en eux ?",
+      "en": "Is lying to people to protect them still believing in them?"
+    },
+    "anchors": [
+      {
+        "axisId": "HUMAN_VISION",
+        "problemId": "origin-of-evil"
+      },
+      {
+        "axisId": "TRUTH_VALUE",
+        "problemId": "the-city-and-the-lie"
+      },
+      {
+        "axisId": "TRUTH_VALUE",
+        "problemId": "choosing-for-another"
+      }
+    ]
+  },
+  "maps": [
+    {
+      "id": "trial-and-truth",
+      "question": {
+        "fr": "Les gens restent-ils bons quand on les pousse ? Et leur doit-on la vérité ?",
+        "en": "Do people stay good when pushed? And do we owe them the truth?"
+      },
+      "x": {
+        "axisId": "HUMAN_VISION",
+        "sign": -1,
+        "neg": {
+          "fr": "Le vernis craque",
+          "en": "The veneer cracks"
+        },
+        "pos": {
+          "fr": "La bonté tient",
+          "en": "Goodness holds"
+        }
+      },
+      "y": {
+        "axisId": "TRUTH_VALUE",
+        "sign": -1,
+        "neg": {
+          "fr": "Les ménager par une illusion",
+          "en": "Spare them with an illusion"
+        },
+        "pos": {
+          "fr": "Leur dire la vérité",
+          "en": "Tell them the truth"
+        }
+      },
+      "quadrants": {
+        "topRight": {
+          "fr": "Faire confiance, tout dire",
+          "en": "Trust them, tell all"
+        },
+        "bottomRight": {
+          "fr": "Croire en eux, les ménager",
+          "en": "Believe in them, spare them"
+        },
+        "topLeft": {
+          "fr": "Arracher les masques",
+          "en": "Tear off the masks"
+        },
+        "bottomLeft": {
+          "fr": "Tenir les gens par des fables",
+          "en": "Hold people with fables"
+        }
+      }
+    }
+  ],
+  "moments": [
+    {
+      "id": "ultimatum",
+      "label": {
+        "fr": "Le Joker exige que Batman révèle son identité",
+        "en": "The Joker demands that Batman reveal his identity"
+      }
+    },
+    {
+      "id": "dent-press",
+      "label": {
+        "fr": "Dent se déclare Batman",
+        "en": "Dent declares himself Batman"
+      }
+    },
+    {
+      "id": "two-addresses",
+      "label": {
+        "fr": "Les deux adresses : Rachel meurt, Dent est défiguré",
+        "en": "The two addresses: Rachel dies, Dent is disfigured"
+      }
+    },
+    {
+      "id": "hospital",
+      "label": {
+        "fr": "Le Joker rend visite à Dent à l'hôpital",
+        "en": "The Joker visits Dent in hospital"
+      }
+    },
+    {
+      "id": "ferries",
+      "label": {
+        "fr": "Les deux ferries",
+        "en": "The two ferries"
+      }
+    },
+    {
+      "id": "the-lie",
+      "label": {
+        "fr": "Batman endosse les crimes de Dent",
+        "en": "Batman takes the blame for Dent's crimes"
+      }
+    }
+  ],
+  "cast": [
+    {
+      "characterId": "batman-the-dark-knight",
+      "performers": [
+        {
+          "name": "Christian Bale",
+          "kind": "ACTOR"
+        }
+      ],
+      "emphasis": "PROTAGONIST",
+      "role": {
+        "fr": "Justicier masqué, sous l'identité du milliardaire Bruce Wayne",
+        "en": "Masked vigilante, behind the identity of billionaire Bruce Wayne"
+      },
+      "coreBelief": {
+        "fr": "Il s'interdit de tuer, et veut croire que la ville peut un jour se passer de lui.",
+        "en": "He will not let himself kill, and wants to believe the city can one day do without him."
+      },
+      "keyAction": {
+        "fr": "Après l'ultimatum du Joker, il décide de révéler qui il est pour faire cesser les meurtres.",
+        "en": "After the Joker's ultimatum, he decides to reveal who he is to stop the killings."
+      },
+      "arc": [
+        {
+          "label": {
+            "fr": "Il veut se livrer pour arrêter les meurtres",
+            "en": "He wants to turn himself in to stop the killings"
+          },
+          "moment": "ultimatum",
+          "at": [
+            {
+              "axisId": "HUMAN_VISION",
+              "value": {
+                "kind": "scalar",
+                "value": -0.4
+              }
+            },
+            {
+              "axisId": "TRUTH_VALUE",
+              "value": {
+                "kind": "scalar",
+                "value": -0.1
+              }
+            }
+          ]
+        },
+        {
+          "label": {
+            "fr": "Il parie que les passagers des ferries ne se tueront pas",
+            "en": "He bets the ferry passengers will not kill each other"
+          },
+          "moment": "ferries",
+          "at": [
+            {
+              "axisId": "HUMAN_VISION",
+              "value": {
+                "kind": "scalar",
+                "value": -0.5
+              }
+            },
+            {
+              "axisId": "TRUTH_VALUE",
+              "value": {
+                "kind": "scalar",
+                "value": 0.0
+              }
+            }
+          ]
+        },
+        {
+          "label": {
+            "fr": "Il endosse les crimes de Dent pour garder intact le symbole",
+            "en": "He takes Dent's crimes upon himself to keep the symbol intact"
+          },
+          "moment": "the-lie",
+          "at": [
+            {
+              "axisId": "HUMAN_VISION",
+              "value": {
+                "kind": "scalar",
+                "value": -0.4
+              }
+            },
+            {
+              "axisId": "TRUTH_VALUE",
+              "value": {
+                "kind": "scalar",
+                "value": 0.6
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "joker",
+      "name": {
+        "fr": "Le Joker",
+        "en": "The Joker"
+      },
+      "performers": [
+        {
+          "name": "Heath Ledger",
+          "kind": "ACTOR"
+        }
+      ],
+      "emphasis": "ANTAGONIST",
+      "role": {
+        "fr": "Criminel sans nom ni passé connus",
+        "en": "A criminal with no known name or past"
+      },
+      "coreBelief": {
+        "fr": "La morale des gens n'est qu'un vernis, qui craque au premier coup dur.",
+        "en": "People's morality is only a veneer, which cracks at the first real blow."
+      },
+      "keyAction": {
+        "fr": "Il exige que Batman se démasque, et tue chaque jour jusqu'à ce qu'il le fasse.",
+        "en": "He demands that Batman unmask, and kills every day until he does."
+      },
+      "positions": [
+        {
+          "axisId": "HUMAN_VISION",
+          "does": {
+            "kind": "scalar",
+            "value": 0.7
+          },
+          "grounds": {
+            "fr": "Il dit que les « codes » des gens civilisés sont une mauvaise blague, abandonnée dès que les choses tournent mal : les gens ne sont bons que tant que le monde le leur permet. Ses crimes sont construits comme des expériences destinées à le prouver. Il penche nettement vers le pessimisme : la bonté dépend des circonstances, et sous elle il voit la bête.",
+            "en": "He says the \"codes\" of civilized people are a bad joke, dropped as soon as things go wrong: people are only as good as the world allows them to be. His crimes are built as experiments meant to prove it. He leans clearly toward pessimism: goodness depends on circumstances, and beneath it he sees the beast."
+          },
+          "references": [
+            {
+              "fr": "L'interrogatoire au commissariat",
+              "en": "The interrogation at the police station"
+            },
+            {
+              "fr": "Les ferries",
+              "en": "The ferries"
+            }
+          ]
+        },
+        {
+          "axisId": "TRUTH_VALUE",
+          "does": {
+            "kind": "scalar",
+            "value": 0.1
+          },
+          "says": {
+            "kind": "scalar",
+            "value": -0.6
+          },
+          "grounds": {
+            "fr": "Il prétend faire tomber les masques et montrer aux gens ce qu'ils sont. Mais il ment sans cesse : il raconte deux origines contradictoires de ses cicatrices et fabrique lui-même les épreuves qui doivent révéler la « vérité » des autres. <spo>Il inverse aussi les adresses de Rachel et de Dent.</spo> Il ne défend pas pour autant des illusions qui aideraient à vivre : le faux est pour lui une arme. Ce qu'il dit vise le vrai ; ce qu'il fait s'en sert et le manipule.",
+            "en": "He claims to tear off the masks and show people what they are. But he lies constantly: he tells two contradictory stories about his scars and himself manufactures the ordeals meant to reveal other people's \"truth\". <spo>He also swaps Rachel's and Dent's addresses.</spo> Yet he does not defend illusions that help people live: falsehood is a weapon to him. What he says aims at the truth; what he does uses and manipulates it."
+          },
+          "references": [
+            {
+              "fr": "Les deux récits des cicatrices",
+              "en": "The two stories about the scars"
+            },
+            {
+              "fr": "L'interrogatoire au commissariat",
+              "en": "The interrogation at the police station"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "harvey-dent",
+      "name": {
+        "fr": "Harvey Dent",
+        "en": "Harvey Dent"
+      },
+      "performers": [
+        {
+          "name": "Aaron Eckhart",
+          "kind": "ACTOR"
+        }
+      ],
+      "role": {
+        "fr": "Procureur de Gotham",
+        "en": "Gotham's district attorney"
+      },
+      "coreBelief": {
+        "fr": "Une ville peut se relever par des institutions propres et une justice rendue au grand jour.",
+        "en": "A city can recover through clean institutions and justice done in broad daylight."
+      },
+      "keyAction": {
+        "fr": "Il fait inculper d'un coup des centaines de membres de la mafia.",
+        "en": "He has hundreds of mob members indicted at once."
+      },
+      "positions": [
+        {
+          "axisId": "HUMAN_VISION",
+          "does": {
+            "kind": "scalar",
+            "value": -0.5
+          },
+          "grounds": {
+            "fr": "Le « chevalier blanc » de Gotham croit que la ville peut changer et qu'il suffit de lui en donner les moyens légaux. Sa confiance a pourtant une limite : il menace déjà un homme de main du Joker en tirant à pile ou face sa vie, avant que Batman ne l'arrête. <spo>Après la mort de Rachel et sa défiguration, il ne croit plus qu'en la pièce : dans un monde cruel, la seule morale est le hasard. Il condamne à mort, à pile ou face, ceux qu'il tient pour coupables.</spo>",
+            "en": "Gotham's \"white knight\" believes the city can change, and that it only needs the legal means to do so. His trust has a limit, though: he already threatens one of the Joker's henchmen by tossing a coin for his life, until Batman stops him. <spo>After Rachel's death and his disfigurement, he believes in nothing but the coin: in a cruel world, the only morality is chance. He sentences those he holds guilty to death on a coin toss.</spo>"
+          },
+          "references": [
+            {
+              "fr": "Le dîner avec Bruce et Rachel",
+              "en": "The dinner with Bruce and Rachel"
+            },
+            {
+              "fr": "L'inculpation massive de la mafia",
+              "en": "The mass indictment of the mob"
+            }
+          ]
+        },
+        {
+          "axisId": "TRUTH_VALUE",
+          "does": {
+            "kind": "scalar",
+            "value": -0.3
+          },
+          "grounds": {
+            "fr": "Il poursuit la mafia à visage découvert et veut que la justice se voie. <spo>Il n'est pourtant pas un rigoriste du vrai : il se déclare Batman devant la presse, un mensonge tactique pour attirer le Joker.</spo> <spo>Devenu Double-Face, il veut que chaque responsable de la mort de Rachel soit démasqué et paie.</spo>",
+            "en": "He goes after the mob in the open and wants justice to be seen. <spo>Yet he is no stickler for the truth: he declares himself Batman before the press, a tactical lie to draw the Joker out.</spo> <spo>Once he is Two-Face, he wants everyone responsible for Rachel's death to be unmasked and to pay.</spo>"
+          },
+          "references": [
+            {
+              "fr": "La conférence de presse",
+              "en": "The press conference"
+            },
+            {
+              "fr": "La prise d'otages de la famille Gordon",
+              "en": "The taking of Gordon's family as hostages"
+            }
+          ]
+        }
+      ],
+      "arc": [
+        {
+          "label": {
+            "fr": "Le chevalier blanc",
+            "en": "The white knight"
+          },
+          "moment": "dent-press",
+          "at": [
+            {
+              "axisId": "HUMAN_VISION",
+              "value": {
+                "kind": "scalar",
+                "value": -0.5
+              }
+            },
+            {
+              "axisId": "TRUTH_VALUE",
+              "value": {
+                "kind": "scalar",
+                "value": -0.3
+              }
+            }
+          ]
+        },
+        {
+          "label": {
+            "fr": "Double-Face : la pièce décide",
+            "en": "Two-Face: the coin decides"
+          },
+          "moment": "hospital",
+          "at": [
+            {
+              "axisId": "HUMAN_VISION",
+              "value": {
+                "kind": "scalar",
+                "value": 0.5
+              }
+            },
+            {
+              "axisId": "TRUTH_VALUE",
+              "value": {
+                "kind": "scalar",
+                "value": -0.5
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jim-gordon",
+      "name": {
+        "fr": "Jim Gordon",
+        "en": "Jim Gordon"
+      },
+      "performers": [
+        {
+          "name": "Gary Oldman",
+          "kind": "ACTOR"
+        }
+      ],
+      "role": {
+        "fr": "Policier intègre, allié de Batman",
+        "en": "Honest cop, Batman's ally"
+      },
+      "coreBelief": {
+        "fr": "On ne nettoie une ville qu'avec ce qu'on a, y compris des alliés imparfaits.",
+        "en": "You can only clean up a city with what you have, imperfect allies included."
+      },
+      "keyAction": {
+        "fr": "Il travaille avec des policiers qu'il sait douteux, faute d'autres.",
+        "en": "He works with officers he knows are dubious, for lack of others."
+      },
+      "positions": [
+        {
+          "axisId": "HUMAN_VISION",
+          "does": {
+            "kind": "scalar",
+            "value": -0.2
+          },
+          "grounds": {
+            "fr": "Gordon ne se fait pas d'illusion sur sa propre police, mais il continue de croire que la ville vaut d'être défendue et que des institutions peuvent tenir.",
+            "en": "Gordon has no illusions about his own police force, but he still believes the city is worth defending and that institutions can hold."
+          },
+          "references": [
+            {
+              "fr": "Les scènes au commissariat",
+              "en": "The scenes at the police station"
+            }
+          ]
+        },
+        {
+          "axisId": "TRUTH_VALUE",
+          "does": {
+            "kind": "scalar",
+            "value": 0.4
+          },
+          "grounds": {
+            "fr": "Il garde des secrets quand il les juge nécessaires. <spo>Il feint sa mort lors de l'hommage au commissaire Loeb sans prévenir sa femme, puis accepte à la fin de taire la vérité sur Dent et prononce son éloge.</spo>",
+            "en": "He keeps secrets when he judges them necessary. <spo>He fakes his death at the memorial for Commissioner Loeb without telling his wife, then at the end agrees to hide the truth about Dent and delivers his eulogy.</spo>"
+          },
+          "references": [
+            {
+              "fr": "L'hommage au commissaire Loeb",
+              "en": "The memorial for Commissioner Loeb"
+            },
+            {
+              "fr": "La fin",
+              "en": "The ending"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "alfred",
+      "name": {
+        "fr": "Alfred Pennyworth",
+        "en": "Alfred Pennyworth"
+      },
+      "performers": [
+        {
+          "name": "Michael Caine",
+          "kind": "ACTOR"
+        }
+      ],
+      "role": {
+        "fr": "Majordome et confident de Bruce Wayne",
+        "en": "Bruce Wayne's butler and confidant"
+      },
+      "coreBelief": {
+        "fr": "Certains hommes ne veulent rien, sinon voir le monde brûler.",
+        "en": "Some men want nothing except to watch the world burn."
+      },
+      "keyAction": {
+        "fr": "Il raconte à Bruce l'histoire d'un bandit de Birmanie qui volait des pierres précieuses pour les jeter.",
+        "en": "He tells Bruce the story of a bandit in Burma who stole gemstones only to throw them away."
+      },
+      "positions": [
+        {
+          "axisId": "HUMAN_VISION",
+          "does": {
+            "kind": "scalar",
+            "value": 0.3
+          },
+          "grounds": {
+            "fr": "Son souvenir de Birmanie fait place à un mal qu'on ne peut ni acheter ni raisonner. Il n'en conclut pas que tous les hommes sont ainsi, mais il refuse de croire que tout mal a une raison.",
+            "en": "His memory of Burma makes room for an evil that can be neither bought nor reasoned with. He does not conclude that all men are like that, but he refuses to believe that all evil has a reason."
+          },
+          "references": [
+            {
+              "fr": "Le récit du bandit de Birmanie",
+              "en": "The story of the Burmese bandit"
+            }
+          ]
+        },
+        {
+          "axisId": "TRUTH_VALUE",
+          "does": {
+            "kind": "scalar",
+            "value": 0.7
+          },
+          "grounds": {
+            "fr": "Il protège Bruce de ce qui pourrait le briser. <spo>Il garde, puis brûle la lettre où Rachel écrivait à Bruce qu'elle choisissait Harvey, pour lui épargner ce chagrin.</spo>",
+            "en": "He shields Bruce from what might break him. <spo>He keeps, then burns, the letter in which Rachel told Bruce she was choosing Harvey, to spare him that grief.</spo>"
+          },
+          "references": [
+            {
+              "fr": "La lettre de Rachel",
+              "en": "Rachel's letter"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rachel-dawes",
+      "name": {
+        "fr": "Rachel Dawes",
+        "en": "Rachel Dawes"
+      },
+      "performers": [
+        {
+          "name": "Maggie Gyllenhaal",
+          "kind": "ACTOR"
+        }
+      ],
+      "role": {
+        "fr": "Substitut du procureur, amie d'enfance de Bruce",
+        "en": "Assistant district attorney, Bruce's childhood friend"
+      },
+      "coreBelief": {
+        "fr": "La justice doit passer par la loi, et l'on doit la vérité à ceux qu'on aime.",
+        "en": "Justice must go through the law, and we owe the truth to those we love."
+      },
+      "keyAction": {
+        "fr": "Elle soutient Harvey Dent et dit à Bruce ce qu'elle pense sans le ménager.",
+        "en": "She backs Harvey Dent and tells Bruce what she thinks without sparing him."
+      },
+      "positions": [
+        {
+          "axisId": "HUMAN_VISION",
+          "does": {
+            "kind": "scalar",
+            "value": -0.3
+          },
+          "grounds": {
+            "fr": "Elle croit que la ville peut se relever par la loi, et place sa confiance en Harvey plutôt qu'en un justicier masqué. C'est une confiance dans les institutions et dans un homme plus qu'une thèse sur la nature humaine.",
+            "en": "She believes the city can recover through the law, and puts her trust in Harvey rather than in a masked vigilante. It is trust in institutions and in a man more than a thesis about human nature."
+          },
+          "references": [
+            {
+              "fr": "Le dîner avec Bruce et Harvey",
+              "en": "The dinner with Bruce and Harvey"
+            }
+          ]
+        },
+        {
+          "axisId": "TRUTH_VALUE",
+          "does": {
+            "kind": "scalar",
+            "value": -0.6
+          },
+          "grounds": {
+            "fr": "Elle ne ménage pas Bruce et lui dit ce qu'elle pense de Batman. <spo>Sa dernière lettre lui dit la vérité : elle choisit Harvey.</spo>",
+            "en": "She does not spare Bruce and tells him what she thinks of Batman. <spo>Her last letter tells him the truth: she is choosing Harvey.</spo>"
+          },
+          "references": [
+            {
+              "fr": "Les conversations avec Bruce",
+              "en": "Her conversations with Bruce"
+            },
+            {
+              "fr": "La lettre confiée à Alfred",
+              "en": "The letter entrusted to Alfred"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "concepts": [
+    {
+      "id": "etat-de-nature",
+      "explanation": {
+        "fr": "Hobbes imaginait la vie sans pouvoir commun pour montrer pourquoi on en a besoin. Le Joker fait l'inverse : il cherche à produire cet état au milieu d'une ville organisée, pour prouver que l'ordre n'était qu'un vernis.",
+        "en": "Hobbes imagined life without a common power to show why we need one. The Joker does the reverse: he tries to produce that state in the middle of an organized city, to prove that order was only a veneer."
+      }
+    },
+    {
+      "id": "noble-lie",
+      "explanation": {
+        "fr": "Le film met en scène une version moderne du beau mensonge : une fable entretenue pour que la ville garde foi en ses institutions. <spo>Ce n'est plus un mythe des origines, c'est la légende d'un homme mort.</spo>",
+        "en": "The film stages a modern version of the noble lie: a fable kept alive so that the city keeps faith in its institutions. <spo>It is no longer a myth of origins, but the legend of a dead man.</spo>"
+      }
+    },
+    {
+      "id": "dirty-hands",
+      "explanation": {
+        "fr": "Batman s'interdit de tuer, mais enlève, frappe et surveille toute une ville pour arrêter le Joker. Le film pose le problème des mains sales : peut-on bien agir en politique sans commettre des actes qu'on juge soi-même mauvais ?",
+        "en": "Batman will not let himself kill, yet he abducts, beats and spies on a whole city to stop the Joker. The film raises the problem of dirty hands: can one act well in politics without committing acts one judges wrong oneself?"
+      }
+    },
+    {
+      "id": "paternalisme",
+      "explanation": {
+        "fr": "<spo>Le choix final décide à la place de toute une ville de ce qu'elle peut savoir, pour son bien : le film donne au paternalisme le visage d'un sacrifice.</spo>",
+        "en": "<spo>The final choice decides on behalf of a whole city what it may know, for its own good: the film gives paternalism the face of a sacrifice.</spo>"
+      }
+    },
+    {
+      "id": "moral-luck",
+      "explanation": {
+        "fr": "<spo>Ce que devient Dent tient à une nuit qu'il n'a pas choisie : le film interroge la part des circonstances dans ce qu'on reproche à quelqu'un.</spo>",
+        "en": "<spo>What Dent becomes hinges on a night he did not choose: the film questions how much of what we blame someone for belongs to circumstance.</spo>"
+      }
+    }
+  ],
+  "argumentIds": [
+    "pessimism-persistent-drives",
+    "pessimism-situationist-objection",
+    "optimism-natural-goodness",
+    "sincerity-benevolent-paternalism-objection",
+    "sincerity-benevolent-trust-collapse",
+    "deontologism-humanity-as-end"
+  ],
+  "thoughtExperimentIds": [
+    "scapegoat-punishment"
+  ],
+  "nearFigures": [
+    {
+      "kind": "PHILOSOPHER",
+      "slug": "hobbes",
+      "why": {
+        "fr": "Le Joker veut recréer en pleine ville l'état de nature que Hobbes imaginait pour justifier le pouvoir commun.",
+        "en": "The Joker wants to recreate in the middle of a city the state of nature Hobbes imagined to justify a common power."
+      }
+    },
+    {
+      "kind": "PHILOSOPHER",
+      "slug": "plato",
+      "why": {
+        "fr": "Le beau mensonge de la République : une fable utile à la cité, racontée par ceux qui la gouvernent.",
+        "en": "The noble lie of the Republic: a fable useful to the city, told by those who govern it."
+      }
+    },
+    {
+      "kind": "PHILOSOPHER",
+      "slug": "dostoevsky",
+      "why": {
+        "fr": "Le Grand Inquisiteur soutient que les hommes ne supportent pas la vérité et qu'il faut la porter pour eux.",
+        "en": "The Grand Inquisitor holds that human beings cannot bear the truth and that someone must carry it for them."
+      }
+    },
+    {
+      "kind": "PHILOSOPHER",
+      "slug": "arendt",
+      "why": {
+        "fr": "Pour elle, le mensonge politique détruit le monde commun : la réponse la plus directe au choix final du film.",
+        "en": "For her, political lying destroys the common world: the most direct answer to the film's final choice."
+      }
+    },
+    {
+      "kind": "PHILOSOPHER",
+      "slug": "walzer",
+      "why": {
+        "fr": "Le problème des mains sales : agir bien en politique peut exiger des actes qu'on juge mauvais.",
+        "en": "The problem of dirty hands: acting well in politics may require acts one judges wrong."
+      }
+    }
+  ],
+  "stances": [
+    {
+      "axisId": "HUMAN_VISION",
+      "mode": "FAVORS",
+      "value": {
+        "kind": "scalar",
+        "value": -0.15
+      },
+      "undermines": [
+        "ANTHROPOLOGICAL_PESSIMISM"
+      ],
+      "basis": [
+        "NARRATIVE_OUTCOME",
+        "FORMAL_FRAMING"
+      ],
+      "epistemicStatus": "INFERABLE",
+      "justification": {
+        "fr": "Le récit semble refuser la thèse du Joker sans lui opposer une bonté naturelle. Sur les ferries, la majorité des civils vote pour tuer ; mais l'homme qui tient le détonateur n'ose pas, et un détenu jette le sien. Le montage fait de ce geste le moment décisif. Dent, lui, tombe, mais sous une manipulation ciblée et un deuil, non laissé à lui-même. Le film paraît donc défendre une plasticité morale, légèrement du côté de la confiance. Limite : le dispositif des ferries est construit par le récit, et deux gestes ne suffisent pas à fonder une thèse sur les gens.",
+        "en": "The narrative seems to reject the Joker's thesis without setting natural goodness against it. On the ferries, most of the civilians vote to kill; but the man holding the detonator cannot do it, and a prisoner throws his away. The editing makes that gesture the decisive moment. Dent, for his part, falls, but under a targeted manipulation and grief, not left to himself. The film thus appears to defend moral plasticity, leaning slightly toward trust. Limit: the ferry set-up is built by the story, and two gestures are not enough to ground a thesis about people."
+      },
+      "references": [
+        {
+          "fr": "Les ferries",
+          "en": "The ferries"
+        },
+        {
+          "fr": "La visite du Joker à l'hôpital",
+          "en": "The Joker's hospital visit"
+        }
+      ]
+    },
+    {
+      "axisId": "TRUTH_VALUE",
+      "mode": "FAVORS",
+      "value": {
+        "kind": "scalar",
+        "value": 0.3
+      },
+      "undermines": [
+        "PRIMACY_OF_TRUTH"
+      ],
+      "basis": [
+        "FORMAL_FRAMING",
+        "NARRATIVE_OUTCOME"
+      ],
+      "epistemicStatus": "INFERABLE",
+      "justification": {
+        "fr": "Le récit paraît approuver ce mensonge précis comme un sacrifice : la musique, l'éloge de Gordon et le titre final présentent comme héroïque le choix de cacher les crimes de Dent. Le geste d'Alfred, qui brûle la lettre de Rachel, le redouble à l'échelle d'un seul homme, sans le juger. Mais le film s'arrête avant toute conséquence. Il ne réfute pas la primauté du vrai : il semble défendre une exception, d'où une position modérée.",
+        "en": "The narrative appears to approve this particular lie as a sacrifice: the music, Gordon's eulogy and the closing title present the choice to hide Dent's crimes as heroic. Alfred's gesture, burning Rachel's letter, repeats it on the scale of a single man, without judging it. But the film stops before any consequence. It does not refute the primacy of truth: it seems to defend an exception, hence a moderate position."
+      },
+      "references": [
+        {
+          "fr": "La fin : Gordon et Batman",
+          "en": "The ending: Gordon and Batman"
+        },
+        {
+          "fr": "Alfred et la lettre de Rachel",
+          "en": "Alfred and Rachel's letter"
+        }
+      ]
+    },
+    {
+      "axisId": "ETHICS_FOUNDATION",
+      "mode": "AMBIVALENT",
+      "basis": [
+        "NARRATIVE_OUTCOME",
+        "FORMAL_FRAMING"
+      ],
+      "epistemicStatus": "INFERABLE",
+      "justification": {
+        "fr": "L'interdit de tuer sépare Batman du Joker et tient jusqu'au bout : <spo>Batman rattrape le Joker qui tombe</spo>. Tout le reste se négocie : enlèvement, interrogatoire, surveillance de toute la ville, dans la logique des <c id='dirty-hands'>mains sales</c>. Le sonar sert avant d'être détruit, et Lucius Fox le juge contraire à ce qu'il est : le récit montre l'usage et la condamnation sans choisir. <spo>La mort de Dent, plaqué pour sauver le fils de Gordon, oppose sauver tout de suite, accepter un risque mortel et rester fidèle à sa règle : le film ne tranche pas.</spo>",
+        "en": "The ban on killing separates Batman from the Joker and holds to the end: <spo>Batman catches the falling Joker</spo>. Everything else is negotiable: abduction, interrogation, surveillance of a whole city, in the logic of <c id='dirty-hands'>dirty hands</c>. The sonar is used before being destroyed, and Lucius Fox judges it contrary to who he is: the story shows both the use and the condemnation without choosing. <spo>Dent's death, tackled to save Gordon's son, sets saving someone right now against accepting a deadly risk and staying true to one's rule: the film does not decide.</spo>"
+      },
+      "references": [
+        {
+          "fr": "L'interrogatoire du Joker",
+          "en": "The Joker's interrogation"
+        },
+        {
+          "fr": "Lucius Fox et le sonar",
+          "en": "Lucius Fox and the sonar"
+        },
+        {
+          "fr": "La confrontation finale avec Dent",
+          "en": "The final confrontation with Dent"
+        }
+      ]
+    }
+  ],
+  "answer": {
+    "spoilerFree": {
+      "fr": "Le film ne se range ni du côté du Joker ni d'une confiance naïve : il montre des gens qui peuvent céder, et d'autres qui tiennent quand on les pousse. Il prend ensuite au sérieux une question plus dérangeante : ceux qui protègent une ville peuvent-ils décider de ce qu'elle doit savoir ?",
+      "en": "The film sides neither with the Joker nor with a naive trust: it shows people who can give way, and others who hold when pushed. It then takes seriously a more unsettling question: may those who protect a city decide what it should know?"
+    },
+    "withSpoilers": {
+      "fr": "Sur les ferries, la majorité vote pour tuer, mais deux hommes refusent d'agir ; Dent, lui, tombe sous une manipulation ciblée. Pour que la ville garde son symbole, Batman et Gordon lui mentent, et Batman prend les crimes à sa charge. Le récit semble approuver ce mensonge-là comme un sacrifice, sans montrer ce qu'il coûte.",
+      "en": "On the ferries, the majority votes to kill, but two men refuse to act; Dent, for his part, falls under a targeted manipulation. So that the city keeps its symbol, Batman and Gordon lie to it, and Batman takes the crimes upon himself. The narrative seems to approve this particular lie as a sacrifice, without showing what it costs."
+    }
+  },
+  "limits": {
+    "fr": "Le test des ferries est construit par le récit : deux gestes ne valent pas une thèse sur les gens. Le Joker est un personnage, non un philosophe : sa thèse est mise en scène, pas argumentée, et il truque ses propres preuves. À sa sortie, le film a été lu comme une défense de la surveillance et des mesures d'exception d'après le 11-Septembre, et aussi comme leur critique ; cette page s'en tient au récit.",
+    "en": "The ferry test is built by the story: two gestures are not a thesis about people. The Joker is a character, not a philosopher: his thesis is staged, not argued, and he rigs his own proofs. On release, the film was read as a defense of surveillance and post-9/11 emergency measures, and also as a critique of them; this page sticks to the story."
+  },
+  "asides": [
+    {
+      "title": {
+        "fr": "Jusqu'où aller pour arrêter un homme ?",
+        "en": "How far may one go to stop a man?"
+      },
+      "where": {
+        "fr": "L'interrogatoire, le sonar",
+        "en": "The interrogation, the sonar"
+      },
+      "text": {
+        "fr": "Batman n'a qu'une règle : ne pas tuer. Tout le reste se négocie : il enlève un comptable de la mafia à Hong Kong, frappe le Joker en salle d'interrogatoire, transforme les téléphones de la ville en un sonar qui voit tout. Lucius Fox, qui dirige l'entreprise de Bruce et lui fournit son matériel, accepte de s'en servir une fois en le déclarant contraire à ce qu'il est. <spo>La machine se détruit ensuite, comme Batman l'avait prévu.</spo> Ce sont les <c id='dirty-hands'>mains sales</c> : bien agir semble exiger ce qu'on juge mal. <spo>L'interrogatoire montre aussi une limite pratique : la violence arrache au Joker des adresses, mais ce sont celles qu'il voulait donner.</spo>",
+        "en": "Batman has only one rule: do not kill. Everything else is negotiable: he abducts a mob accountant from Hong Kong, beats the Joker in the interrogation room, turns the city's phones into a sonar that sees everything. Lucius Fox, who runs Bruce's company and supplies his equipment, agrees to use it once while declaring it contrary to who he is. <spo>The machine then destroys itself, as Batman had planned.</spo> This is the problem of <c id='dirty-hands'>dirty hands</c>: acting well seems to require what one judges wrong. <spo>The interrogation also shows a practical limit: violence wrings addresses out of the Joker, but they are the ones he wanted to give.</spo>"
+      },
+      "anchors": [
+        {
+          "axisId": "ETHICS_FOUNDATION",
+          "problemId": "absolute-prohibitions"
+        }
+      ]
+    },
+    {
+      "title": {
+        "fr": "Un justicier, de quel droit ?",
+        "en": "A vigilante, by what right?"
+      },
+      "where": {
+        "fr": "L'ouverture, le dîner",
+        "en": "The opening, the dinner"
+      },
+      "text": {
+        "fr": "Des imitateurs en jambières de hockey jouent les Batman armés ; l'un d'eux lui demande ce qui le distingue d'eux ; Batman répond d'une boutade (lui ne porte pas de jambières de hockey), qui ne dit rien de ce qui fonderait son droit. Le dîner sur Rome et César pose la même question à l'échelle de la cité : qui confie un pouvoir d'exception, et qui le reprend ?",
+        "en": "Copycats in hockey pads play armed Batmen; one of them asks what makes him different from them; Batman answers with a quip (he isn't wearing hockey pads), which says nothing about what would ground his right. The dinner talk about Rome and Caesar asks the same question on the scale of the city: who grants an emergency power, and who takes it back?"
+      },
+      "anchors": [
+        {
+          "axisId": "WHO_DECIDES"
+        }
+      ]
+    },
+    {
+      "title": {
+        "fr": "Le hasard est-il juste ?",
+        "en": "Is chance fair?"
+      },
+      "where": {
+        "fr": "La pièce de Harvey Dent",
+        "en": "Harvey Dent's coin"
+      },
+      "spoiler": true,
+      "text": {
+        "fr": "Double-Face tient sa pièce pour impartiale : elle ne fait pas de favoris. Mais remettre une décision au hasard, c'est encore décider, et refuser d'en répondre. La <c id='moral-luck'>chance morale</c> est ailleurs : ce que Dent devient tient à une nuit qu'il n'a pas choisie.",
+        "en": "Two-Face takes his coin to be impartial: it plays no favorites. But handing a decision over to chance is still deciding, and refusing to answer for it. <c id='moral-luck'>Moral luck</c> lies elsewhere: what Dent becomes hinges on a night he did not choose."
+      },
+      "anchors": [
+        {
+          "axisId": "ETHICS_FOUNDATION",
+          "problemId": "moral-luck"
+        }
+      ]
+    },
+    {
+      "title": {
+        "fr": "S'accuser pour sauver la paix ?",
+        "en": "Taking the blame to keep the peace?"
+      },
+      "where": {
+        "fr": "La fin",
+        "en": "The ending"
+      },
+      "spoiler": true,
+      "text": {
+        "fr": "La ville va traquer un innocent pour garder la paix, comme dans l'expérience du <te id='scapegoat-punishment'>bouc émissaire</te>, à une différence près : ici, l'innocent s'accuse lui-même, et personne ne le juge.",
+        "en": "The city will hunt an innocent man to keep the peace, as in the <te id='scapegoat-punishment'>scapegoat</te> thought experiment, with one difference: here the innocent man accuses himself, and no one tries him."
+      },
+      "anchors": [
+        {
+          "axisId": "PUNISHMENT",
+          "problemId": "punishing-the-innocent"
+        }
+      ]
+    }
+  ],
+  "further": {
+    "readings": [
+      {
+        "workId": "republic-plato",
+        "locus": {
+          "fr": "Livre III, 414b-415d",
+          "en": "Book III, 414b-415d"
+        },
+        "why": {
+          "fr": "Le beau mensonge : la fable que les gouvernants racontent pour que la cité tienne.",
+          "en": "The noble lie: the fable rulers tell so that the city holds together."
+        }
+      },
+      {
+        "workId": "leviathan-hobbes",
+        "locus": {
+          "fr": "Chapitre 13",
+          "en": "Chapter 13"
+        },
+        "why": {
+          "fr": "L'état de nature que le Joker veut recréer, et la raison pour laquelle on en sort.",
+          "en": "The state of nature the Joker wants to recreate, and the reason we leave it."
+        }
+      },
+      {
+        "title": {
+          "fr": "Les Frères Karamazov, « Le Grand Inquisiteur »",
+          "en": "The Brothers Karamazov, \"The Grand Inquisitor\""
+        },
+        "author": {
+          "fr": "Fiodor Dostoïevski",
+          "en": "Fyodor Dostoevsky"
+        },
+        "locus": {
+          "fr": "Livre V, chapitre 5",
+          "en": "Book V, chapter 5"
+        },
+        "year": 1880,
+        "why": {
+          "fr": "La défense la plus forte de l'idée qu'il faut épargner la vérité aux hommes.",
+          "en": "The strongest defense of the idea that human beings must be spared the truth."
+        }
+      },
+      {
+        "title": {
+          "fr": "Vérité et politique",
+          "en": "Truth and Politics"
+        },
+        "author": {
+          "fr": "Hannah Arendt",
+          "en": "Hannah Arendt"
+        },
+        "year": 1967,
+        "why": {
+          "fr": "Pourquoi le mensonge politique ruine le monde commun : le contrepoint du choix final.",
+          "en": "Why political lying ruins the common world: the counterpoint to the final choice."
+        }
+      },
+      {
+        "title": {
+          "fr": "Political Action: The Problem of Dirty Hands",
+          "en": "Political Action: The Problem of Dirty Hands"
+        },
+        "author": {
+          "fr": "Michael Walzer",
+          "en": "Michael Walzer"
+        },
+        "year": 1973,
+        "why": {
+          "fr": "Peut-on gouverner sans se salir les mains ? L'article qui a nommé le problème de Batman.",
+          "en": "Can one govern without getting one's hands dirty? The article that named Batman's problem."
+        }
+      }
+    ],
+    "fictions": [
+      {
+        "fictionId": "the-matrix",
+        "direction": "CONTESTS",
+        "why": {
+          "fr": "Le même problème de la vérité qu'on doit aux gens, vu de l'autre côté : Matrix penche vers la vérité qui libère, quand The Dark Knight semble accepter une illusion protectrice, pour une fois. La confrontation éclaire les deux.",
+          "en": "The same problem of the truth owed to people, seen from the other side: The Matrix leans toward the truth that frees, while The Dark Knight seems to accept a protective illusion, this once. Setting them side by side sheds light on both."
+        }
+      }
+    ]
+  },
+  "updatedAt": "2026-10-21T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

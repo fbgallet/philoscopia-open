@@ -1,0 +1,17 @@
+{
+  "kind": "PHILOSOPHER",
+  "stub": true,
+  "id": "bloch",
+  "name": { "fr": "Bloch", "en": "Bloch" },
+  "summary": {
+    "fr": "Philosophe allemand d'inspiration marxiste : penseur de l'utopie concrète, il fait de l'espérance et du « pas-encore » le ressort de l'histoire humaine.",
+    "en": "German philosopher of Marxist inspiration: a thinker of concrete utopia, he makes hope and the \"not-yet\" the mainspring of human history."
+  },
+  "nationality": { "fr": "Allemand", "en": "German" },
+  "birth": 1885,
+  "death": 1977,
+  "language": "deu",
+  "movements": ["marxism"],
+  "updatedAt": "2026-10-11T00:00:00.000Z",
+  "validation": { "method": "NOT_VALIDATED" }
+}

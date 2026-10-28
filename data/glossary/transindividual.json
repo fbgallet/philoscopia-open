@@ -1,0 +1,12 @@
+{
+  "id": "transindividual",
+  "term": { "fr": "Transindividuel", "en": "Transindividual" },
+  "definition": {
+    "fr": "Chez <ph id='simondon'>Simondon</ph>, la dimension de l'<c id='individuation'>individuation</c> psychique et collective. Le collectif n'est ni une somme d'individus déjà faits qui entreraient ensuite en relation, ni un tout qui les absorberait : il naît de ce que chaque sujet porte en lui de <c id='preindividual'>préindividuel</c>, et qu'il ne peut individuer qu'avec d'autres. La culture et les objets techniques sont des supports de cette relation transindividuelle.",
+    "en": "In <ph id='simondon'>Simondon</ph>, the dimension of psychic and collective <c id='individuation'>individuation</c>. The collective is neither a sum of ready-made individuals that would then enter into relation, nor a whole that would absorb them: it arises from the <c id='preindividual'>preindividual</c> share each subject carries, which it can individuate only with others. Culture and technical objects are supports of this transindividual relation."
+  },
+  "relatedAxes": ["INDIVIDUAL_SOCIETY"],
+  "relatedTerms": ["individuation", "preindividual"],
+  "figure": { "slug": "simondon", "name": { "fr": "Gilbert Simondon", "en": "Gilbert Simondon" } },
+  "updatedAt": "2026-10-11T00:00:00.000Z"
+}

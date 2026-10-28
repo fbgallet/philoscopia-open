@@ -32,6 +32,8 @@
     "fr": "Romain",
     "en": "Roman"
   },
+  "datesApprox": true,
+  "language": "lat",
   "movements": [
     "epicureanism"
   ],
@@ -755,7 +757,7 @@
       "en": "https://en.wikipedia.org/wiki/Lucretius"
     }
   },
-  "updatedAt": "2026-07-19T00:00:00.000Z",
+  "updatedAt": "2026-10-11T00:00:00.000Z",
   "validation": {
     "method": "NOT_VALIDATED"
   }

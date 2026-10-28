@@ -1,0 +1,25 @@
+{
+  "id": "intentionality-bias",
+  "term": {
+    "fr": "Biais d'intentionnalité",
+    "en": "Intentionality bias"
+  },
+  "aliases": {
+    "fr": [],
+    "en": [
+      "agency bias"
+    ]
+  },
+  "definition": {
+    "fr": "Le biais d'intentionnalité est la tendance à attribuer les événements à une volonté, à voir un dessein là où il n'y a que des causes ou du hasard. Précieuse pour comprendre les actions d'autrui, cette pente égare quand elle prête des intentions aux accidents, aux crises ou aux épidémies.",
+    "en": "Intentionality bias is the tendency to attribute events to a will, to see design where there are only causes or chance. Valuable for understanding other people's actions, this tendency misleads when it lends intentions to accidents, crises or epidemics."
+  },
+  "relatedAxes": [
+    "TRUTH_VALUE"
+  ],
+  "relatedTerms": [
+    "confirmation-bias",
+    "proportionality-bias"
+  ],
+  "updatedAt": "2026-10-28T00:00:00.000Z"
+}

@@ -25,7 +25,7 @@
 
 *[Comte](../philosophers/comte.md), *[The Course in Positive Philosophy](../works/course-positive-philosophy-comte.md)**
 
-**Challenged by** : [Sawing off the branch](../arguments/scientism-self-refutation-objection.md)
+**Challenged by** : [Taking science on trust](../arguments/scientism-faith-in-science-objection.md) · [Sawing off the branch](../arguments/scientism-self-refutation-objection.md)
 
 **Bears on the problems** : [What makes something a science?](../axes/science-place.md) · [Explaining, or understanding?](../axes/science-place.md) · [The true, or the useful?](../axes/science-place.md)
 

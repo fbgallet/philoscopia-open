@@ -1,0 +1,37 @@
+{
+  "id": "jian-ai",
+  "term": {
+    "fr": "Jian ai (souci de tous sans distinction)",
+    "en": "Jian ai (inclusive care for all)"
+  },
+  "aliases": {
+    "fr": [
+      "jian ai",
+      "jiān ài",
+      "amour universel"
+    ],
+    "en": [
+      "jian ai",
+      "jiān ài",
+      "universal love",
+      "impartial care"
+    ]
+  },
+  "definition": {
+    "fr": "Le jiān ài (兼愛), ou souci inclusif de tous, est un principe central du <mv id='mohism'>mohisme</mv> : il demande de prendre en considération les personnes, les familles et les États d'autrui, au lieu de favoriser exclusivement les siens. Les conflits viennent de cette préférence exclusive, tandis qu'une sollicitude étendue à tous est justifiée par les bénéfices qu'elle apporte. Cela n'implique pas nécessairement des sentiments identiques envers chaque personne ni l'abolition des responsabilités familiales. <ph id='mencius'>Mencius</ph> y voit néanmoins une menace pour la priorité due au père, et lui oppose l'<c id='graded-love'>amour gradué</c>.",
+    "en": "Jiān ài (兼愛), inclusive care for all, is a central principle of <mv id='mohism'>Mohism</mv>: it asks us to take into account other people, families and states, instead of exclusively favouring our own. Conflicts arise from this exclusive preference, while a care extended to all is justified by the benefits it brings. This does not necessarily imply identical feelings towards everyone, nor the abolition of family responsibilities. <ph id='mencius'>Mencius</ph> nonetheless sees in it a threat to the priority owed to one's father, and sets <c id='graded-love'>graded love</c> against it."
+  },
+  "relatedAxes": [
+    "PARTIALITY"
+  ],
+  "relatedTerms": [
+    "graded-love"
+  ],
+  "positions": [
+    {
+      "axisId": "PARTIALITY",
+      "poleId": "IMPARTIALISM"
+    }
+  ],
+  "updatedAt": "2026-10-10T00:00:00.000Z"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "question-concerning-technology-heidegger",
+  "title": { "fr": "La Question de la technique", "en": "The Question Concerning Technology" },
+  "originalTitle": "Die Frage nach der Technik",
+  "author": { "slug": "heidegger", "name": { "fr": "Martin Heidegger", "en": "Martin Heidegger" } },
+  "year": 1954,
+  "presentation": {
+    "fr": "Conférence prononcée à Munich en 1953 et publiée en 1954 dans <w id='essays-and-lectures-heidegger'>Essais et conférences</w>, issue d'un cycle donné à Brême en 1949. <ph id='heidegger'>Heidegger</ph> y soutient que l'essence de la technique moderne n'est pas technique : c'est un mode de dévoilement, l'<c id='gestell'>arraisonnement</c>, qui somme toute chose de se tenir disponible.",
+    "en": "A lecture given in Munich in 1953 and published in 1954 in <w id='essays-and-lectures-heidegger'>Lectures and Essays</w>, growing out of a cycle given in Bremen in 1949. <ph id='heidegger'>Heidegger</ph> argues there that the essence of modern technology is nothing technological: it is a mode of revealing, <c id='gestell'>enframing</c>, which challenges everything to stand by as available."
+  },
+  "updatedAt": "2026-10-11T00:00:00.000Z"
+}

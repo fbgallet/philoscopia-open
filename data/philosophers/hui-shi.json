@@ -16,6 +16,9 @@
     "fr": "Chinois",
     "en": "Chinese"
   },
+  "datesApprox": true,
+  "area": "EAST_ASIA",
+  "language": "lzh",
   "movements": [],
   "updatedAt": "2026-06-29T00:00:00.000Z",
   "validation": {

@@ -19,6 +19,36 @@ The summit and turning point of [German idealism](../movements/german-idealism.m
 
 ## Positions
 
+### [Humanity's place in nature](../axes/human-place-nature.md)
+
+*positioned · inferable · minor*
+
+Mastery 100%
+
+Hegel understands nature as the Idea in the form of otherness: not as a reality devoid of meaning before human intervention, but as a manifestation of reason that is not yet free. In practical terms, he grants the person the absolute right to appropriate external things and to place his will in them, since the thing has no end in itself. The analysis of labour shows how the servile consciousness, by forming the object, gains a new relation to itself. These texts favour mastery, and establish no mission to preserve nature.
+
+*Sources : Encyclopaedia of the Philosophical Sciences, §247-251 · Elements of the Philosophy of Right, §44 · Phenomenology of Spirit, IV, A ("Lordship and Bondage")*
+
+### [Relation to technology](../axes/technology.md)
+
+*positioned · inferable · minor*
+
+Techno-optimism 70% · Techno-criticism 30%
+
+In the "Teleology", the tool displays the **cunning of reason**, which uses the properties of things to accomplish its ends: through its permanence, "the plough is more honourable than are immediately the enjoyments procured by it". In civil society, however, the division of labour makes activity ever more abstract and mechanical, until the machine can take the human being's place. Poverty belongs to the contradictory dynamics of that society and the distribution of its wealth, not to the machine as such: Hegel prizes the rational power of means while analysing their social conditions.
+
+*Sources : Science of Logic, Subjective Logic, "Teleology" · Elements of the Philosophy of Right, §198 and §243-245*
+
+### [Distributive justice](../axes/distributive-justice.md)
+
+*positioned · inferable · minor*
+
+Egalitarianism 50% · Libertarianism 50%
+
+Hegel defends property as the first external realisation of the person, without making equal holdings a demand of abstract right: what each owns, and how much, is a matter of contingency. But this defence does not turn every market outcome into a just distribution: civil society produces a poverty that shuts its members out of its benefits and can breed a **rabble**, stripped of any sense of right and honour. Public assistance and the corporations, guild-like occupational associations, are meant to answer that exclusion, although Hegel acknowledges a problem of pauperism he does not resolve.
+
+*Sources : Elements of the Philosophy of Right, §41, §49, §200 · Elements of the Philosophy of Right, §230, §241-245, §252-256*
+
 ### [Nature of reality](../axes/reality-nature.md)
 
 *positioned · explicit in the texts · major*

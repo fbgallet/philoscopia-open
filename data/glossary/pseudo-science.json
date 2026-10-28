@@ -1,0 +1,29 @@
+{
+  "id": "pseudo-science",
+  "term": {
+    "fr": "Pseudo-science",
+    "en": "Pseudoscience"
+  },
+  "aliases": {
+    "fr": [
+      "pseudo-scientifique",
+      "pseudosciences"
+    ],
+    "en": [
+      "pseudoscientific"
+    ]
+  },
+  "definition": {
+    "fr": "Une pseudo-science emprunte l'apparence de la science, son vocabulaire, ses titres, parfois ses appareils, sans en accepter l'épreuve : ses affirmations ne s'exposent pas à des tests qui pourraient les réfuter, ou survivent à leurs échecs par des explications ajoutées après coup. <ph id='popper'>Popper</ph> en faisait le cœur du <kw>problème de la démarcation</kw>. Le critère n'est pas la bizarrerie d'une idée, mais son refus de se laisser démentir.",
+    "en": "A pseudoscience borrows the appearance of science, its vocabulary, its titles, sometimes its instruments, without accepting its test: its claims are not exposed to tests that could refute them, or survive their failures through explanations added after the fact. <ph id='popper'>Popper</ph> made it the heart of the <kw>demarcation problem</kw>. The criterion is not how strange an idea is, but its refusal to be proven wrong."
+  },
+  "relatedAxes": [
+    "SCIENCE_PLACE",
+    "SCIENTIFIC_METHOD"
+  ],
+  "relatedTerms": [
+    "unfalsifiability",
+    "placebo-effect"
+  ],
+  "updatedAt": "2026-10-29T00:00:00.000Z"
+}

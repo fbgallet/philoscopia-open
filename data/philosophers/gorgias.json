@@ -16,6 +16,8 @@
     "fr": "Grec (Sicile)",
     "en": "Greek (Sicily)"
   },
+  "datesApprox": true,
+  "language": "grc",
   "movements": [],
   "updatedAt": "2026-07-07T00:00:00.000Z",
   "validation": {

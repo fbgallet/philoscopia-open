@@ -402,6 +402,76 @@
       "minimum": -9007199254740991,
       "maximum": 9007199254740991
     },
+    "datesApprox": {
+      "type": "boolean",
+      "const": true
+    },
+    "language": {
+      "type": "string",
+      "enum": [
+        "grc",
+        "lat",
+        "ara",
+        "fas",
+        "heb",
+        "san",
+        "pli",
+        "bod",
+        "lzh",
+        "jpn",
+        "ita",
+        "fra",
+        "eng",
+        "deu",
+        "dan",
+        "rus",
+        "nld",
+        "nor",
+        "guj",
+        "swe"
+      ]
+    },
+    "otherLanguages": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "enum": [
+          "grc",
+          "lat",
+          "ara",
+          "fas",
+          "heb",
+          "san",
+          "pli",
+          "bod",
+          "lzh",
+          "jpn",
+          "ita",
+          "fra",
+          "eng",
+          "deu",
+          "dan",
+          "rus",
+          "nld",
+          "nor",
+          "guj",
+          "swe"
+        ]
+      }
+    },
+    "oral": {
+      "type": "boolean",
+      "const": true
+    },
+    "area": {
+      "type": "string",
+      "enum": [
+        "EAST_ASIA",
+        "SOUTH_ASIA",
+        "ISLAMIC_WORLD",
+        "WEST"
+      ]
+    },
     "nationality": {
       "type": "object",
       "properties": {

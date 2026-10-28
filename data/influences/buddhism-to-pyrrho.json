@@ -1,0 +1,23 @@
+{
+  "id": "buddhism-to-pyrrho",
+  "from": { "kind": "MOVEMENT", "slug": "buddhism" },
+  "to": { "kind": "PHILOSOPHER", "slug": "pyrrho" },
+  "directness": "INDIRECT",
+  "mode": "REINTERPRETS",
+  "strength": "WEAK",
+  "note": {
+    "fr": "<ph id='pyrrho'>Pyrrhon</ph> accompagna Alexandre en Inde et y rencontra des « gymnosophistes ». <dif>Une parenté entre sa suspension du jugement et la pensée indienne, voire le <mv id='buddhism'>bouddhisme</mv>, est défendue par certains historiens et contestée par d'autres</dif> : le lien reste une hypothèse.",
+    "en": "<ph id='pyrrho'>Pyrrho</ph> accompanied Alexander to India and met \"gymnosophists\" there. <dif>A kinship between his suspension of judgment and Indian thought, even <mv id='buddhism'>Buddhism</mv>, is defended by some historians and disputed by others</dif>: the link remains a hypothesis."
+  },
+  "sources": [
+    {
+      "fr": "Diogène Laërce, Vies et doctrines des philosophes illustres, IX, 61",
+      "en": "Diogenes Laërtius, Lives of Eminent Philosophers, IX.61"
+    },
+    {
+      "fr": "Débat entre E. Flintoff (1980), C. Beckwith (2015) et R. Bett",
+      "en": "Debate between E. Flintoff (1980), C. Beckwith (2015) and R. Bett"
+    }
+  ],
+  "updatedAt": "2026-10-09T00:00:00.000Z"
+}

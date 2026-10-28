@@ -1,0 +1,124 @@
+{
+  "id": "ecocentrism-returning-wolf-objection",
+  "kind": "OBJECTS",
+  "position": {
+    "axisId": "MORAL_CIRCLE",
+    "poleId": "ECOCENTRISM"
+  },
+  "name": {
+    "fr": "Le retour du loup",
+    "en": "The return of the wolf"
+  },
+  "attacks": "POSITION",
+  "claim": {
+    "fr": "« Préserver l'écosystème », mais lequel ? La nature n'a pas d'état d'équilibre à défendre : c'est nous qui choisissons celui qui nous convient.",
+    "en": "\"Preserve the ecosystem\", but which one? Nature has no state of balance to defend: we are the ones who choose the one that suits us."
+  },
+  "summary": {
+    "fr": "Le retour du loup dans les Alpes oppose deux montagnes, avec et sans lui, et rien dans la nature ne désigne la bonne. Choisir l'état à préserver est un jugement humain : derrière l'écocentrisme se cache peut-être un anthropocentrisme.",
+    "en": "The wolf's return to the Alps pits two mountains against each other, with and without it, and nothing in nature designates the right one. Choosing the state to preserve is a human judgment: behind ecocentrism there may lurk an anthropocentrism."
+  },
+  "development": [
+    {
+      "fr": "L'écocentrisme juge une action à ce qu'elle préserve l'intégrité et la stabilité de la <c id='biotic-community'>communauté biotique</c>.",
+      "en": "Ecocentrism judges an action by whether it preserves the integrity and stability of the <c id='biotic-community'>biotic community</c>."
+    },
+    {
+      "fr": "Revenu d'Italie au début des années 1990, le loup a reconquis les Alpes françaises ; il y tue chaque année plusieurs milliers de brebis. Les uns saluent un écosystème qui retrouve son équilibre, les autres défendent des alpages façonnés par des siècles de pastoralisme, riches eux aussi en fleurs et en insectes. Où est l'« intégrité » : dans la montagne sans loups des années 1950, celle du Moyen Âge, celle d'avant l'agriculture ?",
+      "en": "Having come back from Italy in the early 1990s, the wolf has reconquered the French Alps, where it kills thousands of sheep every year. Some hail an ecosystem regaining its balance; others defend high pastures shaped by centuries of herding, themselves rich in flowers and insects. Where does \"integrity\" lie: in the wolfless mountain of the 1950s, the medieval one, the one before farming?"
+    },
+    {
+      "fr": "La nature ne cesse de changer : glaciations, migrations, extinctions. Elle ne désigne aucun état comme le bon, et même un écocentrisme attentif aux processus plutôt qu'à un équilibre fixe doit choisir lesquels favoriser. Choisir celui qu'il faut préserver, c'est trancher selon nos valeurs, esthétiques, économiques ou affectives.",
+      "en": "Nature never stops changing: ice ages, migrations, extinctions. It singles out no state as the right one, and even an ecocentrism attentive to processes rather than a fixed balance must choose which to favour. Choosing which to preserve means deciding by our own values, aesthetic, economic or emotional."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc la « santé » d'un écosystème n'est pas un bien que la nature porte en elle, mais un jugement humain : derrière l'écocentrisme se cache peut-être un anthropocentrisme qui s'ignore.",
+    "en": "So the \"health\" of an ecosystem is not a good that nature carries within it, but a human judgment: behind ecocentrism may lurk an anthropocentrism unaware of itself."
+  },
+  "difficulty": 1,
+  "responses": [
+    {
+      "id": "revise",
+      "label": {
+        "fr": "C'est juste : c'est nous qui choisissons quelle nature préserver, selon ce qu'elle vaut pour nous.",
+        "en": "Fair enough: we are the ones who choose which nature to preserve, according to what it is worth to us."
+      },
+      "hints": [
+        {
+          "axisId": "MORAL_CIRCLE",
+          "value": {
+            "kind": "weights",
+            "weights": [
+              0.45,
+              0.3,
+              0.05,
+              0.2
+            ]
+          },
+          "weight": 1
+        }
+      ],
+      "discussion": {
+        "fr": "Vous reconnaissez que la valeur de la nature passe par nos choix : c'est une porte vers l'anthropocentrisme, ou vers une écologie qui assume d'être humaine.",
+        "en": "You grant that nature's value passes through our choices: a door toward anthropocentrism, or toward an ecology that owns up to being human."
+      }
+    },
+    {
+      "id": "qualify",
+      "label": {
+        "fr": "Il n'y a pas d'équilibre unique, mais il y a des critères : la diversité, la capacité d'un milieu à se maintenir sans nous. Préserver le tout reste le but, à condition d'assumer nos choix.",
+        "en": "There is no single balance, but there are criteria: diversity, a habitat's ability to sustain itself without us. Preserving the whole remains the goal, provided we own our choices."
+      },
+      "hints": [
+        {
+          "axisId": "MORAL_CIRCLE",
+          "value": {
+            "kind": "weights",
+            "weights": [
+              0.1,
+              0.15,
+              0.1,
+              0.65
+            ]
+          },
+          "weight": 1
+        }
+      ],
+      "discussion": {
+        "fr": "Vous gardez l'écocentrisme en renonçant au mythe d'un équilibre naturel fixe : la nature ne choisit pas, mais tous les états ne se valent pas.",
+        "en": "You keep ecocentrism while giving up the myth of a fixed natural balance: nature does not choose, but not all states are equal."
+      }
+    },
+    {
+      "id": "refute",
+      "label": {
+        "fr": "Plusieurs états possibles n'empêchent pas de distinguer un milieu vivant d'un milieu qui s'effondre : un écosystème qui s'appauvrit en espèces jusqu'à ne plus se maintenir se dégrade, quoi que nous en pensions.",
+        "en": "Several possible states do not prevent us from telling a living habitat from a collapsing one: an ecosystem losing species until it can no longer sustain itself is degrading, whatever we think of it."
+      },
+      "hints": [
+        {
+          "axisId": "MORAL_CIRCLE",
+          "value": {
+            "kind": "weights",
+            "weights": [
+              0.02,
+              0.08,
+              0.1,
+              0.8
+            ]
+          },
+          "weight": 0.5
+        }
+      ],
+      "discussion": {
+        "fr": "Vous tenez que la dégradation d'un milieu est un fait, non une préférence : la santé du tout se constate avant de se choisir.",
+        "en": "You hold that the degradation of a habitat is a fact, not a preference: the health of the whole is observed before it is chosen."
+      }
+    }
+  ],
+  "targets": [
+    "ecocentrism-land-ethic"
+  ],
+  "updatedAt": "2026-10-11T00:00:00.000Z"
+}

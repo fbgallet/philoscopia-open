@@ -1,0 +1,222 @@
+{
+  "kind": "MOVEMENT",
+  "id": "madhyamaka",
+  "name": { "fr": "Madhyamaka", "en": "Madhyamaka" },
+  "tagline": {
+    "fr": "Une dialectique qui défait toutes les thèses, la sienne comprise, pour délivrer de l'emprise des vues.",
+    "en": "A dialectic that undoes every thesis, its own included, to free the mind from the grip of views."
+  },
+  "aliases": {
+    "fr": [
+      "mādhyamika",
+      "madhyamika"
+    ],
+    "en": [
+      "Mādhyamika",
+      "Madhyamika"
+    ]
+  },
+  "summary": {
+    "fr": "La Madhyamaka (la <c id='the-middle-way'>voie du milieu</c>) est l'école du bouddhisme mahāyāna fondée par <ph id='nagarjuna'>Nāgārjuna</ph> vers le IIe siècle, autour de ses <w>Stances du milieu par excellence</w>. Elle radicalise l'enseignement bouddhique de la <c id='pratityasamutpada'>coproduction conditionnée</c> en doctrine de la <c id='sunyata'>vacuité</c>. Nāgārjuna la défend surtout en réduisant à l'absurde les positions adverses ; <ph>Bhāviveka</ph> y réintroduit des arguments autonomes, ce que <ph id='candrakirti'>Candrakīrti</ph> conteste, d'où la distinction, élaborée au Tibet, entre lectures « svātantrika » et « prāsaṅgika ». Avec <ph id='tsongkhapa'>Tsongkhapa</ph>, dernier grand rénovateur retenu ici, elle devient le sommet du cursus monastique de l'école gelug, qu'elle reste aujourd'hui. Sa controverse avec le <mv id='nyaya'>Nyāya</mv> sur les <c id='pramana'>moyens de connaissance</c> a structuré l'épistémologie indienne. Au XXe siècle, elle est reçue de façons diverses, dans le dialogue de l'<mv id='kyoto-school'>école de Kyoto</mv> avec la philosophie occidentale comme dans une partie de la philosophie analytique.",
+    "en": "Madhyamaka (the <c id='the-middle-way'>middle way</c>) is the school of Mahāyāna Buddhism founded by <ph id='nagarjuna'>Nāgārjuna</ph> around the second century, built on his <w>Fundamental Verses on the Middle Way</w>. It radicalizes the Buddhist teaching of <c id='pratityasamutpada'>dependent origination</c> into a doctrine of <c id='sunyata'>emptiness</c>. Nāgārjuna defends it mainly by reducing opposing positions to absurdity; <ph>Bhāviveka</ph> reintroduced autonomous arguments, which <ph id='candrakirti'>Candrakīrti</ph> contested, hence the distinction, worked out in Tibet, between \"Svātantrika\" and \"Prāsaṅgika\" readings. With <ph id='tsongkhapa'>Tsongkhapa</ph>, the last great renewer recorded here, it became the summit of the monastic curriculum of the Gelug school, which it remains today. Its controversy with <mv id='nyaya'>Nyāya</mv> over the <c id='pramana'>means of knowledge</c> shaped Indian epistemology. In the twentieth century it was received in diverse ways, in the <mv id='kyoto-school'>Kyoto School</mv>'s dialogue with Western philosophy as well as in part of analytic philosophy."
+  },
+  "area": "SOUTH_ASIA",
+  "period": {
+    "from": 150,
+    "to": 1419,
+    "approx": true,
+    "afterlife": "LIVING"
+  },
+  "keyFigures": [
+    {
+      "slug": "nagarjuna",
+      "name": { "fr": "Nāgārjuna", "en": "Nāgārjuna" }
+    },
+    {
+      "slug": "candrakirti",
+      "name": { "fr": "Candrakīrti", "en": "Candrakīrti" }
+    },
+    {
+      "slug": "tsongkhapa",
+      "name": { "fr": "Tsongkhapa", "en": "Tsongkhapa" }
+    }
+  ],
+  "entries": [
+    {
+      "axisId": "ESSENCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.6
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Rien n'a de <c id='svabhava'>nature propre</c> (<c id='svabhava'>svabhāva</c>), c'est-à-dire une existence qui ne dépendrait de rien d'autre. Une chose dotée d'une telle nature ne pourrait ni naître, ni changer, ni agir ; or tout naît, change et agit. Dire que les choses sont <c id='sunyata'>vides</c>, ce n'est pas dire qu'elles n'existent pas, c'est dire qu'elles n'existent qu'en dépendance. <dif>Cette vacuité n'est pas un néant, et <ph id='nagarjuna'>Nāgārjuna</ph> met en garde contre qui la saisirait comme une nouvelle thèse.</dif>",
+          "en": "Nothing has an <c id='svabhava'>intrinsic nature</c> (<c id='svabhava'>svabhāva</c>), that is, an existence depending on nothing else. A thing endowed with such a nature could neither arise, nor change, nor act; yet everything arises, changes and acts. To say that things are <c id='sunyata'>empty</c> is not to say that they do not exist, but that they exist only in dependence. <dif>This emptiness is not nothingness, and <ph id='nagarjuna'>Nāgārjuna</ph> warns against anyone who would grasp it as a new thesis.</dif>"
+        },
+        "references": [
+          {
+            "fr": "Nāgārjuna, Stances du milieu par excellence, XV et XXIV, 18",
+            "en": "Nāgārjuna, Fundamental Verses on the Middle Way, XV and XXIV.18"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "TRUTH_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.1,
+          0.4,
+          0.5
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "La doctrine des <c id='two-truths'>deux vérités</c> distingue une <c id='two-truths'>vérité conventionnelle</c>, celle de l'usage, du langage et des transactions du monde, d'une <c id='two-truths'>vérité ultime</c>, la vacuité, qui ne s'énonce pas comme un fait. <stk>Sans la vérité conventionnelle on ne peut enseigner l'ultime.</stk> Le vrai conventionnel repose sur les conventions du monde et sur une connaissance conventionnellement fiable, que <ph id='candrakirti'>Candrakīrti</ph> admet à ce niveau ; il ne suppose pas de choses dotées d'une nature propre auxquelles correspondre, d'où la faible part de la correspondance et le poids de la cohérence avec les pratiques et de leur efficacité.",
+          "en": "The doctrine of the <c id='two-truths'>two truths</c> distinguishes a <c id='two-truths'>conventional truth</c>, that of usage, language and worldly transactions, from an <c id='two-truths'>ultimate truth</c>, emptiness, which cannot be stated as a fact. <stk>Without conventional truth the ultimate cannot be taught.</stk> Conventional truth rests on worldly conventions and on conventionally reliable cognition, which <ph id='candrakirti'>Candrakīrti</ph> accepts at that level; it does not presuppose things endowed with an intrinsic nature to correspond to, hence the small share of correspondence and the weight of coherence with practices and of their effectiveness."
+        },
+        "references": [
+          {
+            "fr": "Nāgārjuna, Stances du milieu par excellence, XXIV, 8-10",
+            "en": "Nāgārjuna, Fundamental Verses on the Middle Way, XXIV.8-10"
+          },
+          {
+            "fr": "Candrakīrti, Madhyamakāvatāra, VI",
+            "en": "Candrakīrti, Madhyamakāvatāra (Introduction to the Middle Way), VI"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "TRANSCENDENCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.95
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Pour <ph id='nagarjuna'>Nāgārjuna</ph>, il n'y a pas, ultimement, la moindre différence entre le <c id='samsara'>saṃsāra</c> et le <c id='nirvana'>nirvāṇa</c> : tous deux sont vides de nature propre. Le nirvāṇa n'est donc pas un autre lieu où s'évader, mais l'apaisement de la saisie qui fait le saṃsāra. <dif>La distinction demeure pourtant au plan conventionnel</dif>, où la voie et la délivrance gardent tout leur sens. Cette immanence radicale sera reprise, de façons diverses, par le zen et l'<mv id='kyoto-school'>école de Kyoto</mv>.",
+          "en": "For <ph id='nagarjuna'>Nāgārjuna</ph>, there is ultimately not the slightest difference between <c id='samsara'>saṃsāra</c> and <c id='nirvana'>nirvāṇa</c>: both are empty of intrinsic nature. Nirvāṇa is therefore not another place to escape to, but the stilling of the grasping that makes saṃsāra. <dif>The distinction nonetheless remains at the conventional level</dif>, where the path and liberation keep their full meaning. This radical immanence would be taken up, in diverse ways, by Zen and by the <mv id='kyoto-school'>Kyoto School</mv>."
+        },
+        "references": [
+          {
+            "fr": "Nāgārjuna, Stances du milieu par excellence, XXV, 19-20",
+            "en": "Nāgārjuna, Fundamental Verses on the Middle Way, XXV.19-20"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "SELF_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Le soi n'est ni identique aux <c id='skandha'>agrégats</c> (<c id='skandha'>skandha</c>) qui le composent, ni distinct d'eux : c'est une <c>désignation</c> conventionnelle, comme le char n'est rien en dehors de ses pièces et n'est pourtant aucune d'entre elles. La Madhyamaka refuse en outre aux agrégats eux-mêmes toute existence ultime, ce qui la distingue des écoles bouddhiques qui en faisaient les vrais constituants : le faisceau n'est lui-même qu'une désignation.",
+          "en": "The self is neither identical to the <c id='skandha'>aggregates</c> (<c id='skandha'>skandha</c>) that make it up nor distinct from them: it is a conventional <c>designation</c>, just as the chariot is nothing apart from its parts and yet is none of them. Madhyamaka further denies the aggregates themselves any ultimate existence, which sets it apart from the Buddhist schools that took them as the real constituents: the bundle itself is only a designation."
+        },
+        "references": [
+          {
+            "fr": "Nāgārjuna, Stances du milieu par excellence, XVIII",
+            "en": "Nāgārjuna, Fundamental Verses on the Middle Way, XVIII"
+          },
+          {
+            "fr": "Candrakīrti, Madhyamakāvatāra, VI, 150-165 (l'analyse du char en sept points)",
+            "en": "Candrakīrti, Madhyamakāvatāra, VI.150-165 (the sevenfold analysis of the chariot)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "CERTAINTY",
+      "status": "CONTEXTUALIST",
+      "note": {
+        "fr": "Ni dogmatique ni sceptique au sens grec : <ph id='nagarjuna'>Nāgārjuna</ph> déclare n'avoir aucune thèse à défendre et retourne contre les <c id='pramana'>moyens de connaissance</c> l'exigence de fondement, tandis que <ph id='candrakirti'>Candrakīrti</ph> les admet sur le plan conventionnel. L'axe ne saisit pas cette position.",
+        "en": "Neither dogmatic nor sceptical in the Greek sense: <ph id='nagarjuna'>Nāgārjuna</ph> declares he has no thesis to defend and turns the demand for grounding back on the <c id='pramana'>means of knowledge</c>, while <ph id='candrakirti'>Candrakīrti</ph> accepts them at the conventional level. The axis does not capture this position."
+      }
+    },
+    {
+      "axisId": "METAPHILOSOPHY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0,
+          0,
+          0.8,
+          0.2
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "La dialectique madhyamaka vise la <c id='prapancopasama'>pacification des élaborations conceptuelles</c> (<c id='prapancopasama'>prapañcopaśama</c>) : défaire l'attachement aux vues, source de souffrance, plutôt que construire une doctrine du monde. L'analyse y est une thérapie, d'où la part de la clarification.",
+          "en": "The Madhyamaka dialectic aims at the <c id='prapancopasama'>pacification of conceptual proliferation</c> (<c id='prapancopasama'>prapañcopaśama</c>): undoing attachment to views, a source of suffering, rather than building a doctrine of the world. Analysis is a therapy here, hence the share of clarification."
+        },
+        "references": [
+          {
+            "fr": "Nāgārjuna, Stances du milieu par excellence, dédicace et XXVII, 30",
+            "en": "Nāgārjuna, Fundamental Verses on the Middle Way, dedication and XXVII.30"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    }
+  ],
+  "structuring": [
+    {
+      "axisId": "ESSENCE",
+      "thesis": {
+        "fr": "Rien n'existe par soi : être, c'est dépendre, et c'est parce que tout est <c id='sunyata'>vide</c> que tout peut changer.",
+        "en": "Nothing exists by itself: to be is to depend, and it is because everything is <c id='sunyata'>empty</c> that everything can change."
+      }
+    },
+    {
+      "axisId": "TRUTH_NATURE",
+      "thesis": {
+        "fr": "Il y a <c id='two-truths'>deux vérités</c>, et la plus haute ne se dit pas comme un fait.",
+        "en": "There are <c id='two-truths'>two truths</c>, and the higher one cannot be stated as a fact."
+      }
+    },
+    {
+      "axisId": "TRANSCENDENCE",
+      "thesis": {
+        "fr": "Le <c id='nirvana'>nirvāṇa</c> n'est pas un ailleurs : ultimement, il ne diffère pas du <c id='samsara'>saṃsāra</c>, dont il est l'apaisement.",
+        "en": "<c id='nirvana'>Nirvāṇa</c> is not an elsewhere: ultimately it does not differ from <c id='samsara'>saṃsāra</c>, of which it is the stilling."
+      }
+    }
+  ],
+  "identity": {
+    "wikidata": "Q844421",
+    "wikipedia": { "fr": "https://fr.wikipedia.org/wiki/Madhyamaka", "en": "https://en.wikipedia.org/wiki/Madhyamaka" }
+  },
+  "updatedAt": "2026-10-09T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

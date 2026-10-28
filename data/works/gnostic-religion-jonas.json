@@ -1,0 +1,12 @@
+{
+  "id": "gnostic-religion-jonas",
+  "title": { "fr": "La Religion gnostique", "en": "The Gnostic Religion" },
+  "originalTitle": "The Gnostic Religion",
+  "author": { "slug": "jonas", "name": { "fr": "Hans Jonas", "en": "Hans Jonas" } },
+  "year": 1958,
+  "presentation": {
+    "fr": "Synthèse, publiée en anglais, des recherches que <ph id='jonas'>Jonas</ph> mène depuis sa thèse et dont le premier fruit fut <w>Gnosis und spätantiker Geist</w> (1934). Il y lit la gnose antique avec les outils de l'analyse existentiale, et rapproche son dualisme du nihilisme moderne.",
+    "en": "A synthesis, published in English, of the research <ph id='jonas'>Jonas</ph> had pursued since his dissertation, whose first fruit was <w>Gnosis und spätantiker Geist</w> (1934). He reads ancient Gnosticism with the tools of existential analysis, and relates its dualism to modern nihilism."
+  },
+  "updatedAt": "2026-10-11T00:00:00.000Z"
+}

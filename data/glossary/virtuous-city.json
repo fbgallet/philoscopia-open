@@ -1,0 +1,32 @@
+{
+  "id": "virtuous-city",
+  "term": {
+    "fr": "Cité vertueuse",
+    "en": "Virtuous city"
+  },
+  "aliases": {
+    "fr": [
+      "cité excellente"
+    ],
+    "en": [
+      "excellent city"
+    ]
+  },
+  "definition": {
+    "fr": "Chez <ph id='al-farabi'>al-Fārābī</ph>, la cité vertueuse est celle dont les habitants coopèrent en vue du vrai bonheur, sous une direction capable de les y conduire. Son premier gouvernant idéal réunit les capacités du philosophe et du prophète : il connaît la vérité par l'intellect et sait la communiquer par des représentations, des prescriptions et des lois. Inspirée notamment de la <w>République</w> de <ph id='plato'>Platon</ph>, elle s'oppose aux cités ignorantes, qui prennent la richesse, les honneurs ou le plaisir pour le bonheur. Sa direction peut ensuite être assurée selon différentes modalités de succession, y compris collégiales.",
+    "en": "For <ph id='al-farabi'>al-Fārābī</ph>, the virtuous city is one whose inhabitants cooperate towards true happiness, under a leadership able to bring them there. Its first, ideal ruler combines the capacities of philosopher and prophet: he knows the truth through the intellect and can convey it through images, precepts and laws. Inspired notably by <ph id='plato'>Plato</ph>'s <w>Republic</w>, it stands against the ignorant cities, which mistake wealth, honours or pleasure for happiness. Its leadership can then pass on in various ways, including to a council."
+  },
+  "relatedAxes": [
+    "WHO_DECIDES",
+    "POLITICAL_IDEAL"
+  ],
+  "relatedTerms": [],
+  "figure": {
+    "slug": "al-farabi",
+    "name": {
+      "fr": "al-Fārābī",
+      "en": "al-Fārābī"
+    }
+  },
+  "updatedAt": "2026-10-10T00:00:00.000Z"
+}

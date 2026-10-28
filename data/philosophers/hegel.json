@@ -21,8 +21,98 @@
   "nationality": { "fr": "Allemand", "en": "German" },
   "birth": 1770,
   "death": 1831,
+  "language": "deu",
   "movements": ["german-idealism"],
   "entries": [
+    {
+      "axisId": "HUMAN_PLACE_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          1,
+          0,
+          0
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Hegel comprend la nature comme l'Idée sous la forme de l'être-autre : non comme une réalité dépourvue de sens avant l'intervention humaine, mais comme une manifestation de la raison qui n'est pas encore libre. Dans le rapport pratique, il reconnaît à la personne le droit absolu de s'approprier les choses extérieures et d'y mettre sa volonté, la chose n'ayant pas de fin en elle-même. L'analyse du travail montre comment la conscience servile, en formant l'objet, acquiert un rapport nouveau à elle-même. Ces textes favorisent la maîtrise, et n'établissent aucune mission de conservation de la nature.",
+          "en": "Hegel understands nature as the Idea in the form of otherness: not as a reality devoid of meaning before human intervention, but as a manifestation of reason that is not yet free. In practical terms, he grants the person the absolute right to appropriate external things and to place his will in them, since the thing has no end in itself. The analysis of labour shows how the servile consciousness, by forming the object, gains a new relation to itself. These texts favour mastery, and establish no mission to preserve nature."
+        },
+        "references": [
+          {
+            "fr": "Encyclopédie des sciences philosophiques, §247-251",
+            "en": "Encyclopaedia of the Philosophical Sciences, §247-251"
+          },
+          {
+            "fr": "Principes de la philosophie du droit, §44",
+            "en": "Elements of the Philosophy of Right, §44"
+          },
+          {
+            "fr": "Phénoménologie de l'esprit, IV, A (« Domination et servitude »)",
+            "en": "Phenomenology of Spirit, IV, A (\"Lordship and Bondage\")"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "TECHNOLOGY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.4
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Dans la « Téléologie », l'outil manifeste la <kw>ruse de la raison</kw>, qui se sert des propriétés des choses pour réaliser ses fins : par sa permanence, « la charrue est plus honorable que ne le sont immédiatement les jouissances qu'elle procure ». Dans la société civile, la division du travail rend pourtant l'activité plus abstraite et mécanique, jusqu'à permettre que la machine remplace l'homme. La pauvreté relève de la dynamique contradictoire de cette société et de la répartition de ses richesses, non de la machine prise isolément : Hegel valorise la puissance rationnelle des moyens tout en analysant leurs conditions sociales.",
+          "en": "In the \"Teleology\", the tool displays the <kw>cunning of reason</kw>, which uses the properties of things to accomplish its ends: through its permanence, \"the plough is more honourable than are immediately the enjoyments procured by it\". In civil society, however, the division of labour makes activity ever more abstract and mechanical, until the machine can take the human being's place. Poverty belongs to the contradictory dynamics of that society and the distribution of its wealth, not to the machine as such: Hegel prizes the rational power of means while analysing their social conditions."
+        },
+        "references": [
+          {
+            "fr": "Science de la logique, logique subjective, « La téléologie »",
+            "en": "Science of Logic, Subjective Logic, \"Teleology\""
+          },
+          {
+            "fr": "Principes de la philosophie du droit, §198 et §243-245",
+            "en": "Elements of the Philosophy of Right, §198 and §243-245"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "DISTRIBUTIVE_JUSTICE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Hegel défend la propriété comme première réalisation extérieure de la personne, sans faire de l'égalité des possessions une exigence du droit abstrait : ce que chacun possède, et combien, relève de la contingence. Mais cette défense ne transforme pas toute répartition issue du marché en répartition juste : la société civile produit une pauvreté qui exclut ses membres de ses avantages et peut engendrer une <kw>populace</kw>, privée du sentiment du droit et de l'honneur. L'assistance publique et les corporations de métier doivent répondre à cette exclusion, même si les paragraphes sur le paupérisme avouent une difficulté que Hegel ne résout pas.",
+          "en": "Hegel defends property as the first external realisation of the person, without making equal holdings a demand of abstract right: what each owns, and how much, is a matter of contingency. But this defence does not turn every market outcome into a just distribution: civil society produces a poverty that shuts its members out of its benefits and can breed a <kw>rabble</kw>, stripped of any sense of right and honour. Public assistance and the corporations, guild-like occupational associations, are meant to answer that exclusion, although Hegel acknowledges a problem of pauperism he does not resolve."
+        },
+        "references": [
+          {
+            "fr": "Principes de la philosophie du droit, §41, §49, §200",
+            "en": "Elements of the Philosophy of Right, §41, §49, §200"
+          },
+          {
+            "fr": "Principes de la philosophie du droit, §230, §241-245, §252-256",
+            "en": "Elements of the Philosophy of Right, §230, §241-245, §252-256"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
     {
       "axisId": "REALITY_NATURE",
       "status": "POSITIONED",
@@ -536,6 +626,6 @@
       "en": "https://en.wikipedia.org/wiki/Georg_Wilhelm_Friedrich_Hegel"
     }
   },
-  "updatedAt": "2026-07-22T00:00:00.000Z",
+  "updatedAt": "2026-10-11T00:00:00.000Z",
   "validation": { "method": "NOT_VALIDATED" }
 }

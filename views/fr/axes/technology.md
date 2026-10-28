@@ -56,6 +56,8 @@ La technique n'est en elle-même ni bénédiction ni malédiction : c'est un moy
 
 ## Citations
 
+> « La plus forte cause d'aliénation dans le monde contemporain réside dans cette méconnaissance de la machine, qui n'est pas une aliénation causée par la machine, mais par la non-connaissance de sa nature et de son essence. » — [Simondon](../philosophers/simondon.md), Du mode d'existence des objets techniques, introduction
+
 > « Le savoir humain et la puissance humaine coïncident, car ignorer la cause, c'est manquer l'effet. » — [Bacon](../philosophers/bacon.md), Novum Organum, I, §3
 
 > « Nos âmes se sont corrompues à mesure que nos sciences et nos arts se sont avancés à la perfection. » — [Rousseau](../philosophers/rousseau.md), Discours sur les sciences et les arts (1750)

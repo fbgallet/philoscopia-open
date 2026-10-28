@@ -1,0 +1,17 @@
+{
+  "id": "simondon-to-deleuze",
+  "from": { "kind": "PHILOSOPHER", "slug": "simondon" },
+  "to": { "kind": "PHILOSOPHER", "slug": "deleuze" },
+  "directness": "ATTESTED",
+  "mode": "REINTERPRETS",
+  "strength": "MEDIUM",
+  "note": {
+    "fr": "<ph id='deleuze'>Deleuze</ph> rend compte de <w>L'Individu et sa genèse physico-biologique</w> dès 1966, puis reprend dans <w>Différence et répétition</w> (1968) les notions d'<c id='individuation'>individuation</c>, de <c id='preindividual'>préindividuel</c> et de <c id='metastability'>métastabilité</c> de <ph id='simondon'>Simondon</ph>, qu'il intègre à sa philosophie de la différence.",
+    "en": "<ph id='deleuze'>Deleuze</ph> reviewed <w>L'Individu et sa genèse physico-biologique</w> as early as 1966, then took up in <w>Difference and Repetition</w> (1968) <ph id='simondon'>Simondon</ph>'s notions of <c id='individuation'>individuation</c>, the <c id='preindividual'>preindividual</c> and <c id='metastability'>metastability</c>, folding them into his philosophy of difference."
+  },
+  "sources": [
+    { "fr": "Deleuze, compte rendu de Simondon, Revue philosophique de la France et de l'étranger (1966)", "en": "Deleuze, review of Simondon, Revue philosophique de la France et de l'étranger (1966)" },
+    { "fr": "Deleuze, Différence et répétition (1968)", "en": "Deleuze, Difference and Repetition (1968)" }
+  ],
+  "updatedAt": "2026-10-11T00:00:00.000Z"
+}

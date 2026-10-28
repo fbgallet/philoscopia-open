@@ -16,7 +16,7 @@
 
 **⇒** Donc l'homme n'est pas maître de la nature mais [membre de la communauté biotique](../axes/human-place-nature.md) : le bien ultime est la santé de ce tout, dont chaque être, humain compris, n'est qu'une part.
 
-**Contesté par** : [Le tout contre l'individu](../arguments/ecocentrism-environmental-fascism-objection.md)
+**Contesté par** : [Le tout contre l'individu](../arguments/ecocentrism-environmental-fascism-objection.md) · [Le retour du loup](../arguments/ecocentrism-returning-wolf-objection.md)
 
 **Porte sur les problèmes** : [L'individu ou le tout](../axes/moral-circle.md) · [Le critère du statut moral](../axes/moral-circle.md)
 

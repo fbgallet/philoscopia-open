@@ -1,0 +1,34 @@
+{
+  "id": "sentience",
+  "term": {
+    "fr": "Sentience",
+    "en": "Sentience"
+  },
+  "aliases": {
+    "fr": [
+      "sensibilité animale",
+      "être sensible"
+    ],
+    "en": [
+      "sentient being"
+    ]
+  },
+  "definition": {
+    "fr": "La sentience est la capacité d'éprouver des sensations et des états affectifs, plaisir, douleur, peur, et donc d'avoir un point de vue sur ce qui vous arrive. Pour le pathocentrisme, c'est le critère qui fait entrer un être dans le cercle moral. Sa frontière reste discutée : on l'attribue aux mammifères et aux oiseaux, de plus en plus aux poissons, aux pieuvres et à certains crustacés, et la question reste ouverte pour les insectes.",
+    "en": "Sentience is the capacity to feel sensations and affective states, pleasure, pain, fear, and so to have a point of view on what happens to one. For pathocentrism, it is the criterion that brings a being into the moral circle. Its boundary is still debated: it is ascribed to mammals and birds, increasingly to fish, octopuses and some crustaceans, and the question remains open for insects."
+  },
+  "relatedAxes": [
+    "MORAL_CIRCLE",
+    "CONSCIOUSNESS_NATURE"
+  ],
+  "relatedTerms": [
+    "speciesism"
+  ],
+  "positions": [
+    {
+      "axisId": "MORAL_CIRCLE",
+      "poleId": "PATHOCENTRISM"
+    }
+  ],
+  "updatedAt": "2026-10-11T00:00:00.000Z"
+}

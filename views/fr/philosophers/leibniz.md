@@ -267,6 +267,7 @@ Le mal n'est pas une réalité positive que Dieu aurait produite, mais une priva
 ## Influencé par
 
 - **[Descartes](../philosophers/descartes.md)** (réinterprète) : [Leibniz](../philosophers/leibniz.md) part des problèmes cartésiens de substance et de mécanisme, mais conteste la physique de l'étendue de [Descartes](../philosophers/descartes.md) pour fonder une dynamique des monades, points de force sans parties.
+- **[Néoconfucianisme](../movements/neo-confucianism.md)** (réinterprète) : [Leibniz](../philosophers/leibniz.md) lit le [li](../glossary/li-principle.md) de [Zhu Xi](../philosophers/zhu-xi.md) à travers les traités des missionnaires Longobardo et Sainte-Marie, qui y voyaient un matérialisme, et y reconnaît au contraire une théologie naturelle proche de la sienne, preuve à ses yeux que la raison peut atteindre Dieu sans révélation.
 
 ## Influence sur
 

@@ -1,0 +1,16 @@
+{
+  "id": "william-james-to-nishida",
+  "from": { "kind": "PHILOSOPHER", "slug": "william-james" },
+  "to": { "kind": "PHILOSOPHER", "slug": "nishida" },
+  "directness": "ATTESTED",
+  "mode": "REINTERPRETS",
+  "strength": "STRONG",
+  "note": {
+    "fr": "L'<c id='pure-experience'>expérience pure</c> de <ph id='nishida'>Nishida</ph> part de l'empirisme radical de <ph id='william-james'>William James</ph>, qu'il cite dès ses premières pages, mais il en fait le principe unique d'où procèdent sujet et objet, dans une perspective nourrie par le zen.",
+    "en": "<ph id='nishida'>Nishida</ph>'s <c id='pure-experience'>pure experience</c> starts from <ph id='william-james'>William James</ph>'s radical empiricism, which he cites from his very first pages, but he turns it into the single principle from which subject and object proceed, in a perspective nourished by Zen."
+  },
+  "sources": [
+    { "fr": "Nishida, Essai sur le bien (1911), I", "en": "Nishida, An Inquiry into the Good (1911), I" }
+  ],
+  "updatedAt": "2026-10-09T00:00:00.000Z"
+}

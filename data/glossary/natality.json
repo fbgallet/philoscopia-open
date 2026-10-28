@@ -1,0 +1,34 @@
+{
+  "id": "natality",
+  "term": {
+    "fr": "Natalité",
+    "en": "Natality"
+  },
+  "aliases": {
+    "fr": [
+      "natalité arendtienne"
+    ],
+    "en": []
+  },
+  "definition": {
+    "fr": "Concept de <ph id='arendt'>Hannah Arendt</ph> (« Condition de l'homme moderne », 1958). Chaque naissance fait entrer dans le monde quelqu'un de nouveau, capable de commencer quelque chose que rien ne permettait de prévoir. La natalité n'est donc pas d'abord un fait biologique : c'est la condition de l'action, la capacité humaine d'entreprendre du neuf. Arendt y voit ce qui sauve le monde de l'usure et de la répétition, et lit dans l'annonce des Évangiles, « un enfant nous est né », l'expression de la foi et de l'espoir que l'on peut avoir dans le monde.",
+    "en": "A concept of <ph id='arendt'>Hannah Arendt</ph>'s (The Human Condition, 1958). Each birth brings into the world someone new, able to begin something nothing allowed one to foresee. Natality is therefore not first a biological fact: it is the condition of action, the human capacity to start something new. Arendt sees in it what saves the world from wear and repetition, and reads in the Gospels' announcement, \"a child has been born unto us\", the expression of the faith and hope one can have in the world."
+  },
+  "relatedAxes": [
+    "HOPE",
+    "TIME_ORIENTATION",
+    "FUTURE_GENERATIONS"
+  ],
+  "relatedTerms": [
+    "responsibility-principle",
+    "praxis"
+  ],
+  "figure": {
+    "slug": "arendt",
+    "name": {
+      "fr": "Hannah Arendt",
+      "en": "Hannah Arendt"
+    }
+  },
+  "updatedAt": "2026-10-20T00:00:00.000Z"
+}

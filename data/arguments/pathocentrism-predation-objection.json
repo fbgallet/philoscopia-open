@@ -1,0 +1,127 @@
+{
+  "id": "pathocentrism-predation-objection",
+  "kind": "OBJECTS",
+  "position": {
+    "axisId": "MORAL_CIRCLE",
+    "poleId": "PATHOCENTRISM"
+  },
+  "name": {
+    "fr": "Le renard et le lapin",
+    "en": "The fox and the rabbit"
+  },
+  "attacks": "POSITION",
+  "claim": {
+    "fr": "Si toute souffrance compte, quelle qu'en soit la cause, la nature sauvage est un massacre qu'il faudrait faire cesser : le critère mène trop loin.",
+    "en": "If all suffering counts, whatever its cause, then wild nature is a slaughter we ought to stop: the criterion goes too far."
+  },
+  "summary": {
+    "fr": "Si la souffrance est un mal en elle-même, celle que cause la prédation pèse autant que celle d'un élevage, et nous devrions intervenir dans la nature. Beaucoup refusent cette conclusion : ou bien le pathocentrisme l'assume, ou bien la souffrance ne fonde pas seule nos devoirs.",
+    "en": "If suffering is bad in itself, the suffering caused by predation weighs as much as that of a farm, and we ought to intervene in nature. Many reject this conclusion: either pathocentrism embraces it, or suffering alone does not ground our duties."
+  },
+  "development": [
+    {
+      "fr": "Le pathocentrisme tient que la souffrance est un mal en elle-même, pour quiconque l'éprouve : ce qui compte, c'est la douleur, non celui qui la cause.",
+      "en": "Pathocentrism holds that suffering is bad in itself, for whoever feels it: what counts is the pain, not who causes it."
+    },
+    {
+      "fr": "Or la nature est pleine de souffrances que personne ne cause : le lapin dévoré vivant, la gazelle sous la lionne, les milliards de petits qui meurent de faim ou de parasites. <q>« Presque tout ce pour quoi les hommes sont pendus ou emprisonnés, la nature le fait chaque jour »</q>, notait <ph id='mill'>John Stuart Mill</ph>.",
+      "en": "Yet nature is full of suffering that no one causes: the rabbit eaten alive, the gazelle under the lioness, the billions of young that die of hunger or parasites. <q>\"Nearly all the things which men are hanged or imprisoned for doing to one another are nature's every day performances,\"</q> wrote <ph id='mill'>John Stuart Mill</ph>."
+    },
+    {
+      "fr": "Si une souffrance comparable appelle une considération comparable, il semble que nous devrions intervenir : protéger les proies, nourrir les affamés, peut-être supprimer les prédateurs. Beaucoup jugent cette conclusion absurde ou dangereuse.",
+      "en": "If comparable suffering calls for comparable consideration, it seems we ought to intervene: protect the prey, feed the starving, perhaps do away with predators. Many find this conclusion absurd or dangerous."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc ou bien le pathocentrisme accepte une conclusion extravagante, ou bien la souffrance ne fonde pas, à elle seule, nos devoirs : il faut tenir compte de qui la cause, ou de l'équilibre des milieux.",
+    "en": "So either pathocentrism accepts an extravagant conclusion, or suffering alone does not ground our duties: we must take into account who causes it, or the balance of living systems."
+  },
+  "difficulty": 1,
+  "responses": [
+    {
+      "id": "revise",
+      "label": {
+        "fr": "C'est juste : la prédation fait partie de l'équilibre du vivant. Ce qui compte, c'est la santé des milieux plus que chaque souffrance.",
+        "en": "Fair enough: predation is part of the balance of life. What counts is the health of living systems more than each instance of suffering."
+      },
+      "hints": [
+        {
+          "axisId": "MORAL_CIRCLE",
+          "value": {
+            "kind": "weights",
+            "weights": [
+              0.05,
+              0.35,
+              0.1,
+              0.5
+            ]
+          },
+          "weight": 1
+        }
+      ],
+      "discussion": {
+        "fr": "Vous déplacez le regard de l'individu vers le tout : c'est le pas de l'écocentrisme, pour qui la prédation n'est pas un mal mais une fonction.",
+        "en": "You shift your gaze from the individual to the whole: the step of ecocentrism, for which predation is not an evil but a function."
+      }
+    },
+    {
+      "id": "qualify",
+      "label": {
+        "fr": "Nous devons d'abord ne pas causer de souffrance, non réparer toute la nature : mon critère vaut pour ce que nous faisons, pas pour ce que fait le renard.",
+        "en": "Our first duty is not to cause suffering, not to repair all of nature: my criterion governs what we do, not what the fox does."
+      },
+      "hints": [
+        {
+          "axisId": "MORAL_CIRCLE",
+          "value": {
+            "kind": "weights",
+            "weights": [
+              0.05,
+              0.75,
+              0.1,
+              0.1
+            ]
+          },
+          "weight": 1
+        }
+      ],
+      "discussion": {
+        "fr": "Vous distinguez faire souffrir et laisser souffrir : le renard n'est pas un agent moral, et nos devoirs portent d'abord sur nos propres actes.",
+        "en": "You distinguish causing suffering from allowing it: the fox is not a moral agent, and our duties bear first on our own acts."
+      }
+    },
+    {
+      "id": "refute",
+      "label": {
+        "fr": "La conclusion dérange, mais elle n'est pas absurde : là où l'on peut réduire la souffrance des bêtes sauvages sans tout détruire, en soignant ou en vaccinant, on le devrait.",
+        "en": "The conclusion is unsettling, but not absurd: where we can reduce the suffering of wild animals without wrecking everything, by treating or vaccinating them, we should."
+      },
+      "hints": [
+        {
+          "axisId": "MORAL_CIRCLE",
+          "value": {
+            "kind": "weights",
+            "weights": [
+              0,
+              0.9,
+              0.05,
+              0.05
+            ]
+          },
+          "weight": 0.5
+        }
+      ],
+      "discussion": {
+        "fr": "Vous assumez la conséquence : c'est la position de ceux qui font de la souffrance des animaux sauvages une cause morale à part entière.",
+        "en": "You accept the consequence: the position of those who make wild-animal suffering a moral cause in its own right."
+      }
+    }
+  ],
+  "targets": [
+    "pathocentrism-can-they-suffer"
+  ],
+  "problems": [
+    "wild-animal-suffering"
+  ],
+  "updatedAt": "2026-10-11T00:00:00.000Z"
+}

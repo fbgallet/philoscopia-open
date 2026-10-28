@@ -1,0 +1,13 @@
+{
+  "id": "metastability",
+  "term": { "fr": "Métastabilité", "en": "Metastability" },
+  "aliases": { "fr": ["métastable"], "en": ["metastable"] },
+  "definition": {
+    "fr": "Notion empruntée à la physique : un état est métastable lorsqu'il paraît stable mais recèle une énergie potentielle qu'une légère perturbation peut libérer, comme une solution sursaturée où un germe déclenche la cristallisation. <ph id='simondon'>Simondon</ph> en fait le régime de l'être <c id='preindividual'>préindividuel</c> : ni stable, ni simplement instable, mais chargé de potentiels que l'<c id='individuation'>individuation</c> vient résoudre.",
+    "en": "A notion borrowed from physics: a state is metastable when it appears stable but holds a potential energy that a slight disturbance can release, like a supersaturated solution in which a seed triggers crystallization. <ph id='simondon'>Simondon</ph> makes it the regime of <c id='preindividual'>preindividual</c> being: neither stable nor merely unstable, but charged with potentials that <c id='individuation'>individuation</c> resolves."
+  },
+  "relatedAxes": ["BEING_BECOMING"],
+  "relatedTerms": ["preindividual", "individuation", "transduction"],
+  "figure": { "slug": "simondon", "name": { "fr": "Gilbert Simondon", "en": "Gilbert Simondon" } },
+  "updatedAt": "2026-10-11T00:00:00.000Z"
+}

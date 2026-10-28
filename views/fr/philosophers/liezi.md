@@ -2,7 +2,7 @@
 
 # Liezi
 
-*Chinois · [Taoïsme](../movements/taoism.md)*
+*450 av. J.-C. – 375 av. J.-C. · Chinois · [Taoïsme](../movements/taoism.md)*
 
 Maître [taoïste](../movements/taoism.md) semi-légendaire, auteur supposé du Liezi, recueil de récits sur la spontanéité et l'acceptation du cours des choses.
 

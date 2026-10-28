@@ -23,6 +23,7 @@
   },
   "birth": 1920,
   "death": 2012,
+  "language": "eng",
   "movements": [
     "analytic-philosophy"
   ],

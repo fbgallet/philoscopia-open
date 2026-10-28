@@ -1,0 +1,14 @@
+{
+  "id": "gestell",
+  "term": { "fr": "Arraisonnement (Gestell)", "en": "Enframing (Gestell)" },
+  "aliases": { "fr": ["arraisonnement", "Gestell", "dispositif"], "en": ["enframing", "Gestell"] },
+  "definition": {
+    "fr": "Nom que <ph id='heidegger'>Heidegger</ph> donne à l'essence de la technique moderne. En allemand courant, <kw>Gestell</kw> désigne un bâti ou un châssis ; il en fait le rassemblement de toutes les manières de « poser » (stellen) : sommer, commander, requérir. La technique moderne ne fait plus éclore les choses comme l'artisan ou le paysan d'autrefois, elle les provoque à livrer leur énergie et à se tenir disponibles comme un <kw>fonds</kw> (Bestand) : le fleuve pour la centrale, la forêt pour la cellulose, l'homme lui-même comme ressource. Le danger n'est pas d'abord la machine, mais que ce mode de dévoilement ferme tout autre rapport à l'être. Les traductions françaises varient : « arraisonnement », « dispositif », « Ge-stell ».",
+    "en": "The name <ph id='heidegger'>Heidegger</ph> gives to the essence of modern technology. In ordinary German, <kw>Gestell</kw> means a rack or a frame; he makes it the gathering of all the ways of \"setting\" (stellen): challenging, ordering, requisitioning. Modern technology no longer lets things come forth as the craftsman or farmer of old did; it challenges them to yield their energy and to stand by as <kw>standing-reserve</kw> (Bestand): the river for the power plant, the forest for cellulose, the human being itself as a resource. The danger is not first the machine, but that this mode of revealing closes off every other relation to being. Translations vary: \"enframing\", \"Ge-stell\", \"positionality\"."
+  },
+  "relatedAxes": ["TECHNOLOGY", "HUMAN_PLACE_NATURE"],
+  "relatedTerms": ["aletheia", "gelassenheit"],
+  "figure": { "slug": "heidegger", "name": { "fr": "Martin Heidegger", "en": "Martin Heidegger" } },
+  "positions": [{ "axisId": "TECHNOLOGY", "poleId": "TECHNO_CRITICISM" }],
+  "updatedAt": "2026-10-11T00:00:00.000Z"
+}

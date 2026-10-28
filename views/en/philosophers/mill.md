@@ -18,6 +18,26 @@ A major figure of British liberalism and heir to [Bentham](../philosophers/benth
 
 ## Positions
 
+### [Humanity's place in nature](../axes/human-place-nature.md)
+
+*positioned · inferable · minor*
+
+Mastery 55% · Stewardship 45%
+
+In "Nature", Mill rejects the idea that the natural order supplies a moral standard: useful action consists precisely in correcting its spontaneous course, and nature daily commits what we would punish in human beings. Yet he does not make productive transformation an end without limits: cultivating every piece of land capable of growing food, ploughing up every flowery waste or natural pasture, and exterminating non-domesticated birds and quadrupeds as rivals for food would sacrifice the beauty and solitude that human flourishing needs. His defence of the "stationary state" thus combines the improvement of nature with the preservation of wild places, without positing moral equality among all forms of life.
+
+*Sources : Three Essays on Religion, "Nature" (posthumous, 1874) · Principles of Political Economy, IV, ch. 6, §2*
+
+### [Relation to technology](../axes/technology.md)
+
+*positioned · inferable · minor*
+
+Techno-optimism 55% · Techno-criticism 45%
+
+Mill expects much from the progress of the industrial arts, but doubts that it has yet served those who work: "it is questionable if all the mechanical inventions yet made have lightened the day's toil of any human being". They have enabled a larger population to live the same life of drudgery, allowed more manufacturers to make fortunes, and increased the comforts of the middle classes. Their benefit therefore depends on institutions, distribution and ends: with just institutions and population growth guided by foresight, inventions could at last have their legitimate effect, that of abridging labour.
+
+*Sources : Principles of Political Economy, IV, ch. 6, §2*
+
 ### [The meaning of suffering](../axes/suffering-meaning.md)
 
 *positioned · explicit in the texts · minor*

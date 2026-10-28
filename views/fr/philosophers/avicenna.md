@@ -2,7 +2,7 @@
 
 # Avicenne
 
-*980 – 1037 · Persan · [Aristotélisme](../movements/aristotelianism.md)*
+*980 – 1037 · Persan · [Falsafa](../movements/falsafa.md), [Aristotélisme](../movements/aristotelianism.md)*
 
 Philosophe et médecin persan de l'âge d'or islamique, principal interprète d'Aristote en terre d'islam ; sa distinction entre l'essence et l'existence et sa preuve de l'être nécessaire ont profondément marqué la scolastique latine, dont Thomas d'Aquin.
 

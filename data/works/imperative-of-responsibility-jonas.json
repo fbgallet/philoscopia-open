@@ -1,0 +1,12 @@
+{
+  "id": "imperative-of-responsibility-jonas",
+  "title": { "fr": "Le Principe responsabilité", "en": "The Imperative of Responsibility" },
+  "originalTitle": "Das Prinzip Verantwortung",
+  "author": { "slug": "jonas", "name": { "fr": "Hans Jonas", "en": "Hans Jonas" } },
+  "year": 1979,
+  "presentation": {
+    "fr": "Sous-titré « Une éthique pour la civilisation technologique », l'ouvrage majeur de <ph id='jonas'>Jonas</ph>, écrit en allemand. Parce que la technique a changé la nature de l'agir, il formule un nouvel impératif envers les <ax id='FUTURE_GENERATIONS'>générations futures</ax>, fonde le devoir dans l'être et propose une <c id='heuristics-of-fear'>heuristique de la peur</c>. Il se clôt sur une critique de l'utopie.",
+    "en": "Subtitled \"An Ethics for the Technological Civilization\", <ph id='jonas'>Jonas</ph>'s major work, written in German. Because technology has changed the nature of action, he formulates a new imperative toward <ax id='FUTURE_GENERATIONS'>future generations</ax>, grounds duty in being and proposes a <c id='heuristics-of-fear'>heuristics of fear</c>. It closes with a critique of utopia."
+  },
+  "updatedAt": "2026-10-11T00:00:00.000Z"
+}

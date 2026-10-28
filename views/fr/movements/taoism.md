@@ -2,7 +2,7 @@
 
 # Taoïsme
 
-*400 av. J.-C. – ?*
+*v. 500 av. J.-C. – v. 312, tradition vivante*
 
 Tradition née dans la Chine des Royaumes combattants (Ve-IIIe siècle avant notre ère), une époque de guerres et d'effondrement de l'ordre qui poussait chaque école à proposer un remède au désordre. Le taoïsme dit philosophique se constitue autour de deux textes : le Dao De Jing (Tao Te King), recueil aphoristique attribué à Laozi (Lao-tseu), figure peut-être légendaire, et le Zhuangzi (Tchouang-tseu), suite de récits, paraboles et dialogues d'une grande liberté d'invention. Là où le [confucianisme](../movements/confucianism.md) de [Confucius](../philosophers/confucius.md) répondait à la crise par les rites, l'étude et le devoir social, le taoïsme cherche le salut dans le retrait, le naturel et la critique de l'artifice. Recueilli plus tard avec le Liezi, ce courant nourrira à partir des Han un taoïsme religieux, avec ses divinités, ses techniques de longue vie et ses recherches d'immortalité, distinct de la veine philosophique première. Sa sensibilité a profondément imprégné la poésie, la peinture et la médecine chinoises, le chan (l'ancêtre du zen) en Asie, et nourrit aujourd'hui en Occident un imaginaire de la simplicité et de l'accord avec la nature.
 
@@ -251,6 +251,7 @@ L'univers taoïste est foncièrement bienveillant et fiable pour qui s'accorde �
 ## Influence sur
 
 - **[Bouddhisme](../movements/buddhism.md)** (synthétise) : En pénétrant en Chine, le [bouddhisme](../movements/buddhism.md) se fond avec la sensibilité [taoïste](../movements/taoism.md) : traduit d'abord au moyen du vocabulaire du dao et du wu wei, il donne naissance au Chan, l'ancêtre du Zen, où la méditation indienne épouse le naturel et la spontanéité chers à [Zhuangzi](../philosophers/zhuangzi.md). La filiation est rarement revendiquée, mais l'école Chan en porte l'empreinte.
+- **[Néoconfucianisme](../movements/neo-confucianism.md)** (réinterprète) : Le Diagramme du Faîte suprême de Zhou Dunyi, issu des milieux [taoïstes](../movements/taoism.md), devient la cosmologie du [néoconfucianisme](../movements/neo-confucianism.md) : le « sans-faîte » et le yin-yang y sont mis au service d'une morale confucéenne. L'origine taoïste du diagramme, attestée par la tradition, fut d'ailleurs reprochée à Zhu Xi par ses adversaires.
 
 ---
 

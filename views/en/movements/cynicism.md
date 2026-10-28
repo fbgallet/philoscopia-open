@@ -2,7 +2,7 @@
 
 # Cynicism
 
-*400 BCE – 200 BCE*
+*c. 400 BCE – c. 400*
 
 Born in Athens in the fourth century BCE, Cynicism traces back to Socrates through Antisthenes, but it was Diogenes of Sinope, an exile said to have lived in a barrel, who turned it into provocation raised to philosophy: here the public scandal, the biting anecdote and the gesture count for as much as the argument. The word « cynic » comes from the Greek kynikos (« dog-like »), a nickname the school turned into a badge of pride, and bears nothing of its modern pejorative sense. The doctrine reaches us only indirectly, through the chreiai (anecdotes) compiled by Diogenes Laertius, for the Cynics wrote little and held philosophy to be a matter of living rather than of treatises. Crates of Thebes softened the figure and passed the teaching to Zeno of Citium: through him Cynicism becomes one of the roots of [Stoicism](../movements/stoicism.md), which would inherit its cosmopolitanism and the idea that virtue suffices, while adding the physics and logic the Cynics disdained.
 

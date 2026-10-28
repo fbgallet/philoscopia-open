@@ -16,7 +16,7 @@
 
 **⇒** Donc le cercle de la justice est celui des personnes : la cruauté envers les bêtes est un mal parce qu'elle nous dégrade et trahit notre humanité, non parce qu'une injustice serait faite à la bête.
 
-**Contesté par** : [L'argument des cas marginaux](../arguments/anthropocentrism-marginal-cases-objection.md)
+**Contesté par** : [Le chagrin pour l'animal](../arguments/anthropocentrism-grief-objection.md) · [L'argument des cas marginaux](../arguments/anthropocentrism-marginal-cases-objection.md)
 
 **Porte sur les problèmes** : [Le critère du statut moral](../axes/moral-circle.md) · [Le privilège de l'espèce](../axes/moral-circle.md)
 

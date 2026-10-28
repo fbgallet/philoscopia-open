@@ -17,9 +17,61 @@
     "fr": "Tradition issue de l'Académie, l'école que <ph id='plato'>Platon</ph> fonda près d'Athènes vers 387 avant notre ère et qui se perpétua plusieurs siècles. Héritier de Socrate et adversaire des sophistes, Platon cherche, contre leur <pb>relativisme</pb> et le flux héraclitéen, un fondement stable au savoir et à la justice, qu'il déploie dans des dialogues, la <w id='republic-plato'>République</w>, le <w id='phaedo-plato'>Phédon</w>, le <w id='symposium-plato'>Banquet</w>, où le raisonnement dialectique tient lieu de méthode. Après l'Académie ancienne, la tradition se renouvelle dans le néoplatonisme de <ph>Plotin</ph> au IIIe siècle, puis s'éteint avec la fermeture de l'école d'Athènes en 529. Reprise par <ph>Augustin</ph> et la patristique, elle a façonné durablement la métaphysique, la théologie et la mystique occidentales, et reste, selon le mot de Whitehead, l'horizon dont toute la philosophie postérieure serait une série de notes.",
     "en": "A tradition issuing from the Academy, the school <ph id='plato'>Plato</ph> founded near Athens around 387 BCE and which lasted several centuries. Heir to Socrates and adversary of the sophists, Plato seeks, against their <pb>relativism</pb> and the Heraclitean flux, a stable foundation for knowledge and justice, which he unfolds in dialogues, the <w id='republic-plato'>Republic</w>, the <w id='phaedo-plato'>Phaedo</w>, the <w id='symposium-plato'>Symposium</w>, where dialectical reasoning serves as method. After the early Academy, the tradition was renewed in the Neoplatonism of <ph>Plotinus</ph> in the third century, then died out with the closing of the Athenian school in 529. Taken up by <ph>Augustine</ph> and the Church Fathers, it lastingly shaped Western metaphysics, theology and mysticism, and remains, in Whitehead's phrase, the horizon to which all later philosophy is a series of footnotes."
   },
+  "area": "WEST",
   "period": {
     "from": -387,
-    "to": 529
+    "to": 529,
+    "afterlife": "LIVING",
+    "phases": [
+      {
+        "name": {
+          "fr": "Platonisme de la Renaissance",
+          "en": "Renaissance Platonism"
+        },
+        "from": 1462,
+        "to": 1499,
+        "keyFigures": [
+          {
+            "slug": "ficino",
+            "name": {
+              "fr": "Ficin",
+              "en": "Ficino"
+            }
+          },
+          {
+            "slug": "pico",
+            "name": {
+              "fr": "Pic de la Mirandole",
+              "en": "Pico della Mirandola"
+            }
+          }
+        ]
+      },
+      {
+        "name": {
+          "fr": "Platoniciens de Cambridge",
+          "en": "Cambridge Platonists"
+        },
+        "from": 1633,
+        "to": 1688,
+        "keyFigures": [
+          {
+            "slug": "cudworth",
+            "name": {
+              "fr": "Cudworth",
+              "en": "Cudworth"
+            }
+          },
+          {
+            "slug": "henry-more",
+            "name": {
+              "fr": "Henry More",
+              "en": "Henry More"
+            }
+          }
+        ]
+      }
+    ]
   },
   "keyFigures": [
     {
@@ -36,6 +88,41 @@
     }
   ],
   "entries": [
+    {
+      "axisId": "CAUSALITY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.1,
+          0.9,
+          0
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Les traditions platoniciennes expliquent l'ordre de la nature par sa dépendance envers une réalité intelligible et supérieure, plutôt que par la seule rencontre des corps. Cette orientation prend des formes différentes : organisation démiurgique chez <ph id='plato'>Platon</ph>, production liée à la contemplation chez <ph id='plotinus'>Plotin</ph>, critique du mécanisme athée chez les platoniciens de Cambridge. Leur adversaire commun est moins la physique corpusculaire elle-même que sa prétention à expliquer seule l'ordre et l'activité de la nature.",
+          "en": "The Platonist traditions explain the order of nature by its dependence on a higher, intelligible reality, rather than through collisions between bodies alone. The orientation takes different forms: demiurgic ordering in <ph id='plato'>Plato</ph>, production bound up with contemplation in <ph id='plotinus'>Plotinus</ph>, the critique of atheistic mechanism among the Cambridge Platonists. Their common target is not corpuscular physics as such, but the claim that it can explain the order and activity of nature on its own."
+        },
+        "references": [
+          {
+            "fr": "Platon, Timée",
+            "en": "Plato, Timaeus"
+          },
+          {
+            "fr": "Plotin, Ennéades, III, 2 et III, 8",
+            "en": "Plotinus, Enneads, III, 2 and III, 8"
+          },
+          {
+            "fr": "Cudworth, The True Intellectual System of the Universe (1678), ch. I et III, §37",
+            "en": "Cudworth, The True Intellectual System of the Universe (1678), ch. I and III, §37"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
     {
       "axisId": "SUFFERING_MEANING",
       "status": "POSITIONED",
@@ -577,7 +664,7 @@
       "en": "https://en.wikipedia.org/wiki/Platonism"
     }
   },
-  "updatedAt": "2026-06-24T00:00:00.000Z",
+  "updatedAt": "2026-10-11T00:00:00.000Z",
   "validation": {
     "method": "NOT_VALIDATED"
   }

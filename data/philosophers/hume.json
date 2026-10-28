@@ -32,11 +32,76 @@
     "fr": "Écossais",
     "en": "Scottish"
   },
+  "language": "eng",
   "movements": [
     "empiricism",
     "skepticism"
   ],
   "entries": [
+    {
+      "axisId": "MORAL_SOURCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0,
+          0,
+          0.85,
+          0.15
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "« La morale est plus proprement sentie que jugée » : la raison, qui compare des idées ou établit des faits, ne peut à elle seule produire les distinctions morales. Celles-ci reposent sur des sentiments d'approbation et de désapprobation, que la <kw>sympathie</kw> élargit et que l'adoption d'un point de vue général corrige de leur partialité ; la raison éclaire les faits, les relations et les conséquences pertinents, sans produire à elle seule l'approbation ou la désapprobation. Les règles de justice et de propriété naissent bien d'une <kw>convention</kw> d'intérêt mutuel, sans contrat ni promesse originaires, mais cette origine ne remplace pas le fondement sentimental de leur approbation morale.",
+          "en": "\"Morality is more properly felt than judg'd of\": reason, which compares ideas or establishes facts, cannot by itself produce moral distinctions. These rest on sentiments of approval and disapproval, which <kw>sympathy</kw> extends and which the adoption of a general point of view corrects for partiality; reason clarifies the relevant facts, relations and consequences, without itself producing approval or disapproval. The rules of justice and property do arise from a <kw>convention</kw> of mutual interest, with no original contract or promise, but that origin does not replace the sentimental ground of their moral approval."
+        },
+        "references": [
+          {
+            "fr": "Traité de la nature humaine, III, I, 1-2 ; III, II, 2 ; III, III, 1",
+            "en": "A Treatise of Human Nature, III, I, 1-2; III, II, 2; III, III, 1"
+          },
+          {
+            "fr": "Enquête sur les principes de la morale, appendice I",
+            "en": "An Enquiry Concerning the Principles of Morals, Appendix I"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "MORAL_CIRCLE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.6,
+          0.4,
+          0,
+          0
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Hume reconnaît aux animaux des capacités d'apprentissage et de raisonnement par l'expérience, et leur accorde les égards que prescrivent les « lois de l'humanité ». Il distingue pourtant ces devoirs de douceur des obligations de justice : imaginant des créatures raisonnables mais entièrement incapables de nous résister, il leur accorde les égards de l'humanité sans les placer sous la protection de la justice. C'est leur incapacité à nous contraindre, et non une absence de sensibilité, qui explique cette exclusion. La bienveillance dépasse donc l'espèce humaine sans aller jusqu'à une égale considération de tous les êtres sensibles.",
+          "en": "Hume credits animals with learning and with reasoning from experience, and grants them the gentle treatment that the \"laws of humanity\" prescribe. Yet he separates these duties of humane treatment from the obligations of justice: imagining rational creatures entirely incapable of resisting us, he grants them humane treatment without placing them under the protection of justice. Their inability to constrain us, rather than any lack of sentience, explains that exclusion. Benevolence thus reaches beyond the human species without extending to equal consideration for all sentient beings."
+        },
+        "references": [
+          {
+            "fr": "Traité de la nature humaine, I, III, 16",
+            "en": "A Treatise of Human Nature, I, III, 16"
+          },
+          {
+            "fr": "Enquête sur les principes de la morale, III, 1",
+            "en": "An Enquiry Concerning the Principles of Morals, III, 1"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
     {
       "axisId": "SUFFERING_MEANING",
       "status": "POSITIONED",
@@ -852,7 +917,7 @@
       "en": "https://en.wikipedia.org/wiki/David_Hume"
     }
   },
-  "updatedAt": "2026-07-19T00:00:00.000Z",
+  "updatedAt": "2026-10-11T00:00:00.000Z",
   "validation": {
     "method": "NOT_VALIDATED"
   }

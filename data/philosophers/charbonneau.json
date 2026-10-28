@@ -1,0 +1,17 @@
+{
+  "kind": "PHILOSOPHER",
+  "stub": true,
+  "id": "charbonneau",
+  "name": { "fr": "Charbonneau", "en": "Charbonneau" },
+  "summary": {
+    "fr": "Penseur français, ami et compagnon de route de Jacques Ellul : pionnier de l'écologie politique, il oppose dès les années 1930 le sentiment de la nature et la liberté de la personne à l'emprise de la technique et de l'État.",
+    "en": "French thinker, friend and fellow traveller of Jacques Ellul: a pioneer of political ecology, from the 1930s he set the feeling for nature and personal freedom against the grip of technology and the state."
+  },
+  "nationality": { "fr": "Français", "en": "French" },
+  "birth": 1910,
+  "death": 1996,
+  "language": "fra",
+  "movements": [],
+  "updatedAt": "2026-10-11T00:00:00.000Z",
+  "validation": { "method": "NOT_VALIDATED" }
+}

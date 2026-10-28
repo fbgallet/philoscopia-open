@@ -2,7 +2,7 @@
 
 # Stoicism
 
-*300 BCE – 180*
+*300 BCE – 180, living tradition*
 
 A school founded in Athens by Zeno of Citium around 300 BCE, which taught under the "Painted Porch" (stoa poikilē) from which it takes its name. A complete system of logic, physics and ethics, Stoicism was carried by Chrysippus and then, in Rome, by Seneca, Epictetus and the emperor Marcus Aurelius. Its ethics of wisdom and self-mastery deeply marked Christianity, [Spinoza](../philosophers/spinoza.md), [Kant](../philosophers/kant.md) and even contemporary self-help movements.
 

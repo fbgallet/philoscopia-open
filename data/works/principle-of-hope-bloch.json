@@ -1,0 +1,12 @@
+{
+  "id": "principle-of-hope-bloch",
+  "title": { "fr": "Le Principe espérance", "en": "The Principle of Hope" },
+  "originalTitle": "Das Prinzip Hoffnung",
+  "author": { "slug": "bloch", "name": { "fr": "Ernst Bloch", "en": "Ernst Bloch" } },
+  "year": 1954,
+  "presentation": {
+    "fr": "Somme en trois volumes (1954-1959), rédigée en grande partie en exil aux États-Unis, où <ph id='bloch'>Bloch</ph> fait de l'espérance et de l'utopie concrète le moteur de l'histoire humaine, du rêve éveillé aux projets politiques. <ph id='jonas'>Jonas</ph> lui répond dans le <w id='imperative-of-responsibility-jonas'>Principe responsabilité</w>.",
+    "en": "A three-volume summa (1954-1959), largely written in exile in the United States, in which <ph id='bloch'>Bloch</ph> makes hope and concrete utopia the driving force of human history, from daydreams to political projects. <ph id='jonas'>Jonas</ph> answers it in <w id='imperative-of-responsibility-jonas'>The Imperative of Responsibility</w>."
+  },
+  "updatedAt": "2026-10-11T00:00:00.000Z"
+}

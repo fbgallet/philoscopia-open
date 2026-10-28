@@ -16,7 +16,7 @@
 
 **⇒** Donc le cercle moral s'étend à tout le vivant : non que toutes les vies se vaillent en toute circonstance, mais qu'aucune n'est un simple matériau, et que détruire une vie demande toujours une raison.
 
-**Contesté par** : [Un bien, mais pour qui ?](../arguments/biocentrism-no-interests-objection.md)
+**Contesté par** : [L'antibiotique](../arguments/biocentrism-antibiotic-objection.md) · [Un bien, mais pour qui ?](../arguments/biocentrism-no-interests-objection.md)
 
 **Porte sur les problèmes** : [La révérence pour la vie](../axes/moral-circle.md) · [Le critère du statut moral](../axes/moral-circle.md)
 

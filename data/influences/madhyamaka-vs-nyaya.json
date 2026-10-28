@@ -1,0 +1,19 @@
+{
+  "id": "madhyamaka-vs-nyaya",
+  "from": { "kind": "MOVEMENT", "slug": "madhyamaka" },
+  "to": { "kind": "MOVEMENT", "slug": "nyaya" },
+  "directness": "ATTESTED",
+  "mode": "REACTS_AGAINST",
+  "strength": "STRONG",
+  "note": {
+    "fr": "Le <mv id='nyaya'>Nyāya</mv> défend les moyens de connaissance contre l'objection de la <mv id='madhyamaka'>Madhyamaka</mv> : ils s'établissent eux-mêmes, comme la lampe s'éclaire en éclairant les objets, et nier toute connaissance valide ruine la négation même.",
+    "en": "<mv id='nyaya'>Nyāya</mv> defends the means of knowledge against the <mv id='madhyamaka'>Madhyamaka</mv> objection: they establish themselves, as a lamp lights itself in lighting up objects, and denying all valid knowledge undermines the denial itself."
+  },
+  "sources": [
+    {
+      "fr": "Nyāya-sūtra, II, 1, 8-20, et commentaire de Vātsyāyana",
+      "en": "Nyāya-sūtra, II.1.8-20, and Vātsyāyana's commentary"
+    }
+  ],
+  "updatedAt": "2026-10-09T00:00:00.000Z"
+}

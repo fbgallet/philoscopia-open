@@ -1,0 +1,36 @@
+{
+  "id": "basho",
+  "term": {
+    "fr": "Lieu (basho)",
+    "en": "Place (basho)"
+  },
+  "aliases": {
+    "fr": [
+      "basho",
+      "logique du lieu"
+    ],
+    "en": [
+      "basho",
+      "logic of place"
+    ]
+  },
+  "definition": {
+    "fr": "Chez <ph id='nishida'>Nishida</ph>, le « lieu » (basho) désigne ce en quoi quelque chose est et peut être pensé : un champ englobant plutôt qu'un sujet ou un objet. Nishida en distingue des niveaux, du lieu de l'être au lieu du néant relatif, jusqu'au lieu du <c id='absolute-nothingness'>néant absolu</c>, qui n'est plus contenu en rien. S'appuyant notamment sur la chôra du <w>Timée</w> de <ph id='plato'>Platon</ph>, cette « logique du lieu » veut penser ce que la logique du sujet héritée d'<ph id='aristotle'>Aristote</ph> laisse échapper.",
+    "en": "For <ph id='nishida'>Nishida</ph>, \"place\" (basho) is that in which something is and can be thought: an encompassing field rather than a subject or an object. Nishida distinguishes levels of it, from the place of being to the place of relative nothingness, up to the place of <c id='absolute-nothingness'>absolute nothingness</c>, which is no longer contained in anything. Drawing notably on the chōra of <ph id='plato'>Plato</ph>'s <w>Timaeus</w>, this \"logic of place\" seeks to think what the logic of the subject inherited from <ph id='aristotle'>Aristotle</ph> lets slip."
+  },
+  "relatedAxes": [
+    "REALITY_NATURE"
+  ],
+  "relatedTerms": [
+    "absolute-nothingness",
+    "pure-experience"
+  ],
+  "figure": {
+    "slug": "nishida",
+    "name": {
+      "fr": "Nishida Kitarō",
+      "en": "Nishida Kitarō"
+    }
+  },
+  "updatedAt": "2026-10-10T00:00:00.000Z"
+}

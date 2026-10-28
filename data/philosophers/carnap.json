@@ -16,6 +16,8 @@
     "fr": "Allemand",
     "en": "German"
   },
+  "language": "deu",
+  "otherLanguages": ["eng"],
   "movements": ["analytic-philosophy"],
   "updatedAt": "2026-07-13T00:00:00.000Z",
   "validation": {

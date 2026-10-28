@@ -1,0 +1,34 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "mozi",
+  "stub": true,
+  "name": { "fr": "Mozi", "en": "Mozi" },
+  "fullName": { "fr": "Mo Di", "en": "Mo Di" },
+  "aliases": {
+    "fr": [
+      "Mo Tseu",
+      "Mo Di"
+    ],
+    "en": [
+      "Mo Tzu",
+      "Mo Di",
+      "Micius"
+    ]
+  },
+  "summary": {
+    "fr": "Fondateur du <mv id='mohism'>mohisme</mv>, l'un des premiers grands critiques du <mv id='confucianism'>confucianisme</mv>, penseur du souci universel et du bénéfice commun.",
+    "en": "Founder of <mv id='mohism'>Mohism</mv>, one of the first great critics of <mv id='confucianism'>Confucianism</mv>, thinker of impartial concern and common benefit."
+  },
+  "birth": -470,
+  "death": -391,
+  "nationality": { "fr": "Chinois", "en": "Chinese" },
+  "datesApprox": true,
+  "language": "lzh",
+  "movements": [
+    "mohism"
+  ],
+  "updatedAt": "2026-10-09T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

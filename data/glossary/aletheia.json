@@ -1,0 +1,12 @@
+{
+  "id": "aletheia",
+  "term": { "fr": "Alètheia", "en": "Aletheia" },
+  "aliases": { "fr": ["aléthéia", "aletheia", "dévoilement", "non-voilement"], "en": ["unconcealment"] },
+  "definition": {
+    "fr": "Mot grec ordinaire pour « vérité ». <ety>Formé du préfixe privatif a- et de lēthē, l'oubli ou le retrait</ety>, il a été relu par <ph id='heidegger'>Heidegger</ph> comme « non-voilement » : avant d'être l'accord d'un énoncé avec une chose, la vérité serait le dévoilement par lequel l'étant sort du retrait et se montre. Cette lecture fait de la <ax id='TRUTH_NATURE' pole='CORRESPONDENCE'>vérité-correspondance</ax> une forme dérivée. Elle est discutée par les hellénistes, et Heidegger a lui-même admis plus tard que l'alètheia ainsi comprise n'est pas encore la vérité au sens propre.",
+    "en": "The ordinary Greek word for \"truth\". <ety>Formed from the privative prefix a- and lēthē, oblivion or concealment</ety>, it was reread by <ph id='heidegger'>Heidegger</ph> as \"unconcealment\": before being the agreement of a statement with a thing, truth would be the disclosure through which a being emerges from concealment and shows itself. This reading makes <ax id='TRUTH_NATURE' pole='CORRESPONDENCE'>truth as correspondence</ax> a derivative form. Classicists dispute it, and Heidegger himself later admitted that aletheia so understood is not yet truth in the proper sense."
+  },
+  "relatedAxes": ["TRUTH_NATURE", "ART_PURPOSE"],
+  "relatedTerms": ["gestell"],
+  "updatedAt": "2026-10-11T00:00:00.000Z"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "anarchy-and-christianity-ellul",
+  "title": { "fr": "Anarchie et christianisme", "en": "Anarchy and Christianity" },
+  "author": { "slug": "ellul", "name": { "fr": "Jacques Ellul", "en": "Jacques Ellul" } },
+  "year": 1988,
+  "presentation": {
+    "fr": "Court essai où <ph id='ellul'>Ellul</ph> soutient que la Bible porte une critique constante du pouvoir politique, et que l'anarchisme non violent est l'attitude politique la plus proche de la foi chrétienne.",
+    "en": "A short essay in which <ph id='ellul'>Ellul</ph> argues that the Bible carries a constant critique of political power, and that non-violent anarchism is the political stance closest to the Christian faith."
+  },
+  "updatedAt": "2026-10-11T00:00:00.000Z"
+}

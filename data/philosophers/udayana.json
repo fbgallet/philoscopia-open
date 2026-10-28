@@ -1,0 +1,30 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "udayana",
+  "stub": true,
+  "name": { "fr": "Udayana", "en": "Udayana" },
+  "aliases": {
+    "fr": [
+      "Udayanācārya"
+    ],
+    "en": [
+      "Udayanācārya"
+    ]
+  },
+  "summary": {
+    "fr": "Le plus grand logicien du <mv id='nyaya'>Nyāya</mv> classique, défenseur de l'existence de Dieu et du soi contre les bouddhistes.",
+    "en": "The greatest logician of classical <mv id='nyaya'>Nyāya</mv>, defender of God's existence and of the self against the Buddhists."
+  },
+  "birth": 975,
+  "death": 1050,
+  "nationality": { "fr": "Indien", "en": "Indian" },
+  "datesApprox": true,
+  "language": "san",
+  "movements": [
+    "nyaya"
+  ],
+  "updatedAt": "2026-10-09T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

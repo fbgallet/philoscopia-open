@@ -20,7 +20,7 @@ Knowledge rests on basic beliefs, immediately certain, that need no others to ju
 
 No belief is justified on its own: it is justified by its place in a coherent whole, where each supports the others. An idea holds if it fits without contradiction into the entire web of our experience, with no ultimate foundation.
 
-*Quine · Davidson*
+*[Quine](../philosophers/quine.md) · Davidson*
 
 ### Reliabilism
 
@@ -38,6 +38,18 @@ A belief is justified if it is produced by a reliable process, perception, memor
 - **True by luck** : The classic definition holds knowledge to be a belief that is both true and justified. Yet one can believe something for good reasons, and have it be true, without thereby knowing it: the stopped clock we glance at just at the hour it still shows, the rock we take from afar for a sheep while a real one grazes behind it. The belief is true and justified, but it hits the mark by accident. Must we then redefine what knowledge is, or tighten what we are entitled to demand of a justification, until it links belief to truth otherwise than by luck?
 - **Have we the right to believe?** : Beyond what makes a belief justified, is it permissible to believe without sufficient evidence, or is it a fault, toward oneself as toward others? The question of warrant extends into that of the duty of belief.
 - **The post-truth age** : The whole question of justification presupposes that there is a truth to reach. But when "alternative facts" and indifference to truth take hold, is it truth itself that wavers, or only our honesty in seeking it?
+
+## Arguments
+
+- *Foundationalism* · for : [The regress of reasons](../arguments/foundationalism-regress.md)
+- *Foundationalism* · against : [The myth of the given](../arguments/foundationalism-myth-of-given-objection.md)
+- *Foundationalism* · against : [Doing your own research](../arguments/foundationalism-own-research-objection.md)
+- *Coherentism* · for : [Neurath's boat](../arguments/coherentism-neurath-boat.md)
+- *Coherentism* · against : [Nothing happens by chance](../arguments/coherentism-everything-fits-objection.md)
+- *Coherentism* · against : [Coherent, but cut off from reality](../arguments/coherentism-isolation-objection.md)
+- *Reliabilism* · for : [The thermometer](../arguments/reliabilism-thermometer.md)
+- *Reliabilism* · against : [The unwitting clairvoyant](../arguments/reliabilism-clairvoyant-objection.md)
+- *Reliabilism* · against : [When reliable sources fail](../arguments/reliabilism-failing-sources-objection.md)
 
 ## Grounding relations
 

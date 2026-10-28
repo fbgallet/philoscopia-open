@@ -1,0 +1,12 @@
+{
+  "id": "transduction",
+  "term": { "fr": "Transduction", "en": "Transduction" },
+  "definition": {
+    "fr": "Chez <ph id='simondon'>Simondon</ph>, l'opération par laquelle une structure se propage de proche en proche dans un domaine, chaque région déjà structurée servant de principe de structuration à la suivante, comme un cristal qui croît dans sa solution. Ce n'est pas un synonyme de transmission : c'est à la fois le mode de l'<c id='individuation'>individuation</c> et la méthode de pensée qui la suit, sans partir d'individus déjà constitués.",
+    "en": "In <ph id='simondon'>Simondon</ph>, the operation by which a structure spreads step by step through a domain, each region already structured serving as the structuring principle for the next, like a crystal growing in its solution. It is not a synonym for transmission: it is both the mode of <c id='individuation'>individuation</c> and the method of thought that follows it, without starting from already constituted individuals."
+  },
+  "relatedAxes": ["REDUCTION_EMERGENCE"],
+  "relatedTerms": ["individuation", "metastability"],
+  "figure": { "slug": "simondon", "name": { "fr": "Gilbert Simondon", "en": "Gilbert Simondon" } },
+  "updatedAt": "2026-10-11T00:00:00.000Z"
+}

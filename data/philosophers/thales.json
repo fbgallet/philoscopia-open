@@ -15,6 +15,9 @@
   "nationality": { "fr": "Grec", "en": "Greek" },
   "birth": -625,
   "death": -545,
+  "datesApprox": true,
+  "language": "grc",
+  "oral": true,
   "movements": [],
   "updatedAt": "2026-07-18T00:00:00.000Z",
   "validation": { "method": "NOT_VALIDATED" }

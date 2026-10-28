@@ -1,0 +1,31 @@
+{
+  "id": "conspiracism",
+  "term": {
+    "fr": "Complotisme",
+    "en": "Conspiracism"
+  },
+  "aliases": {
+    "fr": [
+      "théorie du complot",
+      "complotiste"
+    ],
+    "en": [
+      "conspiracy theory",
+      "conspiracist"
+    ]
+  },
+  "definition": {
+    "fr": "Le complotisme est la tendance à expliquer les événements par l'action délibérée et secrète d'un petit groupe qui manipule le cours des choses à son seul profit. Il se distingue de la méfiance envers les autorités, qui répond à des erreurs ou à des conflits d'intérêts avérés et accepte d'être démentie, et des complots réels, que l'enquête a établis au grand jour. Sa marque est d'être <c id='unfalsifiability'>infalsifiable</c> : chaque démenti y devient une preuve de la dissimulation.",
+    "en": "Conspiracism is the tendency to explain events by the deliberate, secret action of a small group manipulating the course of things for its own sole benefit. It differs from distrust of authorities, which responds to real errors or conflicts of interest and accepts being refuted, and from real conspiracies, which investigation has brought into the open. Its mark is being <c id='unfalsifiability'>unfalsifiable</c>: every denial becomes proof of the cover-up."
+  },
+  "relatedAxes": [
+    "EPISTEMIC_JUSTIFICATION",
+    "CERTAINTY"
+  ],
+  "relatedTerms": [
+    "unfalsifiability",
+    "confirmation-bias",
+    "intentionality-bias"
+  ],
+  "updatedAt": "2026-10-28T00:00:00.000Z"
+}

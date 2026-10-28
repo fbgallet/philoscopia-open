@@ -10,6 +10,7 @@
   "nationality": { "fr": "Français", "en": "French" },
   "birth": 1903,
   "death": 1985,
+  "language": "fra",
   "movements": [],
   "updatedAt": "2026-06-26T00:00:00.000Z",
   "validation": { "method": "NOT_VALIDATED" }

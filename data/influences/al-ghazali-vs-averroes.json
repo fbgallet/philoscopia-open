@@ -1,0 +1,16 @@
+{
+  "id": "al-ghazali-vs-averroes",
+  "from": { "kind": "PHILOSOPHER", "slug": "al-ghazali" },
+  "to": { "kind": "PHILOSOPHER", "slug": "averroes" },
+  "directness": "ATTESTED",
+  "mode": "REACTS_AGAINST",
+  "strength": "STRONG",
+  "note": {
+    "fr": "<ph id='averroes'>Averroès</ph> répond point par point à <ph id='al-ghazali'>al-Ghazālī</ph> : nier la causalité naturelle, c'est nier la science elle-même, car connaître une chose, c'est connaître ses causes.",
+    "en": "<ph id='averroes'>Averroes</ph> answers <ph id='al-ghazali'>al-Ghazālī</ph> point by point: to deny natural causality is to deny science itself, since to know a thing is to know its causes."
+  },
+  "sources": [
+    { "fr": "Averroès, L'Incohérence de l'Incohérence", "en": "Averroes, The Incoherence of the Incoherence" }
+  ],
+  "updatedAt": "2026-10-09T00:00:00.000Z"
+}

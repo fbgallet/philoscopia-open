@@ -33,6 +33,8 @@
     "fr": "Français",
     "en": "French"
   },
+  "language": "fra",
+  "otherLanguages": ["lat"],
   "movements": [
     "rationalism"
   ],

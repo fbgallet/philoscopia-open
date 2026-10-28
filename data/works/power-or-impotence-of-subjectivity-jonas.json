@@ -1,0 +1,12 @@
+{
+  "id": "power-or-impotence-of-subjectivity-jonas",
+  "title": { "fr": "Puissance ou impuissance de la subjectivité ?", "en": "Power or Impotence of Subjectivity?" },
+  "originalTitle": "Macht oder Ohnmacht der Subjektivität?",
+  "author": { "slug": "jonas", "name": { "fr": "Hans Jonas", "en": "Hans Jonas" } },
+  "year": 1981,
+  "presentation": {
+    "fr": "Essai où <ph id='jonas'>Jonas</ph> attaque l'<c id='epiphenomenalism'>épiphénoménisme</c> : il soutient que l'esprit agit réellement sur le corps sans violer les lois de la physique, condition sans laquelle aucune responsabilité ne serait possible. Il prolonge le <w id='imperative-of-responsibility-jonas'>Principe responsabilité</w> sur le terrain de la philosophie de l'esprit.",
+    "en": "An essay in which <ph id='jonas'>Jonas</ph> attacks <c id='epiphenomenalism'>epiphenomenalism</c>: he argues that the mind really acts on the body without violating the laws of physics, a condition without which no responsibility would be possible. It extends <w id='imperative-of-responsibility-jonas'>The Imperative of Responsibility</w> into the philosophy of mind."
+  },
+  "updatedAt": "2026-10-11T00:00:00.000Z"
+}

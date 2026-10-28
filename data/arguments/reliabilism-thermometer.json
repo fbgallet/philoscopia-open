@@ -1,0 +1,69 @@
+{
+  "id": "reliabilism-thermometer",
+  "kind": "SUPPORTS",
+  "position": {
+    "axisId": "EPISTEMIC_JUSTIFICATION",
+    "poleId": "RELIABILISM"
+  },
+  "name": {
+    "fr": "Le thermomètre",
+    "en": "The thermometer"
+  },
+  "claim": {
+    "fr": "Un enfant qui reconnaît son père, un médecin qui pose un diagnostic sans pouvoir l'expliquer : leur croyance est justifiée parce qu'elle vient d'un processus qui se trompe rarement.",
+    "en": "A child who recognizes her father, a doctor who makes a diagnosis without being able to explain it: their belief is justified because it comes from a process that rarely errs."
+  },
+  "summary": {
+    "fr": "Exiger de pouvoir donner ses raisons ferait de presque tout notre savoir une illusion. Ce qui distingue une croyance bien fondée, c'est la fiabilité du processus qui l'a produite.",
+    "en": "Demanding that we be able to give our reasons would make almost all our knowledge an illusion. What sets a well-founded belief apart is the reliability of the process that produced it."
+  },
+  "development": [
+    {
+      "fr": "Si être justifié exigeait de pouvoir donner ses raisons, l'enfant, l'animal et nous-mêmes, la plupart du temps, ne saurions rien : qui peut prouver qu'il se souvient bien de son propre prénom ?",
+      "en": "If being justified required being able to give one's reasons, the child, the animal and we ourselves, most of the time, would know nothing: who can prove they correctly remember their own first name?"
+    },
+    {
+      "fr": "Ce qui distingue une croyance bien fondée d'une croyance chanceuse, c'est la manière dont elle a été produite : une perception en bonne lumière, une mémoire saine, un raisonnement valide, une source qui a fait ses preuves.",
+      "en": "What distinguishes a well-founded belief from a lucky one is how it was produced: perception in good light, a sound memory, valid reasoning, a source with a track record."
+    },
+    {
+      "fr": "Comme un thermomètre indique la bonne température sans rien savoir de la physique (l'image est de <ph id='armstrong'>David Armstrong</ph>), un esprit bien réglé forme des croyances vraies sans pouvoir toujours dire pourquoi.",
+      "en": "Just as a thermometer shows the right temperature without knowing any physics (the image is <ph id='armstrong'>David Armstrong</ph>'s), a well-tuned mind forms true beliefs without always being able to say why."
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc une croyance est justifiée quand elle vient d'un <kw>processus fiable</kw>, qu'on puisse ou non en faire la preuve. C'est aussi ce qui fonde notre confiance dans les instruments, les experts, les témoignages éprouvés.",
+    "en": "So a belief is justified when it comes from a <kw>reliable process</kw>, whether or not one can prove it. This is also what grounds our trust in instruments, experts and tested testimony."
+  },
+  "difficulty": 2,
+  "source": {
+    "author": {
+      "fr": "Goldman, Armstrong",
+      "en": "Goldman, Armstrong"
+    },
+    "figures": [
+      {
+        "name": {
+          "fr": "Goldman",
+          "en": "Goldman"
+        },
+        "kind": "PHILOSOPHER",
+        "slug": "goldman"
+      },
+      {
+        "name": {
+          "fr": "Armstrong",
+          "en": "Armstrong"
+        },
+        "kind": "PHILOSOPHER",
+        "slug": "armstrong"
+      }
+    ],
+    "year": 1979
+  },
+  "test": "reliabilism-clairvoyant-objection",
+  "problems": [
+    "justified-without-knowing-why"
+  ],
+  "updatedAt": "2026-10-28T00:00:00.000Z"
+}

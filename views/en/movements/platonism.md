@@ -2,7 +2,7 @@
 
 # Platonism
 
-*387 BCE – 529*
+*387 BCE – 529, living tradition*
 
 A tradition issuing from the Academy, the school [Plato](../philosophers/plato.md) founded near Athens around 387 BCE and which lasted several centuries. Heir to Socrates and adversary of the sophists, Plato seeks, against their relativism and the Heraclitean flux, a stable foundation for knowledge and justice, which he unfolds in dialogues, the *[Republic](../works/republic-plato.md)*, the *[Phaedo](../works/phaedo-plato.md)*, the *[Symposium](../works/symposium-plato.md)*, where dialectical reasoning serves as method. After the early Academy, the tradition was renewed in the Neoplatonism of Plotinus in the third century, then died out with the closing of the Athenian school in 529. Taken up by Augustine and the Church Fathers, it lastingly shaped Western metaphysics, theology and mysticism, and remains, in Whitehead's phrase, the horizon to which all later philosophy is a series of footnotes.
 
@@ -19,6 +19,16 @@ A tradition issuing from the Academy, the school [Plato](../philosophers/plato.m
 5. [Being or having a body](../axes/embodiment.md) : **The immortal soul, akin to the Forms, is the true self; the body is but a tomb from which one must loosen oneself to contemplate truth.**
 
 ## Positions
+
+### [Explaining nature](../axes/causality.md)
+
+*positioned · inferable · major*
+
+Finalism 90% · Mechanism 10%
+
+The Platonist traditions explain the order of nature by its dependence on a higher, intelligible reality, rather than through collisions between bodies alone. The orientation takes different forms: demiurgic ordering in [Plato](../philosophers/plato.md), production bound up with contemplation in [Plotinus](../philosophers/plotinus.md), the critique of atheistic mechanism among the Cambridge Platonists. Their common target is not corpuscular physics as such, but the claim that it can explain the order and activity of nature on its own.
+
+*Sources : Plato, Timaeus · Plotinus, Enneads, III, 2 and III, 8 · Cudworth, The True Intellectual System of the Universe (1678), ch. I and III, §37*
 
 ### [The meaning of suffering](../axes/suffering-meaning.md)
 
@@ -279,6 +289,7 @@ What thinks cannot be of the same nature as what is thought from without: the so
 ## Influence on
 
 - **[Boethius](../philosophers/boethius.md)** (reinterprets) : [Boethius](../philosophers/boethius.md)'s Consolation of Philosophy breathes late [Platonism](../movements/platonism.md): the soul's ascent toward the Good, an ordering providence, evil deprived of being, in a prose that Christianises the heritage without citing it.
+- **[Falsafa](../movements/falsafa.md)** (synthesizes) : [Falsafa](../movements/falsafa.md) read Aristotle through [Plotinus](../philosophers/plotinus.md) and Proclus, whose Arabic paraphrases circulated under Aristotle's name: the Theology of Aristotle and the Book of Causes. The Neoplatonic doctrine of [emanation](../glossary/emanation.md) fused there with Aristotelian metaphysics to yield the cosmology of intellects of al-Fārābī and Avicenna.
 - **[Skepticism](../movements/skepticism.md)** (reinterprets) : Academic [skepticism](../movements/skepticism.md) is born within [Plato](../philosophers/plato.md)'s own Academy: [Arcesilaus](../philosophers/arcesilaus.md), and then Carneades, turn the school's dialectic against [dogmatism](../glossary/dogmatism.md), making the suspension of judgment the true fidelity to the Socratic method of examination. The Platonic search for knowledge thus reverses into an art of asserting nothing.
 - **[Nietzsche](../philosophers/nietzsche.md)** (reacts against) : [Nietzsche](../philosophers/nietzsche.md) defines his task as an “inversion of Platonism”: against [Platonism](../movements/platonism.md) and its “true world” that devalues the sensible, he means to restore innocence to the earth and the body.
 

@@ -1,0 +1,68 @@
+{
+  "id": "foundationalism-regress",
+  "kind": "SUPPORTS",
+  "position": {
+    "axisId": "EPISTEMIC_JUSTIFICATION",
+    "poleId": "FOUNDATIONALISM"
+  },
+  "name": {
+    "fr": "La régression des raisons",
+    "en": "The regress of reasons"
+  },
+  "claim": {
+    "fr": "Si toute croyance devait s'appuyer sur une autre, rien ne serait jamais justifié : il faut des croyances de base, justifiées sans s'appuyer sur d'autres croyances.",
+    "en": "If every belief had to rest on another, nothing would ever be justified: there must be basic beliefs, justified without resting on other beliefs."
+  },
+  "summary": {
+    "fr": "Toute raison réclame une raison : la chaîne est infinie, circulaire, ou s'arrête quelque part. Seul l'arrêt sur des évidences premières fonde vraiment le savoir.",
+    "en": "Every reason calls for a reason: the chain is infinite, circular, or stops somewhere. Only stopping at first evidences truly grounds knowledge."
+  },
+  "development": [
+    {
+      "fr": "Je crois A parce que B, B parce que C : toute raison réclame à son tour une raison.",
+      "en": "I believe A because of B, B because of C: every reason in turn calls for a reason."
+    },
+    {
+      "fr": "Il n'y a que trois issues, le <kw>trilemme d'Agrippa</kw> : la chaîne est infinie, elle tourne en rond, ou elle s'arrête quelque part. Une chaîne infinie ne fonde rien, et un cercle se suppose lui-même.",
+      "en": "There are only three ways out, <kw>Agrippa's trilemma</kw>: the chain is infinite, it goes round in a circle, or it stops somewhere. An infinite chain grounds nothing, and a circle presupposes itself."
+    },
+    {
+      "fr": "Elle doit donc s'arrêter sur des croyances justifiées sans inférence, par l'expérience ou par l'évidence : ce que je perçois là, maintenant, ou ce qui est évident par soi, comme le « je pense, donc je suis » de <ph id='descartes'>Descartes</ph>.",
+      "en": "So it must stop at beliefs justified without inference, by experience or by self-evidence: what I perceive here and now, or what is self-evident, like <ph id='descartes'>Descartes</ph>'s \"I think, therefore I am.\""
+    }
+  ],
+  "conclusion": {
+    "fr": "Donc le savoir a des fondations : des évidences premières sur lesquelles tout le reste s'édifie, et sans lesquelles rien ne tiendrait.",
+    "en": "So knowledge has foundations: first evidences on which everything else is built, and without which nothing would stand."
+  },
+  "difficulty": 2,
+  "source": {
+    "author": {
+      "fr": "Descartes",
+      "en": "Descartes"
+    },
+    "figures": [
+      {
+        "name": {
+          "fr": "Descartes",
+          "en": "Descartes"
+        },
+        "kind": "PHILOSOPHER",
+        "slug": "descartes"
+      },
+      {
+        "name": {
+          "fr": "Sextus Empiricus",
+          "en": "Sextus Empiricus"
+        },
+        "kind": "PHILOSOPHER",
+        "slug": "sextus-empiricus"
+      }
+    ]
+  },
+  "test": "foundationalism-myth-of-given-objection",
+  "problems": [
+    "regress-of-reasons"
+  ],
+  "updatedAt": "2026-10-28T00:00:00.000Z"
+}

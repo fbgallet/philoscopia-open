@@ -1,0 +1,29 @@
+{
+  "id": "disenchantment",
+  "term": {
+    "fr": "Désenchantement du monde",
+    "en": "Disenchantment of the world"
+  },
+  "aliases": {
+    "fr": [
+      "désenchantement",
+      "réenchantement"
+    ],
+    "en": [
+      "disenchantment",
+      "re-enchantment"
+    ]
+  },
+  "definition": {
+    "fr": "Le désenchantement du monde désigne, chez <ph id='weber'>Max Weber</ph> (conférence « La science, profession et vocation », 1917), le recul des forces mystérieuses et incalculables devant l'idée qu'on peut, en principe, tout maîtriser par le calcul. La science y a gagné un monde intelligible ; beaucoup y ont perdu un monde habité de sens. Le succès de l'astrologie ou des « énergies » se comprend en partie comme un désir de réenchantement.",
+    "en": "The disenchantment of the world refers, in <ph id='weber'>Max Weber</ph> (lecture \"Science as a Vocation\", 1917), to the retreat of mysterious, incalculable forces before the idea that everything can, in principle, be mastered by calculation. Science gained an intelligible world from it; many lost a world inhabited by meaning. The success of astrology or \"energies\" can be understood partly as a desire for re-enchantment."
+  },
+  "relatedAxes": [
+    "SCIENCE_PLACE",
+    "TRANSCENDENCE"
+  ],
+  "relatedTerms": [
+    "pseudo-science"
+  ],
+  "updatedAt": "2026-10-29T00:00:00.000Z"
+}

@@ -13,9 +13,12 @@
     "fr": "Né à Athènes au IVe siècle avant notre ère, le cynisme se rattache à Socrate par <ph>Antisthène</ph>, mais c'est <ph>Diogène de Sinope</ph>, exilé qui vécut dit-on dans un tonneau, qui en fit une provocation érigée en philosophie : le scandale public, l'anecdote mordante et le geste valent ici l'argument. Le mot « cynique » vient du grec <c>kynikos</c> (« comme un chien »), un sobriquet que l'école retourna en fierté, et n'a rien de son sens péjoratif moderne. L'essentiel de la doctrine ne nous est connu qu'indirectement, par les chries (anecdotes) que compila <per>Diogène Laërce</per>, car les cyniques écrivirent peu et tinrent la philosophie pour affaire de vie plus que de traités. <ph>Cratès</ph> de Thèbes en adoucit la figure et transmit l'enseignement à <ph>Zénon de Citium</ph> : par lui, le cynisme devient l'une des racines du <mv id='stoicism'>stoïcisme</mv>, qui héritera de son cosmopolitisme et de l'idée que la vertu suffit, en lui adjoignant la physique et la logique que les cyniques dédaignaient.",
     "en": "Born in Athens in the fourth century BCE, Cynicism traces back to Socrates through <ph>Antisthenes</ph>, but it was <ph>Diogenes of Sinope</ph>, an exile said to have lived in a barrel, who turned it into provocation raised to philosophy: here the public scandal, the biting anecdote and the gesture count for as much as the argument. The word « cynic » comes from the Greek <c>kynikos</c> (« dog-like »), a nickname the school turned into a badge of pride, and bears nothing of its modern pejorative sense. The doctrine reaches us only indirectly, through the chreiai (anecdotes) compiled by <per>Diogenes Laertius</per>, for the Cynics wrote little and held philosophy to be a matter of living rather than of treatises. <ph>Crates</ph> of Thebes softened the figure and passed the teaching to <ph>Zeno of Citium</ph>: through him Cynicism becomes one of the roots of <mv id='stoicism'>Stoicism</mv>, which would inherit its cosmopolitanism and the idea that virtue suffices, while adding the physics and logic the Cynics disdained."
   },
+  "area": "WEST",
   "period": {
     "from": -400,
-    "to": -200
+    "to": 400,
+    "approx": true,
+    "afterlife": "HISTORICAL"
   },
   "keyFigures": [
     {

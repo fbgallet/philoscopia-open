@@ -17,6 +17,7 @@ American philosopher and psychologist, a leading figure of pragmatism: he measur
 ## Influence on
 
 - **[John Dewey](../philosophers/dewey.md)** (continues) : [Dewey](../philosophers/dewey.md) carries on [James](../philosophers/william-james.md)'s [pragmatism](../movements/pragmatism.md), the emphasis on experience and the consequences of ideas, steering it toward the logic of inquiry, education and democracy.
+- **[Nishida](../philosophers/nishida.md)** (reinterprets) : [Nishida](../philosophers/nishida.md)'s [pure experience](../glossary/pure-experience.md) starts from [William James](../philosophers/william-james.md)'s radical empiricism, which he cites from his very first pages, but he turns it into the single principle from which subject and object proceed, in a perspective nourished by Zen.
 
 ---
 

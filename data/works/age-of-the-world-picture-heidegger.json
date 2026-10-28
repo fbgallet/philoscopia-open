@@ -1,0 +1,12 @@
+{
+  "id": "age-of-the-world-picture-heidegger",
+  "title": { "fr": "L'Époque des conceptions du monde", "en": "The Age of the World Picture" },
+  "originalTitle": "Die Zeit des Weltbildes",
+  "author": { "slug": "heidegger", "name": { "fr": "Martin Heidegger", "en": "Martin Heidegger" } },
+  "year": 1950,
+  "presentation": {
+    "fr": "Conférence de 1938, publiée en 1950 dans <w>Chemins qui ne mènent nulle part</w>. <ph id='heidegger'>Heidegger</ph> y décrit la science moderne comme « recherche », qui projette d'avance un plan calculable de la nature, et l'époque moderne comme celle où le monde devient une image représentée par un sujet.",
+    "en": "A lecture of 1938, published in 1950 in <w>Off the Beaten Track</w>. <ph id='heidegger'>Heidegger</ph> describes modern science there as \"research\", which projects in advance a calculable ground plan of nature, and the modern age as the one in which the world becomes a picture represented by a subject."
+  },
+  "updatedAt": "2026-10-11T00:00:00.000Z"
+}

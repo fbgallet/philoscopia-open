@@ -1,0 +1,27 @@
+{
+  "id": "moral-luck",
+  "term": {
+    "fr": "Chance morale",
+    "en": "Moral luck"
+  },
+  "aliases": {
+    "fr": [
+      "hasard moral",
+      "fortune morale"
+    ],
+    "en": []
+  },
+  "definition": {
+    "fr": "Expression de <ph id='williams'>Bernard Williams</ph> et <ph id='nagel'>Thomas Nagel</ph> (1976) : on juge souvent les gens sur ce qui ne dépendait pas d'eux. Deux conducteurs également imprudents ne sont pas blâmés de la même façon si l'un renverse un enfant qui traversait et l'autre non. La chance intervient dans les conséquences de nos actes, dans les circonstances qui nous mettent à l'épreuve, et jusque dans le caractère dont nous héritons. Le problème : si l'on ne devrait être jugé que sur ce qu'on maîtrise, il ne reste presque rien à juger ; si l'on accepte la part de la chance, il faut expliquer comment un jugement peut rester juste en dépendant de ce que nul ne maîtrise.",
+    "en": "A phrase from <ph id='williams'>Bernard Williams</ph> and <ph id='nagel'>Thomas Nagel</ph> (1976): we often judge people on what did not depend on them. Two equally careless drivers are not blamed alike if one of them hits a child who was crossing and the other does not. Luck enters into the consequences of our acts, into the circumstances that put us to the test, and even into the character we inherit. The problem: if we should only be judged on what we control, almost nothing is left to judge; if we accept luck's share, we must explain how a judgment can stay fair while depending on what no one controls."
+  },
+  "relatedAxes": [
+    "ETHICS_FOUNDATION",
+    "MORAL_RESPONSIBILITY"
+  ],
+  "relatedTerms": [
+    "fortuna",
+    "free-will"
+  ],
+  "updatedAt": "2026-10-21T00:00:00.000Z"
+}

@@ -14,7 +14,7 @@ L'espoir donne la force de tenir et d'agir quand tout semble perdu, mais peut no
 
 Espérer n'est pas se bercer d'illusions : c'est une condition de l'action et du progrès. L'espérance oriente nos efforts vers ce qui n'est pas encore, soutient l'engagement moral et ouvre l'avenir comme champ du possible.
 
-*[Kant](../philosophers/kant.md) · Bloch*
+*[Kant](../philosophers/kant.md) · [Bloch](../philosophers/bloch.md)*
 
 ### Lucidité sans espoir
 

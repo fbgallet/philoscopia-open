@@ -17,9 +17,67 @@
     "fr": "Tradition issue de l'école que <ph id='aristotle'>Aristote</ph> fonda au Lycée d'Athènes vers 335 avant notre ère, où ses disciples, les Péripatéticiens, enseignaient en se promenant. Formé chez <ph id='plato'>Platon</ph> mais en rupture avec lui, Aristote bâtit le premier système encyclopédique de la philosophie, de la logique à la biologie, à partir de l'observation patiente du monde sensible plutôt que de la contemplation d'un monde des Idées. Après une longue éclipse, son œuvre est commentée et prolongée par <ph>Averroès</ph> dans le monde arabo-musulman, puis intégrée au christianisme par <ph>Thomas d'Aquin</ph> : l'aristotélisme devient l'ossature de la <c id='scholasticism'>scolastique</c> médiévale et la référence dominante des universités, jusqu'à ce que la science moderne conteste son finalisme. Sa logique, son éthique de la vertu et son vocabulaire métaphysique irriguent encore la pensée occidentale.",
     "en": "A tradition stemming from the school <ph id='aristotle'>Aristotle</ph> founded at the Lyceum in Athens around 335 BCE, where his disciples, the Peripatetics, taught while walking about. Trained under <ph id='plato'>Plato</ph> but breaking with him, Aristotle built philosophy's first encyclopaedic system, from logic to biology, out of the patient observation of the sensible world rather than the contemplation of a realm of Ideas. After a long eclipse, his work was commented on and extended by <ph>Averroes</ph> in the Arab-Muslim world, then absorbed into Christianity by <ph>Thomas Aquinas</ph>: Aristotelianism became the backbone of medieval <c id='scholasticism'>scholasticism</c> and the dominant authority of the universities, until modern science challenged its finalism. Its logic, its virtue ethics and its metaphysical vocabulary still run through Western thought."
   },
+  "area": "WEST",
   "period": {
     "from": -335,
-    "to": 1274
+    "to": 1617,
+    "afterlife": "LIVING",
+    "phases": [
+      {
+        "name": {
+          "fr": "Néothomisme",
+          "en": "Neo-Thomism"
+        },
+        "from": 1879,
+        "to": 1965,
+        "keyFigures": [
+          {
+            "slug": "maritain",
+            "name": {
+              "fr": "Maritain",
+              "en": "Maritain"
+            }
+          },
+          {
+            "slug": "gilson",
+            "name": {
+              "fr": "Gilson",
+              "en": "Gilson"
+            }
+          }
+        ]
+      },
+      {
+        "name": {
+          "fr": "Éthique des vertus",
+          "en": "Virtue ethics"
+        },
+        "from": 1958,
+        "keyFigures": [
+          {
+            "slug": "anscombe",
+            "name": {
+              "fr": "Anscombe",
+              "en": "Anscombe"
+            }
+          },
+          {
+            "slug": "macintyre",
+            "name": {
+              "fr": "MacIntyre",
+              "en": "MacIntyre"
+            }
+          },
+          {
+            "slug": "nussbaum",
+            "name": {
+              "fr": "Nussbaum",
+              "en": "Nussbaum"
+            }
+          }
+        ]
+      }
+    ]
   },
   "keyFigures": [
     {

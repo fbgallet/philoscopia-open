@@ -1,0 +1,12 @@
+{
+  "id": "ontological-difference",
+  "term": { "fr": "Différence ontologique", "en": "Ontological difference" },
+  "definition": {
+    "fr": "Chez <ph id='heidegger'>Heidegger</ph>, la différence entre l'être et l'étant. Un étant, c'est ce qui est : une pierre, un outil, un homme, Dieu même pensé comme étant suprême. L'être n'est aucun de ces étants, mais ce qui fait qu'ils sont et se montrent. Selon lui, la métaphysique occidentale a constamment pensé l'être sur le modèle d'un étant, comme présence subsistante, cause première ou fondement : c'est ce qu'il appelle l'« oubli de l'être ».",
+    "en": "In <ph id='heidegger'>Heidegger</ph>, the difference between being and beings. A being is whatever is: a stone, a tool, a human, even God thought of as the highest being. Being is none of these beings, but what makes them be and show themselves. According to him, Western metaphysics has constantly thought being on the model of a being, as enduring presence, first cause or ground: this is what he calls the \"oblivion of being\"."
+  },
+  "relatedAxes": ["REALITY_NATURE", "GOD_EXISTENCE"],
+  "relatedTerms": ["dasein", "aletheia"],
+  "figure": { "slug": "heidegger", "name": { "fr": "Martin Heidegger", "en": "Martin Heidegger" } },
+  "updatedAt": "2026-10-11T00:00:00.000Z"
+}

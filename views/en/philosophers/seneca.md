@@ -18,6 +18,16 @@ A leading figure of imperial [Stoicism](../movements/stoicism.md), born at Córd
 
 ## Positions
 
+### [Moral circle](../axes/moral-circle.md)
+
+*positioned · inferable · minor*
+
+Anthropocentrism 100%
+
+Seneca distinguishes the impulses of animals from passions proper to humans, which require reason's assent: an animal has neither anger nor virtue in the strict sense. Yet he reports the reasons Sotion taught him for abstaining from meat, among them the fear of habituating humans to cruelty, and says he kept that diet for a year before dropping it on his father's advice, amid suspicion of foreign cults. The account shows moral reflection on diet, not a doctrine making animal sentience the ground of moral standing.
+
+*Sources : On Anger, I, 3 · Letters to Lucilius, 108, 17-22*
+
 ### [Essence and existence](../axes/essence.md)
 
 *positioned · inferable · minor*

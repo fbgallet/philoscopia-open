@@ -11,6 +11,7 @@
 ## Influenced by
 
 - **[Confucius](../philosophers/confucius.md)** (continues) : [Mencius](../philosophers/mencius.md) carries on the ethics of [Confucius](../philosophers/confucius.md) and gives it a ground: the innate goodness of the human heart, which one need only cultivate, against doctrines of self-interest.
+- **[Mohism](../movements/mohism.md)** (reacts against) : [Mencius](../philosophers/mencius.md) accuses the impartial concern of [Mohism](../movements/mohism.md) of denying one's father, since it puts other people's parents on a par with one's own, and defends against it a love that extends by degrees outward from the family.
 
 ## Influence on
 

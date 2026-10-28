@@ -1,0 +1,22 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "fakhr-al-din-al-razi",
+  "stub": true,
+  "name": { "fr": "Fakhr al-Dīn al-Rāzī", "en": "Fakhr al-Dīn al-Rāzī" },
+  "summary": {
+    "fr": "Théologien ashʿarite et commentateur d'<ph id='avicenna'>Avicenne</ph>, qui fait entrer dans le <mv id='kalam'>kalām</mv> une large part de la philosophie qu'il discute.",
+    "en": "An Ashʿarite theologian and commentator on <ph id='avicenna'>Avicenna</ph>, who brought into <mv id='kalam'>kalām</mv> a large part of the philosophy he discussed."
+  },
+  "birth": 1150,
+  "death": 1210,
+  "nationality": { "fr": "Persan", "en": "Persian" },
+  "language": "ara",
+  "otherLanguages": ["fas"],
+  "movements": [
+    "kalam"
+  ],
+  "updatedAt": "2026-10-09T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

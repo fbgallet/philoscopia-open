@@ -150,6 +150,10 @@ Décider entre mécanisme, finalisme et vitalisme suppose de connaître les caus
 
 Question anachronique : rien dans ce qui nous est transmis de Pyrrhon ne permet de le positionner sur la pensée des machines sans extrapolation hasardeuse.
 
+## Influencé par
+
+- **[Bouddhisme](../movements/buddhism.md)** (réinterprète) : [Pyrrhon](../philosophers/pyrrho.md) accompagna Alexandre en Inde et y rencontra des « gymnosophistes ». Une parenté entre sa suspension du jugement et la pensée indienne, voire le [bouddhisme](../movements/buddhism.md), est défendue par certains historiens et contestée par d'autres : le lien reste une hypothèse.
+
 ## Influence sur
 
 - **[Sextus Empiricus](../philosophers/sextus-empiricus.md)** (transmet) : [Sextus Empiricus](../philosophers/sextus-empiricus.md) codifie des siècles plus tard la tradition issue de [Pyrrhon](../philosophers/pyrrho.md) : suspension du jugement et opposition équilibrée des arguments, dont ses écrits sont la principale source conservée.

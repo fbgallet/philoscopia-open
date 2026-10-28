@@ -2,7 +2,7 @@
 
 # Nāgārjuna
 
-*150 – 250 · Indien · [Bouddhisme](../movements/buddhism.md)*
+*150 – 250 · Indien · [Madhyamaka](../movements/madhyamaka.md), [Bouddhisme](../movements/buddhism.md)*
 
 Penseur indien du [bouddhisme](../movements/buddhism.md) mahāyāna, actif vers 150-250 de notre ère (dates incertaines), tenu pour le fondateur de l'école [Madhyamaka (la Voie du Milieu)](../glossary/the-middle-way.md), l'un des deux grands courants philosophiques du Mahāyāna. Son œuvre maîtresse, les Stances du milieu par excellence (Mūlamadhyamakakārikā), mène une critique serrée, chapitre après chapitre, des catégories que les écoles bouddhiques antérieures, en particulier l'Abhidharma, tenaient pour les composants ultimes du réel. Là où le [Bouddha](../philosophers/buddha.md) visait surtout la délivrance du [mal-être (duḥkha)](../glossary/dukkha.md), Nāgārjuna en tire les conséquences logiques et métaphysiques, au risque que sa critique paraisse tout dissoudre, d'où l'objection sceptique à laquelle répond la Vigrahavyāvartanī (Réfutation des objections). Commenté par Candrakīrti et Bhāviveka, il devient une référence centrale du bouddhisme tibétain, où le Madhyamaka est l'aboutissement du cursus philosophique, comme du bouddhisme d'Asie de l'Est, dont l'école Sanlun (les « Trois Traités ») prolonge sa pensée en Chine.
 
