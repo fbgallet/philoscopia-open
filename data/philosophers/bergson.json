@@ -21,7 +21,7 @@
     "en": "French"
   },
   "language": "fra",
-  "movements": [],
+  "movements": ["life-philosophy"],
   "updatedAt": "2026-07-02T00:00:00.000Z",
   "validation": {
     "method": "NOT_VALIDATED"

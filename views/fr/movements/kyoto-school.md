@@ -46,6 +46,7 @@ Pour Nishida, l'absolu ne se trouve pas au-dessus du monde : on le rencontre en 
 
 ## Influencé par
 
+- **[Chan / Zen](../movements/chan-zen.md)** (transmet) : [Nishida](../philosophers/nishida.md) pratiqua longuement le zazen avant d'écrire sa première œuvre, et [Nishitani](../philosophers/nishitani.md) fit du Zen l'interlocuteur privilégié de la philosophie occidentale. L'[école de Kyoto](../movements/kyoto-school.md) reprend du [Zen](../movements/chan-zen.md) l'expérience en deçà de la séparation du sujet et de l'objet.
 - **[Heidegger](../philosophers/heidegger.md)** (réinterprète) : [Tanabe](../philosophers/tanabe.md), [Nishitani](../philosophers/nishitani.md) et Kuki Shūzō étudient auprès de [Heidegger](../philosophers/heidegger.md) à Fribourg. L'[école de Kyoto](../movements/kyoto-school.md) reprend sa question du néant et sa lecture du nihilisme, pour les porter vers la vacuité bouddhique, là où Heidegger restait dans l'horizon de l'être.
 - **[Madhyamaka](../movements/madhyamaka.md)** (réinterprète) : [Nishitani](../philosophers/nishitani.md) fait de la [vacuité](../glossary/sunyata.md) de la [Madhyamaka](../movements/madhyamaka.md) le « champ » où le nihilisme occidental, diagnostiqué par Nietzsche et Heidegger, est traversé et surmonté : une notion bouddhique devient la réponse à une crise de la modernité européenne.
 

@@ -2,7 +2,7 @@
 
 # Anselm of Canterbury
 
-*1033 – 1109 · Italian*
+*1033 – 1109 · Italian · [Scholasticism](../movements/scholasticism.md)*
 
 Medieval monk and theologian, archbishop of Canterbury, author of the ontological argument: God, "that than which nothing greater can be thought", cannot fail to exist.
 

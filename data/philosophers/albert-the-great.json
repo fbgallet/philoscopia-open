@@ -21,9 +21,7 @@
     "en": "German"
   },
   "language": "lat",
-  "movements": [
-    "aristotelianism"
-  ],
+  "movements": ["aristotelianism", "scholasticism"],
   "updatedAt": "2026-06-29T00:00:00.000Z",
   "validation": {
     "method": "NOT_VALIDATED"

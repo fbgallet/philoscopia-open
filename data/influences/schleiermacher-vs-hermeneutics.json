@@ -1,0 +1,29 @@
+{
+  "id": "schleiermacher-vs-hermeneutics",
+  "from": {
+    "kind": "PHILOSOPHER",
+    "slug": "schleiermacher"
+  },
+  "to": {
+    "kind": "MOVEMENT",
+    "slug": "hermeneutics"
+  },
+  "directness": "ATTESTED",
+  "mode": "REACTS_AGAINST",
+  "strength": "MEDIUM",
+  "note": {
+    "fr": "<ph id='schleiermacher'>Schleiermacher</ph> fonde l'herméneutique générale, dont le but est de comprendre l'auteur aussi bien et mieux qu'il ne s'est compris lui-même. L'<mv id='hermeneutics'>herméneutique philosophique</mv> en garde l'ampleur mais rejette ce but : le sens d'un texte n'est pas l'intention de son auteur.",
+    "en": "<ph id='schleiermacher'>Schleiermacher</ph> founded general hermeneutics, whose aim is to understand the author as well as and better than he understood himself. <mv id='hermeneutics'>Philosophical hermeneutics</mv> keeps its scope but rejects this aim: the meaning of a text is not its author's intention."
+  },
+  "sources": [
+    {
+      "fr": "Schleiermacher, Herméneutique (1805-1833)",
+      "en": "Schleiermacher, Hermeneutics (1805-1833)"
+    },
+    {
+      "fr": "Gadamer, Vérité et méthode (1960), IIe partie",
+      "en": "Gadamer, Truth and Method (1960), Part II"
+    }
+  ],
+  "updatedAt": "2026-10-30T00:00:00.000Z"
+}

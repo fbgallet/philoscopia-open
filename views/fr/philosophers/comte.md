@@ -2,7 +2,7 @@
 
 # Comte
 
-*1798 – 1857 · Français*
+*1798 – 1857 · Français · [Positivisme](../movements/positivism.md)*
 
 Philosophe français, fondateur du positivisme : il tient la science pour le stade ultime du savoir, appelé à remplacer la théologie et la métaphysique.
 
@@ -11,6 +11,7 @@ Philosophe français, fondateur du positivisme : il tient la science pour le sta
 ## Influencé par
 
 - **[Les Lumières](../movements/enlightenment.md)** (prolonge) : [Comte](../philosophers/comte.md) systématise l'autorité que les Lumières reconnaissaient à la science : sa loi des trois états fait de l'âge « positif » l'aboutissement du progrès de l'esprit esquissé par [Condorcet](../philosophers/condorcet.md), qu'il revendique comme son principal devancier.
+- **[Saint-Simon](../philosophers/saint-simon.md)** (prolonge) : Secrétaire de [Saint-Simon](../philosophers/saint-simon.md) de 1817 à 1824, [Comte](../philosophers/comte.md) lui doit l'idée d'une société industrielle réorganisée par les savants et le premier projet d'une science positive de la société. Il rompt avec lui en 1824 et minimisera ensuite cette dette.
 
 ## Influence sur
 

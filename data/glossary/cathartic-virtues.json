@@ -1,0 +1,35 @@
+{
+  "id": "cathartic-virtues",
+  "term": {
+    "fr": "Vertus cathartiques",
+    "en": "Cathartic virtues"
+  },
+  "aliases": {
+    "fr": [
+      "vertus purificatrices"
+    ],
+    "en": [
+      "purificatory virtues"
+    ]
+  },
+  "definition": {
+    "fr": "Dans la hiérarchie des vertus fixée par <ph id='porphyry'>Porphyre</ph> à partir de <ph id='plotinus'>Plotin</ph>, ce sont les vertus qui purifient l'âme de ses attaches au corps. Elles se placent au-dessus des vertus civiques, qui règlent seulement les passions, et préparent les vertus contemplatives. La philosophie y devient un exercice de détachement autant qu'un savoir.",
+    "en": "In the hierarchy of virtues set out by <ph id='porphyry'>Porphyry</ph> after <ph id='plotinus'>Plotinus</ph>, these are the virtues that purify the soul of its attachments to the body. They rank above the civic virtues, which merely regulate the passions, and prepare the contemplative virtues. Philosophy there becomes an exercise in detachment as much as a body of knowledge."
+  },
+  "relatedAxes": [
+    "METAPHILOSOPHY",
+    "BODILY_PLEASURES"
+  ],
+  "relatedTerms": [
+    "spiritual-exercises",
+    "asceticism"
+  ],
+  "figure": {
+    "slug": "porphyry",
+    "name": {
+      "fr": "Porphyre",
+      "en": "Porphyry"
+    }
+  },
+  "updatedAt": "2026-10-30T00:00:00.000Z"
+}

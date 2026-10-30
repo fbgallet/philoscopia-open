@@ -1,0 +1,25 @@
+{
+  "id": "dilthey-to-hermeneutics",
+  "from": {
+    "kind": "PHILOSOPHER",
+    "slug": "dilthey"
+  },
+  "to": {
+    "kind": "MOVEMENT",
+    "slug": "hermeneutics"
+  },
+  "directness": "ATTESTED",
+  "mode": "REINTERPRETS",
+  "strength": "STRONG",
+  "note": {
+    "fr": "<ph id='dilthey'>Dilthey</ph> avait fait de la compréhension la méthode propre des sciences de l'esprit. <ph id='gadamer'>Gadamer</ph> lui reconnaît cette question, mais lui reproche d'être resté prisonnier de l'idéal d'objectivité des sciences de la nature : la compréhension n'est pas une méthode, c'est notre appartenance à l'histoire.",
+    "en": "<ph id='dilthey'>Dilthey</ph> had made understanding the proper method of the human sciences. <ph id='gadamer'>Gadamer</ph> credits him with that question but reproaches him for remaining captive to the natural sciences' ideal of objectivity: understanding is not a method but our belonging to history."
+  },
+  "sources": [
+    {
+      "fr": "Gadamer, Vérité et méthode (1960), IIe partie, I",
+      "en": "Gadamer, Truth and Method (1960), Part II, I"
+    }
+  ],
+  "updatedAt": "2026-10-30T00:00:00.000Z"
+}

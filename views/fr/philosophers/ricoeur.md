@@ -2,7 +2,7 @@
 
 # Paul Ricœur
 
-*1913 – 2005 · Français · [Phénoménologie](../movements/phenomenology.md)*
+*1913 – 2005 · Français · [Herméneutique philosophique](../movements/hermeneutics.md)*
 
 Philosophe français de l'herméneutique, théoricien de l'identité narrative, qui pensa le soi « comme un autre » à travers les récits par lesquels une vie se comprend.
 

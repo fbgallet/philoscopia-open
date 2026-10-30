@@ -1,0 +1,32 @@
+{
+  "id": "vijnaptimatra",
+  "term": {
+    "fr": "Vijñaptimātra (rien-que-représentation)",
+    "en": "Vijñaptimātra (representation-only)"
+  },
+  "aliases": {
+    "fr": [
+      "rien-que-représentation",
+      "cittamātra"
+    ],
+    "en": [
+      "representation-only",
+      "mind-only",
+      "cittamātra"
+    ]
+  },
+  "definition": {
+    "fr": "Thèse centrale du <mv id='yogacara'>Yogācāra</mv> : ce que nous prenons pour des objets extérieurs n'est que représentation dans la conscience. Son sens est discuté, idéalisme métaphysique ou analyse de ce qui se donne dans l'expérience.",
+    "en": "The central thesis of <mv id='yogacara'>Yogācāra</mv>: what we take for external objects is mere representation in consciousness. Its meaning is disputed, metaphysical idealism or an analysis of what is given in experience."
+  },
+  "relatedAxes": [
+    "REALITY_NATURE",
+    "CONSCIOUSNESS_NATURE"
+  ],
+  "relatedTerms": [
+    "idealism",
+    "alayavijnana",
+    "three-natures"
+  ],
+  "updatedAt": "2026-10-30T00:00:00.000Z"
+}

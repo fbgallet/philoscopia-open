@@ -135,6 +135,7 @@ Wittgenstein does not assert the existence of God as a fact, but neither does he
 
 - **[Elizabeth Anscombe](../philosophers/anscombe.md)** (continues) : [Wittgenstein](../philosophers/wittgenstein.md)'s student, translator and literary executor, [Anscombe](../philosophers/anscombe.md) extends his manner: she carries the attention to ordinary language toward action and intention, founding contemporary philosophy of action.
 - **[Rudolf Carnap](../philosophers/carnap.md)** (reinterprets) : The Tractatus was the bedside book of the Vienna Circle: [Carnap](../philosophers/carnap.md) and the logical positivists read into it a charter of verificationism, reducing meaning to empirical verifiability. Wittgenstein distanced himself: they had missed, he said, what the book showed without saying, the ethical and the mystical. The misunderstanding grounds part of analytic philosophy.
+- **[Logical positivism](../movements/logical-positivism.md)** (reinterprets) : The Circle read the *[Tractatus](../works/tractatus-logico-philosophicus-wittgenstein.md)* line by line in the mid-1920s and found two weapons in it: logical truths as tautologies, and the boundary between what can and cannot be said. It drew from it a criterion of verification that Wittgenstein himself voiced at times around 1929-1930, without making it a doctrine; for him, what cannot be said, ethics or the mystical, is not thereby unimportant.
 
 ---
 

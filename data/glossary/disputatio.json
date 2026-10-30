@@ -1,0 +1,28 @@
+{
+  "id": "disputatio",
+  "term": {
+    "fr": "Disputatio (la dispute scolastique)",
+    "en": "Disputatio (the scholastic disputation)"
+  },
+  "aliases": {
+    "fr": [
+      "quaestio",
+      "question disputée"
+    ],
+    "en": [
+      "quaestio",
+      "disputed question"
+    ]
+  },
+  "definition": {
+    "fr": "Exercice universitaire médiéval où une question est posée, puis traitée par une série d'objections, un argument d'autorité en sens contraire, une réponse du maître et la réfutation de chaque objection. La <i>quaestio</i>, son unité de base, structure encore la <w id='summa-theologiae-aquinas'>Somme théologique</w> de <ph id='aquinas'>Thomas d'Aquin</ph>.",
+    "en": "A medieval university exercise in which a question is posed and then handled through a series of objections, an argument from authority to the contrary, a reply by the master and the refutation of each objection. The <i>quaestio</i>, its basic unit, still structures <ph id='aquinas'>Thomas Aquinas</ph>'s <w id='summa-theologiae-aquinas'>Summa Theologiae</w>."
+  },
+  "relatedAxes": [
+    "FAITH_REASON"
+  ],
+  "relatedTerms": [
+    "scholasticism"
+  ],
+  "updatedAt": "2026-10-30T00:00:00.000Z"
+}

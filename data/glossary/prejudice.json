@@ -1,0 +1,21 @@
+{
+  "id": "prejudice",
+  "term": {
+    "fr": "Préjugé (au sens herméneutique)",
+    "en": "Prejudice (in the hermeneutic sense)"
+  },
+  "definition": {
+    "fr": "Jugement porté avant examen. Les Lumières en ont fait l'ennemi de la raison ; <ph id='gadamer'>Gadamer</ph> le réhabilite comme condition de toute compréhension, car on n'aborde jamais un texte à partir de rien, tout en distinguant les préjugés féconds de ceux qui égarent.",
+    "en": "A judgment made before examination. The Enlightenment made it the enemy of reason; <ph id='gadamer'>Gadamer</ph> rehabilitates it as a condition of all understanding, since one never approaches a text from nowhere, while distinguishing fruitful prejudices from misleading ones."
+  },
+  "relatedAxes": [
+    "TIME_ORIENTATION",
+    "PAST_RELATION"
+  ],
+  "relatedTerms": [
+    "fusion-of-horizons",
+    "effective-history",
+    "lumieres"
+  ],
+  "updatedAt": "2026-10-30T00:00:00.000Z"
+}

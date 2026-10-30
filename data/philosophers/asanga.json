@@ -1,0 +1,36 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "asanga",
+  "stub": true,
+  "name": {
+    "fr": "Asaṅga",
+    "en": "Asaṅga"
+  },
+  "aliases": {
+    "fr": [
+      "Asanga"
+    ],
+    "en": [
+      "Asanga"
+    ]
+  },
+  "summary": {
+    "fr": "Moine indien, cofondateur avec son frère Vasubandhu de l'école <mv id='yogacara'>Yogācāra</mv>, dont il exposa la doctrine dans le <w>Mahāyānasaṃgraha</w>.",
+    "en": "Indian monk, co-founder with his brother Vasubandhu of the <mv id='yogacara'>Yogācāra</mv> school, whose doctrine he set out in the <w>Mahāyānasaṃgraha</w>."
+  },
+  "birth": 310,
+  "death": 390,
+  "datesApprox": true,
+  "nationality": {
+    "fr": "Indien",
+    "en": "Indian"
+  },
+  "language": "san",
+  "movements": [
+    "yogacara"
+  ],
+  "updatedAt": "2026-10-30T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

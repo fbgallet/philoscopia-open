@@ -1,0 +1,29 @@
+{
+  "id": "scholasticism-vs-descartes",
+  "from": {
+    "kind": "MOVEMENT",
+    "slug": "scholasticism"
+  },
+  "to": {
+    "kind": "PHILOSOPHER",
+    "slug": "descartes"
+  },
+  "directness": "ATTESTED",
+  "mode": "REACTS_AGAINST",
+  "strength": "STRONG",
+  "note": {
+    "fr": "Formé chez les jésuites de La Flèche, <ph id='descartes'>Descartes</ph> rejette la physique des formes substantielles et la méthode de la dispute, qui ne fait selon lui que multiplier les opinions. Il garde pourtant une grande part du vocabulaire scolastique (substance, cause, réalité objective).",
+    "en": "Trained by the Jesuits at La Flèche, <ph id='descartes'>Descartes</ph> rejects the physics of substantial forms and the method of disputation, which in his view only multiplies opinions. Yet he keeps much of the scholastic vocabulary (substance, cause, objective reality)."
+  },
+  "sources": [
+    {
+      "fr": "Descartes, Discours de la méthode (1637), I",
+      "en": "Descartes, Discourse on Method (1637), I"
+    },
+    {
+      "fr": "Descartes, Le Monde, ch. VII",
+      "en": "Descartes, The World, ch. VII"
+    }
+  ],
+  "updatedAt": "2026-10-30T00:00:00.000Z"
+}

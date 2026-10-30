@@ -1,0 +1,19 @@
+{
+  "id": "dignity-of-man",
+  "term": {
+    "fr": "Dignité de l'homme",
+    "en": "Dignity of man"
+  },
+  "definition": {
+    "fr": "Thème de la Renaissance porté par <ph id='pico'>Pic de la Mirandole</ph> : l'homme est le seul être sans place fixe, libre de se donner sa forme. L'idée de dignité est reprise autrement chez <ph id='kant'>Kant</ph>, comme valeur inconditionnelle de la personne.",
+    "en": "A Renaissance theme championed by <ph id='pico'>Pico della Mirandola</ph>: the human being is the only creature without a fixed place, free to give itself its form. The idea of dignity is later taken up differently in <ph id='kant'>Kant</ph>, as the unconditional worth of the person."
+  },
+  "relatedAxes": [
+    "ESSENCE",
+    "FREEDOM"
+  ],
+  "relatedTerms": [
+    "natural-rights"
+  ],
+  "updatedAt": "2026-10-30T00:00:00.000Z"
+}

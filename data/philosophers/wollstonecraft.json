@@ -1,0 +1,35 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "wollstonecraft",
+  "stub": true,
+  "name": {
+    "fr": "Wollstonecraft",
+    "en": "Wollstonecraft"
+  },
+  "aliases": {
+    "fr": [
+      "Mary Wollstonecraft"
+    ],
+    "en": [
+      "Mary Wollstonecraft"
+    ]
+  },
+  "summary": {
+    "fr": "Philosophe et écrivaine anglaise, qui dans la <w>Défense des droits de la femme</w> (1792) réclame pour les femmes l'éducation et la raison que les Lumières promettaient à tous.",
+    "en": "English philosopher and writer who, in <w>A Vindication of the Rights of Woman</w> (1792), claims for women the education and reason the Enlightenment promised to all."
+  },
+  "birth": 1759,
+  "death": 1797,
+  "nationality": {
+    "fr": "Anglaise",
+    "en": "English"
+  },
+  "language": "eng",
+  "movements": [
+    "feminist-philosophy"
+  ],
+  "updatedAt": "2026-10-30T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

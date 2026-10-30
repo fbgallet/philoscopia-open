@@ -2,7 +2,7 @@
 
 # Comte
 
-*1798 – 1857 · French*
+*1798 – 1857 · French · [Positivism](../movements/positivism.md)*
 
 French philosopher, founder of positivism: he holds science to be the ultimate stage of knowledge, destined to replace theology and metaphysics.
 
@@ -11,6 +11,7 @@ French philosopher, founder of positivism: he holds science to be the ultimate s
 ## Influenced by
 
 - **[The Enlightenment](../movements/enlightenment.md)** (continues) : [Comte](../philosophers/comte.md) systematizes the authority the Enlightenment granted to science: his law of three stages makes the « positive » age the culmination of the progress of mind sketched by [Condorcet](../philosophers/condorcet.md), whom he claims as his chief precursor.
+- **[Saint-Simon](../philosophers/saint-simon.md)** (continues) : As [Saint-Simon](../philosophers/saint-simon.md)'s secretary from 1817 to 1824, [Comte](../philosophers/comte.md) owed him the idea of an industrial society reorganized by scientists and the first plan for a positive science of society. He broke with him in 1824 and later played down this debt.
 
 ## Influence on
 

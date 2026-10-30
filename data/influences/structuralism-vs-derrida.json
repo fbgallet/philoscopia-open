@@ -1,0 +1,25 @@
+{
+  "id": "structuralism-vs-derrida",
+  "from": {
+    "kind": "MOVEMENT",
+    "slug": "structuralism"
+  },
+  "to": {
+    "kind": "PHILOSOPHER",
+    "slug": "derrida"
+  },
+  "directness": "ATTESTED",
+  "mode": "REACTS_AGAINST",
+  "strength": "STRONG",
+  "note": {
+    "fr": "Dans « La structure, le signe et le jeu » (1966), <ph id='derrida'>Derrida</ph> lit <ph id='levi-strauss'>Lévi-Strauss</ph> de près pour montrer que toute structure suppose un centre qu'elle ne peut fonder. Il retient la primauté de la différence, mais en défait la clôture : c'est l'un des actes de naissance du poststructuralisme.",
+    "en": "In \"Structure, Sign and Play\" (1966), <ph id='derrida'>Derrida</ph> reads <ph id='levi-strauss'>Lévi-Strauss</ph> closely to show that every structure presupposes a centre it cannot ground. He keeps the primacy of difference but undoes its closure: it is one of the founding acts of post-structuralism."
+  },
+  "sources": [
+    {
+      "fr": "Derrida, « La structure, le signe et le jeu dans le discours des sciences humaines », L'Écriture et la différence (1967)",
+      "en": "Derrida, \"Structure, Sign and Play in the Discourse of the Human Sciences\", Writing and Difference (1967)"
+    }
+  ],
+  "updatedAt": "2026-10-30T00:00:00.000Z"
+}

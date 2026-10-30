@@ -1,0 +1,25 @@
+{
+  "id": "wittgenstein-to-logical-positivism",
+  "from": {
+    "kind": "PHILOSOPHER",
+    "slug": "wittgenstein"
+  },
+  "to": {
+    "kind": "MOVEMENT",
+    "slug": "logical-positivism"
+  },
+  "directness": "ATTESTED",
+  "mode": "REINTERPRETS",
+  "strength": "STRONG",
+  "note": {
+    "fr": "Le Cercle lit le <w id='tractatus-logico-philosophicus-wittgenstein'>Tractatus</w> ligne à ligne au milieu des années 1920 et y trouve deux armes : les vérités logiques comme <c>tautologies</c> et la limite entre ce qui peut se dire et ce qui ne le peut pas. <dif>Il en tire un critère de vérification</dif> que Wittgenstein formule lui-même par moments vers 1929-1930, sans en faire une doctrine ; pour lui, ce qui ne peut se dire, l'éthique ou le mystique, n'est pas pour autant sans importance.",
+    "en": "The Circle read the <w id='tractatus-logico-philosophicus-wittgenstein'>Tractatus</w> line by line in the mid-1920s and found two weapons in it: logical truths as <c>tautologies</c>, and the boundary between what can and cannot be said. <dif>It drew from it a criterion of verification</dif> that Wittgenstein himself voiced at times around 1929-1930, without making it a doctrine; for him, what cannot be said, ethics or the mystical, is not thereby unimportant."
+  },
+  "sources": [
+    {
+      "fr": "Waismann, Wittgenstein et le Cercle de Vienne (notes de 1929-1932)",
+      "en": "Waismann, Wittgenstein and the Vienna Circle (notes from 1929-1932)"
+    }
+  ],
+  "updatedAt": "2026-10-30T00:00:00.000Z"
+}

@@ -65,6 +65,7 @@ Epistocracy 85% · Radical democracy 15%
 ## Influence on
 
 - **[Maimonides](../philosophers/maimonides.md)** (continues) : [Maimonides](../philosophers/maimonides.md) thinks within the framework of [falsafa](../movements/falsafa.md): he recommends [al-Fārābī](../philosophers/al-farabi.md) above every other author and takes up his conception of the prophet as a philosopher endowed with a perfect imagination.
+- **[Scholasticism](../movements/scholasticism.md)** (transmits) : The twelfth-century Latin translations made in Toledo brought [Avicenna](../philosophers/avicenna.md) and [Averroes](../philosophers/averroes.md) into the universities. [Scholasticism](../movements/scholasticism.md) owes them its reading of Aristotle, the distinction between essence and existence and the controversy over the single intellect.
 - **[al-Ghazālī](../philosophers/al-ghazali.md)** (reacts against) : [Al-Ghazālī](../philosophers/al-ghazali.md) refutes twenty theses of the [falsafa](../movements/falsafa.md) philosophers, notably the eternity of the world and the necessity of the causal link, and declares three of them incompatible with Islam: the eternity of the world, divine knowledge restricted to universals and the denial of bodily resurrection.
 
 ---

@@ -1,0 +1,27 @@
+{
+  "id": "alayavijnana",
+  "term": {
+    "fr": "Ālayavijñāna (conscience-réceptacle)",
+    "en": "Ālayavijñāna (storehouse consciousness)"
+  },
+  "aliases": {
+    "fr": [
+      "conscience-réceptacle"
+    ],
+    "en": [
+      "storehouse consciousness"
+    ]
+  },
+  "definition": {
+    "fr": "Dans le <mv id='yogacara'>Yogācāra</mv>, un flux de conscience sous-jacent où se déposent les traces des actes, comme des semences qui mûrissent plus tard. Il explique la continuité karmique sans soi permanent.",
+    "en": "In <mv id='yogacara'>Yogācāra</mv>, an underlying stream of consciousness in which the traces of actions are deposited, like seeds that ripen later. It explains karmic continuity without a permanent self."
+  },
+  "relatedAxes": [
+    "SELF_NATURE"
+  ],
+  "relatedTerms": [
+    "anatta",
+    "vijnaptimatra"
+  ],
+  "updatedAt": "2026-10-30T00:00:00.000Z"
+}

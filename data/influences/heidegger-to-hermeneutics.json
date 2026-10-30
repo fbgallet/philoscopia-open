@@ -1,0 +1,29 @@
+{
+  "id": "heidegger-to-hermeneutics",
+  "from": {
+    "kind": "PHILOSOPHER",
+    "slug": "heidegger"
+  },
+  "to": {
+    "kind": "MOVEMENT",
+    "slug": "hermeneutics"
+  },
+  "directness": "ATTESTED",
+  "mode": "CONTINUES",
+  "strength": "STRONG",
+  "note": {
+    "fr": "<ph id='heidegger'>Heidegger</ph> fait de la compréhension non plus une méthode mais un mode d'être du <c id='dasein'>Dasein</c>, toujours pris dans un cercle d'anticipations. <ph id='gadamer'>Gadamer</ph>, son élève, bâtit sur cette thèse l'<mv id='hermeneutics'>herméneutique philosophique</mv>.",
+    "en": "<ph id='heidegger'>Heidegger</ph> turned understanding from a method into a mode of being of <c id='dasein'>Dasein</c>, always caught in a circle of anticipations. <ph id='gadamer'>Gadamer</ph>, his student, built <mv id='hermeneutics'>philosophical hermeneutics</mv> on this thesis."
+  },
+  "sources": [
+    {
+      "fr": "Heidegger, Être et temps (1927), § 31-32",
+      "en": "Heidegger, Being and Time (1927), §§ 31-32"
+    },
+    {
+      "fr": "Gadamer, Vérité et méthode (1960), IIe partie",
+      "en": "Gadamer, Truth and Method (1960), Part II"
+    }
+  ],
+  "updatedAt": "2026-10-30T00:00:00.000Z"
+}

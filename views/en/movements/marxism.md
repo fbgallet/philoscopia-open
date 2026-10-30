@@ -254,6 +254,7 @@ Formal rights (to vote, to contract, to own) leave economic compulsion intact: t
 
 ## Influence on
 
+- **[Frankfurt School](../movements/frankfurt-school.md)** (reinterprets) : The [Frankfurt School](../movements/frankfurt-school.md) starts from [Marx](../philosophers/marx.md)'s critique of political economy but moves away from his historical schema: with no revolutionary subject, critique turns to culture, personality and reason itself, and rejects the official Marxism of the USSR.
 - **[Camus](../philosophers/camus.md)** (reacts against) : The Rebel is written against [Marxism](../movements/marxism.md) as a religion of History: [Camus](../philosophers/camus.md) refuses that the revolutionary end justify terror and sets revolt, which posits a limit, against the revolution that abolishes it.
 
 ---

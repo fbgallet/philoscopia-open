@@ -2,7 +2,7 @@
 
 # Simone de Beauvoir
 
-*1908 – 1986 · French · [Existentialism](../movements/existentialism.md), [Phenomenology](../movements/phenomenology.md)*
+*1908 – 1986 · French · [Existentialism](../movements/existentialism.md), [Phenomenology](../movements/phenomenology.md), [Feminist philosophy](../movements/feminist-philosophy.md)*
 
 A French philosopher of the twentieth century, a figure of [existentialism](../movements/existentialism.md) alongside [Sartre](../philosophers/sartre.md), trained in the [phenomenology](../movements/phenomenology.md) of Husserl and [Merleau-Ponty](../philosophers/merleau-ponty.md). A novelist, memoirist and theorist, she is above all the author of The Second Sex (1949), an inquiry that weaves together biology, history, psychoanalysis and Marxism to understand the condition imposed on women, and of The Ethics of Ambiguity (1947), where she attempts the ethics existentialism had promised without writing it. Long received as Sartre's disciple, she is now read as a thinker in her own right, the founder of contemporary philosophical feminism and a major source of gender theory.
 

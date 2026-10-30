@@ -1,0 +1,25 @@
+{
+  "id": "structuralism-to-foucault",
+  "from": {
+    "kind": "MOVEMENT",
+    "slug": "structuralism"
+  },
+  "to": {
+    "kind": "PHILOSOPHER",
+    "slug": "foucault"
+  },
+  "directness": "INDIRECT",
+  "mode": "REINTERPRETS",
+  "strength": "MEDIUM",
+  "note": {
+    "fr": "<ph id='foucault'>Foucault</ph> partage avec le <mv id='structuralism'>structuralisme</mv> le décentrement du sujet : <w>Les Mots et les choses</w> (1966) annonce la fin de l'homme comme figure du savoir. Il refuse pourtant l'étiquette et substitue aux structures intemporelles des configurations historiques du savoir.",
+    "en": "<ph id='foucault'>Foucault</ph> shares with <mv id='structuralism'>structuralism</mv> the decentring of the subject: <w>The Order of Things</w> (1966) announces the end of man as a figure of knowledge. Yet he rejects the label and replaces timeless structures with historical configurations of knowledge."
+  },
+  "sources": [
+    {
+      "fr": "Foucault, Les Mots et les choses (1966), ch. X",
+      "en": "Foucault, The Order of Things (1966), ch. X"
+    }
+  ],
+  "updatedAt": "2026-10-30T00:00:00.000Z"
+}

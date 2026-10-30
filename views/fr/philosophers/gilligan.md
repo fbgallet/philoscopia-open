@@ -2,7 +2,7 @@
 
 # Carol Gilligan
 
-*1936 – ? · Américaine*
+*1936 – ? · Américaine · [Philosophie féministe](../movements/feminist-philosophy.md)*
 
 Psychologue et philosophe américaine, pionnière de l'éthique du care : contre une morale des principes impartiaux, elle a fait entendre « une voix différente », celle du soin concret et des relations qui obligent.
 

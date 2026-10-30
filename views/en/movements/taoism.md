@@ -251,6 +251,7 @@ The Taoist universe is fundamentally benign and trustworthy for whoever attunes 
 ## Influence on
 
 - **[Buddhism](../movements/buddhism.md)** (synthesizes) : Entering China, [Buddhism](../movements/buddhism.md) blends with the [Taoist](../movements/taoism.md) sensibility: first translated through the vocabulary of the dao and wu wei, it gives rise to Chan, the ancestor of Zen, where Indian meditation weds the naturalness and spontaneity dear to [Zhuangzi](../philosophers/zhuangzi.md). The filiation is rarely claimed as such, yet the Chan school bears its imprint.
+- **[Chan / Zen](../movements/chan-zen.md)** (synthesizes) : [Chan](../movements/chan-zen.md) took shape in a China where Buddhist texts were read and translated through the vocabulary of [Laozi](../philosophers/laozi.md) and [Zhuangzi](../philosophers/zhuangzi.md): spontaneity, distrust of words, everyday wisdom. The extent of this debt remains debated.
 - **[Neo-Confucianism](../movements/neo-confucianism.md)** (reinterprets) : The Diagram of the Supreme Ultimate of Zhou Dunyi, which came out of [Taoist](../movements/taoism.md) circles, became the cosmology of [Neo-Confucianism](../movements/neo-confucianism.md): the "Ultimateless" and yin-yang were put in the service of a Confucian ethics. The diagram's Taoist origin, reported by tradition, was held against Zhu Xi by his opponents.
 
 ---

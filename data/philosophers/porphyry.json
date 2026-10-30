@@ -1,0 +1,28 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "porphyry",
+  "stub": true,
+  "name": {
+    "fr": "Porphyre",
+    "en": "Porphyry"
+  },
+  "summary": {
+    "fr": "Philosophe grec né à Tyr, disciple de <ph id='plotinus'>Plotin</ph> dont il édita les traités sous le titre d'<w id='enneads-plotinus'>Ennéades</w> ; son <w>Isagogè</w>, introduction à la logique d'Aristote, servit de manuel à tout le Moyen Âge.",
+    "en": "Greek philosopher born in Tyre, a pupil of <ph id='plotinus'>Plotinus</ph> whose treatises he edited as the <w id='enneads-plotinus'>Enneads</w>; his <w>Isagoge</w>, an introduction to Aristotle's logic, served as a textbook throughout the Middle Ages."
+  },
+  "birth": 234,
+  "death": 305,
+  "datesApprox": true,
+  "nationality": {
+    "fr": "Grec",
+    "en": "Greek"
+  },
+  "language": "grc",
+  "movements": [
+    "neoplatonism"
+  ],
+  "updatedAt": "2026-10-30T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "voluntarism",
+  "term": {
+    "fr": "Volontarisme (théologique et moral)",
+    "en": "Voluntarism (theological and moral)"
+  },
+  "definition": {
+    "fr": "Doctrine qui donne, en Dieu, le primat à la <c>volonté</c> sur l'<c>intellect</c> ; elle a souvent pour pendant un primat de la volonté dans l'homme. Le contraste avec l'intellectualisme est schématique : pour <ph id='aquinas'>Thomas d'Aquin</ph>, Dieu veut selon sa sagesse et sa bonté, sans dépendre d'une norme extérieure à lui ; pour <ph id='ockham'>Ockham</ph>, l'obligation morale tient au commandement divin, que Dieu aurait pu donner autrement, sans que ce choix soit pour autant un caprice.",
+    "en": "A doctrine that gives the <c>will</c> primacy over the <c>intellect</c> in God; it often has as its counterpart a primacy of the will in human beings. The contrast with intellectualism is schematic: for <ph id='aquinas'>Thomas Aquinas</ph>, God wills in accordance with his wisdom and goodness, without depending on any standard outside himself; for <ph id='ockham'>Ockham</ph>, moral obligation rests on divine command, which God could have given otherwise, though this choice is not mere caprice."
+  },
+  "relatedAxes": [
+    "MORAL_SOURCE"
+  ],
+  "relatedTerms": [
+    "natural-law",
+    "eternal-law"
+  ],
+  "updatedAt": "2026-10-30T00:00:00.000Z"
+}

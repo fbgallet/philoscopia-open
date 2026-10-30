@@ -1,0 +1,36 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "saussure",
+  "stub": true,
+  "name": {
+    "fr": "Saussure",
+    "en": "Saussure"
+  },
+  "aliases": {
+    "fr": [
+      "Ferdinand de Saussure",
+      "saussurien",
+      "saussurienne"
+    ],
+    "en": [
+      "Ferdinand de Saussure",
+      "Saussurean"
+    ]
+  },
+  "summary": {
+    "fr": "Linguiste suisse dont le <w>Cours de linguistique générale</w>, publié après sa mort par ses élèves, fonde la linguistique moderne : la langue est un système où chaque signe vaut par ses différences avec les autres.",
+    "en": "Swiss linguist whose <w>Course in General Linguistics</w>, published posthumously by his students, founded modern linguistics: language is a system in which each sign is defined by its differences from the others."
+  },
+  "birth": 1857,
+  "death": 1913,
+  "nationality": {
+    "fr": "Suisse",
+    "en": "Swiss"
+  },
+  "language": "fra",
+  "movements": [],
+  "updatedAt": "2026-10-30T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

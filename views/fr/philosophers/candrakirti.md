@@ -8,6 +8,10 @@ Commentateur de [Nāgārjuna](../philosophers/nagarjuna.md), référence de la l
 
 > Profil embryonnaire : seule cette mini-fiche existe pour l'instant, les positions sourcées sur les axes restent à rédiger. Contributions bienvenues.
 
+## Influencé par
+
+- **[Yogācāra](../movements/yogacara.md)** (réagit contre) : Dans le Madhyamakāvatāra, [Candrakīrti](../philosophers/candrakirti.md) réfute longuement la thèse du [Yogācāra](../movements/yogacara.md) : si l'on nie l'objet extérieur, on doit nier aussi une conscience qui existerait par elle-même. Ce débat fixe, au Tibet, la hiérarchie des écoles.
+
 ---
 
 *Généré depuis le corpus JSON de `data/`. Ne pas éditer à la main, voir [CONTRIBUTING](../../../CONTRIBUTING.md).*

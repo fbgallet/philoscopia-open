@@ -1,0 +1,25 @@
+{
+  "id": "empiricism-to-logical-positivism",
+  "from": {
+    "kind": "MOVEMENT",
+    "slug": "empiricism"
+  },
+  "to": {
+    "kind": "MOVEMENT",
+    "slug": "logical-positivism"
+  },
+  "directness": "ATTESTED",
+  "mode": "CONTINUES",
+  "strength": "STRONG",
+  "note": {
+    "fr": "Le manifeste de 1929 range <ph id='hume'>Hume</ph> parmi les ancêtres revendiqués : ce qui passe est la thèse que tout savoir sur le monde vient de l'expérience. <dif>Le Cercle y ajoute ce que l'empirisme classique n'avait pas</dif> : une logique assez puissante pour rendre compte des mathématiques sans faire appel à un savoir a priori sur le monde.",
+    "en": "The 1929 manifesto counts <ph id='hume'>Hume</ph> among its avowed ancestors: what passes on is the thesis that all knowledge of the world comes from experience. <dif>The Circle adds what classical empiricism lacked</dif>: a logic powerful enough to account for mathematics without appealing to a priori knowledge of the world."
+  },
+  "sources": [
+    {
+      "fr": "Hahn, Neurath, Carnap, La Conception scientifique du monde (1929), § 1",
+      "en": "Hahn, Neurath, Carnap, The Scientific Conception of the World (1929), § 1"
+    }
+  ],
+  "updatedAt": "2026-10-30T00:00:00.000Z"
+}

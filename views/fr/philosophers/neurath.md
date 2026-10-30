@@ -2,7 +2,7 @@
 
 # Otto Neurath
 
-*1882 – 1945 · Autrichien · [Philosophie analytique](../movements/analytic-philosophy.md)*
+*1882 – 1945 · Autrichien · [Positivisme logique](../movements/logical-positivism.md)*
 
 Philosophe et économiste autrichien du Cercle de Vienne : son image du bateau qu'on répare en pleine mer (1932) est devenue l'emblème du cohérentisme.
 

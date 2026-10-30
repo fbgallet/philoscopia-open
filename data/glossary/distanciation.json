@@ -1,0 +1,26 @@
+{
+  "id": "distanciation",
+  "term": {
+    "fr": "Distanciation",
+    "en": "Distanciation"
+  },
+  "definition": {
+    "fr": "Chez <ph id='ricoeur'>Ricœur</ph>, l'autonomie que prend le texte une fois écrit, par rapport à l'intention de son auteur, à sa situation et à son premier public. Loin d'être un obstacle, elle rend possible l'explication du texte et son appropriation par d'autres lecteurs.",
+    "en": "In <ph id='ricoeur'>Ricœur</ph>, the autonomy a text acquires once written, with respect to its author's intention, situation and first audience. Far from being an obstacle, it makes possible both the explanation of the text and its appropriation by other readers."
+  },
+  "relatedAxes": [
+    "MEANING"
+  ],
+  "relatedTerms": [
+    "narrative-identity",
+    "fusion-of-horizons"
+  ],
+  "figure": {
+    "slug": "ricoeur",
+    "name": {
+      "fr": "Ricœur",
+      "en": "Ricœur"
+    }
+  },
+  "updatedAt": "2026-10-30T00:00:00.000Z"
+}

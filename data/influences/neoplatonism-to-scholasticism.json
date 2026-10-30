@@ -1,0 +1,25 @@
+{
+  "id": "neoplatonism-to-scholasticism",
+  "from": {
+    "kind": "MOVEMENT",
+    "slug": "neoplatonism"
+  },
+  "to": {
+    "kind": "MOVEMENT",
+    "slug": "scholasticism"
+  },
+  "directness": "INDIRECT",
+  "mode": "TRANSMITS",
+  "strength": "STRONG",
+  "note": {
+    "fr": "Le <mv id='neoplatonism'>néoplatonisme</mv> atteint la <mv id='scholasticism'>scolastique</mv> par des textes qui en masquent l'origine : le Pseudo-Denys, lu comme un disciple de saint Paul, et le <i>Liber de causis</i>, attribué à Aristote, que <ph id='aquinas'>Thomas d'Aquin</ph> fut l'un des premiers à reconnaître comme un extrait de <ph id='proclus'>Proclus</ph>.",
+    "en": "<mv id='neoplatonism'>Neoplatonism</mv> reached <mv id='scholasticism'>scholasticism</mv> through texts that concealed their origin: Pseudo-Dionysius, read as a disciple of Saint Paul, and the <i>Liber de causis</i>, ascribed to Aristotle, which <ph id='aquinas'>Thomas Aquinas</ph> was among the first to recognize as drawn from <ph id='proclus'>Proclus</ph>."
+  },
+  "sources": [
+    {
+      "fr": "Thomas d'Aquin, Commentaire sur le Livre des causes, prologue",
+      "en": "Thomas Aquinas, Commentary on the Book of Causes, prologue"
+    }
+  ],
+  "updatedAt": "2026-10-30T00:00:00.000Z"
+}

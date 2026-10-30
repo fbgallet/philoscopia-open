@@ -1,0 +1,35 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "levi-strauss",
+  "stub": true,
+  "name": {
+    "fr": "Lévi-Strauss",
+    "en": "Lévi-Strauss"
+  },
+  "aliases": {
+    "fr": [
+      "Claude Lévi-Strauss"
+    ],
+    "en": [
+      "Claude Lévi-Strauss"
+    ]
+  },
+  "summary": {
+    "fr": "Anthropologue et philosophe de formation, fondateur de l'anthropologie structurale : il étudie la parenté et les mythes comme des systèmes de relations, à la manière de la linguistique.",
+    "en": "Anthropologist trained in philosophy, founder of structural anthropology: he studies kinship and myths as systems of relations, on the model of linguistics."
+  },
+  "birth": 1908,
+  "death": 2009,
+  "nationality": {
+    "fr": "Français",
+    "en": "French"
+  },
+  "language": "fra",
+  "movements": [
+    "structuralism"
+  ],
+  "updatedAt": "2026-10-30T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

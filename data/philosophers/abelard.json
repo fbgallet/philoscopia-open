@@ -1,0 +1,35 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "abelard",
+  "stub": true,
+  "name": {
+    "fr": "Abélard",
+    "en": "Abelard"
+  },
+  "aliases": {
+    "fr": [
+      "Pierre Abélard"
+    ],
+    "en": [
+      "Peter Abelard"
+    ]
+  },
+  "summary": {
+    "fr": "Logicien et théologien français, maître des écoles de Paris : son <w>Sic et non</w> confronte les autorités contradictoires et fixe la méthode de la <mv id='scholasticism'>scolastique</mv> ; sa correspondance avec Héloïse est restée célèbre.",
+    "en": "French logician and theologian, a master in the schools of Paris: his <w>Sic et non</w> sets contradictory authorities side by side and fixed the method of <mv id='scholasticism'>scholasticism</mv>; his correspondence with Heloise remains famous."
+  },
+  "birth": 1079,
+  "death": 1142,
+  "nationality": {
+    "fr": "Français",
+    "en": "French"
+  },
+  "language": "lat",
+  "movements": [
+    "scholasticism"
+  ],
+  "updatedAt": "2026-10-30T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

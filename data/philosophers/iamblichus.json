@@ -1,0 +1,28 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "iamblichus",
+  "stub": true,
+  "name": {
+    "fr": "Jamblique",
+    "en": "Iamblichus"
+  },
+  "summary": {
+    "fr": "Philosophe syrien de langue grecque, élève de Porphyre, qui fit entrer la théurgie dans le <mv id='neoplatonism'>néoplatonisme</mv> : selon lui, la raison seule ne peut unir l'âme aux dieux, il y faut aussi des rites.",
+    "en": "Greek-speaking Syrian philosopher, a pupil of Porphyry, who brought theurgy into <mv id='neoplatonism'>Neoplatonism</mv>: in his view, reason alone cannot unite the soul with the gods, rites are needed as well."
+  },
+  "birth": 245,
+  "death": 325,
+  "datesApprox": true,
+  "nationality": {
+    "fr": "Syrien",
+    "en": "Syrian"
+  },
+  "language": "grc",
+  "movements": [
+    "neoplatonism"
+  ],
+  "updatedAt": "2026-10-30T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

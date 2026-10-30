@@ -1,0 +1,27 @@
+{
+  "id": "critical-theory",
+  "term": {
+    "fr": "Théorie critique",
+    "en": "Critical theory"
+  },
+  "definition": {
+    "fr": "Programme défini par <ph id='horkheimer'>Horkheimer</ph> en 1937 : une théorie de la société qui se sait partie prenante de ce qu'elle étudie et qui vise l'émancipation, contre la théorie « traditionnelle », qui se croit neutre. Le nom désigne depuis la tradition de l'<mv id='frankfurt-school'>école de Francfort</mv>.",
+    "en": "The programme set out by <ph id='horkheimer'>Horkheimer</ph> in 1937: a theory of society that knows itself to be part of what it studies and aims at emancipation, against \"traditional\" theory, which believes itself neutral. The name has since designated the tradition of the <mv id='frankfurt-school'>Frankfurt School</mv>."
+  },
+  "relatedAxes": [
+    "METAPHILOSOPHY",
+    "SCIENCE_PLACE"
+  ],
+  "relatedTerms": [
+    "raison-instrumentale",
+    "communicative-reason"
+  ],
+  "figure": {
+    "slug": "horkheimer",
+    "name": {
+      "fr": "Horkheimer",
+      "en": "Horkheimer"
+    }
+  },
+  "updatedAt": "2026-10-30T00:00:00.000Z"
+}

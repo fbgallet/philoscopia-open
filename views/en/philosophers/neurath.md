@@ -2,7 +2,7 @@
 
 # Otto Neurath
 
-*1882 – 1945 · Austrian · [Analytic Philosophy](../movements/analytic-philosophy.md)*
+*1882 – 1945 · Austrian · [Logical positivism](../movements/logical-positivism.md)*
 
 Austrian philosopher and economist of the Vienna Circle: his image of the ship repaired at sea (1932) became the emblem of coherentism.
 

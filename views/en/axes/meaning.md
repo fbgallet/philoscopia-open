@@ -30,7 +30,7 @@ Meaning lies in what the speaker seeks to get recognised: to communicate is to g
 
 - Grice targets first the speaker's meaning in an utterance; the conventional meaning of words is taken to derive from it.
 
-*Grice*
+*[Grice](../philosophers/grice.md)*
 
 ## Quotations
 

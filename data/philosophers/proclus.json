@@ -1,0 +1,32 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "proclus",
+  "stub": true,
+  "name": {
+    "fr": "Proclus",
+    "en": "Proclus"
+  },
+  "aliases": {
+    "en": [
+      "Proclean"
+    ]
+  },
+  "summary": {
+    "fr": "Philosophe grec, chef de l'école néoplatonicienne d'Athènes, qui donna au <mv id='neoplatonism'>néoplatonisme</mv> sa forme la plus systématique dans les <w>Éléments de théologie</w> et la <w>Théologie platonicienne</w>.",
+    "en": "Greek philosopher, head of the Neoplatonic school of Athens, who gave <mv id='neoplatonism'>Neoplatonism</mv> its most systematic form in the <w>Elements of Theology</w> and the <w>Platonic Theology</w>."
+  },
+  "birth": 412,
+  "death": 485,
+  "nationality": {
+    "fr": "Grec",
+    "en": "Greek"
+  },
+  "language": "grc",
+  "movements": [
+    "neoplatonism"
+  ],
+  "updatedAt": "2026-10-30T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

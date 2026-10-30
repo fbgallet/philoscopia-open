@@ -1,0 +1,27 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "simmel",
+  "stub": true,
+  "name": {
+    "fr": "Simmel",
+    "en": "Simmel"
+  },
+  "summary": {
+    "fr": "Philosophe et sociologue allemand, penseur de la vie moderne (la grande ville, l'argent) et d'une philosophie de la vie qui ne cesse de produire des formes et de les dépasser.",
+    "en": "German philosopher and sociologist, a thinker of modern life (the big city, money) and of a philosophy of life that keeps producing forms and going beyond them."
+  },
+  "birth": 1858,
+  "death": 1918,
+  "nationality": {
+    "fr": "Allemand",
+    "en": "German"
+  },
+  "language": "deu",
+  "movements": [
+    "life-philosophy"
+  ],
+  "updatedAt": "2026-10-30T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

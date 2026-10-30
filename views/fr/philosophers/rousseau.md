@@ -313,6 +313,7 @@ Ce n'est pas la vérité qui corrompt, c'est la présomption : on ne s'égare po
 
 - **[Kant](../philosophers/kant.md)** (prolonge) : [Kant](../philosophers/kant.md) reconnaît devoir à [Rousseau](../philosophers/rousseau.md) d'avoir appris à honorer l'homme : il reprend la dignité de la personne et l'autonomie morale, déplaçant le centre de la philosophie de la connaissance vers la liberté pratique.
 - **[Le romantisme](../movements/romanticism.md)** (prolonge) : [Le romantisme](../movements/romanticism.md) reconnaît en [Rousseau](../philosophers/rousseau.md) son précurseur : il reprend et radicalise sa réhabilitation du sentiment contre la raison, son culte de la nature et de l'authenticité du moi, et sa critique de la civilisation. Les Confessions et les Rêveries inaugurent l'exploration romantique de l'intériorité, et la « religion du cœur » du vicaire savoyard annonce le sentiment religieux des romantiques.
+- **[Wollstonecraft](../philosophers/wollstonecraft.md)** (réagit contre) : Dans la *[Défense des droits de la femme](../works/vindication-of-the-rights-of-woman-wollstonecraft.md)*, [Wollstonecraft](../philosophers/wollstonecraft.md) admire le [Rousseau](../philosophers/rousseau.md) de l'Émile mais retourne ses principes contre le livre V : Sophie, élevée pour plaire à Émile, est privée de la raison qu'on cultive chez lui.
 
 ---
 

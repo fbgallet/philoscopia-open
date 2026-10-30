@@ -313,6 +313,7 @@ It is not truth that corrupts but presumption: we go astray not through what we 
 
 - **[Kant](../philosophers/kant.md)** (continues) : [Kant](../philosophers/kant.md) acknowledges owing to [Rousseau](../philosophers/rousseau.md) that he learned to honour mankind: he takes up the dignity of the person and moral autonomy, shifting the centre of philosophy from knowledge toward practical freedom.
 - **[Romanticism](../movements/romanticism.md)** (continues) : [Romanticism](../movements/romanticism.md) recognizes [Rousseau](../philosophers/rousseau.md) as its precursor: it takes up and radicalizes his rehabilitation of feeling against reason, his cult of nature and of the authenticity of the self, and his critique of civilization. The Confessions and the Reveries inaugurate the Romantic exploration of inwardness, and the « religion of the heart » of the Savoyard vicar heralds the religious feeling of the Romantics.
+- **[Wollstonecraft](../philosophers/wollstonecraft.md)** (reacts against) : In *[A Vindication of the Rights of Woman](../works/vindication-of-the-rights-of-woman-wollstonecraft.md)*, [Wollstonecraft](../philosophers/wollstonecraft.md) admires the [Rousseau](../philosophers/rousseau.md) of Emile but turns his principles against Book V: Sophie, brought up to please Emile, is deprived of the reason cultivated in him.
 
 ---
 

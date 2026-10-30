@@ -1,0 +1,29 @@
+{
+  "id": "foucault-to-butler",
+  "from": {
+    "kind": "PHILOSOPHER",
+    "slug": "foucault"
+  },
+  "to": {
+    "kind": "PHILOSOPHER",
+    "slug": "butler"
+  },
+  "directness": "ATTESTED",
+  "mode": "REINTERPRETS",
+  "strength": "STRONG",
+  "note": {
+    "fr": "<ph id='butler'>Butler</ph> applique au genre l'analyse de <ph id='foucault'>Foucault</ph> : le pouvoir ne se contente pas de réprimer des identités données, il les produit. Le sexe lui-même, loin d'être une base naturelle, devient un effet des normes qui prétendent seulement le décrire.",
+    "en": "<ph id='butler'>Butler</ph> applies <ph id='foucault'>Foucault</ph>'s analysis to gender: power does not merely repress given identities, it produces them. Sex itself, far from being a natural basis, becomes an effect of the norms that claim only to describe it."
+  },
+  "sources": [
+    {
+      "fr": "Butler, Trouble dans le genre (1990), ch. I et III",
+      "en": "Butler, Gender Trouble (1990), ch. I and III"
+    },
+    {
+      "fr": "Foucault, La Volonté de savoir (1976)",
+      "en": "Foucault, The Will to Knowledge (1976)"
+    }
+  ],
+  "updatedAt": "2026-10-30T00:00:00.000Z"
+}

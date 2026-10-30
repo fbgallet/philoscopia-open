@@ -1,0 +1,27 @@
+{
+  "id": "shikantaza",
+  "term": {
+    "fr": "Shikantaza (« seulement s'asseoir »)",
+    "en": "Shikantaza (\"just sitting\")"
+  },
+  "definition": {
+    "fr": "L'assise prônée par <ph id='dogen'>Dōgen</ph> : s'asseoir sans objet de méditation ni but à atteindre, en laissant venir et passer les pensées. Pour lui, cette assise n'est pas un moyen d'obtenir l'éveil, elle en est l'expression.",
+    "en": "The sitting advocated by <ph id='dogen'>Dōgen</ph>: sitting with no object of meditation and no goal to reach, letting thoughts come and go. For him, this sitting is not a means of obtaining awakening but its expression."
+  },
+  "relatedAxes": [
+    "ATTENTION",
+    "METAPHILOSOPHY"
+  ],
+  "relatedTerms": [
+    "koan",
+    "buddha-nature"
+  ],
+  "figure": {
+    "slug": "dogen",
+    "name": {
+      "fr": "Dōgen",
+      "en": "Dōgen"
+    }
+  },
+  "updatedAt": "2026-10-30T00:00:00.000Z"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "aristotelianism-to-neoplatonism",
+  "from": {
+    "kind": "MOVEMENT",
+    "slug": "aristotelianism"
+  },
+  "to": {
+    "kind": "MOVEMENT",
+    "slug": "neoplatonism"
+  },
+  "directness": "ATTESTED",
+  "mode": "SYNTHESIZES",
+  "strength": "STRONG",
+  "note": {
+    "fr": "Les <mv id='neoplatonism'>néoplatoniciens</mv> intègrent la logique et la physique d'<ph id='aristotle'>Aristote</ph> dans un cursus qui mène à Platon, en tenant les deux maîtres pour accordés. L'<w>Isagogè</w> de <ph id='porphyry'>Porphyre</ph> et ses commentaires des <w>Catégories</w> en sont la pièce maîtresse.",
+    "en": "The <mv id='neoplatonism'>Neoplatonists</mv> built <ph id='aristotle'>Aristotle</ph>'s logic and physics into a curriculum leading to Plato, holding the two masters to be in agreement. <ph id='porphyry'>Porphyry</ph>'s <w>Isagoge</w> and his commentaries on the <w>Categories</w> are the centrepiece of this synthesis."
+  },
+  "sources": [
+    {
+      "fr": "Porphyre, Isagogè",
+      "en": "Porphyry, Isagoge"
+    },
+    {
+      "fr": "Simplicius, Commentaire sur les Catégories, prologue",
+      "en": "Simplicius, Commentary on the Categories, prologue"
+    }
+  ],
+  "updatedAt": "2026-10-30T00:00:00.000Z"
+}

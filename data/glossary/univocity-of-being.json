@@ -1,0 +1,35 @@
+{
+  "id": "univocity-of-being",
+  "term": {
+    "fr": "Univocité de l'être",
+    "en": "Univocity of being"
+  },
+  "aliases": {
+    "fr": [
+      "univocité"
+    ],
+    "en": [
+      "univocity"
+    ]
+  },
+  "definition": {
+    "fr": "Thèse de <ph id='duns-scotus'>Duns Scot</ph> : le concept d'être se dit au même sens de Dieu et des créatures. Sans ce concept commun, on ne pourrait rien connaître de Dieu par la raison. Elle s'oppose à l'<c id='analogy-of-being'>analogie</c> thomiste.",
+    "en": "<ph id='duns-scotus'>Duns Scotus</ph>'s thesis that the concept of being is said in the same sense of God and of creatures. Without this common concept, nothing could be known of God by reason. It stands against Thomist <c id='analogy-of-being'>analogy</c>."
+  },
+  "relatedAxes": [
+    "TRANSCENDENCE",
+    "GOD_EXISTENCE"
+  ],
+  "relatedTerms": [
+    "analogy-of-being",
+    "scholasticism"
+  ],
+  "figure": {
+    "slug": "duns-scotus",
+    "name": {
+      "fr": "Duns Scot",
+      "en": "Duns Scotus"
+    }
+  },
+  "updatedAt": "2026-10-30T00:00:00.000Z"
+}

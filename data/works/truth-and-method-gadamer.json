@@ -1,0 +1,21 @@
+{
+  "id": "truth-and-method-gadamer",
+  "title": {
+    "fr": "Vérité et méthode",
+    "en": "Truth and Method"
+  },
+  "originalTitle": "Wahrheit und Methode",
+  "author": {
+    "slug": "gadamer",
+    "name": {
+      "fr": "Gadamer",
+      "en": "Gadamer"
+    }
+  },
+  "year": 1960,
+  "presentation": {
+    "fr": "Œuvre maîtresse de <ph id='gadamer'>Gadamer</ph>, qui fonde l'<mv id='hermeneutics'>herméneutique philosophique</mv> : à partir de l'art, de l'histoire et du langage, elle montre que comprendre est un événement de la tradition plutôt que l'application d'une méthode.",
+    "en": "<ph id='gadamer'>Gadamer</ph>'s major work, which founded <mv id='hermeneutics'>philosophical hermeneutics</mv>: starting from art, history and language, it shows that understanding is an event of tradition rather than the application of a method."
+  },
+  "updatedAt": "2026-10-30T00:00:00.000Z"
+}

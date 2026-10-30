@@ -1,0 +1,36 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "lacan",
+  "stub": true,
+  "name": {
+    "fr": "Lacan",
+    "en": "Lacan"
+  },
+  "aliases": {
+    "fr": [
+      "lacanien",
+      "lacanienne"
+    ],
+    "en": [
+      "Lacanian"
+    ]
+  },
+  "summary": {
+    "fr": "Psychanalyste français qui relit <ph id='freud'>Freud</ph> à la lumière de la linguistique structurale : pour lui, l'inconscient est structuré comme un langage.",
+    "en": "French psychoanalyst who rereads <ph id='freud'>Freud</ph> in the light of structural linguistics: for him, the unconscious is structured like a language."
+  },
+  "birth": 1901,
+  "death": 1981,
+  "nationality": {
+    "fr": "Français",
+    "en": "French"
+  },
+  "language": "fra",
+  "movements": [
+    "structuralism"
+  ],
+  "updatedAt": "2026-10-30T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

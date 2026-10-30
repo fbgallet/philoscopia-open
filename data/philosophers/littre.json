@@ -1,0 +1,35 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "littre",
+  "stub": true,
+  "name": {
+    "fr": "Littré",
+    "en": "Littré"
+  },
+  "aliases": {
+    "fr": [
+      "Émile Littré"
+    ],
+    "en": [
+      "Émile Littré"
+    ]
+  },
+  "summary": {
+    "fr": "Lexicographe et philosophe français, auteur du grand <w>Dictionnaire de la langue française</w> : il popularisa le <mv id='positivism'>positivisme</mv> de Comte, mais en rejeta la religion de l'Humanité.",
+    "en": "French lexicographer and philosopher, author of the great <w>Dictionnaire de la langue française</w>: he popularized Comte's <mv id='positivism'>positivism</mv> but rejected its religion of Humanity."
+  },
+  "birth": 1801,
+  "death": 1881,
+  "nationality": {
+    "fr": "Français",
+    "en": "French"
+  },
+  "language": "fra",
+  "movements": [
+    "positivism"
+  ],
+  "updatedAt": "2026-10-30T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

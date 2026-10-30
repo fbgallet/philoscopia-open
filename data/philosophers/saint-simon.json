@@ -1,0 +1,36 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "saint-simon",
+  "stub": true,
+  "name": {
+    "fr": "Saint-Simon",
+    "en": "Saint-Simon"
+  },
+  "aliases": {
+    "fr": [
+      "saint-simonien",
+      "saint-simonienne",
+      "saint-simonisme"
+    ],
+    "en": [
+      "Saint-Simonian",
+      "Saint-Simonianism"
+    ]
+  },
+  "summary": {
+    "fr": "Penseur social français, théoricien d'une société industrielle gouvernée par les savants et les producteurs ; le jeune <ph id='comte'>Comte</ph> fut son secrétaire avant de rompre avec lui.",
+    "en": "French social thinker, theorist of an industrial society governed by scientists and producers; the young <ph id='comte'>Comte</ph> was his secretary before breaking with him."
+  },
+  "birth": 1760,
+  "death": 1825,
+  "nationality": {
+    "fr": "Français",
+    "en": "French"
+  },
+  "language": "fra",
+  "movements": [],
+  "updatedAt": "2026-10-30T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

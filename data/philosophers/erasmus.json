@@ -1,0 +1,36 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "erasmus",
+  "stub": true,
+  "name": {
+    "fr": "Érasme",
+    "en": "Erasmus"
+  },
+  "aliases": {
+    "fr": [
+      "Érasme de Rotterdam"
+    ],
+    "en": [
+      "Erasmus of Rotterdam"
+    ]
+  },
+  "summary": {
+    "fr": "Humaniste néerlandais, éditeur du Nouveau Testament grec et auteur de l'<w>Éloge de la folie</w> : il défend une « philosophie du Christ » fondée sur le retour aux sources et le libre arbitre, contre Luther.",
+    "en": "Dutch humanist, editor of the Greek New Testament and author of <w>The Praise of Folly</w>: he defends a \"philosophy of Christ\" founded on the return to sources and on free will, against Luther."
+  },
+  "birth": 1466,
+  "death": 1536,
+  "datesApprox": true,
+  "nationality": {
+    "fr": "Néerlandais",
+    "en": "Dutch"
+  },
+  "language": "lat",
+  "movements": [
+    "renaissance-humanism"
+  ],
+  "updatedAt": "2026-10-30T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

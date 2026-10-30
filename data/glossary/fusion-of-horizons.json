@@ -1,0 +1,28 @@
+{
+  "id": "fusion-of-horizons",
+  "term": {
+    "fr": "Fusion des horizons",
+    "en": "Fusion of horizons"
+  },
+  "definition": {
+    "fr": "Chez <ph id='gadamer'>Gadamer</ph>, ce qui se produit quand on comprend un texte ou une époque : l'horizon du présent s'élargit en intégrant celui du passé, en un horizon unique et plus large, où ni le présent ni le passé ne s'impose seul.",
+    "en": "In <ph id='gadamer'>Gadamer</ph>, what happens when one understands a text or an era: the horizon of the present widens by taking in that of the past, into a single, wider horizon in which neither present nor past simply prevails."
+  },
+  "relatedAxes": [
+    "TIME_ORIENTATION",
+    "PAST_RELATION",
+    "MEANING"
+  ],
+  "relatedTerms": [
+    "prejudice",
+    "effective-history"
+  ],
+  "figure": {
+    "slug": "gadamer",
+    "name": {
+      "fr": "Gadamer",
+      "en": "Gadamer"
+    }
+  },
+  "updatedAt": "2026-10-30T00:00:00.000Z"
+}

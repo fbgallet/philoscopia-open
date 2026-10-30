@@ -1,0 +1,25 @@
+{
+  "id": "incest-prohibition",
+  "term": {
+    "fr": "Prohibition de l'inceste",
+    "en": "Incest prohibition"
+  },
+  "aliases": {
+    "fr": [
+      "interdit de l'inceste"
+    ],
+    "en": [
+      "incest taboo"
+    ]
+  },
+  "definition": {
+    "fr": "Interdit qui proscrit les relations sexuelles et le mariage entre certains proches ; toutes les sociétés connues en ont un, mais elles diffèrent sur les liens de parenté qu'il couvre. Pour <ph id='levi-strauss'>Lévi-Strauss</ph>, c'est l'envers d'une règle positive : renoncer aux femmes de son groupe oblige à les échanger avec d'autres, et ces alliances matrimoniales créent la réciprocité entre groupes. Dans sa théorie, l'interdit marque ainsi le passage de la <c>nature</c> à la <c>culture</c>.",
+    "en": "A prohibition forbidding sexual relations and marriage between certain relatives; every known society has one, but they differ in which kinship ties it covers. For <ph id='levi-strauss'>Lévi-Strauss</ph>, it is the reverse side of a positive rule: giving up the women of one's own group obliges one to exchange them with others, and these marriage alliances create reciprocity between groups. In his theory, the prohibition thus marks the passage from <c>nature</c> to <c>culture</c>."
+  },
+  "relatedAxes": [
+    "HUMAN_NATURE",
+    "INDIVIDUAL_SOCIETY"
+  ],
+  "relatedTerms": [],
+  "updatedAt": "2026-10-30T00:00:00.000Z"
+}

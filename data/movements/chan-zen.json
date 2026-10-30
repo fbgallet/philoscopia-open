@@ -1,0 +1,130 @@
+{
+  "kind": "MOVEMENT",
+  "id": "chan-zen",
+  "name": {
+    "fr": "Chan / Zen",
+    "en": "Chan / Zen"
+  },
+  "tagline": {
+    "fr": "Chercher l'éveil dans une réalisation que l'étude des doctrines ne suffit pas à donner, au cœur de la pratique et de l'ordinaire de chaque instant.",
+    "en": "Seeking awakening in a realization that doctrinal study alone cannot give, in practice itself and in the ordinariness of each moment."
+  },
+  "aliases": {
+    "fr": [
+      "bouddhisme zen",
+      "bouddhisme chan",
+      "école chan"
+    ],
+    "en": [
+      "Zen Buddhism",
+      "Chan Buddhism"
+    ]
+  },
+  "summary": {
+    "fr": "École du <mv id='buddhism'>bouddhisme</mv> née en Chine, qui fait remonter sa lignée à <ph>Bodhidharma</ph>, figure en grande partie légendaire dont la tradition place l'arrivée en Chine vers 520. Le <w id='platform-sutra-huineng'>Sūtra de l'Estrade</w>, attribué à <ph id='huineng'>Huineng</ph>, y défend un <c id='sudden-awakening'>éveil subit</c> contre une voie graduelle, opposition largement construite par la polémique interne au Chan. <ph id='linji'>Linji</ph> au IXe siècle enseigne par les cris et les paradoxes ; c'est sous les Song que se constituent les recueils de cas et la méthode des <c id='koan'>kōan</c>. Au Japon, l'école prend le nom de Zen : <ph id='dogen'>Dōgen</ph> y fonde le Sōtō, issu du Caodong chinois, qui met l'accent sur le <c id='shikantaza'>shikantaza</c> (« seulement s'asseoir »), une assise qui n'est pas un moyen en vue d'autre chose mais une discipline d'attention, et <ph id='hakuin'>Hakuin</ph> renouvelle au XVIIIe siècle la pratique du kōan dans le Rinzai. Ce sont des accents pédagogiques, non des pratiques exclusives : Dōgen commente des kōan, et le Rinzai pratique l'assise. La période retenue s'arrête à Hakuin par choix éditorial ; la tradition vivante s'est encore transformée depuis, au Japon puis en Occident. <dif>La formule qui définit l'école, « une transmission hors des Écritures, qui ne repose pas sur les mots », est une construction de l'époque Song, et le Chan a produit une immense littérature.</dif> Le Zen a nourri l'<mv id='kyoto-school'>école de Kyoto</mv>.",
+    "en": "A school of <mv id='buddhism'>Buddhism</mv> born in China, which traces its lineage back to <ph>Bodhidharma</ph>, a largely legendary figure whose arrival in China tradition places around 520. The <w id='platform-sutra-huineng'>Platform Sutra</w>, attributed to <ph id='huineng'>Huineng</ph>, defends a <c id='sudden-awakening'>sudden awakening</c> against a gradual path, an opposition largely built by polemics within Chan. <ph id='linji'>Linji</ph> taught in the ninth century through shouts and paradoxes; it was under the Song that the case collections and the <c id='koan'>kōan</c> method took shape. In Japan the school took the name Zen: <ph id='dogen'>Dōgen</ph> founded Sōtō there, derived from Chinese Caodong and which emphasizes <c id='shikantaza'>shikantaza</c> (\"just sitting\"), a sitting that is not a means to something else but a discipline of attention, and <ph id='hakuin'>Hakuin</ph> renewed kōan practice in Rinzai in the eighteenth century. These are pedagogical emphases, not exclusive practices: Dōgen comments on kōans, and Rinzai practises seated meditation. The period covered stops at Hakuin as an editorial choice; the living tradition has kept changing since, in Japan and then in the West. <dif>The formula that defines the school, \"a special transmission outside the scriptures, not founded on words\", is a construction of the Song period, and Chan produced an immense literature.</dif> Zen nourished the <mv id='kyoto-school'>Kyoto School</mv>."
+  },
+  "area": "EAST_ASIA",
+  "parent": "buddhism",
+  "period": {
+    "from": 520,
+    "to": 1769,
+    "approx": true,
+    "afterlife": "LIVING"
+  },
+  "keyFigures": [
+    {
+      "slug": "huineng",
+      "name": {
+        "fr": "Huineng",
+        "en": "Huineng"
+      }
+    },
+    {
+      "slug": "linji",
+      "name": {
+        "fr": "Linji",
+        "en": "Linji"
+      }
+    },
+    {
+      "slug": "dogen",
+      "name": {
+        "fr": "Dōgen",
+        "en": "Dōgen"
+      }
+    },
+    {
+      "slug": "hakuin",
+      "name": {
+        "fr": "Hakuin",
+        "en": "Hakuin"
+      }
+    }
+  ],
+  "entries": [
+    {
+      "axisId": "METAPHILOSOPHY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0,
+          0,
+          1,
+          0
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Le but n'est pas d'adhérer à une doctrine mais de réaliser l'<c>éveil</c> qu'elle désigne, pour se libérer de la souffrance ; l'enseignement bouddhique reste le cadre, l'étude seule ne suffit pas. Pour <ph id='dogen'>Dōgen</ph>, <c>pratique et éveil ne font qu'un</c> : on ne s'assied pas comme un moyen en vue d'un éveil futur, l'assise authentique est déjà l'expression de l'éveil. <dif>Le Chan s'est raconté l'opposition de l'<c id='sudden-awakening'>éveil subit</c> et de la <c id='sudden-awakening'>voie graduelle</c> à propos de <ph id='huineng'>Huineng</ph>, mais les deux versants visent la même transformation de celui qui pratique.</dif>",
+          "en": "The aim is not to adhere to a doctrine but to realize the <c>awakening</c> it points to, in order to be freed from suffering; Buddhist teaching remains the framework, study alone is not enough. For <ph id='dogen'>Dōgen</ph>, <c>practice and awakening are one</c>: one does not sit as a means towards a future awakening, authentic sitting is already the expression of awakening. <dif>Chan told itself the story of an opposition between <c id='sudden-awakening'>sudden awakening</c> and the <c id='sudden-awakening'>gradual path</c> in connection with <ph id='huineng'>Huineng</ph>, but both sides aim at the same transformation of the one who practises.</dif>"
+        },
+        "references": [
+          {
+            "fr": "Sūtra de l'Estrade (version de Dunhuang)",
+            "en": "Platform Sutra (Dunhuang version)"
+          },
+          {
+            "fr": "Dōgen, Bendōwa (1231)",
+            "en": "Dōgen, Bendōwa (1231)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "TRANSCENDENCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.5
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "L'éveil n'est pas à chercher dans un autre monde : il se réalise ici, dans les gestes ordinaires, ce qui rapproche l'école de l'<c id='immanence'>immanence</c>. <ph id='linji'>Linji</ph> presse ses disciples de cesser de chercher au-dehors et d'être simplement ordinaires. <dif>Dōgen refuse de faire de la <c id='buddha-nature'>nature de Bouddha</c> une substance intérieure que chacun posséderait : il lit « tous les êtres sont nature de Bouddha » et identifie celle-ci à l'<c id='anicca'>impermanence</c> même. Cette <c>non-dualité</c> du quotidien et de l'éveil n'est pas la négation d'un au-delà, et le cadre bouddhique du <c>karma</c> et de la <c id='samsara'>renaissance</c> demeure : d'où une valeur modérée.</dif>",
+          "en": "Awakening is not to be sought in another world: it is realized here, in ordinary gestures, which brings the school close to <c id='immanence'>immanence</c>. <ph id='linji'>Linji</ph> urges his disciples to stop seeking outside themselves and simply to be ordinary. <dif>Dōgen refuses to make <c id='buddha-nature'>Buddha nature</c> an inner substance that everyone would possess: he reads \"all beings are Buddha nature\" and identifies it with <c id='anicca'>impermanence</c> itself. This <c>nonduality</c> of everyday life and awakening is not a denial of any beyond, and the Buddhist framework of <c>karma</c> and <c id='samsara'>rebirth</c> remains: hence a moderate value.</dif>"
+        },
+        "references": [
+          {
+            "fr": "Linji lu, « Instructions aux assemblées »",
+            "en": "Linji lu (Record of Linji), \"Discourses\""
+          },
+          {
+            "fr": "Dōgen, Shōbōgenzō, « Busshō » (1241)",
+            "en": "Dōgen, Shōbōgenzō, \"Busshō\" (1241)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    }
+  ],
+  "updatedAt": "2026-10-30T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

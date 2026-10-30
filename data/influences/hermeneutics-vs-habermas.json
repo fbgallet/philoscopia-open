@@ -1,0 +1,29 @@
+{
+  "id": "hermeneutics-vs-habermas",
+  "from": {
+    "kind": "MOVEMENT",
+    "slug": "hermeneutics"
+  },
+  "to": {
+    "kind": "PHILOSOPHER",
+    "slug": "habermas"
+  },
+  "directness": "ATTESTED",
+  "mode": "REACTS_AGAINST",
+  "strength": "STRONG",
+  "note": {
+    "fr": "Contre <ph id='gadamer'>Gadamer</ph>, <ph id='habermas'>Habermas</ph> soutient qu'une tradition peut transmettre une communication déformée par la domination ; il faut donc une critique des idéologies qui ne dépende pas d'elle. Le débat (1967-1971) conduit <ph id='ricoeur'>Ricœur</ph> à chercher une articulation entre les deux attitudes.",
+    "en": "Against <ph id='gadamer'>Gadamer</ph>, <ph id='habermas'>Habermas</ph> argues that a tradition can pass on communication distorted by domination; what is needed is therefore a critique of ideology that does not depend on tradition. The debate (1967-1971) led <ph id='ricoeur'>Ricœur</ph> to seek a way of articulating the two attitudes."
+  },
+  "sources": [
+    {
+      "fr": "Habermas, Logique des sciences sociales (1967)",
+      "en": "Habermas, On the Logic of the Social Sciences (1967)"
+    },
+    {
+      "fr": "Ricœur, « Herméneutique et critique des idéologies » (1973), dans Du texte à l'action",
+      "en": "Ricœur, \"Hermeneutics and the Critique of Ideology\" (1973), in From Text to Action"
+    }
+  ],
+  "updatedAt": "2026-10-30T00:00:00.000Z"
+}

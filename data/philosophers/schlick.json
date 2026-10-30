@@ -1,0 +1,27 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "schlick",
+  "stub": true,
+  "name": {
+    "fr": "Moritz Schlick",
+    "en": "Moritz Schlick"
+  },
+  "summary": {
+    "fr": "Physicien de formation et philosophe allemand, fondateur du Cercle de Vienne, dont il anime le séminaire à partir de 1924. Il voit dans la clarification du sens la tâche propre de la philosophie ; il est assassiné par un ancien étudiant en 1936.",
+    "en": "German philosopher trained as a physicist, founder of the Vienna Circle, whose seminar he led from 1924. He saw the clarification of meaning as philosophy's proper task; he was murdered by a former student in 1936."
+  },
+  "birth": 1882,
+  "death": 1936,
+  "nationality": {
+    "fr": "Allemand",
+    "en": "German"
+  },
+  "language": "deu",
+  "movements": [
+    "logical-positivism"
+  ],
+  "updatedAt": "2026-10-30T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

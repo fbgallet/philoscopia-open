@@ -1,0 +1,122 @@
+{
+  "kind": "MOVEMENT",
+  "id": "yogacara",
+  "name": {
+    "fr": "Yogācāra",
+    "en": "Yogācāra"
+  },
+  "tagline": {
+    "fr": "Faire de la conscience le lieu de l'illusion comme de la délivrance : ce que nous prenons pour des choses relève de la représentation.",
+    "en": "Making consciousness the seat of illusion and of liberation alike: what we take for things belongs to representation."
+  },
+  "aliases": {
+    "fr": [
+      "Cittamātra",
+      "Vijñānavāda",
+      "yogacara"
+    ],
+    "en": [
+      "Cittamātra",
+      "Vijñānavāda",
+      "Mind-Only",
+      "Yogacara"
+    ]
+  },
+  "summary": {
+    "fr": "École du bouddhisme mahāyāna dont <ph id='asanga'>Asaṅga</ph> et <ph id='vasubandhu'>Vasubandhu</ph>, en Inde vers les IVe et Ve siècles, sont les grands systématiseurs, à partir de sources plus anciennes comme le <w>Saṃdhinirmocana sūtra</w>. Son nom signifie « pratique du yoga », c'est-à-dire la discipline contemplative bouddhique, dont elle analyse l'expérience. Elle reprend la <c id='sunyata'>vacuité</c> enseignée par le <mv id='madhyamaka'>Madhyamaka</mv> et l'articule dans la doctrine des <c id='three-natures'>trois natures</c> : la nature imaginée (les choses telles que nous les projetons), la nature dépendante (le flux conditionné de la conscience) et la nature accomplie (la dépendante vidée de l'imaginaire). La délivrance consiste à défaire la dualité du sujet et de l'objet, non à faire de la conscience ordinaire une substance ultime. Les logiciens <ph>Dignāga</ph> et <ph>Dharmakīrti</ph>, souvent rattachés à l'école, renouvellent l'épistémologie indienne. En Chine, <ph>Paramārtha</ph> la transmet au VIe siècle, puis <ph>Xuanzang</ph> au VIIe, qui en fonde une école. <dif>Son « idéalisme » se lit de deux façons, comme une thèse métaphysique (rien n'existe hors de l'esprit) ou comme une analyse de l'expérience, et le débat divise encore les spécialistes.</dif> Elle reste étudiée dans les cursus tibétains.",
+    "en": "A school of Mahāyāna Buddhism whose great systematizers were <ph id='asanga'>Asaṅga</ph> and <ph id='vasubandhu'>Vasubandhu</ph>, in India around the fourth and fifth centuries, drawing on earlier sources such as the <w>Saṃdhinirmocana Sūtra</w>. Its name means \"practice of yoga\", that is, Buddhist contemplative discipline, whose experience it analyses. It takes up the <c id='sunyata'>emptiness</c> taught by <mv id='madhyamaka'>Madhyamaka</mv> and articulates it in the doctrine of the <c id='three-natures'>three natures</c>: the imagined nature (things as we project them), the dependent nature (the conditioned stream of consciousness) and the perfected nature (the dependent emptied of the imagined). Liberation consists in undoing the duality of subject and object, not in making ordinary consciousness an ultimate substance. The logicians <ph>Dignāga</ph> and <ph>Dharmakīrti</ph>, often associated with the school, renewed Indian epistemology. In China, <ph>Paramārtha</ph> transmitted it in the sixth century, then <ph>Xuanzang</ph> in the seventh, who founded a school of it. <dif>Its \"idealism\" can be read in two ways, as a metaphysical thesis (nothing exists outside the mind) or as an analysis of experience, and the debate still divides scholars.</dif> It is still studied in Tibetan curricula."
+  },
+  "area": "SOUTH_ASIA",
+  "parent": "buddhism",
+  "period": {
+    "from": 350,
+    "to": 700,
+    "approx": true,
+    "afterlife": "LIVING"
+  },
+  "keyFigures": [
+    {
+      "slug": "asanga",
+      "name": {
+        "fr": "Asaṅga",
+        "en": "Asaṅga"
+      }
+    },
+    {
+      "slug": "vasubandhu",
+      "name": {
+        "fr": "Vasubandhu",
+        "en": "Vasubandhu"
+      }
+    }
+  ],
+  "entries": [
+    {
+      "axisId": "REALITY_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0,
+          1,
+          0
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "<ph id='vasubandhu'>Vasubandhu</ph> part du rêve : on y voit des objets situés, durables, qui ont des effets, sans aucun objet extérieur. Rien n'oblige donc à poser des choses hors de la conscience. Il ajoute que les atomes, qu'on invoque pour fonder le monde extérieur, sont incohérents : on ne peut les penser ni avec des parties, ni sans. Tout est <c id='vijnaptimatra'>rien-que-représentation</c> (<i>vijñaptimātra</i>). <dif>La thèse est explicite ; son classement comme idéalisme métaphysique reste discuté.</dif>",
+          "en": "<ph id='vasubandhu'>Vasubandhu</ph> starts from dreams: in them we see objects that are located, lasting and causally effective, without any external object. Nothing therefore requires us to posit things outside consciousness. He adds that atoms, invoked to ground the external world, are incoherent: they can be conceived neither with parts nor without. Everything is <c id='vijnaptimatra'>representation-only</c> (<i>vijñaptimātra</i>). <dif>The thesis is explicit; its classification as metaphysical idealism remains disputed.</dif>"
+        },
+        "references": [
+          {
+            "fr": "Vasubandhu, Viṃśatikā, 2-4 (le rêve) et 11-15 (les atomes)",
+            "en": "Vasubandhu, Viṃśatikā (Twenty Verses), 2-4 (dreams) and 11-15 (atoms)"
+          },
+          {
+            "fr": "Asaṅga, Mahāyānasaṃgraha, II",
+            "en": "Asaṅga, Mahāyānasaṃgraha, II"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "SELF_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0,
+          0.4,
+          0,
+          0.6
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Pour expliquer la continuité de l'expérience sans soi permanent, l'école pose une <c id='alayavijnana'>conscience-réceptacle</c> (<i>ālayavijñāna</i>) : un flux conditionné où se déposent les <c>traces</c> (<i>vāsanā</i>) des actes, qui assure la continuité causale d'une vie à l'autre sans sujet permanent. Conformément à l'<c id='anatta'>anattā</c>, ce flux n'est pas un soi ; c'est la conscience souillée qui le prend à tort pour un moi.",
+          "en": "To explain the continuity of experience without a permanent self, the school posits a <c id='alayavijnana'>storehouse consciousness</c> (<i>ālayavijñāna</i>): a conditioned stream in which the <c>traces</c> (<i>vāsanā</i>) of actions are deposited, ensuring causal continuity from one life to the next without a permanent subject. In keeping with <c id='anatta'>anattā</c>, this stream is not a self; it is the afflicted mind that wrongly takes it for an I."
+        },
+        "references": [
+          {
+            "fr": "Vasubandhu, Triṃśikā, 2-7",
+            "en": "Vasubandhu, Triṃśikā (Thirty Verses), 2-7"
+          },
+          {
+            "fr": "Saṃdhinirmocana sūtra, V",
+            "en": "Saṃdhinirmocana Sūtra, V"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    }
+  ],
+  "updatedAt": "2026-10-30T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

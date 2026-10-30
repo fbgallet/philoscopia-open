@@ -1,0 +1,20 @@
+{
+  "id": "studia-humanitatis",
+  "term": {
+    "fr": "Studia humanitatis",
+    "en": "Studia humanitatis"
+  },
+  "definition": {
+    "fr": "Le cycle d'études promu par les humanistes : grammaire, rhétorique, poésie, histoire et philosophie morale, à partir des auteurs antiques. Il vise à former l'homme et le citoyen plutôt qu'à préparer à la dispute savante, et a donné son nom aux « humanités ».",
+    "en": "The course of studies promoted by the humanists: grammar, rhetoric, poetry, history and moral philosophy, drawn from ancient authors. They aimed to form the person and the citizen rather than to prepare for learned disputation, and gave their name to the \"humanities\"."
+  },
+  "relatedAxes": [
+    "PAST_RELATION",
+    "METAPHILOSOPHY"
+  ],
+  "relatedTerms": [
+    "civic-humanism",
+    "disputatio"
+  ],
+  "updatedAt": "2026-10-30T00:00:00.000Z"
+}

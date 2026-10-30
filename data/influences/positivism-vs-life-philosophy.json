@@ -1,0 +1,25 @@
+{
+  "id": "positivism-vs-life-philosophy",
+  "from": {
+    "kind": "MOVEMENT",
+    "slug": "positivism"
+  },
+  "to": {
+    "kind": "MOVEMENT",
+    "slug": "life-philosophy"
+  },
+  "directness": "ATTESTED",
+  "mode": "REACTS_AGAINST",
+  "strength": "MEDIUM",
+  "note": {
+    "fr": "La <mv id='life-philosophy'>philosophie de la vie</mv> se construit contre le modèle positiviste d'un savoir qui ne connaît que des lois : <ph id='dilthey'>Dilthey</ph> refuse d'appliquer aux sciences de l'esprit la méthode de <ph id='comte'>Comte</ph> et de Mill, et <ph id='bergson'>Bergson</ph> oppose l'intuition de la durée à l'intelligence qui mesure.",
+    "en": "<mv id='life-philosophy'>Lebensphilosophie</mv> was built against the positivist model of a knowledge that knows only laws: <ph id='dilthey'>Dilthey</ph> refused to apply <ph id='comte'>Comte</ph>'s and Mill's method to the human sciences, and <ph id='bergson'>Bergson</ph> set the intuition of duration against the measuring intellect."
+  },
+  "sources": [
+    {
+      "fr": "Dilthey, Introduction aux sciences de l'esprit (1883), I",
+      "en": "Dilthey, Introduction to the Human Sciences (1883), I"
+    }
+  ],
+  "updatedAt": "2026-10-30T00:00:00.000Z"
+}

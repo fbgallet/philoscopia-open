@@ -30,7 +30,7 @@ Le sens tient à ce que celui qui parle cherche à faire reconnaître : communiq
 
 - Grice vise d'abord le « vouloir-dire » du locuteur dans un énoncé ; le sens conventionnel des mots en est tenu pour dérivé.
 
-*Grice*
+*[Grice](../philosophers/grice.md)*
 
 ## Citations
 

@@ -1,0 +1,27 @@
+{
+  "id": "law-of-three-stages",
+  "term": {
+    "fr": "Loi des trois états",
+    "en": "Law of three stages"
+  },
+  "definition": {
+    "fr": "Cadre historique proposé par <ph id='comte'>Auguste Comte</ph> pour décrire le développement de l'esprit humain. Chaque domaine du savoir passe de l'<c>état théologique</c>, qui explique les phénomènes par des agents surnaturels, à l'<c>état métaphysique</c>, qui les explique par des entités abstraites, puis à l'<c>état positif</c>, qui renonce aux causes dernières et cherche les lois régissant les phénomènes. Les sciences atteignent cet état à des moments différents, la sociologie en dernier.",
+    "en": "A historical framework proposed by <ph id='comte'>Auguste Comte</ph> to describe the development of the human mind. Each domain of knowledge passes from the <c>theological stage</c>, which explains phenomena by supernatural agents, to the <c>metaphysical stage</c>, which explains them by abstract entities, and then to the <c>positive stage</c>, which gives up ultimate causes and seeks the laws governing phenomena. The sciences reach this stage at different times, sociology last."
+  },
+  "relatedAxes": [
+    "HISTORY_MEANING",
+    "SCIENCE_PLACE"
+  ],
+  "relatedTerms": [
+    "scientism",
+    "religion-of-humanity"
+  ],
+  "figure": {
+    "slug": "comte",
+    "name": {
+      "fr": "Comte",
+      "en": "Comte"
+    }
+  },
+  "updatedAt": "2026-10-30T00:00:00.000Z"
+}

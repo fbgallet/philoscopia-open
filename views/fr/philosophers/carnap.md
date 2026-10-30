@@ -2,7 +2,7 @@
 
 # Rudolf Carnap
 
-*1891 – 1970 · Allemand · [Philosophie analytique](../movements/analytic-philosophy.md)*
+*1891 – 1970 · Allemand · [Positivisme logique](../movements/logical-positivism.md)*
 
 Philosophe allemand, figure majeure du Cercle de Vienne et de l'empirisme logique. Il a cherché à reconstruire le langage de la science sur une base logique et développé une théorie de la probabilité logique, ancêtre des approches bayésiennes de la confirmation.
 

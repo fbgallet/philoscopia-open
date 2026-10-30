@@ -1,0 +1,20 @@
+{
+  "id": "the-second-sex-beauvoir",
+  "title": {
+    "fr": "Le Deuxième Sexe",
+    "en": "The Second Sex"
+  },
+  "author": {
+    "slug": "beauvoir",
+    "name": {
+      "fr": "Beauvoir",
+      "en": "Beauvoir"
+    }
+  },
+  "year": 1949,
+  "presentation": {
+    "fr": "Essai de <ph id='beauvoir'>Simone de Beauvoir</ph> qui analyse, avec les outils de l'<mv id='existentialism'>existentialisme</mv>, comment la femme a été constituée comme l'Autre de l'homme. Le second volume s'ouvre sur la phrase « On ne naît pas femme : on le devient ».",
+    "en": "An essay by <ph id='beauvoir'>Simone de Beauvoir</ph> that analyses, with the tools of <mv id='existentialism'>existentialism</mv>, how woman has been constituted as man's Other. The second volume opens with the sentence \"One is not born, but rather becomes, a woman\"."
+  },
+  "updatedAt": "2026-10-30T00:00:00.000Z"
+}

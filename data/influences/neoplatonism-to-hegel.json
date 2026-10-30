@@ -1,0 +1,25 @@
+{
+  "id": "neoplatonism-to-hegel",
+  "from": {
+    "kind": "MOVEMENT",
+    "slug": "neoplatonism"
+  },
+  "to": {
+    "kind": "PHILOSOPHER",
+    "slug": "hegel"
+  },
+  "directness": "ATTESTED",
+  "mode": "REINTERPRETS",
+  "strength": "MEDIUM",
+  "note": {
+    "fr": "<ph id='hegel'>Hegel</ph> voit dans <ph id='plotinus'>Plotin</ph> et surtout <ph id='proclus'>Proclus</ph> les sommets de la philosophie antique : leur triade de la demeure, de la procession et du retour annonce à ses yeux le mouvement dialectique de l'Esprit, qu'il veut penser sans extase.",
+    "en": "<ph id='hegel'>Hegel</ph> saw in <ph id='plotinus'>Plotinus</ph> and above all <ph id='proclus'>Proclus</ph> the summits of ancient philosophy: their triad of remaining, procession and return foreshadows, in his eyes, the dialectical movement of Spirit, which he sought to think without ecstasy."
+  },
+  "sources": [
+    {
+      "fr": "Hegel, Leçons sur l'histoire de la philosophie, « La philosophie néoplatonicienne »",
+      "en": "Hegel, Lectures on the History of Philosophy, \"The Neoplatonic Philosophy\""
+    }
+  ],
+  "updatedAt": "2026-10-30T00:00:00.000Z"
+}

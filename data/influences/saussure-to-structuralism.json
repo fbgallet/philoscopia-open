@@ -1,0 +1,25 @@
+{
+  "id": "saussure-to-structuralism",
+  "from": {
+    "kind": "PHILOSOPHER",
+    "slug": "saussure"
+  },
+  "to": {
+    "kind": "MOVEMENT",
+    "slug": "structuralism"
+  },
+  "directness": "ATTESTED",
+  "mode": "CONTINUES",
+  "strength": "STRONG",
+  "note": {
+    "fr": "Le <mv id='structuralism'>structuralisme</mv> généralise le principe du <w>Cours de linguistique générale</w> de <ph id='saussure'>Saussure</ph> : un élément n'a pas de valeur en lui-même, seulement par ses différences avec les autres éléments du système. <ph id='levi-strauss'>Lévi-Strauss</ph> le reçoit par la phonologie de Jakobson.",
+    "en": "<mv id='structuralism'>Structuralism</mv> generalizes the principle of <ph id='saussure'>Saussure</ph>'s <w>Course in General Linguistics</w>: an element has no value in itself, only through its differences from the other elements of the system. <ph id='levi-strauss'>Lévi-Strauss</ph> received it through Jakobson's phonology."
+  },
+  "sources": [
+    {
+      "fr": "Lévi-Strauss, Anthropologie structurale (1958), ch. II",
+      "en": "Lévi-Strauss, Structural Anthropology (1958), ch. II"
+    }
+  ],
+  "updatedAt": "2026-10-30T00:00:00.000Z"
+}

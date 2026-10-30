@@ -135,6 +135,7 @@ Wittgenstein n'affirme pas l'existence de Dieu comme un fait, mais ne tient pas 
 
 - **[Elizabeth Anscombe](../philosophers/anscombe.md)** (prolonge) : Élève, traductrice et exécutrice littéraire de [Wittgenstein](../philosophers/wittgenstein.md), [Anscombe](../philosophers/anscombe.md) prolonge sa manière : elle porte l'attention au langage ordinaire vers l'action et l'intention, fondant la philosophie de l'action contemporaine.
 - **[Rudolf Carnap](../philosophers/carnap.md)** (réinterprète) : Le Tractatus fut le livre de chevet du Cercle de Vienne : [Carnap](../philosophers/carnap.md) et les positivistes logiques y lurent une charte du vérificationnisme, réduisant le sens à la vérifiabilité empirique. Wittgenstein s'en démarqua : ils avaient manqué, disait-il, ce que le livre montrait sans le dire, l'éthique et le mystique. Le malentendu fonde une part de la philosophie analytique.
+- **[Positivisme logique](../movements/logical-positivism.md)** (réinterprète) : Le Cercle lit le *[Tractatus](../works/tractatus-logico-philosophicus-wittgenstein.md)* ligne à ligne au milieu des années 1920 et y trouve deux armes : les vérités logiques comme tautologies et la limite entre ce qui peut se dire et ce qui ne le peut pas. Il en tire un critère de vérification que Wittgenstein formule lui-même par moments vers 1929-1930, sans en faire une doctrine ; pour lui, ce qui ne peut se dire, l'éthique ou le mystique, n'est pas pour autant sans importance.
 
 ---
 

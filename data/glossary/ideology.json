@@ -1,0 +1,20 @@
+{
+  "id": "ideology",
+  "term": {
+    "fr": "Idéologie",
+    "en": "Ideology"
+  },
+  "definition": {
+    "fr": "Au sens large, l'ensemble des idées et des représentations d'une société ou d'un groupe ; au sens critique, retenu ici, un système de représentations qui fait paraître naturel un ordre social. Pour <ph id='marx'>Marx</ph>, elle peut légitimer une domination en présentant comme éternels des rapports sociaux historiques, sans qu'il y ait nécessairement tromperie consciente. Pour <ph id='althusser'>Althusser</ph>, elle constitue les individus en sujets à travers des pratiques et des institutions : c'est l'<c>interpellation</c>, à la fois reconnaissance et assujettissement.",
+    "en": "In the broad sense, the set of ideas and representations of a society or group; in the critical sense used here, a system of representations that makes a social order seem natural. For <ph id='marx'>Marx</ph>, it can legitimate domination by presenting historical social relations as eternal, without necessarily involving conscious deception. For <ph id='althusser'>Althusser</ph>, it constitutes individuals as subjects through practices and institutions: this is <c>interpellation</c>, at once recognition and subjection."
+  },
+  "relatedAxes": [
+    "INDIVIDUAL_SOCIETY",
+    "SOCIAL_IDENTITY"
+  ],
+  "relatedTerms": [
+    "alienation",
+    "theoretical-anti-humanism"
+  ],
+  "updatedAt": "2026-10-30T00:00:00.000Z"
+}

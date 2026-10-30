@@ -42,6 +42,10 @@ Searle tient la conscience pour une propriété de haut niveau causée par les p
 
 *Sources : La Redécouverte de l'esprit (1992)*
 
+## Influencé par
+
+- **[Philosophie du langage ordinaire](../movements/ordinary-language-philosophy.md)** (prolonge) : Élève d'[Austin](../philosophers/austin.md) à Oxford, [Searle](../philosophers/searle.md) systématise sa découverte : il classe les actes de langage et dégage les règles qui font d'un énoncé une promesse, un ordre ou une assertion. Ce qui passe est l'idée que parler, c'est accomplir des actes réglés.
+
 ---
 
 *Généré depuis le corpus JSON de `data/`. Ne pas éditer à la main, voir [CONTRIBUTING](../../../CONTRIBUTING.md).*

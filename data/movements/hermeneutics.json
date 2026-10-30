@@ -1,0 +1,192 @@
+{
+  "kind": "MOVEMENT",
+  "id": "hermeneutics",
+  "name": {
+    "fr": "Herméneutique philosophique",
+    "en": "Philosophical hermeneutics"
+  },
+  "tagline": {
+    "fr": "Comprendre n'est pas une méthode parmi d'autres, c'est notre manière d'exister : on ne s'approprie un sens qu'à partir de ce dont on hérite.",
+    "en": "Understanding is not one method among others but our way of existing: we make a meaning our own only from what we inherit."
+  },
+  "summary": {
+    "fr": "Courant qui fait de l'interprétation la question centrale de la philosophie, et que la <mv id='phenomenology'>phénoménologie</mv> de <ph id='heidegger'>Heidegger</ph> a refondé. L'herméneutique fut longtemps un art de lire les textes difficiles, Écriture sainte ou droit. <ph id='schleiermacher'>Schleiermacher</ph> en fait une théorie générale de la compréhension, à la fois grammaticale (la langue du texte) et psychologique (la pensée de l'auteur), et <ph id='dilthey'>Dilthey</ph> la méthode des sciences de l'esprit. Heidegger la déplace en faisant de la compréhension un trait de l'existence même. On fait commencer ici l'herméneutique philosophique avec <w id='truth-and-method-gadamer'>Vérité et méthode</w> (1960) de <ph id='gadamer'>Hans-Georg Gadamer</ph>. <ph id='ricoeur'>Paul Ricœur</ph> l'élargit au symbole, à la psychanalyse et au récit, en la mettant en dialogue avec les sciences humaines. <dif>Le débat de Gadamer avec <ph id='habermas'>Habermas</ph> (1967-1971) sur l'autorité de la tradition et la critique des idéologies en reste le grand moment ; Ricœur y cherche une médiation.</dif>",
+    "en": "A movement that makes interpretation the central question of philosophy, refounded by <ph id='heidegger'>Heidegger</ph>'s <mv id='phenomenology'>phenomenology</mv>. Hermeneutics was long an art of reading difficult texts, scripture or law. <ph id='schleiermacher'>Schleiermacher</ph> made it a general theory of understanding, both grammatical (the language of the text) and psychological (the author's thought), and <ph id='dilthey'>Dilthey</ph> the method of the human sciences. Heidegger shifted it by making understanding a feature of existence itself. Philosophical hermeneutics is taken here to begin with <ph id='gadamer'>Hans-Georg Gadamer</ph>'s <w id='truth-and-method-gadamer'>Truth and Method</w> (1960). <ph id='ricoeur'>Paul Ricœur</ph> broadened it to symbol, psychoanalysis and narrative, bringing it into dialogue with the human sciences. <dif>Gadamer's debate with <ph id='habermas'>Habermas</ph> (1967-1971) over the authority of tradition and the critique of ideology remains its high point; Ricœur sought a mediation between them.</dif>"
+  },
+  "area": "WEST",
+  "parent": "phenomenology",
+  "period": {
+    "from": 1960
+  },
+  "keyFigures": [
+    {
+      "slug": "gadamer",
+      "name": {
+        "fr": "Gadamer",
+        "en": "Gadamer"
+      }
+    },
+    {
+      "slug": "ricoeur",
+      "name": {
+        "fr": "Ricœur",
+        "en": "Ricœur"
+      }
+    }
+  ],
+  "structuring": [
+    {
+      "axisId": "SCIENCE_PLACE",
+      "thesis": {
+        "fr": "Il y a une vérité que la méthode n'épuise pas : celle que nous font éprouver l'œuvre d'art, l'histoire et le dialogue, et qui ne se vérifie pas comme une expérience de laboratoire.",
+        "en": "There is a truth that method does not exhaust: the truth we undergo in the work of art, in history and in dialogue, which cannot be checked like a laboratory experiment."
+      }
+    },
+    {
+      "axisId": "TIME_ORIENTATION",
+      "thesis": {
+        "fr": "On ne comprend jamais à partir de rien : nos préjugés, hérités d'une tradition, rendent la compréhension possible, même si elle doit les mettre à l'épreuve.",
+        "en": "We never understand from nowhere: our prejudices, inherited from a tradition, make understanding possible, even though understanding must put them to the test."
+      }
+    }
+  ],
+  "entries": [
+    {
+      "axisId": "SCIENCE_PLACE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.8
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "<ph id='gadamer'>Gadamer</ph> part de l'expérience de l'art : l'œuvre nous apprend quelque chose, et cette vérité ne se réduit pas au résultat d'une procédure méthodique. Les sciences de l'esprit ont eu tort, selon lui, de chercher leur légitimité dans l'imitation des sciences de la nature ; il ne conteste pas la méthode, il conteste qu'elle soit le seul accès à la vérité. <ph id='ricoeur'>Ricœur</ph> refuse de choisir entre <c>expliquer</c> et <c>comprendre</c> : l'analyse structurale du texte prépare l'<c>appropriation</c> de son sens au lieu de la remplacer.",
+          "en": "<ph id='gadamer'>Gadamer</ph> starts from the experience of art: the work teaches us something, and this truth cannot be reduced to the outcome of a methodical procedure. The human sciences were wrong, in his view, to seek their legitimacy by imitating the natural sciences; he does not reject method, he rejects the claim that it is the only access to truth. <ph id='ricoeur'>Ricœur</ph> refuses to choose between <c>explaining</c> and <c>understanding</c>: the structural analysis of a text prepares our <c>appropriation</c> of its meaning instead of replacing it."
+        },
+        "references": [
+          {
+            "fr": "Gadamer, Vérité et méthode (1960), introduction et Ire partie",
+            "en": "Gadamer, Truth and Method (1960), introduction and Part I"
+          },
+          {
+            "fr": "Ricœur, « Expliquer et comprendre », Du texte à l'action (1986)",
+            "en": "Ricœur, \"Explanation and Understanding\", From Text to Action (1986)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "TIME_ORIENTATION",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0,
+          0.2,
+          0.8
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Les Lumières ont discrédité le <c id='prejudice'>préjugé</c> ; <ph id='gadamer'>Gadamer</ph> réhabilite le mot dans son sens premier, le jugement porté avant examen. Tout interprète appartient à une <c>tradition</c> qui a déjà travaillé sur l'objet comme sur sa propre situation, ce qu'il nomme <c id='effective-history'>histoire de l'efficience</c> (<i>Wirkungsgeschichte</i>). Les préjugés ne sont pas tous légitimes : la distance temporelle et le dialogue aident à trier ceux qui éclairent et ceux qui égarent. Comprendre, c'est accomplir une <c id='fusion-of-horizons'>fusion des horizons</c> : l'horizon du présent ne se forme qu'en s'élargissant à celui du passé. La part de projet tient à l'<c>anticipation</c> du sens, héritée de Heidegger : on comprend toujours en se projetant vers un sens à venir, que l'application au présent accomplit. <dif><ph id='habermas'>Habermas</ph> objecte qu'une tradition peut transmettre aussi la domination, ce que l'herméneutique seule ne permet pas de démasquer.</dif>",
+          "en": "The Enlightenment discredited <c id='prejudice'>prejudice</c>; <ph id='gadamer'>Gadamer</ph> rehabilitates the word in its original sense, a judgment made before examination. Every interpreter belongs to a <c>tradition</c> that has already worked on the object as well as on the interpreter's own situation, what he calls <c id='effective-history'>effective history</c> (<i>Wirkungsgeschichte</i>). Not all prejudices are legitimate: temporal distance and dialogue help sort those that illuminate from those that mislead. To understand is to achieve a <c id='fusion-of-horizons'>fusion of horizons</c>: the horizon of the present forms only by widening to include that of the past. The forward-looking share comes from the <c>anticipation</c> of meaning, inherited from Heidegger: we always understand by projecting ourselves towards a meaning to come, which application to the present fulfils. <dif><ph id='habermas'>Habermas</ph> objects that a tradition can also pass on domination, which hermeneutics alone cannot unmask.</dif>"
+        },
+        "references": [
+          {
+            "fr": "Gadamer, Vérité et méthode (1960), IIe partie, II, 1",
+            "en": "Gadamer, Truth and Method (1960), Part II, II.1"
+          },
+          {
+            "fr": "Habermas, Logique des sciences sociales (1967)",
+            "en": "Habermas, On the Logic of the Social Sciences (1967)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "MEANING",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0,
+          0.75,
+          0.25
+        ]
+      },
+      "epistemicStatus": "EXTRAPOLATED",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "L'axe porte sur la signification des mots ; l'herméneutique parle de l'interprétation des textes, d'où une correspondance seulement approchée. <ph id='schleiermacher'>Schleiermacher</ph> donnait pour but à l'interprétation de reconstruire la pensée de l'auteur. <ph id='gadamer'>Gadamer</ph> lui répond que le sens d'un texte dépasse son auteur, non pas occasionnellement, mais toujours. <ph id='ricoeur'>Ricœur</ph> l'explique par la <c id='distanciation'>distanciation</c> : une fois écrit, le texte s'émancipe de son auteur et de son premier public. Le sens se joue dans l'<c>application</c>, ce qui le rapproche de l'usage ; l'intention de l'auteur reste un repère, d'où sa part, sans être la norme de l'interprétation.",
+          "en": "The axis concerns the meaning of words; hermeneutics speaks of the interpretation of texts, hence a correspondence that is only approximate. <ph id='schleiermacher'>Schleiermacher</ph> gave interpretation the aim of reconstructing the author's thought. <ph id='gadamer'>Gadamer</ph> replies that the meaning of a text goes beyond its author, not occasionally but always. <ph id='ricoeur'>Ricœur</ph> explains this through <c id='distanciation'>distanciation</c>: once written, the text frees itself from its author and its first audience. Meaning is at stake in <c>application</c>, which brings it closer to use; the author's intention remains a landmark, hence its share, without being the norm of interpretation."
+        },
+        "references": [
+          {
+            "fr": "Gadamer, Vérité et méthode (1960), IIe partie, II, 1, c",
+            "en": "Gadamer, Truth and Method (1960), Part II, II.1.c"
+          },
+          {
+            "fr": "Ricœur, « La fonction herméneutique de la distanciation », Du texte à l'action (1986)",
+            "en": "Ricœur, \"The Hermeneutical Function of Distanciation\", From Text to Action (1986)"
+          }
+        ],
+        "strength": "WEAK"
+      },
+      "note": {
+        "fr": "Les pôles de l'axe ne font qu'approcher cette position : pour l'herméneutique, le sens n'est ni une référence fixe ni une simple convention d'usage linguistique, mais un événement de compréhension qui s'accomplit dans l'application.",
+        "en": "The axis's poles only approximate this position: for hermeneutics, meaning is neither a fixed reference nor a mere convention of linguistic use, but an event of understanding accomplished in application."
+      }
+    },
+    {
+      "axisId": "SELF_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0,
+          0.15,
+          0.85,
+          0
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "La position est d'abord celle de <ph id='ricoeur'>Ricœur</ph> : le soi ne se saisit pas directement mais par un détour, celui des signes, des œuvres et des récits. Il distingue l'identité <c>idem</c>, la mêmeté du caractère, qui répond à la question de la permanence dans le temps, d'où une part laissée à la continuité, et l'identité <c>ipse</c>, l'ipséité, le maintien de soi dans la parole donnée. L'<c id='narrative-identity'>identité narrative</c> fait la médiation entre les deux : en racontant sa vie, on tient ensemble ce qui demeure et ce qui change.",
+          "en": "The position belongs first of all to <ph id='ricoeur'>Ricœur</ph>: the self is not grasped directly but indirectly, through signs, works and narratives. He distinguishes <c>idem</c>-identity, the sameness of character, which answers the question of permanence over time, hence a share left to continuity, from <c>ipse</c>-identity, selfhood, self-constancy in keeping one's word. <c id='narrative-identity'>Narrative identity</c> mediates between the two: by telling one's life, one holds together what endures and what changes."
+        },
+        "references": [
+          {
+            "fr": "Ricœur, Temps et récit, III (1985)",
+            "en": "Ricœur, Time and Narrative, III (1985)"
+          },
+          {
+            "fr": "Ricœur, Soi-même comme un autre (1990), 5e et 6e études",
+            "en": "Ricœur, Oneself as Another (1990), fifth and sixth studies"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    }
+  ],
+  "updatedAt": "2026-10-30T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  },
+  "aliases": {
+    "fr": [
+      "herméneutes"
+    ],
+    "en": [
+      "hermeneuticists"
+    ]
+  }
+}

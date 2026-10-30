@@ -11,6 +11,7 @@ French philosopher, founder of deconstruction. On forgiveness: true forgiveness 
 ## Influenced by
 
 - **[Husserl](../philosophers/husserl.md)** (reacts against) : [Derrida](../philosophers/derrida.md) forms deconstruction through his engagement with [Husserl](../philosophers/husserl.md), whose texts he comments: he tracks the privilege granted to presence and to the voice, and shows that the sign and différance work through a consciousness Husserl believed immediate to itself.
+- **[Structuralism](../movements/structuralism.md)** (reacts against) : In "Structure, Sign and Play" (1966), [Derrida](../philosophers/derrida.md) reads [Lévi-Strauss](../philosophers/levi-strauss.md) closely to show that every structure presupposes a centre it cannot ground. He keeps the primacy of difference but undoes its closure: it is one of the founding acts of post-structuralism.
 
 ---
 

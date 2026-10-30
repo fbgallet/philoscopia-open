@@ -1,0 +1,29 @@
+{
+  "id": "weber-to-frankfurt-school",
+  "from": {
+    "kind": "PHILOSOPHER",
+    "slug": "weber"
+  },
+  "to": {
+    "kind": "MOVEMENT",
+    "slug": "frankfurt-school"
+  },
+  "directness": "ATTESTED",
+  "mode": "REINTERPRETS",
+  "strength": "STRONG",
+  "note": {
+    "fr": "La rationalisation que <ph id='weber'>Weber</ph> décrivait comme le destin de l'Occident devient chez <ph id='horkheimer'>Horkheimer</ph> et <ph id='adorno'>Adorno</ph> la <c id='raison-instrumentale'>raison instrumentale</c>, non plus un fait à constater mais une domination à critiquer. <ph id='habermas'>Habermas</ph> reprend encore Weber pour opposer l'activité instrumentale à l'activité communicationnelle.",
+    "en": "The rationalization <ph id='weber'>Weber</ph> described as the fate of the West becomes, in <ph id='horkheimer'>Horkheimer</ph> and <ph id='adorno'>Adorno</ph>, <c id='raison-instrumentale'>instrumental reason</c>: no longer a fact to be recorded but a domination to be criticized. <ph id='habermas'>Habermas</ph> again takes up Weber to set instrumental action against communicative action."
+  },
+  "sources": [
+    {
+      "fr": "Horkheimer, Éclipse de la raison (1947)",
+      "en": "Horkheimer, Eclipse of Reason (1947)"
+    },
+    {
+      "fr": "Habermas, Théorie de l'agir communicationnel (1981), I",
+      "en": "Habermas, The Theory of Communicative Action (1981), I"
+    }
+  ],
+  "updatedAt": "2026-10-30T00:00:00.000Z"
+}

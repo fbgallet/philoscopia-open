@@ -1,0 +1,17 @@
+{
+  "id": "unconscious",
+  "term": {
+    "fr": "Inconscient (psychanalytique)",
+    "en": "Unconscious (psychoanalytic)"
+  },
+  "definition": {
+    "fr": "Chez <ph id='freud'>Freud</ph>, la part de la vie psychique soustraite à la conscience, qui se manifeste dans les rêves, les lapsus et les symptômes. <ph id='lacan'>Lacan</ph> le relit à partir de la linguistique : il est « structuré comme un langage ».",
+    "en": "In <ph id='freud'>Freud</ph>, the part of mental life withheld from consciousness, which shows itself in dreams, slips of the tongue and symptoms. <ph id='lacan'>Lacan</ph> rereads it through linguistics: it is \"structured like a language\"."
+  },
+  "relatedAxes": [
+    "FREEDOM",
+    "INTERIORITY"
+  ],
+  "relatedTerms": [],
+  "updatedAt": "2026-10-30T00:00:00.000Z"
+}

@@ -38,9 +38,7 @@
     "en": "Italian"
   },
   "language": "lat",
-  "movements": [
-    "aristotelianism"
-  ],
+  "movements": ["aristotelianism", "scholasticism"],
   "entries": [
     {
       "axisId": "HUMAN_NATURE",

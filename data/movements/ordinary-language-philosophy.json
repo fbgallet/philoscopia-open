@@ -1,0 +1,142 @@
+{
+  "kind": "MOVEMENT",
+  "id": "ordinary-language-philosophy",
+  "name": {
+    "fr": "Philosophie du langage ordinaire",
+    "en": "Ordinary language philosophy"
+  },
+  "tagline": {
+    "fr": "Écouter ce que nous disons vraiment, dans quelles circonstances et pourquoi, avant de théoriser : la finesse de l'usage commun prise comme instrument philosophique.",
+    "en": "Listening to what we actually say, in which circumstances and why, before theorizing: the subtlety of common usage taken as a philosophical instrument."
+  },
+  "aliases": {
+    "fr": [
+      "école d'Oxford",
+      "philosophie d'Oxford"
+    ],
+    "en": [
+      "Oxford philosophy",
+      "Oxford school",
+      "ordinary-language philosophy"
+    ]
+  },
+  "summary": {
+    "fr": "Après la guerre, Oxford devient le centre d'une manière de philosopher qui tient l'usage courant des mots pour un trésor de distinctions affinées par des générations de locuteurs. C'est le courant oxonien de la philosophie du langage ordinaire, dont le second <ph id='wittgenstein'>Wittgenstein</ph>, à Cambridge, est l'autre grande source : ses leçons et ses manuscrits circulent et marquent une partie de ses membres. <ph id='ryle'>Gilbert Ryle</ph>, actif dès les années 1930, en signe un ouvrage majeur, <w>La Notion d'esprit</w> (1949) ; <ph id='austin'>J. L. Austin</ph> en est la figure tutélaire, avec ses « samedis matin » où l'on examine collectivement la différence entre agir « par mégarde » et « par accident » ; <ph id='peter-strawson'>P. F. Strawson</ph> y élabore sa critique de la <c>théorie des descriptions</c> de <ph id='russell'>Russell</ph> (« De l'acte de référence », 1950). Plutôt qu'une opposition frontale au <mv id='logical-positivism'>positivisme logique</mv>, elle conteste l'idée qu'un langage idéal construit par la logique doive juger le langage commun. <dif>Ses membres divergent pourtant</dif> : sur la vérité, Austin et Strawson s'opposent en 1950 ; Ryle analyse l'esprit en termes de <c>dispositions</c>, c'est-à-dire de tendances à agir de telle façon dans telles circonstances, analyse que les autres ne reprennent pas telle quelle ; Strawson revient à une <c>métaphysique descriptive</c>, qui décrit la structure effective de notre pensée du monde sans prétendre la réformer. Après la mort d'Austin (1960) et des critiques comme celle d'<ph>Ernest Gellner</ph> (<w>Words and Things</w>, 1959), son influence collective recule, mais la théorie des <c>actes de langage</c>, due d'abord à Austin, se poursuit chez <ph id='searle'>Searle</ph> et en linguistique.",
+    "en": "After the war, Oxford became the centre of a way of doing philosophy that treated the everyday use of words as a store of distinctions refined by generations of speakers. This is the Oxford strand of ordinary language philosophy, whose other major source is the later <ph id='wittgenstein'>Wittgenstein</ph> at Cambridge: his lectures and manuscripts circulated and shaped some of its members. <ph id='ryle'>Gilbert Ryle</ph>, already active in the 1930s, wrote one of its major works, <w>The Concept of Mind</w> (1949); <ph id='austin'>J. L. Austin</ph> was its presiding figure, with his “Saturday mornings” where the difference between doing something “by mistake” and “by accident” was examined collectively; <ph id='peter-strawson'>P. F. Strawson</ph> developed there his criticism of <ph id='russell'>Russell</ph>'s <c>theory of descriptions</c> (“On Referring”, 1950). Rather than standing in head-on opposition to <mv id='logical-positivism'>logical positivism</mv>, it contested the idea that an ideal language built by logic should sit in judgement over common language. <dif>Its members nonetheless disagreed</dif>: on truth, Austin and Strawson clashed in 1950; Ryle analysed the mind in terms of <c>dispositions</c>, that is, tendencies to act in certain ways in certain circumstances, an analysis the others did not take over as such; Strawson returned to a <c>descriptive metaphysics</c>, which describes the actual structure of our thinking about the world without claiming to reform it. After Austin's death (1960) and criticisms such as <ph>Ernest Gellner</ph>'s (<w>Words and Things</w>, 1959), its collective influence waned, but the theory of <c>speech acts</c>, which originates with Austin, lives on in <ph id='searle'>Searle</ph> and in linguistics."
+  },
+  "area": "WEST",
+  "parent": "analytic-philosophy",
+  "period": {
+    "from": 1945,
+    "to": 1970,
+    "approx": true,
+    "afterlife": "HISTORICAL"
+  },
+  "keyFigures": [
+    {
+      "slug": "austin",
+      "name": {
+        "fr": "J. L. Austin",
+        "en": "J. L. Austin"
+      }
+    },
+    {
+      "slug": "ryle",
+      "name": {
+        "fr": "Gilbert Ryle",
+        "en": "Gilbert Ryle"
+      }
+    },
+    {
+      "slug": "peter-strawson",
+      "name": {
+        "fr": "P. F. Strawson",
+        "en": "P. F. Strawson"
+      }
+    }
+  ],
+  "entries": [
+    {
+      "axisId": "METAPHILOSOPHY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "<ph id='ryle'>Ryle</ph> (« Les expressions systématiquement trompeuses », 1932) montre que des phrases de même grammaire cachent des <c>formes logiques</c> différentes, et que bien des problèmes viennent des fausses conclusions qu'on en tire ; <w>La Notion d'esprit</w> nomme <c>erreur de catégorie</c> le fait de chercher l'esprit comme une chose de plus à côté du corps. <ph id='austin'>Austin</ph> (« Plaidoyer pour les excuses », 1956) fait de l'examen méthodique des distinctions ordinaires un point de départ : le langage ordinaire n'est pas « le dernier mot », il peut être corrigé et dépassé, mais il est « le premier ». <stk>L'enjeu est de savoir ce que l'usage peut trancher</stk> : en regardant les mots, on regarde aussi les situations qu'ils servent à distinguer, ce qu'Austin appelle une <c>phénoménologie linguistique</c>, au lieu de soumettre le langage commun à un langage idéal.",
+          "en": "<ph id='ryle'>Ryle</ph> (“Systematically Misleading Expressions”, 1932) shows that sentences with the same grammatical form hide different <c>logical forms</c>, and that many problems arise from the false conclusions drawn from them; <w>The Concept of Mind</w> calls a <c>category mistake</c> the attempt to look for the mind as one more thing alongside the body. <ph id='austin'>Austin</ph> (“A Plea for Excuses”, 1956) makes the methodical examination of ordinary distinctions a starting point: ordinary language is not “the last word”, it can be supplemented and superseded, but it is “the first word”. <stk>What is at stake is what usage can settle</stk>: in looking at words we also look at the situations they serve to tell apart, what Austin calls <c>linguistic phenomenology</c>, instead of submitting common language to an ideal one."
+        },
+        "references": [
+          {
+            "fr": "Ryle, « Les expressions systématiquement trompeuses » (1932)",
+            "en": "Ryle, “Systematically Misleading Expressions” (1932)"
+          },
+          {
+            "fr": "Ryle, La Notion d'esprit (1949), ch. I",
+            "en": "Ryle, The Concept of Mind (1949), ch. I"
+          },
+          {
+            "fr": "Austin, « Plaidoyer pour les excuses » (1956)",
+            "en": "Austin, “A Plea for Excuses” (1956)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "MEANING",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.1,
+          0.65,
+          0.25
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Le point commun de l'école est de chercher le sens d'une expression dans ses emplois plutôt que dans une entité qu'elle nommerait ; les accents varient selon les membres. <ph id='austin'>Austin</ph> (<w>Quand dire, c'est faire</w>, conférences de 1955 publiées en 1962) part des énoncés <c>performatifs</c>, « je promets », « je baptise ce navire », qui ne décrivent rien mais accomplissent un acte, à condition que les circonstances s'y prêtent (ses <c>conditions de félicité</c>). Il distingue ensuite, dans tout énoncé, le sens au sens strict (ce qu'il dit, avec sa référence) et sa <c>force illocutoire</c> (l'acte qu'il accomplit) : la description et la référence ne disparaissent pas, elles deviennent des usages parmi d'autres. <ph id='peter-strawson'>Strawson</ph> (<w>De l'acte de référence</w>, 1950) le dit à sa manière : ce ne sont pas les expressions qui réfèrent, ce sont les locuteurs qui s'en servent pour référer. La part de l'intention se renforce avec <ph id='grice'>Paul Grice</ph> (« Meaning », 1957), pour qui signifier, c'est vouloir produire un effet chez l'auditeur par la reconnaissance de cette intention.",
+          "en": "What the school shares is the search for an expression's meaning in its uses rather than in some entity it would name; the emphasis varies between members. <ph id='austin'>Austin</ph> (<w>How to Do Things with Words</w>, lectures of 1955 published in 1962) starts from <c>performative</c> utterances, “I promise”, “I name this ship”, which describe nothing but perform an act, provided the circumstances are right (his <c>felicity conditions</c>). He then distinguishes, in every utterance, its meaning in the strict sense (what it says, with its reference) from its <c>illocutionary force</c> (the act it performs): description and reference do not disappear, they become uses among others. <ph id='peter-strawson'>Strawson</ph> (<w>On Referring</w>, 1950) puts it his own way: it is not expressions that refer, it is speakers who use them to refer. The role of intention grows with <ph id='grice'>Paul Grice</ph> (“Meaning”, 1957), for whom to mean something is to intend to produce an effect in a hearer through their recognition of that intention."
+        },
+        "references": [
+          {
+            "fr": "Austin, Quand dire, c'est faire (1962), conférences I, VIII et XII",
+            "en": "Austin, How to Do Things with Words (1962), lectures I, VIII and XII"
+          },
+          {
+            "fr": "Strawson, « De l'acte de référence » (Mind, 1950)",
+            "en": "Strawson, “On Referring” (Mind, 1950)"
+          },
+          {
+            "fr": "Grice, « Meaning » (Philosophical Review, 1957)",
+            "en": "Grice, “Meaning” (Philosophical Review, 1957)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    }
+  ],
+  "identity": {
+    "wikidata": "Q1056732",
+    "wikipedia": {
+      "fr": "https://fr.wikipedia.org/wiki/Philosophie_du_langage_ordinaire",
+      "en": "https://en.wikipedia.org/wiki/Ordinary_language_philosophy"
+    }
+  },
+  "updatedAt": "2026-10-30T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

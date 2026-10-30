@@ -1,0 +1,34 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "butler",
+  "stub": true,
+  "name": {
+    "fr": "Butler",
+    "en": "Butler"
+  },
+  "aliases": {
+    "fr": [
+      "Judith Butler"
+    ],
+    "en": [
+      "Judith Butler"
+    ]
+  },
+  "summary": {
+    "fr": "Philosophe américaine dont <w>Trouble dans le genre</w> (1990) soutient que le genre n'exprime aucune essence mais se produit dans la répétition des actes ; une référence des études de genre.",
+    "en": "American philosopher whose <w>Gender Trouble</w> (1990) argues that gender expresses no essence but is produced through repeated acts; a reference for gender studies."
+  },
+  "birth": 1956,
+  "nationality": {
+    "fr": "Américaine",
+    "en": "American"
+  },
+  "language": "eng",
+  "movements": [
+    "feminist-philosophy"
+  ],
+  "updatedAt": "2026-10-30T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

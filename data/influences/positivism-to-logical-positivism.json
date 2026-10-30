@@ -1,0 +1,25 @@
+{
+  "id": "positivism-to-logical-positivism",
+  "from": {
+    "kind": "MOVEMENT",
+    "slug": "positivism"
+  },
+  "to": {
+    "kind": "MOVEMENT",
+    "slug": "logical-positivism"
+  },
+  "directness": "ATTESTED",
+  "mode": "REINTERPRETS",
+  "strength": "MEDIUM",
+  "note": {
+    "fr": "Le manifeste du Cercle de Vienne (1929) range <ph id='comte'>Comte</ph> parmi ses précurseurs, à côté de Hume et de Mill. Le <mv id='logical-positivism'>positivisme logique</mv> reprend le refus de la métaphysique, mais le fonde sur l'analyse logique du langage plutôt que sur une loi de l'histoire.",
+    "en": "The Vienna Circle's manifesto (1929) lists <ph id='comte'>Comte</ph> among its precursors, alongside Hume and Mill. <mv id='logical-positivism'>Logical positivism</mv> takes up the rejection of metaphysics but grounds it in the logical analysis of language rather than in a law of history."
+  },
+  "sources": [
+    {
+      "fr": "Hahn, Neurath et Carnap, La Conception scientifique du monde : le Cercle de Vienne (1929)",
+      "en": "Hahn, Neurath and Carnap, The Scientific Conception of the World: The Vienna Circle (1929)"
+    }
+  ],
+  "updatedAt": "2026-10-30T00:00:00.000Z"
+}

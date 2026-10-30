@@ -2,7 +2,7 @@
 
 # Albert the Great
 
-*1200 – 1280 · German · [Aristotelianism](../movements/aristotelianism.md)*
+*1200 – 1280 · German · [Aristotelianism](../movements/aristotelianism.md), [Scholasticism](../movements/scholasticism.md)*
 
 German Dominican theologian and naturalist, among the first to comment on the whole Aristotelian corpus for the Latin West; the teacher of Aquinas, to whom he passed on a taste for the natural sciences and for Aristotelianism.
 

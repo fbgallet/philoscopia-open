@@ -81,6 +81,7 @@ La dialectique madhyamaka vise la [pacification des élaborations conceptuelles]
 ## Influence sur
 
 - **[École de Kyoto](../movements/kyoto-school.md)** (réinterprète) : [Nishitani](../philosophers/nishitani.md) fait de la [vacuité](../glossary/sunyata.md) de la [Madhyamaka](../movements/madhyamaka.md) le « champ » où le nihilisme occidental, diagnostiqué par Nietzsche et Heidegger, est traversé et surmonté : une notion bouddhique devient la réponse à une crise de la modernité européenne.
+- **[Yogācāra](../movements/yogacara.md)** (réinterprète) : Le [Yogācāra](../movements/yogacara.md) reprend la [vacuité](../glossary/sunyata.md) de la [Madhyamaka](../movements/madhyamaka.md) mais refuse qu'on la lise comme un pur néant : la doctrine des trois natures distingue ce qui est imaginé, ce qui dépend d'autre chose et ce qui est accompli, et conserve à la conscience une existence dépendante.
 - **[Nyāya](../movements/nyaya.md)** (réagit contre) : Le [Nyāya](../movements/nyaya.md) défend les moyens de connaissance contre l'objection de la [Madhyamaka](../movements/madhyamaka.md) : ils s'établissent eux-mêmes, comme la lampe s'éclaire en éclairant les objets, et nier toute connaissance valide ruine la négation même.
 
 ---

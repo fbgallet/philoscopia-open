@@ -2,7 +2,7 @@
 
 # Michel Eyquem de Montaigne
 
-*1533 – 1592 · French*
+*1533 – 1592 · French · [Renaissance humanism](../movements/renaissance-humanism.md)*
 
 French Renaissance moralist and magistrate, born at the château de Montaigne in Périgord and schooled in Latin from infancy. After a career at the Bordeaux parlement and the death of his friend La Boétie, he withdrew in 1571 to his "library" to write the *[Essays](../works/essays-montaigne.md)*, [a genre](../glossary/essai-genre.md) he invented and reworked until his death. He wrote amid the turmoil of the Wars of Religion, in which he served as a moderate negotiator, and drew from ancient humanism, above all the Greek skeptics, Seneca and Plutarch, a wisdom of measure and tolerance rather than a doctrine. A bedside book for Pascal, who fought him, for Descartes, whom he provoked into doubt, and later for Nietzsche who admired him, he remains among the first to make the examination of one's own life the heart of philosophy.
 

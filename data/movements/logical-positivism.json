@@ -1,0 +1,208 @@
+{
+  "kind": "MOVEMENT",
+  "id": "logical-positivism",
+  "name": {
+    "fr": "Positivisme logique",
+    "en": "Logical positivism"
+  },
+  "tagline": {
+    "fr": "Une philosophie d'atelier scientifique : des physiciens, des logiciens et des mathématiciens réunis à Vienne pour séparer, dans tout ce qui se dit, les énoncés qui ont un sens de ceux qui n'en ont que l'apparence.",
+    "en": "A philosophy of the scientific workshop: physicists, logicians and mathematicians gathered in Vienna to separate, in everything that is said, the statements that have meaning from those that only seem to."
+  },
+  "aliases": {
+    "fr": [
+      "Cercle de Vienne",
+      "empirisme logique",
+      "néopositivisme",
+      "néopositiviste",
+      "néopositivistes"
+    ],
+    "en": [
+      "Vienna Circle",
+      "logical empiricism",
+      "logical empiricist",
+      "logical positivist",
+      "logical positivists"
+    ]
+  },
+  "summary": {
+    "fr": "Le <mv id='logical-positivism'>positivisme logique</mv> naît à Vienne autour de <ph id='schlick'>Moritz Schlick</ph>, dont le séminaire réunit à partir de 1924 philosophes, physiciens et mathématiciens. Ce groupe, devenu le Cercle de Vienne, se donne un programme en 1929 avec le manifeste <w>La Conception scientifique du monde</w>, rédigé par <per>Hans Hahn</per>, <ph id='neurath'>Otto Neurath</ph> et <ph id='carnap'>Rudolf Carnap</ph> et dédié à Schlick. Héritier de l'<mv id='empiricism'>empirisme</mv> et armé de la logique de <ph id='frege'>Frege</ph> et de <ph id='russell'>Russell</ph>, il lit le <w id='tractatus-logico-philosophicus-wittgenstein'>Tractatus</w> de <ph id='wittgenstein'>Wittgenstein</ph> dans un sens vérificationniste ; Wittgenstein explore lui-même des formules de ce genre vers 1929-1930, dans ses entretiens avec Schlick et <ph>Friedrich Waismann</ph>, sans en faire une doctrine. À Berlin, un groupe réuni autour de <ph id='reichenbach'>Hans Reichenbach</ph> mène un programme proche. L'école n'est pas monolithique : <dif>Schlick cherche un fondement de la connaissance dans l'<c>expérience immédiate</c>, tandis que Neurath soutient qu'un énoncé ne se confronte jamais qu'à d'autres énoncés</dif> ; Carnap finit par adopter un <c>principe de tolérance</c> qui laisse libre le choix de la forme du langage ; en éthique, Schlick fait de la morale une science empirique des motifs, quand <ph id='ayer'>A. J. Ayer</ph> et Carnap n'y voient que l'expression d'attitudes. Ayer donne en 1936 la version anglaise la plus percutante de l'école, <w>Langage, vérité et logique</w>. La montée du nazisme, l'assassinat de Schlick (1936) puis l'Anschluss (1938) dispersent le Cercle : Carnap et Reichenbach gagnent les États-Unis, Neurath finit son exil en Grande-Bretagne. Sous le nom d'<kw>empirisme logique</kw>, le mouvement domine la philosophie des sciences américaine jusqu'aux années 1950 ; les critiques de <ph id='quine'>Quine</ph> (1951), puis une philosophie des sciences plus attentive à l'histoire, en marquent le déclin. La période retenue s'arrête vers 1960 : l'école s'efface comme telle, mais ses travaux se poursuivent et sa méthode marque durablement la philosophie des sciences.",
+    "en": "<mv id='logical-positivism'>Logical positivism</mv> was born in Vienna around <ph id='schlick'>Moritz Schlick</ph>, whose seminar brought together philosophers, physicists and mathematicians from 1924 on. The group, which became the Vienna Circle, gave itself a programme in 1929 with the manifesto <w>The Scientific Conception of the World</w>, written by <per>Hans Hahn</per>, <ph id='neurath'>Otto Neurath</ph> and <ph id='carnap'>Rudolf Carnap</ph> and dedicated to Schlick. Heir to <mv id='empiricism'>empiricism</mv> and armed with the logic of <ph id='frege'>Frege</ph> and <ph id='russell'>Russell</ph>, it read <ph id='wittgenstein'>Wittgenstein</ph>'s <w id='tractatus-logico-philosophicus-wittgenstein'>Tractatus</w> in a verificationist sense; Wittgenstein himself tried out formulas of that kind around 1929-1930, in his conversations with Schlick and <ph>Friedrich Waismann</ph>, without turning them into a doctrine. In Berlin, a group gathered around <ph id='reichenbach'>Hans Reichenbach</ph> pursued a closely related programme. The school was not monolithic: <dif>Schlick looked for a foundation of knowledge in <c>immediate experience</c>, whereas Neurath held that a statement can only ever be compared with other statements</dif>; Carnap came to adopt a <c>principle of tolerance</c> that leaves the choice of linguistic framework open; in ethics, Schlick treated morality as an empirical science of motives, while <ph id='ayer'>A. J. Ayer</ph> and Carnap saw in it only the expression of attitudes. Ayer gave the school its most forceful English statement in 1936, <w>Language, Truth and Logic</w>. The rise of Nazism, Schlick's murder (1936) and then the Anschluss (1938) scattered the Circle: Carnap and Reichenbach went to the United States, while Neurath ended his exile in Britain. Under the name of <kw>logical empiricism</kw>, the movement dominated American philosophy of science until the 1950s; <ph id='quine'>Quine</ph>'s criticisms (1951), followed by a more historically minded philosophy of science, marked its decline. The period recorded here ends around 1960: the school faded as such, but its work went on and its method left a lasting mark on the philosophy of science."
+  },
+  "area": "WEST",
+  "parent": "analytic-philosophy",
+  "period": {
+    "from": 1924,
+    "to": 1960,
+    "approx": true,
+    "afterlife": "HISTORICAL"
+  },
+  "keyFigures": [
+    {
+      "slug": "schlick",
+      "name": {
+        "fr": "Moritz Schlick",
+        "en": "Moritz Schlick"
+      }
+    },
+    {
+      "slug": "carnap",
+      "name": {
+        "fr": "Rudolf Carnap",
+        "en": "Rudolf Carnap"
+      }
+    },
+    {
+      "slug": "neurath",
+      "name": {
+        "fr": "Otto Neurath",
+        "en": "Otto Neurath"
+      }
+    },
+    {
+      "slug": "ayer",
+      "name": {
+        "fr": "A. J. Ayer",
+        "en": "A. J. Ayer"
+      }
+    }
+  ],
+  "entries": [
+    {
+      "axisId": "METAPHILOSOPHY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Pour le Cercle, la philosophie n'est pas une doctrine mais une activité : <ph id='schlick'>Schlick</ph> y voit le « tournant » de la philosophie (1930). Elle n'ajoute pas de vérités à celles des sciences, elle clarifie ce que nos énoncés veulent dire. Le <c>critère de signification</c> donne l'outil de ce tri : un énoncé a un sens cognitif s'il est <c>analytique</c>, vrai ou faux par sa seule forme et le sens de ses termes, ou s'il peut être testé par l'expérience ; sinon c'est un <c>pseudo-énoncé</c>, à écarter plutôt qu'à réfuter. Chez Carnap, l'exigence de vérification stricte des débuts cède bientôt la place à celle, plus souple, de <c>confirmation</c>. <pb>Le critère ne satisfait pas lui-même sa propre exigence</pb> ; ses défenseurs répondent qu'il est une règle proposée pour le langage, non une vérité sur le monde. Le volet réformateur du manifeste, porté par Neurath, prolonge cette clarification sans en faire une philosophie de la transformation du monde.",
+          "en": "For the Circle, philosophy is not a doctrine but an activity: <ph id='schlick'>Schlick</ph> calls this the “turning point” of philosophy (1930). It adds no truths to those of the sciences; it clarifies what our statements mean. The <c>criterion of meaning</c> supplies the tool for this sorting: a statement is cognitively meaningful if it is <c>analytic</c>, true or false by its form and the meaning of its terms alone, or if it can be tested by experience; otherwise it is a <c>pseudo-statement</c>, to be set aside rather than refuted. In Carnap, the early demand for strict verification soon gives way to the looser one of <c>confirmation</c>. <pb>The criterion does not itself meet its own demand</pb>; its defenders reply that it is a rule proposed for language, not a truth about the world. The reforming side of the manifesto, championed by Neurath, extends this clarification without turning it into a philosophy of transforming the world."
+        },
+        "references": [
+          {
+            "fr": "Schlick, « Le tournant de la philosophie » (Erkenntnis, 1930)",
+            "en": "Schlick, “The Turning Point in Philosophy” (Erkenntnis, 1930)"
+          },
+          {
+            "fr": "Ayer, Langage, vérité et logique (1936), ch. I",
+            "en": "Ayer, Language, Truth and Logic (1936), ch. I"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "SCIENCE_PLACE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.85
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "<ph id='carnap'>Carnap</ph> soutient (1932) que les phrases métaphysiques sont dépourvues de sens cognitif : « le Néant lui-même néantit », qu'il emprunte à <ph id='heidegger'>Heidegger</ph>, imite la grammaire d'un énoncé tout en violant la <c>syntaxe logique</c>. Le programme d'<c>unité de la science</c> de <ph id='neurath'>Neurath</ph> prolonge ce partage : un seul langage, celui des sciences, pour tout ce qui peut être connu. La valeur reste en deçà de l'extrême : le Cercle n'attend pas de la science qu'elle remplace la métaphysique en répondant à ses questions, il tient ces questions pour mal posées, et laisse à l'art l'expression du <c>sentiment de la vie</c> que la métaphysique exprimait mal.",
+          "en": "<ph id='carnap'>Carnap</ph> argues (1932) that metaphysical sentences lack cognitive meaning: “the Nothing itself nothings”, which he borrows from <ph id='heidegger'>Heidegger</ph>, imitates the grammar of a statement while violating <c>logical syntax</c>. <ph id='neurath'>Neurath</ph>'s programme of the <c>unity of science</c> extends this division: a single language, that of the sciences, for everything that can be known. The value stops short of the extreme: the Circle does not expect science to replace metaphysics by answering its questions; it holds those questions to be ill-formed, and leaves to art the expression of the <c>attitude toward life</c> that metaphysics expressed badly."
+        },
+        "references": [
+          {
+            "fr": "Carnap, « Le dépassement de la métaphysique par l'analyse logique du langage » (Erkenntnis, 1932)",
+            "en": "Carnap, “The Elimination of Metaphysics through Logical Analysis of Language” (Erkenntnis, 1932)"
+          },
+          {
+            "fr": "Hahn, Neurath, Carnap, La Conception scientifique du monde : le Cercle de Vienne (1929)",
+            "en": "Hahn, Neurath, Carnap, The Scientific Conception of the World: The Vienna Circle (1929)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "KNOWLEDGE_SOURCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.9
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Le Cercle radicalise <ph id='hume'>Hume</ph> contre <ph id='kant'>Kant</ph> : il n'existe pas de jugement <c>synthétique a priori</c>. La logique de <ph id='frege'>Frege</ph> et de <ph id='russell'>Russell</ph>, relue à travers le <w id='tractatus-logico-philosophicus-wittgenstein'>Tractatus</w>, permet de tenir les vérités logiques et mathématiques pour <c>analytiques</c> : vraies en vertu de leur seule forme ou du sens des termes, elles n'apprennent rien sur le monde. <stk>Le rationalisme perd ainsi son meilleur exemple</stk>, celui d'un savoir certain obtenu sans l'expérience. Cet empirisme porte sur la justification de la connaissance du monde, non sur la genèse psychologique des idées : il ne suppose aucune « table rase ».",
+          "en": "The Circle radicalizes <ph id='hume'>Hume</ph> against <ph id='kant'>Kant</ph>: there is no <c>synthetic a priori</c> judgement. The logic of <ph id='frege'>Frege</ph> and <ph id='russell'>Russell</ph>, reread through the <w id='tractatus-logico-philosophicus-wittgenstein'>Tractatus</w>, makes it possible to treat logical and mathematical truths as <c>analytic</c>: true by virtue of their form or of the meaning of their terms alone, they teach nothing about the world. <stk>Rationalism thereby loses its best example</stk>, that of certain knowledge obtained without experience. This empiricism concerns the justification of knowledge of the world, not the psychological origin of ideas: it assumes no “blank slate”."
+        },
+        "references": [
+          {
+            "fr": "Hahn, Neurath, Carnap, La Conception scientifique du monde (1929)",
+            "en": "Hahn, Neurath, Carnap, The Scientific Conception of the World (1929)"
+          },
+          {
+            "fr": "Ayer, Langage, vérité et logique (1936), ch. IV",
+            "en": "Ayer, Language, Truth and Logic (1936), ch. IV"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "GOD_EXISTENCE",
+      "status": "REJECTS_ALTERNATIVE",
+      "note": {
+        "fr": "<ph id='ayer'>Ayer</ph> renvoie dos à dos théisme et athéisme : « Dieu existe » n'étant pas vérifiable, la phrase n'a pas de sens, et sa négation n'en a pas davantage. <ph id='carnap'>Carnap</ph> avait déjà rangé l'usage métaphysique du mot « Dieu » parmi les pseudo-concepts (1932). Ce n'est donc pas un athéisme mais le refus de l'alternative elle-même.",
+        "en": "<ph id='ayer'>Ayer</ph> dismisses theism and atheism alike: since “God exists” cannot be verified, the sentence has no meaning, and its negation has none either. <ph id='carnap'>Carnap</ph> had already counted the metaphysical use of the word “God” among pseudo-concepts (1932). This is therefore not atheism but the refusal of the alternative itself."
+      }
+    },
+    {
+      "axisId": "REALITY_NATURE",
+      "status": "REJECTS_ALTERNATIVE",
+      "note": {
+        "fr": "<ph id='carnap'>Carnap</ph> tient la querelle du réalisme et de l'idéalisme pour un <c>pseudo-problème</c> : deux géographes, l'un réaliste, l'autre idéaliste, décriront la même montagne de la même façon, et aucune expérience ne pourra les départager (<w>Pseudo-problèmes en philosophie</w>, 1928). <ph id='schlick'>Schlick</ph> conclut de même dans « Positivisme et réalisme » (1932).",
+        "en": "<ph id='carnap'>Carnap</ph> regards the quarrel between realism and idealism as a <c>pseudo-problem</c>: two geographers, one a realist and the other an idealist, will describe the same mountain in the same way, and no experience could decide between them (<w>Pseudoproblems in Philosophy</w>, 1928). <ph id='schlick'>Schlick</ph> reaches the same conclusion in “Positivism and Realism” (1932)."
+      }
+    }
+  ],
+  "structuring": [
+    {
+      "axisId": "METAPHILOSOPHY",
+      "thesis": {
+        "fr": "La philosophie n'est pas une doctrine mais une activité : elle ne découvre aucune vérité propre, elle établit le sens de nos énoncés, et c'est aux sciences de dire s'ils sont vrais.",
+        "en": "Philosophy is not a doctrine but an activity: it discovers no truths of its own, it establishes the meaning of our statements, and it is for the sciences to say whether they are true."
+      }
+    },
+    {
+      "axisId": "SCIENCE_PLACE",
+      "thesis": {
+        "fr": "Il n'y a pas de connaissance hors de la science : la métaphysique n'est pas fausse, elle est dénuée de sens.",
+        "en": "There is no knowledge outside science: metaphysics is not false, it is meaningless."
+      }
+    },
+    {
+      "axisId": "KNOWLEDGE_SOURCE",
+      "thesis": {
+        "fr": "Tout savoir sur le monde vient de l'expérience ; la logique et les mathématiques n'en disent rien, elles sont vraies par leur forme ou le sens de leurs termes.",
+        "en": "All knowledge of the world comes from experience; logic and mathematics say nothing about it, they are true by their form or the meaning of their terms."
+      }
+    }
+  ],
+  "identity": {
+    "wikidata": "Q193627",
+    "wikipedia": {
+      "fr": "https://fr.wikipedia.org/wiki/Empirisme_logique",
+      "en": "https://en.wikipedia.org/wiki/Logical_positivism"
+    }
+  },
+  "updatedAt": "2026-10-30T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

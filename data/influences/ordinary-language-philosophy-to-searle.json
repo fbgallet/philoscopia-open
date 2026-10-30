@@ -1,0 +1,25 @@
+{
+  "id": "ordinary-language-philosophy-to-searle",
+  "from": {
+    "kind": "MOVEMENT",
+    "slug": "ordinary-language-philosophy"
+  },
+  "to": {
+    "kind": "PHILOSOPHER",
+    "slug": "searle"
+  },
+  "directness": "ATTESTED",
+  "mode": "CONTINUES",
+  "strength": "STRONG",
+  "note": {
+    "fr": "Élève d'<ph id='austin'>Austin</ph> à Oxford, <ph id='searle'>Searle</ph> systématise sa découverte : il classe les <c>actes de langage</c> et dégage les règles qui font d'un énoncé une promesse, un ordre ou une assertion. Ce qui passe est l'idée que parler, c'est accomplir des actes réglés.",
+    "en": "A student of <ph id='austin'>Austin</ph> at Oxford, <ph id='searle'>Searle</ph> systematized his discovery: he classified <c>speech acts</c> and set out the rules that make an utterance a promise, an order or an assertion. What passes on is the idea that speaking is performing rule-governed acts."
+  },
+  "sources": [
+    {
+      "fr": "Searle, Les Actes de langage (1969)",
+      "en": "Searle, Speech Acts (1969)"
+    }
+  ],
+  "updatedAt": "2026-10-30T00:00:00.000Z"
+}

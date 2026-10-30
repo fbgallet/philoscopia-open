@@ -1,0 +1,27 @@
+{
+  "id": "intuition",
+  "term": {
+    "fr": "Intuition (bergsonienne)",
+    "en": "Intuition (Bergsonian)"
+  },
+  "definition": {
+    "fr": "Chez <ph id='bergson'>Bergson</ph>, une connaissance qui saisit son objet du dedans, en sympathisant avec son mouvement, au lieu de le décomposer en concepts comme le fait l'intelligence. C'est la méthode qu'il assigne à la métaphysique.",
+    "en": "In <ph id='bergson'>Bergson</ph>, a knowledge that grasps its object from within, by sympathizing with its movement, instead of breaking it down into concepts as the intellect does. It is the method he assigns to metaphysics."
+  },
+  "relatedAxes": [
+    "SCIENCE_PLACE",
+    "KNOWLEDGE_SOURCE"
+  ],
+  "relatedTerms": [
+    "duration",
+    "eidetic-intuition"
+  ],
+  "figure": {
+    "slug": "bergson",
+    "name": {
+      "fr": "Bergson",
+      "en": "Bergson"
+    }
+  },
+  "updatedAt": "2026-10-30T00:00:00.000Z"
+}

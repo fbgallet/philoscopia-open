@@ -1,0 +1,25 @@
+{
+  "id": "chan-zen-to-kyoto-school",
+  "from": {
+    "kind": "MOVEMENT",
+    "slug": "chan-zen"
+  },
+  "to": {
+    "kind": "MOVEMENT",
+    "slug": "kyoto-school"
+  },
+  "directness": "ATTESTED",
+  "mode": "TRANSMITS",
+  "strength": "STRONG",
+  "note": {
+    "fr": "<ph id='nishida'>Nishida</ph> pratiqua longuement le zazen avant d'écrire sa première œuvre, et <ph id='nishitani'>Nishitani</ph> fit du Zen l'interlocuteur privilégié de la philosophie occidentale. L'<mv id='kyoto-school'>école de Kyoto</mv> reprend du <mv id='chan-zen'>Zen</mv> l'expérience en deçà de la séparation du sujet et de l'objet.",
+    "en": "<ph id='nishida'>Nishida</ph> practised zazen for many years before writing his first work, and <ph id='nishitani'>Nishitani</ph> made Zen the privileged interlocutor of Western philosophy. The <mv id='kyoto-school'>Kyoto School</mv> takes from <mv id='chan-zen'>Zen</mv> the experience prior to the split between subject and object."
+  },
+  "sources": [
+    {
+      "fr": "Nishitani, Qu'est-ce que la religion ? (1961)",
+      "en": "Nishitani, Religion and Nothingness (1961)"
+    }
+  ],
+  "updatedAt": "2026-10-30T00:00:00.000Z"
+}

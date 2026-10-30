@@ -1,0 +1,31 @@
+{
+  "id": "apophatic-way",
+  "term": {
+    "fr": "Voie négative (théologie apophatique)",
+    "en": "Negative way (apophatic theology)"
+  },
+  "aliases": {
+    "fr": [
+      "voie négative",
+      "apophatique",
+      "théologie négative"
+    ],
+    "en": [
+      "negative way",
+      "apophatic",
+      "negative theology"
+    ]
+  },
+  "definition": {
+    "fr": "Manière de parler du <c>premier principe</c> ou de Dieu en niant qu'on puisse lui appliquer au sens propre les propriétés tirées des êtres finis : on dit par exemple que Dieu n'est pas un corps, n'est pas dans le temps. Le <mv id='neoplatonism'>néoplatonisme</mv> en est une source majeure ; le <ph>Pseudo-Denys</ph> la fait entrer dans la théologie chrétienne, et <ph id='maimonides'>Maïmonide</ph> la développe autrement, en n'admettant de Dieu que des attributs négatifs ou ceux de ses actions.",
+    "en": "A way of speaking of the <c>first principle</c> or of God that denies that properties drawn from finite beings can be applied to it literally: one says, for example, that God is not a body and is not in time. <mv id='neoplatonism'>Neoplatonism</mv> is a major source of it; <ph>Pseudo-Dionysius</ph> brought it into Christian theology, and <ph id='maimonides'>Maimonides</ph> developed it differently, admitting of God only negative attributes or attributes of his actions."
+  },
+  "relatedAxes": [
+    "TRANSCENDENCE"
+  ],
+  "relatedTerms": [
+    "the-one",
+    "tanzih"
+  ],
+  "updatedAt": "2026-10-30T00:00:00.000Z"
+}

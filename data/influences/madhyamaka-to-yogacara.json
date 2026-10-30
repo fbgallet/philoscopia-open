@@ -1,0 +1,29 @@
+{
+  "id": "madhyamaka-to-yogacara",
+  "from": {
+    "kind": "MOVEMENT",
+    "slug": "madhyamaka"
+  },
+  "to": {
+    "kind": "MOVEMENT",
+    "slug": "yogacara"
+  },
+  "directness": "ATTESTED",
+  "mode": "REINTERPRETS",
+  "strength": "STRONG",
+  "note": {
+    "fr": "Le <mv id='yogacara'>Yogācāra</mv> reprend la <c id='sunyata'>vacuité</c> de la <mv id='madhyamaka'>Madhyamaka</mv> mais refuse qu'on la lise comme un pur néant : la doctrine des trois natures distingue ce qui est imaginé, ce qui dépend d'autre chose et ce qui est accompli, et conserve à la conscience une existence dépendante.",
+    "en": "<mv id='yogacara'>Yogācāra</mv> takes up <mv id='madhyamaka'>Madhyamaka</mv>'s <c id='sunyata'>emptiness</c> but refuses to read it as sheer nothingness: the doctrine of the three natures distinguishes what is imagined, what depends on something else and what is perfected, and grants consciousness a dependent existence."
+  },
+  "sources": [
+    {
+      "fr": "Saṃdhinirmocana sūtra, VI-VII",
+      "en": "Saṃdhinirmocana Sūtra, VI-VII"
+    },
+    {
+      "fr": "Vasubandhu, Trisvabhāvanirdeśa",
+      "en": "Vasubandhu, Trisvabhāvanirdeśa"
+    }
+  ],
+  "updatedAt": "2026-10-30T00:00:00.000Z"
+}

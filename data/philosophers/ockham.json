@@ -1,0 +1,41 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "ockham",
+  "stub": true,
+  "name": {
+    "fr": "Ockham",
+    "en": "Ockham"
+  },
+  "aliases": {
+    "fr": [
+      "Guillaume d'Ockham",
+      "ockhamiste",
+      "ockhamisme"
+    ],
+    "en": [
+      "William of Ockham",
+      "Occam",
+      "Ockhamist",
+      "Ockhamism"
+    ]
+  },
+  "summary": {
+    "fr": "Franciscain et logicien anglais, figure majeure du <c id='nominalism'>nominalisme</c> : il n'admet que des individus, fait primer la toute-puissance divine et a donné son nom au principe d'économie, le « rasoir d'Ockham ».",
+    "en": "English Franciscan and logician, a major figure of <c id='nominalism'>nominalism</c>: he admits only individuals, gives primacy to divine omnipotence and lent his name to the principle of parsimony, \"Ockham's razor\"."
+  },
+  "birth": 1287,
+  "death": 1347,
+  "datesApprox": true,
+  "nationality": {
+    "fr": "Anglais",
+    "en": "English"
+  },
+  "language": "lat",
+  "movements": [
+    "scholasticism"
+  ],
+  "updatedAt": "2026-10-30T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

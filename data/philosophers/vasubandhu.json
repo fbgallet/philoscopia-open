@@ -1,0 +1,28 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "vasubandhu",
+  "stub": true,
+  "name": {
+    "fr": "Vasubandhu",
+    "en": "Vasubandhu"
+  },
+  "summary": {
+    "fr": "Moine et philosophe indien, frère d'Asaṅga : après un grand traité d'Abhidharma, il donne au <mv id='yogacara'>Yogācāra</mv> ses textes les plus concis, les Vingt et les Trente Stances.",
+    "en": "Indian monk and philosopher, Asaṅga's brother: after a major Abhidharma treatise, he gave <mv id='yogacara'>Yogācāra</mv> its most concise texts, the Twenty and the Thirty Verses."
+  },
+  "birth": 316,
+  "death": 396,
+  "datesApprox": true,
+  "nationality": {
+    "fr": "Indien",
+    "en": "Indian"
+  },
+  "language": "san",
+  "movements": [
+    "yogacara"
+  ],
+  "updatedAt": "2026-10-30T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

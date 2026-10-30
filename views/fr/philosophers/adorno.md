@@ -2,7 +2,7 @@
 
 # Theodor W. Adorno
 
-*1903 – 1969 · Allemand*
+*1903 – 1969 · Allemand · [École de Francfort](../movements/frankfurt-school.md)*
 
 Philosophe et sociologue allemand de l'École de Francfort : avec Horkheimer, dans la Dialectique de la raison, il analyse comment la raison des Lumières, en se faisant instrument de domination de la nature, se retourne en nouvelle barbarie ; théoricien d'une « dialectique négative » rétive à toute réconciliation.
 

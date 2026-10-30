@@ -1,0 +1,37 @@
+{
+  "id": "theurgy",
+  "term": {
+    "fr": "Théurgie",
+    "en": "Theurgy"
+  },
+  "aliases": {
+    "fr": [
+      "théurgique",
+      "théurgiques"
+    ],
+    "en": [
+      "theurgic"
+    ]
+  },
+  "definition": {
+    "fr": "Ensemble de rites par lesquels le néoplatonisme tardif pensait unir l'âme aux dieux. Pour <ph id='iamblichus'>Jamblique</ph>, ce n'est pas la pensée qui nous relie aux dieux mais des actes sacrés dont l'efficacité vient d'eux. <ph id='proclus'>Proclus</ph> place la théurgie au-dessus de la philosophie, que <ph id='plotinus'>Plotin</ph> jugeait suffisante pour remonter vers l'<c id='the-one'>Un</c>.",
+    "en": "The set of rites by which late Neoplatonism sought to unite the soul with the gods. For <ph id='iamblichus'>Iamblichus</ph>, it is not thought that binds us to the gods but sacred acts whose efficacy comes from them. <ph id='proclus'>Proclus</ph> ranks theurgy above philosophy, which <ph id='plotinus'>Plotinus</ph> had deemed sufficient for the ascent towards the <c id='the-one'>One</c>."
+  },
+  "relatedAxes": [
+    "LIFE_MEANING",
+    "METAPHILOSOPHY"
+  ],
+  "relatedTerms": [
+    "the-one",
+    "henosis",
+    "epistrophe"
+  ],
+  "figure": {
+    "slug": "iamblichus",
+    "name": {
+      "fr": "Jamblique",
+      "en": "Iamblichus"
+    }
+  },
+  "updatedAt": "2026-10-30T00:00:00.000Z"
+}

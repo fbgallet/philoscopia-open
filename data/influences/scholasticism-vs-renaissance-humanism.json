@@ -1,0 +1,29 @@
+{
+  "id": "scholasticism-vs-renaissance-humanism",
+  "from": {
+    "kind": "MOVEMENT",
+    "slug": "scholasticism"
+  },
+  "to": {
+    "kind": "MOVEMENT",
+    "slug": "renaissance-humanism"
+  },
+  "directness": "ATTESTED",
+  "mode": "REACTS_AGAINST",
+  "strength": "STRONG",
+  "note": {
+    "fr": "Les humanistes reprochent à la <mv id='scholasticism'>scolastique</mv> son latin barbare et des subtilités qui ne rendent personne meilleur. <ph id='petrarch'>Pétrarque</ph> se moque des dialecticiens, et <ph id='erasmus'>Érasme</ph> raille les théologiens dans l'<w>Éloge de la folie</w>.",
+    "en": "The humanists blamed <mv id='scholasticism'>scholasticism</mv> for its barbarous Latin and for subtleties that make no one better. <ph id='petrarch'>Petrarch</ph> mocked the dialecticians, and <ph id='erasmus'>Erasmus</ph> lampooned the theologians in <w>The Praise of Folly</w>."
+  },
+  "sources": [
+    {
+      "fr": "Pétrarque, De mon ignorance et de celle de beaucoup d'autres",
+      "en": "Petrarch, On His Own Ignorance and That of Many Others"
+    },
+    {
+      "fr": "Érasme, Éloge de la folie (1511)",
+      "en": "Erasmus, The Praise of Folly (1511)"
+    }
+  ],
+  "updatedAt": "2026-10-30T00:00:00.000Z"
+}

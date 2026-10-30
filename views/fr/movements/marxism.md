@@ -254,6 +254,7 @@ Les droits formels (voter, contracter, posséder) laissent intacte la contrainte
 
 ## Influence sur
 
+- **[École de Francfort](../movements/frankfurt-school.md)** (réinterprète) : L'[école de Francfort](../movements/frankfurt-school.md) part de la critique de l'économie politique de [Marx](../philosophers/marx.md), mais l'écarte de son schéma historique : faute de sujet révolutionnaire, la critique porte sur la culture, la personnalité et la raison elle-même, et refuse le marxisme officiel de l'URSS.
 - **[Camus](../philosophers/camus.md)** (réagit contre) : L'Homme révolté s'écrit contre le [marxisme](../movements/marxism.md) comme religion de l'Histoire : [Camus](../philosophers/camus.md) refuse que la fin révolutionnaire justifie la terreur et oppose la révolte, qui pose une limite, à la révolution qui l'abolit.
 
 ---

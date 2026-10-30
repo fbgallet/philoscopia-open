@@ -2,7 +2,7 @@
 
 # Plotin
 
-*204 – 270 · Grec · [Platonisme](../movements/platonism.md)*
+*204 – 270 · Grec · [Néoplatonisme](../movements/neoplatonism.md)*
 
 Philosophe de langue grecque de l'Antiquité tardive (vers 204-270), né en Égypte romaine et formé à Alexandrie auprès d'Ammonios Saccas, Plotin enseigne ensuite à Rome, où il fonde un cercle de disciples. Il est le principal fondateur de ce qu'on appellera le [néoplatonisme](../movements/platonism.md) : non un système nouveau, à ses yeux, mais l'explicitation fidèle de [Platon](../philosophers/plato.md), qu'il systématise et infléchit vers la mystique. Il n'a écrit que tard et sans souci d'ordre ; ses traités furent réunis et édités après sa mort par son disciple Porphyre, qui les classa en six groupes de neuf, les *[Ennéades](../works/enneads-plotinus.md)*. Sa pensée des trois principes, l'Un, l'Intellect et l'Âme, irriguera la théologie chrétienne, en particulier [Augustin](../philosophers/augustine.md), ainsi que les traditions juive et musulmane, jusqu'à la Renaissance florentine.
 

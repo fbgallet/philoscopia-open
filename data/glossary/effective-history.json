@@ -1,0 +1,36 @@
+{
+  "id": "effective-history",
+  "term": {
+    "fr": "Histoire de l'efficience (Wirkungsgeschichte)",
+    "en": "Effective history (Wirkungsgeschichte)"
+  },
+  "aliases": {
+    "fr": [
+      "Wirkungsgeschichte"
+    ],
+    "en": [
+      "Wirkungsgeschichte",
+      "history of effects"
+    ]
+  },
+  "definition": {
+    "fr": "L'histoire des effets qu'une œuvre a produits, qui façonne à la fois l'œuvre telle qu'elle nous parvient et la situation de celui qui l'interprète. La « conscience de l'histoire de l'efficience » est, pour <ph id='gadamer'>Gadamer</ph>, la conscience, toujours partielle, qu'a l'interprète d'être façonné par ce qui le précède.",
+    "en": "The history of the effects a work has produced, which shapes both the work as it reaches us and the situation of its interpreter. \"Historically effected consciousness\" is, for <ph id='gadamer'>Gadamer</ph>, the interpreter's always partial awareness of being shaped by what precedes them."
+  },
+  "relatedAxes": [
+    "TIME_ORIENTATION",
+    "PAST_RELATION"
+  ],
+  "relatedTerms": [
+    "prejudice",
+    "fusion-of-horizons"
+  ],
+  "figure": {
+    "slug": "gadamer",
+    "name": {
+      "fr": "Gadamer",
+      "en": "Gadamer"
+    }
+  },
+  "updatedAt": "2026-10-30T00:00:00.000Z"
+}

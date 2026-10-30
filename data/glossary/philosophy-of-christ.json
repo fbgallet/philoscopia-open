@@ -1,0 +1,33 @@
+{
+  "id": "philosophy-of-christ",
+  "term": {
+    "fr": "Philosophie du Christ",
+    "en": "Philosophy of Christ"
+  },
+  "aliases": {
+    "fr": [
+      "philosophia Christi"
+    ],
+    "en": [
+      "philosophia Christi"
+    ]
+  },
+  "definition": {
+    "fr": "Formule d'<ph id='erasmus'>Érasme</ph> pour une piété simple et intérieure, fondée sur l'Évangile relu dans ses sources plutôt que sur la théologie des écoles ou les pratiques extérieures.",
+    "en": "<ph id='erasmus'>Erasmus</ph>'s phrase for a simple, inward piety grounded in the Gospel reread in its sources rather than in the theology of the schools or in outward practices."
+  },
+  "relatedAxes": [
+    "FAITH_REASON"
+  ],
+  "relatedTerms": [
+    "studia-humanitatis"
+  ],
+  "figure": {
+    "slug": "erasmus",
+    "name": {
+      "fr": "Érasme",
+      "en": "Erasmus"
+    }
+  },
+  "updatedAt": "2026-10-30T00:00:00.000Z"
+}

@@ -2,7 +2,7 @@
 
 # Albert le Grand
 
-*1200 – 1280 · Allemand · [Aristotélisme](../movements/aristotelianism.md)*
+*1200 – 1280 · Allemand · [Aristotélisme](../movements/aristotelianism.md), [Scolastique](../movements/scholasticism.md)*
 
 Théologien et savant dominicain allemand, l'un des premiers à commenter l'ensemble du corpus d'Aristote pour l'Occident latin ; maître de Thomas d'Aquin, à qui il transmit le goût des sciences de la nature et de l'aristotélisme.
 

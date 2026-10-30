@@ -1,0 +1,174 @@
+{
+  "kind": "MOVEMENT",
+  "id": "structuralism",
+  "name": {
+    "fr": "Structuralisme",
+    "en": "Structuralism"
+  },
+  "tagline": {
+    "fr": "Chercher le sens non dans ce que les hommes veulent dire, mais dans les systèmes de différences qui parlent à travers eux.",
+    "en": "Looking for meaning not in what people mean to say, but in the systems of differences that speak through them."
+  },
+  "aliases": {
+    "fr": [
+      "structuraliste",
+      "structuralistes"
+    ],
+    "en": [
+      "structuralist"
+    ]
+  },
+  "summary": {
+    "fr": "Méthode née de la linguistique de <ph id='saussure'>Ferdinand de Saussure</ph>, selon laquelle un signe ne vaut que par ses différences avec les autres, puis développée par la phonologie de Prague et de <per>Roman Jakobson</per> ; elle devient dans la France des années 1950 et 1960 le modèle commun d'une grande partie des sciences humaines. <ph id='levi-strauss'>Claude Lévi-Strauss</ph>, qui a découvert la phonologie à New York auprès de Jakobson, l'applique à la parenté (<w id='elementary-structures-of-kinship-levi-strauss'>Les Structures élémentaires de la parenté</w>, 1949) puis aux mythes. <ph id='lacan'>Jacques Lacan</ph> relit <ph id='freud'>Freud</ph> à sa lumière, <ph id='althusser'>Louis Althusser</ph> relit <ph id='marx'>Marx</ph>, <ph>Roland Barthes</ph> les signes de la culture. <dif>Ces auteurs ne formèrent jamais une école unifiée autour d'un programme partagé par tous ; <ph id='foucault'>Foucault</ph>, souvent rangé parmi eux, refusa l'étiquette.</dif> Il s'affirme contre les philosophies du sujet, l'<mv id='existentialism'>existentialisme</mv> surtout, tout en dialoguant avec la <mv id='phenomenology'>phénoménologie</mv> (Merleau-Ponty lit Saussure). Les dates retenues ici (1949-1971, des <w id='elementary-structures-of-kinship-levi-strauss'>Structures élémentaires</w> au dernier volume des <w>Mythologiques</w>) sont des repères : les approches structurales se prolongent dans l'œuvre de Lacan et d'Althusser, tandis que les pensées dites « poststructuralistes », à commencer par celle de <ph id='derrida'>Derrida</ph>, se développent dès le milieu des années 1960 en le discutant.",
+    "en": "A method born of <ph id='saussure'>Ferdinand de Saussure</ph>'s linguistics, in which a sign is defined only by its differences from the others, then developed by the phonology of Prague and of <per>Roman Jakobson</per>; in France in the 1950s and 1960s it became the shared model for much of the human sciences. <ph id='levi-strauss'>Claude Lévi-Strauss</ph>, who discovered phonology in New York through Jakobson, applied it to kinship (<w id='elementary-structures-of-kinship-levi-strauss'>The Elementary Structures of Kinship</w>, 1949) and then to myths. <ph id='lacan'>Jacques Lacan</ph> reread <ph id='freud'>Freud</ph> in its light, <ph id='althusser'>Louis Althusser</ph> reread <ph id='marx'>Marx</ph>, and <ph>Roland Barthes</ph> the signs of culture. <dif>These authors never formed a unified school around a programme shared by all; <ph id='foucault'>Foucault</ph>, often counted among them, rejected the label.</dif> It asserted itself against philosophies of the subject, above all <mv id='existentialism'>existentialism</mv>, while remaining in dialogue with <mv id='phenomenology'>phenomenology</mv> (Merleau-Ponty read Saussure). The dates used here (1949-1971, from the <w id='elementary-structures-of-kinship-levi-strauss'>Elementary Structures</w> to the last volume of the <w>Mythologiques</w>) are landmarks: structuralist approaches continued in the work of Lacan and Althusser, while the currents called \"post-structuralist\", starting with <ph id='derrida'>Derrida</ph>'s, were developing from the mid-1960s by debating it."
+  },
+  "area": "WEST",
+  "period": {
+    "from": 1949,
+    "to": 1971,
+    "approx": true,
+    "afterlife": "HISTORICAL"
+  },
+  "keyFigures": [
+    {
+      "slug": "levi-strauss",
+      "name": {
+        "fr": "Lévi-Strauss",
+        "en": "Lévi-Strauss"
+      }
+    },
+    {
+      "slug": "lacan",
+      "name": {
+        "fr": "Lacan",
+        "en": "Lacan"
+      }
+    },
+    {
+      "slug": "althusser",
+      "name": {
+        "fr": "Althusser",
+        "en": "Althusser"
+      }
+    }
+  ],
+  "structuring": [
+    {
+      "axisId": "INDIVIDUAL_SOCIETY",
+      "thesis": {
+        "fr": "Ce ne sont pas les termes qui font le système, c'est le système qui fait les termes : un individu, une règle, un mot ne prennent sens que par leur place dans une structure.",
+        "en": "It is not the terms that make the system but the system that makes the terms: an individual, a rule, a word only takes on meaning through its place in a structure."
+      }
+    },
+    {
+      "axisId": "FREEDOM",
+      "thesis": {
+        "fr": "Le sujet n'est pas la source première du sens : la langue, la parenté et l'inconscient le précèdent et bornent, à son insu, ce qu'il peut penser et vouloir.",
+        "en": "The subject is not the first source of meaning: language, kinship and the unconscious precede it and set limits, without its knowing, on what it can think and will."
+      }
+    }
+  ],
+  "entries": [
+    {
+      "axisId": "INDIVIDUAL_SOCIETY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.85
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "<ph id='saussure'>Saussure</ph> avait montré que la <c>valeur</c> d'un terme, dans la langue, est purement différentielle, même si le signe pris en entier est un fait positif. <ph id='levi-strauss'>Lévi-Strauss</ph> en fait une méthode : la <c id='incest-prohibition'>prohibition de l'inceste</c>, partout présente sous des formes variées, s'explique comme règle d'échange entre groupes, non par l'intention des individus. <ph id='lacan'>Lacan</ph> soutient que l'<c id='unconscious'>inconscient</c> est <q>structuré comme un langage</q>. L'objet de la science n'est plus l'acteur mais le système de relations : c'est une priorité de méthode accordée aux relations, qui place le courant du côté du <c id='holism'>holisme</c>.",
+          "en": "<ph id='saussure'>Saussure</ph> had shown that the <c>value</c> of a term in language is purely differential, even though the sign taken as a whole is a positive fact. <ph id='levi-strauss'>Lévi-Strauss</ph> turned this into a method: the <c id='incest-prohibition'>incest prohibition</c>, present everywhere in varied forms, is explained as a rule of exchange between groups, not by the intentions of individuals. <ph id='lacan'>Lacan</ph> holds that the <c id='unconscious'>unconscious</c> is <q>structured like a language</q>. The object of science is no longer the actor but the system of relations: a methodological priority given to relations, which places the movement on the side of <c id='holism'>holism</c>."
+        },
+        "references": [
+          {
+            "fr": "Saussure, Cours de linguistique générale (1916), IIe partie, ch. IV",
+            "en": "Saussure, Course in General Linguistics (1916), Part II, ch. IV"
+          },
+          {
+            "fr": "Lévi-Strauss, Les Structures élémentaires de la parenté (1949)",
+            "en": "Lévi-Strauss, The Elementary Structures of Kinship (1949)"
+          },
+          {
+            "fr": "Lacan, Écrits (1966), « Position de l'inconscient » ; Le Séminaire, livre XI (1964)",
+            "en": "Lacan, Écrits (1966), \"Position of the Unconscious\"; Seminar XI (1964)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "FREEDOM",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.5
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Le structuralisme ne nie pas l'action humaine ; il conteste que la conscience en soit la clé. <q>Le but dernier des sciences humaines n'est pas de constituer l'homme, mais de le dissoudre</q>, écrit <ph id='levi-strauss'>Lévi-Strauss</ph>. <ph id='althusser'>Althusser</ph> défend un <c id='theoretical-anti-humanism'>antihumanisme théorique</c> : l'histoire est un <c id='theoretical-anti-humanism'>procès sans sujet</c> : aucun sujet constituant (l'Homme, l'Esprit, la classe comme conscience) ne la dirige, ce qui n'ôte pas aux acteurs leur capacité d'action politique ; et l'<c id='ideology'>idéologie</c> fait des individus des sujets. <dif>Il s'agit d'une détermination du sujet par des structures, qu'Althusser pense comme une <c>causalité structurale</c> : la structure n'existe que dans ses effets, qu'elle produit en organisant les rapports entre les éléments, plutôt que d'une thèse sur le libre arbitre : d'où la valeur modérée.</dif>",
+          "en": "Structuralism does not deny human action; it disputes that consciousness is its key. <q>The ultimate goal of the human sciences is not to constitute man but to dissolve him</q>, writes <ph id='levi-strauss'>Lévi-Strauss</ph>. <ph id='althusser'>Althusser</ph> defends a <c id='theoretical-anti-humanism'>theoretical anti-humanism</c>: history is a <c id='theoretical-anti-humanism'>process without a subject</c>: no constituting subject (Man, Spirit, the class as consciousness) directs it, which does not deprive actors of their capacity for political action; and <c id='ideology'>ideology</c> turns individuals into subjects. <dif>What is at stake is the subject's determination by structures, which Althusser conceives as <c>structural causality</c>: the structure exists only in its effects, which it produces by organizing the relations between elements, rather than a thesis about free will: hence the moderate value.</dif>"
+        },
+        "references": [
+          {
+            "fr": "Lévi-Strauss, La Pensée sauvage (1962), ch. IX",
+            "en": "Lévi-Strauss, The Savage Mind (1962), ch. IX"
+          },
+          {
+            "fr": "Althusser, Pour Marx (1965), « Marxisme et humanisme »",
+            "en": "Althusser, For Marx (1965), \"Marxism and Humanism\""
+          },
+          {
+            "fr": "Althusser et al., Lire le Capital (1965)",
+            "en": "Althusser et al., Reading Capital (1965)"
+          },
+          {
+            "fr": "Althusser, « Idéologie et appareils idéologiques d'État » (1970)",
+            "en": "Althusser, \"Ideology and Ideological State Apparatuses\" (1970)"
+          }
+        ],
+        "strength": "MEDIUM"
+      },
+      "note": {
+        "fr": "La position porte sur la détermination du sujet par des structures (langue, parenté, inconscient, rapports de production), non sur le déterminisme physique ni sur la négation explicite du libre arbitre.",
+        "en": "The position concerns the subject's determination by structures (language, kinship, the unconscious, relations of production), not physical determinism or an explicit denial of free will."
+      }
+    },
+    {
+      "axisId": "HISTORY_MEANING",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.35
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Dans le dernier chapitre de <w>La Pensée sauvage</w>, <ph id='levi-strauss'>Lévi-Strauss</ph> répond à la <w>Critique de la raison dialectique</w> de <ph id='sartre'>Sartre</ph> : l'histoire n'est pas le lieu privilégié où l'humanité prend sens, c'est un ordre de connaissance parmi d'autres. <dif><ph id='althusser'>Althusser</ph> garde au contraire une explication structurale de l'histoire, mue par la <c>lutte des classes</c>, mais lui refuse tout but fixé d'avance.</dif> Il faut distinguer ici trois choses : l'absence de fin, que le courant affirme ; l'explication causale de l'histoire, qu'il ne nie pas ; la contingence complète, qu'il ne professe pas. D'où une valeur faible vers la contingence : le courant refuse un sens de l'histoire, non toute régularité historique.",
+          "en": "In the last chapter of <w>The Savage Mind</w>, <ph id='levi-strauss'>Lévi-Strauss</ph> answers <ph id='sartre'>Sartre</ph>'s <w>Critique of Dialectical Reason</w>: history is not the privileged place where humanity finds its meaning, but one order of knowledge among others. <dif><ph id='althusser'>Althusser</ph>, by contrast, keeps a structural explanation of history, driven by <c>class struggle</c>, but denies it any goal set in advance.</dif> Three things must be distinguished here: the absence of an end, which the movement asserts; the causal explanation of history, which it does not deny; and complete contingency, which it does not profess. Hence a weak value towards contingency: the movement rejects a meaning of history, not every historical regularity."
+        },
+        "references": [
+          {
+            "fr": "Lévi-Strauss, La Pensée sauvage (1962), ch. IX",
+            "en": "Lévi-Strauss, The Savage Mind (1962), ch. IX"
+          },
+          {
+            "fr": "Althusser, Réponse à John Lewis (1973)",
+            "en": "Althusser, Reply to John Lewis (1973)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    }
+  ],
+  "updatedAt": "2026-10-30T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

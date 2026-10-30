@@ -1,0 +1,40 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "duns-scotus",
+  "stub": true,
+  "name": {
+    "fr": "Duns Scot",
+    "en": "Duns Scotus"
+  },
+  "aliases": {
+    "fr": [
+      "Jean Duns Scot",
+      "scotiste",
+      "scotisme"
+    ],
+    "en": [
+      "John Duns Scotus",
+      "Scotist",
+      "Scotism"
+    ]
+  },
+  "summary": {
+    "fr": "Théologien franciscain écossais, surnommé le « Docteur subtil » : il défend l'univocité de l'être et pense l'individualité par l'« eccéité », contre la synthèse de Thomas d'Aquin.",
+    "en": "Scottish Franciscan theologian, nicknamed the \"Subtle Doctor\": he defends the univocity of being and accounts for individuality through \"haecceity\", against the synthesis of Thomas Aquinas."
+  },
+  "birth": 1266,
+  "death": 1308,
+  "datesApprox": true,
+  "nationality": {
+    "fr": "Écossais",
+    "en": "Scottish"
+  },
+  "language": "lat",
+  "movements": [
+    "scholasticism"
+  ],
+  "updatedAt": "2026-10-30T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

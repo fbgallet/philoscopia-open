@@ -2,7 +2,7 @@
 
 # Anselme de Cantorbéry
 
-*1033 – 1109 · Italien*
+*1033 – 1109 · Italien · [Scolastique](../movements/scholasticism.md)*
 
 Moine et théologien médiéval, archevêque de Cantorbéry, auteur de l'argument ontologique : Dieu, « ce dont rien de plus grand ne peut être pensé », ne peut pas ne pas exister.
 

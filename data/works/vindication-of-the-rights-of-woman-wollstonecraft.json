@@ -1,0 +1,20 @@
+{
+  "id": "vindication-of-the-rights-of-woman-wollstonecraft",
+  "title": {
+    "fr": "Défense des droits de la femme",
+    "en": "A Vindication of the Rights of Woman"
+  },
+  "author": {
+    "slug": "wollstonecraft",
+    "name": {
+      "fr": "Wollstonecraft",
+      "en": "Wollstonecraft"
+    }
+  },
+  "year": 1792,
+  "presentation": {
+    "fr": "Essai de <ph id='wollstonecraft'>Mary Wollstonecraft</ph> qui réclame pour les femmes une éducation rationnelle : leur infériorité apparente vient de ce qu'on les élève pour plaire. Il répond notamment à l'<w>Émile</w> de Rousseau.",
+    "en": "An essay by <ph id='wollstonecraft'>Mary Wollstonecraft</ph> demanding a rational education for women: their apparent inferiority comes from their being brought up to please. It answers, among others, Rousseau's <w>Emile</w>."
+  },
+  "updatedAt": "2026-10-30T00:00:00.000Z"
+}

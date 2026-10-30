@@ -20,7 +20,7 @@
     "en": "German"
   },
   "language": "deu",
-  "movements": [],
+  "movements": ["frankfurt-school"],
   "updatedAt": "2026-06-28T00:00:00.000Z",
   "validation": {
     "method": "NOT_VALIDATED"

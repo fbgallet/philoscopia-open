@@ -1,0 +1,19 @@
+{
+  "id": "determinate-negation",
+  "term": {
+    "fr": "Négation déterminée",
+    "en": "Determinate negation"
+  },
+  "definition": {
+    "fr": "Chez <ph id='hegel'>Hegel</ph>, une négation qui ne détruit pas simplement ce qu'elle nie mais en conserve un contenu et produit quelque chose de nouveau. <ph id='adorno'>Adorno</ph> la retourne contre tout système : critiquer ce qui est en montrant ce qui lui manque, sans prétendre réconcilier le tout.",
+    "en": "In <ph id='hegel'>Hegel</ph>, a negation that does not simply destroy what it negates but keeps some of its content and produces something new. <ph id='adorno'>Adorno</ph> turns it against every system: criticizing what is by showing what it lacks, without claiming to reconcile the whole."
+  },
+  "relatedAxes": [
+    "METAPHILOSOPHY"
+  ],
+  "relatedTerms": [
+    "aufhebung",
+    "critical-theory"
+  ],
+  "updatedAt": "2026-10-30T00:00:00.000Z"
+}

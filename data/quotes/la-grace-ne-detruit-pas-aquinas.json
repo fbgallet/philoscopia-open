@@ -1,0 +1,8 @@
+{
+  "id": "la-grace-ne-detruit-pas-aquinas",
+  "text": { "fr": "La grâce ne détruit pas la nature, mais elle la parfait.", "en": "Grace does not destroy nature but perfects it." },
+  "author": { "name": { "fr": "Thomas d'Aquin", "en": "Thomas Aquinas" }, "kind": "PHILOSOPHER", "slug": "aquinas" },
+  "source": { "fr": "Somme théologique, I, q. 1, a. 8, ad 2", "en": "Summa Theologiae, I, q. 1, a. 8, ad 2" },
+  "anchors": [{ "axisId": "FAITH_REASON", "poleId": "HARMONY" }],
+  "updatedAt": "2026-10-30T00:00:00.000Z"
+}

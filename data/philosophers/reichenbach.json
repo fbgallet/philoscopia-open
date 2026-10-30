@@ -1,0 +1,30 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "reichenbach",
+  "stub": true,
+  "name": {
+    "fr": "Hans Reichenbach",
+    "en": "Hans Reichenbach"
+  },
+  "summary": {
+    "fr": "Philosophe des sciences allemand, animateur à Berlin d'un groupe proche du Cercle de Vienne ; exilé aux États-Unis, il devient l'une des voix de l'empirisme logique, notamment sur l'espace-temps et la probabilité.",
+    "en": "German philosopher of science who led in Berlin a group close to the Vienna Circle; exiled to the United States, he became one of the voices of logical empiricism, notably on space-time and probability."
+  },
+  "birth": 1891,
+  "death": 1953,
+  "nationality": {
+    "fr": "Allemand",
+    "en": "German"
+  },
+  "language": "deu",
+  "otherLanguages": [
+    "eng"
+  ],
+  "movements": [
+    "logical-positivism"
+  ],
+  "updatedAt": "2026-10-30T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

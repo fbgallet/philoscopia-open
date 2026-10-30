@@ -1,0 +1,27 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "ayer",
+  "stub": true,
+  "name": {
+    "fr": "A. J. Ayer",
+    "en": "A. J. Ayer"
+  },
+  "summary": {
+    "fr": "Philosophe britannique qui fit connaître le positivisme logique dans le monde anglophone avec Langage, vérité et logique (1936), manifeste vif du principe de vérification et de l'émotivisme moral.",
+    "en": "British philosopher who brought logical positivism to the English-speaking world with Language, Truth and Logic (1936), a lively manifesto of the verification principle and of moral emotivism."
+  },
+  "birth": 1910,
+  "death": 1989,
+  "nationality": {
+    "fr": "Britannique",
+    "en": "British"
+  },
+  "language": "eng",
+  "movements": [
+    "logical-positivism"
+  ],
+  "updatedAt": "2026-10-30T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

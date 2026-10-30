@@ -1,0 +1,30 @@
+{
+  "id": "koan",
+  "term": {
+    "fr": "Kōan",
+    "en": "Kōan"
+  },
+  "aliases": {
+    "fr": [
+      "koan",
+      "gong'an"
+    ],
+    "en": [
+      "koan",
+      "gong'an"
+    ]
+  },
+  "definition": {
+    "fr": "Cas exemplaire, souvent un dialogue, une question ou une parole de maître, utilisé dans l'enseignement et la pratique du <mv id='chan-zen'>Chan et du Zen</mv> ; le chinois <i>gong'an</i> signifie « cas public ». Il est fréquemment paradoxal, sans l'être toujours, et sert de support à une enquête soutenue, vérifiée dans des entretiens avec le maître, qui vise l'éveil : <ex>« Quel est le son d'une seule main ? »</ex>, du maître japonais <ph id='hakuin'>Hakuin</ph> (XVIIIe siècle). Les recueils de kōan se constituent en Chine sous les Song et sont au cœur du Zen Rinzai.",
+    "en": "An exemplary case, often a dialogue, a question or a master's saying, used in the teaching and practice of <mv id='chan-zen'>Chan and Zen</mv>; the Chinese <i>gong'an</i> means \"public case\". It is frequently paradoxical, though not always, and serves as the focus of sustained inquiry, tested in interviews with the teacher, aimed at awakening: <ex>\"What is the sound of one hand?\"</ex>, from the eighteenth-century Japanese master <ph id='hakuin'>Hakuin</ph>. The kōan collections took shape in China under the Song and lie at the heart of Rinzai Zen."
+  },
+  "relatedAxes": [
+    "KNOWLEDGE_SOURCE",
+    "METAPHILOSOPHY"
+  ],
+  "relatedTerms": [
+    "shikantaza",
+    "sudden-awakening"
+  ],
+  "updatedAt": "2026-10-30T00:00:00.000Z"
+}

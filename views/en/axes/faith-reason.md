@@ -45,6 +45,8 @@ Science and religion answer different questions: [one describes facts, the other
 
 > “I had to deny knowledge in order to make room for faith.” — [Kant](../philosophers/kant.md), Critique of Pure Reason, Preface to the Second Edition (B XXX)
 
+> “Grace does not destroy nature but perfects it.” — [Thomas Aquinas](../philosophers/aquinas.md), Summa Theologiae, I, q. 1, a. 8, ad 2
+
 ## Related axes
 
 [The problem of evil](../axes/problem-of-evil.md) · [Ethics of belief](../axes/belief-ethics.md) · [Existence of God](../axes/god-existence.md) · [Place of science](../axes/science-place.md) · [Where the sacred resides](../axes/transcendence.md) · [The source of morality](../axes/moral-source.md)

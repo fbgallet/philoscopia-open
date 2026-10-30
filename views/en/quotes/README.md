@@ -472,6 +472,7 @@
 - “There is nothing in the intellect that was not first in the senses.” — Disputed Questions on Truth, q. 2, a. 3, arg. 19
 - “Ultimate and perfect beatitude can lie only in the vision of the divine essence.” — Summa Theologiae, Ia-IIae, q. 3, a. 8
 - “Charity is a kind of friendship between man and God.” — Summa Theologiae, IIa-IIae, q. 23, a. 1
+- “Grace does not destroy nature but perfects it.” — Summa Theologiae, I, q. 1, a. 8, ad 2
 - “Truth is the adequation of thing and intellect.” — Disputed Questions on Truth, q. 1, a. 1
 - “For a war to be just, three things are necessary: the authority of the sovereign, a just cause, and a rightful intention.” — Summa Theologiae, II-II, q. 40, a. 1
 - “Whatever is moved is moved by another; we must therefore arrive at a first mover moved by nothing, and this everyone understands to be God.” — Summa Theologiae, Ia, q. 2, a. 3 (the first way)

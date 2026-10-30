@@ -292,6 +292,7 @@ If the soul were a separate substance housed in the body, as for [Plato](../phil
 
 ## Influence on
 
+- **[Neoplatonism](../movements/neoplatonism.md)** (synthesizes) : The [Neoplatonists](../movements/neoplatonism.md) built [Aristotle](../philosophers/aristotle.md)'s logic and physics into a curriculum leading to Plato, holding the two masters to be in agreement. [Porphyry](../philosophers/porphyry.md)'s Isagoge and his commentaries on the Categories are the centrepiece of this synthesis.
 - **[Bacon](../philosophers/bacon.md)** (reacts against) : [Bacon](../philosophers/bacon.md) builds his reform of method against scholastic [Aristotelianism](../movements/aristotelianism.md), judged barren: to syllogistic logic he opposes a “Novum Organum”, induction grounded in experience and observation.
 - **[Hobbes](../philosophers/hobbes.md)** (reacts against) : [Hobbes](../philosophers/hobbes.md) builds his mechanism against scholastic [Aristotelianism](../movements/aristotelianism.md), whose “Aristotelity” he mocks: no more essences or final causes, only bodies in motion, right into politics.
 

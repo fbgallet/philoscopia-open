@@ -33,10 +33,7 @@
     "en": "French"
   },
   "language": "fra",
-  "movements": [
-    "existentialism",
-    "phenomenology"
-  ],
+  "movements": ["existentialism", "phenomenology", "feminist-philosophy"],
   "entries": [
     {
       "axisId": "DEATH",

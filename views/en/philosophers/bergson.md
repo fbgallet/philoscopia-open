@@ -2,7 +2,7 @@
 
 # Henri Bergson
 
-*1859 – 1941 · French*
+*1859 – 1941 · French · [Lebensphilosophie](../movements/life-philosophy.md)*
 
 French philosopher of duration: the real is a continuous flow, a creative evolution that the intellect, fashioned for action, wrongly carves into stable states; only intuition rejoins the very movement of life.
 

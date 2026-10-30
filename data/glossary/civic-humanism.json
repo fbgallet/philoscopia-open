@@ -1,0 +1,19 @@
+{
+  "id": "civic-humanism",
+  "term": {
+    "fr": "Humanisme civique",
+    "en": "Civic humanism"
+  },
+  "definition": {
+    "fr": "Nom donné par les historiens (la notion, forgée par <per>Hans Baron</per>, est discutée depuis) au courant florentin, de Salutati à <ph>Bruni</ph>, qui fait de l'étude des Anciens une préparation à la vie active et au service de la république.",
+    "en": "The name historians give (the notion, coined by <per>Hans Baron</per>, has been debated since) to the Florentine current, from Salutati to <ph>Bruni</ph>, which made the study of the ancients a preparation for the active life and for service to the republic."
+  },
+  "relatedAxes": [
+    "METAPHILOSOPHY",
+    "POLITICAL_LIBERTY"
+  ],
+  "relatedTerms": [
+    "studia-humanitatis"
+  ],
+  "updatedAt": "2026-10-30T00:00:00.000Z"
+}

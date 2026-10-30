@@ -1,0 +1,20 @@
+{
+  "id": "platform-sutra-huineng",
+  "title": {
+    "fr": "Sūtra de l'Estrade",
+    "en": "Platform Sutra"
+  },
+  "originalTitle": "Liuzu tanjing",
+  "author": {
+    "slug": "huineng",
+    "name": {
+      "fr": "Huineng",
+      "en": "Huineng"
+    }
+  },
+  "presentation": {
+    "fr": "Texte chan qui rapporte la vie et l'enseignement de <ph id='huineng'>Huineng</ph>, sixième patriarche : la nature de Bouddha est présente en chacun et l'éveil est subit. Compilé par ses disciples, il fut remanié pendant plusieurs siècles.",
+    "en": "A Chan text recording the life and teaching of <ph id='huineng'>Huineng</ph>, the sixth patriarch: Buddha nature is present in everyone and awakening is sudden. Compiled by his disciples, it was reworked over several centuries."
+  },
+  "updatedAt": "2026-10-30T00:00:00.000Z"
+}

@@ -472,6 +472,7 @@
 - « Il n'y a rien dans l'intellect qui n'ait d'abord été dans les sens. » — Questions disputées sur la vérité, q. 2, a. 3, arg. 19
 - « La béatitude ultime et parfaite ne peut être que dans la vision de l'essence divine. » — Somme théologique, Ia-IIae, q. 3, a. 8
 - « La charité est une certaine amitié de l'homme avec Dieu. » — Somme théologique, IIa-IIae, q. 23, a. 1
+- « La grâce ne détruit pas la nature, mais elle la parfait. » — Somme théologique, I, q. 1, a. 8, ad 2
 - « La vérité est l'adéquation de la chose et de l'intellect. » — Questions disputées sur la vérité, q. 1, a. 1
 - « Pour qu'une guerre soit juste, trois conditions sont requises : l'autorité du prince, une cause juste, une intention droite. » — Somme théologique, II-II, q. 40, a. 1
 - « Tout ce qui est mû est mû par un autre ; il faut donc en venir à un premier moteur qui ne soit mû par rien, et c'est lui que tous appellent Dieu. » — Somme théologique, Ia, q. 2, a. 3 (la première voie)

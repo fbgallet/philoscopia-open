@@ -1,0 +1,27 @@
+{
+  "id": "erlebnis",
+  "term": {
+    "fr": "Erlebnis (expérience vécue)",
+    "en": "Erlebnis (lived experience)"
+  },
+  "definition": {
+    "fr": "L'expérience telle qu'elle est vécue de l'intérieur, avec sa signification pour celui qui la vit. <ph id='dilthey'>Dilthey</ph> y voit le matériau des sciences de l'esprit, qui comprennent la vie au lieu de l'expliquer ; le terme passe ensuite dans la <mv id='phenomenology'>phénoménologie</mv>.",
+    "en": "Experience as it is lived from within, with its significance for the one living it. <ph id='dilthey'>Dilthey</ph> sees in it the material of the human sciences, which understand life rather than explain it; the term then passes into <mv id='phenomenology'>phenomenology</mv>."
+  },
+  "relatedAxes": [
+    "SCIENCE_PLACE",
+    "INTERIORITY"
+  ],
+  "relatedTerms": [
+    "duration",
+    "lebenswelt"
+  ],
+  "figure": {
+    "slug": "dilthey",
+    "name": {
+      "fr": "Dilthey",
+      "en": "Dilthey"
+    }
+  },
+  "updatedAt": "2026-10-30T00:00:00.000Z"
+}

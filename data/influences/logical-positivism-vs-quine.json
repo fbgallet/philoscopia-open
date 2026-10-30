@@ -1,0 +1,25 @@
+{
+  "id": "logical-positivism-vs-quine",
+  "from": {
+    "kind": "MOVEMENT",
+    "slug": "logical-positivism"
+  },
+  "to": {
+    "kind": "PHILOSOPHER",
+    "slug": "quine"
+  },
+  "directness": "ATTESTED",
+  "mode": "REACTS_AGAINST",
+  "strength": "STRONG",
+  "note": {
+    "fr": "Élève et ami de <ph id='carnap'>Carnap</ph>, <ph id='quine'>Quine</ph> s'attaque aux deux piliers de l'empirisme logique : la distinction entre vérités analytiques et synthétiques, et l'idée que chaque énoncé se vérifie isolément. <arg>Nos énoncés affrontent l'expérience en corps, non un par un</arg> ; aucun n'est à l'abri de la révision.",
+    "en": "A pupil and friend of <ph id='carnap'>Carnap</ph>, <ph id='quine'>Quine</ph> attacked the two pillars of logical empiricism: the distinction between analytic and synthetic truths, and the idea that each statement is verified in isolation. <arg>Our statements face experience as a corporate body, not one by one</arg>; none is immune from revision."
+  },
+  "sources": [
+    {
+      "fr": "Quine, « Les deux dogmes de l'empirisme » (1951)",
+      "en": "Quine, « Two Dogmas of Empiricism » (1951)"
+    }
+  ],
+  "updatedAt": "2026-10-30T00:00:00.000Z"
+}

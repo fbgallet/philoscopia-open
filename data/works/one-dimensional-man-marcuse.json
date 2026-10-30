@@ -1,0 +1,20 @@
+{
+  "id": "one-dimensional-man-marcuse",
+  "title": {
+    "fr": "L'Homme unidimensionnel",
+    "en": "One-Dimensional Man"
+  },
+  "author": {
+    "slug": "marcuse",
+    "name": {
+      "fr": "Marcuse",
+      "en": "Marcuse"
+    }
+  },
+  "year": 1964,
+  "presentation": {
+    "fr": "Essai de <ph id='marcuse'>Marcuse</ph> sur la société industrielle avancée, qui neutralise toute opposition en satisfaisant les besoins qu'elle crée. Il devint l'un des livres de chevet de la contestation de 1968.",
+    "en": "An essay by <ph id='marcuse'>Marcuse</ph> on advanced industrial society, which neutralizes all opposition by satisfying the needs it creates. It became one of the touchstone books of the 1968 protest movements."
+  },
+  "updatedAt": "2026-10-30T00:00:00.000Z"
+}

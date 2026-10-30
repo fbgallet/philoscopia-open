@@ -1,0 +1,118 @@
+{
+  "kind": "MOVEMENT",
+  "id": "life-philosophy",
+  "name": {
+    "fr": "Lebensphilosophie",
+    "en": "Lebensphilosophie"
+  },
+  "tagline": {
+    "fr": "Ressaisir la vie dans son mouvement même, que les concepts figent et que la science découpe.",
+    "en": "Recapturing life in its very movement, which concepts freeze and science cuts up."
+  },
+  "aliases": {
+    "fr": [
+      "philosophie de la vie"
+    ],
+    "en": [
+      "life-philosophy"
+    ]
+  },
+  "summary": {
+    "fr": "Ensemble de penseurs du tournant du XXe siècle qui prennent la vie, et non la connaissance, pour point de départ, contre le <mv id='positivism'>positivisme</mv> et le néokantisme. La critique de <ph>Heinrich Rickert</ph> (<i>Die Philosophie des Lebens</i>, 1920) marque un jalon dans la discussion de cette étiquette de « philosophie de la vie », déjà en usage. <ph id='dilthey'>Wilhelm Dilthey</ph> fonde sur l'<c id='erlebnis'>expérience vécue</c> (<c id='erlebnis'>Erlebnis</c>) les sciences de l'esprit. <ph id='bergson'>Henri Bergson</ph> oppose la <c id='duration'>durée</c> au temps mesuré et l'<c id='intuition'>intuition</c> à l'<c>intelligence</c>. <ph id='simmel'>Georg Simmel</ph> pense la vie comme un flux qui se donne des <c>formes</c> puis les brise. <ph id='nietzsche'>Nietzsche</ph> en est le précurseur reconnu. <dif>Le courant n'est pas une école : Bergson ne se rattache pas à la tradition allemande, et l'étiquette fut souvent polémique.</dif> Sa critique de la raison abstraite passe ensuite dans la <mv id='phenomenology'>phénoménologie</mv> et l'<mv id='existentialism'>existentialisme</mv>.",
+    "en": "A group of thinkers at the turn of the twentieth century who took life, not knowledge, as their starting point, against <mv id='positivism'>positivism</mv> and neo-Kantianism. <ph>Heinrich Rickert</ph>'s critique (<i>Die Philosophie des Lebens</i>, 1920) is a landmark in the discussion of the label \"philosophy of life\", already in use. <ph id='dilthey'>Wilhelm Dilthey</ph> grounded the human sciences in <c id='erlebnis'>lived experience</c> (<c id='erlebnis'>Erlebnis</c>). <ph id='bergson'>Henri Bergson</ph> set <c id='duration'>duration</c> against measured time and <c id='intuition'>intuition</c> against the <c>intellect</c>. <ph id='simmel'>Georg Simmel</ph> conceived life as a flow that gives itself <c>forms</c> and then breaks them. <ph id='nietzsche'>Nietzsche</ph> is its acknowledged precursor. <dif>The movement is not a school: Bergson does not belong to the German tradition, and the label was often polemical.</dif> Its critique of abstract reason passed into <mv id='phenomenology'>phenomenology</mv> and <mv id='existentialism'>existentialism</mv>."
+  },
+  "area": "WEST",
+  "period": {
+    "from": 1883,
+    "to": 1932,
+    "approx": true,
+    "afterlife": "HISTORICAL"
+  },
+  "keyFigures": [
+    {
+      "slug": "dilthey",
+      "name": {
+        "fr": "Dilthey",
+        "en": "Dilthey"
+      }
+    },
+    {
+      "slug": "bergson",
+      "name": {
+        "fr": "Bergson",
+        "en": "Bergson"
+      }
+    },
+    {
+      "slug": "simmel",
+      "name": {
+        "fr": "Simmel",
+        "en": "Simmel"
+      }
+    }
+  ],
+  "entries": [
+    {
+      "axisId": "SCIENCE_PLACE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.65
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "<q>Nous expliquons la nature, nous comprenons la vie psychique</q>, écrit <ph id='dilthey'>Dilthey</ph> : il y a deux manières de connaître le réel, l'<c>explication</c> causale et la <c>compréhension</c>, et la seconde ne se réduit pas à la première. <ph id='bergson'>Bergson</ph> partage autrement les rôles : la science, faite pour agir sur la matière, en donne une connaissance valable, mais elle découpe le réel en choses ; seule l'intuition, que la métaphysique cultive, saisit la vie du dedans. <dif>Chez Dilthey, c'est un pluralisme des méthodes scientifiques ; chez Bergson, une complémentarité entre science et métaphysique.</dif>",
+          "en": "<q>We explain nature, we understand mental life</q>, writes <ph id='dilthey'>Dilthey</ph>: there are two ways of knowing reality, causal <c>explanation</c> and <c>understanding</c>, and the second does not reduce to the first. <ph id='bergson'>Bergson</ph> divides the roles differently: science, made for acting on matter, gives valid knowledge of it, but cuts reality up into things; only intuition, which metaphysics cultivates, grasps life from within. <dif>In Dilthey, this is a pluralism of scientific methods; in Bergson, a complementarity between science and metaphysics.</dif>"
+        },
+        "references": [
+          {
+            "fr": "Dilthey, Idées concernant une psychologie descriptive et analytique (1894)",
+            "en": "Dilthey, Ideas Concerning a Descriptive and Analytic Psychology (1894)"
+          },
+          {
+            "fr": "Bergson, « Introduction à la métaphysique » (1903), dans La Pensée et le mouvant",
+            "en": "Bergson, \"Introduction to Metaphysics\" (1903), in The Creative Mind"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "BEING_BECOMING",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.75
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "La vie est d'abord mouvement. Quand <ph id='bergson'>Bergson</ph> décrit la <c id='duration'>durée</c> comme un changement où il n'y a pas de chose qui change, il refuse un support immuable sous le changement, non la continuité de l'expérience, qui est au contraire celle d'une mélodie. <ph id='simmel'>Simmel</ph> décrit la vie comme ce qui déborde sans cesse ses propres formes. <dif>Chez <ph id='dilthey'>Dilthey</ph>, ce devenir est surtout historique, non cosmologique.</dif>",
+          "en": "Life is first of all movement. When <ph id='bergson'>Bergson</ph> describes <c id='duration'>duration</c> as a change in which there is no thing that changes, he rejects an immutable substrate beneath change, not the continuity of experience, which is on the contrary that of a melody. <ph id='simmel'>Simmel</ph> describes life as what constantly overflows its own forms. <dif>In <ph id='dilthey'>Dilthey</ph>, this becoming is mainly historical, not cosmological.</dif>"
+        },
+        "references": [
+          {
+            "fr": "Bergson, « La perception du changement » (1911), dans La Pensée et le mouvant",
+            "en": "Bergson, \"The Perception of Change\" (1911), in The Creative Mind"
+          },
+          {
+            "fr": "Bergson, L'Évolution créatrice (1907), ch. IV",
+            "en": "Bergson, Creative Evolution (1907), ch. IV"
+          },
+          {
+            "fr": "Simmel, Intuition de la vie (1918), ch. I",
+            "en": "Simmel, The View of Life (1918), ch. I"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    }
+  ],
+  "updatedAt": "2026-10-30T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

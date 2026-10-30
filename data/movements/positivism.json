@@ -1,0 +1,217 @@
+{
+  "kind": "MOVEMENT",
+  "id": "positivism",
+  "name": {
+    "fr": "Positivisme",
+    "en": "Positivism"
+  },
+  "tagline": {
+    "fr": "Renoncer aux causes premières et finales pour ne chercher que les lois des phénomènes, et faire de cette sobriété le principe d'une réorganisation de la société.",
+    "en": "Abandoning the search for first and final causes to seek only the laws of phenomena, and making that sobriety the principle of a reorganization of society."
+  },
+  "aliases": {
+    "fr": [
+      "comtisme",
+      "positivisme comtien"
+    ],
+    "en": [
+      "Comtism",
+      "Comtean positivism"
+    ]
+  },
+  "summary": {
+    "fr": "Doctrine fondée par <ph id='comte'>Auguste Comte</ph>, ancien secrétaire de <ph id='saint-simon'>Saint-Simon</ph>, dans son <w id='course-positive-philosophy-comte'>Cours de philosophie positive</w> (1830-1842). Comte veut clore la crise ouverte par la Révolution, que la critique des <mv id='enlightenment'>Lumières</mv> avait préparée en ruinant l'ordre ancien sans en fonder un nouveau : il entend bâtir sur la science un ordre intellectuel aussi solide que celui de l'Église médiévale. Il classe les sciences de la mathématique à la biologie et forge, pour les couronner, le mot de « sociologie ». Dans le <w>Système de politique positive</w> (1851-1854), il en tire une religion de l'Humanité. <dif>Cette religion divise ses disciples : <ph id='littre'>Littré</ph>, qui avait popularisé la doctrine, rejette le programme politique et religieux du dernier Comte (le culte, le pouvoir spirituel, la dictature temporelle), mais garde sa philosophie des sciences et l'ambition d'une politique républicaine et laïque fondée sur la sociologie.</dif> La période retenue ici s'arrête à la mort de Littré (1881) ; le positivisme orthodoxe de <ph>Pierre Laffitte</ph> et l'Église positiviste du Brésil le prolongent ensuite, et c'est sous l'influence des positivistes brésiliens que le drapeau national du Brésil adopte en 1889 la devise « Ordre et Progrès ». Le courant marque aussi <ph>Durkheim</ph> et l'école républicaine de la IIIe République. Le <mv id='logical-positivism'>positivisme logique</mv> du Cercle de Vienne en reprend le nom et l'esprit antimétaphysique, non la doctrine.",
+    "en": "A doctrine founded by <ph id='comte'>Auguste Comte</ph>, formerly <ph id='saint-simon'>Saint-Simon</ph>'s secretary, in his <w id='course-positive-philosophy-comte'>Course in Positive Philosophy</w> (1830-1842). Comte sought to close the crisis opened by the Revolution, which the critique of the <mv id='enlightenment'>Enlightenment</mv> had prepared by ruining the old order without founding a new one: he meant to build on science an intellectual order as solid as that of the medieval Church. He ranked the sciences from mathematics to biology and coined, to crown them, the word \"sociology\". In the <w>System of Positive Polity</w> (1851-1854) he drew a religion of Humanity from it. <dif>This religion split his followers: <ph id='littre'>Littré</ph>, who had popularized the doctrine, rejected the political and religious programme of Comte's later work (the cult, the spiritual power, the temporal dictatorship), but kept his philosophy of science and the ambition of a republican, secular politics grounded in sociology.</dif> The period covered here ends with Littré's death (1881); the orthodox positivism of <ph>Pierre Laffitte</ph> and the Positivist Church of Brazil carried it on, and it was under the influence of Brazilian positivists that Brazil's national flag adopted the motto \"Order and Progress\" in 1889. The movement also left its mark on <ph>Durkheim</ph> and on the republican school system of the Third Republic. The <mv id='logical-positivism'>logical positivism</mv> of the Vienna Circle took over its name and its anti-metaphysical spirit, not its doctrine."
+  },
+  "area": "WEST",
+  "period": {
+    "from": 1830,
+    "to": 1881,
+    "approx": true,
+    "afterlife": "HISTORICAL"
+  },
+  "keyFigures": [
+    {
+      "slug": "comte",
+      "name": {
+        "fr": "Comte",
+        "en": "Comte"
+      }
+    },
+    {
+      "slug": "littre",
+      "name": {
+        "fr": "Littré",
+        "en": "Littré"
+      }
+    }
+  ],
+  "structuring": [
+    {
+      "axisId": "SCIENCE_PLACE",
+      "thesis": {
+        "fr": "Le seul savoir réel est celui des lois qui relient les phénomènes : chercher les causes premières ou finales, c'est rester dans l'enfance de l'esprit.",
+        "en": "The only real knowledge is that of the laws linking phenomena: to seek first or final causes is to remain in the childhood of the mind."
+      }
+    },
+    {
+      "axisId": "HISTORY_MEANING",
+      "thesis": {
+        "fr": "L'esprit humain passe nécessairement par trois états, théologique, métaphysique puis positif, et cette loi du développement intellectuel commande aussi l'histoire des sociétés.",
+        "en": "The human mind necessarily passes through three stages, theological, metaphysical and then positive, and this law of intellectual development also governs the history of societies."
+      }
+    },
+    {
+      "axisId": "INDIVIDUAL_SOCIETY",
+      "thesis": {
+        "fr": "La société n'est pas une somme d'individus : c'est un organisme, qui a ses lois propres et que seule une science nouvelle, la sociologie, peut connaître.",
+        "en": "Society is not a sum of individuals: it is an organism with laws of its own, which only a new science, sociology, can know."
+      }
+    }
+  ],
+  "entries": [
+    {
+      "axisId": "SCIENCE_PLACE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.85
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "<ph id='comte'>Comte</ph> ne nie pas qu'il y ait des causes ; il constate que l'esprit ne les atteint pas et que, chaque fois qu'il l'a prétendu, il s'est divisé. L'<c id='law-of-three-stages'>état positif</c> substitue à la recherche des causes celle des <c>lois</c>, relations constantes entre phénomènes qui permettent de prévoir : <q>science, d'où prévoyance ; prévoyance, d'où action</q>. Ce n'est pas un empirisme naïf, car toute observation suppose déjà une théorie qui la guide. <dif>Dans son œuvre tardive, Comte soumet pourtant la science au « cœur » et à la religion de l'Humanité, et dénonce l'émiettement des savoirs par la spécialisation. Il ne reconnaît pas d'autre voie de connaissance, mais il refuse à la science le droit de se donner à elle-même ses fins</dif>, ce qui le retient juste en deçà du pôle extrême du <c id='scientism'>scientisme</c>.",
+          "en": "<ph id='comte'>Comte</ph> does not deny that there are causes; he observes that the mind does not reach them, and that every time it claimed to, it fell into division. The <c id='law-of-three-stages'>positive stage</c> replaces the search for causes with the search for <c>laws</c>, constant relations between phenomena that make prediction possible: <q>from science comes prevision; from prevision comes action</q>. This is no naive empiricism, for every observation already presupposes a theory to guide it. <dif>In his later work, however, Comte subordinates science to the \"heart\" and to the religion of Humanity, and denounces the fragmentation of knowledge through specialization. He recognizes no other path to knowledge, but he denies science the right to set its own ends</dif>, which keeps him just short of the extreme pole of <c id='scientism'>scientism</c>."
+        },
+        "references": [
+          {
+            "fr": "Comte, Cours de philosophie positive, 1re et 2e leçons",
+            "en": "Comte, Course in Positive Philosophy, lectures 1 and 2"
+          },
+          {
+            "fr": "Comte, Discours sur l'esprit positif (1844)",
+            "en": "Comte, Discourse on the Positive Spirit (1844)"
+          },
+          {
+            "fr": "Comte, Système de politique positive, I (1851), discours préliminaire",
+            "en": "Comte, System of Positive Polity, I (1851), preliminary discourse"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "HISTORY_MEANING",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.9
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "La <c id='law-of-three-stages'>loi des trois états</c> décrit le développement de l'intelligence : chaque domaine du savoir passe de l'<c id='law-of-three-stages'>état théologique</c>, qui explique par des volontés, à l'<c id='law-of-three-stages'>état métaphysique</c>, qui explique par des entités abstraites, puis à l'<c id='law-of-three-stages'>état positif</c>. Les sciences y parviennent à des moments différents, de l'astronomie à la sociologie, la dernière venue. Parce que les institutions reposent sur les croyances, cette loi commande aussi l'histoire sociale. <ph id='comte'>Comte</ph> nomme <ph id='condorcet'>Condorcet</ph> son précurseur, qui cherchait déjà à fonder le progrès sur des régularités historiques, et fait du progrès une loi nécessaire de l'esprit. <pb>La crise de son temps</pb> s'explique alors : l'état métaphysique, critique, a détruit l'ordre ancien sans pouvoir en bâtir un nouveau.",
+          "en": "The <c id='law-of-three-stages'>law of three stages</c> describes the development of the intellect: each domain of knowledge passes from the <c id='law-of-three-stages'>theological stage</c>, which explains by wills, to the <c id='law-of-three-stages'>metaphysical stage</c>, which explains by abstract entities, and then to the <c id='law-of-three-stages'>positive stage</c>. The sciences reach it at different times, from astronomy to sociology, the latest to arrive. Because institutions rest on beliefs, this law also governs social history. <ph id='comte'>Comte</ph> names as his precursor <ph id='condorcet'>Condorcet</ph>, who already sought to ground progress in historical regularities, and makes progress a necessary law of the mind. <pb>The crisis of his time</pb> is then explained: the metaphysical stage, a critical one, destroyed the old order without being able to build a new one."
+        },
+        "references": [
+          {
+            "fr": "Comte, Cours de philosophie positive, 1re leçon",
+            "en": "Comte, Course in Positive Philosophy, lecture 1"
+          },
+          {
+            "fr": "Comte, Plan des travaux scientifiques nécessaires pour réorganiser la société (1822)",
+            "en": "Comte, Plan of the Scientific Work Necessary for the Reorganization of Society (1822)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "INDIVIDUAL_SOCIETY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.75
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "<ph id='comte'>Comte</ph> distingue une <c>statique sociale</c>, science de l'<c>ordre</c>, et une <c>dynamique sociale</c>, science du <c>progrès</c>. Toutes deux portent sur des ensembles : la famille, non l'individu, est l'unité sociale élémentaire, et l'<c id='religion-of-humanity'>Humanité</c>, non l'homme isolé, est l'être réel dont il faut partir. <stk>Contre le <c id='contractualism'>contrat</c> des Lumières, il veut une société qui tienne par des fonctions et des croyances communes, non par des droits individuels qu'il juge métaphysiques.</stk>",
+          "en": "<ph id='comte'>Comte</ph> distinguishes <c>social statics</c>, the study of order, from <c>social dynamics</c>, the study of progress. Both bear on wholes: the family, not the individual, is the elementary social unit, and <c id='religion-of-humanity'>Humanity</c>, not the isolated man, is the real being one must start from. <stk>Against the Enlightenment <c id='contractualism'>contract</c>, he wants a society held together by shared functions and beliefs, not by individual rights, which he deems metaphysical.</stk>"
+        },
+        "references": [
+          {
+            "fr": "Comte, Cours de philosophie positive, 47e-50e leçons",
+            "en": "Comte, Course in Positive Philosophy, lectures 47-50"
+          },
+          {
+            "fr": "Comte, Système de politique positive, II",
+            "en": "Comte, System of Positive Polity, II"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "SELF_INTEREST",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.9
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Dans ses derniers ouvrages, <ph id='comte'>Comte</ph> forge le mot <c id='altruism'>altruisme</c> pour nommer la fin de la morale positive : <q>vivre pour autrui</q>. La sociologie montre que l'individu doit tout à l'Humanité ; la morale en tire le devoir de subordonner les <c>penchants égoïstes</c> aux <c>penchants sympathiques</c>. <dif>Cette morale fait corps avec le culte de l'Humanité, que <ph id='littre'>Littré</ph> refuse : la position est d'abord celle de Comte et du positivisme orthodoxe.</dif>",
+          "en": "In his last works, <ph id='comte'>Comte</ph> coined the word <c id='altruism'>altruism</c> to name the end of positive morality: <q>living for others</q>. Sociology shows that the individual owes everything to Humanity; morality draws from this the duty to subordinate the <c>selfish inclinations</c> to the <c>sympathetic</c> ones. <dif>This morality is bound up with the cult of Humanity, which <ph id='littre'>Littré</ph> rejects: the position belongs first to Comte and to orthodox positivism.</dif>"
+        },
+        "references": [
+          {
+            "fr": "Comte, Système de politique positive, I",
+            "en": "Comte, System of Positive Polity, I"
+          },
+          {
+            "fr": "Comte, Catéchisme positiviste (1852)",
+            "en": "Comte, The Catechism of Positive Religion (1852)"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "TRANSCENDENCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.8
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "La religion de l'Humanité est une religion sans Dieu : l'objet du culte est le <c id='religion-of-humanity'>Grand-Être</c>, formé des morts, des vivants et de ceux à naître dont l'apport fait avancer l'ordre humain. <dif><ph id='comte'>Comte</ph> refuse pourtant le mot d'<c id='atheism'>athéisme</c>, qui lui paraît répondre encore à une question métaphysique.</dif>",
+          "en": "The religion of Humanity is a religion without God: its object of worship is the <c id='religion-of-humanity'>Great Being</c>, formed of the dead, the living and those yet to be born whose contribution advances the human order. <dif>Yet <ph id='comte'>Comte</ph> refuses the word <c id='atheism'>atheism</c>, which seems to him still to answer a metaphysical question.</dif>"
+        },
+        "references": [
+          {
+            "fr": "Comte, Catéchisme positiviste (1852)",
+            "en": "Comte, The Catechism of Positive Religion (1852)"
+          },
+          {
+            "fr": "Comte, Système de politique positive, IV",
+            "en": "Comte, System of Positive Polity, IV"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    }
+  ],
+  "updatedAt": "2026-10-30T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

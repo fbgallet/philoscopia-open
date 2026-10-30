@@ -1,0 +1,36 @@
+{
+  "id": "duration",
+  "term": {
+    "fr": "Durée (bergsonienne)",
+    "en": "Duration (Bergsonian)"
+  },
+  "aliases": {
+    "fr": [
+      "durée bergsonienne",
+      "durée pure"
+    ],
+    "en": [
+      "durée"
+    ]
+  },
+  "definition": {
+    "fr": "Chez <ph id='bergson'>Bergson</ph>, le temps vécu de la conscience : une continuité de changement où les moments se fondent comme les notes d'une mélodie. Elle s'oppose au temps des horloges, qui découpe le temps en instants juxtaposés comme des points dans l'espace.",
+    "en": "In <ph id='bergson'>Bergson</ph>, the lived time of consciousness: a continuity of change in which moments melt into one another like the notes of a melody. It stands against clock time, which cuts it up into instants set side by side like points in space."
+  },
+  "relatedAxes": [
+    "BEING_BECOMING",
+    "SELF_NATURE"
+  ],
+  "relatedTerms": [
+    "intuition",
+    "erlebnis"
+  ],
+  "figure": {
+    "slug": "bergson",
+    "name": {
+      "fr": "Bergson",
+      "en": "Bergson"
+    }
+  },
+  "updatedAt": "2026-10-30T00:00:00.000Z"
+}

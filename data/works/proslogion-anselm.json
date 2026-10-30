@@ -1,0 +1,21 @@
+{
+  "id": "proslogion-anselm",
+  "title": {
+    "fr": "Proslogion",
+    "en": "Proslogion"
+  },
+  "originalTitle": "Proslogion",
+  "author": {
+    "slug": "anselm",
+    "name": {
+      "fr": "Anselme",
+      "en": "Anselm"
+    }
+  },
+  "year": 1078,
+  "presentation": {
+    "fr": "Bref traité d'<ph id='anselm'>Anselme</ph>, écrit au monastère du Bec, qui cherche un argument unique pour prouver que Dieu existe : l'idée de « ce dont on ne peut rien concevoir de plus grand ». C'est l'origine de l'argument que Kant nommera ontologique.",
+    "en": "A short treatise by <ph id='anselm'>Anselm</ph>, written at the abbey of Bec, seeking a single argument to prove that God exists: the idea of \"that than which nothing greater can be conceived\". It is the origin of the argument Kant would call ontological."
+  },
+  "updatedAt": "2026-10-30T00:00:00.000Z"
+}

@@ -2,6 +2,7 @@
 
 # Works
 
+- *[Proslogion](proslogion-anselm.md)* : Anselm (1078)
 - *[On the Soul](de-anima-aristotle.md)* : Aristotle (350 BCE)
 - *[Physics](physics-aristotle.md)* : Aristotle (350 BCE)
 - *[Posterior Analytics](posterior-analytics-aristotle.md)* : Aristotle (350 BCE)
@@ -10,6 +11,7 @@
 - *[Politics](politics-aristotle.md)* : Aristotle (335 BCE)
 - *[Metaphysics](metaphysics-aristotle.md)* : Aristotle (330 BCE)
 - *[Brahma Sūtras](brahma-sutras-badarayana.md)* : Bādarāyaṇa
+- *[The Second Sex](the-second-sex-beauvoir.md)* : Beauvoir (1949)
 - *[Nuptials](nuptials-camus.md)* : Camus (1939)
 - *[The Myth of Sisyphus](the-myth-of-sisyphus-camus.md)* : Camus (1942)
 - *[The Stranger](the-stranger-camus.md)* : Camus (1942)
@@ -42,6 +44,7 @@
 - *[Novum Organum](novum-organum-bacon.md)* : Francis Bacon (1620)
 - *[New Atlantis](new-atlantis-bacon.md)* : Francis Bacon (1627)
 - *[Civilization and Its Discontents](civilization-and-its-discontents-freud.md)* : Freud (1930)
+- *[Truth and Method](truth-and-method-gadamer.md)* : Gadamer (1960)
 - *[A Treatise Concerning the Principles of Human Knowledge](principles-of-human-knowledge-berkeley.md)* : George Berkeley (1710)
 - *[Three Dialogues between Hylas and Philonous](three-dialogues-berkeley.md)* : George Berkeley (1713)
 - *[On the Mode of Existence of Technical Objects](mode-of-existence-of-technical-objects-simondon.md)* : Gilbert Simondon (1958)
@@ -59,6 +62,8 @@
 - *[Leviathan](leviathan-hobbes.md)* : Hobbes (1651)
 - *[The Iliad](iliad-homer.md)* : Homer (750 BCE)
 - *[The Odyssey](odyssey-homer.md)* : Homer (750 BCE)
+- *[Dialectic of Enlightenment](dialectic-of-enlightenment-horkheimer.md)* : Horkheimer (1947)
+- *[Platform Sutra](platform-sutra-huineng.md)* : Huineng
 - *[Logical Investigations](logical-investigations-husserl.md)* : Husserl (1901)
 - *[Ideas Pertaining to a Pure Phenomenology (Ideas I)](ideas-i-husserl.md)* : Husserl (1913)
 - *[Cartesian Meditations](cartesian-meditations-husserl.md)* : Husserl (1931)
@@ -82,12 +87,14 @@
 - *[Religion within the Bounds of Bare Reason](religion-within-the-bounds-of-bare-reason-kant.md)* : Kant (1793)
 - *[Metaphysics of Morals](metaphysics-of-morals-kant.md)* : Kant (1797)
 - *[Dao De Jing](dao-de-jing-laozi.md)* : Laozi (300 BCE)
+- *[The Elementary Structures of Kinship](elementary-structures-of-kinship-levi-strauss.md)* : Lévi-Strauss (1949)
 - *[On the Nature of Things](on-the-nature-of-things-lucretius.md)* : Lucretius (55 BCE)
 - *[The Prince](the-prince-machiavelli.md)* : Machiavelli (1513)
 - *[The Mandrake](mandragola-machiavelli.md)* : Machiavelli (1518)
 - *[Florentine Histories](florentine-histories-machiavelli.md)* : Machiavelli (1525)
 - *[Discourses on the First Decade of Livy](discourses-on-livy-machiavelli.md)* : Machiavelli (1531)
 - *[Meditations](meditations-marcus-aurelius.md)* : Marcus Aurelius (175)
+- *[One-Dimensional Man](one-dimensional-man-marcuse.md)* : Marcuse (1964)
 - *[Being and Time](being-and-time-heidegger.md)* : Martin Heidegger (1927)
 - *[What Is Metaphysics?](what-is-metaphysics-heidegger.md)* : Martin Heidegger (1929)
 - *[Letter on Humanism](letter-on-humanism-heidegger.md)* : Martin Heidegger (1947)
@@ -123,6 +130,7 @@
 - *[Laws](laws-plato.md)* : Plato (350 BCE)
 - *[Enneads](enneads-plotinus.md)* : Plotinus (270)
 - *[The Logic of Scientific Discovery](logic-of-scientific-discovery-popper.md)* : Popper (1934)
+- *[Elements of Theology](elements-of-theology-proclus.md)* : Proclus
 - *[A Theory of Justice](a-theory-of-justice-rawls.md)* : Rawls (1971)
 - *[Discourse on the Origin of Inequality](discourse-on-inequality-rousseau.md)* : Rousseau (1755)
 - *[Principia Mathematica](principia-mathematica-russell.md)* : Russell (1910)
@@ -155,6 +163,7 @@
 - *[Summa Theologiae](summa-theologiae-aquinas.md)* : Thomas Aquinas (1274)
 - *[Tractatus Logico-Philosophicus](tractatus-logico-philosophicus-wittgenstein.md)* : Wittgenstein (1921)
 - *[Philosophical Investigations](philosophical-investigations-wittgenstein.md)* : Wittgenstein (1953)
+- *[A Vindication of the Rights of Woman](vindication-of-the-rights-of-woman-wollstonecraft.md)* : Wollstonecraft (1792)
 - *[Zhuangzi](zhuangzi-zhuangzi.md)* : Zhuangzi (300 BCE)
 
 ---

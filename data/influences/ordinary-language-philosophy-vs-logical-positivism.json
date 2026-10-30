@@ -1,0 +1,25 @@
+{
+  "id": "ordinary-language-philosophy-vs-logical-positivism",
+  "from": {
+    "kind": "MOVEMENT",
+    "slug": "ordinary-language-philosophy"
+  },
+  "to": {
+    "kind": "MOVEMENT",
+    "slug": "logical-positivism"
+  },
+  "directness": "ATTESTED",
+  "mode": "REACTS_AGAINST",
+  "strength": "MEDIUM",
+  "note": {
+    "fr": "<ph id='austin'>Austin</ph> démonte la théorie des <c>données des sens</c> d'<ph id='ayer'>Ayer</ph> en montrant que le philosophe y détourne des mots ordinaires, « illusion », « apparaître », « réel », de leur usage précis. <stk>Ce qui est contesté est l'idée qu'un langage reconstruit par la logique doive juger le langage commun.</stk>",
+    "en": "<ph id='austin'>Austin</ph> takes apart <ph id='ayer'>Ayer</ph>'s theory of <c>sense data</c> by showing that the philosopher wrenches ordinary words, « illusion », « appear », « real », away from their precise use. <stk>What is contested is the idea that a language reconstructed by logic should sit in judgement over common language.</stk>"
+  },
+  "sources": [
+    {
+      "fr": "Austin, Le Langage de la perception (1962)",
+      "en": "Austin, Sense and Sensibilia (1962)"
+    }
+  ],
+  "updatedAt": "2026-10-30T00:00:00.000Z"
+}

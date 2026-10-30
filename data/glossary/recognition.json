@@ -1,0 +1,19 @@
+{
+  "id": "recognition",
+  "term": {
+    "fr": "Reconnaissance (sociale)",
+    "en": "Recognition (social)"
+  },
+  "definition": {
+    "fr": "Concept qui prend chez <ph id='hegel'>Hegel</ph> sa forme décisive, après Fichte : on ne devient soi qu'à travers la reconnaissance d'autrui. <ph>Axel Honneth</ph> en fait une théorie sociale, où le mépris (l'amour refusé, les droits niés, l'estime retirée) motive les luttes pour la reconnaissance.",
+    "en": "A concept that takes its decisive form in <ph id='hegel'>Hegel</ph>, after Fichte: one becomes oneself only through being recognized by others. <ph>Axel Honneth</ph> turns it into a social theory, in which disrespect (love withheld, rights denied, esteem withdrawn) motivates struggles for recognition."
+  },
+  "relatedAxes": [
+    "SOCIAL_IDENTITY",
+    "INDIVIDUAL_SOCIETY"
+  ],
+  "relatedTerms": [
+    "social-constructionism"
+  ],
+  "updatedAt": "2026-10-30T00:00:00.000Z"
+}

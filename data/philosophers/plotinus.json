@@ -33,9 +33,7 @@
     "en": "Greek"
   },
   "language": "grc",
-  "movements": [
-    "platonism"
-  ],
+  "movements": ["neoplatonism"],
   "entries": [
     {
       "axisId": "TRANSCENDENCE",

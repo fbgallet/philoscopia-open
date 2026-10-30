@@ -1,0 +1,27 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "grice",
+  "stub": true,
+  "name": {
+    "fr": "Paul Grice",
+    "en": "Paul Grice"
+  },
+  "summary": {
+    "fr": "Philosophe britannique formé à Oxford, qui fonde le sens sur l'intention du locuteur et distingue ce qu'une phrase dit de ce qu'elle laisse entendre (les implicatures conversationnelles).",
+    "en": "British philosopher trained at Oxford who grounded meaning in the speaker's intention and distinguished what a sentence says from what it implies (conversational implicatures)."
+  },
+  "birth": 1913,
+  "death": 1988,
+  "nationality": {
+    "fr": "Britannique",
+    "en": "British"
+  },
+  "language": "eng",
+  "movements": [
+    "analytic-philosophy"
+  ],
+  "updatedAt": "2026-10-30T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

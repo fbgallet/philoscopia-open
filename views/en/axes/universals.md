@@ -24,7 +24,7 @@ Only individuals exist. Redness is nothing apart from red things: it is a name w
 
 - Ockham denies that universal things exist, yet admits universal concepts or signs in the mind: nominalism is not mere arbitrary labelling.
 
-*Ockham*
+*[Ockham](../philosophers/ockham.md)*
 
 ### Conceptualism (median position)
 

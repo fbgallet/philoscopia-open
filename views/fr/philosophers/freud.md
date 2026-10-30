@@ -12,6 +12,10 @@ Fondateur de la psychanalyse, qui soutint que le moi n'est pas maître dans sa p
 
 - **[Schopenhauer](../philosophers/schopenhauer.md)** (réinterprète) : [Freud](../philosophers/freud.md) retrouve chez [Schopenhauer](../philosophers/schopenhauer.md), qu'il dit avoir peu lu, l'intuition d'une volonté aveugle sous la conscience claire : le primat de la pulsion, le refoulement et la sexualité comme force obscure y sont pressentis avant d'être mis au jour par la psychanalyse.
 
+## Influence sur
+
+- **[École de Francfort](../movements/frankfurt-school.md)** (synthétise) : Dès les années 1930, l'Institut de Francfort associe la psychanalyse à la critique sociale pour comprendre pourquoi les masses consentent à leur domination. [Marcuse](../philosophers/marcuse.md) en tire avec Éros et civilisation une lecture de [Freud](../philosophers/freud.md) où la répression des pulsions devient un fait historique.
+
 ---
 
 *Généré depuis le corpus JSON de `data/`. Ne pas éditer à la main, voir [CONTRIBUTING](../../../CONTRIBUTING.md).*

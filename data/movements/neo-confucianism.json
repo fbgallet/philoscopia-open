@@ -24,6 +24,7 @@
     "en": "Neo-Confucianism is the great renewal of Confucian thought under the Song and Ming dynasties (eleventh to sixteenth centuries). Facing <mv id='buddhism'>Buddhism</mv> and <mv id='taoism'>Taoism</mv>, which dominated metaphysical reflection, thinkers such as <ph>Zhou Dunyi</ph>, <ph>Zhang Zai</ph> and the Cheng brothers gave <mv id='confucianism'>Confucian</mv> ethics a cosmology founded on the pair of <c id='li-principle'>principle</c> (<c id='li-principle'>li</c>) and <c id='qi'>vital force</c> (<c id='qi'>qi</c>); they polemicized against these rivals while borrowing questions and practices from them. <ph id='zhu-xi'>Zhu Xi</ph> synthesized it and fixed the canon of the <w>Four Books</w>, which would form the basis of the imperial examinations until 1905. <ph>Lu Jiuyuan</ph> and later <ph id='wang-yangming'>Wang Yangming</ph> countered with a \"school of mind\" centred on <c id='liangzhi'>innate moral knowledge</c> (<c id='liangzhi'>liangzhi</c>). <dif>This debate runs through the tradition</dif>, which found in Korea, with Yi Hwang and Yi I, its last great renewers recorded here, spread to Japan, was read by <ph id='leibniz'>Leibniz</ph> and revived in the twentieth century as \"New Confucianism\"."
   },
   "area": "EAST_ASIA",
+  "parent": "confucianism",
   "period": {
     "from": 1017,
     "to": 1584,

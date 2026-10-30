@@ -1,0 +1,28 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "huineng",
+  "stub": true,
+  "name": {
+    "fr": "Huineng",
+    "en": "Huineng"
+  },
+  "summary": {
+    "fr": "Moine chinois, sixième patriarche du Chan selon la tradition : le <w>Sūtra de l'Estrade</w>, qui lui est attribué, enseigne que la nature de Bouddha est en chacun et que l'éveil est subit.",
+    "en": "Chinese monk, the sixth patriarch of Chan according to tradition: the <w>Platform Sutra</w> attributed to him teaches that Buddha nature is in everyone and that awakening is sudden."
+  },
+  "birth": 638,
+  "death": 713,
+  "datesApprox": true,
+  "nationality": {
+    "fr": "Chinois",
+    "en": "Chinese"
+  },
+  "language": "lzh",
+  "movements": [
+    "chan-zen"
+  ],
+  "updatedAt": "2026-10-30T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

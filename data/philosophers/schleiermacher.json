@@ -1,0 +1,27 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "schleiermacher",
+  "stub": true,
+  "name": {
+    "fr": "Schleiermacher",
+    "en": "Schleiermacher"
+  },
+  "summary": {
+    "fr": "Théologien et philosophe allemand proche du cercle romantique d'Iéna, traducteur de Platon : il fit de l'herméneutique un art général de comprendre, et de la religion un sentiment de dépendance absolue.",
+    "en": "German theologian and philosopher close to the Jena Romantic circle, translator of Plato: he made hermeneutics a general art of understanding, and religion a feeling of absolute dependence."
+  },
+  "birth": 1768,
+  "death": 1834,
+  "nationality": {
+    "fr": "Allemand",
+    "en": "German"
+  },
+  "language": "deu",
+  "movements": [
+    "romanticism"
+  ],
+  "updatedAt": "2026-10-30T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

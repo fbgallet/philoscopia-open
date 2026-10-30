@@ -1,0 +1,257 @@
+{
+  "kind": "MOVEMENT",
+  "id": "neoplatonism",
+  "name": {
+    "fr": "Néoplatonisme",
+    "en": "Neoplatonism"
+  },
+  "tagline": {
+    "fr": "Tout faire remonter à un principe au-delà de l'être, et faire de la philosophie le chemin du retour vers lui.",
+    "en": "Tracing everything back to a principle beyond being, and making philosophy the path of return towards it."
+  },
+  "aliases": {
+    "fr": [
+      "néoplatonicien",
+      "néoplatonicienne",
+      "néoplatoniciens",
+      "néoplatoniciennes"
+    ],
+    "en": [
+      "Neoplatonist",
+      "Neoplatonic"
+    ]
+  },
+  "summary": {
+    "fr": "Nom donné par les modernes à la dernière grande forme du <mv id='platonism'>platonisme</mv> antique, qui s'ouvre avec l'enseignement de <ph id='plotinus'>Plotin</ph> à Rome à partir de 244. Son disciple <ph id='porphyry'>Porphyre</ph> édite ses traités sous le titre d'<w id='enneads-plotinus'>Ennéades</w>. Avec <ph id='iamblichus'>Jamblique</ph> puis les écoles d'Athènes et d'Alexandrie, la tradition se fait commentaire systématique de <ph id='plato'>Platon</ph> et d'<ph id='aristotle'>Aristote</ph>, qu'elle tient pour accordés. <ph id='proclus'>Proclus</ph> en donne au Ve siècle la synthèse la plus architecturée, les <w id='elements-of-theology-proclus'>Éléments de théologie</w>. <dif>Les néoplatoniciens se séparent pourtant sur des points décisifs : la part de l'âme qui ne descendrait jamais dans le corps, défendue par Plotin et rejetée par Jamblique et Proclus ; la place de la <c id='theurgy'>théurgie</c>, ces rites qui doivent unir l'âme aux dieux, à côté de la contemplation.</dif> On date conventionnellement la fin de l'école de 529, lorsque Justinien interdit l'enseignement païen à Athènes ; à Alexandrie, l'enseignement se poursuit quelques décennies encore. Sa pensée passe chez <ph id='augustine'>Augustin</ph>, chez le <ph>Pseudo-Denys</ph>, dans la <mv id='falsafa'>falsafa</mv> par la <w>Théologie d'Aristote</w>, puis à la Renaissance avec la traduction de Plotin par <ph>Ficin</ph> (1492).",
+    "en": "The name moderns give to the last great form of ancient <mv id='platonism'>Platonism</mv>, which opens with <ph id='plotinus'>Plotinus</ph>'s teaching in Rome from 244. His pupil <ph id='porphyry'>Porphyry</ph> edits his treatises as the <w id='enneads-plotinus'>Enneads</w>. With <ph id='iamblichus'>Iamblichus</ph> and then the schools of Athens and Alexandria, the tradition becomes a systematic commentary on <ph id='plato'>Plato</ph> and <ph id='aristotle'>Aristotle</ph>, whom it holds to be in agreement. In the fifth century <ph id='proclus'>Proclus</ph> gives it its most architectonic synthesis, the <w id='elements-of-theology-proclus'>Elements of Theology</w>. <dif>Yet the Neoplatonists part ways on decisive points: the part of the soul that would never descend into the body, defended by Plotinus and rejected by Iamblichus and Proclus; and the place of <c id='theurgy'>theurgy</c>, the rites meant to unite the soul with the gods, alongside contemplation.</dif> The school's end is conventionally dated to 529, when Justinian banned pagan teaching in Athens; in Alexandria, teaching went on for a few more decades. Its thought passes into <ph id='augustine'>Augustine</ph>, into <ph>Pseudo-Dionysius</ph>, into <mv id='falsafa'>falsafa</mv> through the <w>Theology of Aristotle</w>, and then into the Renaissance with <ph>Ficino</ph>'s translation of Plotinus (1492)."
+  },
+  "area": "WEST",
+  "parent": "platonism",
+  "period": {
+    "from": 244,
+    "to": 529,
+    "approx": true,
+    "afterlife": "HISTORICAL"
+  },
+  "keyFigures": [
+    {
+      "slug": "plotinus",
+      "name": {
+        "fr": "Plotin",
+        "en": "Plotinus"
+      }
+    },
+    {
+      "slug": "porphyry",
+      "name": {
+        "fr": "Porphyre",
+        "en": "Porphyry"
+      }
+    },
+    {
+      "slug": "iamblichus",
+      "name": {
+        "fr": "Jamblique",
+        "en": "Iamblichus"
+      }
+    },
+    {
+      "slug": "proclus",
+      "name": {
+        "fr": "Proclus",
+        "en": "Proclus"
+      }
+    }
+  ],
+  "structuring": [
+    {
+      "axisId": "TRANSCENDENCE",
+      "thesis": {
+        "fr": "Le premier principe n'est pas l'être suprême : <c id='the-one'>l'Un</c> est au-delà de l'être et de la pensée, et c'est pour cela qu'il peut tout fonder.",
+        "en": "The first principle is not the supreme being: <c id='the-one'>the One</c> lies beyond being and thought, and that is why it can ground everything."
+      }
+    },
+    {
+      "axisId": "REALITY_NATURE",
+      "thesis": {
+        "fr": "Le réel est une cascade : tout <c id='emanation'>procède</c> de l'Un par degrés décroissants, de l'<c id='nous'>Intellect</c> à l'Âme puis jusqu'à la matière, presque non-être.",
+        "en": "Reality is a cascade: everything <c id='emanation'>proceeds</c> from the One by decreasing degrees, from <c id='nous'>Intellect</c> to Soul and down to matter, almost non-being."
+      }
+    },
+    {
+      "axisId": "LIFE_MEANING",
+      "thesis": {
+        "fr": "Vivre, c'est remonter : le sens d'une vie se mesure à la <c id='epistrophe'>conversion</c> qui la ramène vers sa source.",
+        "en": "To live is to ascend: the meaning of a life is measured by the <c id='epistrophe'>conversion</c> that turns it back towards its source."
+      }
+    }
+  ],
+  "entries": [
+    {
+      "axisId": "TRANSCENDENCE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": 0.95
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "L'argument part de l'unité. Tout ce qui est, est un ; mais l'<c id='nous'>Intellect</c>, qui pense, est déjà double, sujet et objet. Le principe doit donc précéder cette dualité. <ph id='plotinus'>Plotin</ph> reprend la thèse de la <w id='republic-plato'>République</w> d'un Bien situé au-delà de l'essence et en fait une thèse sur l'origine. <dif>Toute prédication échoue devant l'Un : on ne le désigne que comme cause de ce qui vient de lui, ou par négation</dif>, d'où une <c id='apophatic-way'>voie négative</c> que reprendra la théologie chrétienne. <ph id='proclus'>Proclus</ph> porte cette <c id='transcendence'>transcendance</c> à l'extrême : l'Un est même au-delà du nom d'« Un ».",
+          "en": "The argument starts from unity. Everything that is, is one; but <c id='nous'>Intellect</c>, which thinks, is already double, subject and object. The principle must therefore precede this duality. <ph id='plotinus'>Plotinus</ph> takes up the <w id='republic-plato'>Republic</w>'s claim that the Good lies beyond being and turns it into a thesis about the origin. <dif>All predication fails before the One: it can be designated only as the cause of what comes from it, or by negation</dif>, hence a <c id='apophatic-way'>negative way</c> that Christian theology would take up. <ph id='proclus'>Proclus</ph> pushes this <c id='transcendence'>transcendence</c> to the extreme: the One lies even beyond the name \"One\"."
+        },
+        "references": [
+          {
+            "fr": "Plotin, Ennéades, V, 4 et VI, 9",
+            "en": "Plotinus, Enneads, V.4 and VI.9"
+          },
+          {
+            "fr": "Platon, République, VI, 509b",
+            "en": "Plato, Republic, VI, 509b"
+          },
+          {
+            "fr": "Proclus, Théologie platonicienne, II",
+            "en": "Proclus, Platonic Theology, II"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "REALITY_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0,
+          1,
+          0
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "La <c id='emanation'>procession</c> répond au <pb>problème du passage de l'Un au multiple</pb>. Ce qui est parfait déborde sans s'épuiser, comme la lumière rayonne de sa source. L'Intellect naît de l'Un en se tournant vers lui, l'Âme de l'Intellect de la même manière. Cette procession est hors du temps : elle dit une dépendance, non une succession. La matière est le terme où cette puissance s'éteint, non un second principe : le néoplatonisme est un monisme spirituel, non un <c id='dualism'>dualisme</c>. <dif>Le statut de la matière varie pourtant selon les auteurs : pur manque chez Plotin, elle procède directement du principe chez Proclus.</dif>",
+          "en": "<c id='emanation'>Procession</c> answers the <pb>problem of how the many come from the One</pb>. What is perfect overflows without being exhausted, as light radiates from its source. Intellect arises from the One by turning towards it, and Soul from Intellect in the same way. This procession is outside time: it expresses dependence, not succession. Matter is the point where this power dies away, not a second principle: Neoplatonism is a spiritual monism, not a <c id='dualism'>dualism</c>. <dif>The status of matter nonetheless varies by author: a sheer lack in Plotinus, it proceeds directly from the principle in Proclus.</dif>"
+        },
+        "references": [
+          {
+            "fr": "Plotin, Ennéades, V, 2 et II, 4",
+            "en": "Plotinus, Enneads, V.2 and II.4"
+          },
+          {
+            "fr": "Proclus, Éléments de théologie, prop. 25-35",
+            "en": "Proclus, Elements of Theology, props. 25-35"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "LIFE_MEANING",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          1,
+          0,
+          0,
+          0
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Le mouvement qui fait naître les choses s'inverse en un mouvement de retour, l'<c id='epistrophe'>épistrophè</c>. L'âme, tournée vers le corps, s'est oubliée ; elle se retrouve en se détournant du sensible par les <c id='cathartic-virtues'>vertus cathartiques</c>, qui purifient l'âme de ses attaches au corps, puis par la dialectique, jusqu'à l'<c id='henosis'>union</c> à l'Un, qui dépasse la pensée discursive elle-même. Ce détachement n'est pas un renoncement à un monde sans valeur : il accomplit ce vers quoi tout tend. <ph id='porphyry'>Porphyre</ph> rapporte que <ph id='plotinus'>Plotin</ph> atteignit cette union quatre fois pendant les années où il fut auprès de lui. <dif>Pour <ph id='iamblichus'>Jamblique</ph> et <ph id='proclus'>Proclus</ph>, la seule raison ne suffit pas à cette remontée : il y faut aussi la <c id='theurgy'>théurgie</c>.</dif>",
+          "en": "The movement by which things come forth reverses into a movement of return, <c id='epistrophe'>epistrophē</c>. The soul, turned towards the body, has forgotten itself; it finds itself again by turning away from the sensible through the <c id='cathartic-virtues'>cathartic virtues</c>, which purify the soul of its attachments to the body, then through dialectic, up to <c id='henosis'>union</c> with the One, which exceeds discursive thought itself. This detachment is not a renunciation of a worthless world: it fulfils what everything tends towards. <ph id='porphyry'>Porphyry</ph> reports that <ph id='plotinus'>Plotinus</ph> attained this union four times during the years he was with him. <dif>For <ph id='iamblichus'>Iamblichus</ph> and <ph id='proclus'>Proclus</ph>, reason alone is not enough for this ascent: <c id='theurgy'>theurgy</c> is needed too.</dif>"
+        },
+        "references": [
+          {
+            "fr": "Plotin, Ennéades, I, 6 et VI, 9",
+            "en": "Plotinus, Enneads, I.6 and VI.9"
+          },
+          {
+            "fr": "Porphyre, Vie de Plotin, 23",
+            "en": "Porphyry, Life of Plotinus, 23"
+          },
+          {
+            "fr": "Jamblique, Les Mystères d'Égypte, II, 11",
+            "en": "Iamblichus, On the Mysteries, II.11"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "PROBLEM_OF_EVIL",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          1,
+          0,
+          0,
+          0
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Si tout vient du Bien, le mal ne peut être une réalité positive. <ph id='plotinus'>Plotin</ph> l'identifie à la matière, <c id='privation'>privation</c> absolue de forme, et défend une providence qui ordonne l'ensemble, comme l'auteur d'une pièce distribue des rôles inégaux. <dif><ph id='proclus'>Proclus</ph> récuse cette identification : la matière, issue elle aussi du principe, ne peut être mauvaise. Il fait du mal une existence parasitaire, née de l'échec des actions particulières.</dif> Les deux lectures partagent une même <c id='theodicy'>théodicée</c>, transposée ici d'un Dieu créateur à une métaphysique du Bien : le mal est un manque, non un principe.",
+          "en": "If everything comes from the Good, evil cannot be a positive reality. <ph id='plotinus'>Plotinus</ph> identifies it with matter, the absolute <c id='privation'>privation</c> of form, and defends a providence that orders the whole, as a playwright hands out unequal parts. <dif><ph id='proclus'>Proclus</ph> rejects this identification: matter, which also issues from the principle, cannot be evil. He makes evil a parasitic existence, born of the failure of particular actions.</dif> Both readings share the same <c id='theodicy'>theodicy</c>, transposed here from a creator God to a metaphysics of the Good: evil is a lack, not a principle."
+        },
+        "references": [
+          {
+            "fr": "Plotin, Ennéades, I, 8 et III, 2-3",
+            "en": "Plotinus, Enneads, I.8 and III.2-3"
+          },
+          {
+            "fr": "Proclus, Sur l'existence des maux",
+            "en": "Proclus, On the Existence of Evils"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "METAPHILOSOPHY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.5,
+          0,
+          0.5,
+          0
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "La philosophie y est à la fois science des principes et exercice de <c>purification</c>. Commenter Platon et pratiquer les <c id='cathartic-virtues'>vertus cathartiques</c> sont deux étapes d'un même chemin, que la hiérarchie des vertus de <ph id='porphyry'>Porphyre</ph> ordonne des vertus civiques jusqu'aux vertus contemplatives.",
+          "en": "Philosophy here is at once the science of principles and an exercise of <c>purification</c>. Commenting on Plato and practising the <c id='cathartic-virtues'>cathartic virtues</c> are two stages of one path, which <ph id='porphyry'>Porphyry</ph>'s hierarchy of virtues orders from the civic virtues up to the contemplative ones."
+        },
+        "references": [
+          {
+            "fr": "Porphyre, Sentences, 32",
+            "en": "Porphyry, Sentences, 32"
+          },
+          {
+            "fr": "Plotin, Ennéades, I, 2",
+            "en": "Plotinus, Enneads, I.2"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    }
+  ],
+  "updatedAt": "2026-10-30T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

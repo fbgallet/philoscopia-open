@@ -1,0 +1,29 @@
+{
+  "id": "nietzsche-to-life-philosophy",
+  "from": {
+    "kind": "PHILOSOPHER",
+    "slug": "nietzsche"
+  },
+  "to": {
+    "kind": "MOVEMENT",
+    "slug": "life-philosophy"
+  },
+  "directness": "ATTESTED",
+  "mode": "CONTINUES",
+  "strength": "MEDIUM",
+  "note": {
+    "fr": "La <mv id='life-philosophy'>philosophie de la vie</mv> reconnaît en <ph id='nietzsche'>Nietzsche</ph> celui qui a fait de la vie le critère des valeurs et de la connaissance. <ph id='simmel'>Simmel</ph> lui consacre un livre, et la critique de Rickert (1920) le range parmi les fondateurs du courant.",
+    "en": "<mv id='life-philosophy'>Lebensphilosophie</mv> recognized in <ph id='nietzsche'>Nietzsche</ph> the one who made life the criterion of values and knowledge. <ph id='simmel'>Simmel</ph> devoted a book to him, and Rickert's critique (1920) counts him among the movement's founders."
+  },
+  "sources": [
+    {
+      "fr": "Simmel, Schopenhauer et Nietzsche (1907)",
+      "en": "Simmel, Schopenhauer and Nietzsche (1907)"
+    },
+    {
+      "fr": "Rickert, Die Philosophie des Lebens (1920)",
+      "en": "Rickert, Die Philosophie des Lebens (1920)"
+    }
+  ],
+  "updatedAt": "2026-10-30T00:00:00.000Z"
+}

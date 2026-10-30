@@ -45,6 +45,8 @@ Science et religion répondent à des questions différentes : [l'une décrit le
 
 > « J'ai donc dû abolir le savoir afin d'obtenir une place pour la foi. » — [Kant](../philosophers/kant.md), Critique de la raison pure, Préface de la seconde édition (B XXX)
 
+> « La grâce ne détruit pas la nature, mais elle la parfait. » — [Thomas d'Aquin](../philosophers/aquinas.md), Somme théologique, I, q. 1, a. 8, ad 2
+
 ## Axes liés
 
 [Le problème du mal](../axes/problem-of-evil.md) · [Éthique de la croyance](../axes/belief-ethics.md) · [Existence de Dieu](../axes/god-existence.md) · [Place de la science](../axes/science-place.md) · [Où réside le sacré](../axes/transcendence.md) · [La source de la morale](../axes/moral-source.md)

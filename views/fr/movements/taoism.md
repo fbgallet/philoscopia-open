@@ -251,6 +251,7 @@ L'univers taoïste est foncièrement bienveillant et fiable pour qui s'accorde �
 ## Influence sur
 
 - **[Bouddhisme](../movements/buddhism.md)** (synthétise) : En pénétrant en Chine, le [bouddhisme](../movements/buddhism.md) se fond avec la sensibilité [taoïste](../movements/taoism.md) : traduit d'abord au moyen du vocabulaire du dao et du wu wei, il donne naissance au Chan, l'ancêtre du Zen, où la méditation indienne épouse le naturel et la spontanéité chers à [Zhuangzi](../philosophers/zhuangzi.md). La filiation est rarement revendiquée, mais l'école Chan en porte l'empreinte.
+- **[Chan / Zen](../movements/chan-zen.md)** (synthétise) : Le [Chan](../movements/chan-zen.md) se forme dans une Chine où les textes bouddhiques sont lus et traduits à travers le vocabulaire de [Laozi](../philosophers/laozi.md) et de [Zhuangzi](../philosophers/zhuangzi.md) : spontanéité, défiance envers les mots, sagesse du quotidien. L'ampleur de cette dette reste discutée.
 - **[Néoconfucianisme](../movements/neo-confucianism.md)** (réinterprète) : Le Diagramme du Faîte suprême de Zhou Dunyi, issu des milieux [taoïstes](../movements/taoism.md), devient la cosmologie du [néoconfucianisme](../movements/neo-confucianism.md) : le « sans-faîte » et le yin-yang y sont mis au service d'une morale confucéenne. L'origine taoïste du diagramme, attestée par la tradition, fut d'ailleurs reprochée à Zhu Xi par ses adversaires.
 
 ---

@@ -1,0 +1,37 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "althusser",
+  "stub": true,
+  "name": {
+    "fr": "Althusser",
+    "en": "Althusser"
+  },
+  "aliases": {
+    "fr": [
+      "althussérien",
+      "althussérienne"
+    ],
+    "en": [
+      "Althusserian"
+    ]
+  },
+  "summary": {
+    "fr": "Philosophe marxiste français, qui propose une lecture « antihumaniste » de <ph id='marx'>Marx</ph> : l'histoire est un procès sans sujet, et les individus sont constitués par les appareils idéologiques.",
+    "en": "French Marxist philosopher who offers an \"anti-humanist\" reading of <ph id='marx'>Marx</ph>: history is a process without a subject, and individuals are constituted by ideological apparatuses."
+  },
+  "birth": 1918,
+  "death": 1990,
+  "nationality": {
+    "fr": "Français",
+    "en": "French"
+  },
+  "language": "fra",
+  "movements": [
+    "marxism",
+    "structuralism"
+  ],
+  "updatedAt": "2026-10-30T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

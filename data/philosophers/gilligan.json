@@ -16,7 +16,7 @@
     "en": "American"
   },
   "language": "eng",
-  "movements": [],
+  "movements": ["feminist-philosophy"],
   "updatedAt": "2026-07-13T00:00:00.000Z",
   "validation": {
     "method": "NOT_VALIDATED"

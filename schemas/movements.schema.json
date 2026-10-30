@@ -507,6 +507,9 @@
       },
       "additionalProperties": false
     },
+    "parent": {
+      "type": "string"
+    },
     "keyFigures": {
       "type": "array",
       "items": {

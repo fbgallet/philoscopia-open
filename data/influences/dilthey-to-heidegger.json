@@ -1,0 +1,25 @@
+{
+  "id": "dilthey-to-heidegger",
+  "from": {
+    "kind": "PHILOSOPHER",
+    "slug": "dilthey"
+  },
+  "to": {
+    "kind": "PHILOSOPHER",
+    "slug": "heidegger"
+  },
+  "directness": "ATTESTED",
+  "mode": "REINTERPRETS",
+  "strength": "STRONG",
+  "note": {
+    "fr": "<ph id='heidegger'>Heidegger</ph> reprend de <ph id='dilthey'>Dilthey</ph> la question de la vie historique et de sa compréhension, à laquelle il consacre un paragraphe d'<w id='being-and-time-heidegger'>Être et temps</w>. Il lui reproche de ne pas avoir posé la question de l'être de cette vie.",
+    "en": "<ph id='heidegger'>Heidegger</ph> takes from <ph id='dilthey'>Dilthey</ph> the question of historical life and its understanding, to which he devotes a section of <w id='being-and-time-heidegger'>Being and Time</w>. He reproaches him for not having raised the question of the being of that life."
+  },
+  "sources": [
+    {
+      "fr": "Heidegger, Être et temps (1927), § 77",
+      "en": "Heidegger, Being and Time (1927), § 77"
+    }
+  ],
+  "updatedAt": "2026-10-30T00:00:00.000Z"
+}

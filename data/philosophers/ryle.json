@@ -1,0 +1,27 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "ryle",
+  "stub": true,
+  "name": {
+    "fr": "Gilbert Ryle",
+    "en": "Gilbert Ryle"
+  },
+  "summary": {
+    "fr": "Philosophe britannique d'Oxford : dans La Notion d'esprit (1949), il dénonce le « fantôme dans la machine » cartésien comme une erreur de catégorie et propose une analyse de l'esprit en termes de dispositions.",
+    "en": "British philosopher at Oxford: in The Concept of Mind (1949), he denounced the Cartesian « ghost in the machine » as a category mistake and proposed an analysis of mind in terms of dispositions."
+  },
+  "birth": 1900,
+  "death": 1976,
+  "nationality": {
+    "fr": "Britannique",
+    "en": "British"
+  },
+  "language": "eng",
+  "movements": [
+    "ordinary-language-philosophy"
+  ],
+  "updatedAt": "2026-10-30T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

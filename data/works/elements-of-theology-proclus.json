@@ -1,0 +1,20 @@
+{
+  "id": "elements-of-theology-proclus",
+  "title": {
+    "fr": "Éléments de théologie",
+    "en": "Elements of Theology"
+  },
+  "originalTitle": "Stoicheiōsis theologikē",
+  "author": {
+    "slug": "proclus",
+    "name": {
+      "fr": "Proclus",
+      "en": "Proclus"
+    }
+  },
+  "presentation": {
+    "fr": "Traité de <ph id='proclus'>Proclus</ph> qui expose la métaphysique <mv id='neoplatonism'>néoplatonicienne</mv> en 211 propositions démontrées à la manière d'Euclide, de l'Un jusqu'aux âmes. Par sa refonte arabe, le <i>Liber de causis</i>, il a nourri la pensée médiévale.",
+    "en": "A treatise by <ph id='proclus'>Proclus</ph> setting out <mv id='neoplatonism'>Neoplatonic</mv> metaphysics in 211 propositions demonstrated in the manner of Euclid, from the One down to souls. Through its Arabic reworking, the <i>Liber de causis</i>, it fed medieval thought."
+  },
+  "updatedAt": "2026-10-30T00:00:00.000Z"
+}

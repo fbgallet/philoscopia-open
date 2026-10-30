@@ -1,0 +1,26 @@
+{
+  "id": "the-other",
+  "term": {
+    "fr": "L'Autre (chez Beauvoir)",
+    "en": "The Other (in Beauvoir)"
+  },
+  "definition": {
+    "fr": "Chez <ph id='beauvoir'>Beauvoir</ph>, la position où l'homme a placé la femme : il s'est posé comme le sujet, l'essentiel, et l'a définie par rapport à lui, comme l'inessentiel. <w id='the-second-sex-beauvoir'>Le Deuxième Sexe</w> décrit comment cette altérité a été construite et intériorisée.",
+    "en": "In <ph id='beauvoir'>Beauvoir</ph>, the position in which man has placed woman: he has posited himself as the subject, the essential, and defined her in relation to himself, as the inessential. <w id='the-second-sex-beauvoir'>The Second Sex</w> describes how this otherness was constructed and internalized."
+  },
+  "relatedAxes": [
+    "SOCIAL_IDENTITY"
+  ],
+  "relatedTerms": [
+    "social-constructionism",
+    "gender-performativity"
+  ],
+  "figure": {
+    "slug": "beauvoir",
+    "name": {
+      "fr": "Beauvoir",
+      "en": "Beauvoir"
+    }
+  },
+  "updatedAt": "2026-10-30T00:00:00.000Z"
+}

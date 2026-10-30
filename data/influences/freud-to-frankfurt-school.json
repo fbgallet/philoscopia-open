@@ -1,0 +1,29 @@
+{
+  "id": "freud-to-frankfurt-school",
+  "from": {
+    "kind": "PHILOSOPHER",
+    "slug": "freud"
+  },
+  "to": {
+    "kind": "MOVEMENT",
+    "slug": "frankfurt-school"
+  },
+  "directness": "ATTESTED",
+  "mode": "SYNTHESIZES",
+  "strength": "STRONG",
+  "note": {
+    "fr": "Dès les années 1930, l'Institut de Francfort associe la psychanalyse à la critique sociale pour comprendre pourquoi les masses consentent à leur domination. <ph id='marcuse'>Marcuse</ph> en tire avec <w>Éros et civilisation</w> une lecture de <ph id='freud'>Freud</ph> où la répression des pulsions devient un fait historique.",
+    "en": "From the 1930s the Frankfurt Institute combined psychoanalysis with social critique to understand why the masses consent to their domination. In <w>Eros and Civilization</w>, <ph id='marcuse'>Marcuse</ph> drew from it a reading of <ph id='freud'>Freud</ph> in which the repression of drives becomes a historical fact."
+  },
+  "sources": [
+    {
+      "fr": "Horkheimer (dir.), Études sur l'autorité et la famille (1936)",
+      "en": "Horkheimer (ed.), Studies on Authority and the Family (1936)"
+    },
+    {
+      "fr": "Marcuse, Éros et civilisation (1955)",
+      "en": "Marcuse, Eros and Civilization (1955)"
+    }
+  ],
+  "updatedAt": "2026-10-30T00:00:00.000Z"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rousseau-vs-wollstonecraft",
+  "from": {
+    "kind": "PHILOSOPHER",
+    "slug": "rousseau"
+  },
+  "to": {
+    "kind": "PHILOSOPHER",
+    "slug": "wollstonecraft"
+  },
+  "directness": "ATTESTED",
+  "mode": "REACTS_AGAINST",
+  "strength": "STRONG",
+  "note": {
+    "fr": "Dans la <w id='vindication-of-the-rights-of-woman-wollstonecraft'>Défense des droits de la femme</w>, <ph id='wollstonecraft'>Wollstonecraft</ph> admire le <ph id='rousseau'>Rousseau</ph> de l'<w>Émile</w> mais retourne ses principes contre le livre V : Sophie, élevée pour plaire à Émile, est privée de la raison qu'on cultive chez lui.",
+    "en": "In <w id='vindication-of-the-rights-of-woman-wollstonecraft'>A Vindication of the Rights of Woman</w>, <ph id='wollstonecraft'>Wollstonecraft</ph> admires the <ph id='rousseau'>Rousseau</ph> of <w>Emile</w> but turns his principles against Book V: Sophie, brought up to please Emile, is deprived of the reason cultivated in him."
+  },
+  "sources": [
+    {
+      "fr": "Wollstonecraft, Défense des droits de la femme (1792), ch. V",
+      "en": "Wollstonecraft, A Vindication of the Rights of Woman (1792), ch. V"
+    },
+    {
+      "fr": "Rousseau, Émile (1762), livre V",
+      "en": "Rousseau, Emile (1762), Book V"
+    }
+  ],
+  "updatedAt": "2026-10-30T00:00:00.000Z"
+}

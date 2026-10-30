@@ -2,7 +2,7 @@
 
 # Max Horkheimer
 
-*1895 – 1973 · Allemand*
+*1895 – 1973 · Allemand · [École de Francfort](../movements/frankfurt-school.md)*
 
 Philosophe et sociologue allemand, directeur de l'Institut de recherche sociale de Francfort et fondateur de la « théorie critique » : avec Adorno, dans la Dialectique de la raison, il montre comment la raison réduite au calcul et à l'efficacité (la raison « instrumentale ») devient un moyen de domination.
 

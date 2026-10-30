@@ -1,0 +1,27 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "austin",
+  "stub": true,
+  "name": {
+    "fr": "J. L. Austin",
+    "en": "J. L. Austin"
+  },
+  "summary": {
+    "fr": "Philosophe britannique, figure tutélaire de la philosophie d'Oxford : par l'examen minutieux des distinctions du langage ordinaire, il découvre les énoncés performatifs et fonde la théorie des actes de langage (Quand dire, c'est faire).",
+    "en": "British philosopher, the presiding figure of Oxford philosophy: through close examination of the distinctions of ordinary language, he discovered performative utterances and founded speech act theory (How to Do Things with Words)."
+  },
+  "birth": 1911,
+  "death": 1960,
+  "nationality": {
+    "fr": "Britannique",
+    "en": "British"
+  },
+  "language": "eng",
+  "movements": [
+    "ordinary-language-philosophy"
+  ],
+  "updatedAt": "2026-10-30T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

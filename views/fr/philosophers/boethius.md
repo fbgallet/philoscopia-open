@@ -16,6 +16,7 @@ Philosophe romain de l'Antiquité tardive, auteur de la « Consolation de Philos
 ## Influence sur
 
 - **[Thomas d'Aquin](../philosophers/aquinas.md)** (transmet) : [Boèce](../philosophers/boethius.md) transmet au monde latin le vocabulaire logique et métaphysique (personne, nature, éternité) et la méthode des opuscules théologiques que [Thomas](../philosophers/aquinas.md) reprend et commente.
+- **[Scolastique](../movements/scholasticism.md)** (transmet) : Jusqu'au XIIe siècle, la logique latine se réduit presque à ce que [Boèce](../philosophers/boethius.md) a traduit et commenté d'Aristote et de Porphyre, la « logique ancienne ». Sa question sur le statut des genres et des espèces ouvre la querelle des universaux.
 
 ---
 

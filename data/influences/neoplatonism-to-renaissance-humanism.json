@@ -1,0 +1,29 @@
+{
+  "id": "neoplatonism-to-renaissance-humanism",
+  "from": {
+    "kind": "MOVEMENT",
+    "slug": "neoplatonism"
+  },
+  "to": {
+    "kind": "MOVEMENT",
+    "slug": "renaissance-humanism"
+  },
+  "directness": "ATTESTED",
+  "mode": "REINTERPRETS",
+  "strength": "STRONG",
+  "note": {
+    "fr": "À Florence, Ficin traduit Platon puis Plotin (1492) et en tire une théologie platonicienne de l'âme ; <ph id='pico'>Pic de la Mirandole</ph> y puise l'idée d'une concorde de toutes les sagesses. Le <mv id='neoplatonism'>néoplatonisme</mv> fournit à l'humanisme sa métaphysique de l'amour et de la beauté.",
+    "en": "In Florence, Ficino translated Plato and then Plotinus (1492) and drew from them a Platonic theology of the soul; <ph id='pico'>Pico della Mirandola</ph> took from them the idea of a concord of all wisdoms. <mv id='neoplatonism'>Neoplatonism</mv> gave humanism its metaphysics of love and beauty."
+  },
+  "sources": [
+    {
+      "fr": "Ficin, Théologie platonicienne (1482)",
+      "en": "Ficino, Platonic Theology (1482)"
+    },
+    {
+      "fr": "Pic de la Mirandole, De la dignité de l'homme (1486)",
+      "en": "Pico della Mirandola, Oration on the Dignity of Man (1486)"
+    }
+  ],
+  "updatedAt": "2026-10-30T00:00:00.000Z"
+}

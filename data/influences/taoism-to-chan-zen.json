@@ -1,0 +1,19 @@
+{
+  "id": "taoism-to-chan-zen",
+  "from": {
+    "kind": "MOVEMENT",
+    "slug": "taoism"
+  },
+  "to": {
+    "kind": "MOVEMENT",
+    "slug": "chan-zen"
+  },
+  "directness": "INDIRECT",
+  "mode": "SYNTHESIZES",
+  "strength": "MEDIUM",
+  "note": {
+    "fr": "Le <mv id='chan-zen'>Chan</mv> se forme dans une Chine où les textes bouddhiques sont lus et traduits à travers le vocabulaire de <ph id='laozi'>Laozi</ph> et de <ph id='zhuangzi'>Zhuangzi</ph> : spontanéité, défiance envers les mots, sagesse du quotidien. <dif>L'ampleur de cette dette reste discutée.</dif>",
+    "en": "<mv id='chan-zen'>Chan</mv> took shape in a China where Buddhist texts were read and translated through the vocabulary of <ph id='laozi'>Laozi</ph> and <ph id='zhuangzi'>Zhuangzi</ph>: spontaneity, distrust of words, everyday wisdom. <dif>The extent of this debt remains debated.</dif>"
+  },
+  "updatedAt": "2026-10-30T00:00:00.000Z"
+}

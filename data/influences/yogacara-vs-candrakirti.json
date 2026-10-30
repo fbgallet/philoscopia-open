@@ -1,0 +1,25 @@
+{
+  "id": "yogacara-vs-candrakirti",
+  "from": {
+    "kind": "MOVEMENT",
+    "slug": "yogacara"
+  },
+  "to": {
+    "kind": "PHILOSOPHER",
+    "slug": "candrakirti"
+  },
+  "directness": "ATTESTED",
+  "mode": "REACTS_AGAINST",
+  "strength": "STRONG",
+  "note": {
+    "fr": "Dans le <w>Madhyamakāvatāra</w>, <ph id='candrakirti'>Candrakīrti</ph> réfute longuement la thèse du <mv id='yogacara'>Yogācāra</mv> : si l'on nie l'objet extérieur, on doit nier aussi une conscience qui existerait par elle-même. Ce débat fixe, au Tibet, la hiérarchie des écoles.",
+    "en": "In the <w>Madhyamakāvatāra</w>, <ph id='candrakirti'>Candrakīrti</ph> refutes the <mv id='yogacara'>Yogācāra</mv> thesis at length: if one denies the external object, one must also deny a consciousness that would exist by itself. This debate fixed, in Tibet, the hierarchy of the schools."
+  },
+  "sources": [
+    {
+      "fr": "Candrakīrti, Madhyamakāvatāra, VI",
+      "en": "Candrakīrti, Madhyamakāvatāra, VI"
+    }
+  ],
+  "updatedAt": "2026-10-30T00:00:00.000Z"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "preambles-of-faith",
+  "term": {
+    "fr": "Préambules de la foi",
+    "en": "Preambles of faith"
+  },
+  "aliases": {
+    "en": [
+      "praeambula fidei"
+    ]
+  },
+  "definition": {
+    "fr": "Vérités que la raison naturelle peut démontrer et que la foi présuppose, comme l'existence de Dieu ou son unité. Pour <ph id='aquinas'>Thomas d'Aquin</ph>, elles se distinguent des articles de foi, comme la Trinité, que la raison peut défendre sans pouvoir les prouver.",
+    "en": "Truths that natural reason can demonstrate and that faith presupposes, such as God's existence or unity. For <ph id='aquinas'>Thomas Aquinas</ph>, they are distinct from the articles of faith, such as the Trinity, which reason can defend but not prove."
+  },
+  "relatedAxes": [
+    "FAITH_REASON"
+  ],
+  "relatedTerms": [
+    "five-ways",
+    "scholasticism"
+  ],
+  "figure": {
+    "slug": "aquinas",
+    "name": {
+      "fr": "Thomas d'Aquin",
+      "en": "Thomas Aquinas"
+    }
+  },
+  "updatedAt": "2026-10-30T00:00:00.000Z"
+}

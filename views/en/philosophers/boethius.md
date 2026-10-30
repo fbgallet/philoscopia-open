@@ -16,6 +16,7 @@ Roman philosopher of late antiquity, author of "The Consolation of Philosophy", 
 ## Influence on
 
 - **[Thomas Aquinas](../philosophers/aquinas.md)** (transmits) : [Boethius](../philosophers/boethius.md) hands the Latin world its logical and metaphysical vocabulary (person, nature, eternity) and the method of the theological tractates that [Aquinas](../philosophers/aquinas.md) takes up and comments on.
+- **[Scholasticism](../movements/scholasticism.md)** (transmits) : Until the twelfth century, Latin logic amounted almost entirely to what [Boethius](../philosophers/boethius.md) had translated and commented on from Aristotle and Porphyry, the "old logic". His question about the status of genera and species opened the controversy over universals.
 
 ---
 

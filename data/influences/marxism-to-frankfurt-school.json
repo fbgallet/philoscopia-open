@@ -1,0 +1,25 @@
+{
+  "id": "marxism-to-frankfurt-school",
+  "from": {
+    "kind": "MOVEMENT",
+    "slug": "marxism"
+  },
+  "to": {
+    "kind": "MOVEMENT",
+    "slug": "frankfurt-school"
+  },
+  "directness": "ATTESTED",
+  "mode": "REINTERPRETS",
+  "strength": "STRONG",
+  "note": {
+    "fr": "L'<mv id='frankfurt-school'>école de Francfort</mv> part de la critique de l'économie politique de <ph id='marx'>Marx</ph>, mais l'écarte de son schéma historique : faute de sujet révolutionnaire, la critique porte sur la culture, la personnalité et la raison elle-même, et refuse le marxisme officiel de l'URSS.",
+    "en": "The <mv id='frankfurt-school'>Frankfurt School</mv> starts from <ph id='marx'>Marx</ph>'s critique of political economy but moves away from his historical schema: with no revolutionary subject, critique turns to culture, personality and reason itself, and rejects the official Marxism of the USSR."
+  },
+  "sources": [
+    {
+      "fr": "Horkheimer, Théorie traditionnelle et théorie critique (1937)",
+      "en": "Horkheimer, Traditional and Critical Theory (1937)"
+    }
+  ],
+  "updatedAt": "2026-10-30T00:00:00.000Z"
+}

@@ -1,0 +1,37 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "linji",
+  "stub": true,
+  "name": {
+    "fr": "Linji",
+    "en": "Linji"
+  },
+  "aliases": {
+    "fr": [
+      "Linji Yixuan",
+      "Rinzai Gigen"
+    ],
+    "en": [
+      "Linji Yixuan",
+      "Rinzai"
+    ]
+  },
+  "summary": {
+    "fr": "Maître chan chinois du IXe siècle, connu pour son enseignement abrupt (cris, coups, paradoxes) ; l'école qui porte son nom devint au Japon le Zen Rinzai.",
+    "en": "Ninth-century Chinese Chan master, known for his abrupt teaching (shouts, blows, paradoxes); the school bearing his name became Rinzai Zen in Japan."
+  },
+  "death": 866,
+  "datesApprox": true,
+  "nationality": {
+    "fr": "Chinois",
+    "en": "Chinese"
+  },
+  "language": "lzh",
+  "movements": [
+    "chan-zen"
+  ],
+  "updatedAt": "2026-10-30T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

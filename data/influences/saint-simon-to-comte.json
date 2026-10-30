@@ -1,0 +1,25 @@
+{
+  "id": "saint-simon-to-comte",
+  "from": {
+    "kind": "PHILOSOPHER",
+    "slug": "saint-simon"
+  },
+  "to": {
+    "kind": "PHILOSOPHER",
+    "slug": "comte"
+  },
+  "directness": "ATTESTED",
+  "mode": "CONTINUES",
+  "strength": "STRONG",
+  "note": {
+    "fr": "Secrétaire de <ph id='saint-simon'>Saint-Simon</ph> de 1817 à 1824, <ph id='comte'>Comte</ph> lui doit l'idée d'une société industrielle réorganisée par les savants et le premier projet d'une science positive de la société. Il rompt avec lui en 1824 et minimisera ensuite cette dette.",
+    "en": "As <ph id='saint-simon'>Saint-Simon</ph>'s secretary from 1817 to 1824, <ph id='comte'>Comte</ph> owed him the idea of an industrial society reorganized by scientists and the first plan for a positive science of society. He broke with him in 1824 and later played down this debt."
+  },
+  "sources": [
+    {
+      "fr": "Comte, Plan des travaux scientifiques nécessaires pour réorganiser la société (1822)",
+      "en": "Comte, Plan of the Scientific Work Necessary for the Reorganization of Society (1822)"
+    }
+  ],
+  "updatedAt": "2026-10-30T00:00:00.000Z"
+}

@@ -1,0 +1,36 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "pico",
+  "stub": true,
+  "name": {
+    "fr": "Pic de la Mirandole",
+    "en": "Pico della Mirandola"
+  },
+  "aliases": {
+    "fr": [
+      "Jean Pic de la Mirandole"
+    ],
+    "en": [
+      "Giovanni Pico della Mirandola",
+      "Pico"
+    ]
+  },
+  "summary": {
+    "fr": "Humaniste florentin qui voulut concilier toutes les traditions de sagesse ; son discours <w>De la dignité de l'homme</w> fait de l'homme l'être sans place fixe, qui se donne lui-même sa forme.",
+    "en": "Florentine humanist who sought to reconcile every tradition of wisdom; his <w>Oration on the Dignity of Man</w> makes the human being the creature without a fixed place, who gives itself its own form."
+  },
+  "birth": 1463,
+  "death": 1494,
+  "nationality": {
+    "fr": "Italien",
+    "en": "Italian"
+  },
+  "language": "lat",
+  "movements": [
+    "renaissance-humanism"
+  ],
+  "updatedAt": "2026-10-30T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

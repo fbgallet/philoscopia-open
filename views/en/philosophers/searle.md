@@ -42,6 +42,10 @@ Searle holds consciousness to be a higher-level property caused by neuronal proc
 
 *Sources : The Rediscovery of the Mind (1992)*
 
+## Influenced by
+
+- **[Ordinary language philosophy](../movements/ordinary-language-philosophy.md)** (continues) : A student of [Austin](../philosophers/austin.md) at Oxford, [Searle](../philosophers/searle.md) systematized his discovery: he classified speech acts and set out the rules that make an utterance a promise, an order or an assertion. What passes on is the idea that speaking is performing rule-governed acts.
+
 ---
 
 *Generated from the JSON corpus in `data/`. Do not edit by hand; see [CONTRIBUTING](../../../CONTRIBUTING.md).*

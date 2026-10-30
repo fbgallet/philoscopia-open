@@ -1,0 +1,20 @@
+{
+  "id": "elementary-structures-of-kinship-levi-strauss",
+  "title": {
+    "fr": "Les Structures élémentaires de la parenté",
+    "en": "The Elementary Structures of Kinship"
+  },
+  "author": {
+    "slug": "levi-strauss",
+    "name": {
+      "fr": "Lévi-Strauss",
+      "en": "Lévi-Strauss"
+    }
+  },
+  "year": 1949,
+  "presentation": {
+    "fr": "Thèse de <ph id='levi-strauss'>Lévi-Strauss</ph> qui explique les systèmes de parenté par l'échange des femmes entre groupes, la prohibition de l'inceste marquant le passage de la nature à la culture. Elle inaugure l'anthropologie structurale.",
+    "en": "<ph id='levi-strauss'>Lévi-Strauss</ph>'s thesis, which explains kinship systems by the exchange of women between groups, the incest prohibition marking the passage from nature to culture. It inaugurated structural anthropology."
+  },
+  "updatedAt": "2026-10-30T00:00:00.000Z"
+}

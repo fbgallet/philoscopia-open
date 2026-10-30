@@ -1,0 +1,26 @@
+{
+  "id": "theoretical-anti-humanism",
+  "term": {
+    "fr": "Antihumanisme théorique",
+    "en": "Theoretical anti-humanism"
+  },
+  "definition": {
+    "fr": "Thèse d'<ph id='althusser'>Althusser</ph> : l'histoire ne s'explique pas par une essence humaine ou un <c>sujet constituant</c> souverain, mais par des rapports sociaux, des pratiques et des luttes. Il parle d'un <c>procès sans sujet</c>, ce qui ne supprime pas l'action des individus. C'est une thèse théorique, non un refus de se soucier des personnes.",
+    "en": "<ph id='althusser'>Althusser</ph>'s thesis that history is explained not by a human essence or a sovereign <c>constituting subject</c>, but by social relations, practices and struggles. He speaks of a <c>process without a subject</c>, which does not eliminate individual agency. This is a theoretical claim, not a rejection of moral concern for people."
+  },
+  "relatedAxes": [
+    "FREEDOM",
+    "HISTORY_MEANING"
+  ],
+  "relatedTerms": [
+    "ideology"
+  ],
+  "figure": {
+    "slug": "althusser",
+    "name": {
+      "fr": "Althusser",
+      "en": "Althusser"
+    }
+  },
+  "updatedAt": "2026-10-30T00:00:00.000Z"
+}

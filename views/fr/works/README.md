@@ -2,6 +2,7 @@
 
 # Œuvres
 
+- *[Proslogion](proslogion-anselm.md)* : Anselme (1078)
 - *[De l'âme](de-anima-aristotle.md)* : Aristote (350 av. J.-C.)
 - *[Physique](physics-aristotle.md)* : Aristote (350 av. J.-C.)
 - *[Seconds Analytiques](posterior-analytics-aristotle.md)* : Aristote (350 av. J.-C.)
@@ -10,6 +11,7 @@
 - *[Politique](politics-aristotle.md)* : Aristote (335 av. J.-C.)
 - *[Métaphysique](metaphysics-aristotle.md)* : Aristote (330 av. J.-C.)
 - *[Brahma Sūtra](brahma-sutras-badarayana.md)* : Bādarāyaṇa
+- *[Le Deuxième Sexe](the-second-sex-beauvoir.md)* : Beauvoir (1949)
 - *[Noces](nuptials-camus.md)* : Camus (1939)
 - *[Le Mythe de Sisyphe](the-myth-of-sisyphus-camus.md)* : Camus (1942)
 - *[L'Étranger](the-stranger-camus.md)* : Camus (1942)
@@ -42,6 +44,7 @@
 - *[Novum Organum](novum-organum-bacon.md)* : Francis Bacon (1620)
 - *[La Nouvelle Atlantide](new-atlantis-bacon.md)* : Francis Bacon (1627)
 - *[Malaise dans la civilisation](civilization-and-its-discontents-freud.md)* : Freud (1930)
+- *[Vérité et méthode](truth-and-method-gadamer.md)* : Gadamer (1960)
 - *[Principes de la connaissance humaine](principles-of-human-knowledge-berkeley.md)* : George Berkeley (1710)
 - *[Trois dialogues entre Hylas et Philonous](three-dialogues-berkeley.md)* : George Berkeley (1713)
 - *[Du mode d'existence des objets techniques](mode-of-existence-of-technical-objects-simondon.md)* : Gilbert Simondon (1958)
@@ -59,6 +62,8 @@
 - *[Léviathan](leviathan-hobbes.md)* : Hobbes (1651)
 - *[L'Iliade](iliad-homer.md)* : Homère (750 av. J.-C.)
 - *[L'Odyssée](odyssey-homer.md)* : Homère (750 av. J.-C.)
+- *[Dialectique de la raison](dialectic-of-enlightenment-horkheimer.md)* : Horkheimer (1947)
+- *[Sūtra de l'Estrade](platform-sutra-huineng.md)* : Huineng
 - *[Recherches logiques](logical-investigations-husserl.md)* : Husserl (1901)
 - *[Idées directrices pour une phénoménologie (Ideen I)](ideas-i-husserl.md)* : Husserl (1913)
 - *[Méditations cartésiennes](cartesian-meditations-husserl.md)* : Husserl (1931)
@@ -82,12 +87,14 @@
 - *[La religion dans les limites de la simple raison](religion-within-the-bounds-of-bare-reason-kant.md)* : Kant (1793)
 - *[Métaphysique des mœurs](metaphysics-of-morals-kant.md)* : Kant (1797)
 - *[Dao De Jing](dao-de-jing-laozi.md)* : Laozi (300 av. J.-C.)
+- *[Les Structures élémentaires de la parenté](elementary-structures-of-kinship-levi-strauss.md)* : Lévi-Strauss (1949)
 - *[De la nature des choses](on-the-nature-of-things-lucretius.md)* : Lucrèce (55 av. J.-C.)
 - *[Le Prince](the-prince-machiavelli.md)* : Machiavel (1513)
 - *[La Mandragore](mandragola-machiavelli.md)* : Machiavel (1518)
 - *[Histoires florentines](florentine-histories-machiavelli.md)* : Machiavel (1525)
 - *[Discours sur la première décade de Tite-Live](discourses-on-livy-machiavelli.md)* : Machiavel (1531)
 - *[Pensées pour moi-même](meditations-marcus-aurelius.md)* : Marc Aurèle (175)
+- *[L'Homme unidimensionnel](one-dimensional-man-marcuse.md)* : Marcuse (1964)
 - *[Être et temps](being-and-time-heidegger.md)* : Martin Heidegger (1927)
 - *[Qu'est-ce que la métaphysique ?](what-is-metaphysics-heidegger.md)* : Martin Heidegger (1929)
 - *[Lettre sur l'humanisme](letter-on-humanism-heidegger.md)* : Martin Heidegger (1947)
@@ -123,6 +130,7 @@
 - *[Lois](laws-plato.md)* : Platon (350 av. J.-C.)
 - *[Ennéades](enneads-plotinus.md)* : Plotin (270)
 - *[La Logique de la découverte scientifique](logic-of-scientific-discovery-popper.md)* : Popper (1934)
+- *[Éléments de théologie](elements-of-theology-proclus.md)* : Proclus
 - *[Théorie de la justice](a-theory-of-justice-rawls.md)* : Rawls (1971)
 - *[Discours sur l'origine de l'inégalité](discourse-on-inequality-rousseau.md)* : Rousseau (1755)
 - *[Principia Mathematica](principia-mathematica-russell.md)* : Russell (1910)
@@ -155,6 +163,7 @@
 - *[Somme théologique](summa-theologiae-aquinas.md)* : Thomas d'Aquin (1274)
 - *[Tractatus logico-philosophicus](tractatus-logico-philosophicus-wittgenstein.md)* : Wittgenstein (1921)
 - *[Recherches philosophiques](philosophical-investigations-wittgenstein.md)* : Wittgenstein (1953)
+- *[Défense des droits de la femme](vindication-of-the-rights-of-woman-wollstonecraft.md)* : Wollstonecraft (1792)
 - *[Zhuangzi](zhuangzi-zhuangzi.md)* : Zhuangzi (300 av. J.-C.)
 
 ---

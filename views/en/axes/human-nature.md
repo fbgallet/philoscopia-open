@@ -20,7 +20,7 @@ Human beings are first of all natural beings: their behaviors, desires, and even
 
 What we take for human nature varies profoundly from one society to another: rules, roles, and ways of feeling are [cultural constructions](../axes/social-identity.md). The human is the being with no fixed nature, but with plural cultures.
 
-*Lévi-Strauss · Mead*
+*[Lévi-Strauss](../philosophers/levi-strauss.md) · Mead*
 
 ## Grounding relations
 

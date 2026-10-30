@@ -1,0 +1,25 @@
+{
+  "id": "boethius-to-scholasticism",
+  "from": {
+    "kind": "PHILOSOPHER",
+    "slug": "boethius"
+  },
+  "to": {
+    "kind": "MOVEMENT",
+    "slug": "scholasticism"
+  },
+  "directness": "ATTESTED",
+  "mode": "TRANSMITS",
+  "strength": "STRONG",
+  "note": {
+    "fr": "Jusqu'au XIIe siècle, la logique latine se réduit presque à ce que <ph id='boethius'>Boèce</ph> a traduit et commenté d'Aristote et de Porphyre, la « logique ancienne ». Sa question sur le statut des genres et des espèces ouvre la querelle des universaux.",
+    "en": "Until the twelfth century, Latin logic amounted almost entirely to what <ph id='boethius'>Boethius</ph> had translated and commented on from Aristotle and Porphyry, the \"old logic\". His question about the status of genera and species opened the controversy over universals."
+  },
+  "sources": [
+    {
+      "fr": "Boèce, Second commentaire sur l'Isagogè de Porphyre, I",
+      "en": "Boethius, Second Commentary on Porphyry's Isagoge, I"
+    }
+  ],
+  "updatedAt": "2026-10-30T00:00:00.000Z"
+}

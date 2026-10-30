@@ -81,6 +81,7 @@ The Madhyamaka dialectic aims at the [pacification of conceptual proliferation](
 ## Influence on
 
 - **[Kyoto School](../movements/kyoto-school.md)** (reinterprets) : [Nishitani](../philosophers/nishitani.md) makes the [emptiness](../glossary/sunyata.md) of [Madhyamaka](../movements/madhyamaka.md) the "field" where Western nihilism, as diagnosed by Nietzsche and Heidegger, is passed through and overcome: a Buddhist notion becomes the answer to a crisis of European modernity.
+- **[Yogācāra](../movements/yogacara.md)** (reinterprets) : [Yogācāra](../movements/yogacara.md) takes up [Madhyamaka](../movements/madhyamaka.md)'s [emptiness](../glossary/sunyata.md) but refuses to read it as sheer nothingness: the doctrine of the three natures distinguishes what is imagined, what depends on something else and what is perfected, and grants consciousness a dependent existence.
 - **[Nyāya](../movements/nyaya.md)** (reacts against) : [Nyāya](../movements/nyaya.md) defends the means of knowledge against the [Madhyamaka](../movements/madhyamaka.md) objection: they establish themselves, as a lamp lights itself in lighting up objects, and denying all valid knowledge undermines the denial itself.
 
 ---

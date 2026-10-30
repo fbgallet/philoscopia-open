@@ -46,6 +46,7 @@ For Nishida, the absolute is not found above the world: one meets it by descendi
 
 ## Influenced by
 
+- **[Chan / Zen](../movements/chan-zen.md)** (transmits) : [Nishida](../philosophers/nishida.md) practised zazen for many years before writing his first work, and [Nishitani](../philosophers/nishitani.md) made Zen the privileged interlocutor of Western philosophy. The [Kyoto School](../movements/kyoto-school.md) takes from [Zen](../movements/chan-zen.md) the experience prior to the split between subject and object.
 - **[Heidegger](../philosophers/heidegger.md)** (reinterprets) : [Tanabe](../philosophers/tanabe.md), [Nishitani](../philosophers/nishitani.md) and Kuki Shūzō studied with [Heidegger](../philosophers/heidegger.md) in Freiburg. The [Kyoto School](../movements/kyoto-school.md) took up his question of nothingness and his reading of nihilism and carried them toward Buddhist emptiness, where Heidegger remained within the horizon of being.
 - **[Madhyamaka](../movements/madhyamaka.md)** (reinterprets) : [Nishitani](../philosophers/nishitani.md) makes the [emptiness](../glossary/sunyata.md) of [Madhyamaka](../movements/madhyamaka.md) the "field" where Western nihilism, as diagnosed by Nietzsche and Heidegger, is passed through and overcome: a Buddhist notion becomes the answer to a crisis of European modernity.
 

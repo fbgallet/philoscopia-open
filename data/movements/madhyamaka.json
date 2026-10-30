@@ -21,6 +21,7 @@
     "en": "Madhyamaka (the <c id='the-middle-way'>middle way</c>) is the school of Mahāyāna Buddhism founded by <ph id='nagarjuna'>Nāgārjuna</ph> around the second century, built on his <w>Fundamental Verses on the Middle Way</w>. It radicalizes the Buddhist teaching of <c id='pratityasamutpada'>dependent origination</c> into a doctrine of <c id='sunyata'>emptiness</c>. Nāgārjuna defends it mainly by reducing opposing positions to absurdity; <ph>Bhāviveka</ph> reintroduced autonomous arguments, which <ph id='candrakirti'>Candrakīrti</ph> contested, hence the distinction, worked out in Tibet, between \"Svātantrika\" and \"Prāsaṅgika\" readings. With <ph id='tsongkhapa'>Tsongkhapa</ph>, the last great renewer recorded here, it became the summit of the monastic curriculum of the Gelug school, which it remains today. Its controversy with <mv id='nyaya'>Nyāya</mv> over the <c id='pramana'>means of knowledge</c> shaped Indian epistemology. In the twentieth century it was received in diverse ways, in the <mv id='kyoto-school'>Kyoto School</mv>'s dialogue with Western philosophy as well as in part of analytic philosophy."
   },
   "area": "SOUTH_ASIA",
+  "parent": "buddhism",
   "period": {
     "from": 150,
     "to": 1419,

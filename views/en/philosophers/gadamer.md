@@ -2,7 +2,7 @@
 
 # Gadamer
 
-*1900 – 2002 · German · [Phenomenology](../movements/phenomenology.md)*
+*1900 – 2002 · German · [Philosophical hermeneutics](../movements/hermeneutics.md)*
 
 German philosopher, a pupil of Heidegger: his philosophical hermeneutics makes understanding a dialogue with tradition, in which our prejudices are the very condition of interpretation.
 

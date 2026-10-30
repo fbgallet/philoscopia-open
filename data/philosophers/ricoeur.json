@@ -21,9 +21,7 @@
     "en": "French"
   },
   "language": "fra",
-  "movements": [
-    "phenomenology"
-  ],
+  "movements": ["hermeneutics"],
   "updatedAt": "2026-06-24T00:00:00.000Z",
   "validation": {
     "method": "NOT_VALIDATED"

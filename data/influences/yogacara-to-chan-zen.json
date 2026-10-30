@@ -1,0 +1,19 @@
+{
+  "id": "yogacara-to-chan-zen",
+  "from": {
+    "kind": "MOVEMENT",
+    "slug": "yogacara"
+  },
+  "to": {
+    "kind": "MOVEMENT",
+    "slug": "chan-zen"
+  },
+  "directness": "INDIRECT",
+  "mode": "TRANSMITS",
+  "strength": "MEDIUM",
+  "note": {
+    "fr": "Le premier <mv id='chan-zen'>Chan</mv> se réclame du <w>Laṅkāvatāra sūtra</w>, texte proche du <mv id='yogacara'>Yogācāra</mv>, et retient de cette école l'idée que l'éveil consiste à reconnaître la nature de l'esprit.",
+    "en": "Early <mv id='chan-zen'>Chan</mv> claimed the <w>Laṅkāvatāra Sūtra</w>, a text close to <mv id='yogacara'>Yogācāra</mv>, and kept from that school the idea that awakening consists in recognizing the nature of the mind."
+  },
+  "updatedAt": "2026-10-30T00:00:00.000Z"
+}

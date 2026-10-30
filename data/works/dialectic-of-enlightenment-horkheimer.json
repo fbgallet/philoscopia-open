@@ -1,0 +1,21 @@
+{
+  "id": "dialectic-of-enlightenment-horkheimer",
+  "title": {
+    "fr": "Dialectique de la raison",
+    "en": "Dialectic of Enlightenment"
+  },
+  "originalTitle": "Dialektik der Aufklärung",
+  "author": {
+    "slug": "horkheimer",
+    "name": {
+      "fr": "Horkheimer",
+      "en": "Horkheimer"
+    }
+  },
+  "year": 1947,
+  "presentation": {
+    "fr": "Livre écrit en exil par <ph id='horkheimer'>Horkheimer</ph> et <ph id='adorno'>Adorno</ph> (première version en 1944, édition en 1947) : la raison des Lumières, devenue instrument de domination, se retourne en mythe. Il contient la célèbre critique de l'« industrie culturelle ».",
+    "en": "A book written in exile by <ph id='horkheimer'>Horkheimer</ph> and <ph id='adorno'>Adorno</ph> (first version 1944, published 1947): Enlightenment reason, having become an instrument of domination, turns back into myth. It contains the famous critique of the \"culture industry\"."
+  },
+  "updatedAt": "2026-10-30T00:00:00.000Z"
+}

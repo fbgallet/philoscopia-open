@@ -2,7 +2,7 @@
 
 # Dōgen
 
-*1200 – 1253 · Japonais · [Bouddhisme](../movements/buddhism.md)*
+*1200 – 1253 · Japonais · [Chan / Zen](../movements/chan-zen.md)*
 
 Maître zen japonais, fondateur de l'école Sōtō, qui fit de la méditation assise (zazen) le cœur de la voie [bouddhiste](../movements/buddhism.md).
 

@@ -1,0 +1,30 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "marcuse",
+  "stub": true,
+  "name": {
+    "fr": "Marcuse",
+    "en": "Marcuse"
+  },
+  "summary": {
+    "fr": "Philosophe allemand émigré aux États-Unis, membre de l'<mv id='frankfurt-school'>école de Francfort</mv> : <w>Éros et civilisation</w> croise Marx et Freud, et <w>L'Homme unidimensionnel</w> fit de lui une référence de la contestation de 1968.",
+    "en": "German philosopher who emigrated to the United States, a member of the <mv id='frankfurt-school'>Frankfurt School</mv>: <w>Eros and Civilization</w> combines Marx and Freud, and <w>One-Dimensional Man</w> made him a reference for the 1968 protest movements."
+  },
+  "birth": 1898,
+  "death": 1979,
+  "nationality": {
+    "fr": "Germano-américain",
+    "en": "German-American"
+  },
+  "language": "deu",
+  "otherLanguages": [
+    "eng"
+  ],
+  "movements": [
+    "frankfurt-school"
+  ],
+  "updatedAt": "2026-10-30T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

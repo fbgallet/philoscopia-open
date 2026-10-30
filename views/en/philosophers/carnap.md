@@ -2,7 +2,7 @@
 
 # Rudolf Carnap
 
-*1891 – 1970 · German · [Analytic Philosophy](../movements/analytic-philosophy.md)*
+*1891 – 1970 · German · [Logical positivism](../movements/logical-positivism.md)*
 
 German philosopher, a major figure of the Vienna Circle and of logical empiricism. He sought to reconstruct the language of science on a logical basis and developed a theory of logical probability, an ancestor of Bayesian approaches to confirmation.
 

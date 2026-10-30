@@ -1,0 +1,28 @@
+{
+  "id": "standpoint-epistemology",
+  "term": {
+    "fr": "Épistémologies du point de vue",
+    "en": "Standpoint epistemologies"
+  },
+  "aliases": {
+    "fr": [
+      "épistémologie du point de vue"
+    ],
+    "en": [
+      "standpoint epistemology",
+      "standpoint theory"
+    ]
+  },
+  "definition": {
+    "fr": "Approche de l'épistémologie sociale féministe, avec des prolongements en philosophie des sciences et en théorie politique (<ph>Sandra Harding</ph>, <ph>Nancy Hartsock</ph>). Elle soutient qu'un point de vue critique, élaboré à partir d'une position sociale dominée, peut révéler ce que la position dominante masque : par exemple, le travail domestique invisible dans les modèles économiques. Ce point de vue est une conquête collective, non un privilège automatique de la situation vécue.",
+    "en": "An approach within feminist social epistemology, with extensions into philosophy of science and political theory (<ph>Sandra Harding</ph>, <ph>Nancy Hartsock</ph>). It holds that a critical standpoint, worked out from a subordinated social position, can reveal what the dominant position conceals: for instance, the domestic work invisible in economic models. This standpoint is a collective achievement, not an automatic privilege of lived circumstances."
+  },
+  "relatedAxes": [
+    "KNOWLEDGE_STATUS",
+    "SOCIAL_IDENTITY"
+  ],
+  "relatedTerms": [
+    "social-constructionism"
+  ],
+  "updatedAt": "2026-10-30T00:00:00.000Z"
+}

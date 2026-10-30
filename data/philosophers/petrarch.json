@@ -1,0 +1,30 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "petrarch",
+  "stub": true,
+  "name": {
+    "fr": "Pétrarque",
+    "en": "Petrarch"
+  },
+  "summary": {
+    "fr": "Poète et lettré italien, initiateur de l'<mv id='renaissance-humanism'>humanisme</mv> : il rechercha les manuscrits de Cicéron et fit de la lecture des Anciens une école de vie, contre la dialectique des scolastiques.",
+    "en": "Italian poet and man of letters, the initiator of <mv id='renaissance-humanism'>humanism</mv>: he sought out Cicero's manuscripts and made reading the ancients a school of life, against the dialectic of the scholastics."
+  },
+  "birth": 1304,
+  "death": 1374,
+  "nationality": {
+    "fr": "Italien",
+    "en": "Italian"
+  },
+  "language": "lat",
+  "otherLanguages": [
+    "ita"
+  ],
+  "movements": [
+    "renaissance-humanism"
+  ],
+  "updatedAt": "2026-10-30T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

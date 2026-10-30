@@ -1,0 +1,26 @@
+{
+  "id": "narrative-identity",
+  "term": {
+    "fr": "Identité narrative",
+    "en": "Narrative identity"
+  },
+  "definition": {
+    "fr": "Chez <ph id='ricoeur'>Ricœur</ph>, la compréhension de soi qui passe par les récits donnant forme à une vie, ceux qu'on reçoit comme ceux qu'on raconte. Elle fait la médiation entre la <c>mêmeté</c> (<i>idem</i>), dont le caractère est l'expression privilégiée, et l'<c>ipséité</c> (<i>ipse</i>), dont la promesse tenue est le modèle. Quelqu'un peut ainsi changer profondément et rester celui qui répond de ses engagements.",
+    "en": "In <ph id='ricoeur'>Ricœur</ph>, the understanding of oneself that passes through the stories that give a life its shape, those one receives as well as those one tells. It mediates between <c>sameness</c> (<i>idem</i>), whose privileged expression is character, and <c>selfhood</c> (<i>ipse</i>), whose model is the promise kept. Someone can thus change profoundly and remain the one who answers for their commitments."
+  },
+  "relatedAxes": [
+    "SELF_NATURE"
+  ],
+  "relatedTerms": [
+    "personal-identity",
+    "distanciation"
+  ],
+  "figure": {
+    "slug": "ricoeur",
+    "name": {
+      "fr": "Ricœur",
+      "en": "Ricœur"
+    }
+  },
+  "updatedAt": "2026-10-30T00:00:00.000Z"
+}

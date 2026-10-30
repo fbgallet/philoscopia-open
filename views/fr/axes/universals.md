@@ -24,7 +24,7 @@ Seuls les individus existent. La rougeur n'est rien hors des choses rouges : c'e
 
 - Occam nie qu'il existe des choses universelles, mais admet des concepts ou signes universels dans l'esprit : le nominalisme n'est pas un simple étiquetage arbitraire.
 
-*Occam*
+*[Occam](../philosophers/ockham.md)*
 
 ### Conceptualisme (position médiane)
 

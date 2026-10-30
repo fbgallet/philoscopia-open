@@ -1,0 +1,25 @@
+{
+  "id": "buddha-nature",
+  "term": {
+    "fr": "Nature de Bouddha",
+    "en": "Buddha nature"
+  },
+  "aliases": {
+    "en": [
+      "Buddha-nature"
+    ]
+  },
+  "definition": {
+    "fr": "Dans le bouddhisme mahāyāna, la capacité d'éveil présente en tous les êtres. Le Chan en fait le cœur de son enseignement ; <ph id='dogen'>Dōgen</ph> refuse d'y voir une substance cachée et lit : tous les êtres sont nature de Bouddha, et cette nature est l'<c id='anicca'>impermanence</c> même.",
+    "en": "In Mahāyāna Buddhism, the capacity for awakening present in all beings. Chan makes it the core of its teaching; <ph id='dogen'>Dōgen</ph> refuses to see it as a hidden substance and reads: all beings are Buddha nature, and this nature is <c id='anicca'>impermanence</c> itself."
+  },
+  "relatedAxes": [
+    "TRANSCENDENCE",
+    "HUMAN_VISION"
+  ],
+  "relatedTerms": [
+    "sudden-awakening",
+    "anicca"
+  ],
+  "updatedAt": "2026-10-30T00:00:00.000Z"
+}

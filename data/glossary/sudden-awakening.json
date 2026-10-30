@@ -1,0 +1,19 @@
+{
+  "id": "sudden-awakening",
+  "term": {
+    "fr": "Éveil subit",
+    "en": "Sudden awakening"
+  },
+  "definition": {
+    "fr": "Thèse défendue dans le <w id='platform-sutra-huineng'>Sūtra de l'Estrade</w>, texte du <mv id='chan-zen'>Chan</mv> chinois : l'éveil n'est pas le terme d'une accumulation progressive, il est une vision directe de sa propre <c id='buddha-nature'>nature</c>, qui n'est pas un soi permanent mais la <c id='sunyata'>vacuité</c> de l'esprit. Cela n'exclut ni la préparation ni la pratique qui suit, et certaines traditions associent éveil subit et culture graduelle. L'opposition entre une école « subite » du Sud et une école « graduelle » du Nord est en partie une construction polémique.",
+    "en": "The thesis defended in the <w id='platform-sutra-huineng'>Platform Sutra</w>, a text of Chinese <mv id='chan-zen'>Chan</mv>: awakening is not the end point of a gradual accumulation but a direct seeing of one's own <c id='buddha-nature'>nature</c>, which is not a permanent self but the <c id='sunyata'>emptiness</c> of the mind. This excludes neither preparation nor subsequent practice, and some traditions combine sudden awakening with gradual cultivation. The opposition between a \"sudden\" Southern school and a \"gradual\" Northern school is partly a polemical construction."
+  },
+  "relatedAxes": [
+    "METAPHILOSOPHY"
+  ],
+  "relatedTerms": [
+    "buddha-nature",
+    "koan"
+  ],
+  "updatedAt": "2026-10-30T00:00:00.000Z"
+}

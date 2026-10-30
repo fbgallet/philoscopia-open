@@ -2,7 +2,7 @@
 
 # Peter Strawson
 
-*1919 – 2006 · Britannique · [Philosophie analytique](../movements/analytic-philosophy.md)*
+*1919 – 2006 · Britannique · [Philosophie du langage ordinaire](../movements/ordinary-language-philosophy.md)*
 
 Philosophe analytique britannique, auteur de « Liberté et ressentiment », qui fonde la responsabilité morale sur nos attitudes réactives plutôt que sur une preuve du libre arbitre.
 

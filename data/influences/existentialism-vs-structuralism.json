@@ -1,0 +1,25 @@
+{
+  "id": "existentialism-vs-structuralism",
+  "from": {
+    "kind": "MOVEMENT",
+    "slug": "existentialism"
+  },
+  "to": {
+    "kind": "MOVEMENT",
+    "slug": "structuralism"
+  },
+  "directness": "ATTESTED",
+  "mode": "REACTS_AGAINST",
+  "strength": "STRONG",
+  "note": {
+    "fr": "Le <mv id='structuralism'>structuralisme</mv> s'impose en France contre l'<mv id='existentialism'>existentialisme</mv> et sa philosophie de la liberté du sujet. Le dernier chapitre de <w>La Pensée sauvage</w> (1962) répond à <ph id='sartre'>Sartre</ph> : la conscience et l'histoire ne sont pas le point de départ de l'intelligibilité.",
+    "en": "<mv id='structuralism'>Structuralism</mv> rose in France against <mv id='existentialism'>existentialism</mv> and its philosophy of the subject's freedom. The last chapter of <w>The Savage Mind</w> (1962) answers <ph id='sartre'>Sartre</ph>: consciousness and history are not the starting point of intelligibility."
+  },
+  "sources": [
+    {
+      "fr": "Lévi-Strauss, La Pensée sauvage (1962), ch. IX",
+      "en": "Lévi-Strauss, The Savage Mind (1962), ch. IX"
+    }
+  ],
+  "updatedAt": "2026-10-30T00:00:00.000Z"
+}

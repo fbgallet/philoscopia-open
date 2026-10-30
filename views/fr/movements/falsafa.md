@@ -65,6 +65,7 @@ Pour les [falāsifa](../movements/falsafa.md), selon des formulations qui varien
 ## Influence sur
 
 - **[Maïmonide](../philosophers/maimonides.md)** (prolonge) : [Maïmonide](../philosophers/maimonides.md) pense dans le cadre de la [falsafa](../movements/falsafa.md) : il recommande [al-Fārābī](../philosophers/al-farabi.md) avant tout autre auteur et reprend sa conception du prophète comme philosophe doué d'une imagination parfaite.
+- **[Scolastique](../movements/scholasticism.md)** (transmet) : Les traductions latines de Tolède, au XIIe siècle, font passer [Avicenne](../philosophers/avicenna.md) et [Averroès](../philosophers/averroes.md) dans les universités. La [scolastique](../movements/scholasticism.md) leur doit sa lecture d'Aristote, la distinction de l'essence et de l'existence et la querelle de l'intellect unique.
 - **[al-Ghazālī](../philosophers/al-ghazali.md)** (réagit contre) : [Al-Ghazālī](../philosophers/al-ghazali.md) réfute vingt thèses des philosophes de la [falsafa](../movements/falsafa.md), notamment l'éternité du monde et la nécessité du lien causal, et en déclare trois incompatibles avec l'islam : l'éternité du monde, la connaissance divine limitée aux universaux et la négation de la résurrection des corps.
 
 ---

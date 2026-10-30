@@ -33,7 +33,7 @@
     "en": "French"
   },
   "language": "fra",
-  "movements": [],
+  "movements": ["renaissance-humanism"],
   "entries": [
     {
       "axisId": "HUMAN_PLACE_NATURE",

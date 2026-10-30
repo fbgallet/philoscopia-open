@@ -1,0 +1,27 @@
+{
+  "id": "gender-performativity",
+  "term": {
+    "fr": "Performativité du genre",
+    "en": "Gender performativity"
+  },
+  "definition": {
+    "fr": "Thèse de <ph id='butler'>Judith Butler</ph> : le genre n'exprime pas une identité préalable, il se produit par la répétition d'actes réglés par des normes, qui donnent l'illusion d'une essence.",
+    "en": "<ph id='butler'>Judith Butler</ph>'s thesis that gender expresses no prior identity: it is produced through the repetition of acts governed by norms, which give the illusion of an essence."
+  },
+  "relatedAxes": [
+    "SOCIAL_IDENTITY",
+    "ESSENCE"
+  ],
+  "relatedTerms": [
+    "social-constructionism",
+    "the-other"
+  ],
+  "figure": {
+    "slug": "butler",
+    "name": {
+      "fr": "Butler",
+      "en": "Butler"
+    }
+  },
+  "updatedAt": "2026-10-30T00:00:00.000Z"
+}

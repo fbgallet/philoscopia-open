@@ -1,0 +1,38 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "hakuin",
+  "stub": true,
+  "name": {
+    "fr": "Hakuin",
+    "en": "Hakuin"
+  },
+  "aliases": {
+    "fr": [
+      "Hakuin Ekaku"
+    ],
+    "en": [
+      "Hakuin Ekaku"
+    ]
+  },
+  "summary": {
+    "fr": "Maître zen japonais qui renouvela l'école Rinzai et systématisa la pratique des kōan ; on lui doit celui du « son d'une seule main ».",
+    "en": "Japanese Zen master who renewed the Rinzai school and systematized kōan practice; the kōan of \"the sound of one hand\" is his."
+  },
+  "birth": 1686,
+  "death": 1769,
+  "nationality": {
+    "fr": "Japonais",
+    "en": "Japanese"
+  },
+  "language": "jpn",
+  "otherLanguages": [
+    "lzh"
+  ],
+  "movements": [
+    "chan-zen"
+  ],
+  "updatedAt": "2026-10-30T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

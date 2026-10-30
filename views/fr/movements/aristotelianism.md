@@ -292,6 +292,7 @@ Si l'âme était une substance séparée logée dans le corps, comme chez [Plato
 
 ## Influence sur
 
+- **[Néoplatonisme](../movements/neoplatonism.md)** (synthétise) : Les [néoplatoniciens](../movements/neoplatonism.md) intègrent la logique et la physique d'[Aristote](../philosophers/aristotle.md) dans un cursus qui mène à Platon, en tenant les deux maîtres pour accordés. L'Isagogè de [Porphyre](../philosophers/porphyry.md) et ses commentaires des Catégories en sont la pièce maîtresse.
 - **[Bacon](../philosophers/bacon.md)** (réagit contre) : [Bacon](../philosophers/bacon.md) construit sa réforme de la méthode contre l'[aristotélisme](../movements/aristotelianism.md) scolastique, jugé stérile : à la logique syllogistique il oppose un « Novum Organum », l'induction fondée sur l'expérience et l'observation.
 - **[Hobbes](../philosophers/hobbes.md)** (réagit contre) : [Hobbes](../philosophers/hobbes.md) bâtit son mécanisme contre l'[aristotélisme](../movements/aristotelianism.md) scolastique, dont il raille l'« Aristotélité » : plus d'essences ni de causes finales, seulement des corps en mouvement, jusque dans la politique.
 

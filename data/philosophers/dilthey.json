@@ -1,0 +1,27 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "dilthey",
+  "stub": true,
+  "name": {
+    "fr": "Dilthey",
+    "en": "Dilthey"
+  },
+  "summary": {
+    "fr": "Philosophe allemand qui voulut fonder les sciences de l'esprit sur l'expérience vécue : la nature s'explique, la vie psychique et historique se comprend.",
+    "en": "German philosopher who sought to ground the human sciences in lived experience: nature is explained, psychic and historical life is understood."
+  },
+  "birth": 1833,
+  "death": 1911,
+  "nationality": {
+    "fr": "Allemand",
+    "en": "German"
+  },
+  "language": "deu",
+  "movements": [
+    "life-philosophy"
+  ],
+  "updatedAt": "2026-10-30T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

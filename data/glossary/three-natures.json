@@ -1,0 +1,29 @@
+{
+  "id": "three-natures",
+  "term": {
+    "fr": "Trois natures (trisvabhāva)",
+    "en": "Three natures (trisvabhāva)"
+  },
+  "aliases": {
+    "fr": [
+      "trisvabhāva"
+    ],
+    "en": [
+      "trisvabhāva"
+    ]
+  },
+  "definition": {
+    "fr": "Doctrine du <mv id='yogacara'>Yogācāra</mv> qui distingue la nature imaginée (les choses projetées comme sujet et objet), la nature dépendante (le flux conditionné de la conscience) et la nature accomplie (la nature dépendante libérée de cette dualité imaginée).",
+    "en": "A <mv id='yogacara'>Yogācāra</mv> doctrine distinguishing the imagined nature (things projected as subject and object), the dependent nature (the conditioned stream of consciousness) and the perfected nature (the dependent nature freed from this imagined duality)."
+  },
+  "relatedAxes": [
+    "REALITY_NATURE",
+    "CONSCIOUSNESS_NATURE"
+  ],
+  "relatedTerms": [
+    "vijnaptimatra",
+    "sunyata",
+    "two-truths"
+  ],
+  "updatedAt": "2026-10-30T00:00:00.000Z"
+}

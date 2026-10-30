@@ -1,0 +1,25 @@
+{
+  "id": "falsafa-to-scholasticism",
+  "from": {
+    "kind": "MOVEMENT",
+    "slug": "falsafa"
+  },
+  "to": {
+    "kind": "MOVEMENT",
+    "slug": "scholasticism"
+  },
+  "directness": "ATTESTED",
+  "mode": "TRANSMITS",
+  "strength": "STRONG",
+  "note": {
+    "fr": "Les traductions latines de Tolède, au XIIe siècle, font passer <ph id='avicenna'>Avicenne</ph> et <ph id='averroes'>Averroès</ph> dans les universités. La <mv id='scholasticism'>scolastique</mv> leur doit sa lecture d'Aristote, la distinction de l'essence et de l'existence et la querelle de l'intellect unique.",
+    "en": "The twelfth-century Latin translations made in Toledo brought <ph id='avicenna'>Avicenna</ph> and <ph id='averroes'>Averroes</ph> into the universities. <mv id='scholasticism'>Scholasticism</mv> owes them its reading of Aristotle, the distinction between essence and existence and the controversy over the single intellect."
+  },
+  "sources": [
+    {
+      "fr": "Thomas d'Aquin, L'Unité de l'intellect contre les averroïstes (1270)",
+      "en": "Thomas Aquinas, On the Unity of the Intellect against the Averroists (1270)"
+    }
+  ],
+  "updatedAt": "2026-10-30T00:00:00.000Z"
+}

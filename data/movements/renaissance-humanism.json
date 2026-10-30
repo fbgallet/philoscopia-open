@@ -1,0 +1,161 @@
+{
+  "kind": "MOVEMENT",
+  "id": "renaissance-humanism",
+  "name": {
+    "fr": "Humanisme de la Renaissance",
+    "en": "Renaissance humanism"
+  },
+  "tagline": {
+    "fr": "Revenir aux textes anciens pour réapprendre à vivre, et préférer la sagesse qui forme un homme au savoir voué à la dispute.",
+    "en": "Returning to ancient texts to learn how to live again, and preferring the wisdom that forms a person to learning devoted to disputation."
+  },
+  "aliases": {
+    "fr": [
+      "humanistes de la Renaissance"
+    ],
+    "en": [
+      "Renaissance humanists"
+    ]
+  },
+  "summary": {
+    "fr": "Mouvement né en Italie au XIVe siècle autour de <ph id='petrarch'>Pétrarque</ph>, qui fait des <c id='studia-humanitatis'>studia humanitatis</c> (grammaire, rhétorique, histoire, poésie, philosophie morale) la base d'une nouvelle culture. Les humanistes recherchent les textes antiques, les éditent et les traduisent : leur méthode est le retour aux sources, <c>ad fontes</c>. Ils critiquent souvent la <mv id='scholasticism'>scolastique</mv>, la philosophie des universités médiévales, dont ils raillent le latin et les subtilités, mais certains la combinent avec leurs lectures, comme <ph id='pico'>Pic de la Mirandole</ph>. À Florence, l'<c id='civic-humanism'>humanisme civique</c> des chanceliers, de <ph>Leonardo Bruni</ph> à <ph id='machiavelli'>Machiavel</ph>, fait de l'étude des Anciens une école de la vie politique ; un autre courant, celui de <ph>Ficin</ph>, plus contemplatif, y mêle le <mv id='neoplatonism'>néoplatonisme</mv>, et les deux se croisent dans les mêmes cercles. <ph id='erasmus'>Érasme</ph> en fait au Nord une <c id='philosophy-of-christ'>philosophie du Christ</c>, piété fondée sur l'Évangile relu dans ses sources plutôt que sur la théologie des écoles. <ph id='montaigne'>Montaigne</ph> en recueille l'héritage sur un mode sceptique. <dif>L'unité du mouvement tient à des pratiques partagées de lecture et d'interprétation des textes plus qu'à une doctrine : Pic exalte la <c id='dignity-of-man'>dignité de l'homme</c> quand Montaigne rabat sa présomption.</dif> Les dates retenues (1341, couronnement de Pétrarque ; 1592, mort de Montaigne) sont des repères.",
+    "en": "A movement born in fourteenth-century Italy around <ph id='petrarch'>Petrarch</ph>, which made the <c id='studia-humanitatis'>studia humanitatis</c> (grammar, rhetoric, history, poetry, moral philosophy) the basis of a new culture. The humanists sought out ancient texts, edited and translated them: their method was the return to the sources, <c>ad fontes</c>. They often criticized <mv id='scholasticism'>scholasticism</mv>, the philosophy of the medieval universities, mocking its Latin and its subtleties, though some combined it with their reading, like <ph id='pico'>Pico della Mirandola</ph>. In Florence, the <c id='civic-humanism'>civic humanism</c> of the chancellors, from <ph>Leonardo Bruni</ph> to <ph id='machiavelli'>Machiavelli</ph>, made the study of the ancients a school for political life; another, more contemplative current, that of <ph>Ficino</ph>, blended <mv id='neoplatonism'>Neoplatonism</mv> into it, and the two met in the same circles. In the North, <ph id='erasmus'>Erasmus</ph> made it a <c id='philosophy-of-christ'>philosophy of Christ</c>, a piety grounded in the Gospel reread in its sources rather than in the theology of the schools. <ph id='montaigne'>Montaigne</ph> reworked its legacy in a sceptical vein. <dif>The movement's unity lies in shared practices of reading and interpreting texts more than in a doctrine: Pico exalts <c id='dignity-of-man'>human dignity</c> where Montaigne deflates human presumption.</dif> The dates used (1341, Petrarch's coronation; 1592, Montaigne's death) are landmarks."
+  },
+  "area": "WEST",
+  "period": {
+    "from": 1341,
+    "to": 1592,
+    "approx": true,
+    "afterlife": "HISTORICAL"
+  },
+  "keyFigures": [
+    {
+      "slug": "petrarch",
+      "name": {
+        "fr": "Pétrarque",
+        "en": "Petrarch"
+      }
+    },
+    {
+      "slug": "pico",
+      "name": {
+        "fr": "Pic de la Mirandole",
+        "en": "Pico della Mirandola"
+      }
+    },
+    {
+      "slug": "erasmus",
+      "name": {
+        "fr": "Érasme",
+        "en": "Erasmus"
+      }
+    },
+    {
+      "slug": "montaigne",
+      "name": {
+        "fr": "Montaigne",
+        "en": "Montaigne"
+      }
+    }
+  ],
+  "entries": [
+    {
+      "axisId": "TIME_ORIENTATION",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0,
+          0.15,
+          0.85
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Pour les humanistes, l'avenir se construit par la mémoire. <ph id='petrarch'>Pétrarque</ph> juge son temps barbare et cherche dans <ph>Cicéron</ph> et <ph id='seneca'>Sénèque</ph> des interlocuteurs vivants, auxquels il adresse des lettres. Restaurer le texte exact des Anciens, selon la méthode <c>ad fontes</c>, c'est restaurer une manière de vivre.",
+          "en": "For the humanists, the future is built through memory. <ph id='petrarch'>Petrarch</ph> judges his age barbarous and seeks living interlocutors in <ph>Cicero</ph> and <ph id='seneca'>Seneca</ph>, to whom he addresses letters. To restore the exact text of the ancients, following the <c>ad fontes</c> method, is to restore a way of living."
+        },
+        "references": [
+          {
+            "fr": "Pétrarque, Lettres familières, XXIV, 3-4 (lettres à Cicéron et à Sénèque)",
+            "en": "Petrarch, Letters on Familiar Matters, XXIV.3-4 (letters to Cicero and Seneca)"
+          },
+          {
+            "fr": "Érasme, Antibarbari (1520)",
+            "en": "Erasmus, Antibarbari (1520)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "METAPHILOSOPHY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.1,
+          0.15,
+          0.75,
+          0
+        ]
+      },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "La philosophie vaut par ce qu'elle fait de celui qui la pratique. <ph id='petrarch'>Pétrarque</ph> l'affirme contre les dialecticiens : mieux vaut vouloir le bien que connaître le vrai. <ph id='erasmus'>Érasme</ph> et <ph id='montaigne'>Montaigne</ph> prolongent cette primauté de la <c>philosophie morale</c> sur la spéculation. <dif>Les humanistes civiques de Florence, de Salutati à Bruni, défendent en outre la vie active au service de la cité : former le citoyen par les lettres, c'est servir la république, ce qui donne une part plus modeste à la transformation du monde.</dif>",
+          "en": "Philosophy is worth what it makes of the person who practises it. <ph id='petrarch'>Petrarch</ph> asserts this against the dialecticians: it is better to will the good than to know the truth. <ph id='erasmus'>Erasmus</ph> and <ph id='montaigne'>Montaigne</ph> carry on this primacy of <c>moral philosophy</c> over speculation. <dif>The civic humanists of Florence, from Salutati to Bruni, also defend the active life in the service of the city: to form the citizen through letters is to serve the republic, which gives a smaller share to transforming the world.</dif>"
+        },
+        "references": [
+          {
+            "fr": "Pétrarque, De mon ignorance et de celle de beaucoup d'autres (1367)",
+            "en": "Petrarch, On His Own Ignorance and That of Many Others (1367)"
+          },
+          {
+            "fr": "Bruni, Dialogues à Pier Paolo Vergerio (vers 1401-1406)",
+            "en": "Bruni, Dialogues to Pier Paolo Vergerio (c. 1401-1406)"
+          },
+          {
+            "fr": "Montaigne, Essais, I, 26",
+            "en": "Montaigne, Essays, I, 26"
+          }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "FREEDOM",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "scalar",
+        "value": -0.6
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "<ph id='pico'>Pic</ph> fait parler Dieu à Adam : l'homme n'a pas de place fixe, il se donne la forme qu'il choisit, à l'intérieur d'un ordre créé. <ph id='erasmus'>Érasme</ph> défend contre <ph>Luther</ph> un <c id='free-will'>libre arbitre</c> qui coopère avec la <c>grâce</c>, laquelle reste indispensable au salut, et Luther lui répond par le <c>serf arbitre</c> (1524-1525). <dif>La position vaut pour Pic et Érasme ; <ph id='montaigne'>Montaigne</ph> reste en retrait de cette exaltation.</dif>",
+          "en": "<ph id='pico'>Pico</ph> has God speak to Adam: the human being has no fixed place and gives itself the form it chooses, within a created order. <ph id='erasmus'>Erasmus</ph> defends against <ph>Luther</ph> a <c id='free-will'>free will</c> that cooperates with <c>grace</c>, which remains indispensable to salvation, and Luther answers him with the <c>bondage of the will</c> (1524-1525). <dif>The position holds for Pico and Erasmus; <ph id='montaigne'>Montaigne</ph> stands back from this exaltation.</dif>"
+        },
+        "references": [
+          {
+            "fr": "Pic de la Mirandole, De la dignité de l'homme (1486)",
+            "en": "Pico della Mirandola, Oration on the Dignity of Man (1486)"
+          },
+          {
+            "fr": "Érasme, Du libre arbitre (1524)",
+            "en": "Erasmus, On Free Will (1524)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    }
+  ],
+  "updatedAt": "2026-10-30T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

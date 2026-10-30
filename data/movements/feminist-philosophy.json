@@ -1,0 +1,133 @@
+{
+  "kind": "MOVEMENT",
+  "id": "feminist-philosophy",
+  "name": {
+    "fr": "Philosophie féministe",
+    "en": "Feminist philosophy"
+  },
+  "tagline": {
+    "fr": "Demander à la philosophie ce que ses concepts doivent à l'exclusion des femmes, et ce qu'ils deviennent quand on la défait.",
+    "en": "Asking philosophy what its concepts owe to the exclusion of women, and what becomes of them once that exclusion is undone."
+  },
+  "aliases": {
+    "fr": [
+      "philosophes féministes"
+    ],
+    "en": [
+      "feminist philosophers"
+    ]
+  },
+  "summary": {
+    "fr": "Ensemble de philosophies qui font de la condition des femmes et du genre un objet et un instrument de critique. Elles ont des devancières (<per>Christine de Pizan</per>, <ph>François Poulain de la Barre</ph>) ; on retient ici comme repère la <w id='vindication-of-the-rights-of-woman-wollstonecraft'>Défense des droits de la femme</w> (1792), où <ph id='wollstonecraft'>Mary Wollstonecraft</ph> retourne contre <ph id='rousseau'>Rousseau</ph> les principes des <mv id='enlightenment'>Lumières</mv>. <w id='the-second-sex-beauvoir'>Le Deuxième Sexe</w> (1949) de <ph id='beauvoir'>Simone de Beauvoir</ph> compte parmi ses œuvres majeures. À partir des années 1970, le champ se diversifie : <c id='standpoint-epistemology'>épistémologies du point de vue</c>, féminismes matérialistes (<per>Christine Delphy</per>) et noirs (<per>bell hooks</per>), éthique du <c id='care-ethics'>care</c> issue de <ph id='gilligan'>Carol Gilligan</ph>, théorie de la <c id='gender-performativity'>performativité</c> du genre chez <ph id='butler'>Judith Butler</ph>. <dif>Les désaccords portent sur l'égalité, sur la place du corps et sur la différence des sexes, que <ph>Luce Irigaray</ph> pense comme une différence à faire exister plutôt qu'à effacer : le courant est un champ de controverses plus qu'une doctrine.</dif>",
+    "en": "A family of philosophies that make the condition of women and gender both an object and an instrument of critique. They had forerunners (<per>Christine de Pizan</per>, <ph>François Poulain de la Barre</ph>); the landmark taken here is <w id='vindication-of-the-rights-of-woman-wollstonecraft'>A Vindication of the Rights of Woman</w> (1792), in which <ph id='wollstonecraft'>Mary Wollstonecraft</ph> turns the principles of the <mv id='enlightenment'>Enlightenment</mv> against <ph id='rousseau'>Rousseau</ph>. <ph id='beauvoir'>Simone de Beauvoir</ph>'s <w id='the-second-sex-beauvoir'>The Second Sex</w> (1949) ranks among its major works. From the 1970s the field diversified: <c id='standpoint-epistemology'>standpoint epistemologies</c>, materialist feminism (<per>Christine Delphy</per>) and Black feminism (<per>bell hooks</per>), the ethics of <c id='care-ethics'>care</c> stemming from <ph id='gilligan'>Carol Gilligan</ph>, <ph id='butler'>Judith Butler</ph>'s theory of gender <c id='gender-performativity'>performativity</c>. <dif>The disagreements bear on equality, on the place of the body and on sexual difference, which <ph>Luce Irigaray</ph> thinks of as a difference to be brought into existence rather than erased: the movement is a field of controversies more than a doctrine.</dif>"
+  },
+  "area": "WEST",
+  "period": {
+    "from": 1792
+  },
+  "keyFigures": [
+    {
+      "slug": "wollstonecraft",
+      "name": {
+        "fr": "Wollstonecraft",
+        "en": "Wollstonecraft"
+      }
+    },
+    {
+      "slug": "beauvoir",
+      "name": {
+        "fr": "Beauvoir",
+        "en": "Beauvoir"
+      }
+    },
+    {
+      "slug": "butler",
+      "name": {
+        "fr": "Butler",
+        "en": "Butler"
+      }
+    }
+  ],
+  "entries": [
+    {
+      "axisId": "SOCIAL_IDENTITY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0,
+          0.7,
+          0.3
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "L'argument remonte à <ph id='wollstonecraft'>Wollstonecraft</ph> : sans nier les différences du corps, elle conteste qu'on tienne pour naturels des traits que l'éducation a produits. <ph id='beauvoir'>Beauvoir</ph> montre que la femme a été constituée comme l'<c id='the-other'>Autre</c> de l'homme, sans que la biologie ni la psychologie ne l'imposent. <ph id='butler'>Butler</ph>, pour sa part, soutient que le <c>genre</c> n'exprime aucune <c id='essentialism'>essence</c> : il se produit dans la répétition d'actes réglés par des <c>normes</c>, qui ne sont pas choisis librement. <dif>Les féminismes matérialistes et noirs insistent sur la réalité sociale de ces catégories, qui structurent des rapports de domination, d'où la part de réalisme social ; <ph>Irigaray</ph> pense la différence sexuelle comme une différence ontologique plutôt que comme une simple <c id='social-constructionism'>construction</c>.</dif>",
+          "en": "The argument goes back to <ph id='wollstonecraft'>Wollstonecraft</ph>: without denying bodily differences, she disputes treating as natural the traits that education has produced. <ph id='beauvoir'>Beauvoir</ph> shows that woman has been constituted as man's <c id='the-other'>Other</c>, without biology or psychology imposing it. <ph id='butler'>Butler</ph>, for her part, argues that <c>gender</c> expresses no <c id='essentialism'>essence</c>: it is produced through the repetition of acts governed by <c>norms</c>, which are not freely chosen. <dif>Materialist and Black feminisms insist on the social reality of these categories, which structure relations of domination, hence the share of social realism; <ph>Irigaray</ph> conceives sexual difference as an ontological difference rather than a mere <c id='social-constructionism'>construction</c>.</dif>"
+        },
+        "references": [
+          {
+            "fr": "Wollstonecraft, Défense des droits de la femme (1792), ch. II",
+            "en": "Wollstonecraft, A Vindication of the Rights of Woman (1792), ch. II"
+          },
+          {
+            "fr": "Beauvoir, Le Deuxième Sexe (1949), t. II, 1re partie",
+            "en": "Beauvoir, The Second Sex (1949), vol. II, part 1"
+          },
+          {
+            "fr": "Butler, Trouble dans le genre (1990)",
+            "en": "Butler, Gender Trouble (1990)"
+          },
+          {
+            "fr": "Irigaray, Speculum de l'autre femme (1974)",
+            "en": "Irigaray, Speculum of the Other Woman (1974)"
+          },
+          {
+            "fr": "bell hooks, Ne suis-je pas une femme ? (1981)",
+            "en": "bell hooks, Ain't I a Woman? (1981)"
+          }
+        ],
+        "strength": "MEDIUM",
+        "quoteId": "on-ne-nait-pas-femme-on-beauvoir"
+      }
+    },
+    {
+      "axisId": "METAPHILOSOPHY",
+      "status": "POSITIONED",
+      "declaredValue": {
+        "kind": "weights",
+        "weights": [
+          0.05,
+          0.8,
+          0,
+          0.15
+        ]
+      },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "La philosophie féministe est critique au sens fort : en montrant qu'une hiérarchie se fait passer pour naturelle, elle travaille déjà à la défaire. <ph id='beauvoir'>Beauvoir</ph> part de la question de ce qu'est une femme pour décrire comment l'homme s'est posé comme le <c>sujet</c> et l'absolu, et la femme comme l'<c id='the-other'>Autre</c>. Les <c id='standpoint-epistemology'>épistémologies du point de vue</c> en tirent une thèse sur le savoir : un point de vue critique, élaboré à partir d'une position dominée, peut voir ce que la position dominante masque ; occuper cette position ne suffit pas à le conférer. <dif>La part de clarification conceptuelle (sur le sexe, le genre, l'égalité) est réelle, mais elle sert ce projet critique.</dif>",
+          "en": "Feminist philosophy is critical in the strong sense: by showing that a hierarchy passes itself off as natural, it is already working to undo it. <ph id='beauvoir'>Beauvoir</ph> starts from the question of what a woman is in order to describe how man has posited himself as the <c>subject</c> and the absolute, and woman as the <c id='the-other'>Other</c>. <c id='standpoint-epistemology'>Standpoint epistemologies</c> draw a thesis about knowledge from this: a critical standpoint, worked out from a dominated position, can see what the dominant position conceals; occupying that position is not enough to confer it. <dif>The share of conceptual clarification (of sex, gender, equality) is real, but it serves this critical project.</dif>"
+        },
+        "references": [
+          {
+            "fr": "Beauvoir, Le Deuxième Sexe (1949), introduction",
+            "en": "Beauvoir, The Second Sex (1949), introduction"
+          },
+          {
+            "fr": "Harding, Whose Science? Whose Knowledge? (1991)",
+            "en": "Harding, Whose Science? Whose Knowledge? (1991)"
+          }
+        ],
+        "strength": "MEDIUM"
+      }
+    }
+  ],
+  "updatedAt": "2026-10-30T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}
