@@ -1,0 +1,51 @@
+{
+  "id": "sophists",
+  "name": {
+    "fr": "Sophistes",
+    "en": "Sophists"
+  },
+  "span": "CONTEMPORARY",
+  "tagline": {
+    "fr": "Maîtres de parole de l'Athènes classique, qui demandent ce que les lois et les valeurs doivent à la convention.",
+    "en": "Masters of speech in classical Athens, who ask what laws and values owe to convention."
+  },
+  "summary": {
+    "fr": "Maîtres itinérants de la seconde moitié du Vᵉ siècle av. J.-C., qui enseignent contre salaire l'art de parler et de réussir dans la cité, surtout à Athènes. Ils ne partagent pas de doctrine, mais déplacent l'enquête de la nature vers les affaires humaines et mettent à l'épreuve ce que les lois et les valeurs doivent à la convention (<i>nomos</i>) plutôt qu'à la nature (<i>phusis</i>).",
+    "en": "Itinerant teachers of the second half of the 5th century BCE who taught, for a fee, the art of speaking and of succeeding in the city, above all in Athens. They share no doctrine, but they shift inquiry from nature to human affairs and put to the test what laws and values owe to convention (<i>nomos</i>) rather than to nature (<i>phusis</i>)."
+  },
+  "members": [
+    {
+      "kind": "PHILOSOPHER",
+      "slug": "protagoras"
+    },
+    {
+      "kind": "PHILOSOPHER",
+      "slug": "gorgias"
+    },
+    {
+      "kind": "PHILOSOPHER",
+      "slug": "prodicus"
+    },
+    {
+      "kind": "PHILOSOPHER",
+      "slug": "hippias"
+    },
+    {
+      "kind": "PHILOSOPHER",
+      "slug": "antiphon"
+    },
+    {
+      "kind": "PHILOSOPHER",
+      "slug": "thrasymachus"
+    }
+  ],
+  "coinedBy": {
+    "note": {
+      "fr": "Le mot <i>sophistès</i> désigne d'abord tout savant ou maître de sagesse. Ce sont <ph id='plato'>Platon</ph>, puis <ph id='aristotle'>Aristote</ph>, qui en font le nom péjoratif du marchand d'apparence de savoir, opposé au philosophe. Nous connaissons surtout les sophistes par leurs adversaires ; leur réhabilitation date du XIXᵉ siècle (<ph id='hegel'>Hegel</ph>, <per>George Grote</per>).",
+      "en": "The word <i>sophistès</i> first meant any learned man or master of wisdom. It was <ph id='plato'>Plato</ph>, then <ph id='aristotle'>Aristotle</ph>, who made it the pejorative name of the seller of a semblance of knowledge, set against the philosopher. We know the sophists mostly through their opponents; their rehabilitation dates from the 19th century (<ph id='hegel'>Hegel</ph>, <per>George Grote</per>)."
+    },
+    "year": -390,
+    "approx": true
+  },
+  "updatedAt": "2026-11-04T00:00:00.000Z"
+}

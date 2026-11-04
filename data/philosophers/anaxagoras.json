@@ -1,0 +1,38 @@
+{
+  "kind": "PHILOSOPHER",
+  "stub": true,
+  "id": "anaxagoras",
+  "name": {
+    "fr": "Anaxagore",
+    "en": "Anaxagoras"
+  },
+  "fullName": {
+    "fr": "Anaxagore de Clazomènes",
+    "en": "Anaxagoras of Clazomenae"
+  },
+  "aliases": {
+    "fr": [
+      "Anaxagore de Clazomènes"
+    ],
+    "en": [
+      "Anaxagoras of Clazomenae"
+    ]
+  },
+  "summary": {
+    "fr": "Venu de Clazomènes à Athènes, il soutient que tout est dans tout et qu'un Intellect (<i>noûs</i>) a mis en ordre le mélange originel. Accusé d'impiété pour avoir dit que le soleil est une pierre incandescente, il doit quitter la ville.",
+    "en": "Coming from Clazomenae to Athens, he holds that everything is in everything and that an Intellect (<i>nous</i>) set the original mixture in order. Charged with impiety for saying the sun is a red-hot stone, he had to leave the city."
+  },
+  "nationality": {
+    "fr": "Grec",
+    "en": "Greek"
+  },
+  "birth": -500,
+  "death": -428,
+  "datesApprox": true,
+  "language": "grc",
+  "movements": [],
+  "updatedAt": "2026-11-04T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "kind": "PHILOSOPHER",
+  "stub": true,
+  "id": "la-bruyere",
+  "name": {
+    "fr": "La Bruyère",
+    "en": "La Bruyère"
+  },
+  "fullName": {
+    "fr": "Jean de La Bruyère",
+    "en": "Jean de La Bruyère"
+  },
+  "aliases": {
+    "fr": [
+      "Jean de La Bruyère"
+    ],
+    "en": [
+      "Jean de La Bruyère"
+    ]
+  },
+  "summary": {
+    "fr": "Précepteur dans la maison de Condé, il peint dans <i>Les Caractères</i> (1688) les types de la cour et de la ville, du distrait au flatteur, et fait du portrait un instrument de critique sociale.",
+    "en": "A tutor in the house of Condé, he paints in <i>The Characters</i> (1688) the types of the court and the town, from the absent-minded to the flatterer, and makes the portrait an instrument of social criticism."
+  },
+  "nationality": {
+    "fr": "Français",
+    "en": "French"
+  },
+  "birth": 1645,
+  "death": 1696,
+  "language": "fra",
+  "movements": [],
+  "updatedAt": "2026-11-04T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

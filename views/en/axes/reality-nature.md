@@ -14,7 +14,7 @@ What, at bottom, is the world made of? To say that everything is matter, that ev
 
 Everything that exists is material, including thought, which is merely a product of how matter is organized. Mind is not a separate substance: it can be fully explained by the body and the brain.
 
-*Democritus · [La Mettrie](../philosophers/la-mettrie.md)*
+*[Democritus](../philosophers/democritus.md) · [La Mettrie](../philosophers/la-mettrie.md)*
 
 ### Idealism
 

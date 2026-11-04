@@ -1,0 +1,38 @@
+{
+  "kind": "PHILOSOPHER",
+  "stub": true,
+  "id": "xenophanes",
+  "name": {
+    "fr": "Xénophane",
+    "en": "Xenophanes"
+  },
+  "fullName": {
+    "fr": "Xénophane de Colophon",
+    "en": "Xenophanes of Colophon"
+  },
+  "aliases": {
+    "fr": [
+      "Xénophane de Colophon"
+    ],
+    "en": [
+      "Xenophanes of Colophon"
+    ]
+  },
+  "summary": {
+    "fr": "Poète itinérant de Colophon, il raille les dieux d'Homère et d'Hésiode, faits à l'image des hommes. Il leur oppose un dieu unique qui meut tout par la pensée, et distingue ce que l'on sait de ce que l'on croit.",
+    "en": "A wandering poet from Colophon, he mocks the gods of Homer and Hesiod, made in the image of humans. Against them he sets a single god who moves all things by thought, and distinguishes what one knows from what one believes."
+  },
+  "nationality": {
+    "fr": "Grec",
+    "en": "Greek"
+  },
+  "birth": -570,
+  "death": -475,
+  "datesApprox": true,
+  "language": "grc",
+  "movements": [],
+  "updatedAt": "2026-11-04T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

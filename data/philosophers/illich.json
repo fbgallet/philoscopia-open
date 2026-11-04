@@ -1,0 +1,25 @@
+{
+  "kind": "PHILOSOPHER",
+  "stub": true,
+  "id": "illich",
+  "name": {
+    "fr": "Ivan Illich",
+    "en": "Ivan Illich"
+  },
+  "summary": {
+    "fr": "Prêtre devenu critique de la société industrielle, il montre qu'au-delà d'un certain seuil l'école, la médecine ou les transports produisent l'inverse de ce qu'ils promettent. Il leur oppose des outils « conviviaux », que chacun peut maîtriser sans dépendre d'experts.",
+    "en": "A priest turned critic of industrial society, he shows that beyond a certain threshold schooling, medicine or transport produce the opposite of what they promise. Against them he sets \"convivial\" tools, which anyone can master without depending on experts."
+  },
+  "nationality": {
+    "fr": "Autrichien",
+    "en": "Austrian"
+  },
+  "birth": 1926,
+  "death": 2002,
+  "language": "eng",
+  "movements": [],
+  "updatedAt": "2026-11-04T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

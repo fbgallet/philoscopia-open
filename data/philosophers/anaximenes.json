@@ -1,0 +1,38 @@
+{
+  "kind": "PHILOSOPHER",
+  "stub": true,
+  "id": "anaximenes",
+  "name": {
+    "fr": "Anaximène",
+    "en": "Anaximenes"
+  },
+  "fullName": {
+    "fr": "Anaximène de Milet",
+    "en": "Anaximenes of Miletus"
+  },
+  "aliases": {
+    "fr": [
+      "Anaximène de Milet"
+    ],
+    "en": [
+      "Anaximenes of Miletus"
+    ]
+  },
+  "summary": {
+    "fr": "Dernier des Milésiens, il tient l'air pour principe : raréfié, il devient feu ; condensé, vent, nuage, eau, terre et pierre. Les différences de qualité deviennent des différences de densité.",
+    "en": "The last of the Milesians, he takes air as the principle: rarefied, it becomes fire; condensed, wind, cloud, water, earth and stone. Differences of quality become differences of density."
+  },
+  "nationality": {
+    "fr": "Grec",
+    "en": "Greek"
+  },
+  "birth": -585,
+  "death": -525,
+  "datesApprox": true,
+  "language": "grc",
+  "movements": [],
+  "updatedAt": "2026-11-04T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

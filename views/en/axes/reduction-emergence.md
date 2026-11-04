@@ -14,7 +14,7 @@ Is understanding always a matter of breaking things into simpler elements, or do
 
 Every complex phenomenon is explained, in the final analysis, by its elementary constituents and their interactions: there are only atoms and void. To explain is to break things down to their simplest elements.
 
-*Democritus*
+*[Democritus](../philosophers/democritus.md)*
 
 ### Emergentism
 

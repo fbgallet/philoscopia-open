@@ -1,0 +1,25 @@
+{
+  "kind": "PHILOSOPHER",
+  "stub": true,
+  "id": "gracian",
+  "name": {
+    "fr": "Baltasar Gracián",
+    "en": "Baltasar Gracián"
+  },
+  "summary": {
+    "fr": "Jésuite aragonais, auteur de l'<i>Oráculo manual</i>, trois cents maximes pour se conduire avec prudence dans un monde de faux-semblants, où il faut savoir paraître pour ne pas être joué.",
+    "en": "An Aragonese Jesuit, author of the <i>Oráculo manual</i>, three hundred maxims for conducting oneself prudently in a world of pretences, where one must know how to appear so as not to be played."
+  },
+  "nationality": {
+    "fr": "Espagnol",
+    "en": "Spanish"
+  },
+  "birth": 1601,
+  "death": 1658,
+  "language": "spa",
+  "movements": [],
+  "updatedAt": "2026-11-04T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

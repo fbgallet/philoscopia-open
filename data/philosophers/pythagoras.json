@@ -1,0 +1,39 @@
+{
+  "kind": "PHILOSOPHER",
+  "stub": true,
+  "id": "pythagoras",
+  "name": {
+    "fr": "Pythagore",
+    "en": "Pythagoras"
+  },
+  "fullName": {
+    "fr": "Pythagore de Samos",
+    "en": "Pythagoras of Samos"
+  },
+  "aliases": {
+    "fr": [
+      "Pythagore de Samos"
+    ],
+    "en": [
+      "Pythagoras of Samos"
+    ]
+  },
+  "summary": {
+    "fr": "Fondateur à Crotone d'une communauté à la fois savante et religieuse, il n'a rien écrit et sa figure se confond avec la légende. Ses disciples font du nombre le principe des choses et enseignent la transmigration des âmes.",
+    "en": "Founder at Croton of a community at once learned and religious, he wrote nothing and his figure merges with legend. His followers make number the principle of things and teach the transmigration of souls."
+  },
+  "nationality": {
+    "fr": "Grec",
+    "en": "Greek"
+  },
+  "birth": -570,
+  "death": -495,
+  "datesApprox": true,
+  "language": "grc",
+  "oral": true,
+  "movements": [],
+  "updatedAt": "2026-11-04T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

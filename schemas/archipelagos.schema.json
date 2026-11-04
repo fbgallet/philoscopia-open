@@ -1,0 +1,186 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/fbgallet/philoscopia-open/blob/main/schemas/archipelagos.schema.json",
+  "title": "archipelagos",
+  "description": "An archipelago: a historiographic grouping of figures/movements united by a shared problem rather than a doctrine (the Presocratics, the masters of suspicion); no positions of its own. Generated from the source Zod schemas. This captures structure only; cross-file and cross-field rules (reference resolution, graph acyclicity, pole-count-by-type, weights summing to 1, etc.) are enforced by the corpus validator, not expressible in JSON Schema.",
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9][a-z0-9-]*$"
+    },
+    "name": {
+      "type": "object",
+      "properties": {
+        "fr": {
+          "type": "string",
+          "minLength": 1
+        },
+        "en": {
+          "type": "string",
+          "minLength": 1
+        }
+      },
+      "required": [
+        "fr",
+        "en"
+      ],
+      "additionalProperties": false
+    },
+    "span": {
+      "type": "string",
+      "enum": [
+        "CONTEMPORARY",
+        "TRANSVERSAL"
+      ]
+    },
+    "tagline": {
+      "type": "object",
+      "properties": {
+        "fr": {
+          "type": "string",
+          "minLength": 1
+        },
+        "en": {
+          "type": "string",
+          "minLength": 1
+        }
+      },
+      "required": [
+        "fr",
+        "en"
+      ],
+      "additionalProperties": false
+    },
+    "summary": {
+      "type": "object",
+      "properties": {
+        "fr": {
+          "type": "string",
+          "minLength": 1
+        },
+        "en": {
+          "type": "string",
+          "minLength": 1
+        }
+      },
+      "required": [
+        "fr",
+        "en"
+      ],
+      "additionalProperties": false
+    },
+    "description": {
+      "type": "object",
+      "properties": {
+        "fr": {
+          "type": "string",
+          "minLength": 1
+        },
+        "en": {
+          "type": "string",
+          "minLength": 1
+        }
+      },
+      "required": [
+        "fr",
+        "en"
+      ],
+      "additionalProperties": false
+    },
+    "members": {
+      "minItems": 2,
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "kind": {
+            "type": "string",
+            "enum": [
+              "PHILOSOPHER",
+              "MOVEMENT"
+            ]
+          },
+          "slug": {
+            "type": "string",
+            "pattern": "^[a-z0-9][a-z0-9-]*$"
+          }
+        },
+        "required": [
+          "kind",
+          "slug"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "problems": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "axis": {
+            "type": "string",
+            "pattern": "^[A-Z][A-Z0-9_]*$"
+          },
+          "problem": {
+            "type": "string",
+            "pattern": "^[a-z0-9][a-z0-9-]*$"
+          }
+        },
+        "required": [
+          "axis",
+          "problem"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "coinedBy": {
+      "type": "object",
+      "properties": {
+        "note": {
+          "type": "object",
+          "properties": {
+            "fr": {
+              "type": "string",
+              "minLength": 1
+            },
+            "en": {
+              "type": "string",
+              "minLength": 1
+            }
+          },
+          "required": [
+            "fr",
+            "en"
+          ],
+          "additionalProperties": false
+        },
+        "year": {
+          "type": "integer",
+          "minimum": -9007199254740991,
+          "maximum": 9007199254740991
+        },
+        "approx": {
+          "type": "boolean",
+          "const": true
+        }
+      },
+      "required": [
+        "note"
+      ],
+      "additionalProperties": false
+    },
+    "updatedAt": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "id",
+    "name",
+    "span",
+    "summary",
+    "members",
+    "updatedAt"
+  ],
+  "additionalProperties": false
+}

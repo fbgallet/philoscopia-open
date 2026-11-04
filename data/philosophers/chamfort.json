@@ -1,0 +1,37 @@
+{
+  "kind": "PHILOSOPHER",
+  "stub": true,
+  "id": "chamfort",
+  "name": {
+    "fr": "Chamfort",
+    "en": "Chamfort"
+  },
+  "fullName": {
+    "fr": "Nicolas de Chamfort",
+    "en": "Nicolas de Chamfort"
+  },
+  "aliases": {
+    "fr": [
+      "Nicolas de Chamfort"
+    ],
+    "en": [
+      "Nicolas de Chamfort"
+    ]
+  },
+  "summary": {
+    "fr": "Homme de lettres choyé par la cour puis rallié à la Révolution, il laisse des <i>Maximes et pensées</i> d'un pessimisme mordant sur la société ; menacé d'arrestation sous la Terreur, il meurt des suites d'une tentative de suicide.",
+    "en": "A man of letters pampered by the court, then won over to the Revolution, he left <i>Maxims and Thoughts</i> of biting pessimism about society; threatened with arrest under the Terror, he died of the aftermath of a suicide attempt."
+  },
+  "nationality": {
+    "fr": "Français",
+    "en": "French"
+  },
+  "birth": 1741,
+  "death": 1794,
+  "language": "fra",
+  "movements": [],
+  "updatedAt": "2026-11-04T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

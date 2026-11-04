@@ -14,7 +14,7 @@ De quoi le monde est-il fait, au fond ? Dire que tout est matière, que tout est
 
 Tout ce qui existe est matériel, y compris la pensée, qui n'est qu'un produit de l'organisation de la matière. L'esprit n'est pas une substance à part : il s'explique entièrement par le corps et le cerveau.
 
-*Démocrite · [La Mettrie](../philosophers/la-mettrie.md)*
+*[Démocrite](../philosophers/democritus.md) · [La Mettrie](../philosophers/la-mettrie.md)*
 
 ### Idéalisme
 

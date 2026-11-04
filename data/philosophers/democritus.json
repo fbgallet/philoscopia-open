@@ -1,0 +1,38 @@
+{
+  "kind": "PHILOSOPHER",
+  "stub": true,
+  "id": "democritus",
+  "name": {
+    "fr": "Démocrite",
+    "en": "Democritus"
+  },
+  "fullName": {
+    "fr": "Démocrite d'Abdère",
+    "en": "Democritus of Abdera"
+  },
+  "aliases": {
+    "fr": [
+      "Démocrite d'Abdère"
+    ],
+    "en": [
+      "Democritus of Abdera"
+    ]
+  },
+  "summary": {
+    "fr": "Avec <per>Leucippe</per>, il tient que seuls existent les atomes, corps insécables, et le vide où ils se meuvent ; le doux, l'amer ou la couleur n'existent que « par convention ». Son atomisme passera à <ph id='epicurus'>Épicure</ph>.",
+    "en": "With <per>Leucippus</per>, he holds that only atoms, indivisible bodies, and the void in which they move exist; sweet, bitter or colour exist only \"by convention\". His atomism will pass to <ph id='epicurus'>Epicurus</ph>."
+  },
+  "nationality": {
+    "fr": "Grec",
+    "en": "Greek"
+  },
+  "birth": -460,
+  "death": -370,
+  "datesApprox": true,
+  "language": "grc",
+  "movements": [],
+  "updatedAt": "2026-11-04T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

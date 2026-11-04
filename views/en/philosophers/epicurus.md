@@ -330,6 +330,10 @@ The knowledge of nature has a therapeutic office: to dissolve the terrors of the
 
 *Sources : Principal Doctrines, XI-XII*
 
+## Influenced by
+
+- **[Democritus](../philosophers/democritus.md)** (reinterprets) : [Epicurus](../philosophers/epicurus.md) takes over [Democritus](../philosophers/democritus.md)'s physics, atoms moving in the void, but adds the swerve of the atoms ([Lucretius](../philosophers/lucretius.md)'s *clinamen*), which makes room for freedom, and puts it in the service of an ethics of tranquillity of mind.
+
 ## Influence on
 
 - **[Lucretius](../philosophers/lucretius.md)** (transmits) : Three centuries after [Epicurus](../philosophers/epicurus.md), [Lucretius](../philosophers/lucretius.md) transmits to the Roman world, in a great poem, his atomist physics and his ethics of release from the fear of the gods and of death.

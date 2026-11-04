@@ -1,0 +1,37 @@
+{
+  "kind": "PHILOSOPHER",
+  "stub": true,
+  "id": "vauvenargues",
+  "name": {
+    "fr": "Vauvenargues",
+    "en": "Vauvenargues"
+  },
+  "fullName": {
+    "fr": "Luc de Clapiers, marquis de Vauvenargues",
+    "en": "Luc de Clapiers, Marquis de Vauvenargues"
+  },
+  "aliases": {
+    "fr": [
+      "Luc de Clapiers, marquis de Vauvenargues"
+    ],
+    "en": [
+      "Luc de Clapiers, Marquis de Vauvenargues"
+    ]
+  },
+  "summary": {
+    "fr": "Officier mort à trente et un ans, il défend contre <ph id='la-rochefoucauld'>La Rochefoucauld</ph> et <ph id='pascal'>Pascal</ph> la grandeur des passions et la bonté possible de l'homme : « Les grandes pensées viennent du cœur. »",
+    "en": "An officer who died at thirty-one, he defends against <ph id='la-rochefoucauld'>La Rochefoucauld</ph> and <ph id='pascal'>Pascal</ph> the greatness of the passions and the possible goodness of man: \"Great thoughts come from the heart.\""
+  },
+  "nationality": {
+    "fr": "Français",
+    "en": "French"
+  },
+  "birth": 1715,
+  "death": 1747,
+  "language": "fra",
+  "movements": [],
+  "updatedAt": "2026-11-04T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "id": "presocratics",
+  "name": {
+    "fr": "Présocratiques",
+    "en": "Presocratics"
+  },
+  "span": "CONTEMPORARY",
+  "tagline": {
+    "fr": "Expliquer la nature par elle-même : de l'eau de <ph id='thales'>Thalès</ph> aux atomes de <ph id='democritus'>Démocrite</ph>, des réponses rivales sur le principe des choses.",
+    "en": "Explaining nature by nature itself: from <ph id='thales'>Thales</ph>'s water to <ph id='democritus'>Democritus</ph>'s atoms, rival answers on the principle of things."
+  },
+  "summary": {
+    "fr": "Les premiers penseurs grecs à expliquer la nature (<i>phusis</i>) par des principes naturels plutôt que par les récits des dieux. Ils ne forment pas une école : chacun, souvent contre ses prédécesseurs, cherche à rendre compte de la diversité changeante des choses à partir d'un principe (<i>arkhè</i>) unique ou d'un petit nombre d'éléments.",
+    "en": "The first Greek thinkers to explain nature (<i>phusis</i>) by natural principles rather than by stories of the gods. They do not form a school: each, often against their predecessors, seeks to account for the changing diversity of things from a single principle (<i>arkhè</i>) or from a small number of elements."
+  },
+  "members": [
+    {
+      "kind": "PHILOSOPHER",
+      "slug": "thales"
+    },
+    {
+      "kind": "PHILOSOPHER",
+      "slug": "anaximander"
+    },
+    {
+      "kind": "PHILOSOPHER",
+      "slug": "anaximenes"
+    },
+    {
+      "kind": "PHILOSOPHER",
+      "slug": "pythagoras"
+    },
+    {
+      "kind": "PHILOSOPHER",
+      "slug": "xenophanes"
+    },
+    {
+      "kind": "PHILOSOPHER",
+      "slug": "heraclitus"
+    },
+    {
+      "kind": "PHILOSOPHER",
+      "slug": "parmenides"
+    },
+    {
+      "kind": "PHILOSOPHER",
+      "slug": "zeno-of-elea"
+    },
+    {
+      "kind": "PHILOSOPHER",
+      "slug": "empedocles"
+    },
+    {
+      "kind": "PHILOSOPHER",
+      "slug": "anaxagoras"
+    },
+    {
+      "kind": "PHILOSOPHER",
+      "slug": "democritus"
+    }
+  ],
+  "coinedBy": {
+    "note": {
+      "fr": "Étiquette moderne : le mot apparaît à la fin du XVIIIᵉ siècle et se fixe avec le recueil de <per>Hermann Diels</per>, <i>Die Fragmente der Vorsokratiker</i> (1903). Elle est discutée, car elle fait de <ph id='socrates'>Socrate</ph> le point de rupture alors que <ph id='democritus'>Démocrite</ph> lui est contemporain.",
+      "en": "A modern label: the word appears at the end of the 18th century and is fixed by <per>Hermann Diels</per>'s collection, <i>Die Fragmente der Vorsokratiker</i> (1903). It is debated, since it makes <ph id='socrates'>Socrates</ph> the turning point although <ph id='democritus'>Democritus</ph> was his contemporary."
+    },
+    "year": 1903
+  },
+  "updatedAt": "2026-11-04T00:00:00.000Z"
+}

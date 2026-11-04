@@ -1,0 +1,37 @@
+{
+  "kind": "PHILOSOPHER",
+  "stub": true,
+  "id": "la-rochefoucauld",
+  "name": {
+    "fr": "La Rochefoucauld",
+    "en": "La Rochefoucauld"
+  },
+  "fullName": {
+    "fr": "François de La Rochefoucauld",
+    "en": "François de La Rochefoucauld"
+  },
+  "aliases": {
+    "fr": [
+      "François de La Rochefoucauld"
+    ],
+    "en": [
+      "François de La Rochefoucauld"
+    ]
+  },
+  "summary": {
+    "fr": "Ancien frondeur devenu observateur des salons, il ramène dans ses <i>Maximes</i> (1665) la plupart des vertus à des formes déguisées de l'amour-propre et de l'intérêt.",
+    "en": "A former Frondeur turned observer of the salons, he reduces in his <i>Maxims</i> (1665) most virtues to disguised forms of self-love and self-interest."
+  },
+  "nationality": {
+    "fr": "Français",
+    "en": "French"
+  },
+  "birth": 1613,
+  "death": 1680,
+  "language": "fra",
+  "movements": [],
+  "updatedAt": "2026-11-04T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "kind": "PHILOSOPHER",
+  "stub": true,
+  "id": "empedocles",
+  "name": {
+    "fr": "Empédocle",
+    "en": "Empedocles"
+  },
+  "fullName": {
+    "fr": "Empédocle d'Agrigente",
+    "en": "Empedocles of Akragas"
+  },
+  "aliases": {
+    "fr": [
+      "Empédocle d'Agrigente"
+    ],
+    "en": [
+      "Empedocles of Akragas"
+    ]
+  },
+  "summary": {
+    "fr": "Médecin, poète et thaumaturge d'Agrigente, il compose le monde de quatre racines, terre, eau, air et feu, que l'Amour unit et que la Haine sépare, en un cycle sans fin.",
+    "en": "Physician, poet and wonder-worker of Akragas, he composes the world from four roots, earth, water, air and fire, which Love unites and Strife separates in an endless cycle."
+  },
+  "nationality": {
+    "fr": "Grec",
+    "en": "Greek"
+  },
+  "birth": -495,
+  "death": -435,
+  "datesApprox": true,
+  "language": "grc",
+  "movements": [],
+  "updatedAt": "2026-11-04T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

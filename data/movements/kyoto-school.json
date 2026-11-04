@@ -3,8 +3,8 @@
   "id": "kyoto-school",
   "name": { "fr": "École de Kyoto", "en": "Kyoto School" },
   "tagline": {
-    "fr": "Penser l'expérience bouddhique avec Hegel et Heidegger : chercher l'ultime non dans un être suprême, mais dans un <c id='absolute-nothingness'>néant absolu</c> où toute chose trouve son lieu.",
-    "en": "Thinking Buddhist experience with Hegel and Heidegger: seeking the ultimate not in a supreme being but in an <c id='absolute-nothingness'>absolute nothingness</c> where everything finds its place."
+    "fr": "Penser l'expérience bouddhique avec les outils de la philosophie européenne : chercher l'ultime non dans un être suprême, mais dans un <c id='absolute-nothingness'>néant absolu</c> où toute chose trouve son lieu.",
+    "en": "Thinking Buddhist experience with the tools of European philosophy: seeking the ultimate not in a supreme being but in an <c id='absolute-nothingness'>absolute nothingness</c> where everything finds its place."
   },
   "aliases": {
     "fr": [

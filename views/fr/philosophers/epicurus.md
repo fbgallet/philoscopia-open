@@ -330,6 +330,10 @@ La connaissance de la nature a une fonction thérapeutique : dissoudre les terre
 
 *Sources : Maximes capitales, XI-XII*
 
+## Influencé par
+
+- **[Démocrite](../philosophers/democritus.md)** (réinterprète) : [Épicure](../philosophers/epicurus.md) reprend la physique de [Démocrite](../philosophers/democritus.md), des atomes en mouvement dans le vide, mais y ajoute la déviation des atomes (le *clinamen* de [Lucrèce](../philosophers/lucretius.md)), qui laisse place à la liberté, et la met au service d'une éthique de la tranquillité de l'âme.
+
 ## Influence sur
 
 - **[Lucrèce](../philosophers/lucretius.md)** (transmet) : Trois siècles après [Épicure](../philosophers/epicurus.md), [Lucrèce](../philosophers/lucretius.md) transmet au monde romain, dans un grand poème, sa physique atomiste et son éthique de libération de la crainte des dieux et de la mort.

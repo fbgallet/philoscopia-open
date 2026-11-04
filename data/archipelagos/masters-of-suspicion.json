@@ -1,0 +1,38 @@
+{
+  "id": "masters-of-suspicion",
+  "name": {
+    "fr": "Maîtres du soupçon",
+    "en": "Masters of suspicion"
+  },
+  "span": "TRANSVERSAL",
+  "tagline": {
+    "fr": "Trois lectures qui cherchent, derrière ce que la conscience croit penser, les forces qui la font parler : l'économie, la volonté de puissance, le désir.",
+    "en": "Three readings that look, behind what consciousness believes it thinks, for the forces that make it speak: the economy, the will to power, desire."
+  },
+  "summary": {
+    "fr": "<ph id='ricoeur'>Ricœur</ph> rapproche <ph id='marx'>Marx</ph>, <ph id='nietzsche'>Nietzsche</ph> et <ph id='freud'>Freud</ph> parce que, par des voies très différentes, ils tiennent la conscience pour un texte à déchiffrer plutôt que pour une source fiable. Les idées, les valeurs et les illusions renvoient chez eux à ce qui les produit à notre insu : les rapports de production, les instincts dissimulés sous la morale, l'inconscient. Ils ne forment ni une école ni une filiation : c'est leur lecteur qui les réunit.",
+    "en": "<ph id='ricoeur'>Ricœur</ph> brings <ph id='marx'>Marx</ph>, <ph id='nietzsche'>Nietzsche</ph> and <ph id='freud'>Freud</ph> together because, by very different paths, they treat consciousness as a text to be deciphered rather than a reliable source. Ideas, values and illusions point back, for them, to what produces them without our knowing: the relations of production, the instincts concealed beneath morality, the unconscious. They form neither a school nor a lineage: it is their reader who unites them."
+  },
+  "members": [
+    {
+      "kind": "PHILOSOPHER",
+      "slug": "marx"
+    },
+    {
+      "kind": "PHILOSOPHER",
+      "slug": "nietzsche"
+    },
+    {
+      "kind": "PHILOSOPHER",
+      "slug": "freud"
+    }
+  ],
+  "coinedBy": {
+    "note": {
+      "fr": "Expression de <ph id='ricoeur'>Paul Ricœur</ph> dans <i>De l'interprétation. Essai sur Freud</i> (1965), qui oppose cette herméneutique du soupçon à une herméneutique de la confiance, attentive au sens que les symboles donnent à penser.",
+      "en": "<ph id='ricoeur'>Paul Ricœur</ph>'s phrase in <i>Freud and Philosophy: An Essay on Interpretation</i> (1965), which sets this hermeneutics of suspicion against a hermeneutics of trust, attentive to the meaning that symbols give us to think."
+    },
+    "year": 1965
+  },
+  "updatedAt": "2026-11-04T00:00:00.000Z"
+}

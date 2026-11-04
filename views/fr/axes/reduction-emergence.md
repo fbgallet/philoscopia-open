@@ -14,7 +14,7 @@ Comprendre, est-ce toujours décomposer en éléments plus simples, ou certaines
 
 Tout phénomène complexe s'explique, en dernière analyse, par ses constituants élémentaires et leurs interactions : il n'y a que des atomes et du vide. Expliquer, c'est décomposer jusqu'aux éléments les plus simples.
 
-*Démocrite*
+*[Démocrite](../philosophers/democritus.md)*
 
 ### Émergentisme
 

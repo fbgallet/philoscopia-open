@@ -1,0 +1,30 @@
+{
+  "kind": "PHILOSOPHER",
+  "stub": true,
+  "id": "zeno-of-elea",
+  "name": {
+    "fr": "Zénon d'Élée",
+    "en": "Zeno of Elea"
+  },
+  "fullName": {
+    "fr": "Zénon d'Élée",
+    "en": "Zeno of Elea"
+  },
+  "summary": {
+    "fr": "Disciple de Parménide, il défend l'unité et l'immobilité de l'être par des paradoxes : Achille ne rattrape jamais la tortue, la flèche en vol est immobile.",
+    "en": "A disciple of Parmenides, he defends the unity and immobility of being through paradoxes: Achilles never catches the tortoise, the arrow in flight is at rest."
+  },
+  "nationality": {
+    "fr": "Grec",
+    "en": "Greek"
+  },
+  "birth": -490,
+  "death": -430,
+  "datesApprox": true,
+  "language": "grc",
+  "movements": [],
+  "updatedAt": "2026-11-04T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

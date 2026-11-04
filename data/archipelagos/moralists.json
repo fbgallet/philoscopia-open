@@ -1,0 +1,53 @@
+{
+  "id": "moralists",
+  "name": {
+    "fr": "Moralistes",
+    "en": "Moralists"
+  },
+  "span": "CONTEMPORARY",
+  "tagline": {
+    "fr": "Observer les mœurs et le cœur humain sans système, par la maxime, le portrait et le fragment.",
+    "en": "Observing manners and the human heart without a system, through the maxim, the portrait and the fragment."
+  },
+  "summary": {
+    "fr": "Des écrivains qui décrivent l'homme tel qu'il est plutôt que tel qu'il devrait être : ils traquent l'amour-propre sous la vertu, la vanité sous la gloire, l'inconstance sous les résolutions. Ils n'enseignent pas de doctrine, et leurs conclusions divergent, de la sagesse sceptique de <ph id='montaigne'>Montaigne</ph> à l'apologétique de <ph id='pascal'>Pascal</ph>. Ce qui les rapproche est une écriture brève et aiguë, et un regard qui démasque. La tradition est surtout française, mais l'Espagnol <ph id='gracian'>Gracián</ph> en est un proche voisin.",
+    "en": "Writers who describe man as he is rather than as he ought to be: they track down self-love beneath virtue, vanity beneath glory, inconstancy beneath resolutions. They teach no doctrine, and their conclusions diverge, from the sceptical wisdom of <ph id='montaigne'>Montaigne</ph> to the apologetics of <ph id='pascal'>Pascal</ph>. What brings them together is a brief, sharp way of writing and an unmasking gaze. The tradition is mostly French, but the Spaniard <ph id='gracian'>Gracián</ph> is a close neighbour."
+  },
+  "members": [
+    {
+      "kind": "PHILOSOPHER",
+      "slug": "montaigne"
+    },
+    {
+      "kind": "PHILOSOPHER",
+      "slug": "gracian"
+    },
+    {
+      "kind": "PHILOSOPHER",
+      "slug": "la-rochefoucauld"
+    },
+    {
+      "kind": "PHILOSOPHER",
+      "slug": "pascal"
+    },
+    {
+      "kind": "PHILOSOPHER",
+      "slug": "la-bruyere"
+    },
+    {
+      "kind": "PHILOSOPHER",
+      "slug": "vauvenargues"
+    },
+    {
+      "kind": "PHILOSOPHER",
+      "slug": "chamfort"
+    }
+  ],
+  "coinedBy": {
+    "note": {
+      "fr": "Regroupement de la critique littéraire, fixé au XIXᵉ siècle (<per>Sainte-Beuve</per> notamment) ; les auteurs eux-mêmes ne se désignaient pas ainsi.",
+      "en": "A grouping made by literary criticism, fixed in the 19th century (<per>Sainte-Beuve</per> in particular); the authors did not call themselves so."
+    }
+  },
+  "updatedAt": "2026-11-04T00:00:00.000Z"
+}

@@ -1,0 +1,38 @@
+{
+  "kind": "PHILOSOPHER",
+  "stub": true,
+  "id": "prodicus",
+  "name": {
+    "fr": "Prodicos",
+    "en": "Prodicus"
+  },
+  "fullName": {
+    "fr": "Prodicos de Céos",
+    "en": "Prodicus of Ceos"
+  },
+  "aliases": {
+    "fr": [
+      "Prodicos de Céos"
+    ],
+    "en": [
+      "Prodicus of Ceos"
+    ]
+  },
+  "summary": {
+    "fr": "Maître célèbre pour la distinction exacte des synonymes, que <ph id='socrates'>Socrate</ph> dit avoir suivie. On lui doit l'apologue d'Héraclès à la croisée des chemins, choisissant entre le Vice et la Vertu, et une explication des dieux comme divinisation des choses utiles aux hommes.",
+    "en": "A teacher famous for the exact distinction of synonyms, whose lessons <ph id='socrates'>Socrates</ph> says he attended. He is the author of the fable of Heracles at the crossroads, choosing between Vice and Virtue, and of an account of the gods as the deification of things useful to humans."
+  },
+  "nationality": {
+    "fr": "Grec",
+    "en": "Greek"
+  },
+  "birth": -465,
+  "death": -395,
+  "datesApprox": true,
+  "language": "grc",
+  "movements": [],
+  "updatedAt": "2026-11-04T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

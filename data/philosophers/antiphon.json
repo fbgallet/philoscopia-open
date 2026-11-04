@@ -1,0 +1,38 @@
+{
+  "kind": "PHILOSOPHER",
+  "stub": true,
+  "id": "antiphon",
+  "name": {
+    "fr": "Antiphon",
+    "en": "Antiphon"
+  },
+  "fullName": {
+    "fr": "Antiphon le Sophiste",
+    "en": "Antiphon the Sophist"
+  },
+  "aliases": {
+    "fr": [
+      "Antiphon le Sophiste"
+    ],
+    "en": [
+      "Antiphon the Sophist"
+    ]
+  },
+  "summary": {
+    "fr": "Sophiste athénien dont un papyrus a conservé le traité <i>Sur la vérité</i>. Selon lui, les prescriptions de la loi sont des conventions imposées, celles de la nature sont nécessaires, et l'on peut enfreindre les premières sans dommage si personne ne le voit. Son identité avec l'orateur Antiphon reste discutée.",
+    "en": "An Athenian sophist whose treatise <i>On Truth</i> survives on a papyrus. For him, the prescriptions of law are imposed conventions, those of nature are necessary, and one can break the former without harm if no one sees. Whether he is the same man as the orator Antiphon remains debated."
+  },
+  "nationality": {
+    "fr": "Grec",
+    "en": "Greek"
+  },
+  "birth": -480,
+  "death": -411,
+  "datesApprox": true,
+  "language": "grc",
+  "movements": [],
+  "updatedAt": "2026-11-04T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "democritus-to-epicurus",
+  "from": {
+    "kind": "PHILOSOPHER",
+    "slug": "democritus"
+  },
+  "to": {
+    "kind": "PHILOSOPHER",
+    "slug": "epicurus"
+  },
+  "directness": "ATTESTED",
+  "mode": "REINTERPRETS",
+  "strength": "STRONG",
+  "note": {
+    "fr": "<ph id='epicurus'>Épicure</ph> reprend la physique de <ph id='democritus'>Démocrite</ph>, des atomes en mouvement dans le vide, mais y ajoute la déviation des atomes (le <i>clinamen</i> de <ph id='lucretius'>Lucrèce</ph>), qui laisse place à la liberté, et la met au service d'une éthique de la tranquillité de l'âme.",
+    "en": "<ph id='epicurus'>Epicurus</ph> takes over <ph id='democritus'>Democritus</ph>'s physics, atoms moving in the void, but adds the swerve of the atoms (<ph id='lucretius'>Lucretius</ph>'s <i>clinamen</i>), which makes room for freedom, and puts it in the service of an ethics of tranquillity of mind."
+  },
+  "sources": [
+    {
+      "fr": "Cicéron, Des fins des biens et des maux, I, 6, 17-21",
+      "en": "Cicero, On Ends, I, 6, 17-21"
+    }
+  ],
+  "updatedAt": "2026-11-04T00:00:00.000Z"
+}

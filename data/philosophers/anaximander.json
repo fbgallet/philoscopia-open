@@ -1,0 +1,38 @@
+{
+  "kind": "PHILOSOPHER",
+  "stub": true,
+  "id": "anaximander",
+  "name": {
+    "fr": "Anaximandre",
+    "en": "Anaximander"
+  },
+  "fullName": {
+    "fr": "Anaximandre de Milet",
+    "en": "Anaximander of Miletus"
+  },
+  "aliases": {
+    "fr": [
+      "Anaximandre de Milet"
+    ],
+    "en": [
+      "Anaximander of Miletus"
+    ]
+  },
+  "summary": {
+    "fr": "Successeur de Thalès à Milet, il fait naître toutes choses de l'illimité (<i>apeiron</i>), un principe sans qualité propre d'où les contraires se séparent et où ils retournent « selon l'ordre du temps ».",
+    "en": "Thales's successor at Miletus, he derives all things from the boundless (<i>apeiron</i>), a principle with no quality of its own from which the opposites separate and into which they return \"according to the order of time\"."
+  },
+  "nationality": {
+    "fr": "Grec",
+    "en": "Greek"
+  },
+  "birth": -610,
+  "death": -546,
+  "datesApprox": true,
+  "language": "grc",
+  "movements": [],
+  "updatedAt": "2026-11-04T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

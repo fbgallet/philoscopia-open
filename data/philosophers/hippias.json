@@ -1,0 +1,38 @@
+{
+  "kind": "PHILOSOPHER",
+  "stub": true,
+  "id": "hippias",
+  "name": {
+    "fr": "Hippias",
+    "en": "Hippias"
+  },
+  "fullName": {
+    "fr": "Hippias d'Élis",
+    "en": "Hippias of Elis"
+  },
+  "aliases": {
+    "fr": [
+      "Hippias d'Élis"
+    ],
+    "en": [
+      "Hippias of Elis"
+    ]
+  },
+  "summary": {
+    "fr": "Savant universel qui se flattait de tout enseigner, de l'astronomie à l'art de la mémoire, et de fabriquer lui-même ses vêtements. Il oppose la loi, « tyran des hommes », à la nature qui les fait parents.",
+    "en": "A polymath who boasted he could teach everything, from astronomy to the art of memory, and that he made his own clothes. He sets law, \"tyrant of mankind\", against nature, which makes humans kin."
+  },
+  "nationality": {
+    "fr": "Grec",
+    "en": "Greek"
+  },
+  "birth": -460,
+  "death": -400,
+  "datesApprox": true,
+  "language": "grc",
+  "movements": [],
+  "updatedAt": "2026-11-04T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}
