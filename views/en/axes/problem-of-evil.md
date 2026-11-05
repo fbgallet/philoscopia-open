@@ -55,7 +55,7 @@ The existence of massive, gratuitous evil is incompatible with a God at once goo
 
 ## Related axes
 
-[Existence of God](../axes/god-existence.md) · [The meaning of suffering](../axes/suffering-meaning.md) · [Faith and reason](../axes/faith-reason.md) · [Tonality of reality](../axes/cosmic-outlook.md)
+[Existence of God](../axes/god-existence.md) · [The meaning of suffering](../axes/suffering-meaning.md) · [Faith and reason](../axes/faith-reason.md) · [Tonality of reality](../axes/cosmic-outlook.md) · [The meaning of history](../axes/history-meaning.md)
 
 ---
 

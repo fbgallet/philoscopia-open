@@ -1,0 +1,9 @@
+{
+  "id": "l-amour-est-la-prise-murdoch",
+  "text": { "fr": "L'amour est la prise de conscience extrêmement difficile que quelque chose d'autre que soi est réel.", "en": "Love is the extremely difficult realisation that something other than oneself is real." },
+  "author": { "name": { "fr": "Murdoch", "en": "Murdoch" }, "kind": "PHILOSOPHER", "slug": "iris-murdoch" },
+  "source": { "fr": "« The Sublime and the Good », Chicago Review, vol. 13, n° 3 (1959), p. 51", "en": "\"The Sublime and the Good\", Chicago Review, vol. 13, no. 3 (1959), p. 51" },
+  "context": { "fr": "Traduction de Philoscopia.", "en": "French translation by Philoscopia; the English is the original text." },
+  "anchors": [{ "axisId": "LOVE_NATURE" }],
+  "updatedAt": "2026-11-05T00:00:00.000Z"
+}

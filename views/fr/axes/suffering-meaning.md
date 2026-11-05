@@ -52,7 +52,7 @@ La souffrance n'est ni une épreuve qui élève ou rachète, ni un pur mal qu'il
 
 ## Axes liés
 
-[Le problème du mal](../axes/problem-of-evil.md) · [Tonalité du réel](../axes/cosmic-outlook.md) · [Espoir](../axes/hope.md) · [Améliorer la nature humaine](../axes/human-enhancement.md)
+[Le problème du mal](../axes/problem-of-evil.md) · [Tonalité du réel](../axes/cosmic-outlook.md) · [Espoir](../axes/hope.md) · [Améliorer la nature humaine](../axes/human-enhancement.md) · [Le sens de la vie](../axes/life-meaning.md)
 
 ---
 

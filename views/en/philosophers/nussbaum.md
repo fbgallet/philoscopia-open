@@ -11,6 +11,7 @@ American philosopher who, with Sen, developed the capabilities approach: a good 
 ## Influenced by
 
 - **[Aristotle](../philosophers/aristotle.md)** (continues) : [Nussbaum](../philosophers/nussbaum.md) renews the ethics of [Aristotle](../philosophers/aristotle.md): the human good is the flourishing of capacities proper to our nature. From it she draws the capabilities approach, a list of the real freedoms a just society must guarantee to each person.
+- **[Murdoch](../philosophers/iris-murdoch.md)** (continues) : [Nussbaum](../philosophers/nussbaum.md) extends [Murdoch](../philosophers/iris-murdoch.md)'s idea that the moral life is first a fine perception of particular situations, and that the novel is a privileged place of moral knowledge.
 
 ---
 

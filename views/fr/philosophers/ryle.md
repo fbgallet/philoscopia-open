@@ -8,6 +8,10 @@ Philosophe britannique d'Oxford : dans La Notion d'esprit (1949), il dénonce le
 
 > Profil embryonnaire : seule cette mini-fiche existe pour l'instant, les positions sourcées sur les axes restent à rédiger. Contributions bienvenues.
 
+## Influence sur
+
+- **[Murdoch](../philosophers/iris-murdoch.md)** (réagit contre) : Contre la critique de la vie intérieure héritée de [Ryle](../philosophers/ryle.md), pour qui l'esprit se réduit à des dispositions à agir, [Murdoch](../philosophers/iris-murdoch.md) défend la réalité d'une activité morale intérieure qui ne se montre dans aucune conduite.
+
 ---
 
 *Généré depuis le corpus JSON de `data/`. Ne pas éditer à la main, voir [CONTRIBUTING](../../../CONTRIBUTING.md).*

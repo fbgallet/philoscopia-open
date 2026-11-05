@@ -23,6 +23,7 @@
 - [The Just Man Struck by Misfortune](fragility-of-goodness.md) (Aristotle)
 - [The last man](last-man.md) (Richard Routley (Sylvan))
 - [The Milgram experiment](milgram.md) (Stanley Milgram)
+- [The mother-in-law and her daughter-in-law](m-and-d.md) (Iris Murdoch)
 - [The picture of Dorian Gray](dorian-gray.md) (Oscar Wilde)
 - [The ring of Gyges](ring-of-gyges.md) (Plato)
 - [The slave of the kind master](the-kind-master.md) (Philip Pettit, after the republican tradition)
@@ -34,7 +35,7 @@
 - [To each their customs?](funeral-customs.md) (Herodotus)
 - [What is it like to be a bat?](what-is-it-like-to-be-a-bat.md) (Thomas Nagel)
 - [Wilt Chamberlain: Liberty against Equality](wilt-chamberlain.md) (Nozick)
-- [Your portrait](your-portrait.md) (Bertram Forer)
+- [Your birth chart](your-portrait.md) (Bertram Forer)
 
 ---
 

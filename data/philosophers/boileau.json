@@ -1,0 +1,29 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "boileau",
+  "stub": true,
+  "name": {
+    "fr": "Boileau",
+    "en": "Boileau"
+  },
+  "fullName": {
+    "fr": "Nicolas Boileau",
+    "en": "Nicolas Boileau"
+  },
+  "summary": {
+    "fr": "Poète et critique, théoricien du classicisme dans <w>L'Art poétique</w>, il défendit contre Perrault l'exemplarité des Anciens.",
+    "en": "Poet and critic, the theorist of French classicism in <w>The Art of Poetry</w>, who defended the Ancients as models against Perrault."
+  },
+  "birth": 1636,
+  "death": 1711,
+  "nationality": {
+    "fr": "Français",
+    "en": "French"
+  },
+  "language": "fra",
+  "movements": [],
+  "updatedAt": "2026-11-05T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

@@ -39,6 +39,8 @@ C'est dans l'action, l'engagement et l'œuvre que l'on se découvre et que l'on 
 
 > « Comme on argumentait qu'il n'y a pas de mouvement, il se leva et se mit à marcher. » — [Diogène de Sinope](../philosophers/diogenes.md), Diogène Laërce, Vies, VI, 39
 
+> « Je ne puis choisir qu'à l'intérieur du monde que je peux voir, au sens moral de « voir », qui implique qu'une vision claire est le fruit de l'imagination morale et de l'effort moral. » — [Murdoch](../philosophers/iris-murdoch.md), La Souveraineté du bien, « L'idée de perfection »
+
 > « Je suis moi-même la matière de mon livre. » — [Michel de Montaigne](../philosophers/montaigne.md), Essais, « Au lecteur »
 
 > « L'homme n'est rien d'autre que la série de ses actes, il n'est rien d'autre que sa vie. » — [Sartre](../philosophers/sartre.md), L'existentialisme est un humanisme

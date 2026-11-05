@@ -303,7 +303,8 @@
       ],
       "doorways": [
         {
-          "axis": "HISTORY_MEANING"
+          "axis": "HISTORY_MEANING",
+          "problem": "surpassing-the-ancients"
         }
       ],
       "title": {

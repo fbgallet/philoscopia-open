@@ -1,0 +1,13 @@
+{
+  "id": "unselfing",
+  "term": { "fr": "Décentrement de soi (unselfing)", "en": "Unselfing" },
+  "definition": {
+    "fr": "Terme d'<ph id='iris-murdoch'>Iris Murdoch</ph> pour le mouvement par lequel l'attention se détache des préoccupations du moi pour se porter sur ce qui existe hors de lui. Son exemple est celui de la crécerelle : absorbé par une rancœur, je vois soudain un oiseau planer, et le moi blessé disparaît. Ce n'est ni un retrait du monde, ni un sacrifice, ni une mortification, mais une déprise de l'égocentrisme qui rend au contraire plus présent au monde ; la beauté de la nature, le grand art et l'apprentissage d'une discipline exigeante en sont les occasions. Le français garde souvent le terme anglais, faute d'équivalent établi.",
+    "en": "<ph id='iris-murdoch'>Iris Murdoch</ph>'s term for the movement by which attention detaches from the self's preoccupations and turns to what exists outside it. Her example is the kestrel: absorbed in resentment, I suddenly see a bird hovering, and the injured self disappears. It is neither a withdrawal from the world, nor sacrifice, nor mortification, but a loosening of egocentrism that makes one, on the contrary, more present to the world; the beauty of nature, great art and learning a demanding discipline are its occasions."
+  },
+  "relatedAxes": ["SELF_INTEREST", "BEAUTY", "TRUTH_VALUE"],
+  "relatedTerms": ["attention", "fantasy"],
+  "figure": { "slug": "iris-murdoch", "name": { "fr": "Murdoch", "en": "Murdoch" } },
+  "positions": [{ "axisId": "SELF_INTEREST", "poleId": "ALTRUISM" }],
+  "updatedAt": "2026-11-05T00:00:00.000Z"
+}

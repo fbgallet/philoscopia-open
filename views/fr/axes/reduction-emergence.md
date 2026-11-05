@@ -32,7 +32,7 @@ Le tout est plus que la somme de ses parties : de l'organisation surgissent des 
 
 ## Axes liés
 
-[Explication de la nature](../axes/causality.md) · [Une machine peut-elle penser](../axes/machine-mind.md) · [Nature du réel](../axes/reality-nature.md) · [Existence de Dieu](../axes/god-existence.md) · [L'énigme de la conscience](../axes/consciousness-nature.md)
+[Explication de la nature](../axes/causality.md) · [Une machine peut-elle penser](../axes/machine-mind.md) · [Nature du réel](../axes/reality-nature.md) · [Existence de Dieu](../axes/god-existence.md) · [L'énigme de la conscience](../axes/consciousness-nature.md) · [Individu et société](../axes/individual-society.md)
 
 ---
 

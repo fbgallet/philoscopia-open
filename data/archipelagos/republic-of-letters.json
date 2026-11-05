@@ -1,0 +1,58 @@
+{
+  "id": "republic-of-letters",
+  "name": {
+    "fr": "République des Lettres",
+    "en": "Republic of Letters"
+  },
+  "span": "CONTEMPORARY",
+  "tagline": {
+    "fr": "Une communauté savante sans territoire, faite de lettres, de livres et d'intermédiaires, où des adversaires se lisent et se répondent par-delà les frontières et les confessions.",
+    "en": "A learned community without territory, made of letters, books and go-betweens, where opponents read and answer one another across borders and confessions."
+  },
+  "summary": {
+    "fr": "Au XVIIᵉ siècle, philosophes et savants de toute l'Europe échangent par correspondance, font circuler manuscrits et objections, et publient dans des journaux savants. <ph id='descartes'>Descartes</ph> soumet ses <i>Méditations</i> aux objections que <ph id='mersenne'>Mersenne</ph> recueille, <ph id='elisabeth-of-bohemia'>Élisabeth de Bohême</ph> l'interroge sur l'union de l'âme et du corps, <ph id='leibniz'>Leibniz</ph> écrit à des centaines de correspondants. Ce réseau ne partage aucune doctrine : catholiques, protestants, sceptiques et rationalistes s'y affrontent, mais selon des règles communes de discussion.",
+    "en": "In the 17th century, philosophers and scholars all over Europe correspond, circulate manuscripts and objections, and publish in learned journals. <ph id='descartes'>Descartes</ph> submits his <i>Meditations</i> to the objections gathered by <ph id='mersenne'>Mersenne</ph>, <ph id='elisabeth-of-bohemia'>Elisabeth of Bohemia</ph> questions him on the union of soul and body, <ph id='leibniz'>Leibniz</ph> writes to hundreds of correspondents. The network shares no doctrine: Catholics, Protestants, sceptics and rationalists clash in it, but under common rules of discussion."
+  },
+  "members": [
+    {
+      "kind": "PHILOSOPHER",
+      "slug": "mersenne"
+    },
+    {
+      "kind": "PHILOSOPHER",
+      "slug": "descartes"
+    },
+    {
+      "kind": "PHILOSOPHER",
+      "slug": "hobbes"
+    },
+    {
+      "kind": "PHILOSOPHER",
+      "slug": "elisabeth-of-bohemia"
+    },
+    {
+      "kind": "PHILOSOPHER",
+      "slug": "anne-conway"
+    },
+    {
+      "kind": "PHILOSOPHER",
+      "slug": "spinoza"
+    },
+    {
+      "kind": "PHILOSOPHER",
+      "slug": "bayle"
+    },
+    {
+      "kind": "PHILOSOPHER",
+      "slug": "leibniz"
+    }
+  ],
+  "coinedBy": {
+    "note": {
+      "fr": "L'expression latine <i>respublica literaria</i> est attestée dès 1417 dans une lettre de l'humaniste <per>Francesco Barbaro</per>. Ses membres s'en réclament eux-mêmes : <ph id='bayle'>Bayle</ph> intitule son journal <i>Nouvelles de la République des Lettres</i> (1684).",
+      "en": "The Latin phrase <i>respublica literaria</i> is attested as early as 1417 in a letter by the humanist <per>Francesco Barbaro</per>. Its members claimed it themselves: <ph id='bayle'>Bayle</ph> titled his journal <i>Nouvelles de la République des Lettres</i> (1684)."
+    },
+    "year": 1417
+  },
+  "updatedAt": "2026-11-05T00:00:00.000Z"
+}

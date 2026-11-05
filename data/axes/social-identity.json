@@ -86,6 +86,425 @@
   "relatedAxes": [
     "HUMAN_NATURE",
     "INDIVIDUAL_SOCIETY",
-    "ESSENCE"
+    "ESSENCE",
+    "SELF_NATURE"
+  ],
+  "problems": [
+    {
+      "id": "nature-or-upbringing",
+      "resolution": "LATENT",
+      "object": "INDIVIDUAL",
+      "objectLabel": {
+        "fr": "les capacités prêtées à un groupe",
+        "en": "the abilities ascribed to a group"
+      },
+      "mode": "DESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        {
+          "fr": "querelle des femmes",
+          "en": "querelle des femmes"
+        },
+        {
+          "fr": "« l'esprit n'a point de sexe »",
+          "en": "\"the mind has no sex\""
+        },
+        {
+          "fr": "nature et éducation",
+          "en": "nature and nurture"
+        },
+        {
+          "fr": "égalité des sexes",
+          "en": "equality of the sexes"
+        }
+      ],
+      "poles": [
+        "SOCIAL_NATURALISM",
+        "SOCIAL_CONSTRUCTION"
+      ],
+      "anchors": [
+        {
+          "name": {
+            "fr": "Christine de Pizan",
+            "en": "Christine de Pizan"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "christine-de-pizan"
+        },
+        {
+          "name": {
+            "fr": "Marie de Gournay",
+            "en": "Marie de Gournay"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "gournay"
+        },
+        {
+          "name": {
+            "fr": "Poulain de la Barre",
+            "en": "Poulain de la Barre"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "poulain-de-la-barre"
+        },
+        {
+          "name": {
+            "fr": "Mary Astell",
+            "en": "Mary Astell"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "astell"
+        },
+        {
+          "name": {
+            "fr": "Rousseau",
+            "en": "Rousseau"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "rousseau"
+        },
+        {
+          "name": {
+            "fr": "Wollstonecraft",
+            "en": "Wollstonecraft"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "wollstonecraft"
+        },
+        {
+          "name": {
+            "fr": "Mill",
+            "en": "Mill"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "mill"
+        }
+      ],
+      "doorways": [
+        {
+          "axis": "HUMAN_NATURE"
+        }
+      ],
+      "title": {
+        "fr": "Ce qu'on prend pour la nature",
+        "en": "What passes for nature"
+      },
+      "explicitation": {
+        "fr": "Pendant des siècles, on a jugé les femmes moins aptes à la science et au gouvernement, et les faits semblaient le confirmer : elles savaient moins, gouvernaient moins. Mais on les tenait à l'écart des écoles et des charges. Comment démêler ce qui revient à la nature quand l'éducation et la condition ont tout façonné d'avance ? Et tant qu'on ne peut le démêler, à qui revient la charge de la preuve ?",
+        "en": "For centuries women were judged less fit for learning and government, and the facts seemed to bear it out: they knew less, they governed less. But they had been kept out of the schools and the offices. How can we tell what is owed to nature when education and circumstance have shaped everything in advance? And as long as we cannot tell, who bears the burden of proof?"
+      }
+    },
+    {
+      "id": "if-the-difference-were-natural",
+      "resolution": "LATENT",
+      "object": "RELATION",
+      "objectLabel": {
+        "fr": "de la différence au traitement",
+        "en": "from difference to treatment"
+      },
+      "mode": "DESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        {
+          "fr": "moyenne et individu",
+          "en": "the average and the individual"
+        },
+        {
+          "fr": "admission des femmes au droit de cité",
+          "en": "the admission of women to citizenship"
+        }
+      ],
+      "poles": [
+        "SOCIAL_NATURALISM"
+      ],
+      "anchors": [
+        {
+          "name": {
+            "fr": "Condorcet",
+            "en": "Condorcet"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "condorcet"
+        },
+        {
+          "name": {
+            "fr": "Mill",
+            "en": "Mill"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "mill"
+        },
+        {
+          "name": {
+            "fr": "Aristote",
+            "en": "Aristotle"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "aristotle"
+        }
+      ],
+      "doorways": [
+        {
+          "axis": "ESSENCE",
+          "problem": "nature-and-norm"
+        }
+      ],
+      "title": {
+        "fr": "Et si la différence était naturelle ?",
+        "en": "What if the difference were natural?"
+      },
+      "explicitation": {
+        "fr": "Admettons qu'une différence entre groupes soit en partie naturelle. Faut-il pour autant traiter différemment ceux qui en relèvent ? Une différence en moyenne dit-elle quoi que ce soit de la personne singulière qu'on a devant soi ?",
+        "en": "Suppose some difference between groups is partly natural. Does it follow that their members should be treated differently? Does a difference on average tell us anything about the particular person standing in front of us?"
+      }
+    },
+    {
+      "id": "three-categories-one-logic",
+      "resolution": "LATENT",
+      "object": "STRUCTURE",
+      "objectLabel": {
+        "fr": "les catégories sociales",
+        "en": "social categories"
+      },
+      "mode": "DESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        {
+          "fr": "intersectionnalité",
+          "en": "intersectionality"
+        },
+        {
+          "fr": "race sans fondement biologique",
+          "en": "race without a biological basis"
+        },
+        {
+          "fr": "classe en soi et pour soi",
+          "en": "class in itself and for itself"
+        }
+      ],
+      "poles": [
+        "SOCIAL_NATURALISM",
+        "SOCIAL_CONSTRUCTION",
+        "SOCIAL_REALISM"
+      ],
+      "anchors": [
+        {
+          "name": {
+            "fr": "Marx",
+            "en": "Marx"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "marx"
+        },
+        {
+          "name": {
+            "fr": "Beauvoir",
+            "en": "Beauvoir"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "beauvoir"
+        },
+        {
+          "name": {
+            "fr": "Haslanger",
+            "en": "Haslanger"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "haslanger"
+        }
+      ],
+      "title": {
+        "fr": "Trois catégories, une même logique ?",
+        "en": "Three categories, one logic?"
+      },
+      "explicitation": {
+        "fr": "La classe se définit par une place dans l'économie. Le sexe s'appuie sur une différence biologique. La race repose sur des traits dont la biologie ne fait pas des espèces. Peut-on penser ces trois catégories de la même manière, ou chacune mêle-t-elle nature et histoire en des proportions différentes, si bien qu'aucune réponse unique ne vaut pour toutes ?",
+        "en": "Class is defined by a place in the economy. Sex rests on a biological difference. Race rests on traits that biology does not turn into separate kinds. Can the three be thought of in the same way, or does each blend nature and history in different proportions, so that no single answer fits them all?"
+      }
+    },
+    {
+      "id": "sex-beneath-gender",
+      "resolution": "LATENT",
+      "object": "INDIVIDUAL",
+      "objectLabel": {
+        "fr": "le corps sexué",
+        "en": "the sexed body"
+      },
+      "mode": "DESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        {
+          "fr": "distinction sexe/genre",
+          "en": "the sex/gender distinction"
+        },
+        {
+          "fr": "performativité",
+          "en": "performativity"
+        },
+        {
+          "fr": "intersexuation",
+          "en": "intersex variations"
+        }
+      ],
+      "poles": [
+        "SOCIAL_NATURALISM",
+        "SOCIAL_CONSTRUCTION"
+      ],
+      "anchors": [
+        {
+          "name": {
+            "fr": "Beauvoir",
+            "en": "Beauvoir"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "beauvoir"
+        },
+        {
+          "name": {
+            "fr": "Butler",
+            "en": "Butler"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "butler"
+        }
+      ],
+      "title": {
+        "fr": "Le sexe sous le genre",
+        "en": "Sex beneath gender"
+      },
+      "explicitation": {
+        "fr": "Distinguer le sexe, donné par la biologie, du genre, construit par la société, semblait faire la part de chacun. Mais ce que nous comptons comme biologique, et la frontière même entre deux sexes, ne sont-ils pas déjà découpés par nos catégories ? S'il ne reste aucun socle naturel, sur quoi s'appuie-t-on pour dire ce qu'est une femme ?",
+        "en": "Separating sex, given by biology, from gender, built by society, seemed to give each its due. But are what we count as biological, and the very line between two sexes, not already carved out by our categories? If no natural bedrock is left, what do we rely on to say what a woman is?"
+      }
+    },
+    {
+      "id": "named-by-others",
+      "resolution": "LATENT",
+      "object": "RELATION",
+      "objectLabel": {
+        "fr": "le regard d'autrui",
+        "en": "the gaze of others"
+      },
+      "mode": "DESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        {
+          "fr": "assignation",
+          "en": "ascription"
+        },
+        {
+          "fr": "auto-identification",
+          "en": "self-identification"
+        },
+        {
+          "fr": "reconnaissance",
+          "en": "recognition"
+        }
+      ],
+      "poles": [
+        "SOCIAL_CONSTRUCTION",
+        "SOCIAL_REALISM"
+      ],
+      "anchors": [
+        {
+          "name": {
+            "fr": "Sartre",
+            "en": "Sartre"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "sartre"
+        },
+        {
+          "name": {
+            "fr": "Fanon",
+            "en": "Fanon"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "fanon"
+        },
+        {
+          "name": {
+            "fr": "Beauvoir",
+            "en": "Beauvoir"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "beauvoir"
+        }
+      ],
+      "doorways": [
+        {
+          "axis": "SELF_NATURE",
+          "problem": "self-made-alone"
+        }
+      ],
+      "title": {
+        "fr": "Se dire, ou être désigné",
+        "en": "Self-declared or assigned"
+      },
+      "explicitation": {
+        "fr": "Appartient-on à une catégorie parce qu'on s'y reconnaît, ou parce que les autres vous y rangent et vous traitent en conséquence ? Si c'est le regard des autres qui fait d'une personne un membre du groupe, suffit-il de se déclarer autre pour en sortir ?",
+        "en": "Do we belong to a category because we recognize ourselves in it, or because others file us under it and treat us accordingly? If it is other people's gaze that makes someone a member of the group, is declaring oneself otherwise enough to leave it?"
+      }
+    },
+    {
+      "id": "abolish-or-use-the-category",
+      "resolution": "LATENT",
+      "object": "STRUCTURE",
+      "objectLabel": {
+        "fr": "une catégorie qu'on combat",
+        "en": "a category one fights"
+      },
+      "mode": "PRESCRIPTIVE",
+      "sphere": "POLITICAL",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        {
+          "fr": "aveuglement à la couleur",
+          "en": "colour-blindness"
+        },
+        {
+          "fr": "discrimination positive",
+          "en": "affirmative action"
+        },
+        {
+          "fr": "statistiques ethniques",
+          "en": "ethnic statistics"
+        },
+        {
+          "fr": "dilemme de la différence",
+          "en": "dilemma of difference"
+        }
+      ],
+      "poles": [
+        "SOCIAL_CONSTRUCTION",
+        "SOCIAL_REALISM"
+      ],
+      "anchors": [
+        {
+          "name": {
+            "fr": "Haslanger",
+            "en": "Haslanger"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "haslanger"
+        },
+        {
+          "name": {
+            "fr": "Fanon",
+            "en": "Fanon"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "fanon"
+        }
+      ],
+      "title": {
+        "fr": "Abolir la catégorie, ou s'en servir ?",
+        "en": "Abolish the category, or use it?"
+      },
+      "explicitation": {
+        "fr": "Pour mesurer une discrimination, il faut compter ceux qui la subissent, donc les nommer selon la catégorie qu'on combat. Refuser de nommer la race ou le genre, est-ce en finir avec eux, ou rendre invisibles les torts qu'ils continuent de produire ?",
+        "en": "To measure discrimination you have to count those who suffer it, and so name them by the very category you are fighting. Is refusing to name race or gender a way of finishing with them, or of hiding the harms they go on producing?"
+      }
+    }
   ]
 }

@@ -42,6 +42,7 @@ Puisque aucun sens n'est donné et que rien ne le remplace vraiment, le tourment
 - **Faut-il que ça dure ?** : Si tout finit, par la mort puis l'effacement de toute trace, ce que nous faisons est-il vain, ou une chose peut-elle avoir pleinement un sens sans durer toujours ?
 - **Et si rien n'avait de sens ?** : Quand s'effacent les cadres qui donnaient sens, Dieu, l'Histoire, le progrès, reste-t-il un sens possible, ou s'ouvre le vertige où plus rien ne vaut rien ?
 - **N'importe quel sens fait-il l'affaire ?** : Une vie peut-elle être pleine de sens si elle se voue à quelque chose d'insignifiant, voire de mauvais, ou le sens exige-t-il que la chose en vaille objectivement la peine ?
+- **La valeur de l'existence** : Si l'on pèse ce qu'une vie contient de peine et de joie, de désirs inassouvis et d'ennui, la balance penche-t-elle du côté de l'existence, ou aurait-il mieux valu ne pas naître ? Mais peut-on seulement comparer la vie à un néant où personne ne manquerait de rien, et ce verdict renseigne-t-il sur la vie, ou sur celui qui le prononce ?
 - **Un sens sans Dieu ?** : Le sens de l'existence suppose-t-il un ordre divin qui nous dépasse, ou peut-il tenir entièrement sans Dieu, sur des bases tout humaines ?
 - **Bonheur ou sens** : Une vie réussie est-elle forcément heureuse, ou peut-elle valoir par son sens tout en étant difficile, exigeante, parfois malheureuse ?
 
@@ -72,7 +73,7 @@ Puisque aucun sens n'est donné et que rien ne le remplace vraiment, le tourment
 
 ## Axes liés
 
-[Tonalité du réel](../axes/cosmic-outlook.md) · [La mort](../axes/death.md) · [Intériorité](../axes/interiority.md) · [Souverain bien](../axes/sovereign-good.md) · [Orientation temporelle](../axes/time-orientation.md) · [Sens du travail](../axes/work-meaning.md) · [Existence de Dieu](../axes/god-existence.md) · [Le but de la philosophie](../axes/metaphilosophy.md) · [Le beau dans la vie](../axes/aesthetic-life.md) · [La source de la morale](../axes/moral-source.md)
+[Tonalité du réel](../axes/cosmic-outlook.md) · [La mort](../axes/death.md) · [Intériorité](../axes/interiority.md) · [Souverain bien](../axes/sovereign-good.md) · [Orientation temporelle](../axes/time-orientation.md) · [Sens du travail](../axes/work-meaning.md) · [Existence de Dieu](../axes/god-existence.md) · [Le but de la philosophie](../axes/metaphilosophy.md) · [Le beau dans la vie](../axes/aesthetic-life.md) · [La source de la morale](../axes/moral-source.md) · [Sens de la souffrance](../axes/suffering-meaning.md)
 
 ---
 

@@ -1,0 +1,16 @@
+{
+  "id": "sartre-to-iris-murdoch",
+  "from": { "kind": "PHILOSOPHER", "slug": "sartre" },
+  "to": { "kind": "PHILOSOPHER", "slug": "iris-murdoch" },
+  "directness": "ATTESTED",
+  "mode": "REACTS_AGAINST",
+  "strength": "MEDIUM",
+  "note": {
+    "fr": "Lectrice précoce et sympathique de <ph id='sartre'>Sartre</ph>, <ph id='iris-murdoch'>Murdoch</ph> se construit contre sa liberté comme choix souverain d'un moi seul : la vie morale tient pour elle à la vision d'une réalité qui ne dépend pas de nous.",
+    "en": "An early and sympathetic reader of <ph id='sartre'>Sartre</ph>, <ph id='iris-murdoch'>Murdoch</ph> defines herself against his freedom as the sovereign choice of a lone self: for her the moral life turns on seeing a reality that does not depend on us."
+  },
+  "sources": [
+    { "fr": "Murdoch, Sartre: Romantic Rationalist ; « L'idée de perfection »", "en": "Murdoch, Sartre: Romantic Rationalist; \"The Idea of Perfection\"" }
+  ],
+  "updatedAt": "2026-11-05T00:00:00.000Z"
+}

@@ -117,7 +117,8 @@
     "MORAL_DEMAND",
     "SOVEREIGN_GOOD",
     "FUTURE_GENERATIONS",
-    "MORAL_RESPONSIBILITY"
+    "MORAL_RESPONSIBILITY",
+    "INDIVIDUAL_SOCIETY"
   ],
   "problems": [
     {
@@ -499,7 +500,8 @@
       ],
       "doorways": [
         {
-          "axis": "RIGHTS_NATURE"
+          "axis": "RIGHTS_NATURE",
+          "problem": "property-before-law"
         }
       ],
       "title": {

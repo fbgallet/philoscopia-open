@@ -1,0 +1,25 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "eduard-von-hartmann",
+  "stub": true,
+  "name": {
+    "fr": "Eduard von Hartmann",
+    "en": "Eduard von Hartmann"
+  },
+  "summary": {
+    "fr": "Philosophe allemand dont la <w>Philosophie de l'inconscient</w> voulut réconcilier <ph id='schopenhauer'>Schopenhauer</ph> et <ph id='hegel'>Hegel</ph> : un inconscient à l'œuvre dans l'histoire, pour un monde dont la somme des douleurs l'emporte sur celle des joies. Son livre déclencha la querelle du pessimisme.",
+    "en": "German philosopher whose <w>Philosophy of the Unconscious</w> sought to reconcile <ph id='schopenhauer'>Schopenhauer</ph> and <ph id='hegel'>Hegel</ph>: an unconscious at work in history, in a world where the sum of pains outweighs the sum of joys. His book set off the pessimism controversy."
+  },
+  "birth": 1842,
+  "death": 1906,
+  "nationality": {
+    "fr": "Allemand",
+    "en": "German"
+  },
+  "language": "deu",
+  "movements": [],
+  "updatedAt": "2026-11-05T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

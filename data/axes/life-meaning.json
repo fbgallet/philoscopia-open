@@ -137,7 +137,8 @@
     "GOD_EXISTENCE",
     "METAPHILOSOPHY",
     "AESTHETIC_LIFE",
-    "MORAL_SOURCE"
+    "MORAL_SOURCE",
+    "SUFFERING_MEANING"
   ],
   "problems": [
     {
@@ -497,6 +498,160 @@
         "fr": "Une vie peut-elle être pleine de sens si elle se voue à quelque chose d'insignifiant, voire de mauvais, ou le sens exige-t-il que la chose en vaille objectivement la peine ?",
         "en": "Can a life be full of meaning if it is devoted to something trivial, or even bad, or does meaning require that the thing be objectively worth it?"
       }
+    },
+    {
+      "id": "worth-of-existence",
+      "resolution": "LATENT",
+      "object": "INDIVIDUAL",
+      "objectLabel": {
+        "fr": "une existence entière",
+        "en": "a whole existence"
+      },
+      "mode": "PRESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "sphere": "EXISTENTIAL",
+      "keywords": [
+        {
+          "fr": "pessimisme",
+          "en": "pessimism"
+        },
+        {
+          "fr": "querelle du pessimisme",
+          "en": "pessimism controversy"
+        },
+        {
+          "fr": "bilan des plaisirs et des peines",
+          "en": "balance of pleasures and pains"
+        },
+        {
+          "fr": "antinatalisme",
+          "en": "antinatalism"
+        },
+        {
+          "fr": "volonté de mourir",
+          "en": "will to die"
+        },
+        {
+          "fr": "amor fati",
+          "en": "amor fati"
+        }
+      ],
+      "poles": [
+        "RENUNCIATION",
+        "ABSURDISM"
+      ],
+      "anchors": [
+        {
+          "name": {
+            "fr": "Schopenhauer",
+            "en": "Schopenhauer"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "schopenhauer"
+        },
+        {
+          "name": {
+            "fr": "Eduard von Hartmann",
+            "en": "Eduard von Hartmann"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "eduard-von-hartmann"
+        },
+        {
+          "name": {
+            "fr": "Mainländer",
+            "en": "Mainländer"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "mainlander"
+        },
+        {
+          "name": {
+            "fr": "Bahnsen",
+            "en": "Bahnsen"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "bahnsen"
+        },
+        {
+          "name": {
+            "fr": "Nietzsche",
+            "en": "Nietzsche"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "nietzsche"
+        },
+        {
+          "name": {
+            "fr": "Camus",
+            "en": "Camus"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "camus"
+        },
+        {
+          "name": {
+            "fr": "Benatar",
+            "en": "Benatar"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "benatar"
+        }
+      ],
+      "doorways": [
+        {
+          "axis": "SUFFERING_MEANING"
+        },
+        {
+          "axis": "COSMIC_OUTLOOK"
+        }
+      ],
+      "title": {
+        "fr": "La valeur de l'existence",
+        "en": "The worth of existence"
+      },
+      "explicitation": {
+        "fr": "Si l'on pèse ce qu'une vie contient de peine et de joie, de désirs inassouvis et d'ennui, la balance penche-t-elle du côté de l'existence, ou aurait-il mieux valu ne pas naître ? Mais peut-on seulement comparer la vie à un néant où personne ne manquerait de rien, et ce verdict renseigne-t-il sur la vie, ou sur celui qui le prononce ?",
+        "en": "If we weigh what a life holds of pain and joy, of unfulfilled desires and boredom, does the balance tip toward existence, or would it have been better never to have been born? But can life even be compared with a nothingness in which no one would lack anything, and does the verdict tell us about life, or about the one who pronounces it?"
+      },
+      "episodes": [
+        {
+          "id": "pessimism-controversy",
+          "name": {
+            "fr": "La querelle du pessimisme",
+            "en": "The pessimism controversy"
+          },
+          "from": 1869,
+          "to": 1900,
+          "approx": true,
+          "participants": [
+            {
+              "kind": "PHILOSOPHER",
+              "slug": "schopenhauer"
+            },
+            {
+              "kind": "PHILOSOPHER",
+              "slug": "eduard-von-hartmann"
+            },
+            {
+              "kind": "PHILOSOPHER",
+              "slug": "mainlander"
+            },
+            {
+              "kind": "PHILOSOPHER",
+              "slug": "bahnsen"
+            },
+            {
+              "kind": "PHILOSOPHER",
+              "slug": "nietzsche"
+            }
+          ],
+          "note": {
+            "fr": "Après la mort de <ph id='schopenhauer'>Schopenhauer</ph> (1860), son pessimisme devient en Allemagne l'objet d'une querelle publique, relancée par le succès de la <i>Philosophie de l'inconscient</i> de <ph id='eduard-von-hartmann'>Hartmann</ph> (1869). <ph id='mainlander'>Mainländer</ph> en tire une philosophie de la délivrance par l'extinction, <ph id='bahnsen'>Bahnsen</ph> un pessimisme tragique où la volonté se déchire elle-même, et une foule d'articles et de réfutations leur répondent. <ph id='nietzsche'>Nietzsche</ph>, d'abord disciple de Schopenhauer, finit par voir dans ce pessimisme le symptôme d'une vie qui décline. L'enjeu : peser la vie à la balance des peines et des joies a-t-il un sens, et si oui, de quel côté penche-t-elle ?",
+            "en": "After <ph id='schopenhauer'>Schopenhauer</ph>'s death (1860), his pessimism became the subject of a public controversy in Germany, revived by the success of <ph id='eduard-von-hartmann'>Hartmann</ph>'s <i>Philosophy of the Unconscious</i> (1869). <ph id='mainlander'>Mainländer</ph> drew from it a philosophy of deliverance through extinction, <ph id='bahnsen'>Bahnsen</ph> a tragic pessimism in which the will tears itself apart, and a host of articles and refutations answered them. <ph id='nietzsche'>Nietzsche</ph>, at first a disciple of Schopenhauer, came to see in this pessimism the symptom of a declining life. At stake: does it make sense to weigh life on the scales of pains and joys, and if so, which way do they tip?"
+          }
+        }
+      ]
     },
     {
       "id": "meaning-without-god",

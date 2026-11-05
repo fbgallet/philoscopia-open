@@ -1,0 +1,32 @@
+{
+  "kind": "PHILOSOPHER",
+  "stub": true,
+  "id": "mersenne",
+  "name": {
+    "fr": "Mersenne",
+    "en": "Mersenne"
+  },
+  "fullName": {
+    "fr": "Marin Mersenne",
+    "en": "Marin Mersenne"
+  },
+  "summary": {
+    "fr": "Religieux minime installé à Paris, il fait de sa cellule le centre d'une correspondance savante qui relie <ph id='descartes'>Descartes</ph>, <ph id='hobbes'>Hobbes</ph>, <per>Gassendi</per> et <per>Galilée</per>. Il recueille les objections aux <i>Méditations</i> et travaille lui-même sur l'acoustique et la musique.",
+    "en": "A Minim friar settled in Paris, he made his cell the hub of a learned correspondence linking <ph id='descartes'>Descartes</ph>, <ph id='hobbes'>Hobbes</ph>, <per>Gassendi</per> and <per>Galileo</per>. He gathered the objections to the <i>Meditations</i> and worked himself on acoustics and music."
+  },
+  "nationality": {
+    "fr": "Français",
+    "en": "French"
+  },
+  "birth": 1588,
+  "death": 1648,
+  "language": "lat",
+  "otherLanguages": [
+    "fra"
+  ],
+  "movements": [],
+  "updatedAt": "2026-11-05T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

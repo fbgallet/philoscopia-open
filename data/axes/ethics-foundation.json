@@ -656,7 +656,37 @@
       "explicitation": {
         "fr": "Juger moralement, est-ce s'élever à des principes qui valent pour tous sans considération de personne, ou l'attention concrète portée à ceux qui nous sont proches est-elle le cœur même de la morale ?",
         "en": "Is judging morally a matter of rising to principles that hold for everyone regardless of persons, or is concrete attentiveness to those close to us the very heart of morality?"
-      }
+      },
+      "episodes": [
+        {
+          "id": "care-justice-debate",
+          "name": {
+            "fr": "Le débat sollicitude-justice",
+            "en": "The care–justice debate"
+          },
+          "from": 1982,
+          "to": 2000,
+          "approx": true,
+          "participants": [
+            {
+              "kind": "PHILOSOPHER",
+              "slug": "kohlberg"
+            },
+            {
+              "kind": "PHILOSOPHER",
+              "slug": "gilligan"
+            },
+            {
+              "kind": "PHILOSOPHER",
+              "slug": "nussbaum"
+            }
+          ],
+          "note": {
+            "fr": "Dans <i>Une voix différente</i> (1982), <ph id='gilligan'>Gilligan</ph> conteste l'échelle du développement moral de <ph id='kohlberg'>Kohlberg</ph>, dont le sommet est le raisonnement par principes impartiaux ; elle y oppose une éthique de la sollicitude, attentive aux relations et aux situations. Le débat qui suit cherche à savoir si le soin et la justice sont deux morales rivales ou deux faces d'une même exigence.",
+            "en": "In <i>In a Different Voice</i> (1982), <ph id='gilligan'>Gilligan</ph> challenges <ph id='kohlberg'>Kohlberg</ph>'s scale of moral development, whose summit is reasoning from impartial principles; against it she sets an ethics of care, attentive to relationships and situations. The ensuing debate asks whether care and justice are two rival moralities or two faces of one demand."
+          }
+        }
+      ]
     },
     {
       "id": "authority-of-morality",

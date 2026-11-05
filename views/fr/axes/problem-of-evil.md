@@ -55,7 +55,7 @@ L'existence d'un mal massif et gratuit est incompatible avec un Dieu à la fois 
 
 ## Axes liés
 
-[Existence de Dieu](../axes/god-existence.md) · [Sens de la souffrance](../axes/suffering-meaning.md) · [Foi et raison](../axes/faith-reason.md) · [Tonalité du réel](../axes/cosmic-outlook.md)
+[Existence de Dieu](../axes/god-existence.md) · [Sens de la souffrance](../axes/suffering-meaning.md) · [Foi et raison](../axes/faith-reason.md) · [Tonalité du réel](../axes/cosmic-outlook.md) · [Sens de l'histoire](../axes/history-meaning.md)
 
 ---
 

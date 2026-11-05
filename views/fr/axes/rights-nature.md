@@ -39,6 +39,15 @@ Les droits ne sont ni naturels, ni de purs décrets, ni de simples calculs d'uti
 
 *[Rawls](../philosophers/rawls.md) · [Habermas](../philosophers/habermas.md)*
 
+## Problèmes vifs
+
+- **Les droits des peuples lointains** : Si des droits appartiennent à tout homme par nature, ils valent aussi pour des peuples qui ignorent notre loi, notre foi et nos mœurs, et qui ont leurs propres princes. Mais qui dit ce qu'est la nature humaine ? Le même raisonnement qui protège l'étranger a servi à déclarer certains peuples faits pour obéir, et à justifier qu'on les soumette par la guerre pour leur bien.
+- **La loi injuste** : Les juges qui ont appliqué les lois raciales d'un régime criminel appliquaient-ils le droit ? Si oui, le droit et la justice sont deux choses distinctes, et c'est hors du droit qu'il faut juger la loi. Si non, il faut dire où passe la limite au-delà de laquelle un ordre légal cesse d'en être un.
+- **Les droits contre l'utilité** : Si l'on protège les droits parce que les respecter rend tout le monde plus heureux, que faire le jour où les violer servirait davantage ? Un droit qui cède dès que le calcul s'inverse est-il encore un droit ? Et un droit qui ne cède jamais peut-il se justifier par ses seuls bienfaits ?
+- **La propriété avant la loi ?** : Par quel titre une terre qui n'était à personne devient-elle mienne ? Est-ce parce que je l'ai travaillée, auquel cas elle m'appartient avant toute loi et l'État qui la taxe me prend mon dû ? Ou bien n'y a-t-il de « mien » que là où des lois et des tribunaux le garantissent, si bien que la société peut redéfinir ce qu'elle a créé ?
+- **Des droits sans État** : Le réfugié privé de toute nationalité devrait être le porteur par excellence des droits de l'homme, puisqu'il ne lui reste que son humanité. C'est pourtant lui qui découvre qu'aucun tribunal ne les lui reconnaît. Ses droits existent-ils encore, simplement bafoués, ou n'ont-ils jamais existé sans une communauté pour les garantir ?
+- **Ce qu'un vote ne peut retirer** : Si les droits sont ce que des citoyens libres et égaux s'accordent à se reconnaître, une majorité régulièrement consultée pourrait-elle en abolir un ? Ou certains droits, comme s'exprimer, voter ou ne pas être persécuté, sont-ils les conditions mêmes d'un accord véritable, qu'aucun accord ne peut donc défaire ?
+
 ## Relations de fondation
 
 - *[Origine du lien social](../axes/social-contract.md) : Contractualisme* fonde *[Nature des droits](../axes/rights-nature.md) : Constructivisme politique* : Si l'ordre légitime naît d'un accord entre personnes libres et égales, les droits eux-mêmes apparaissent comme les termes d'une coopération équitable à construire, et non comme des donnés. Le contractualisme fonde le constructivisme politique : [Rawls](../philosophers/rawls.md) dérive les principes de justice d'un choix rationnel passé derrière un « voile d'ignorance ».

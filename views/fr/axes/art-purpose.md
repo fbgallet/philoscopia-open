@@ -37,6 +37,8 @@ L'artiste vit dans son époque et ne peut s'en laver les mains : son œuvre éve
 
 > « Le beau est l'apparaître sensible de l'Idée. » — [Hegel](../philosophers/hegel.md), Leçons d'esthétique, Introduction
 
+> « L'art et la morale sont, sous certaines réserves que je mentionnerai dans un instant, une seule et même chose. Leur essence est la même. L'essence de l'un comme de l'autre est l'amour. » — [Murdoch](../philosophers/iris-murdoch.md), « The Sublime and the Good » (1959), repris dans Existentialists and Mystics (1997), p. 215
+
 > « La poésie est plus philosophique et plus noble que l'histoire : elle énonce le général, l'histoire le particulier. » — [Aristote](../philosophers/aristotle.md), Poétique, 9 (1451b)
 
 ## Axes liés

@@ -1,0 +1,25 @@
+{
+  "kind": "PHILOSOPHER",
+  "stub": true,
+  "id": "bayle",
+  "name": {
+    "fr": "Pierre Bayle",
+    "en": "Pierre Bayle"
+  },
+  "summary": {
+    "fr": "Protestant français réfugié à Rotterdam, il publie les <i>Nouvelles de la République des Lettres</i>, puis un <i>Dictionnaire historique et critique</i> dont les notes minent toutes les certitudes. Il défend la tolérance et soutient qu'une société d'athées pourrait être vertueuse.",
+    "en": "A French Protestant who took refuge in Rotterdam, he published the <i>Nouvelles de la République des Lettres</i>, then a <i>Historical and Critical Dictionary</i> whose notes undermine every certainty. He defends toleration and argues that a society of atheists could be virtuous."
+  },
+  "nationality": {
+    "fr": "Français",
+    "en": "French"
+  },
+  "birth": 1647,
+  "death": 1706,
+  "language": "fra",
+  "movements": [],
+  "updatedAt": "2026-11-05T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

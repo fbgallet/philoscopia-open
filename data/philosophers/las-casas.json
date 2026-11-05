@@ -1,0 +1,29 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "las-casas",
+  "stub": true,
+  "name": {
+    "fr": "Las Casas",
+    "en": "Las Casas"
+  },
+  "fullName": {
+    "fr": "Bartolomé de las Casas",
+    "en": "Bartolomé de las Casas"
+  },
+  "summary": {
+    "fr": "Dominicain espagnol, ancien colon devenu défenseur des Indiens d'Amérique, il dénonça les violences de la conquête et soutint à Valladolid que ces peuples ont les mêmes droits naturels que les Européens.",
+    "en": "Spanish Dominican, a former colonist turned defender of the Indigenous peoples of the Americas, who denounced the violence of the conquest and argued at Valladolid that these peoples have the same natural rights as Europeans."
+  },
+  "birth": 1484,
+  "death": 1566,
+  "nationality": {
+    "fr": "Espagnol",
+    "en": "Spanish"
+  },
+  "language": "spa",
+  "movements": [],
+  "updatedAt": "2026-11-05T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

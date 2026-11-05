@@ -1,0 +1,31 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "vitoria",
+  "stub": true,
+  "name": {
+    "fr": "Vitoria",
+    "en": "Vitoria"
+  },
+  "fullName": {
+    "fr": "Francisco de Vitoria",
+    "en": "Francisco de Vitoria"
+  },
+  "summary": {
+    "fr": "Théologien dominicain, maître de l'école de Salamanque, il reconnut aux Indiens une souveraineté légitime sur leurs terres et posa les bases d'un droit des gens valable entre tous les peuples.",
+    "en": "Dominican theologian and leading figure of the School of Salamanca, who recognized the Indigenous peoples' rightful sovereignty over their lands and laid the foundations of a law of nations binding among all peoples."
+  },
+  "birth": 1483,
+  "death": 1546,
+  "nationality": {
+    "fr": "Espagnol",
+    "en": "Spanish"
+  },
+  "language": "lat",
+  "movements": [
+    "scholasticism"
+  ],
+  "updatedAt": "2026-11-05T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

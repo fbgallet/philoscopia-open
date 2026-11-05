@@ -1,0 +1,29 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "laplace",
+  "stub": true,
+  "name": {
+    "fr": "Laplace",
+    "en": "Laplace"
+  },
+  "fullName": {
+    "fr": "Pierre-Simon de Laplace",
+    "en": "Pierre-Simon de Laplace"
+  },
+  "summary": {
+    "fr": "Mathématicien et astronome français, qui donna au déterminisme sa formule la plus célèbre : une intelligence connaissant l'état présent de l'univers en verrait tout l'avenir. Il fonda aussi le calcul des probabilités sur notre ignorance des causes.",
+    "en": "French mathematician and astronomer who gave determinism its most famous formula: an intelligence knowing the present state of the universe would see its whole future. He also grounded the calculus of probabilities in our ignorance of causes."
+  },
+  "birth": 1749,
+  "death": 1827,
+  "nationality": {
+    "fr": "Français",
+    "en": "French"
+  },
+  "language": "fra",
+  "movements": [],
+  "updatedAt": "2026-11-05T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

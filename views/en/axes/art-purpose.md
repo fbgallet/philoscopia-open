@@ -37,6 +37,8 @@ The artist lives in his own time and cannot wash his hands of it: his work awake
 
 > “The beautiful is the sensuous shining of the Idea.” — [Hegel](../philosophers/hegel.md), Lectures on Aesthetics, Introduction
 
+> “Art and morals are, with certain provisos which I shall mention in a moment, one. Their essence is the same. The essence of both of them is love.” — [Murdoch](../philosophers/iris-murdoch.md), "The Sublime and the Good" (1959), reprinted in Existentialists and Mystics (1997), p. 215
+
 > “Poetry is more philosophical and weightier than history: it speaks of the universal, history of the particular.” — [Aristotle](../philosophers/aristotle.md), Poetics, 9 (1451b)
 
 ## Related axes

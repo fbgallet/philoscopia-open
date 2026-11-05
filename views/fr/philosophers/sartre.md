@@ -354,6 +354,7 @@ La conscience étant ce qu'elle n'est pas et n'étant pas ce qu'elle est, la ten
 
 - **[Beauvoir](../philosophers/beauvoir.md)** (réinterprète) : En dialogue constant avec [Sartre](../philosophers/sartre.md), [Beauvoir](../philosophers/beauvoir.md) transforme les catégories de liberté et de situation en une éthique de l'ambiguïté et en analyse de l'oppression sexuée, là où l'existentialisme restait abstrait.
 - **[Frantz Fanon](../philosophers/fanon.md)** (réinterprète) : [Fanon](../philosophers/fanon.md) reprend de [Sartre](../philosophers/sartre.md), qui préfacera Les Damnés de la terre, la liberté en situation et le rôle du regard d'autrui, pour penser l'aliénation coloniale et la violence libératrice ; il lui reproche pourtant, dès « Orphée noir », de dissoudre l'expérience noire dans une dialectique abstraite.
+- **[Murdoch](../philosophers/iris-murdoch.md)** (réagit contre) : Lectrice précoce et sympathique de [Sartre](../philosophers/sartre.md), [Murdoch](../philosophers/iris-murdoch.md) se construit contre sa liberté comme choix souverain d'un moi seul : la vie morale tient pour elle à la vision d'une réalité qui ne dépend pas de nous.
 
 ---
 

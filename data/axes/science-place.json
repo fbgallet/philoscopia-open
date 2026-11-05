@@ -206,7 +206,40 @@
       "explicitation": {
         "fr": "Étudier l'homme, l'histoire, une société, est-ce chercher des causes comme en physique, ou comprendre de l'intérieur un sens et des intentions ? Une seule méthode pour tous les objets, ou d'autres savoirs pour ce qui ne se réduit pas à un mécanisme ?",
         "en": "To study man, history, a society, is it to seek causes as in physics, or to understand a meaning and intentions from within? One method for all objects, or other kinds of knowledge for what does not reduce to a mechanism?"
-      }
+      },
+      "episodes": [
+        {
+          "id": "positivism-dispute",
+          "name": {
+            "fr": "La querelle du positivisme",
+            "en": "The positivism dispute"
+          },
+          "from": 1961,
+          "to": 1969,
+          "participants": [
+            {
+              "kind": "PHILOSOPHER",
+              "slug": "popper"
+            },
+            {
+              "kind": "PHILOSOPHER",
+              "slug": "adorno"
+            },
+            {
+              "kind": "PHILOSOPHER",
+              "slug": "hans-albert"
+            },
+            {
+              "kind": "PHILOSOPHER",
+              "slug": "habermas"
+            }
+          ],
+          "note": {
+            "fr": "Au congrès de la Société allemande de sociologie, à Tübingen en 1961, <ph id='popper'>Popper</ph> présente ses thèses sur la logique des sciences sociales et <ph id='adorno'>Adorno</ph> lui répond. La dispute se poursuit entre <ph id='habermas'>Habermas</ph> et <ph id='hans-albert'>Hans Albert</ph>, et le recueil de 1969 lui donne son nom, que Popper récuse : il ne se tient pas pour positiviste. Elle prolonge, sous une forme nouvelle, les querelles de méthode de la pensée allemande, de l'opposition entre expliquer et comprendre posée par <ph id='dilthey'>Dilthey</ph> au débat de <ph id='weber'>Weber</ph> sur la neutralité axiologique. L'enjeu : les sciences de la société relèvent-elles de la même méthode que les sciences de la nature, faite d'hypothèses mises à l'épreuve, ou doivent-elles comprendre la société comme une totalité dont le chercheur fait lui-même partie ?",
+            "en": "At the congress of the German Sociological Association in Tübingen in 1961, <ph id='popper'>Popper</ph> presented his theses on the logic of the social sciences and <ph id='adorno'>Adorno</ph> replied. The dispute went on between <ph id='habermas'>Habermas</ph> and <ph id='hans-albert'>Hans Albert</ph>, and the 1969 collection gave it its name, which Popper rejected: he did not regard himself as a positivist. It extends, in a new form, the quarrels over method in German thought, from the opposition between explaining and understanding drawn by <ph id='dilthey'>Dilthey</ph> to <ph id='weber'>Weber</ph>'s debate on value neutrality. At stake: do the sciences of society fall under the same method as the natural sciences, made of hypotheses put to the test, or must they understand society as a totality of which the researcher is part?"
+          }
+        }
+      ]
     },
     {
       "id": "the-first-person-given",

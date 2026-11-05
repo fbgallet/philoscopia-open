@@ -1,0 +1,29 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "sepulveda",
+  "stub": true,
+  "name": {
+    "fr": "Sepúlveda",
+    "en": "Sepúlveda"
+  },
+  "fullName": {
+    "fr": "Juan Ginés de Sepúlveda",
+    "en": "Juan Ginés de Sepúlveda"
+  },
+  "summary": {
+    "fr": "Humaniste espagnol et traducteur d'Aristote, il soutint à Valladolid que la conquête des Indes était une guerre juste, au nom d'une infériorité naturelle des peuples conquis.",
+    "en": "Spanish humanist and translator of Aristotle who argued at Valladolid that the conquest of the Indies was a just war, on the grounds of the conquered peoples' natural inferiority."
+  },
+  "birth": 1490,
+  "death": 1573,
+  "nationality": {
+    "fr": "Espagnol",
+    "en": "Spanish"
+  },
+  "language": "lat",
+  "movements": [],
+  "updatedAt": "2026-11-05T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

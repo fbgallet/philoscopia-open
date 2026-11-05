@@ -30,6 +30,14 @@ Only individuals exist. Redness is nothing apart from red things: it is a name w
 
 Genera and species exist neither as realities in themselves nor as mere words. They are concepts the mind forms by noticing resemblances among things. The universal is real, but in thought: neither in a heaven of Ideas nor reduced to a breath of the voice.
 
+## Live problems
+
+- **Things, concepts, or words?** : When we say "man" or "animal", what are we talking about: a common nature really present in each individual, a concept the mind draws from their resemblances, or a mere word laid over beings that share nothing at all? And if the universal is in things, how can one and the same nature be wholly present in two beings at once?
+- **What makes an individual** : If what I am, a human being, I share with everyone else, what makes me this one and not another: the matter I am made of, a singularity of my own that nothing general can capture, or nothing more than the fact of existing apart?
+- **Alike in what?** : Nominalism files things that resemble one another under a single name. But a tomato resembles a cherry in colour and an apple in shape: aren't these distinct resemblances already something shared, the very universal we meant to drive out, slipping back in through the window?
+- **Nature's joints** : Gold, the tiger, the electron: do the sciences discover kinds that nature has already carved out, or do they classify according to our interests and instruments, so that another way of dividing things up could have served just as well?
+- **Where are numbers?** : The perfect circle is found nowhere, and yet its properties hold for everyone and held before us: do mathematical objects exist outside the mind, are they constructions of thought, or convenient fictions we could do without?
+
 ## Grounding relations
 
 - *[Source of knowledge](../axes/knowledge-source.md) : Empiricism* grounds *[Universals](../axes/universals.md) : Nominalism* : If nothing enters the mind that has not first passed through the senses, and the senses deliver only individuals, then general properties are not realities but names. Empiricism inclines toward nominalism: for [Hume](../philosophers/hume.md), the general idea is merely a term attached to particular impressions that resemble one another.

@@ -1,0 +1,16 @@
+{
+  "id": "plato-to-iris-murdoch",
+  "from": { "kind": "PHILOSOPHER", "slug": "plato" },
+  "to": { "kind": "PHILOSOPHER", "slug": "iris-murdoch" },
+  "directness": "ATTESTED",
+  "mode": "REINTERPRETS",
+  "strength": "STRONG",
+  "note": {
+    "fr": "<ph id='iris-murdoch'>Murdoch</ph> reprend le Bien de <ph id='plato'>Platon</ph>, soleil qui fait voir, et l'éros qui élève l'âme, mais sans Dieu ni monde des Idées : un platonisme démythologisé, où la conversion du regard devient l'attention morale.",
+    "en": "<ph id='iris-murdoch'>Murdoch</ph> takes up <ph id='plato'>Plato</ph>'s Good, the sun that makes things visible, and the eros that lifts the soul, but without God or a world of Forms: a demythologized Platonism in which the turning of the gaze becomes moral attention."
+  },
+  "sources": [
+    { "fr": "Murdoch, La Souveraineté du bien ; The Fire and the Sun", "en": "Murdoch, The Sovereignty of Good; The Fire and the Sun" }
+  ],
+  "updatedAt": "2026-11-05T00:00:00.000Z"
+}

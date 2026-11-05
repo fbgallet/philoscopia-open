@@ -15,6 +15,7 @@ Fondateur de la psychanalyse, qui soutint que le moi n'est pas maître dans sa p
 ## Influence sur
 
 - **[École de Francfort](../movements/frankfurt-school.md)** (synthétise) : Dès les années 1930, l'Institut de Francfort associe la psychanalyse à la critique sociale pour comprendre pourquoi les masses consentent à leur domination. [Marcuse](../philosophers/marcuse.md) en tire avec Éros et civilisation une lecture de [Freud](../philosophers/freud.md) où la répression des pulsions devient un fait historique.
+- **[Murdoch](../philosophers/iris-murdoch.md)** (réinterprète) : [Murdoch](../philosophers/iris-murdoch.md) retient de [Freud](../philosophers/freud.md) une description qu'elle juge réaliste de la psyché, égocentrique et mue par une énergie qu'elle ne maîtrise pas ; elle y voit le point de départ de la tâche morale, pas une explication de la morale.
 
 ---
 

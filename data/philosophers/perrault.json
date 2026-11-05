@@ -1,0 +1,29 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "perrault",
+  "stub": true,
+  "name": {
+    "fr": "Perrault",
+    "en": "Perrault"
+  },
+  "fullName": {
+    "fr": "Charles Perrault",
+    "en": "Charles Perrault"
+  },
+  "summary": {
+    "fr": "Écrivain et académicien, auteur des <w>Contes</w>, il déclencha la querelle des Anciens et des Modernes en affirmant que le siècle de Louis XIV égalait ou surpassait l'Antiquité.",
+    "en": "Writer and member of the Académie française, author of the <w>Tales</w>, who sparked the Quarrel of the Ancients and the Moderns by claiming that the age of Louis XIV equalled or surpassed antiquity."
+  },
+  "birth": 1628,
+  "death": 1703,
+  "nationality": {
+    "fr": "Français",
+    "en": "French"
+  },
+  "language": "fra",
+  "movements": [],
+  "updatedAt": "2026-11-05T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

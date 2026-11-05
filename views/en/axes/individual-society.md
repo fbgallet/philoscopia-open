@@ -20,7 +20,15 @@ Society is nothing more than the individuals who compose it and their interactio
 
 The social whole is more than the sum of its parts: it has laws of its own and exerts an influence on individuals that exceeds them. Our ways of thinking, feeling, and acting are shaped first by the society that precedes us.
 
-*Durkheim · [Hegel](../philosophers/hegel.md)*
+*[Durkheim](../philosophers/durkheim.md) · [Hegel](../philosophers/hegel.md)*
+
+## Live problems
+
+- **The unencumbered self** : To define fair rules, we can set aside what sets each of us apart (religion, family, culture) and ask what people free of all ties would accept. But does a person without ties exist? If it is our communities that give us our ends and our moral vocabulary, does a justice that claims to do without them still speak to anyone?
+- **Explaining a social fact** : Everyone who takes their own life has reasons, intimate and singular. Yet a country's suicide rate barely moves from one year to the next, and it shifts with religion, economic conditions or family situation. Where does that regularity come from, if everything comes down to individual decisions? And if it comes from the whole, what becomes of each person's reasons?
+- **What nobody intended** : A language, a market, a traffic jam: orders and disorders that no one designed arise from a thousand decisions meeting. Does that prove everything can be explained by individuals, since the whole is just the effect of their acts? Or that the whole has a logic of its own, beyond anyone's grasp?
+- **A wrong without a culprit?** : When a disaster springs from a thousand trivial decisions, or from the workings of a whole institution, who answers for it? Can a company, a state, a people be guilty, or do only individuals answer for their acts, at the risk of finding no one at all?
+- **Protecting a culture against its members?** : A community may try to save its language by requiring families to school their children in it. Is that oppressing individuals in the name of a whole? Or recognizing that individuals exist only through a culture that would vanish without protection?
 
 ## Grounding relations
 
@@ -43,7 +51,7 @@ The social whole is more than the sum of its parts: it has laws of its own and e
 
 ## Related axes
 
-[Social identity](../axes/social-identity.md) · [Political liberty](../axes/political-liberty.md) · [Self-interest and others](../axes/self-interest.md) · [The origin of the social bond](../axes/social-contract.md)
+[Social identity](../axes/social-identity.md) · [Political liberty](../axes/political-liberty.md) · [Self-interest and others](../axes/self-interest.md) · [The origin of the social bond](../axes/social-contract.md) · [The meaning of history](../axes/history-meaning.md) · [Distributive justice](../axes/distributive-justice.md) · [Nature of the self](../axes/self-nature.md) · [Wholes and parts](../axes/reduction-emergence.md) · [Moral responsibility](../axes/moral-responsibility.md) · [Belonging](../axes/belonging.md)
 
 ---
 

@@ -1,12 +1,12 @@
 {
   "id": "your-portrait",
   "title": {
-    "fr": "Votre portrait",
-    "en": "Your portrait"
+    "fr": "Votre thème astral",
+    "en": "Your birth chart"
   },
   "description": {
-    "fr": "À partir de vos réponses sur Philoscopia, voici le portrait que nous avons établi de vous : « Vous avez un grand besoin d'être apprécié et admiré, et pourtant vous êtes souvent critique envers vous-même. Vous avez des capacités que vous n'avez pas encore exploitées. Discipliné en apparence, vous êtes parfois inquiet au fond de vous. Vous aimez une certaine variété et supportez mal les contraintes. Vous tenez à penser par vous-même et n'acceptez pas sans preuve les affirmations des autres. Vous êtes tantôt sociable, tantôt réservé. »",
-    "en": "Based on your answers on Philoscopia, here is the portrait we have drawn of you: \"You have a great need to be liked and admired, and yet you are often critical of yourself. You have abilities you have not yet put to use. Disciplined on the outside, you are sometimes anxious deep down. You like a certain variety and chafe at restrictions. You pride yourself on thinking for yourself and do not accept others' claims without proof. You are sometimes sociable, sometimes reserved.\""
+    "fr": "Le portrait que l'appli a tiré de votre thème : « Vous avez un grand besoin d'être apprécié et admiré, et pourtant vous êtes souvent critique envers vous-même. Vous avez des capacités que vous n'avez pas encore exploitées. Discipliné en apparence, vous êtes parfois inquiet au fond de vous. Vous aimez une certaine variété et supportez mal les contraintes. Vous tenez à penser par vous-même et n'acceptez pas sans preuve les affirmations des autres. Vous êtes tantôt sociable, tantôt réservé. »",
+    "en": "The portrait the app drew from your chart: \"You have a great need to be liked and admired, and yet you are often critical of yourself. You have abilities you have not yet put to use. Disciplined on the outside, you are sometimes anxious deep down. You like a certain variety and chafe at restrictions. You pride yourself on thinking for yourself and do not accept others' claims without proof. You are sometimes sociable, sometimes reserved.\""
   },
   "source": {
     "author": {
@@ -48,8 +48,8 @@
         }
       ],
       "discussion": {
-        "fr": "Ce portrait, tout le monde l'a reçu, quelles que soient ses réponses : c'est l'expérience menée par Bertram Forer en 1948 avec des phrases tirées d'horoscopes. Ses étudiants l'ont jugé juste à 4,3 sur 5 en moyenne : des phrases assez vagues pour convenir à tous semblent écrites pour chacun. C'est l'<c id='barnum-effect'>effet Barnum</c>.",
-        "en": "Everyone received this portrait, whatever their answers: this is the experiment Bertram Forer ran in 1948 with sentences taken from horoscopes. His students rated it 4.3 out of 5 on average: sentences vague enough to fit everyone seem written for each. This is the <c id='barnum-effect'>Barnum effect</c>."
+        "fr": "Ce portrait, tout le monde l'a reçu, quel que soit son signe : en 1948, Bertram Forer l'a distribué à ses étudiants, avec des phrases tirées d'horoscopes. Ils l'ont jugé juste à 4,3 sur 5 en moyenne : des phrases assez vagues pour convenir à tous semblent écrites pour chacun. C'est l'<c id='barnum-effect'>effet Barnum</c>.",
+        "en": "Everyone received this portrait, whatever their sign: in 1948, Bertram Forer handed it out to his students, using sentences taken from horoscopes. They rated it 4.3 out of 5 on average: sentences vague enough to fit everyone seem written for each. This is the <c id='barnum-effect'>Barnum effect</c>."
       }
     },
     {
@@ -73,8 +73,8 @@
         }
       ],
       "discussion": {
-        "fr": "Ce portrait, tout le monde l'a reçu, quelles que soient ses réponses : c'est l'expérience menée par Bertram Forer en 1948 avec des phrases tirées d'horoscopes. Vous y avez reconnu quelque chose, comme presque tous ceux qui l'ont lu : c'est la force de l'<c id='barnum-effect'>effet Barnum</c>.",
-        "en": "Everyone received this portrait, whatever their answers: this is the experiment Bertram Forer ran in 1948 with sentences taken from horoscopes. You recognized something of yourself in it, as almost everyone who read it did: that is the strength of the <c id='barnum-effect'>Barnum effect</c>."
+        "fr": "Ce portrait, tout le monde l'a reçu, quel que soit son signe : en 1948, Bertram Forer l'a distribué à ses étudiants, avec des phrases tirées d'horoscopes. Vous y avez reconnu quelque chose, comme presque tous ceux qui l'ont lu : c'est la force de l'<c id='barnum-effect'>effet Barnum</c>.",
+        "en": "Everyone received this portrait, whatever their sign: in 1948, Bertram Forer handed it out to his students, using sentences taken from horoscopes. You recognized something of yourself in it, as almost everyone who read it did: that is the strength of the <c id='barnum-effect'>Barnum effect</c>."
       }
     },
     {
@@ -98,10 +98,10 @@
         }
       ],
       "discussion": {
-        "fr": "Ce portrait, tout le monde l'a reçu, quelles que soient ses réponses : c'est l'expérience menée par Bertram Forer en 1948 avec des phrases tirées d'horoscopes. Vous avez résisté à un portrait que la plupart jugent fidèle : sa généralité vous a sauté aux yeux. C'est l'<c id='barnum-effect'>effet Barnum</c> que vous avez déjoué.",
-        "en": "Everyone received this portrait, whatever their answers: this is the experiment Bertram Forer ran in 1948 with sentences taken from horoscopes. You resisted a portrait most people judge accurate: its generality struck you. You have foiled the <c id='barnum-effect'>Barnum effect</c>."
+        "fr": "Ce portrait, tout le monde l'a reçu, quel que soit son signe : en 1948, Bertram Forer l'a distribué à ses étudiants, avec des phrases tirées d'horoscopes. Vous avez résisté à un portrait que la plupart jugent fidèle : sa généralité vous a sauté aux yeux. C'est l'<c id='barnum-effect'>effet Barnum</c> que vous avez déjoué.",
+        "en": "Everyone received this portrait, whatever their sign: in 1948, Bertram Forer handed it out to his students, using sentences taken from horoscopes. You resisted a portrait most people judge accurate: its generality struck you. You have foiled the <c id='barnum-effect'>Barnum effect</c>."
       }
     }
   ],
-  "updatedAt": "2026-10-29T00:00:00.000Z"
+  "updatedAt": "2026-11-05T00:00:00.000Z"
 }

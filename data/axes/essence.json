@@ -326,7 +326,8 @@
       ],
       "doorways": [
         {
-          "axis": "UNIVERSALS"
+          "axis": "UNIVERSALS",
+          "problem": "genera-and-species"
         }
       ],
       "title": {

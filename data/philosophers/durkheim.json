@@ -1,0 +1,29 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "durkheim",
+  "stub": true,
+  "name": {
+    "fr": "Durkheim",
+    "en": "Durkheim"
+  },
+  "fullName": {
+    "fr": "Émile Durkheim",
+    "en": "Émile Durkheim"
+  },
+  "summary": {
+    "fr": "Fondateur de la sociologie française, il traite les faits sociaux comme des choses qui s'imposent aux individus et en explique les régularités par le tout social.",
+    "en": "Founder of French sociology, who treats social facts as things that impose themselves on individuals and explains their regularities by the social whole."
+  },
+  "birth": 1858,
+  "death": 1917,
+  "nationality": {
+    "fr": "Français",
+    "en": "French"
+  },
+  "language": "fra",
+  "movements": [],
+  "updatedAt": "2026-11-05T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

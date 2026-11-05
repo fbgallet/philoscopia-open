@@ -1,0 +1,31 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "macintyre",
+  "stub": true,
+  "name": {
+    "fr": "MacIntyre",
+    "en": "MacIntyre"
+  },
+  "fullName": {
+    "fr": "Alasdair MacIntyre",
+    "en": "Alasdair MacIntyre"
+  },
+  "summary": {
+    "fr": "Philosophe écossais, il soutient que la morale moderne, coupée des traditions et des communautés qui donnaient sens aux vertus, n'est plus que fragments, et prône un retour à l'éthique d'<ph id='aristotle'>Aristote</ph>.",
+    "en": "Scottish philosopher who argues that modern morality, cut off from the traditions and communities that gave the virtues their meaning, survives only in fragments, and who calls for a return to <ph id='aristotle'>Aristotle</ph>'s ethics."
+  },
+  "birth": 1929,
+  "death": 2025,
+  "nationality": {
+    "fr": "Écossais",
+    "en": "Scottish"
+  },
+  "language": "eng",
+  "movements": [
+    "aristotelianism"
+  ],
+  "updatedAt": "2026-11-05T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

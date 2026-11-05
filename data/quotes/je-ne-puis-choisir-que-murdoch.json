@@ -1,0 +1,10 @@
+{
+  "id": "je-ne-puis-choisir-que-murdoch",
+  "text": { "fr": "Je ne puis choisir qu'à l'intérieur du monde que je peux voir, au sens moral de « voir », qui implique qu'une vision claire est le fruit de l'imagination morale et de l'effort moral.", "en": "I can only choose within the world I can see, in the moral sense of 'see' which implies that clear vision is a result of moral imagination and moral effort." },
+  "author": { "name": { "fr": "Murdoch", "en": "Murdoch" }, "kind": "PHILOSOPHER", "slug": "iris-murdoch" },
+  "work": "sovereignty-of-good-murdoch",
+  "source": { "fr": "La Souveraineté du bien, « L'idée de perfection »", "en": "The Sovereignty of Good, \"The Idea of Perfection\"" },
+  "context": { "fr": "Traduction de Philoscopia.", "en": "French translation by Philoscopia; the English is the original text." },
+  "anchors": [{ "axisId": "INTERIORITY", "poleId": "EXAMINED_LIFE" }],
+  "updatedAt": "2026-11-05T00:00:00.000Z"
+}

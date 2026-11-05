@@ -51,7 +51,7 @@ Il faut se déprendre de l'attribution même : nul n'est l'auteur ultime de ce q
 
 ## Axes liés
 
-[Liberté de la volonté](../axes/freedom.md) · [Sens de la peine](../axes/punishment.md) · [Critère du juste](../axes/ethics-foundation.md) · [Pardon](../axes/forgiveness.md) · [Justice distributive](../axes/distributive-justice.md) · [Nature et culture](../axes/human-nature.md)
+[Liberté de la volonté](../axes/freedom.md) · [Sens de la peine](../axes/punishment.md) · [Critère du juste](../axes/ethics-foundation.md) · [Pardon](../axes/forgiveness.md) · [Justice distributive](../axes/distributive-justice.md) · [Nature et culture](../axes/human-nature.md) · [Individu et société](../axes/individual-society.md)
 
 ---
 

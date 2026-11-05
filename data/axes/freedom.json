@@ -448,7 +448,8 @@
       ],
       "doorways": [
         {
-          "axis": "CAUSALITY"
+          "axis": "CAUSALITY",
+          "problem": "everything-has-a-cause"
         }
       ],
       "title": {

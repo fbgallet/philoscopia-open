@@ -28,6 +28,13 @@ Life cannot be reduced either to mechanics or to a pre-established plan: it is a
 
 *[Bergson](../philosophers/bergson.md)*
 
+## Live problems
+
+- **The power of causes** : When fire touches cotton, the cotton burns. But do we ever see the fire act, or only the cotton burning after the contact? Do things have, by their nature, the power to produce their effects, or is the regular order of the world upheld at every instant by another power, which could just as well suspend it?
+- **Ends in nature?** : The eye seems made for seeing, the wing for flying: does this fit show that nature acts for the sake of ends, or does the appearance of design arise from blind causes that sorted out what survived? And if selection explains everything, is talk of "function" still legitimate, or merely convenient?
+- **Machine or organism** : A watch does not repair itself, reproduce, or make its own gears; a living thing does. Should we conclude that it escapes mechanical explanation, or only that it is a machine of a complexity we have not yet finished taking apart?
+- **Does everything have a cause?** : Nothing happens without a reason, we say, and an intelligence that knew the whole present state of the world would foresee its entire future. Is this a truth about nature, a demand of our inquiring mind, or a hypothesis that physics refuted when it found chance at the heart of matter?
+
 ## Grounding relations
 
 - *[Explaining nature](../axes/causality.md) : Finalism* grounds *[Enhancing human nature](../axes/human-enhancement.md) : Bioconservatism* : If nature is ordered by ends and each organism tends toward its completed form, seeking to technologically remake the human amounts to violating a meaningful order. Finalism supports bioconservatism: for [Jonas](../philosophers/jonas.md), finitude and vulnerability are not flaws to be corrected, but conditions of a properly human life.

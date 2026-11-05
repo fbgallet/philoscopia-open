@@ -14,7 +14,7 @@ Favouring our own gives us roots but can shut the door on the stranger; opening 
 
 [We are not abstract individuals](../axes/individual-society.md): our identity and attachments arise from the concrete communities that shaped us, family, nation, culture. Loyalty to one's own is not a prejudice but a virtue, and the real source of solidarity.
 
-*MacIntyre · [Walzer](../philosophers/walzer.md)*
+*[MacIntyre](../philosophers/macintyre.md) · [Walzer](../philosophers/walzer.md)*
 
 ### Cosmopolitanism
 
@@ -44,7 +44,7 @@ We are first citizens of the world: [human dignity does not stop at borders](../
 
 ## Related axes
 
-[Partiality](../axes/partiality.md) · [The origin of the social bond](../axes/social-contract.md) · [The highest good](../axes/sovereign-good.md)
+[Partiality](../axes/partiality.md) · [The origin of the social bond](../axes/social-contract.md) · [The highest good](../axes/sovereign-good.md) · [Individual and society](../axes/individual-society.md)
 
 ---
 

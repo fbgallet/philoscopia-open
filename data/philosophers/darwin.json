@@ -1,0 +1,40 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "darwin",
+  "stub": true,
+  "name": {
+    "fr": "Darwin",
+    "en": "Darwin"
+  },
+  "aliases": {
+    "fr": [
+      "darwinien",
+      "darwinienne",
+      "darwinisme"
+    ],
+    "en": [
+      "Darwinian",
+      "Darwinism"
+    ]
+  },
+  "fullName": {
+    "fr": "Charles Darwin",
+    "en": "Charles Darwin"
+  },
+  "summary": {
+    "fr": "Naturaliste anglais, auteur de <w>L'Origine des espèces</w> : la sélection naturelle explique l'adaptation des vivants sans recourir à un dessein, ce qui bouleversa la place de l'être humain dans la nature et la question des fins.",
+    "en": "English naturalist, author of <w>On the Origin of Species</w>: natural selection explains the adaptation of living things without appeal to design, which upended humanity's place in nature and the question of ends."
+  },
+  "birth": 1809,
+  "death": 1882,
+  "nationality": {
+    "fr": "Anglais",
+    "en": "English"
+  },
+  "language": "eng",
+  "movements": [],
+  "updatedAt": "2026-11-05T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

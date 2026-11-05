@@ -1,0 +1,25 @@
+{
+  "kind": "PHILOSOPHER",
+  "stub": true,
+  "id": "mary-midgley",
+  "name": {
+    "fr": "Mary Midgley",
+    "en": "Mary Midgley"
+  },
+  "summary": {
+    "fr": "Dans <i>Beast and Man</i> (1978), elle rappelle que l'homme est un animal parmi d'autres, et combat aussi bien les excès du scientisme qu'une philosophie coupée de la vie.",
+    "en": "In <i>Beast and Man</i> (1978), she reminds us that humans are animals among others, and fights the excesses of scientism as much as a philosophy cut off from life."
+  },
+  "nationality": {
+    "fr": "Britannique",
+    "en": "British"
+  },
+  "birth": 1919,
+  "death": 2018,
+  "language": "eng",
+  "movements": [],
+  "updatedAt": "2026-11-05T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

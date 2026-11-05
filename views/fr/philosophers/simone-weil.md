@@ -12,6 +12,10 @@ Philosophe et mystique française, à la croisée de l'engagement ouvrier, de l'
 
 - **[Platon](../philosophers/plato.md)** (réinterprète) : [Weil](../philosophers/simone-weil.md) lit [Platon](../philosophers/plato.md) en mystique : le Bien au-delà de l'être, la conversion du regard hors de la caverne deviennent chez elle attente de Dieu et attention, un platonisme christianisé où le vrai se reçoit plus qu'il ne se conquiert.
 
+## Influence sur
+
+- **[Murdoch](../philosophers/iris-murdoch.md)** (prolonge) : [Murdoch](../philosophers/iris-murdoch.md) dit emprunter à [Simone Weil](../philosophers/simone-weil.md) le mot [attention](../glossary/attention.md) pour désigner le regard juste et aimant posé sur une réalité individuelle ; elle en garde le sens moral en le détachant de la prière.
+
 ---
 
 *Généré depuis le corpus JSON de `data/`. Ne pas éditer à la main, voir [CONTRIBUTING](../../../CONTRIBUTING.md).*

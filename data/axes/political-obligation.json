@@ -258,7 +258,8 @@
       ],
       "doorways": [
         {
-          "axis": "RIGHTS_NATURE"
+          "axis": "RIGHTS_NATURE",
+          "problem": "unjust-law"
         }
       ],
       "title": {

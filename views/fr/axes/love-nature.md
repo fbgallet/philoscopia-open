@@ -50,6 +50,8 @@ Le cœur de l'amour n'est ni un manque à combler ni un don à sens unique : c'e
 
 > « L'ami est un autre soi-même. » — [Aristote](../philosophers/aristotle.md), Éthique à Nicomaque, IX, 4
 
+> « L'amour est la prise de conscience extrêmement difficile que quelque chose d'autre que soi est réel. » — [Murdoch](../philosophers/iris-murdoch.md), « The Sublime and the Good », Chicago Review, vol. 13, n° 3 (1959), p. 51
+
 > « La charité est une certaine amitié de l'homme avec Dieu. » — [Thomas d'Aquin](../philosophers/aquinas.md), Somme théologique, IIa-IIae, q. 23, a. 1
 
 > « Parce que c'était lui, parce que c'était moi. » — [Michel de Montaigne](../philosophers/montaigne.md), Essais, I, 28 (« De l'amitié »)

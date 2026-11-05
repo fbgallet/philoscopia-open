@@ -81,6 +81,339 @@
     "SOCIAL_IDENTITY",
     "POLITICAL_LIBERTY",
     "SELF_INTEREST",
-    "SOCIAL_CONTRACT"
+    "SOCIAL_CONTRACT",
+    "HISTORY_MEANING",
+    "DISTRIBUTIVE_JUSTICE",
+    "SELF_NATURE",
+    "REDUCTION_EMERGENCE",
+    "MORAL_RESPONSIBILITY",
+    "BELONGING"
+  ],
+  "problems": [
+    {
+      "id": "unencumbered-self",
+      "resolution": "LATENT",
+      "object": "INDIVIDUAL",
+      "objectLabel": {
+        "fr": "la personne",
+        "en": "the person"
+      },
+      "mode": "DESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        {
+          "fr": "débat libéraux-communautariens",
+          "en": "liberal–communitarian debate"
+        },
+        {
+          "fr": "moi désengagé",
+          "en": "unencumbered self"
+        },
+        {
+          "fr": "priorité du juste sur le bien",
+          "en": "priority of the right over the good"
+        },
+        {
+          "fr": "neutralité de l'État",
+          "en": "state neutrality"
+        },
+        {
+          "fr": "sphères de justice",
+          "en": "spheres of justice"
+        }
+      ],
+      "poles": [
+        "INDIVIDUALISM",
+        "HOLISM"
+      ],
+      "anchors": [
+        {
+          "name": {
+            "fr": "Rawls",
+            "en": "Rawls"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "rawls"
+        },
+        {
+          "name": {
+            "fr": "Sandel",
+            "en": "Sandel"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "sandel"
+        },
+        {
+          "name": {
+            "fr": "Walzer",
+            "en": "Walzer"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "walzer"
+        },
+        {
+          "name": {
+            "fr": "Charles Taylor",
+            "en": "Charles Taylor"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "charles-taylor"
+        },
+        {
+          "name": {
+            "fr": "MacIntyre",
+            "en": "MacIntyre"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "macintyre"
+        }
+      ],
+      "doorways": [
+        {
+          "axis": "DISTRIBUTIVE_JUSTICE",
+          "problem": "original-position"
+        },
+        {
+          "axis": "SELF_NATURE",
+          "problem": "self-made-alone"
+        }
+      ],
+      "title": {
+        "fr": "Le moi sans attaches",
+        "en": "The unencumbered self"
+      },
+      "explicitation": {
+        "fr": "Pour définir des règles justes, on peut faire abstraction de ce qui distingue chacun (sa religion, sa famille, sa culture) et chercher ce qu'accepteraient des personnes libres de toute attache. Mais une personne sans attaches existe-t-elle ? Si ce sont nos communautés qui nous donnent nos fins et notre langage moral, une justice qui prétend s'en passer parle-t-elle encore à quelqu'un ?",
+        "en": "To define fair rules, we can set aside what sets each of us apart (religion, family, culture) and ask what people free of all ties would accept. But does a person without ties exist? If it is our communities that give us our ends and our moral vocabulary, does a justice that claims to do without them still speak to anyone?"
+      }
+    },
+    {
+      "id": "explaining-a-social-fact",
+      "resolution": "LATENT",
+      "object": "STRUCTURE",
+      "objectLabel": {
+        "fr": "un fait social",
+        "en": "a social fact"
+      },
+      "mode": "DESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        {
+          "fr": "Le Suicide",
+          "en": "Suicide (Durkheim)"
+        },
+        {
+          "fr": "individualisme méthodologique",
+          "en": "methodological individualism"
+        },
+        {
+          "fr": "compréhension",
+          "en": "Verstehen"
+        }
+      ],
+      "poles": [
+        "INDIVIDUALISM",
+        "HOLISM"
+      ],
+      "anchors": [
+        {
+          "name": {
+            "fr": "Durkheim",
+            "en": "Durkheim"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "durkheim"
+        },
+        {
+          "name": {
+            "fr": "Weber",
+            "en": "Weber"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "weber"
+        }
+      ],
+      "title": {
+        "fr": "Expliquer un fait social",
+        "en": "Explaining a social fact"
+      },
+      "explicitation": {
+        "fr": "Chacun de ceux qui mettent fin à leurs jours a ses raisons, intimes et singulières. Pourtant, le taux de suicide d'un pays varie peu d'une année à l'autre, et il change avec la religion, la conjoncture ou la situation familiale. D'où vient cette régularité, si tout n'est que décisions individuelles ? Et si elle vient du tout, que deviennent les raisons de chacun ?",
+        "en": "Everyone who takes their own life has reasons, intimate and singular. Yet a country's suicide rate barely moves from one year to the next, and it shifts with religion, economic conditions or family situation. Where does that regularity come from, if everything comes down to individual decisions? And if it comes from the whole, what becomes of each person's reasons?"
+      }
+    },
+    {
+      "id": "what-nobody-intended",
+      "resolution": "LATENT",
+      "object": "RELATION",
+      "objectLabel": {
+        "fr": "l'effet d'agrégation",
+        "en": "aggregation effects"
+      },
+      "mode": "DESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        {
+          "fr": "main invisible",
+          "en": "invisible hand"
+        },
+        {
+          "fr": "fable des abeilles",
+          "en": "fable of the bees"
+        },
+        {
+          "fr": "effets pervers",
+          "en": "unintended consequences"
+        },
+        {
+          "fr": "ordre spontané",
+          "en": "spontaneous order"
+        }
+      ],
+      "poles": [
+        "INDIVIDUALISM",
+        "HOLISM"
+      ],
+      "anchors": [
+        {
+          "name": {
+            "fr": "Hayek",
+            "en": "Hayek"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "hayek"
+        },
+        {
+          "name": {
+            "fr": "Marx",
+            "en": "Marx"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "marx"
+        }
+      ],
+      "doorways": [
+        {
+          "axis": "REDUCTION_EMERGENCE"
+        }
+      ],
+      "title": {
+        "fr": "Ce que personne n'a voulu",
+        "en": "What nobody intended"
+      },
+      "explicitation": {
+        "fr": "Une langue, un marché, un embouteillage : des ordres ou des désordres que personne n'a conçus naissent de la rencontre de mille décisions. Est-ce la preuve qu'on peut tout expliquer par les individus, puisque le tout n'est que l'effet de leurs actes ? Ou la preuve que le tout a sa propre logique, qui échappe à chacun ?",
+        "en": "A language, a market, a traffic jam: orders and disorders that no one designed arise from a thousand decisions meeting. Does that prove everything can be explained by individuals, since the whole is just the effect of their acts? Or that the whole has a logic of its own, beyond anyone's grasp?"
+      }
+    },
+    {
+      "id": "fault-without-culprit",
+      "resolution": "LATENT",
+      "object": "RELATION",
+      "objectLabel": {
+        "fr": "l'action collective",
+        "en": "collective action"
+      },
+      "mode": "DESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        {
+          "fr": "responsabilité collective",
+          "en": "collective responsibility"
+        },
+        {
+          "fr": "culpabilité allemande",
+          "en": "German guilt"
+        },
+        {
+          "fr": "banalité du mal",
+          "en": "banality of evil"
+        }
+      ],
+      "poles": [
+        "INDIVIDUALISM",
+        "HOLISM"
+      ],
+      "anchors": [
+        {
+          "name": {
+            "fr": "Arendt",
+            "en": "Arendt"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "arendt"
+        }
+      ],
+      "doorways": [
+        {
+          "axis": "MORAL_RESPONSIBILITY"
+        }
+      ],
+      "title": {
+        "fr": "Une faute sans coupable ?",
+        "en": "A wrong without a culprit?"
+      },
+      "explicitation": {
+        "fr": "Quand une catastrophe naît de mille décisions anodines, ou du fonctionnement d'une institution entière, qui en répond ? Une entreprise, un État, un peuple peuvent-ils être coupables, ou seuls les individus répondent-ils de leurs actes, au risque de ne trouver personne ?",
+        "en": "When a disaster springs from a thousand trivial decisions, or from the workings of a whole institution, who answers for it? Can a company, a state, a people be guilty, or do only individuals answer for their acts, at the risk of finding no one at all?"
+      }
+    },
+    {
+      "id": "protecting-a-culture",
+      "resolution": "LATENT",
+      "object": "STRUCTURE",
+      "objectLabel": {
+        "fr": "une communauté culturelle",
+        "en": "a cultural community"
+      },
+      "mode": "PRESCRIPTIVE",
+      "sphere": "POLITICAL",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        {
+          "fr": "politique de la reconnaissance",
+          "en": "politics of recognition"
+        },
+        {
+          "fr": "droits collectifs",
+          "en": "group rights"
+        },
+        {
+          "fr": "loi 101",
+          "en": "Bill 101"
+        },
+        {
+          "fr": "multiculturalisme",
+          "en": "multiculturalism"
+        }
+      ],
+      "poles": [
+        "INDIVIDUALISM",
+        "HOLISM"
+      ],
+      "anchors": [
+        {
+          "name": {
+            "fr": "Charles Taylor",
+            "en": "Charles Taylor"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "charles-taylor"
+        }
+      ],
+      "doorways": [
+        {
+          "axis": "BELONGING"
+        }
+      ],
+      "title": {
+        "fr": "Protéger une culture contre ses membres ?",
+        "en": "Protecting a culture against its members?"
+      },
+      "explicitation": {
+        "fr": "Une communauté peut vouloir sauver sa langue en obligeant les familles à scolariser leurs enfants dans cette langue. Est-ce opprimer des individus au nom d'un tout ? Ou est-ce reconnaître que les individus n'existent qu'à travers une culture qui, sans protection, disparaîtrait ?",
+        "en": "A community may try to save its language by requiring families to school their children in it. Is that oppressing individuals in the name of a whole? Or recognizing that individuals exist only through a culture that would vanish without protection?"
+      }
+    }
   ]
 }

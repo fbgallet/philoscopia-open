@@ -1,0 +1,17 @@
+{
+  "kind": "PHILOSOPHER",
+  "stub": true,
+  "id": "hare",
+  "name": { "fr": "R. M. Hare", "en": "R. M. Hare" },
+  "summary": {
+    "fr": "Philosophe moral d'Oxford : dans <i>The Language of Morals</i> (1952), il soutient que les jugements moraux sont des prescriptions universalisables, des sortes d'impératifs, et non des descriptions du monde.",
+    "en": "Oxford moral philosopher: in <i>The Language of Morals</i> (1952), he argued that moral judgements are universalizable prescriptions, a kind of imperative, not descriptions of the world."
+  },
+  "nationality": { "fr": "Britannique", "en": "British" },
+  "birth": 1919,
+  "death": 2002,
+  "language": "eng",
+  "movements": ["analytic-philosophy"],
+  "updatedAt": "2026-11-05T00:00:00.000Z",
+  "validation": { "method": "NOT_VALIDATED" }
+}

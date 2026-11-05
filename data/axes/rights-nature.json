@@ -126,5 +126,441 @@
     "MORAL_CIRCLE",
     "MORAL_SOURCE",
     "POLITICAL_OBLIGATION"
+  ],
+  "problems": [
+    {
+      "id": "rights-of-distant-peoples",
+      "resolution": "LATENT",
+      "object": "STRUCTURE",
+      "objectLabel": {
+        "fr": "l'universalité des droits",
+        "en": "the universality of rights"
+      },
+      "mode": "DESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        {
+          "fr": "controverse de Valladolid",
+          "en": "Valladolid debate"
+        },
+        {
+          "fr": "esclavage par nature",
+          "en": "natural slavery"
+        },
+        {
+          "fr": "guerre juste",
+          "en": "just war"
+        },
+        {
+          "fr": "droit des gens",
+          "en": "law of nations"
+        },
+        {
+          "fr": "universalisme",
+          "en": "universalism"
+        }
+      ],
+      "poles": [
+        "NATURAL_RIGHTS",
+        "POLITICAL_CONSTRUCTIVISM"
+      ],
+      "anchors": [
+        {
+          "name": {
+            "fr": "Las Casas",
+            "en": "Las Casas"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "las-casas"
+        },
+        {
+          "name": {
+            "fr": "Sepúlveda",
+            "en": "Sepúlveda"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "sepulveda"
+        },
+        {
+          "name": {
+            "fr": "Vitoria",
+            "en": "Vitoria"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "vitoria"
+        },
+        {
+          "name": {
+            "fr": "Aristote",
+            "en": "Aristotle"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "aristotle"
+        },
+        {
+          "name": {
+            "fr": "La scolastique",
+            "en": "Scholasticism"
+          },
+          "kind": "MOVEMENT",
+          "slug": "scholasticism"
+        }
+      ],
+      "doorways": [
+        {
+          "axis": "MORAL_SCOPE",
+          "problem": "disagreement-of-peoples"
+        },
+        {
+          "axis": "MORAL_CIRCLE"
+        }
+      ],
+      "title": {
+        "fr": "Les droits des peuples lointains",
+        "en": "The rights of distant peoples"
+      },
+      "explicitation": {
+        "fr": "Si des droits appartiennent à tout homme par nature, ils valent aussi pour des peuples qui ignorent notre loi, notre foi et nos mœurs, et qui ont leurs propres princes. Mais qui dit ce qu'est la nature humaine ? Le même raisonnement qui protège l'étranger a servi à déclarer certains peuples faits pour obéir, et à justifier qu'on les soumette par la guerre pour leur bien.",
+        "en": "If some rights belong to every human being by nature, they hold for peoples who know nothing of our law, our faith or our customs, and who have princes of their own. But who decides what human nature is? The very reasoning that shields the stranger has been used to declare whole peoples born to obey, and to justify subjugating them by war, for their own good."
+      }
+    },
+    {
+      "id": "unjust-law",
+      "resolution": "LATENT",
+      "object": "STRUCTURE",
+      "objectLabel": {
+        "fr": "l'ordre légal",
+        "en": "the legal order"
+      },
+      "mode": "DESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        {
+          "fr": "lex iniusta non est lex",
+          "en": "lex iniusta non est lex"
+        },
+        {
+          "fr": "formule de Radbruch",
+          "en": "Radbruch formula"
+        },
+        {
+          "fr": "débat Hart-Fuller",
+          "en": "Hart–Fuller debate"
+        },
+        {
+          "fr": "procès de Nuremberg",
+          "en": "Nuremberg trials"
+        }
+      ],
+      "poles": [
+        "NATURAL_RIGHTS",
+        "LEGAL_POSITIVISM"
+      ],
+      "anchors": [
+        {
+          "name": {
+            "fr": "Thomas d'Aquin",
+            "en": "Thomas Aquinas"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "aquinas"
+        },
+        {
+          "name": {
+            "fr": "Augustin",
+            "en": "Augustine"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "augustine"
+        },
+        {
+          "name": {
+            "fr": "Bentham",
+            "en": "Bentham"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "bentham"
+        }
+      ],
+      "doorways": [
+        {
+          "axis": "POLITICAL_OBLIGATION",
+          "problem": "antigone-two-laws"
+        }
+      ],
+      "title": {
+        "fr": "La loi injuste",
+        "en": "The unjust law"
+      },
+      "explicitation": {
+        "fr": "Les juges qui ont appliqué les lois raciales d'un régime criminel appliquaient-ils le droit ? Si oui, le droit et la justice sont deux choses distinctes, et c'est hors du droit qu'il faut juger la loi. Si non, il faut dire où passe la limite au-delà de laquelle un ordre légal cesse d'en être un.",
+        "en": "Were the judges who enforced a criminal regime's racial laws applying the law? If so, law and justice are two different things, and the law must be judged from somewhere outside it. If not, we must say where the line falls beyond which a legal order stops being one."
+      }
+    },
+    {
+      "id": "rights-against-utility",
+      "resolution": "LATENT",
+      "object": "RELATION",
+      "objectLabel": {
+        "fr": "un droit face au bien commun",
+        "en": "a right against the common good"
+      },
+      "mode": "DESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        {
+          "fr": "les droits comme atouts",
+          "en": "rights as trumps"
+        },
+        {
+          "fr": "contraintes latérales",
+          "en": "side constraints"
+        },
+        {
+          "fr": "utilitarisme de la règle",
+          "en": "rule utilitarianism"
+        }
+      ],
+      "poles": [
+        "RIGHTS_UTILITY",
+        "NATURAL_RIGHTS"
+      ],
+      "anchors": [
+        {
+          "name": {
+            "fr": "Mill",
+            "en": "Mill"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "mill"
+        },
+        {
+          "name": {
+            "fr": "Bentham",
+            "en": "Bentham"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "bentham"
+        },
+        {
+          "name": {
+            "fr": "Nozick",
+            "en": "Nozick"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "nozick"
+        }
+      ],
+      "doorways": [
+        {
+          "axis": "MORAL_CIRCLE",
+          "problem": "welfare-or-rights"
+        }
+      ],
+      "title": {
+        "fr": "Les droits contre l'utilité",
+        "en": "Rights against utility"
+      },
+      "explicitation": {
+        "fr": "Si l'on protège les droits parce que les respecter rend tout le monde plus heureux, que faire le jour où les violer servirait davantage ? Un droit qui cède dès que le calcul s'inverse est-il encore un droit ? Et un droit qui ne cède jamais peut-il se justifier par ses seuls bienfaits ?",
+        "en": "If we protect rights because respecting them makes everyone better off, what happens the day violating them would serve us better? Is a right that gives way as soon as the sums tip the other way still a right? And can a right that never gives way be justified by its benefits alone?"
+      }
+    },
+    {
+      "id": "property-before-law",
+      "resolution": "LATENT",
+      "object": "RELATION",
+      "objectLabel": {
+        "fr": "l'appropriation",
+        "en": "appropriation"
+      },
+      "mode": "DESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        {
+          "fr": "appropriation par le travail",
+          "en": "appropriation through labour"
+        },
+        {
+          "fr": "premier occupant",
+          "en": "first occupancy"
+        },
+        {
+          "fr": "« le premier qui, ayant enclos un terrain… »",
+          "en": "\"the first man who, having enclosed a piece of ground…\""
+        },
+        {
+          "fr": "justice, vertu artificielle",
+          "en": "justice as an artificial virtue"
+        }
+      ],
+      "poles": [
+        "NATURAL_RIGHTS",
+        "LEGAL_POSITIVISM"
+      ],
+      "anchors": [
+        {
+          "name": {
+            "fr": "Locke",
+            "en": "Locke"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "locke"
+        },
+        {
+          "name": {
+            "fr": "Rousseau",
+            "en": "Rousseau"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "rousseau"
+        },
+        {
+          "name": {
+            "fr": "Hume",
+            "en": "Hume"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "hume"
+        },
+        {
+          "name": {
+            "fr": "Bentham",
+            "en": "Bentham"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "bentham"
+        }
+      ],
+      "doorways": [
+        {
+          "axis": "DISTRIBUTIVE_JUSTICE",
+          "problem": "self-ownership"
+        }
+      ],
+      "title": {
+        "fr": "La propriété avant la loi ?",
+        "en": "Property before law?"
+      },
+      "explicitation": {
+        "fr": "Par quel titre une terre qui n'était à personne devient-elle mienne ? Est-ce parce que je l'ai travaillée, auquel cas elle m'appartient avant toute loi et l'État qui la taxe me prend mon dû ? Ou bien n'y a-t-il de « mien » que là où des lois et des tribunaux le garantissent, si bien que la société peut redéfinir ce qu'elle a créé ?",
+        "en": "By what title does land that belonged to no one become mine? Because I worked it, so that it is mine before any law and a state that taxes it takes what I am owed? Or is there a \"mine\" only where laws and courts uphold it, so that society may redefine what it created?"
+      }
+    },
+    {
+      "id": "rights-without-a-state",
+      "resolution": "LATENT",
+      "object": "INDIVIDUAL",
+      "objectLabel": {
+        "fr": "l'apatride",
+        "en": "the stateless person"
+      },
+      "mode": "DESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        {
+          "fr": "le droit d'avoir des droits",
+          "en": "the right to have rights"
+        },
+        {
+          "fr": "« non-sens sur échasses »",
+          "en": "\"nonsense upon stilts\""
+        },
+        {
+          "fr": "apatridie",
+          "en": "statelessness"
+        }
+      ],
+      "poles": [
+        "NATURAL_RIGHTS",
+        "LEGAL_POSITIVISM"
+      ],
+      "anchors": [
+        {
+          "name": {
+            "fr": "Arendt",
+            "en": "Arendt"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "arendt"
+        },
+        {
+          "name": {
+            "fr": "Bentham",
+            "en": "Bentham"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "bentham"
+        }
+      ],
+      "title": {
+        "fr": "Des droits sans État",
+        "en": "Rights without a state"
+      },
+      "explicitation": {
+        "fr": "Le réfugié privé de toute nationalité devrait être le porteur par excellence des droits de l'homme, puisqu'il ne lui reste que son humanité. C'est pourtant lui qui découvre qu'aucun tribunal ne les lui reconnaît. Ses droits existent-ils encore, simplement bafoués, ou n'ont-ils jamais existé sans une communauté pour les garantir ?",
+        "en": "A refugee stripped of every nationality ought to be the human-rights bearer par excellence, since nothing is left to them but their humanity. Yet they are the very person who finds that no court will recognize those rights. Do their rights still exist, merely trampled on, or did they never exist without a community to guarantee them?"
+      }
+    },
+    {
+      "id": "what-a-vote-cannot-undo",
+      "resolution": "LATENT",
+      "object": "STRUCTURE",
+      "objectLabel": {
+        "fr": "la délibération",
+        "en": "deliberation"
+      },
+      "mode": "DESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        {
+          "fr": "co-originarité",
+          "en": "co-originality"
+        },
+        {
+          "fr": "tyrannie de la majorité",
+          "en": "tyranny of the majority"
+        },
+        {
+          "fr": "contrôle de constitutionnalité",
+          "en": "judicial review"
+        }
+      ],
+      "poles": [
+        "POLITICAL_CONSTRUCTIVISM",
+        "LEGAL_POSITIVISM"
+      ],
+      "anchors": [
+        {
+          "name": {
+            "fr": "Rawls",
+            "en": "Rawls"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "rawls"
+        },
+        {
+          "name": {
+            "fr": "Habermas",
+            "en": "Habermas"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "habermas"
+        }
+      ],
+      "doorways": [
+        {
+          "axis": "SOCIAL_CONTRACT"
+        }
+      ],
+      "title": {
+        "fr": "Ce qu'un vote ne peut retirer",
+        "en": "What no vote can take away"
+      },
+      "explicitation": {
+        "fr": "Si les droits sont ce que des citoyens libres et égaux s'accordent à se reconnaître, une majorité régulièrement consultée pourrait-elle en abolir un ? Ou certains droits, comme s'exprimer, voter ou ne pas être persécuté, sont-ils les conditions mêmes d'un accord véritable, qu'aucun accord ne peut donc défaire ?",
+        "en": "If rights are what free and equal citizens agree to grant one another, could a duly consulted majority abolish one of them? Or are some rights, to speak, to vote, not to be persecuted, the very conditions of genuine agreement, which no agreement can therefore undo?"
+      }
+    }
   ]
 }

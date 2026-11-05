@@ -124,7 +124,8 @@
     "DEATH",
     "BEING_BECOMING",
     "AFTERLIFE",
-    "CONSCIOUSNESS_NATURE"
+    "CONSCIOUSNESS_NATURE",
+    "INDIVIDUAL_SOCIETY"
   ],
   "problems": [
     {
@@ -353,7 +354,8 @@
       ],
       "doorways": [
         {
-          "axis": "SOCIAL_IDENTITY"
+          "axis": "SOCIAL_IDENTITY",
+          "problem": "named-by-others"
         }
       ],
       "title": {

@@ -1,0 +1,12 @@
+{
+  "id": "sea-the-sea-murdoch",
+  "title": { "fr": "La Mer, la mer", "en": "The Sea, the Sea" },
+  "originalTitle": "The Sea, the Sea",
+  "author": { "slug": "iris-murdoch", "name": { "fr": "Iris Murdoch", "en": "Iris Murdoch" } },
+  "year": 1978,
+  "presentation": {
+    "fr": "Roman couronné par le Booker Prize. Un metteur en scène retiré au bord de la mer tient son journal et s'enferme dans le souvenir d'un amour de jeunesse : le livre met en scène la force du fantasme qui empêche de voir les autres tels qu'ils sont.",
+    "en": "A Booker Prize-winning novel. A retired theatre director keeps a journal by the sea and shuts himself up in the memory of a youthful love: the book stages the power of fantasy that keeps us from seeing others as they are."
+  },
+  "updatedAt": "2026-11-05T00:00:00.000Z"
+}

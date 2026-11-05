@@ -1,0 +1,11 @@
+{
+  "id": "attention",
+  "term": { "fr": "Attention", "en": "Attention" },
+  "definition": {
+    "fr": "Au sens courant, la capacité de concentrer son esprit sur un objet. Le mot prend un sens moral chez <ph id='simone-weil'>Simone Weil</ph> : l'attention est une attente, une manière de suspendre sa pensée pour laisser l'objet, ou le malheureux, se montrer tel qu'il est ; elle en fait la substance de la prière et de l'amour du prochain. <ph id='iris-murdoch'>Iris Murdoch</ph> reprend le terme en le laïcisant : l'attention est le regard juste et aimant posé sur une réalité individuelle, l'activité caractéristique de l'agent moral, qui prépare les choix bien avant qu'ils se présentent.",
+    "en": "In the ordinary sense, the capacity to focus one's mind on an object. The word takes on a moral sense in <ph id='simone-weil'>Simone Weil</ph>: attention is a waiting, a way of suspending one's thought so as to let the object, or the person in affliction, appear as it is; she makes it the substance of prayer and of love of neighbour. <ph id='iris-murdoch'>Iris Murdoch</ph> takes up the term and secularizes it: attention is a just and loving gaze directed on an individual reality, the characteristic activity of the moral agent, which prepares choices long before they arise."
+  },
+  "relatedAxes": ["INTERIORITY", "ATTENTION", "TRUTH_VALUE"],
+  "relatedTerms": ["unselfing", "fantasy"],
+  "updatedAt": "2026-11-05T00:00:00.000Z"
+}

@@ -381,7 +381,40 @@
       "explicitation": {
         "fr": "Les vivants ont-ils le droit de réécrire ce que les morts ont bâti, « la terre appartient aux vivants », ou sommes-nous les dépositaires d'un legs que nous devons transmettre aux générations à venir ?",
         "en": "Do the living have the right to rewrite what the dead built, \"the earth belongs to the living\", or are we the trustees of a legacy we must hand on to the generations to come?"
-      }
+      },
+      "episodes": [
+        {
+          "id": "revolution-controversy",
+          "name": {
+            "fr": "La controverse sur la Révolution française",
+            "en": "The Revolution controversy"
+          },
+          "from": 1789,
+          "to": 1791,
+          "participants": [
+            {
+              "kind": "PHILOSOPHER",
+              "slug": "richard-price"
+            },
+            {
+              "kind": "PHILOSOPHER",
+              "slug": "burke"
+            },
+            {
+              "kind": "PHILOSOPHER",
+              "slug": "wollstonecraft"
+            },
+            {
+              "kind": "PHILOSOPHER",
+              "slug": "paine"
+            }
+          ],
+          "note": {
+            "fr": "Le sermon de <ph id='richard-price'>Richard Price</ph> (1789), qui salue la Révolution, provoque les <i>Réflexions</i> de <ph id='burke'>Burke</ph> (1790). <ph id='wollstonecraft'>Wollstonecraft</ph> lui répond la même année, puis <ph id='paine'>Paine</ph> avec les <i>Droits de l'homme</i> (1791). Le cœur de la dispute : une génération peut-elle lier celles qui la suivent, ou chacune a-t-elle le droit de refaire ses institutions ?",
+            "en": "<ph id='richard-price'>Richard Price</ph>'s sermon (1789), hailing the Revolution, provoked <ph id='burke'>Burke</ph>'s <i>Reflections</i> (1790). <ph id='wollstonecraft'>Wollstonecraft</ph> answered him the same year, then <ph id='paine'>Paine</ph> with the <i>Rights of Man</i> (1791). The heart of the dispute: can one generation bind those that follow it, or does each have the right to remake its institutions?"
+          }
+        }
+      ]
     },
     {
       "id": "idea-of-progress",
@@ -427,7 +460,8 @@
       ],
       "doorways": [
         {
-          "axis": "HISTORY_MEANING"
+          "axis": "HISTORY_MEANING",
+          "problem": "moral-progress"
         }
       ],
       "title": {

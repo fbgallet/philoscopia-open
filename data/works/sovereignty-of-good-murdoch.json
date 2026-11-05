@@ -1,0 +1,12 @@
+{
+  "id": "sovereignty-of-good-murdoch",
+  "title": { "fr": "La Souveraineté du bien", "en": "The Sovereignty of Good" },
+  "originalTitle": "The Sovereignty of Good",
+  "author": { "slug": "iris-murdoch", "name": { "fr": "Iris Murdoch", "en": "Iris Murdoch" } },
+  "year": 1970,
+  "presentation": {
+    "fr": "Recueil de trois essais : « L'idée de perfection » (1964), « Sur “Dieu” et “Bien” » (1969) et « La souveraineté du bien sur les autres concepts » (1967). <ph id='iris-murdoch'>Murdoch</ph> y oppose à la philosophie morale d'Oxford, centrée sur le choix, une morale de l'attention et un Bien d'inspiration platonicienne.",
+    "en": "A collection of three essays: \"The Idea of Perfection\" (1964), \"On 'God' and 'Good'\" (1969) and \"The Sovereignty of Good over Other Concepts\" (1967). Against Oxford moral philosophy and its focus on choice, <ph id='iris-murdoch'>Murdoch</ph> sets out an ethics of attention and a Platonic-inspired Good."
+  },
+  "updatedAt": "2026-11-05T00:00:00.000Z"
+}

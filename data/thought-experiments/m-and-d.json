@@ -1,0 +1,62 @@
+{
+  "id": "m-and-d",
+  "title": { "fr": "La belle-mère et sa belle-fille", "en": "The mother-in-law and her daughter-in-law" },
+  "description": {
+    "fr": "Une femme, M, éprouve de l'hostilité envers sa belle-fille, D. Elle la trouve vulgaire, sans manières, un peu insolente, et pense que son fils a fait un mauvais mariage. Envers D, pourtant, M se montre toujours irréprochable : rien dans sa conduite ne trahit ce qu'elle pense. Avec le temps, M se dit qu'elle est peut-être snob, jalouse, enfermée dans ses préjugés, et elle s'oblige à porter sur D une <c id='attention'>attention</c> patiente. Peu à peu, D ne lui paraît plus vulgaire mais simple et franche, et ce qu'elle prenait pour de l'insolence lui apparaît comme une gaieté spontanée. Rien ne s'est passé au dehors : D a pu partir vivre à l'étranger, ou même mourir entre-temps.",
+    "en": "A woman, M, feels hostility toward her daughter-in-law, D. She finds her vulgar, unpolished, rather insolent, and thinks her son has made a poor marriage. Yet M always behaves perfectly toward D: nothing in her conduct betrays what she thinks. Over time M tells herself that she may be snobbish, jealous, trapped in her prejudices, and she makes herself pay patient <c id='attention'>attention</c> to D. Little by little D no longer seems vulgar to her but simple and frank, no longer insolent but spontaneous and cheerful. Nothing has happened outwardly: D may have gone to live abroad, or even died, in the meantime."
+  },
+  "source": {
+    "author": { "fr": "Iris Murdoch", "en": "Iris Murdoch" },
+    "work": { "fr": "« L'idée de perfection » (1964), repris dans La Souveraineté du bien (1970)", "en": "\"The Idea of Perfection\" (1964), reprinted in The Sovereignty of Good (1970)" },
+    "year": 1964
+  },
+  "question": {
+    "fr": "Quelque chose de moral s'est-il passé dans l'esprit de M, alors que rien n'a changé dans ses actes ?",
+    "en": "Has something moral happened in M's mind, even though nothing has changed in her actions?"
+  },
+  "axisIds": ["INTERIORITY"],
+  "roles": [
+    {
+      "role": "OBJECTS",
+      "position": { "axisId": "INTERIORITY", "poleId": "PRIMACY_OF_ACTION" },
+      "attacks": "POSITION",
+      "summary": {
+        "fr": "Un progrès moral peut se produire sans aucun acte qui le manifeste.",
+        "en": "Moral progress can occur without any act that shows it."
+      },
+      "reconstruction": {
+        "development": [
+          { "fr": "Si la vie morale se réduisait aux actes observables, le changement de M serait moralement nul, puisque sa conduite envers D reste identique.", "en": "If the moral life came down to observable acts, M's change would have no moral significance, since her conduct toward D stays the same." },
+          { "fr": "Or nous jugeons que M a fait un progrès moral réel : elle est devenue plus juste envers D.", "en": "Yet we judge that M has made real moral progress: she has become more just toward D." },
+          { "fr": "Ce progrès ne tient pas à une appréciation plus flatteuse, mais à une attention moins déformée par la jalousie et les préjugés : M voit D plus exactement.", "en": "This progress does not lie in a more flattering opinion but in an attention less distorted by jealousy and prejudice: M sees D more accurately." }
+        ],
+        "conclusion": {
+          "fr": "La vie morale ne se réduit donc pas aux actes : elle comprend un travail intérieur du regard.",
+          "en": "So the moral life does not come down to acts: it includes the inner work of attention."
+        }
+      },
+      "responses": [
+        {
+          "id": "vision-is-moral",
+          "label": { "fr": "Je l'accorde : le regard que l'on porte sur les autres est déjà moral.", "en": "I grant it: the way we look at others is already moral." },
+          "hints": [{ "axisId": "INTERIORITY", "value": { "kind": "scalar", "value": -0.6 } }]
+        },
+        {
+          "id": "prepares-acts",
+          "label": { "fr": "Ce changement ne compte que parce qu'il préparera d'autres actes.", "en": "The change counts only because it will shape how she acts later." },
+          "hints": [{ "axisId": "INTERIORITY", "value": { "kind": "scalar", "value": 0 } }],
+          "discussion": {
+            "fr": "Une lecture centrée sur l'action peut répondre que M a changé ses dispositions à agir. C'est contre cette image de l'agent, celle de <ph id='stuart-hampshire'>Hampshire</ph> dans <i>Thought and Action</i> (1959), que <ph id='iris-murdoch'>Murdoch</ph> construit l'exemple : la conduite de M envers D reste identique du début à la fin, et D peut même être partie ou morte. <dif>Si le changement compte, c'est d'abord comme changement de regard.</dif>",
+            "en": "An action-centred reading can reply that M has changed her dispositions to act. It is against this picture of the agent, <ph id='stuart-hampshire'>Hampshire</ph>'s in <i>Thought and Action</i> (1959), that <ph id='iris-murdoch'>Murdoch</ph> builds the example: M's conduct toward D stays the same from start to finish, and D may even have left or died. <dif>If the change counts, it counts first as a change of vision.</dif>"
+          }
+        },
+        {
+          "id": "only-acts-count",
+          "label": { "fr": "Ce qui ne se traduit jamais en actes n'a pas de poids moral.", "en": "What never shows in action carries no moral weight." },
+          "hints": [{ "axisId": "INTERIORITY", "value": { "kind": "scalar", "value": 0.6 } }]
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2026-11-05T00:00:00.000Z"
+}

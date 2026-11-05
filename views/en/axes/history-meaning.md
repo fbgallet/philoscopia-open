@@ -22,6 +22,15 @@ History has neither plan nor destination: it results from human actions with unf
 
 *[Popper](../philosophers/popper.md) · Aron*
 
+## Live problems
+
+- **Surpassing the Ancients** : We see further than the Ancients, since we inherit everything they discovered: in astronomy or physics, progress seems self-evident. But does a modern poet write better than Homer? If the sciences advance while the arts merely change, does history progress, or only some of its threads?
+- **Moral progress** : Slavery abolished, torture condemned, the circle of those we respect widened: is humanity becoming better? Yet the century that proclaimed human rights everywhere also built death camps with the most modern means. Is moral progress real, or so fragile that it can collapse within a generation?
+- **Foreseeing history** : If history obeys laws, we should be able to predict it, the way an astronomer announces an eclipse. But the course of events depends on what people will know tomorrow, and what we will know tomorrow cannot be known today. Is a science of history possible, or do we only ever understand after the fact?
+- **Small causes** : A cold, a delay, a bullet that misses: does history turn on details, or do such accidents only hasten what deeper forces would have brought about anyway? And do great men make history, or are they merely its instruments?
+- **The price of progress** : If history moves toward the better, past wars and suffering become necessary stages, almost justified by what they made possible. Could one say as much to the defeated? Is seeing a direction in history a way of understanding the past, or of cheaply reconciling it with everything it crushed?
+- **Cycles, or an end?** : The Greeks often saw regimes rise, decay and return: a necessary order, but without progress. Christian and then modern thought stretched history toward an end point. If history has a direction, does it also have an end, a moment when nothing essential is left to win? And what would there still be to do?
+
 ## Grounding relations
 
 - *[The meaning of history](../axes/history-meaning.md) : Directional meaning* grounds *[Tradition and transformation](../axes/conservatism-progressism.md) : Progressivism* : If history follows a march toward more reason and freedom, then inherited injustices are not a sacred order but stages to be surpassed. The directional meaning of history grounds progressivism: from Condorcet to [Marx](../philosophers/marx.md), to understand the movement of history is to give oneself the means to hasten it.
@@ -37,7 +46,7 @@ History has neither plan nor destination: it results from human actions with unf
 
 ## Related axes
 
-[Tradition and transformation](../axes/conservatism-progressism.md) · [Relation to technology](../axes/technology.md) · [The point of philosophy](../axes/metaphilosophy.md)
+[Tradition and transformation](../axes/conservatism-progressism.md) · [Relation to technology](../axes/technology.md) · [The point of philosophy](../axes/metaphilosophy.md) · [Individual and society](../axes/individual-society.md) · [The problem of evil](../axes/problem-of-evil.md)
 
 ---
 

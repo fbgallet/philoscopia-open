@@ -14,7 +14,7 @@ If our conduct stems from our nature, it changes only with difficulty and some d
 
 Human beings are first of all natural beings: their behaviors, desires, and even institutions are rooted in a biological history and in drives shared by the species. Culture merely modulates a natural foundation that precedes it.
 
-*Darwin · [Freud](../philosophers/freud.md)*
+*[Darwin](../philosophers/darwin.md) · [Freud](../philosophers/freud.md)*
 
 ### Culturalism
 

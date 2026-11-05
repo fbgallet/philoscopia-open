@@ -1,0 +1,16 @@
+{
+  "id": "freud-to-iris-murdoch",
+  "from": { "kind": "PHILOSOPHER", "slug": "freud" },
+  "to": { "kind": "PHILOSOPHER", "slug": "iris-murdoch" },
+  "directness": "ATTESTED",
+  "mode": "REINTERPRETS",
+  "strength": "MEDIUM",
+  "note": {
+    "fr": "<ph id='iris-murdoch'>Murdoch</ph> retient de <ph id='freud'>Freud</ph> une description qu'elle juge réaliste de la psyché, égocentrique et mue par une énergie qu'elle ne maîtrise pas ; elle y voit le point de départ de la tâche morale, pas une explication de la morale.",
+    "en": "<ph id='iris-murdoch'>Murdoch</ph> takes from <ph id='freud'>Freud</ph> what she considers a realistic description of the psyche, egocentric and driven by an energy it does not master; she sees it as the starting point of the moral task, not as an explanation of morality."
+  },
+  "sources": [
+    { "fr": "Murdoch, La Souveraineté du bien, « Sur “Dieu” et “Bien” »", "en": "Murdoch, The Sovereignty of Good, \"On 'God' and 'Good'\"" }
+  ],
+  "updatedAt": "2026-11-05T00:00:00.000Z"
+}

@@ -24,7 +24,16 @@ These categories are not natural givens but contingent products of history, cult
 
 These categories are neither natural nor mere ideas that thought could dissolve: socially produced, they are nonetheless objectively real, embedded in institutions, material relations and hierarchies. Class is a relation to production, race a social position with very concrete effects.
 
-*[Marx](../philosophers/marx.md) · Haslanger*
+*[Marx](../philosophers/marx.md) · [Haslanger](../philosophers/haslanger.md)*
+
+## Live problems
+
+- **What passes for nature** : For centuries women were judged less fit for learning and government, and the facts seemed to bear it out: they knew less, they governed less. But they had been kept out of the schools and the offices. How can we tell what is owed to nature when education and circumstance have shaped everything in advance? And as long as we cannot tell, who bears the burden of proof?
+- **What if the difference were natural?** : Suppose some difference between groups is partly natural. Does it follow that their members should be treated differently? Does a difference on average tell us anything about the particular person standing in front of us?
+- **Three categories, one logic?** : Class is defined by a place in the economy. Sex rests on a biological difference. Race rests on traits that biology does not turn into separate kinds. Can the three be thought of in the same way, or does each blend nature and history in different proportions, so that no single answer fits them all?
+- **Sex beneath gender** : Separating sex, given by biology, from gender, built by society, seemed to give each its due. But are what we count as biological, and the very line between two sexes, not already carved out by our categories? If no natural bedrock is left, what do we rely on to say what a woman is?
+- **Self-declared or assigned** : Do we belong to a category because we recognize ourselves in it, or because others file us under it and treat us accordingly? If it is other people's gaze that makes someone a member of the group, is declaring oneself otherwise enough to leave it?
+- **Abolish the category, or use it?** : To measure discrimination you have to count those who suffer it, and so name them by the very category you are fighting. Is refusing to name race or gender a way of finishing with them, or of hiding the harms they go on producing?
 
 ## Grounding relations
 
@@ -38,7 +47,7 @@ These categories are neither natural nor mere ideas that thought could dissolve:
 
 ## Related axes
 
-[Nature and culture](../axes/human-nature.md) · [Individual and society](../axes/individual-society.md) · [Essence and existence](../axes/essence.md)
+[Nature and culture](../axes/human-nature.md) · [Individual and society](../axes/individual-society.md) · [Essence and existence](../axes/essence.md) · [Nature of the self](../axes/self-nature.md)
 
 ---
 

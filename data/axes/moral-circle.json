@@ -517,7 +517,8 @@
       ],
       "doorways": [
         {
-          "axis": "RIGHTS_NATURE"
+          "axis": "RIGHTS_NATURE",
+          "problem": "rights-against-utility"
         }
       ],
       "title": {

@@ -14,7 +14,7 @@ Privilégier les siens donne des racines mais peut fermer la porte à l'étrange
 
 [Nous ne sommes pas des individus abstraits](../axes/individual-society.md) : notre identité et nos attachements naissent des communautés concrètes qui nous ont formés, famille, nation, culture. La loyauté envers les siens n'est pas un préjugé, mais une vertu et la source réelle de la solidarité.
 
-*MacIntyre · [Walzer](../philosophers/walzer.md)*
+*[MacIntyre](../philosophers/macintyre.md) · [Walzer](../philosophers/walzer.md)*
 
 ### Cosmopolitisme
 
@@ -44,7 +44,7 @@ Nous sommes d'abord citoyens du monde : [la dignité humaine ne s'arrête pas au
 
 ## Axes liés
 
-[Partialité](../axes/partiality.md) · [Origine du lien social](../axes/social-contract.md) · [Souverain bien](../axes/sovereign-good.md)
+[Partialité](../axes/partiality.md) · [Origine du lien social](../axes/social-contract.md) · [Souverain bien](../axes/sovereign-good.md) · [Individu et société](../axes/individual-society.md)
 
 ---
 

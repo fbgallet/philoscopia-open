@@ -1,0 +1,25 @@
+{
+  "kind": "PHILOSOPHER",
+  "stub": true,
+  "id": "richard-price",
+  "name": {
+    "fr": "Richard Price",
+    "en": "Richard Price"
+  },
+  "summary": {
+    "fr": "Pasteur dissident et moraliste gallois, défenseur des révolutions américaine et française au nom des droits naturels ; son sermon de 1789 déclenche la réponse de <ph id='burke'>Burke</ph>.",
+    "en": "A Welsh Dissenting minister and moralist, defender of the American and French revolutions in the name of natural rights; his 1789 sermon triggered <ph id='burke'>Burke</ph>'s reply."
+  },
+  "nationality": {
+    "fr": "Gallois",
+    "en": "Welsh"
+  },
+  "birth": 1723,
+  "death": 1791,
+  "language": "eng",
+  "movements": [],
+  "updatedAt": "2026-11-05T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

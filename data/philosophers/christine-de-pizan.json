@@ -1,0 +1,25 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "christine-de-pizan",
+  "stub": true,
+  "name": {
+    "fr": "Christine de Pizan",
+    "en": "Christine de Pizan"
+  },
+  "summary": {
+    "fr": "Première femme de lettres à vivre de sa plume en France, elle ouvrit la querelle des femmes en réfutant la misogynie des clercs dans <w>La Cité des dames</w>.",
+    "en": "The first woman of letters in France to live by her pen, she opened the querelle des femmes by refuting the misogyny of the clerics in <w>The Book of the City of Ladies</w>."
+  },
+  "birth": 1364,
+  "death": 1431,
+  "nationality": {
+    "fr": "Française",
+    "en": "French"
+  },
+  "language": "fra",
+  "movements": [],
+  "updatedAt": "2026-11-05T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

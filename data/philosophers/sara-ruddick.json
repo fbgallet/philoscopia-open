@@ -1,0 +1,17 @@
+{
+  "kind": "PHILOSOPHER",
+  "stub": true,
+  "id": "sara-ruddick",
+  "name": { "fr": "Sara Ruddick", "en": "Sara Ruddick" },
+  "summary": {
+    "fr": "Philosophe américaine, figure de l'éthique du care : dans <i>Maternal Thinking</i> (1989), elle dégage de la pratique du soin une forme de pensée propre, dont l'« amour attentif », repris de Simone Weil et d'Iris Murdoch.",
+    "en": "American philosopher and a figure of care ethics: in <i>Maternal Thinking</i> (1989), she draws from the practice of caring a distinctive form of thought, including \"attentive love\", taken from Simone Weil and Iris Murdoch."
+  },
+  "nationality": { "fr": "Américaine", "en": "American" },
+  "birth": 1935,
+  "death": 2011,
+  "language": "eng",
+  "movements": ["feminist-philosophy"],
+  "updatedAt": "2026-11-05T00:00:00.000Z",
+  "validation": { "method": "NOT_VALIDATED" }
+}

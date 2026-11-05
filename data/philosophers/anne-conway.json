@@ -1,0 +1,25 @@
+{
+  "kind": "PHILOSOPHER",
+  "stub": true,
+  "id": "anne-conway",
+  "name": {
+    "fr": "Anne Conway",
+    "en": "Anne Conway"
+  },
+  "summary": {
+    "fr": "Philosophe anglaise liée aux platoniciens de Cambridge, elle conçoit un monde de substances vivantes, contre le dualisme de <ph id='descartes'>Descartes</ph> et le matérialisme de <ph id='hobbes'>Hobbes</ph>. <ph id='leibniz'>Leibniz</ph> fit l'éloge de son traité.",
+    "en": "An English philosopher close to the Cambridge Platonists, she conceives a world of living substances, against the dualism of <ph id='descartes'>Descartes</ph> and the materialism of <ph id='hobbes'>Hobbes</ph>. <ph id='leibniz'>Leibniz</ph> praised her treatise."
+  },
+  "nationality": {
+    "fr": "Anglaise",
+    "en": "English"
+  },
+  "birth": 1631,
+  "death": 1679,
+  "language": "lat",
+  "movements": [],
+  "updatedAt": "2026-11-05T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

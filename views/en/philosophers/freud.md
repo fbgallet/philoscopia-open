@@ -15,6 +15,7 @@ Founder of psychoanalysis, who held that the self is not master in its own house
 ## Influence on
 
 - **[Frankfurt School](../movements/frankfurt-school.md)** (synthesizes) : From the 1930s the Frankfurt Institute combined psychoanalysis with social critique to understand why the masses consent to their domination. In Eros and Civilization, [Marcuse](../philosophers/marcuse.md) drew from it a reading of [Freud](../philosophers/freud.md) in which the repression of drives becomes a historical fact.
+- **[Murdoch](../philosophers/iris-murdoch.md)** (reinterprets) : [Murdoch](../philosophers/iris-murdoch.md) takes from [Freud](../philosophers/freud.md) what she considers a realistic description of the psyche, egocentric and driven by an energy it does not master; she sees it as the starting point of the moral task, not as an explanation of morality.
 
 ---
 

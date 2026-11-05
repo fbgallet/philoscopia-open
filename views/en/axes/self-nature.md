@@ -69,7 +69,7 @@ There is no permanent self: only a bundle of perceptions, thoughts and sensation
 
 ## Related axes
 
-[Being or having a body](../axes/embodiment.md) · [Essence and existence](../axes/essence.md) · [Freedom of the will](../axes/freedom.md) · [Social identity](../axes/social-identity.md) · [Death](../axes/death.md) · [Being and becoming](../axes/being-becoming.md) · [After death](../axes/afterlife.md) · [The enigma of consciousness](../axes/consciousness-nature.md)
+[Being or having a body](../axes/embodiment.md) · [Essence and existence](../axes/essence.md) · [Freedom of the will](../axes/freedom.md) · [Social identity](../axes/social-identity.md) · [Death](../axes/death.md) · [Being and becoming](../axes/being-becoming.md) · [After death](../axes/afterlife.md) · [The enigma of consciousness](../axes/consciousness-nature.md) · [Individual and society](../axes/individual-society.md)
 
 ---
 

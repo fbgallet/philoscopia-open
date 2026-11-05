@@ -1,0 +1,25 @@
+{
+  "kind": "PHILOSOPHER",
+  "stub": true,
+  "id": "philippa-foot",
+  "name": {
+    "fr": "Philippa Foot",
+    "en": "Philippa Foot"
+  },
+  "summary": {
+    "fr": "Elle invente le dilemme du tramway (1967) et fonde la morale sur ce qui est bon pour des vivants de notre espèce, comme on dit qu'une plante a besoin d'eau ; elle prend part au renouveau de l'éthique des vertus.",
+    "en": "She invented the trolley problem (1967) and grounds morality in what is good for living beings of our species, as one says a plant needs water; she took part in the revival of virtue ethics."
+  },
+  "nationality": {
+    "fr": "Britannique",
+    "en": "British"
+  },
+  "birth": 1920,
+  "death": 2010,
+  "language": "eng",
+  "movements": [],
+  "updatedAt": "2026-11-05T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

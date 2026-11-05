@@ -1,0 +1,13 @@
+{
+  "id": "fantasy",
+  "term": { "fr": "Fantasme (chez Murdoch)", "en": "Fantasy (in Murdoch)" },
+  "definition": {
+    "fr": "Chez <ph id='iris-murdoch'>Iris Murdoch</ph>, l'activité par laquelle le moi produit des images consolantes ou flatteuses du monde et des autres, pour se protéger de ce qui est. Elle l'oppose à l'imagination, qui sert au contraire à voir le réel plus justement. Le fantasme est pour elle le principal ennemi de la vie morale, plus que la mauvaise volonté, et le critère qui sépare l'art médiocre, qui console, du grand art, qui montre.",
+    "en": "For <ph id='iris-murdoch'>Iris Murdoch</ph>, the activity by which the self produces consoling or flattering images of the world and of others to protect itself from what is. She contrasts it with imagination, which on the contrary serves to see reality more justly. Fantasy is for her the chief enemy of the moral life, more than ill will, and the criterion that separates mediocre art, which consoles, from great art, which reveals."
+  },
+  "relatedAxes": ["TRUTH_VALUE", "ART_PURPOSE", "HUMAN_VISION"],
+  "relatedTerms": ["attention", "unselfing"],
+  "figure": { "slug": "iris-murdoch", "name": { "fr": "Murdoch", "en": "Murdoch" } },
+  "positions": [{ "axisId": "TRUTH_VALUE", "poleId": "PRIMACY_OF_TRUTH" }],
+  "updatedAt": "2026-11-05T00:00:00.000Z"
+}

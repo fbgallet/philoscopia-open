@@ -31,11 +31,17 @@
       "figures": [
         {
           "slug": "plato",
-          "name": { "fr": "Platon", "en": "Plato" }
+          "name": {
+            "fr": "Platon",
+            "en": "Plato"
+          }
         },
         {
           "slug": "aristotle",
-          "name": { "fr": "Aristote", "en": "Aristotle" }
+          "name": {
+            "fr": "Aristote",
+            "en": "Aristotle"
+          }
         }
       ],
       "nuances": [
@@ -59,7 +65,10 @@
       "figures": [
         {
           "slug": "ockham",
-          "name": { "fr": "Occam", "en": "Ockham" }
+          "name": {
+            "fr": "Occam",
+            "en": "Ockham"
+          }
         }
       ],
       "nuances": [
@@ -85,5 +94,403 @@
     "ESSENCE",
     "REALITY_NATURE",
     "BEING_BECOMING"
+  ],
+  "problems": [
+    {
+      "id": "genera-and-species",
+      "resolution": "LATENT",
+      "object": "STRUCTURE",
+      "objectLabel": {
+        "fr": "les genres et les espèces",
+        "en": "genera and species"
+      },
+      "mode": "DESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        {
+          "fr": "questions de Porphyre",
+          "en": "Porphyry's questions"
+        },
+        {
+          "fr": "flatus vocis",
+          "en": "flatus vocis"
+        },
+        {
+          "fr": "sermo",
+          "en": "sermo"
+        },
+        {
+          "fr": "abstraction",
+          "en": "abstraction"
+        },
+        {
+          "fr": "nature commune",
+          "en": "common nature"
+        }
+      ],
+      "poles": [
+        "REALISM",
+        "NOMINALISM"
+      ],
+      "anchors": [
+        {
+          "name": {
+            "fr": "Porphyre",
+            "en": "Porphyry"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "porphyry"
+        },
+        {
+          "name": {
+            "fr": "Boèce",
+            "en": "Boethius"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "boethius"
+        },
+        {
+          "name": {
+            "fr": "Abélard",
+            "en": "Abelard"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "abelard"
+        },
+        {
+          "name": {
+            "fr": "Thomas d'Aquin",
+            "en": "Thomas Aquinas"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "aquinas"
+        },
+        {
+          "name": {
+            "fr": "Duns Scot",
+            "en": "Duns Scotus"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "duns-scotus"
+        },
+        {
+          "name": {
+            "fr": "Occam",
+            "en": "Ockham"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "ockham"
+        },
+        {
+          "name": {
+            "fr": "la scolastique",
+            "en": "scholasticism"
+          },
+          "kind": "MOVEMENT",
+          "slug": "scholasticism"
+        }
+      ],
+      "title": {
+        "fr": "Des choses, des concepts ou des mots ?",
+        "en": "Things, concepts, or words?"
+      },
+      "explicitation": {
+        "fr": "Quand nous disons « l'homme » ou « l'animal », de quoi parlons-nous : d'une nature commune réellement présente en chaque individu, d'un concept que l'esprit tire de leurs ressemblances, ou d'un simple mot posé sur des êtres qui n'ont rien en partage ? Et si l'universel est dans les choses, comment une seule et même nature peut-elle se trouver tout entière en deux êtres à la fois ?",
+        "en": "When we say \"man\" or \"animal\", what are we talking about: a common nature really present in each individual, a concept the mind draws from their resemblances, or a mere word laid over beings that share nothing at all? And if the universal is in things, how can one and the same nature be wholly present in two beings at once?"
+      },
+      "episodes": [
+        {
+          "id": "universals-quarrel",
+          "name": {
+            "fr": "La querelle des universaux",
+            "en": "The quarrel of universals"
+          },
+          "from": 1090,
+          "to": 1350,
+          "approx": true,
+          "participants": [
+            {
+              "kind": "PHILOSOPHER",
+              "slug": "porphyry"
+            },
+            {
+              "kind": "PHILOSOPHER",
+              "slug": "boethius"
+            },
+            {
+              "kind": "PHILOSOPHER",
+              "slug": "abelard"
+            },
+            {
+              "kind": "PHILOSOPHER",
+              "slug": "aquinas"
+            },
+            {
+              "kind": "PHILOSOPHER",
+              "slug": "duns-scotus"
+            },
+            {
+              "kind": "PHILOSOPHER",
+              "slug": "ockham"
+            }
+          ],
+          "note": {
+            "fr": "Au IIIᵉ siècle, <ph id='porphyry'>Porphyre</ph> pose dans son <i>Isagoge</i> une question qu'il refuse de trancher : quand nous parlons de « l'homme » ou de « l'animal », ces genres et ces espèces existent-ils hors de notre esprit ? <ph id='boethius'>Boèce</ph> la transmet au Moyen Âge latin, où elle devient une querelle ouverte vers 1100. Pour les réalistes, comme <per>Guillaume de Champeaux</per>, l'humanité est une même réalité, présente tout entière en Pierre et en Paul. <ph id='abelard'>Abélard</ph> objecte qu'une seule chose ne peut se trouver à la fois à Rome et à Athènes : l'universel n'est pas une chose, mais un mot doté de sens, qui nomme ce en quoi les individus se ressemblent. <ph id='aquinas'>Thomas d'Aquin</ph> cherche une voie moyenne : la nature humaine existe réellement, mais seulement en chaque individu, et c'est l'esprit qui l'en dégage pour en faire un concept général. <ph id='duns-scotus'>Duns Scot</ph> penche davantage vers le réalisme : il reconnaît dans les choses une « nature commune », distincte de ce qui fait de chacun cet individu-ci. <ph id='ockham'>Ockham</ph> tranche à l'inverse : seuls existent des individus, et l'universel n'est qu'un signe, dans l'esprit ou dans la langue, qui vaut pour plusieurs choses à la fois. L'enjeu : quand nous rangeons les choses en espèces, découvrons-nous un ordre qui est dans le réel, ou n'y mettons-nous que nos mots et nos concepts ?",
+            "en": "In the 3rd century, <ph id='porphyry'>Porphyry</ph> raises in his <i>Isagoge</i> a question he declines to settle: when we speak of \"man\" or \"animal\", do these genera and species exist outside our mind? <ph id='boethius'>Boethius</ph> hands it down to the Latin Middle Ages, where it becomes an open quarrel around 1100. For the realists, such as <per>William of Champeaux</per>, humanity is one and the same reality, wholly present in Peter and in Paul. <ph id='abelard'>Abelard</ph> objects that one single thing cannot be in Rome and in Athens at once: the universal is not a thing but a meaningful word, naming that in which individuals resemble one another. <ph id='aquinas'>Thomas Aquinas</ph> seeks a middle way: human nature really exists, but only in each individual, and it is the mind that draws it out to make a general concept of it. <ph id='duns-scotus'>Duns Scotus</ph> leans further towards realism: he grants things a \"common nature\", distinct from what makes each one this individual. <ph id='ockham'>Ockham</ph> settles it the other way: only individuals exist, and the universal is merely a sign, in the mind or in language, that stands for several things at once. At stake: when we sort things into kinds, do we discover an order that lies in reality, or do we only put our words and concepts into it?"
+          }
+        }
+      ]
+    },
+    {
+      "id": "what-makes-an-individual",
+      "resolution": "LATENT",
+      "object": "INDIVIDUAL",
+      "objectLabel": {
+        "fr": "cet être-ci",
+        "en": "this very being"
+      },
+      "mode": "DESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        {
+          "fr": "principe d'individuation",
+          "en": "principle of individuation"
+        },
+        {
+          "fr": "heccéité",
+          "en": "haecceity"
+        },
+        {
+          "fr": "matière désignée",
+          "en": "designated matter"
+        }
+      ],
+      "poles": [
+        "REALISM"
+      ],
+      "anchors": [
+        {
+          "name": {
+            "fr": "Thomas d'Aquin",
+            "en": "Thomas Aquinas"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "aquinas"
+        },
+        {
+          "name": {
+            "fr": "Duns Scot",
+            "en": "Duns Scotus"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "duns-scotus"
+        },
+        {
+          "name": {
+            "fr": "Occam",
+            "en": "Ockham"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "ockham"
+        }
+      ],
+      "title": {
+        "fr": "Ce qui fait l'individu",
+        "en": "What makes an individual"
+      },
+      "explicitation": {
+        "fr": "Si ce que je suis, un être humain, je le partage avec tous les autres, qu'est-ce qui fait de moi celui-ci et non un autre : la matière dont je suis fait, une singularité propre que rien de général ne saisit, ou rien de plus que le fait d'exister à part ?",
+        "en": "If what I am, a human being, I share with everyone else, what makes me this one and not another: the matter I am made of, a singularity of my own that nothing general can capture, or nothing more than the fact of existing apart?"
+      }
+    },
+    {
+      "id": "what-resemblance-is",
+      "resolution": "LATENT",
+      "object": "RELATION",
+      "objectLabel": {
+        "fr": "la ressemblance entre deux choses",
+        "en": "the resemblance between two things"
+      },
+      "mode": "DESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        {
+          "fr": "nominalisme des ressemblances",
+          "en": "resemblance nominalism"
+        },
+        {
+          "fr": "régression de la ressemblance",
+          "en": "resemblance regress"
+        },
+        {
+          "fr": "tropes",
+          "en": "tropes"
+        }
+      ],
+      "poles": [
+        "NOMINALISM"
+      ],
+      "anchors": [
+        {
+          "name": {
+            "fr": "Occam",
+            "en": "Ockham"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "ockham"
+        },
+        {
+          "name": {
+            "fr": "Russell",
+            "en": "Russell"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "russell"
+        },
+        {
+          "name": {
+            "fr": "Armstrong",
+            "en": "Armstrong"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "armstrong"
+        }
+      ],
+      "title": {
+        "fr": "Se ressembler, en quoi ?",
+        "en": "Alike in what?"
+      },
+      "explicitation": {
+        "fr": "Le nominalisme range sous un même nom les choses qui se ressemblent. Mais une tomate ressemble à une cerise par la couleur, à une pomme par la forme : ces ressemblances distinctes ne sont-elles pas déjà quelque chose de commun, l'universel qu'on voulait chasser et qui revient par la fenêtre ?",
+        "en": "Nominalism files things that resemble one another under a single name. But a tomato resembles a cherry in colour and an apple in shape: aren't these distinct resemblances already something shared, the very universal we meant to drive out, slipping back in through the window?"
+      }
+    },
+    {
+      "id": "natural-kinds",
+      "resolution": "LATENT",
+      "object": "STRUCTURE",
+      "objectLabel": {
+        "fr": "les classifications des sciences",
+        "en": "the classifications of the sciences"
+      },
+      "mode": "DESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        {
+          "fr": "espèces naturelles",
+          "en": "natural kinds"
+        },
+        {
+          "fr": "découper la nature selon ses articulations",
+          "en": "carving nature at its joints"
+        },
+        {
+          "fr": "classification",
+          "en": "classification"
+        }
+      ],
+      "poles": [
+        "REALISM",
+        "NOMINALISM"
+      ],
+      "anchors": [
+        {
+          "name": {
+            "fr": "Platon",
+            "en": "Plato"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "plato"
+        },
+        {
+          "name": {
+            "fr": "Aristote",
+            "en": "Aristotle"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "aristotle"
+        },
+        {
+          "name": {
+            "fr": "Quine",
+            "en": "Quine"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "quine"
+        }
+      ],
+      "doorways": [
+        {
+          "axis": "REALITY_NATURE"
+        }
+      ],
+      "title": {
+        "fr": "Les articulations de la nature",
+        "en": "Nature's joints"
+      },
+      "explicitation": {
+        "fr": "L'or, le tigre, l'électron : les sciences découvrent-elles des espèces que la nature a déjà découpées, ou classent-elles selon nos intérêts et nos instruments, si bien qu'un autre découpage aurait pu valoir aussi bien ?",
+        "en": "Gold, the tiger, the electron: do the sciences discover kinds that nature has already carved out, or do they classify according to our interests and instruments, so that another way of dividing things up could have served just as well?"
+      }
+    },
+    {
+      "id": "where-are-numbers",
+      "resolution": "LATENT",
+      "object": "INDIVIDUAL",
+      "objectLabel": {
+        "fr": "un nombre, une figure",
+        "en": "a number, a figure"
+      },
+      "mode": "DESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        {
+          "fr": "platonisme mathématique",
+          "en": "mathematical Platonism"
+        },
+        {
+          "fr": "fictionnalisme",
+          "en": "fictionalism"
+        }
+      ],
+      "poles": [
+        "REALISM",
+        "NOMINALISM"
+      ],
+      "anchors": [
+        {
+          "name": {
+            "fr": "Platon",
+            "en": "Plato"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "plato"
+        },
+        {
+          "name": {
+            "fr": "Frege",
+            "en": "Frege"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "frege"
+        },
+        {
+          "name": {
+            "fr": "Kant",
+            "en": "Kant"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "kant"
+        }
+      ],
+      "title": {
+        "fr": "Où sont les nombres ?",
+        "en": "Where are numbers?"
+      },
+      "explicitation": {
+        "fr": "Le cercle parfait ne se rencontre nulle part, et pourtant ses propriétés sont vraies pour tous et avant nous : les objets mathématiques existent-ils hors de l'esprit, sont-ils des constructions de la pensée, ou de commodes fictions dont on pourrait se passer ?",
+        "en": "The perfect circle is found nowhere, and yet its properties hold for everyone and held before us: do mathematical objects exist outside the mind, are they constructions of thought, or convenient fictions we could do without?"
+      }
+    }
   ]
 }

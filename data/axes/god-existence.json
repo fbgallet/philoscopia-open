@@ -514,7 +514,44 @@
       "explicitation": {
         "fr": "« Dieu d'Abraham, Dieu d'Isaac, Dieu de Jacob, non des philosophes et des savants » : le Dieu dont la raison démontre l'existence, premier moteur, fondement ou substance, est-il encore celui que l'on prie, ou la preuve n'atteint-elle jamais qu'un principe impersonnel ?",
         "en": "\"God of Abraham, God of Isaac, God of Jacob, not of the philosophers and the learned\": is the God whose existence reason demonstrates, prime mover, ground or substance, still the one people pray to, or does proof only ever reach an impersonal principle?"
-      }
+      },
+      "episodes": [
+        {
+          "id": "pantheism-controversy",
+          "name": {
+            "fr": "La querelle du panthéisme",
+            "en": "The pantheism controversy"
+          },
+          "from": 1785,
+          "to": 1789,
+          "participants": [
+            {
+              "kind": "PHILOSOPHER",
+              "slug": "jacobi"
+            },
+            {
+              "kind": "PHILOSOPHER",
+              "slug": "mendelssohn"
+            },
+            {
+              "kind": "PHILOSOPHER",
+              "slug": "lessing"
+            },
+            {
+              "kind": "PHILOSOPHER",
+              "slug": "herder"
+            },
+            {
+              "kind": "PHILOSOPHER",
+              "slug": "kant"
+            }
+          ],
+          "note": {
+            "fr": "En 1785, <ph id='jacobi'>Jacobi</ph> révèle que <ph id='lessing'>Lessing</ph>, mort en 1781, lui avait confié être spinoziste. <ph id='mendelssohn'>Mendelssohn</ph> défend la mémoire de son ami, <ph id='herder'>Herder</ph> prend le parti d'un <ph id='spinoza'>Spinoza</ph> réinterprété, et <ph id='kant'>Kant</ph> intervient en 1786 pour défendre les droits de la raison. L'enjeu : la raison conduit-elle nécessairement à un Dieu impersonnel, confondu avec la nature, et faut-il alors un saut de la foi pour retrouver un Dieu personnel ?",
+            "en": "In 1785, <ph id='jacobi'>Jacobi</ph> revealed that <ph id='lessing'>Lessing</ph>, who died in 1781, had confided to him that he was a Spinozist. <ph id='mendelssohn'>Mendelssohn</ph> defended his friend's memory, <ph id='herder'>Herder</ph> sided with a reinterpreted <ph id='spinoza'>Spinoza</ph>, and <ph id='kant'>Kant</ph> stepped in in 1786 to defend the rights of reason. At stake: does reason necessarily lead to an impersonal God, merged with nature, so that a leap of faith is needed to recover a personal God?"
+          }
+        }
+      ]
     },
     {
       "id": "miracles-and-testimony",

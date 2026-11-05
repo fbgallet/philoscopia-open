@@ -1,0 +1,25 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "mainlander",
+  "stub": true,
+  "name": {
+    "fr": "Mainländer",
+    "en": "Mainländer"
+  },
+  "summary": {
+    "fr": "Philosophe allemand, auteur de la <w>Philosophie de la rédemption</w> : l'univers serait le cadavre d'un Dieu qui a voulu le néant, et toute chose tendrait vers sa propre extinction. Disciple radical de <ph id='schopenhauer'>Schopenhauer</ph>, il se donna la mort à la parution de son livre.",
+    "en": "German philosopher, author of the <w>Philosophy of Redemption</w>: the universe would be the corpse of a God who willed nothingness, and every thing would tend toward its own extinction. A radical disciple of <ph id='schopenhauer'>Schopenhauer</ph>, he took his own life as his book came out."
+  },
+  "birth": 1841,
+  "death": 1876,
+  "nationality": {
+    "fr": "Allemand",
+    "en": "German"
+  },
+  "language": "deu",
+  "movements": [],
+  "updatedAt": "2026-11-05T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

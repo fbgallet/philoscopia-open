@@ -1,0 +1,28 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "benatar",
+  "stub": true,
+  "name": {
+    "fr": "Benatar",
+    "en": "Benatar"
+  },
+  "fullName": {
+    "fr": "David Benatar",
+    "en": "David Benatar"
+  },
+  "summary": {
+    "fr": "Philosophe sud-africain, défenseur contemporain de l'antinatalisme : une asymétrie entre l'absence de douleur, toujours bonne, et l'absence de plaisir, qui n'est mauvaise pour personne, ferait de toute venue au monde un tort.",
+    "en": "South African philosopher, a contemporary defender of antinatalism: an asymmetry between the absence of pain, which is always good, and the absence of pleasure, which is bad for no one, would make every coming into existence a harm."
+  },
+  "birth": 1966,
+  "nationality": {
+    "fr": "Sud-africain",
+    "en": "South African"
+  },
+  "language": "eng",
+  "movements": [],
+  "updatedAt": "2026-11-05T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

@@ -310,6 +310,12 @@
 - « Les actions sont bonnes dans la mesure où elles tendent à promouvoir le bonheur, et mauvaises dans la mesure où elles tendent à produire le contraire du bonheur. » — L'Utilitarisme, ch. 2
 - « Réduire au silence une opinion, c'est voler l'humanité ; ceux qui dissentent plus encore que ceux qui la partagent. » — De la liberté, ch. 2
 
+### [Murdoch](../philosophers/iris-murdoch.md)
+
+- « Je ne puis choisir qu'à l'intérieur du monde que je peux voir, au sens moral de « voir », qui implique qu'une vision claire est le fruit de l'imagination morale et de l'effort moral. » — La Souveraineté du bien, « L'idée de perfection »
+- « L'amour est la prise de conscience extrêmement difficile que quelque chose d'autre que soi est réel. » — « The Sublime and the Good », Chicago Review, vol. 13, n° 3 (1959), p. 51
+- « L'art et la morale sont, sous certaines réserves que je mentionnerai dans un instant, une seule et même chose. Leur essence est la même. L'essence de l'un comme de l'autre est l'amour. » — « The Sublime and the Good » (1959), repris dans Existentialists and Mystics (1997), p. 215
+
 ### [Nāgārjuna](../philosophers/nagarjuna.md)
 
 - « Il n'y a aucune différence entre le saṃsāra et le nirvāṇa ; il n'y a aucune différence entre le nirvāṇa et le saṃsāra. » — Mūlamadhyamakakārikā, XXV, 19

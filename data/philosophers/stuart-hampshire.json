@@ -1,0 +1,17 @@
+{
+  "kind": "PHILOSOPHER",
+  "stub": true,
+  "id": "stuart-hampshire",
+  "name": { "fr": "Stuart Hampshire", "en": "Stuart Hampshire" },
+  "summary": {
+    "fr": "Philosophe d'Oxford : dans <i>Thought and Action</i> (1959), il décrit la personne avant tout comme un agent qui se déplace dans un monde d'objets et choisit, la pensée étant ordonnée à l'action.",
+    "en": "Oxford philosopher: in <i>Thought and Action</i> (1959), he describes the person first and foremost as an agent moving among objects and choosing, with thought ordered to action."
+  },
+  "nationality": { "fr": "Britannique", "en": "British" },
+  "birth": 1914,
+  "death": 2004,
+  "language": "eng",
+  "movements": ["analytic-philosophy"],
+  "updatedAt": "2026-11-05T00:00:00.000Z",
+  "validation": { "method": "NOT_VALIDATED" }
+}

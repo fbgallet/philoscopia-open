@@ -1,0 +1,37 @@
+{
+  "kind": "PHILOSOPHER",
+  "stub": true,
+  "id": "jacobi",
+  "name": {
+    "fr": "Jacobi",
+    "en": "Jacobi"
+  },
+  "fullName": {
+    "fr": "Friedrich Heinrich Jacobi",
+    "en": "Friedrich Heinrich Jacobi"
+  },
+  "aliases": {
+    "fr": [
+      "Friedrich Heinrich Jacobi"
+    ],
+    "en": [
+      "Friedrich Heinrich Jacobi"
+    ]
+  },
+  "summary": {
+    "fr": "Philosophe allemand pour qui toute démonstration rationnelle mène au spinozisme, donc au fatalisme ; seule la foi, comme saisie immédiate, donne accès à Dieu et à la liberté.",
+    "en": "A German philosopher for whom every rational demonstration leads to Spinozism, hence to fatalism; only faith, as an immediate grasp, gives access to God and to freedom."
+  },
+  "nationality": {
+    "fr": "Allemand",
+    "en": "German"
+  },
+  "birth": 1743,
+  "death": 1819,
+  "language": "deu",
+  "movements": [],
+  "updatedAt": "2026-11-05T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "kind": "PHILOSOPHER",
+  "stub": true,
+  "id": "kohlberg",
+  "name": {
+    "fr": "Lawrence Kohlberg",
+    "en": "Lawrence Kohlberg"
+  },
+  "summary": {
+    "fr": "Psychologue américain qui décrit le développement moral en six stades, de l'obéissance par crainte de la punition jusqu'aux principes universels de justice.",
+    "en": "An American psychologist who describes moral development in six stages, from obedience out of fear of punishment up to universal principles of justice."
+  },
+  "nationality": {
+    "fr": "Américain",
+    "en": "American"
+  },
+  "birth": 1927,
+  "death": 1987,
+  "language": "eng",
+  "movements": [],
+  "updatedAt": "2026-11-05T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

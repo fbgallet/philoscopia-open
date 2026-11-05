@@ -1,0 +1,16 @@
+{
+  "id": "ryle-to-iris-murdoch",
+  "from": { "kind": "PHILOSOPHER", "slug": "ryle" },
+  "to": { "kind": "PHILOSOPHER", "slug": "iris-murdoch" },
+  "directness": "ATTESTED",
+  "mode": "REACTS_AGAINST",
+  "strength": "MEDIUM",
+  "note": {
+    "fr": "Contre la critique de la vie intérieure héritée de <ph id='ryle'>Ryle</ph>, pour qui l'esprit se réduit à des dispositions à agir, <ph id='iris-murdoch'>Murdoch</ph> défend la réalité d'une activité morale intérieure qui ne se montre dans aucune conduite.",
+    "en": "Against the critique of inner life inherited from <ph id='ryle'>Ryle</ph>, for whom mind reduces to dispositions to act, <ph id='iris-murdoch'>Murdoch</ph> defends the reality of an inner moral activity that shows in no conduct."
+  },
+  "sources": [
+    { "fr": "Murdoch, La Souveraineté du bien, « L'idée de perfection »", "en": "Murdoch, The Sovereignty of Good, \"The Idea of Perfection\"" }
+  ],
+  "updatedAt": "2026-11-05T00:00:00.000Z"
+}

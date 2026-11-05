@@ -106,5 +106,401 @@
     "REDUCTION_EMERGENCE",
     "KNOWLEDGE_SOURCE",
     "BEING_BECOMING"
+  ],
+  "problems": [
+    {
+      "id": "power-of-causes",
+      "resolution": "LATENT",
+      "object": "RELATION",
+      "objectLabel": {
+        "fr": "une cause et son effet",
+        "en": "a cause and its effect"
+      },
+      "mode": "DESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        {
+          "fr": "occasionnalisme",
+          "en": "occasionalism"
+        },
+        {
+          "fr": "connexion nécessaire",
+          "en": "necessary connection"
+        },
+        {
+          "fr": "coutume",
+          "en": "custom"
+        },
+        {
+          "fr": "miracle",
+          "en": "miracle"
+        },
+        {
+          "fr": "L'Incohérence des philosophes",
+          "en": "The Incoherence of the Philosophers"
+        }
+      ],
+      "poles": [
+        "MECHANISM",
+        "FINALISM"
+      ],
+      "anchors": [
+        {
+          "name": {
+            "fr": "al-Ghazālī",
+            "en": "al-Ghazali"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "al-ghazali"
+        },
+        {
+          "name": {
+            "fr": "Avicenne",
+            "en": "Avicenna"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "avicenna"
+        },
+        {
+          "name": {
+            "fr": "Averroès",
+            "en": "Averroes"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "averroes"
+        },
+        {
+          "name": {
+            "fr": "le kalām",
+            "en": "kalam"
+          },
+          "kind": "MOVEMENT",
+          "slug": "kalam"
+        },
+        {
+          "name": {
+            "fr": "la falsafa",
+            "en": "falsafa"
+          },
+          "kind": "MOVEMENT",
+          "slug": "falsafa"
+        },
+        {
+          "name": {
+            "fr": "Malebranche",
+            "en": "Malebranche"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "malebranche"
+        },
+        {
+          "name": {
+            "fr": "Hume",
+            "en": "Hume"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "hume"
+        }
+      ],
+      "doorways": [
+        {
+          "axis": "KNOWLEDGE_SOURCE",
+          "problem": "idea-of-cause"
+        }
+      ],
+      "title": {
+        "fr": "Le pouvoir des causes",
+        "en": "The power of causes"
+      },
+      "explicitation": {
+        "fr": "Quand le feu touche le coton, le coton brûle. Mais voit-on jamais le feu agir, ou seulement le coton brûler après le contact ? Les choses ont-elles, par leur nature, le pouvoir de produire leurs effets, ou l'ordre régulier du monde est-il soutenu à chaque instant par une autre puissance, qui pourrait aussi bien le suspendre ?",
+        "en": "When fire touches cotton, the cotton burns. But do we ever see the fire act, or only the cotton burning after the contact? Do things have, by their nature, the power to produce their effects, or is the regular order of the world upheld at every instant by another power, which could just as well suspend it?"
+      },
+      "episodes": [
+        {
+          "id": "incoherence-controversy",
+          "name": {
+            "fr": "La controverse de l'Incohérence",
+            "en": "The Incoherence controversy"
+          },
+          "from": 1095,
+          "to": 1180,
+          "approx": true,
+          "participants": [
+            {
+              "kind": "PHILOSOPHER",
+              "slug": "avicenna"
+            },
+            {
+              "kind": "PHILOSOPHER",
+              "slug": "al-ghazali"
+            },
+            {
+              "kind": "PHILOSOPHER",
+              "slug": "averroes"
+            }
+          ],
+          "note": {
+            "fr": "Dans l'<i>Incohérence des philosophes</i> (vers 1095), <ph id='al-ghazali'>al-Ghazālī</ph> attaque vingt thèses des philosophes, <ph id='avicenna'>Avicenne</ph> en tête, dont la nécessité du lien entre la cause et l'effet : le coton ne brûle pas parce que le feu en a le pouvoir, mais parce que Dieu crée sa combustion au moment du contact. Près d'un siècle plus tard, <ph id='averroes'>Averroès</ph> lui répond par l'<i>Incohérence de l'incohérence</i> (vers 1180) : nier les causes, c'est nier la science elle-même. L'enjeu dépasse la physique : si les choses n'ont aucun pouvoir propre, l'ordre du monde ne tient qu'à la volonté divine.",
+            "en": "In <i>The Incoherence of the Philosophers</i> (c. 1095), <ph id='al-ghazali'>al-Ghazālī</ph> attacks twenty theses of the philosophers, <ph id='avicenna'>Avicenna</ph> first among them, including the necessity of the link between cause and effect: cotton does not burn because fire has the power to burn it, but because God creates its burning at the moment of contact. Nearly a century later, <ph id='averroes'>Averroes</ph> answers with <i>The Incoherence of the Incoherence</i> (c. 1180): to deny causes is to deny knowledge itself. What is at stake goes beyond physics: if things have no power of their own, the order of the world rests on the divine will alone."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ends-in-nature",
+      "resolution": "LATENT",
+      "object": "STRUCTURE",
+      "objectLabel": {
+        "fr": "l'adaptation du vivant",
+        "en": "the adaptation of living things"
+      },
+      "mode": "DESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        {
+          "fr": "cause finale",
+          "en": "final cause"
+        },
+        {
+          "fr": "téléonomie",
+          "en": "teleonomy"
+        },
+        {
+          "fr": "sélection naturelle",
+          "en": "natural selection"
+        },
+        {
+          "fr": "finalité « comme si »",
+          "en": "\"as if\" purposiveness"
+        }
+      ],
+      "poles": [
+        "FINALISM",
+        "MECHANISM"
+      ],
+      "anchors": [
+        {
+          "name": {
+            "fr": "Aristote",
+            "en": "Aristotle"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "aristotle"
+        },
+        {
+          "name": {
+            "fr": "Lucrèce",
+            "en": "Lucretius"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "lucretius"
+        },
+        {
+          "name": {
+            "fr": "Spinoza",
+            "en": "Spinoza"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "spinoza"
+        },
+        {
+          "name": {
+            "fr": "Kant",
+            "en": "Kant"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "kant"
+        },
+        {
+          "name": {
+            "fr": "Darwin",
+            "en": "Darwin"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "darwin"
+        }
+      ],
+      "title": {
+        "fr": "Des fins dans la nature ?",
+        "en": "Ends in nature?"
+      },
+      "explicitation": {
+        "fr": "L'œil semble fait pour voir, l'aile pour voler : cette adaptation montre-t-elle que la nature agit en vue de fins, ou l'apparence de dessein naît-elle de causes aveugles qui ont trié ce qui survivait ? Et si la sélection explique tout, parler de « fonction » reste-t-il légitime, ou seulement commode ?",
+        "en": "The eye seems made for seeing, the wing for flying: does this fit show that nature acts for the sake of ends, or does the appearance of design arise from blind causes that sorted out what survived? And if selection explains everything, is talk of \"function\" still legitimate, or merely convenient?"
+      }
+    },
+    {
+      "id": "machine-or-organism",
+      "resolution": "LATENT",
+      "object": "INDIVIDUAL",
+      "objectLabel": {
+        "fr": "un être vivant",
+        "en": "a living being"
+      },
+      "mode": "DESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        {
+          "fr": "animal-machine",
+          "en": "animal-machine"
+        },
+        {
+          "fr": "organisme",
+          "en": "organism"
+        },
+        {
+          "fr": "autoorganisation",
+          "en": "self-organization"
+        },
+        {
+          "fr": "élan vital",
+          "en": "élan vital"
+        }
+      ],
+      "poles": [
+        "MECHANISM",
+        "VITALISM"
+      ],
+      "anchors": [
+        {
+          "name": {
+            "fr": "Descartes",
+            "en": "Descartes"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "descartes"
+        },
+        {
+          "name": {
+            "fr": "La Mettrie",
+            "en": "La Mettrie"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "la-mettrie"
+        },
+        {
+          "name": {
+            "fr": "Kant",
+            "en": "Kant"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "kant"
+        },
+        {
+          "name": {
+            "fr": "Bergson",
+            "en": "Bergson"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "bergson"
+        },
+        {
+          "name": {
+            "fr": "Canguilhem",
+            "en": "Canguilhem"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "canguilhem"
+        }
+      ],
+      "doorways": [
+        {
+          "axis": "REDUCTION_EMERGENCE"
+        }
+      ],
+      "title": {
+        "fr": "Machine ou organisme",
+        "en": "Machine or organism"
+      },
+      "explicitation": {
+        "fr": "Une montre ne se répare pas, ne se reproduit pas, ne fabrique pas ses propres rouages ; le vivant, lui, le fait. Faut-il en conclure qu'il échappe à l'explication mécanique, ou seulement qu'il est une machine d'une complexité que nous n'avons pas fini de démonter ?",
+        "en": "A watch does not repair itself, reproduce, or make its own gears; a living thing does. Should we conclude that it escapes mechanical explanation, or only that it is a machine of a complexity we have not yet finished taking apart?"
+      }
+    },
+    {
+      "id": "everything-has-a-cause",
+      "resolution": "LATENT",
+      "object": "STRUCTURE",
+      "objectLabel": {
+        "fr": "l'ordre de la nature",
+        "en": "the order of nature"
+      },
+      "mode": "DESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        {
+          "fr": "principe de raison suffisante",
+          "en": "principle of sufficient reason"
+        },
+        {
+          "fr": "déterminisme",
+          "en": "determinism"
+        },
+        {
+          "fr": "démon de Laplace",
+          "en": "Laplace's demon"
+        },
+        {
+          "fr": "clinamen",
+          "en": "clinamen"
+        },
+        {
+          "fr": "indéterminisme quantique",
+          "en": "quantum indeterminacy"
+        }
+      ],
+      "poles": [
+        "MECHANISM"
+      ],
+      "anchors": [
+        {
+          "name": {
+            "fr": "Épicure",
+            "en": "Epicurus"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "epicurus"
+        },
+        {
+          "name": {
+            "fr": "Leibniz",
+            "en": "Leibniz"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "leibniz"
+        },
+        {
+          "name": {
+            "fr": "Kant",
+            "en": "Kant"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "kant"
+        },
+        {
+          "name": {
+            "fr": "Laplace",
+            "en": "Laplace"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "laplace"
+        }
+      ],
+      "doorways": [
+        {
+          "axis": "FREEDOM",
+          "problem": "causal-closure"
+        }
+      ],
+      "title": {
+        "fr": "Tout a-t-il une cause ?",
+        "en": "Does everything have a cause?"
+      },
+      "explicitation": {
+        "fr": "Rien n'arrive sans raison, dit-on, et une intelligence qui connaîtrait tout l'état présent du monde en prédirait tout l'avenir. Est-ce une vérité sur la nature, une exigence de notre esprit qui cherche, ou une hypothèse que la physique a démentie en trouvant du hasard au cœur de la matière ?",
+        "en": "Nothing happens without a reason, we say, and an intelligence that knew the whole present state of the world would foresee its entire future. Is this a truth about nature, a demand of our inquiring mind, or a hypothesis that physics refuted when it found chance at the heart of matter?"
+      }
+    }
   ]
 }

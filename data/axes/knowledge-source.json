@@ -279,7 +279,8 @@
       ],
       "doorways": [
         {
-          "axis": "CAUSALITY"
+          "axis": "CAUSALITY",
+          "problem": "power-of-causes"
         }
       ],
       "title": {

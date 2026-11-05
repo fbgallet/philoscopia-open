@@ -11,6 +11,7 @@
 - [L'éternel retour](the-eternal-return.md) (Nietzsche)
 - [L'expérience de Milgram](milgram.md) (Stanley Milgram)
 - [La barrière de Chesterton](chestertons-fence.md) (G.K. Chesterton)
+- [La belle-mère et sa belle-fille](m-and-d.md) (Iris Murdoch)
 - [La chambre chinoise](chinese-room.md) (Searle)
 - [La chambre de Mary](marys-room.md) (Frank Jackson)
 - [La machine à expériences](experience-machine.md) (Robert Nozick)
@@ -33,7 +34,7 @@
 - [Punir un innocent pour sauver la paix ?](scapegoat-punishment.md) (H. J. McCloskey)
 - [Quel effet cela fait-il d'être une chauve-souris ?](what-is-it-like-to-be-a-bat.md) (Thomas Nagel)
 - [Sauver un proche plutôt qu'un inconnu](williams-rescue.md) (Bernard Williams)
-- [Votre portrait](your-portrait.md) (Bertram Forer)
+- [Votre thème astral](your-portrait.md) (Bertram Forer)
 - [Wilt Chamberlain, la liberté contre l'égalité](wilt-chamberlain.md) (Nozick)
 
 ---

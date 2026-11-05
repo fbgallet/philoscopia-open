@@ -39,6 +39,15 @@ Rights are neither natural, nor mere decrees, nor simple calculations of utility
 
 *[Rawls](../philosophers/rawls.md) · [Habermas](../philosophers/habermas.md)*
 
+## Live problems
+
+- **The rights of distant peoples** : If some rights belong to every human being by nature, they hold for peoples who know nothing of our law, our faith or our customs, and who have princes of their own. But who decides what human nature is? The very reasoning that shields the stranger has been used to declare whole peoples born to obey, and to justify subjugating them by war, for their own good.
+- **The unjust law** : Were the judges who enforced a criminal regime's racial laws applying the law? If so, law and justice are two different things, and the law must be judged from somewhere outside it. If not, we must say where the line falls beyond which a legal order stops being one.
+- **Rights against utility** : If we protect rights because respecting them makes everyone better off, what happens the day violating them would serve us better? Is a right that gives way as soon as the sums tip the other way still a right? And can a right that never gives way be justified by its benefits alone?
+- **Property before law?** : By what title does land that belonged to no one become mine? Because I worked it, so that it is mine before any law and a state that taxes it takes what I am owed? Or is there a "mine" only where laws and courts uphold it, so that society may redefine what it created?
+- **Rights without a state** : A refugee stripped of every nationality ought to be the human-rights bearer par excellence, since nothing is left to them but their humanity. Yet they are the very person who finds that no court will recognize those rights. Do their rights still exist, merely trampled on, or did they never exist without a community to guarantee them?
+- **What no vote can take away** : If rights are what free and equal citizens agree to grant one another, could a duly consulted majority abolish one of them? Or are some rights, to speak, to vote, not to be persecuted, the very conditions of genuine agreement, which no agreement can therefore undo?
+
 ## Grounding relations
 
 - *[The origin of the social bond](../axes/social-contract.md) : Contractualism* grounds *[Nature of rights](../axes/rights-nature.md) : Political constructivism* : If the legitimate order arises from an agreement among free and equal persons, then rights themselves appear as the terms of a fair cooperation to be constructed, not as givens. Contractualism grounds political constructivism: [Rawls](../philosophers/rawls.md) derives the principles of justice from a rational choice made behind a "veil of ignorance".

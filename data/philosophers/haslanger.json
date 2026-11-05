@@ -1,0 +1,30 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "haslanger",
+  "stub": true,
+  "name": {
+    "fr": "Haslanger",
+    "en": "Haslanger"
+  },
+  "fullName": {
+    "fr": "Sally Haslanger",
+    "en": "Sally Haslanger"
+  },
+  "summary": {
+    "fr": "Philosophe américaine, elle définit le genre et la race comme des positions sociales hiérarchiques, construites mais bien réelles.",
+    "en": "American philosopher who defines gender and race as hierarchical social positions, constructed yet fully real."
+  },
+  "birth": 1955,
+  "nationality": {
+    "fr": "Américaine",
+    "en": "American"
+  },
+  "language": "eng",
+  "movements": [
+    "feminist-philosophy"
+  ],
+  "updatedAt": "2026-11-05T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

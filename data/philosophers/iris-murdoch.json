@@ -1,0 +1,439 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "iris-murdoch",
+  "name": { "fr": "Murdoch", "en": "Murdoch" },
+  "fullName": { "fr": "Iris Murdoch", "en": "Iris Murdoch" },
+  "tagline": {
+    "fr": "Platonicienne sans Dieu dans l'Oxford analytique, elle ramène la morale du choix au regard et tient le roman pour une connaissance du bien.",
+    "en": "A Platonist without God in analytic Oxford, she brings morality back from choice to vision and treats the novel as a way of knowing the good."
+  },
+  "aliases": {
+    "fr": ["murdochien", "murdochienne"],
+    "en": ["Murdochian"]
+  },
+  "summary": {
+    "fr": "Née à Dublin dans une famille anglo-irlandaise, elle étudie les lettres classiques et la philosophie à Oxford pendant la guerre, dans le cercle d'<ph id='anscombe'>Anscombe</ph>, de <ph id='philippa-foot'>Foot</ph> et de <ph id='mary-midgley'>Midgley</ph>. Après avoir travaillé pour l'aide aux réfugiés, ce qui lui fait rencontrer <ph id='sartre'>Sartre</ph> à Bruxelles en 1945, elle publie le premier livre anglais sur lui, <w id='sartre-romantic-rationalist-murdoch'>Sartre: Romantic Rationalist</w> (1953), et enseigne la philosophie à St Anne's College de 1948 à 1963. Contre l'orthodoxie d'Oxford, celle de <ph id='ryle'>Ryle</ph>, de <ph id='hare'>Hare</ph> et de <ph id='stuart-hampshire'>Hampshire</ph>, dont elle reconstruit l'image de l'homme (un agent défini par ses choix, devant qui la vie intérieure ne compte guère), elle se réclame de <ph id='plato'>Platon</ph> et de l'<c id='attention'>attention</c> de <ph id='simone-weil'>Simone Weil</ph> dans les trois essais de <w id='sovereignty-of-good-murdoch'>La Souveraineté du bien</w> (1970). <w id='fire-and-the-sun-murdoch'>The Fire and the Sun</w> (1977) discute avec Platon de la place de l'art, et ses Gifford Lectures deviennent <w id='metaphysics-guide-morals-murdoch'>Metaphysics as a Guide to Morals</w> (1992). Elle écrit aussi vingt-six romans, dont <w id='sea-the-sea-murdoch'>La Mer, la mer</w> (Booker Prize 1978). Atteinte de la maladie d'Alzheimer, elle meurt à Oxford en 1999. Son œuvre philosophique a préparé le renouveau de l'<c id='virtue-ethics'>éthique des vertus</c> et les travaux sur la perception morale.",
+    "en": "Born in Dublin into an Anglo-Irish family, she read classics and philosophy at Oxford during the war, alongside <ph id='anscombe'>Anscombe</ph>, <ph id='philippa-foot'>Foot</ph> and <ph id='mary-midgley'>Midgley</ph>. After working in refugee relief, which led her to meet <ph id='sartre'>Sartre</ph> in Brussels in 1945, she published the first book on him in English, <w id='sartre-romantic-rationalist-murdoch'>Sartre: Romantic Rationalist</w> (1953), and taught philosophy at St Anne's College from 1948 to 1963. Against the Oxford orthodoxy of <ph id='ryle'>Ryle</ph>, <ph id='hare'>Hare</ph> and <ph id='stuart-hampshire'>Hampshire</ph>, whose picture of the human being she reconstructs as an agent defined by his choices, with little room for inner life, she appealed to <ph id='plato'>Plato</ph> and to <ph id='simone-weil'>Simone Weil</ph>'s <c id='attention'>attention</c> in the three essays of <w id='sovereignty-of-good-murdoch'>The Sovereignty of Good</w> (1970). <w id='fire-and-the-sun-murdoch'>The Fire and the Sun</w> (1977) argues with Plato over the place of art, and her Gifford Lectures became <w id='metaphysics-guide-morals-murdoch'>Metaphysics as a Guide to Morals</w> (1992). She also wrote twenty-six novels, among them <w id='sea-the-sea-murdoch'>The Sea, the Sea</w> (Booker Prize 1978). Stricken with Alzheimer's disease, she died in Oxford in 1999. Her philosophical work prepared the revival of <c id='virtue-ethics'>virtue ethics</c> and later work on moral perception."
+  },
+  "nationality": { "fr": "Britannique", "en": "British" },
+  "birth": 1919,
+  "death": 1999,
+  "language": "eng",
+  "movements": [],
+  "entries": [
+    {
+      "axisId": "INTERIORITY",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.6 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Contre l'image de la personne qu'elle dégage de <ph id='ryle'>Ryle</ph> et de <ph id='stuart-hampshire'>Hampshire</ph>, où le mental s'analyse surtout par ce qui se montre dans l'action, <ph id='iris-murdoch'>Murdoch</ph> construit l'exemple de <te id='m-and-d'>M et D</te>. Une femme juge sa belle-fille vulgaire et sans tenue ; puis, par un effort patient et sans que rien ne change dans son comportement, elle apprend à la voir simple et spontanée plutôt que vulgaire. Quelque chose de moral s'est passé, que la théorie du choix ne peut même pas décrire. La vie morale est donc <kw>continue</kw> : elle se joue dans le travail ininterrompu du regard, et le moment du choix ne fait que recueillir ce que ce travail a préparé. <stk>C'est la réalité même de la vie intérieure</stk> qu'elle défend. Ce travail n'est pourtant pas une introspection : il consiste à soumettre ses propres perceptions à la critique pour mieux voir autrui, et elle se méfie de l'examen de soi complaisant, qui peut n'être qu'une autre forme d'<c>égocentrisme</c>. C'est par ce refus du primat de l'action, plus que par un goût du retour sur soi, qu'elle penche vers ce pôle.",
+          "en": "Against the picture of the person she draws out of <ph id='ryle'>Ryle</ph> and <ph id='stuart-hampshire'>Hampshire</ph>, in which the mental is analysed chiefly through what shows in action, <ph id='iris-murdoch'>Murdoch</ph> builds the example of <te id='m-and-d'>M and D</te>. A woman finds her daughter-in-law vulgar and lacking in dignity; then, through patient effort and without any change in her behaviour, she learns to see her as simple and spontaneous rather than vulgar. Something moral has happened that the theory of choice cannot even describe. The moral life is therefore <kw>continuous</kw>: it takes place in the unbroken work of looking, and the moment of choice only gathers what that work has prepared. <stk>What she defends is the very reality of inner life</stk>. This work is not introspection, however: it consists in submitting one's own perceptions to criticism so as to see others better, and she distrusts complacent self-scrutiny, which can be just another form of <c>egocentrism</c>. It is through this refusal of the primacy of action, rather than any taste for turning inward, that she leans toward this pole."
+        },
+        "references": [
+          { "fr": "La Souveraineté du bien, « L'idée de perfection » (1964)", "en": "The Sovereignty of Good, \"The Idea of Perfection\" (1964)" }
+        ],
+        "quoteId": "je-ne-puis-choisir-que-murdoch",
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "TRUTH_VALUE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.9 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "<ph id='iris-murdoch'>Murdoch</ph> reprend à <ph id='freud'>Freud</ph> un constat qu'elle juge réaliste : la psyché est une mécanique égocentrique, occupée à se protéger et à se consoler. Le mal ordinaire consiste donc moins à vouloir le mal qu'à préférer au réel des <c id='fantasy'>fantasmes</c> flatteurs ou apitoyés. À ce fantasme, elle n'oppose pas la volonté mais la vérité : la vertu est une forme de réalisme, une manière de laisser exister ce qui ne dépend pas de soi. D'où la place centrale qu'elle donne à l'<c>humilité</c>, qu'elle définit comme un respect désintéressé pour la réalité. Dans ses romans comme dans ses essais, <dif>la consolation est le piège constant</dif>, en amour, en religion ou en art.",
+          "en": "<ph id='iris-murdoch'>Murdoch</ph> takes from <ph id='freud'>Freud</ph> what she considers a realistic finding: the psyche is an egocentric mechanism, busy protecting and consoling itself. Ordinary evil therefore lies less in willing evil than in preferring flattering or self-pitying <c id='fantasy'>fantasies</c> to what is real. Against fantasy she sets not the will but truth: virtue is a kind of realism, a way of allowing what does not depend on oneself to be what it is. Hence the central place she gives to <c>humility</c>, which she defines as a selfless respect for reality. In her novels as in her essays, <dif>consolation is the constant trap</dif>, in love, in religion or in art."
+        },
+        "references": [
+          { "fr": "La Souveraineté du bien, « Sur “Dieu” et “Bien” » (1969)", "en": "The Sovereignty of Good, \"On 'God' and 'Good'\" (1969)" },
+          { "fr": "« Against Dryness » (1961)", "en": "\"Against Dryness\" (1961)" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "SOVEREIGN_GOOD",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0, 0, 1] },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Pour <ph id='iris-murdoch'>Murdoch</ph>, le <c>Bien</c> n'a rien à voir avec un but : il n'est le moyen d'aucun bonheur, et l'homme bon n'en attend aucune récompense. Elle se sépare ainsi de l'utilitarisme, et sa démarche contraste avec l'<ax id='SOVEREIGN_GOOD' pole='EUDAIMONISM'>eudémonisme</ax> naturaliste que développera plus tard son amie <ph id='philippa-foot'>Foot</ph>. Le Bien est une <c>perfection</c> qu'on ne peut ni définir ni posséder, mais qui sert d'étalon : on reconnaît le mieux sans jamais toucher le parfait. Il est « souverain » parce que les autres concepts moraux, comme le courage ou la liberté, ne prennent leur sens qu'en lui. <dif>Il est à la fois indéfinissable et réel</dif>, et c'est ce qui le distingue d'un simple idéal.",
+          "en": "For <ph id='iris-murdoch'>Murdoch</ph>, the <c>Good</c> has nothing to do with a purpose: it is not a means to happiness, and the good person expects no reward from it. She thereby parts with utilitarianism, and her approach contrasts with the naturalistic <ax id='SOVEREIGN_GOOD' pole='EUDAIMONISM'>eudaimonism</ax> her friend <ph id='philippa-foot'>Foot</ph> would later develop. The Good is a <c>perfection</c> that can be neither defined nor possessed, yet serves as a standard: we recognize the better without ever reaching the perfect. It is \"sovereign\" because the other moral concepts, such as courage or freedom, take their meaning only from it. <dif>It is at once indefinable and real</dif>, which is what distinguishes it from a mere ideal."
+        },
+        "references": [
+          { "fr": "La Souveraineté du bien, « La souveraineté du bien sur les autres concepts » (1967)", "en": "The Sovereignty of Good, \"The Sovereignty of Good over Other Concepts\" (1967)" },
+          { "fr": "La Souveraineté du bien, « L'idée de perfection »", "en": "The Sovereignty of Good, \"The Idea of Perfection\"" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "TRANSCENDENCE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": 0.55 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "<ph id='iris-murdoch'>Murdoch</ph> ne croit pas en un Dieu personnel, et aucune providence ne garantit à ses yeux la valeur de nos vies. Elle refuse pourtant d'en conclure que la valeur vient de nous. Reprenant le <c>Bien</c> de <ph id='plato'>Platon</ph>, soleil qui fait voir sans être lui-même regardé en face, elle le pose comme un <c>centre magnétique</c> réel, extérieur au moi, qui attire l'attention hors de soi. Elle garde de la religion ce qui lui paraît vrai, l'<c id='attention'>attention</c> héritée de <ph id='simone-weil'>Simone Weil</ph> et la prière comprise comme contemplation, mais sans son objet. Ce Bien transcende le moi et ne dépend pas de nos choix, mais <dif>il n'est pas un arrière-monde</dif> : il se rencontre dans ce monde-ci, à travers les personnes, la nature et l'art. Il forme pourtant un ordre de valeur supérieur, qui nous juge et que nous ne fabriquons pas, d'où une valeur nette mais modérée. Elle défend ce platonisme démythologisé jusque dans ses Gifford Lectures, où elle propose de réinterpréter l'argument ontologique comme portant sur le Bien plutôt que sur Dieu.",
+          "en": "<ph id='iris-murdoch'>Murdoch</ph> does not believe in a personal God, and in her eyes no providence guarantees the value of our lives. Yet she refuses to conclude that value comes from us. Taking up <ph id='plato'>Plato</ph>'s <c>Good</c>, the sun that makes things visible without itself being looked at directly, she posits it as a real <c>magnetic centre</c>, outside the self, that draws attention away from oneself. She keeps from religion what she finds true, the <c id='attention'>attention</c> inherited from <ph id='simone-weil'>Simone Weil</ph> and prayer understood as contemplation, but without its object. This Good transcends the self and does not depend on our choices, yet <dif>it is not a world behind the world</dif>: it is met in this world, through persons, nature and art. It nonetheless forms a higher order of value, which judges us and which we do not make, hence a clear but moderate value. She defends this demythologized Platonism as far as her Gifford Lectures, where she proposes to reinterpret the ontological argument as bearing on the Good rather than on God."
+        },
+        "references": [
+          { "fr": "La Souveraineté du bien, « Sur “Dieu” et “Bien” »", "en": "The Sovereignty of Good, \"On 'God' and 'Good'\"" },
+          { "fr": "Metaphysics as a Guide to Morals, chapitre sur l'argument ontologique", "en": "Metaphysics as a Guide to Morals, chapter on the ontological proof" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "ART_PURPOSE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0, 1, 0] },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Pour <ph id='iris-murdoch'>Murdoch</ph>, le grand art peut être une école de vertu, parce qu'il exerce la même faculté que la morale : voir ce qui n'est pas soi. L'art médiocre console, il flatte le <c id='fantasy'>fantasme</c> ; le grand art, celui de <per>Shakespeare</per> ou de <ph id='tolstoy'>Tolstoï</ph>, montre des êtres et un monde qui résistent à nos désirs. C'est pourquoi elle donne tort à <ph id='plato'>Platon</ph>, dont elle reprend pourtant le platonisme sur d'autres points, quand il bannit les artistes : la <c>mimesis</c>, quand elle est juste, est une forme de vérité. L'effet moral n'a rien d'automatique : il dépend de l'attention du lecteur ou du spectateur. Elle se méfie au contraire de l'art mis au service d'une cause, qui plie le réel à un message et retombe ainsi dans le <c id='fantasy'>fantasme</c> : la valeur de l'art tient tout entière à la vérité de ce qu'il montre.",
+          "en": "For <ph id='iris-murdoch'>Murdoch</ph>, great art can be a school of virtue, because it exercises the same faculty as morality: seeing what is not oneself. Mediocre art consoles, it flatters <c id='fantasy'>fantasy</c>; great art, that of <per>Shakespeare</per> or <ph id='tolstoy'>Tolstoy</ph>, shows beings and a world that resist our wishes. That is why she thinks <ph id='plato'>Plato</ph>, whose Platonism she otherwise takes up, is wrong to banish the artists: <c>mimesis</c>, rightly practised, is a form of truth. Its moral effect is in no way automatic: it depends on the attention of the reader or viewer. She is wary, on the contrary, of art enlisted in a cause, which bends reality to a message and so falls back into <c id='fantasy'>fantasy</c>: the worth of art lies wholly in the truth of what it shows."
+        },
+        "references": [
+          { "fr": "« The Sublime and the Good » (1959)", "en": "\"The Sublime and the Good\" (1959)" },
+          { "fr": "The Fire and the Sun (1977)", "en": "The Fire and the Sun (1977)" }
+        ],
+        "quoteId": "l-art-et-la-morale-murdoch",
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "MORAL_SCOPE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [1, 0, 0] },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Contre l'<c>émotivisme</c> d'<ph id='ayer'>Ayer</ph> et le <c>prescriptivisme</c> de <ph id='hare'>Hare</ph>, qui séparent <pb>le fait de la valeur</pb>, <ph id='iris-murdoch'>Murdoch</ph> soutient que les concepts moraux sont des instruments de perception : il y a une vérité morale à voir, et le progrès moral consiste à la voir mieux. Ce <c>réalisme moral</c> ne suppose pas des règles uniformes : la vérité morale est souvent celle d'une situation ou d'une personne singulière. Son réalisme ne passe pas par la nature humaine, comme celui de <ph id='philippa-foot'>Foot</ph>, mais par Platon.",
+          "en": "Against the <c>emotivism</c> of <ph id='ayer'>Ayer</ph> and the <c>prescriptivism</c> of <ph id='hare'>Hare</ph>, which separate <pb>fact from value</pb>, <ph id='iris-murdoch'>Murdoch</ph> argues that moral concepts are instruments of perception: there is a moral truth to be seen, and moral progress consists in seeing it better. This <c>moral realism</c> does not imply uniform rules: moral truth is often the truth of a particular situation or person. Her realism runs not through human nature, as <ph id='philippa-foot'>Foot</ph>'s does, but through Plato."
+        },
+        "references": [
+          { "fr": "« Vision and Choice in Morality » (1956)", "en": "\"Vision and Choice in Morality\" (1956)" },
+          { "fr": "La Souveraineté du bien, « L'idée de perfection »", "en": "The Sovereignty of Good, \"The Idea of Perfection\"" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "HUMAN_VISION",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": 0.5 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Le <c>moi</c> est pour <ph id='iris-murdoch'>Murdoch</ph> un <kw>gros moi implacable</kw>, naturellement égocentrique, et elle crédite <ph id='freud'>Freud</ph> d'avoir donné de l'âme une description réaliste. Ce pessimisme reste modéré : l'<c id='attention'>attention</c> peut le corriger, lentement et sans jamais en venir à bout.",
+          "en": "For <ph id='iris-murdoch'>Murdoch</ph>, the <c>self</c> is a <kw>fat relentless ego</kw>, naturally egocentric, and she credits <ph id='freud'>Freud</ph> with giving a realistic description of the soul. This pessimism remains moderate: <c id='attention'>attention</c> can correct it, slowly and without ever overcoming it."
+        },
+        "references": [
+          { "fr": "La Souveraineté du bien, « Sur “Dieu” et “Bien” »", "en": "The Sovereignty of Good, \"On 'God' and 'Good'\"" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "ESSENCE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.4 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Après avoir lu <ph id='sartre'>Sartre</ph> avec sympathie, <ph id='iris-murdoch'>Murdoch</ph> s'en sépare : ce qu'elle lit chez lui comme une liberté vide, qui se choisit sans rien devant elle, méconnaît que nous avons une psyché aux traits constants et descriptibles, d'abord un égocentrisme tenace, qui précède nos choix et pèse sur eux. Elle refuse donc la thèse existentialiste selon laquelle l'homme n'est rien d'autre que ce qu'il se fait. Mais cette nature n'est pas chez elle porteuse de fins à accomplir au sens d'Aristote : elle est plutôt ce qu'il faut corriger, d'où une position modérée.",
+          "en": "Having read <ph id='sartre'>Sartre</ph> sympathetically, <ph id='iris-murdoch'>Murdoch</ph> parts ways with him: what she reads in him as an empty freedom, choosing itself with nothing before it, overlooks that we have a psyche with constant, describable traits, above all a stubborn egocentrism, which precedes our choices and weighs on them. She therefore rejects the existentialist thesis that the human being is nothing but what it makes of itself. Yet this nature does not, for her, carry ends to be fulfilled in Aristotle's sense: it is rather what has to be corrected, hence a moderate position."
+        },
+        "references": [
+          { "fr": "Sartre: Romantic Rationalist (1953)", "en": "Sartre: Romantic Rationalist (1953)" },
+          { "fr": "La Souveraineté du bien, « L'idée de perfection »", "en": "The Sovereignty of Good, \"The Idea of Perfection\"" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "MORAL_DEMAND",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": 0.4 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "L'idée de <c>perfection</c> fait de la morale une tâche sans fin : puisque la vie morale se joue dans le regard, elle est présente dans chaque moment ordinaire, et il n'y a pas de zone moralement neutre. <ph id='iris-murdoch'>Murdoch</ph> ne fixe aucun seuil au-delà duquel on aurait fait assez. Cette exigence porte toutefois sur la qualité du regard plus que sur des obligations matérielles chiffrables, et elle ne dit rien de l'étendue de l'aide due aux autres, d'où une valeur modérée.",
+          "en": "The idea of <c>perfection</c> makes morality an endless task: since the moral life takes place in how we look, it is present in every ordinary moment, and there is no morally neutral zone. <ph id='iris-murdoch'>Murdoch</ph> sets no threshold beyond which one would have done enough. The demand bears on the quality of our vision, however, more than on quantifiable material obligations, and she says nothing about how far we must help others, hence a moderate value."
+        },
+        "references": [
+          { "fr": "La Souveraineté du bien, « L'idée de perfection »", "en": "The Sovereignty of Good, \"The Idea of Perfection\"" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "ETHICS_FOUNDATION",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0, 0, 0.8, 0.2] },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "<ph id='iris-murdoch'>Murdoch</ph> met au centre le caractère, la vision et les vertus, au premier rang desquelles l'humilité et l'amour, et non des règles ou des calculs : elle est comptée parmi les précurseurs du renouveau de l'<c id='virtue-ethics'>éthique des vertus</c>. Sa morale de l'attention aimante portée à une personne singulière a aussi une parenté avec l'<c>éthique du care</c>, que des théoriciennes comme <ph id='sara-ruddick'>Sara Ruddick</ph> ont explicitement reprise, d'où une petite part de ce pôle : c'est une affinité de doctrine plus qu'une appartenance.",
+          "en": "<ph id='iris-murdoch'>Murdoch</ph> puts at the centre character, vision and the virtues, humility and love foremost among them, rather than rules or calculations: she is counted among the forerunners of the revival of <c id='virtue-ethics'>virtue ethics</c>. Her ethics of loving attention to a singular person also bears a kinship with <c>care ethics</c>, which theorists such as <ph id='sara-ruddick'>Sara Ruddick</ph> explicitly drew on, hence a small share of that pole: a doctrinal affinity rather than membership."
+        },
+        "references": [
+          { "fr": "La Souveraineté du bien (1970)", "en": "The Sovereignty of Good (1970)" },
+          { "fr": "Sara Ruddick, Maternal Thinking (1989), sur l'« amour attentif »", "en": "Sara Ruddick, Maternal Thinking (1989), on \"attentive love\"" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "LOVE_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0.3, 0.7, 0, 0] },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MAJOR",
+      "justification": {
+        "text": {
+          "fr": "Pour <ph id='iris-murdoch'>Murdoch</ph>, l'<c>amour</c> consiste à sortir de soi pour reconnaître la réalité d'un autre, sans rien lui demander, ce qui la rapproche de l'<c id='agape'>agapè</c>. Mais dans <w id='fire-and-the-sun-murdoch'>The Fire and the Sun</w>, elle reprend l'<c id='eros'>éros</c> du <w id='symposium-plato'>Banquet</w>, désir de ce qui nous manque, pour en faire, une fois purifié, l'énergie qui élève l'âme vers le Bien. <dif>Le désir n'est donc pas à abolir mais à réorienter</dif>, d'où une part réelle de ce pôle.",
+          "en": "For <ph id='iris-murdoch'>Murdoch</ph>, <c>love</c> means stepping outside oneself to recognize the reality of another, asking nothing of them, which brings her close to <c id='agape'>agape</c>. But in <w id='fire-and-the-sun-murdoch'>The Fire and the Sun</w> she takes up the <c id='eros'>eros</c> of the <w id='symposium-plato'>Symposium</w>, the desire for what we lack, and makes it, once purified, the energy that lifts the soul toward the Good. <dif>Desire is thus not to be abolished but redirected</dif>, hence a real share for that pole."
+        },
+        "references": [
+          { "fr": "« The Sublime and the Good » (1959)", "en": "\"The Sublime and the Good\" (1959)" },
+          { "fr": "The Fire and the Sun (1977)", "en": "The Fire and the Sun (1977)" }
+        ],
+        "quoteId": "l-amour-est-la-prise-murdoch",
+        "strength": "MEDIUM"
+      },
+      "note": {
+        "fr": "Ni le manque ni le don ne rendent seuls compte de l'amour murdochien, qui est d'abord une connaissance : voir l'autre tel qu'il est.",
+        "en": "Neither lack nor gift alone accounts for Murdochian love, which is first of all a form of knowledge: seeing the other as they are."
+      }
+    },
+    {
+      "axisId": "SELF_INTEREST",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": 0.7 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Le <c id='unselfing'>décentrement de soi</c> est pour <ph id='iris-murdoch'>Murdoch</ph> le mouvement même de la vertu. Ce n'est pas un sacrifice, mais un déplacement de l'attention hors du moi, vers ce qui existe sans lui. Il ne fixe pas à lui seul une priorité systématique d'autrui sur soi, mais il ôte à l'intérêt propre son rôle de critère, d'où une valeur nettement altruiste sans être extrême.",
+          "en": "For <ph id='iris-murdoch'>Murdoch</ph>, <c id='unselfing'>unselfing</c> is the very movement of virtue. It is not a sacrifice but a shift of attention away from the self, toward what exists without it. It does not by itself set a systematic priority of others over oneself, but it strips self-interest of its role as a criterion, hence a clearly altruistic value short of the extreme."
+        },
+        "references": [
+          { "fr": "La Souveraineté du bien, « La souveraineté du bien sur les autres concepts »", "en": "The Sovereignty of Good, \"The Sovereignty of Good over Other Concepts\"" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "GOD_EXISTENCE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": 0.6 },
+      "epistemicStatus": "EXPLICIT",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "<ph id='iris-murdoch'>Murdoch</ph> déclare ne pas croire en un Dieu personnel, tout en se disant proche du christianisme et du <mv id='buddhism'>bouddhisme</mv> par leurs pratiques. Elle ne réduit pas la religion à une illusion : elle en garde le langage de la prière et de la grâce, et transfère au Bien une partie de ce que la théologie disait de Dieu. Elle nie donc un Dieu personnel sans nier toute réalité qui nous dépasse, d'où une valeur modérée.",
+          "en": "<ph id='iris-murdoch'>Murdoch</ph> says she does not believe in a personal God, while describing herself as close to Christianity and <mv id='buddhism'>Buddhism</mv> through their practices. She does not reduce religion to an illusion: she keeps its language of prayer and grace, and transfers to the Good part of what theology said of God. She thus denies a personal God without denying every reality that surpasses us, hence a moderate value."
+        },
+        "references": [
+          { "fr": "La Souveraineté du bien, « Sur “Dieu” et “Bien” »", "en": "The Sovereignty of Good, \"On 'God' and 'Good'\"" },
+          { "fr": "Metaphysics as a Guide to Morals (1992)", "en": "Metaphysics as a Guide to Morals (1992)" }
+        ],
+        "strength": "STRONG"
+      }
+    },
+    {
+      "axisId": "AFTERLIFE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0, 0, 1] },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Nous sommes, écrit <ph id='iris-murdoch'>Murdoch</ph>, des créatures mortelles et passagères, soumises à la nécessité et au hasard ; elle n'envisage pas de survie personnelle. Accepter la mort est même pour elle une école du <c id='unselfing'>décentrement de soi</c>.",
+          "en": "We are, <ph id='iris-murdoch'>Murdoch</ph> writes, transient mortal creatures subject to necessity and chance; she does not envisage personal survival. Accepting death is even, for her, a school of <c id='unselfing'>unselfing</c>."
+        },
+        "references": [
+          { "fr": "La Souveraineté du bien, « La souveraineté du bien sur les autres concepts »", "en": "The Sovereignty of Good, \"The Sovereignty of Good over Other Concepts\"" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "ATTENTION",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.6 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "L'<c id='attention'>attention</c> est pour <ph id='iris-murdoch'>Murdoch</ph> une discipline, opposée à la rêverie complaisante où le moi se console. Elle ne condamne pas le divertissement en tant que tel, mais la pente qui détourne le regard de ce qui est, d'où une valeur nette sans être extrême.",
+          "en": "For <ph id='iris-murdoch'>Murdoch</ph>, <c id='attention'>attention</c> is a discipline, opposed to the complacent daydreaming in which the self consoles itself. She does not condemn diversion as such, but the drift that turns our gaze away from what is, hence a clear but not extreme value."
+        },
+        "references": [
+          { "fr": "La Souveraineté du bien (1970)", "en": "The Sovereignty of Good (1970)" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "BEAUTY",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.6 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "L'exemple de la <ex>crécerelle</ex> : alors que je rumine une blessure d'amour-propre, la vue d'un oiseau qui plane me fait soudain oublier ce moi. Pour <ph id='iris-murdoch'>Murdoch</ph>, la beauté de la nature est l'occasion la plus évidente du <c id='unselfing'>décentrement de soi</c>. Elle reprend surtout à <ph id='plato'>Platon</ph> l'idée que la beauté est la face visible du Bien, et tient l'excellence du grand art pour une qualité qu'on découvre et qu'on ne décrète pas : la beauté n'est pas pour elle une projection du goût.",
+          "en": "The <ex>kestrel</ex> example: while I brood over a wound to my vanity, the sight of a hovering bird suddenly makes me forget that self. For <ph id='iris-murdoch'>Murdoch</ph>, the beauty of nature is the most obvious occasion for <c id='unselfing'>unselfing</c>. Above all she takes from <ph id='plato'>Plato</ph> the idea that beauty is the visible face of the Good, and holds the excellence of great art to be a quality we discover rather than decree: beauty is not, for her, a projection of taste."
+        },
+        "references": [
+          { "fr": "La Souveraineté du bien, « La souveraineté du bien sur les autres concepts »", "en": "The Sovereignty of Good, \"The Sovereignty of Good over Other Concepts\"" },
+          { "fr": "The Fire and the Sun (1977)", "en": "The Fire and the Sun (1977)" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "ART_NATURE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": -0.5 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Dans « Against Dryness », <ph id='iris-murdoch'>Murdoch</ph> défend le réalisme des grands romanciers du XIXᵉ siècle, qui créent des personnages libres et opaques, contre le roman « sec » réduit à un symbole et contre l'art comme expression de soi. L'invention n'a de valeur que si elle rend le réel plus visible.",
+          "en": "In \"Against Dryness\", <ph id='iris-murdoch'>Murdoch</ph> defends the realism of the great nineteenth-century novelists, who create free and opaque characters, against the \"dry\" novel reduced to a symbol and against art as self-expression. Invention is worth something only if it makes reality more visible."
+        },
+        "references": [
+          { "fr": "« Against Dryness » (1961)", "en": "\"Against Dryness\" (1961)" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "AESTHETIC_LIFE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": 0.4 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "La souveraineté du Bien s'étend sur le beau : pour <ph id='iris-murdoch'>Murdoch</ph>, la beauté est une voie vers le Bien, non une fin, et l'esthétisme qui fait de sa vie une œuvre est une forme raffinée du <c id='fantasy'>fantasme</c>. Elle accorde pourtant à l'art une dignité morale très haute, d'où une valeur modérée.",
+          "en": "The sovereignty of the Good extends over the beautiful: for <ph id='iris-murdoch'>Murdoch</ph>, beauty is a path to the Good, not an end, and the aestheticism that makes one's life a work of art is a refined form of <c id='fantasy'>fantasy</c>. She nonetheless grants art a very high moral dignity, hence a moderate value."
+        },
+        "references": [
+          { "fr": "La Souveraineté du bien, « La souveraineté du bien sur les autres concepts »", "en": "The Sovereignty of Good, \"The Sovereignty of Good over Other Concepts\"" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "RULE_SPIRIT",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": 0.5 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Pour <ph id='iris-murdoch'>Murdoch</ph>, les concepts moraux ont une profondeur qui s'approfondit avec l'expérience : ce que veut dire « courage » ou « justice » change à mesure qu'on apprend à voir. Appliquer une règle demande donc un regard sur la situation singulière que la règle ne fournit pas. Elle maintient pourtant, dans <w id='metaphysics-guide-morals-murdoch'>Metaphysics as a Guide to Morals</w>, des <kw>axiomes</kw> politiques, comme les droits de la personne, qu'il ne faut pas soumettre à la vision de chacun, d'où une valeur modérée.",
+          "en": "For <ph id='iris-murdoch'>Murdoch</ph>, moral concepts have a depth that grows with experience: what \"courage\" or \"justice\" means changes as we learn to see. Applying a rule therefore calls for a look at the particular situation that the rule itself does not supply. Yet in <w id='metaphysics-guide-morals-murdoch'>Metaphysics as a Guide to Morals</w> she keeps political <kw>axioms</kw>, such as the rights of the person, which must not be subjected to each individual's vision, hence a moderate value."
+        },
+        "references": [
+          { "fr": "La Souveraineté du bien, « L'idée de perfection »", "en": "The Sovereignty of Good, \"The Idea of Perfection\"" },
+          { "fr": "Metaphysics as a Guide to Morals, « Morals and Politics »", "en": "Metaphysics as a Guide to Morals, \"Morals and Politics\"" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "METAPHILOSOPHY",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "weights", "weights": [0.4, 0, 0.6, 0] },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Une philosophie morale doit selon <ph id='iris-murdoch'>Murdoch</ph> proposer une image de l'homme qu'on puisse habiter, et qui aide à devenir meilleur : elle juge les théories à ce qu'elles font de ceux qui les adoptent. Ce souci pratique s'accompagne d'une contemplation d'inspiration platonicienne.",
+          "en": "A moral philosophy, for <ph id='iris-murdoch'>Murdoch</ph>, should offer a picture of the human being that one can inhabit and that helps one become better: she judges theories by what they make of those who adopt them. This practical concern goes with a contemplation of Platonic inspiration."
+        },
+        "references": [
+          { "fr": "La Souveraineté du bien, « Sur “Dieu” et “Bien” »", "en": "The Sovereignty of Good, \"On 'God' and 'Good'\"" }
+        ],
+        "strength": "MEDIUM"
+      }
+    },
+    {
+      "axisId": "SCIENCE_PLACE",
+      "status": "POSITIONED",
+      "declaredValue": { "kind": "scalar", "value": 0.6 },
+      "epistemicStatus": "INFERABLE",
+      "salience": "MINOR",
+      "justification": {
+        "text": {
+          "fr": "Contre une idée de la vérité calquée sur la science, que <ph id='iris-murdoch'>Murdoch</ph> juge responsable de l'appauvrissement de la philosophie morale, elle soutient que la vérité morale passe aussi par la littérature, particulièrement apte à rendre sensible l'opacité des personnes.",
+          "en": "Against an idea of truth modelled on science, which <ph id='iris-murdoch'>Murdoch</ph> holds responsible for the impoverishment of moral philosophy, she argues that moral truth also runs through literature, which is especially apt to make the opacity of persons perceptible."
+        },
+        "references": [
+          { "fr": "« Against Dryness » (1961)", "en": "\"Against Dryness\" (1961)" }
+        ],
+        "strength": "MEDIUM"
+      }
+    }
+  ],
+  "structuring": [
+    {
+      "axisId": "INTERIORITY",
+      "thesis": {
+        "fr": "La vie morale ne se réduit pas aux décisions que l'on prend : elle se joue surtout, en continu, dans la <c>vision morale</c>, la manière dont on regarde les autres, car on ne choisit jamais que dans le monde qu'on a appris à voir.",
+        "en": "The moral life cannot be reduced to the decisions we make: it is played out above all, continuously, in <c>moral vision</c>, the way we look at others, for we only ever choose within the world we have learned to see."
+      }
+    },
+    {
+      "axisId": "TRUTH_VALUE",
+      "thesis": {
+        "fr": "Le premier obstacle au bien n'est pas la mauvaise volonté mais le <c id='fantasy'>fantasme</c> : le moi fabrique sans cesse des images consolantes qui lui cachent le réel.",
+        "en": "The first obstacle to the good is not ill will but <c id='fantasy'>fantasy</c>: the self ceaselessly manufactures consoling images that hide reality from it."
+      }
+    },
+    {
+      "axisId": "SOVEREIGN_GOOD",
+      "thesis": {
+        "fr": "Le <c>Bien</c> ne sert à rien et ne promet rien, ni bonheur ni récompense : on l'aime pour lui-même, comme une perfection qu'on n'atteint jamais.",
+        "en": "The <c>Good</c> serves no purpose and promises nothing, neither happiness nor reward: we love it for itself, as a perfection we never reach."
+      }
+    },
+    {
+      "axisId": "TRANSCENDENCE",
+      "thesis": {
+        "fr": "Il n'y a pas de Dieu personnel pour garantir la valeur, mais le <c>Bien</c> reste réel et nous dépasse : l'<c id='attention'>attention</c> prend la place laissée vide par la prière.",
+        "en": "There is no personal God to guarantee value, but the <c>Good</c> remains real and surpasses us: <c id='attention'>attention</c> takes the place left empty by prayer."
+      }
+    },
+    {
+      "axisId": "ART_PURPOSE",
+      "thesis": {
+        "fr": "Le grand art peut être une école de vertu, parce qu'il apprend à voir, sans nous y ramener, que quelque chose d'autre que nous existe.",
+        "en": "Great art can be a school of virtue, because it teaches us to see, without bringing it back to ourselves, that something other than us exists."
+      }
+    }
+  ],
+  "updatedAt": "2026-11-05T00:00:00.000Z",
+  "validation": { "method": "NOT_VALIDATED" }
+}

@@ -51,7 +51,7 @@ We should let go of assignment itself: no one is the ultimate author of what the
 
 ## Related axes
 
-[Freedom of the will](../axes/freedom.md) · [The meaning of punishment](../axes/punishment.md) · [Criterion of right action](../axes/ethics-foundation.md) · [Forgiveness](../axes/forgiveness.md) · [Distributive justice](../axes/distributive-justice.md) · [Nature and culture](../axes/human-nature.md)
+[Freedom of the will](../axes/freedom.md) · [The meaning of punishment](../axes/punishment.md) · [Criterion of right action](../axes/ethics-foundation.md) · [Forgiveness](../axes/forgiveness.md) · [Distributive justice](../axes/distributive-justice.md) · [Nature and culture](../axes/human-nature.md) · [Individual and society](../axes/individual-society.md)
 
 ---
 

@@ -42,6 +42,7 @@ Since no meaning is given and nothing truly replaces it, the torment comes from 
 - **Must it last?** : If everything ends, through death and then the erasure of every trace, is what we do in vain, or can something have full meaning without lasting forever?
 - **What if nothing meant anything?** : When the frameworks that gave meaning fall away, God, History, progress, does any meaning remain possible, or does the vertigo open in which nothing is worth anything?
 - **Will any meaning do?** : Can a life be full of meaning if it is devoted to something trivial, or even bad, or does meaning require that the thing be objectively worth it?
+- **The worth of existence** : If we weigh what a life holds of pain and joy, of unfulfilled desires and boredom, does the balance tip toward existence, or would it have been better never to have been born? But can life even be compared with a nothingness in which no one would lack anything, and does the verdict tell us about life, or about the one who pronounces it?
 - **Meaning without God?** : Does the meaning of existence presuppose a divine order that surpasses us, or can it hold entirely without God, on wholly human grounds?
 - **Happiness or meaning** : Is a successful life necessarily happy, or can it be worthwhile through its meaning while being hard, demanding, at times unhappy?
 
@@ -72,7 +73,7 @@ Since no meaning is given and nothing truly replaces it, the torment comes from 
 
 ## Related axes
 
-[Tonality of reality](../axes/cosmic-outlook.md) · [Death](../axes/death.md) · [Interiority](../axes/interiority.md) · [The highest good](../axes/sovereign-good.md) · [Temporal orientation](../axes/time-orientation.md) · [Meaning of work](../axes/work-meaning.md) · [Existence of God](../axes/god-existence.md) · [The point of philosophy](../axes/metaphilosophy.md) · [Beauty in life](../axes/aesthetic-life.md) · [The source of morality](../axes/moral-source.md)
+[Tonality of reality](../axes/cosmic-outlook.md) · [Death](../axes/death.md) · [Interiority](../axes/interiority.md) · [The highest good](../axes/sovereign-good.md) · [Temporal orientation](../axes/time-orientation.md) · [Meaning of work](../axes/work-meaning.md) · [Existence of God](../axes/god-existence.md) · [The point of philosophy](../axes/metaphilosophy.md) · [Beauty in life](../axes/aesthetic-life.md) · [The source of morality](../axes/moral-source.md) · [The meaning of suffering](../axes/suffering-meaning.md)
 
 ---
 

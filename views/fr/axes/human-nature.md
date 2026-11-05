@@ -14,7 +14,7 @@ Si nos conduites tiennent à notre nature, elles changent difficilement et certa
 
 L'être humain est d'abord un être naturel : ses comportements, ses désirs et même ses institutions s'enracinent dans une histoire biologique et des pulsions communes à l'espèce. La culture ne fait que moduler un fond naturel qui la précède.
 
-*Darwin · [Freud](../philosophers/freud.md)*
+*[Darwin](../philosophers/darwin.md) · [Freud](../philosophers/freud.md)*
 
 ### Culturalisme
 

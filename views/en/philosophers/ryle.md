@@ -8,6 +8,10 @@ British philosopher at Oxford: in The Concept of Mind (1949), he denounced the C
 
 > Stub profile: only this mini-card exists so far; the sourced axis positions remain to be authored. Contributions welcome.
 
+## Influence on
+
+- **[Murdoch](../philosophers/iris-murdoch.md)** (reacts against) : Against the critique of inner life inherited from [Ryle](../philosophers/ryle.md), for whom mind reduces to dispositions to act, [Murdoch](../philosophers/iris-murdoch.md) defends the reality of an inner moral activity that shows in no conduct.
+
 ---
 
 *Generated from the JSON corpus in `data/`. Do not edit by hand; see [CONTRIBUTING](../../../CONTRIBUTING.md).*

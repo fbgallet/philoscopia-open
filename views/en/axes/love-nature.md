@@ -50,6 +50,8 @@ The heart of love is neither a lack to fill nor a one-way gift: it is the recipr
 
 > “The friend is another self.” — [Aristotle](../philosophers/aristotle.md), Nicomachean Ethics, IX, 4
 
+> “Love is the extremely difficult realisation that something other than oneself is real.” — [Murdoch](../philosophers/iris-murdoch.md), "The Sublime and the Good", Chicago Review, vol. 13, no. 3 (1959), p. 51
+
 > “Charity is a kind of friendship between man and God.” — [Thomas Aquinas](../philosophers/aquinas.md), Summa Theologiae, IIa-IIae, q. 23, a. 1
 
 > “Because it was he, because it was I.” — [Michel de Montaigne](../philosophers/montaigne.md), Essays, I, 28 ("On friendship")

@@ -87,6 +87,437 @@
   "relatedAxes": [
     "CONSERVATISM_PROGRESSISM",
     "TECHNOLOGY",
-    "METAPHILOSOPHY"
+    "METAPHILOSOPHY",
+    "INDIVIDUAL_SOCIETY",
+    "PROBLEM_OF_EVIL"
+  ],
+  "problems": [
+    {
+      "id": "surpassing-the-ancients",
+      "resolution": "LATENT",
+      "object": "STRUCTURE",
+      "objectLabel": {
+        "fr": "les savoirs et les arts",
+        "en": "learning and the arts"
+      },
+      "mode": "DESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        {
+          "fr": "querelle des Anciens et des Modernes",
+          "en": "Quarrel of the Ancients and the Moderns"
+        },
+        {
+          "fr": "nains sur des épaules de géants",
+          "en": "dwarfs on the shoulders of giants"
+        },
+        {
+          "fr": "progrès cumulatif",
+          "en": "cumulative progress"
+        }
+      ],
+      "poles": [
+        "DIRECTIONAL_HISTORY",
+        "CONTINGENCY"
+      ],
+      "anchors": [
+        {
+          "name": {
+            "fr": "Perrault",
+            "en": "Perrault"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "perrault"
+        },
+        {
+          "name": {
+            "fr": "Boileau",
+            "en": "Boileau"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "boileau"
+        },
+        {
+          "name": {
+            "fr": "Fontenelle",
+            "en": "Fontenelle"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "fontenelle"
+        },
+        {
+          "name": {
+            "fr": "Pascal",
+            "en": "Pascal"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "pascal"
+        },
+        {
+          "name": {
+            "fr": "Bacon",
+            "en": "Bacon"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "bacon"
+        },
+        {
+          "name": {
+            "fr": "La Bruyère",
+            "en": "La Bruyère"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "la-bruyere"
+        },
+        {
+          "name": {
+            "fr": "Condorcet",
+            "en": "Condorcet"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "condorcet"
+        }
+      ],
+      "title": {
+        "fr": "Dépasser les Anciens",
+        "en": "Surpassing the Ancients"
+      },
+      "explicitation": {
+        "fr": "Nous voyons plus loin que les Anciens, puisque nous héritons de tout ce qu'ils ont découvert : en astronomie ou en physique, le progrès semble aller de soi. Mais un poète moderne écrit-il mieux qu'Homère ? Si les sciences avancent et que les arts ne font que changer, l'histoire progresse-t-elle, ou seulement certains de ses fils ?",
+        "en": "We see further than the Ancients, since we inherit everything they discovered: in astronomy or physics, progress seems self-evident. But does a modern poet write better than Homer? If the sciences advance while the arts merely change, does history progress, or only some of its threads?"
+      }
+    },
+    {
+      "id": "moral-progress",
+      "resolution": "LATENT",
+      "object": "STRUCTURE",
+      "objectLabel": {
+        "fr": "les mœurs",
+        "en": "morals and manners"
+      },
+      "mode": "DESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        {
+          "fr": "signe d'un progrès",
+          "en": "sign of progress"
+        },
+        {
+          "fr": "dialectique de la raison",
+          "en": "dialectic of enlightenment"
+        },
+        {
+          "fr": "rechute dans la barbarie",
+          "en": "relapse into barbarism"
+        }
+      ],
+      "poles": [
+        "DIRECTIONAL_HISTORY",
+        "CONTINGENCY"
+      ],
+      "anchors": [
+        {
+          "name": {
+            "fr": "Kant",
+            "en": "Kant"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "kant"
+        },
+        {
+          "name": {
+            "fr": "Condorcet",
+            "en": "Condorcet"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "condorcet"
+        },
+        {
+          "name": {
+            "fr": "Rousseau",
+            "en": "Rousseau"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "rousseau"
+        },
+        {
+          "name": {
+            "fr": "Adorno",
+            "en": "Adorno"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "adorno"
+        }
+      ],
+      "title": {
+        "fr": "Le progrès moral",
+        "en": "Moral progress"
+      },
+      "explicitation": {
+        "fr": "L'esclavage aboli, la torture condamnée, le cercle de ceux qu'on respecte élargi : l'humanité devient-elle meilleure ? Mais le siècle qui a proclamé partout les droits de l'homme a aussi construit des camps d'extermination avec les moyens les plus modernes. Le progrès des mœurs est-il réel, ou si fragile qu'il peut s'effondrer en une génération ?",
+        "en": "Slavery abolished, torture condemned, the circle of those we respect widened: is humanity becoming better? Yet the century that proclaimed human rights everywhere also built death camps with the most modern means. Is moral progress real, or so fragile that it can collapse within a generation?"
+      }
+    },
+    {
+      "id": "foreseeing-history",
+      "resolution": "LATENT",
+      "object": "STRUCTURE",
+      "objectLabel": {
+        "fr": "le cours des sociétés",
+        "en": "the course of societies"
+      },
+      "mode": "DESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        {
+          "fr": "historicisme",
+          "en": "historicism"
+        },
+        {
+          "fr": "lois de l'histoire",
+          "en": "laws of history"
+        },
+        {
+          "fr": "matérialisme historique",
+          "en": "historical materialism"
+        }
+      ],
+      "poles": [
+        "DIRECTIONAL_HISTORY",
+        "CONTINGENCY"
+      ],
+      "anchors": [
+        {
+          "name": {
+            "fr": "Marx",
+            "en": "Marx"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "marx"
+        },
+        {
+          "name": {
+            "fr": "Comte",
+            "en": "Comte"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "comte"
+        },
+        {
+          "name": {
+            "fr": "Popper",
+            "en": "Popper"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "popper"
+        }
+      ],
+      "title": {
+        "fr": "Prévoir l'histoire",
+        "en": "Foreseeing history"
+      },
+      "explicitation": {
+        "fr": "Si l'histoire obéit à des lois, on devrait pouvoir la prédire, comme l'astronome annonce une éclipse. Mais le cours des choses dépend de ce que les hommes sauront demain, et ce qu'on saura demain, on ne peut le savoir aujourd'hui. Une science de l'histoire est-elle possible, ou ne comprend-on jamais qu'après coup ?",
+        "en": "If history obeys laws, we should be able to predict it, the way an astronomer announces an eclipse. But the course of events depends on what people will know tomorrow, and what we will know tomorrow cannot be known today. Is a science of history possible, or do we only ever understand after the fact?"
+      }
+    },
+    {
+      "id": "small-causes",
+      "resolution": "LATENT",
+      "object": "RELATION",
+      "objectLabel": {
+        "fr": "l'événement",
+        "en": "the event"
+      },
+      "mode": "DESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        {
+          "fr": "le nez de Cléopâtre",
+          "en": "Cleopatra's nose"
+        },
+        {
+          "fr": "ruse de la raison",
+          "en": "cunning of reason"
+        },
+        {
+          "fr": "grands hommes",
+          "en": "great men"
+        }
+      ],
+      "poles": [
+        "DIRECTIONAL_HISTORY",
+        "CONTINGENCY"
+      ],
+      "anchors": [
+        {
+          "name": {
+            "fr": "Pascal",
+            "en": "Pascal"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "pascal"
+        },
+        {
+          "name": {
+            "fr": "Hegel",
+            "en": "Hegel"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "hegel"
+        },
+        {
+          "name": {
+            "fr": "Tolstoï",
+            "en": "Tolstoy"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "tolstoy"
+        }
+      ],
+      "doorways": [
+        {
+          "axis": "INDIVIDUAL_SOCIETY"
+        }
+      ],
+      "title": {
+        "fr": "Les petites causes",
+        "en": "Small causes"
+      },
+      "explicitation": {
+        "fr": "Un rhume, un retard, une balle qui manque sa cible : l'histoire bascule-t-elle sur des détails, ou ces accidents ne font-ils que hâter ce que des forces profondes auraient amené de toute façon ? Et les grands hommes font-ils l'histoire, ou n'en sont-ils que les instruments ?",
+        "en": "A cold, a delay, a bullet that misses: does history turn on details, or do such accidents only hasten what deeper forces would have brought about anyway? And do great men make history, or are they merely its instruments?"
+      }
+    },
+    {
+      "id": "the-price-of-progress",
+      "resolution": "LATENT",
+      "object": "STRUCTURE",
+      "objectLabel": {
+        "fr": "le passé et ses victimes",
+        "en": "the past and its victims"
+      },
+      "mode": "DESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        {
+          "fr": "théodicée de l'histoire",
+          "en": "theodicy of history"
+        },
+        {
+          "fr": "l'abattoir de l'histoire",
+          "en": "the slaughter-bench of history"
+        },
+        {
+          "fr": "l'histoire des vaincus",
+          "en": "history of the defeated"
+        }
+      ],
+      "poles": [
+        "DIRECTIONAL_HISTORY"
+      ],
+      "anchors": [
+        {
+          "name": {
+            "fr": "Hegel",
+            "en": "Hegel"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "hegel"
+        },
+        {
+          "name": {
+            "fr": "Dostoïevski",
+            "en": "Dostoevsky"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "dostoevsky"
+        }
+      ],
+      "doorways": [
+        {
+          "axis": "PROBLEM_OF_EVIL"
+        }
+      ],
+      "title": {
+        "fr": "Le prix du progrès",
+        "en": "The price of progress"
+      },
+      "explicitation": {
+        "fr": "Si l'histoire va vers le mieux, les guerres et les souffrances passées deviennent des étapes nécessaires, presque justifiées par ce qu'elles ont rendu possible. Peut-on tenir ce discours devant les vaincus ? Penser une direction de l'histoire, est-ce comprendre le passé, ou le réconcilier à bon compte avec ce qu'il a broyé ?",
+        "en": "If history moves toward the better, past wars and suffering become necessary stages, almost justified by what they made possible. Could one say as much to the defeated? Is seeing a direction in history a way of understanding the past, or of cheaply reconciling it with everything it crushed?"
+      }
+    },
+    {
+      "id": "cycles-or-an-end",
+      "resolution": "LATENT",
+      "object": "STRUCTURE",
+      "objectLabel": {
+        "fr": "la forme du temps historique",
+        "en": "the shape of historical time"
+      },
+      "mode": "DESCRIPTIVE",
+      "relation": "SUBPROBLEM",
+      "keywords": [
+        {
+          "fr": "cycle des régimes",
+          "en": "cycle of regimes"
+        },
+        {
+          "fr": "fin de l'histoire",
+          "en": "end of history"
+        },
+        {
+          "fr": "éternel retour",
+          "en": "eternal return"
+        }
+      ],
+      "poles": [
+        "DIRECTIONAL_HISTORY",
+        "CONTINGENCY"
+      ],
+      "anchors": [
+        {
+          "name": {
+            "fr": "Augustin",
+            "en": "Augustine"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "augustine"
+        },
+        {
+          "name": {
+            "fr": "Hegel",
+            "en": "Hegel"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "hegel"
+        },
+        {
+          "name": {
+            "fr": "Nietzsche",
+            "en": "Nietzsche"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "nietzsche"
+        },
+        {
+          "name": {
+            "fr": "Fukuyama",
+            "en": "Fukuyama"
+          },
+          "kind": "PHILOSOPHER",
+          "slug": "fukuyama"
+        }
+      ],
+      "title": {
+        "fr": "Des cycles, ou une fin ?",
+        "en": "Cycles, or an end?"
+      },
+      "explicitation": {
+        "fr": "Les Grecs voyaient souvent les régimes naître, se corrompre et revenir : un ordre nécessaire, mais sans progrès. La pensée chrétienne, puis moderne, a tendu l'histoire vers un terme. Si l'histoire a une direction, a-t-elle aussi une fin, un moment où plus rien d'essentiel ne resterait à conquérir ? Et qu'y aurait-il encore à faire ?",
+        "en": "The Greeks often saw regimes rise, decay and return: a necessary order, but without progress. Christian and then modern thought stretched history toward an end point. If history has a direction, does it also have an end, a moment when nothing essential is left to win? And what would there still be to do?"
+      }
+    }
   ]
 }

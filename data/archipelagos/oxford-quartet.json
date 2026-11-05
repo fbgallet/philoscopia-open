@@ -1,0 +1,42 @@
+{
+  "id": "oxford-quartet",
+  "name": {
+    "fr": "Quatuor d'Oxford",
+    "en": "Oxford Quartet"
+  },
+  "span": "CONTEMPORARY",
+  "tagline": {
+    "fr": "Quatre étudiantes de l'Oxford des années de guerre, qui refusent de séparer les faits des valeurs et ramènent la morale à la vie humaine réelle.",
+    "en": "Four students of wartime Oxford who refuse to separate facts from values and bring morality back to real human life."
+  },
+  "summary": {
+    "fr": "<ph id='anscombe'>Elizabeth Anscombe</ph>, <ph id='philippa-foot'>Philippa Foot</ph>, <ph id='iris-murdoch'>Iris Murdoch</ph> et <ph id='mary-midgley'>Mary Midgley</ph> se rencontrent à Oxford autour de 1940, quand la mobilisation des hommes leur laisse une place inhabituelle dans les cours et les débats. Elles affrontent la même orthodoxie, celle d'<ph id='ayer'>Ayer</ph> puis de <per>Hare</per>, pour qui les jugements moraux expriment des attitudes et non des connaissances. Chacune lui oppose une voie propre : l'intention et la psychologie morale chez Anscombe, la nature humaine et les vertus chez Foot, l'attention au réel chez Murdoch, l'animalité de l'homme chez Midgley.",
+    "en": "<ph id='anscombe'>Elizabeth Anscombe</ph>, <ph id='philippa-foot'>Philippa Foot</ph>, <ph id='iris-murdoch'>Iris Murdoch</ph> and <ph id='mary-midgley'>Mary Midgley</ph> meet in Oxford around 1940, when the call-up of men leaves them an unusual place in lectures and debates. They face the same orthodoxy, that of <ph id='ayer'>Ayer</ph> and then <per>Hare</per>, for whom moral judgements express attitudes rather than knowledge. Each opposes it in her own way: intention and moral psychology for Anscombe, human nature and the virtues for Foot, attention to reality for Murdoch, the animality of humans for Midgley."
+  },
+  "members": [
+    {
+      "kind": "PHILOSOPHER",
+      "slug": "anscombe"
+    },
+    {
+      "kind": "PHILOSOPHER",
+      "slug": "philippa-foot"
+    },
+    {
+      "kind": "PHILOSOPHER",
+      "slug": "iris-murdoch"
+    },
+    {
+      "kind": "PHILOSOPHER",
+      "slug": "mary-midgley"
+    }
+  ],
+  "coinedBy": {
+    "note": {
+      "fr": "Rapprochement récent, popularisé par deux livres : <i>The Women Are Up to Something</i> de <per>Benjamin Lipscomb</per> (2021) et <i>Metaphysical Animals</i> de <per>Clare Mac Cumhaill</per> et <per>Rachael Wiseman</per> (2022).",
+      "en": "A recent rapprochement, popularized by two books: <i>The Women Are Up to Something</i> by <per>Benjamin Lipscomb</per> (2021) and <i>Metaphysical Animals</i> by <per>Clare Mac Cumhaill</per> and <per>Rachael Wiseman</per> (2022)."
+    },
+    "year": 2021
+  },
+  "updatedAt": "2026-11-05T00:00:00.000Z"
+}

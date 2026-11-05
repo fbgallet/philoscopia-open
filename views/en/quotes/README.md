@@ -301,6 +301,12 @@
 - “Actions are right in proportion as they tend to promote happiness, wrong as they tend to produce the reverse of happiness.” — Utilitarianism, ch. 2
 - “To silence the expression of an opinion is to rob the human race; those who dissent from it still more than those who hold it.” — On Liberty, ch. 2
 
+### [Murdoch](../philosophers/iris-murdoch.md)
+
+- “I can only choose within the world I can see, in the moral sense of 'see' which implies that clear vision is a result of moral imagination and moral effort.” — The Sovereignty of Good, "The Idea of Perfection"
+- “Love is the extremely difficult realisation that something other than oneself is real.” — "The Sublime and the Good", Chicago Review, vol. 13, no. 3 (1959), p. 51
+- “Art and morals are, with certain provisos which I shall mention in a moment, one. Their essence is the same. The essence of both of them is love.” — "The Sublime and the Good" (1959), reprinted in Existentialists and Mystics (1997), p. 215
+
 ### [Nāgārjuna](../philosophers/nagarjuna.md)
 
 - “There is no difference at all between saṃsāra and nirvāṇa; there is no difference at all between nirvāṇa and saṃsāra.” — Mūlamadhyamakakārikā, XXV, 19

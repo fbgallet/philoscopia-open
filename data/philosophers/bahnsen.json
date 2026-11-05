@@ -1,0 +1,25 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "bahnsen",
+  "stub": true,
+  "name": {
+    "fr": "Bahnsen",
+    "en": "Bahnsen"
+  },
+  "summary": {
+    "fr": "Philosophe allemand, élève dissident de <ph id='schopenhauer'>Schopenhauer</ph> : sa dialectique tragique voit la volonté déchirée en elle-même par des contradictions que rien ne résout, ni la raison ni l'histoire. Il fonda aussi une caractérologie.",
+    "en": "German philosopher, a dissident pupil of <ph id='schopenhauer'>Schopenhauer</ph>: his tragic dialectic sees the will torn within itself by contradictions that nothing resolves, neither reason nor history. He also founded a characterology."
+  },
+  "birth": 1830,
+  "death": 1881,
+  "nationality": {
+    "fr": "Allemand",
+    "en": "German"
+  },
+  "language": "deu",
+  "movements": [],
+  "updatedAt": "2026-11-05T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

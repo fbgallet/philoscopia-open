@@ -32,7 +32,7 @@ The whole is more than the sum of its parts: organization gives rise to new prop
 
 ## Related axes
 
-[Explaining nature](../axes/causality.md) · [Can a machine think](../axes/machine-mind.md) · [Nature of reality](../axes/reality-nature.md) · [Existence of God](../axes/god-existence.md) · [The enigma of consciousness](../axes/consciousness-nature.md)
+[Explaining nature](../axes/causality.md) · [Can a machine think](../axes/machine-mind.md) · [Nature of reality](../axes/reality-nature.md) · [Existence of God](../axes/god-existence.md) · [The enigma of consciousness](../axes/consciousness-nature.md) · [Individual and society](../axes/individual-society.md)
 
 ---
 

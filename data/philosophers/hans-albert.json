@@ -1,0 +1,25 @@
+{
+  "kind": "PHILOSOPHER",
+  "stub": true,
+  "id": "hans-albert",
+  "name": {
+    "fr": "Hans Albert",
+    "en": "Hans Albert"
+  },
+  "summary": {
+    "fr": "Philosophe et sociologue allemand, principal défenseur en Allemagne du rationalisme critique de <ph id='popper'>Popper</ph>. Il soutient que toute tentative de fonder ultimement une connaissance aboutit à un trilemme : régression à l'infini, cercle ou arrêt arbitraire.",
+    "en": "A German philosopher and sociologist, the leading defender in Germany of <ph id='popper'>Popper</ph>'s critical rationalism. He argues that every attempt to give knowledge an ultimate foundation ends in a trilemma: infinite regress, circularity or arbitrary halt."
+  },
+  "nationality": {
+    "fr": "Allemand",
+    "en": "German"
+  },
+  "birth": 1921,
+  "death": 2023,
+  "language": "deu",
+  "movements": [],
+  "updatedAt": "2026-11-05T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

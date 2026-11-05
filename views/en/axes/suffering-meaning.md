@@ -52,7 +52,7 @@ Suffering is neither a trial that ennobles or redeems, nor a sheer evil to be ab
 
 ## Related axes
 
-[The problem of evil](../axes/problem-of-evil.md) · [Tonality of reality](../axes/cosmic-outlook.md) · [Hope](../axes/hope.md) · [Enhancing human nature](../axes/human-enhancement.md)
+[The problem of evil](../axes/problem-of-evil.md) · [Tonality of reality](../axes/cosmic-outlook.md) · [Hope](../axes/hope.md) · [Enhancing human nature](../axes/human-enhancement.md) · [The meaning of life](../axes/life-meaning.md)
 
 ---
 

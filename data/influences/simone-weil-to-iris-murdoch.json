@@ -1,0 +1,16 @@
+{
+  "id": "simone-weil-to-iris-murdoch",
+  "from": { "kind": "PHILOSOPHER", "slug": "simone-weil" },
+  "to": { "kind": "PHILOSOPHER", "slug": "iris-murdoch" },
+  "directness": "ATTESTED",
+  "mode": "CONTINUES",
+  "strength": "STRONG",
+  "note": {
+    "fr": "<ph id='iris-murdoch'>Murdoch</ph> dit emprunter à <ph id='simone-weil'>Simone Weil</ph> le mot <c id='attention'>attention</c> pour désigner le regard juste et aimant posé sur une réalité individuelle ; elle en garde le sens moral en le détachant de la prière.",
+    "en": "<ph id='iris-murdoch'>Murdoch</ph> says she borrows the word <c id='attention'>attention</c> from <ph id='simone-weil'>Simone Weil</ph> to name a just and loving gaze directed on an individual reality; she keeps its moral sense while detaching it from prayer."
+  },
+  "sources": [
+    { "fr": "Murdoch, La Souveraineté du bien, « L'idée de perfection »", "en": "Murdoch, The Sovereignty of Good, \"The Idea of Perfection\"" }
+  ],
+  "updatedAt": "2026-11-05T00:00:00.000Z"
+}

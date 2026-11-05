@@ -1,0 +1,29 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "fontenelle",
+  "stub": true,
+  "name": {
+    "fr": "Fontenelle",
+    "en": "Fontenelle"
+  },
+  "fullName": {
+    "fr": "Bernard Le Bovier de Fontenelle",
+    "en": "Bernard Le Bovier de Fontenelle"
+  },
+  "summary": {
+    "fr": "Écrivain et vulgarisateur des sciences, il défendit les Modernes au nom d'un progrès cumulatif des connaissances, tout en doutant d'un progrès semblable des arts.",
+    "en": "Writer and popularizer of science who sided with the Moderns in the name of a cumulative progress of knowledge, while doubting that the arts progress in the same way."
+  },
+  "birth": 1657,
+  "death": 1757,
+  "nationality": {
+    "fr": "Français",
+    "en": "French"
+  },
+  "language": "fra",
+  "movements": [],
+  "updatedAt": "2026-11-05T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

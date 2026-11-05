@@ -518,6 +518,101 @@
               "type": "string",
               "pattern": "^[a-z0-9][a-z0-9-]*$"
             }
+          },
+          "episodes": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "id": {
+                  "type": "string",
+                  "pattern": "^[a-z0-9][a-z0-9-]*$"
+                },
+                "name": {
+                  "type": "object",
+                  "properties": {
+                    "fr": {
+                      "type": "string",
+                      "minLength": 1
+                    },
+                    "en": {
+                      "type": "string",
+                      "minLength": 1
+                    }
+                  },
+                  "required": [
+                    "fr",
+                    "en"
+                  ],
+                  "additionalProperties": false
+                },
+                "from": {
+                  "type": "integer",
+                  "minimum": -9007199254740991,
+                  "maximum": 9007199254740991
+                },
+                "to": {
+                  "type": "integer",
+                  "minimum": -9007199254740991,
+                  "maximum": 9007199254740991
+                },
+                "approx": {
+                  "type": "boolean",
+                  "const": true
+                },
+                "participants": {
+                  "minItems": 2,
+                  "type": "array",
+                  "items": {
+                    "type": "object",
+                    "properties": {
+                      "kind": {
+                        "type": "string",
+                        "enum": [
+                          "PHILOSOPHER",
+                          "MOVEMENT"
+                        ]
+                      },
+                      "slug": {
+                        "type": "string",
+                        "pattern": "^[a-z0-9][a-z0-9-]*$"
+                      }
+                    },
+                    "required": [
+                      "kind",
+                      "slug"
+                    ],
+                    "additionalProperties": false
+                  }
+                },
+                "note": {
+                  "type": "object",
+                  "properties": {
+                    "fr": {
+                      "type": "string",
+                      "minLength": 1
+                    },
+                    "en": {
+                      "type": "string",
+                      "minLength": 1
+                    }
+                  },
+                  "required": [
+                    "fr",
+                    "en"
+                  ],
+                  "additionalProperties": false
+                }
+              },
+              "required": [
+                "id",
+                "name",
+                "from",
+                "participants",
+                "note"
+              ],
+              "additionalProperties": false
+            }
           }
         },
         "required": [

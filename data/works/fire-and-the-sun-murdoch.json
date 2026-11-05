@@ -1,0 +1,12 @@
+{
+  "id": "fire-and-the-sun-murdoch",
+  "title": { "fr": "The Fire and the Sun", "en": "The Fire and the Sun" },
+  "originalTitle": "The Fire and the Sun: Why Plato Banished the Artists",
+  "author": { "slug": "iris-murdoch", "name": { "fr": "Iris Murdoch", "en": "Iris Murdoch" } },
+  "year": 1977,
+  "presentation": {
+    "fr": "Tiré de sa Romanes Lecture de 1976, l'essai examine pourquoi <ph id='plato'>Platon</ph> bannit les artistes de la cité. <ph id='iris-murdoch'>Murdoch</ph>, platonicienne et romancière, lui donne raison contre l'art qui console et tort contre le grand art, qu'elle tient pour une voie vers la vérité.",
+    "en": "Drawn from her 1976 Romanes Lecture, the essay asks why <ph id='plato'>Plato</ph> banished the artists from the city. <ph id='iris-murdoch'>Murdoch</ph>, a Platonist and a novelist, agrees with him about art that consoles and disagrees about great art, which she holds to be a path to truth."
+  },
+  "updatedAt": "2026-11-05T00:00:00.000Z"
+}

@@ -28,6 +28,13 @@ La vie ne se laisse réduire ni à la mécanique ni à un plan préétabli : ell
 
 *[Bergson](../philosophers/bergson.md)*
 
+## Problèmes vifs
+
+- **Le pouvoir des causes** : Quand le feu touche le coton, le coton brûle. Mais voit-on jamais le feu agir, ou seulement le coton brûler après le contact ? Les choses ont-elles, par leur nature, le pouvoir de produire leurs effets, ou l'ordre régulier du monde est-il soutenu à chaque instant par une autre puissance, qui pourrait aussi bien le suspendre ?
+- **Des fins dans la nature ?** : L'œil semble fait pour voir, l'aile pour voler : cette adaptation montre-t-elle que la nature agit en vue de fins, ou l'apparence de dessein naît-elle de causes aveugles qui ont trié ce qui survivait ? Et si la sélection explique tout, parler de « fonction » reste-t-il légitime, ou seulement commode ?
+- **Machine ou organisme** : Une montre ne se répare pas, ne se reproduit pas, ne fabrique pas ses propres rouages ; le vivant, lui, le fait. Faut-il en conclure qu'il échappe à l'explication mécanique, ou seulement qu'il est une machine d'une complexité que nous n'avons pas fini de démonter ?
+- **Tout a-t-il une cause ?** : Rien n'arrive sans raison, dit-on, et une intelligence qui connaîtrait tout l'état présent du monde en prédirait tout l'avenir. Est-ce une vérité sur la nature, une exigence de notre esprit qui cherche, ou une hypothèse que la physique a démentie en trouvant du hasard au cœur de la matière ?
+
 ## Relations de fondation
 
 - *[Explication de la nature](../axes/causality.md) : Finalisme* fonde *[Améliorer la nature humaine](../axes/human-enhancement.md) : Bioconservatisme* : Si la nature est ordonnée par des fins et que chaque organisme tend vers sa forme accomplie, vouloir refaire techniquement l'humain revient à violer un ordre porteur de sens. Le finalisme soutient le bioconservatisme : chez [Jonas](../philosophers/jonas.md), la finitude et la vulnérabilité ne sont pas des défauts à corriger, mais des conditions d'une vie proprement humaine.

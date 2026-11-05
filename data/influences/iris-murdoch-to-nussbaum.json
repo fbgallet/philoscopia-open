@@ -1,0 +1,16 @@
+{
+  "id": "iris-murdoch-to-nussbaum",
+  "from": { "kind": "PHILOSOPHER", "slug": "iris-murdoch" },
+  "to": { "kind": "PHILOSOPHER", "slug": "nussbaum" },
+  "directness": "ATTESTED",
+  "mode": "CONTINUES",
+  "strength": "MEDIUM",
+  "note": {
+    "fr": "<ph id='nussbaum'>Nussbaum</ph> prolonge l'idée de <ph id='iris-murdoch'>Murdoch</ph> selon laquelle la vie morale est d'abord une perception fine des situations particulières, et que le roman est un lieu privilégié de la connaissance morale.",
+    "en": "<ph id='nussbaum'>Nussbaum</ph> extends <ph id='iris-murdoch'>Murdoch</ph>'s idea that the moral life is first a fine perception of particular situations, and that the novel is a privileged place of moral knowledge."
+  },
+  "sources": [
+    { "fr": "Nussbaum, La Connaissance de l'amour (1990)", "en": "Nussbaum, Love's Knowledge (1990)" }
+  ],
+  "updatedAt": "2026-11-05T00:00:00.000Z"
+}

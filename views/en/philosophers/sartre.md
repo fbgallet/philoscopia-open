@@ -354,6 +354,7 @@ Since consciousness is what it is not and is not what it is, the standing tempta
 
 - **[Beauvoir](../philosophers/beauvoir.md)** (reinterprets) : In constant dialogue with [Sartre](../philosophers/sartre.md), [Beauvoir](../philosophers/beauvoir.md) transforms the categories of freedom and situation into an ethics of ambiguity and an analysis of gendered oppression, where existentialism had stayed abstract.
 - **[Frantz Fanon](../philosophers/fanon.md)** (reinterprets) : [Fanon](../philosophers/fanon.md) takes from [Sartre](../philosophers/sartre.md), who will preface The Wretched of the Earth, freedom-in-situation and the role of the other's gaze, in order to think colonial alienation and liberating violence; yet he reproaches him, as early as "Black Orpheus", for dissolving black experience into an abstract dialectic.
+- **[Murdoch](../philosophers/iris-murdoch.md)** (reacts against) : An early and sympathetic reader of [Sartre](../philosophers/sartre.md), [Murdoch](../philosophers/iris-murdoch.md) defines herself against his freedom as the sovereign choice of a lone self: for her the moral life turns on seeing a reality that does not depend on us.
 
 ---
 

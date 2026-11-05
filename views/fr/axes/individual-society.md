@@ -20,7 +20,15 @@ La société n'est rien d'autre que les individus qui la composent et leurs inte
 
 Le tout social est plus que la somme de ses parties : il possède ses propres lois et exerce sur les individus une influence qui les dépasse. Nos manières de penser, de sentir et d'agir sont d'abord façonnées par la société qui nous précède.
 
-*Durkheim · [Hegel](../philosophers/hegel.md)*
+*[Durkheim](../philosophers/durkheim.md) · [Hegel](../philosophers/hegel.md)*
+
+## Problèmes vifs
+
+- **Le moi sans attaches** : Pour définir des règles justes, on peut faire abstraction de ce qui distingue chacun (sa religion, sa famille, sa culture) et chercher ce qu'accepteraient des personnes libres de toute attache. Mais une personne sans attaches existe-t-elle ? Si ce sont nos communautés qui nous donnent nos fins et notre langage moral, une justice qui prétend s'en passer parle-t-elle encore à quelqu'un ?
+- **Expliquer un fait social** : Chacun de ceux qui mettent fin à leurs jours a ses raisons, intimes et singulières. Pourtant, le taux de suicide d'un pays varie peu d'une année à l'autre, et il change avec la religion, la conjoncture ou la situation familiale. D'où vient cette régularité, si tout n'est que décisions individuelles ? Et si elle vient du tout, que deviennent les raisons de chacun ?
+- **Ce que personne n'a voulu** : Une langue, un marché, un embouteillage : des ordres ou des désordres que personne n'a conçus naissent de la rencontre de mille décisions. Est-ce la preuve qu'on peut tout expliquer par les individus, puisque le tout n'est que l'effet de leurs actes ? Ou la preuve que le tout a sa propre logique, qui échappe à chacun ?
+- **Une faute sans coupable ?** : Quand une catastrophe naît de mille décisions anodines, ou du fonctionnement d'une institution entière, qui en répond ? Une entreprise, un État, un peuple peuvent-ils être coupables, ou seuls les individus répondent-ils de leurs actes, au risque de ne trouver personne ?
+- **Protéger une culture contre ses membres ?** : Une communauté peut vouloir sauver sa langue en obligeant les familles à scolariser leurs enfants dans cette langue. Est-ce opprimer des individus au nom d'un tout ? Ou est-ce reconnaître que les individus n'existent qu'à travers une culture qui, sans protection, disparaîtrait ?
 
 ## Relations de fondation
 
@@ -43,7 +51,7 @@ Le tout social est plus que la somme de ses parties : il possède ses propres lo
 
 ## Axes liés
 
-[Identité sociale](../axes/social-identity.md) · [Liberté politique](../axes/political-liberty.md) · [Intérêt propre et autrui](../axes/self-interest.md) · [Origine du lien social](../axes/social-contract.md)
+[Identité sociale](../axes/social-identity.md) · [Liberté politique](../axes/political-liberty.md) · [Intérêt propre et autrui](../axes/self-interest.md) · [Origine du lien social](../axes/social-contract.md) · [Sens de l'histoire](../axes/history-meaning.md) · [Justice distributive](../axes/distributive-justice.md) · [Nature du moi](../axes/self-nature.md) · [Tout et parties](../axes/reduction-emergence.md) · [La responsabilité morale](../axes/moral-responsibility.md) · [Appartenance](../axes/belonging.md)
 
 ---
 

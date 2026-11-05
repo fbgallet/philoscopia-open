@@ -1,0 +1,29 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "poulain-de-la-barre",
+  "stub": true,
+  "name": {
+    "fr": "Poulain de la Barre",
+    "en": "Poulain de la Barre"
+  },
+  "fullName": {
+    "fr": "François Poulain de la Barre",
+    "en": "François Poulain de la Barre"
+  },
+  "summary": {
+    "fr": "Philosophe cartésien, il appliqua le doute méthodique au préjugé de l'infériorité des femmes et conclut, dans <w>De l'égalité des deux sexes</w>, que l'esprit n'a point de sexe.",
+    "en": "Cartesian philosopher who turned methodical doubt on the prejudice of women's inferiority and concluded, in <w>On the Equality of the Two Sexes</w>, that the mind has no sex."
+  },
+  "birth": 1647,
+  "death": 1723,
+  "nationality": {
+    "fr": "Français",
+    "en": "French"
+  },
+  "language": "fra",
+  "movements": [],
+  "updatedAt": "2026-11-05T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

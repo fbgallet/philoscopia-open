@@ -1,0 +1,25 @@
+{
+  "kind": "PHILOSOPHER",
+  "stub": true,
+  "id": "mendelssohn",
+  "name": {
+    "fr": "Moses Mendelssohn",
+    "en": "Moses Mendelssohn"
+  },
+  "summary": {
+    "fr": "Philosophe des Lumières berlinoises, ami de <ph id='lessing'>Lessing</ph>, défenseur d'une religion de la raison et de la tolérance, figure fondatrice de la <i>Haskala</i>, les Lumières juives.",
+    "en": "A philosopher of the Berlin Enlightenment, friend of <ph id='lessing'>Lessing</ph>, defender of a religion of reason and of toleration, a founding figure of the <i>Haskalah</i>, the Jewish Enlightenment."
+  },
+  "nationality": {
+    "fr": "Allemand",
+    "en": "German"
+  },
+  "birth": 1729,
+  "death": 1786,
+  "language": "deu",
+  "movements": [],
+  "updatedAt": "2026-11-05T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

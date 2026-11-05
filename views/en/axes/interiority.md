@@ -39,6 +39,8 @@ It is through action, commitment, and accomplishment that we discover and shape 
 
 > “When someone argued that there is no such thing as motion, he got up and walked about.” — [Diogenes of Sinope](../philosophers/diogenes.md), Diogenes Laertius, Lives, VI, 39
 
+> “I can only choose within the world I can see, in the moral sense of 'see' which implies that clear vision is a result of moral imagination and moral effort.” — [Murdoch](../philosophers/iris-murdoch.md), The Sovereignty of Good, "The Idea of Perfection"
+
 > “I am myself the matter of my book.” — [Michel de Montaigne](../philosophers/montaigne.md), Essays, "To the Reader"
 
 > “Man is nothing other than the series of his acts, he is nothing other than his life.” — [Sartre](../philosophers/sartre.md), Existentialism Is a Humanism

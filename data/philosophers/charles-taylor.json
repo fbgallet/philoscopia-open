@@ -1,0 +1,24 @@
+{
+  "kind": "PHILOSOPHER",
+  "id": "charles-taylor",
+  "stub": true,
+  "name": {
+    "fr": "Charles Taylor",
+    "en": "Charles Taylor"
+  },
+  "summary": {
+    "fr": "Philosophe canadien, il montre que l'identité moderne se forme dans des sources morales et des communautés qu'on ne choisit pas, et défend une politique de la reconnaissance.",
+    "en": "Canadian philosopher who shows that modern identity takes shape within moral sources and communities we do not choose, and who defends a politics of recognition."
+  },
+  "birth": 1931,
+  "nationality": {
+    "fr": "Canadien",
+    "en": "Canadian"
+  },
+  "language": "eng",
+  "movements": [],
+  "updatedAt": "2026-11-05T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}

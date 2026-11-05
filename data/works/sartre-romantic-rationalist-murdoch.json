@@ -1,0 +1,11 @@
+{
+  "id": "sartre-romantic-rationalist-murdoch",
+  "title": { "fr": "Sartre: Romantic Rationalist", "en": "Sartre: Romantic Rationalist" },
+  "author": { "slug": "iris-murdoch", "name": { "fr": "Iris Murdoch", "en": "Iris Murdoch" } },
+  "year": 1953,
+  "presentation": {
+    "fr": "Premier livre consacré à <ph id='sartre'>Sartre</ph> en anglais. <ph id='iris-murdoch'>Murdoch</ph> y lit ses romans autant que sa philosophie, avec une sympathie critique : elle reproche déjà à la liberté sartrienne de laisser le moi seul face à un monde vidé de valeur.",
+    "en": "The first book on <ph id='sartre'>Sartre</ph> in English. <ph id='iris-murdoch'>Murdoch</ph> reads his novels as much as his philosophy, with critical sympathy: she already charges Sartrean freedom with leaving the self alone in a world emptied of value."
+  },
+  "updatedAt": "2026-11-05T00:00:00.000Z"
+}

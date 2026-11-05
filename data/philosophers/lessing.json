@@ -1,0 +1,37 @@
+{
+  "kind": "PHILOSOPHER",
+  "stub": true,
+  "id": "lessing",
+  "name": {
+    "fr": "Lessing",
+    "en": "Lessing"
+  },
+  "fullName": {
+    "fr": "Gotthold Ephraim Lessing",
+    "en": "Gotthold Ephraim Lessing"
+  },
+  "aliases": {
+    "fr": [
+      "Gotthold Ephraim Lessing"
+    ],
+    "en": [
+      "Gotthold Ephraim Lessing"
+    ]
+  },
+  "summary": {
+    "fr": "Dramaturge et critique, auteur de <i>Nathan le Sage</i>, il voit dans les religions révélées les étapes d'une éducation du genre humain vers la raison.",
+    "en": "A dramatist and critic, author of <i>Nathan the Wise</i>, he sees the revealed religions as stages in an education of the human race towards reason."
+  },
+  "nationality": {
+    "fr": "Allemand",
+    "en": "German"
+  },
+  "birth": 1729,
+  "death": 1781,
+  "language": "deu",
+  "movements": [],
+  "updatedAt": "2026-11-05T00:00:00.000Z",
+  "validation": {
+    "method": "NOT_VALIDATED"
+  }
+}
